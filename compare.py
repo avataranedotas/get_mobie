@@ -136,7 +136,7 @@ for x in datalatest:
     for j in dataprevious:
         if ( id1 == dataprevious[m]["id"] ):
             #print ("Encontrado no previous, comparando:",id1)
-            findDiffE(datalatest[x],dataprevious[m])
+            findDiffE(datalatest[n],dataprevious[m])
         m=m+1
     n=n+1
     
