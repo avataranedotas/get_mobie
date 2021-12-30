@@ -106,11 +106,22 @@ def findDiff(d1, d2, path=""):
                 print("\n".join(result))
         else:
             print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
+            
+def findDiffE(d1, d2, path=""):
+    for k in d1:
+        if k in d2:
+            if type(d1[k]) is dict:
+                findDiffE(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
+            if (d1[k] != d2[k]) and (d1[k].find("updated") == -1):
+                result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
+                print("\n".join(result))
+        else:
+            print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
 
 #encontrar ponto com o mesmo id
 
 
-for x in range(3):
+for x in range(5):
     m=0
     #obter id latest
     id1=datalatest[x]["id"]
@@ -118,7 +129,7 @@ for x in range(3):
     for j in dataprevious:
         if ( id1 == dataprevious[m]["id"] ):
             print ("Encontrado no previous, comparando:",id1)
-            findDiff(datalatest[x],dataprevious[m])
+            findDiffE(datalatest[x],dataprevious[m])
         m=m+1
 
 #teste
