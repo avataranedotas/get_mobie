@@ -27,16 +27,22 @@ with open('./PREVIOUS.json') as json_file2:
 latestlist=list()    
 previouslist=list()
 
-#n=0
+n=0
 for i in datalatest:
     latestlist.append(i["id"])
-    #n=n+1
-   
-print (latestlist[0])
-print (latestlist[1])
+    n=n+1
+latestcount=n
+print ("Pontos actuais: ",latestcount,"\n")    
+#print (latestlist[0])
+#print (latestlist[1])
 
+n=0
 for i in dataprevious:
     previouslist.append(i["id"])
-   
-print (previouslist[0])
-print (previouslist[1])
+    n=n+1
+previouscount=n
+print ("Pontos actuais: ",previouscount,"\n")
+#print (previouslist[0])
+#print (previouslist[1])
+
+
