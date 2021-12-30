@@ -243,7 +243,8 @@ for x in datalatest:
     n=n+1
 
 
-fich.close()
+if escreverfich == 1:
+    fich.close()
 
     
 #teste finddiffs misto
