@@ -108,4 +108,24 @@ for x in range(10):
         if ( id1 == dataprevious[m]["id"] ):
             print ("Encontrado no previous:",id1)
         m=m+1
-        
+
+#teste
+
+d1= {'a':{'b':{'cs':10},'d':{'cs':20}}}
+d2= {'a':{'b':{'cs':30} ,'d':{'cs':20}},'newa':{'q':{'cs':50}}}
+
+def findDiff(d1, d2, path=""):
+    for k in d1:
+        if k in d2:
+            if type(d1[k]) is dict:
+                findDiff(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
+            if d1[k] != d2[k]:
+                result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
+                print("\n".join(result))
+        else:
+            print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
+
+print("comparing d1 to d2:")
+findDiff(d1,d2)
+print("comparing d2 to d1:")
+findDiff(d2,d1)
