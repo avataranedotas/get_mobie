@@ -150,6 +150,12 @@ def findDiffB(ident, d1, d2, path=""):
                     findDiffB(ident,d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
                     if (reportar == 1) and (k != "last_updated") and (k != "evses") and (k != "connectors") and (k != "status"):                    
                         print (ident)
+                        if (escreverfich == 0):
+                            fich = open("changes.txt", "a") 
+                            fich.write("\n")
+                            fich.write(date_time)
+                            fich.write("\n")
+                            escreverfich=1
                         fich.write(ident)
                         fich.write("\n")
                         result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
@@ -198,13 +204,14 @@ def findDiffB(ident, d1, d2, path=""):
             #result = [" %s / %s " %(d1,d2)]
             #print("\n".join(result))  
 
-
-fich = open("changes.txt", "a") 
-fich.write("\n")
-fich.write(date_time)
-fich.write("\n")    
-    
+escreverfich=0
+            
+  
 if (adicionados or removidos):
+    fich = open("changes.txt", "a") 
+    fich.write("\n")
+    fich.write(date_time)
+    fich.write("\n")    
     print ("Houve alterações")
     fich.write("Adicionados:")
     fich.write(str(adicionados))
@@ -212,6 +219,7 @@ if (adicionados or removidos):
     fich.write("Removidos:")
     fich.write(str(removidos))
     fich.write("\n")
+    escreverfich=1
 
 #else:
     #print ("Sem alterações")
