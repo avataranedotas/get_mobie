@@ -72,21 +72,7 @@ print ("Adicionados:",adicionados)
 removidos=Diff1(latestlist,previouslist)
 print ("Removidos:",removidos)
 
-if (adicionados or removidos):
-    print ("Houve alterações")
-    fich = open("changes.txt", "a")
-    fich.write("\n")
-    fich.write(date_time)
-    fich.write("\n")
-    fich.write("Adicionados:")
-    fich.write(str(adicionados))
-    fich.write("\n")    
-    fich.write("Removidos:")
-    fich.write(str(removidos))
-    fich.write("\n")
-    fich.close()
-else:
-    print ("Sem alterações")
+
    
 #check number of stations
 #if (latestcount != previouscount):
@@ -122,7 +108,7 @@ def findDiffE(d1, d2, path=""):
 #encontrar ponto com o mesmo id
 
 
-for x in range(5):
+for x in datalatest:
     m=0
     #obter id latest
     id1=datalatest[x]["id"]
@@ -132,3 +118,19 @@ for x in range(5):
             #print ("Encontrado no previous, comparando:",id1)
             findDiffE(datalatest[x],dataprevious[m])
         m=m+1
+
+if (adicionados or removidos):
+    print ("Houve alterações")
+    fich = open("changes.txt", "a")
+    fich.write("\n")
+    fich.write(date_time)
+    fich.write("\n")
+    fich.write("Adicionados:")
+    fich.write(str(adicionados))
+    fich.write("\n")    
+    fich.write("Removidos:")
+    fich.write(str(removidos))
+    fich.write("\n")
+    fich.close()
+else:
+    print ("Sem alterações")
