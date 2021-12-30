@@ -43,3 +43,7 @@ Removidos:['ABF-00001']
 2021-12-30 17:16:07
 Adicionados:['ABF-00005', 'ABF-00006']
 Removidos:['ABF-00001']
+
+2021-12-30 17:17:39
+Adicionados:['ABF-00005', 'ABF-00006']
+Removidos:['ABF-00001']
