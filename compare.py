@@ -5,6 +5,8 @@ import json
 import sys
 import collections
 
+from datetime import datetime
+
 # Opening JSON file
 with open('./LATEST.json') as json_file:
     datalatest = json.load(json_file)
@@ -57,6 +59,10 @@ def Diff2(li1, li2):
     li_dif = [i for i in li1 + li2 if i not in li2]
     return li_dif
 
+#get current time
+now = datetime.now()
+date_time = now.strftime("%Y-%m-%d %H:%M:%S")
+print("date and time:",date_time)
 
 #added stations
 adicionados=Diff2(latestlist,previouslist)
@@ -68,8 +74,9 @@ print ("Removidos:",removidos)
 
 if (adicionados or removidos):
     print ("Houve alterações")
-    fich = open("changes.txt", "w")
-    #fich.write("\n")
+    fich = open("changes.txt", "a")
+    fich.write(date_time)
+    fich.write("\n")
     fich.write("Adicionados:")
     fich.write(str(adicionados))
     fich.write("\n")    
@@ -79,9 +86,7 @@ if (adicionados or removidos):
     fich.close()
 else:
     print ("Sem alterações")
-
-    
-    
+   
 #check number of stations
 #if (latestcount != previouscount):
 #    print ("Encontradas diferenças")
