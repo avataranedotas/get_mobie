@@ -5,7 +5,7 @@ import json
 import sys
 
 # Opening JSON file
-with open('./LATEST.json') as json_file:
+with open('./teste.json') as json_file:
     data = json.load(json_file)
  
     # for reading nested data [0] represents
