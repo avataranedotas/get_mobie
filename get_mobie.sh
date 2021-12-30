@@ -6,8 +6,8 @@ echo Hoje  : $AGORA
 
 #renomear lastest para previous
 rm PREVIOUS.json
-mv LASTEST.json PREVIOUS.json
+mv LATEST.json PREVIOUS.json
 
 #ir buscar o ficheiro
-wget -O LASTEST.json "https://ocpi.mobinteli.com/2.2/locations"
+wget -O LATEST.json "https://ocpi.mobinteli.com/2.2/locations"
 
