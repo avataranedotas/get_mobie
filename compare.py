@@ -23,8 +23,8 @@ with open('./LATEST.json') as json_file:
 #teste        
 #print(datalatest[0]["id"])
 
-#with open('./PREVIOUS.json') as json_file2:
-with open('./teste.json',encoding="utf-8-sig") as json_file2:
+with open('./PREVIOUS.json') as json_file2:
+#with open('./teste.json',encoding="utf-8-sig") as json_file2:
     #json_file2.encoding='utf-8-sig'
     dataprevious = json.load(json_file2)
 
@@ -129,18 +129,6 @@ for x in range(5):
     #procurar o mesmo id no previous
     for j in dataprevious:
         if ( id1 == dataprevious[m]["id"] ):
-            print ("Encontrado no previous, comparando:",id1)
+            #print ("Encontrado no previous, comparando:",id1)
             findDiffE(datalatest[x],dataprevious[m])
         m=m+1
-
-#teste
-
-#d1= {'a':{'b':{'cs':10},'d':{'cs':20}}}
-#d2= {'a':{'b':{'cs':30} ,'d':{'cs':20}},'newa':{'q':{'cs':50}}}
-
-
-
-#print("comparing latest to previous:")
-
-#print("comparing d2 to d1:")
-#findDiff(d2,d1)
