@@ -200,11 +200,12 @@ def findDiffB(ident, d1, d2, path=""):
 
 
 fich = open("changes.txt", "a") 
+fich.write("\n")
+fich.write(date_time)
+fich.write("\n")    
+    
 if (adicionados or removidos):
     print ("Houve alterações")
-    fich.write("\n")
-    fich.write(date_time)
-    fich.write("\n")
     fich.write("Adicionados:")
     fich.write(str(adicionados))
     fich.write("\n")    
