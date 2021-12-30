@@ -96,24 +96,6 @@ else:
 
 #comparação ponto a ponto
 
-#encontrar ponto com o mesmo id
-
-
-for x in range(10):
-    m=0
-    #obter id latest
-    id1=datalatest[x]["id"]
-    #procurar o mesmo id no previous
-    for j in dataprevious:
-        if ( id1 == dataprevious[m]["id"] ):
-            print ("Encontrado no previous:",id1)
-        m=m+1
-
-#teste
-
-d1= {'a':{'b':{'cs':10},'d':{'cs':20}}}
-d2= {'a':{'b':{'cs':30} ,'d':{'cs':20}},'newa':{'q':{'cs':50}}}
-
 def findDiff(d1, d2, path=""):
     for k in d1:
         if k in d2:
@@ -125,7 +107,28 @@ def findDiff(d1, d2, path=""):
         else:
             print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
 
-print("comparing latest to previous:")
-findDiff(datalatest[0],dataprevious[0])
+#encontrar ponto com o mesmo id
+
+
+for x in range(3):
+    m=0
+    #obter id latest
+    id1=datalatest[x]["id"]
+    #procurar o mesmo id no previous
+    for j in dataprevious:
+        if ( id1 == dataprevious[m]["id"] ):
+            print ("Encontrado no previous, comparando:",id1)
+            findDiff(datalatest[x],dataprevious[m])
+        m=m+1
+
+#teste
+
+#d1= {'a':{'b':{'cs':10},'d':{'cs':20}}}
+#d2= {'a':{'b':{'cs':30} ,'d':{'cs':20}},'newa':{'q':{'cs':50}}}
+
+
+
+#print("comparing latest to previous:")
+
 #print("comparing d2 to d1:")
 #findDiff(d2,d1)
