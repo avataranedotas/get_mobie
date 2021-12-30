@@ -75,6 +75,7 @@ print ("Removidos:",removidos)
 if (adicionados or removidos):
     print ("Houve alterações")
     fich = open("changes.txt", "a")
+    fich.write("\n")
     fich.write(date_time)
     fich.write("\n")
     fich.write("Adicionados:")
