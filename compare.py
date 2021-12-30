@@ -3,6 +3,7 @@
 
 import json
 import sys
+import collections
 
 # Opening JSON file
 with open('./LATEST.json') as json_file:
@@ -13,10 +14,18 @@ with open('./LATEST.json') as json_file:
     
     # for printing the key-value pair of
     # nested dictionary for loop can be used
-    print("\nLista completa de id's\n")
-    for i in datalatest:
-        print(i["id"])
+    #print("\nLista completa de id's\n")
+    #for i in datalatest:
+    #    print(i["id"])
 
 #teste        
-print(datalatest[0]["id"])
+#print(datalatest[0]["id"])
 
+with open('./PREVIOUS.json') as json_file2:
+    dataprevious = json.load(json_file2)
+
+latestlist=list()    
+
+for i in datalatest:
+    latestlist[i]=i["id"]
+    
