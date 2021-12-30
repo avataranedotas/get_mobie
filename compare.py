@@ -11,13 +11,13 @@ import sys
 
 
 json_filename="./LATEST.json"
-#print (json_filename)
+print (json_filename)
 
 try:
     json_file=open(json_filename)
     json_data=json.load(json_file)
 except IOError:
-    print "Error: File does not appear to exist."
+    print ("Error: File does not appear to exist.")
 finally:
     json_file.close()
 
@@ -28,4 +28,4 @@ for item in json_data['result']:
     my_dict.update({ item['templateid']: item['name']})
 
 for key in sorted(my_dict.iterkeys()):
-    print "%s: %s" % (key, my_dict[key])
+    print ("%s: %s" % (key, my_dict[key]))
