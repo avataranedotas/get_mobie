@@ -80,6 +80,26 @@ print ("Removidos:",removidos)
 #else:
 #    print ("Sem alterações")
 
+
+   
+if (adicionados or removidos):
+    print ("Houve alterações")
+    fich = open("changes.txt", "a")
+    fich.write("\n")
+    fich.write(date_time)
+    fich.write("\n")
+    fich.write("Adicionados:")
+    fich.write(str(adicionados))
+    fich.write("\n")    
+    fich.write("Removidos:")
+    fich.write(str(removidos))
+    fich.write("\n")
+    fich.close()
+#else:
+    #print ("Sem alterações")
+
+
+
 #comparação ponto a ponto
 
 def findDiff(d1, d2, path=""):
@@ -107,30 +127,17 @@ def findDiffE(d1, d2, path=""):
 
 #encontrar ponto com o mesmo id
 
-
+n=0
 for x in datalatest:
     m=0
     #obter id latest
-    id1=datalatest[x]["id"]
+    id1=datalatest[n]["id"]
     #procurar o mesmo id no previous
     for j in dataprevious:
         if ( id1 == dataprevious[m]["id"] ):
             #print ("Encontrado no previous, comparando:",id1)
             findDiffE(datalatest[x],dataprevious[m])
         m=m+1
-
-if (adicionados or removidos):
-    print ("Houve alterações")
-    fich = open("changes.txt", "a")
-    fich.write("\n")
-    fich.write(date_time)
-    fich.write("\n")
-    fich.write("Adicionados:")
-    fich.write(str(adicionados))
-    fich.write("\n")    
-    fich.write("Removidos:")
-    fich.write(str(removidos))
-    fich.write("\n")
-    fich.close()
-else:
-    print ("Sem alterações")
+    n=n+1
+    
+ 
