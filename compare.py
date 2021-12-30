@@ -23,8 +23,8 @@ with open('./LATEST.json') as json_file:
 #teste        
 #print(datalatest[0]["id"])
 
-#with open('./PREVIOUS.json') as json_file2:
-with open('./teste.json',encoding="utf-8-sig") as json_file2:
+with open('./PREVIOUS.json') as json_file2:
+#with open('./teste.json',encoding="utf-8-sig") as json_file2:
     #json_file2.encoding='utf-8-sig'
     dataprevious = json.load(json_file2)
 
@@ -128,6 +128,7 @@ def findDiffE(d1, d2, path=""):
 
 #encontrar ponto com o mesmo id
 
+"""
 n=0
 for x in datalatest:
     m=0
@@ -140,5 +141,5 @@ for x in datalatest:
             findDiffE(datalatest[n],dataprevious[m])
         m=m+1
     n=n+1
-    
+"""    
  
