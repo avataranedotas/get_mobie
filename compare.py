@@ -105,7 +105,7 @@ for x in range(3):
     id1=datalatest[x]["id"]
     #procurar o mesmo id no previous
     for j in dataprevious:
-        if ( id1 == dataprevious[j]["id"] ):
+        if ( id1 == dataprevious[m]["id"] ):
             print ("Encontrado no previous:",id1)
         m=m+1
         
