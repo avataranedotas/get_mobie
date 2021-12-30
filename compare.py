@@ -126,6 +126,6 @@ def findDiff(d1, d2, path=""):
             print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
 
 print("comparing latest to previous:")
-findDiff(datalatest,dataprevious)
+findDiff(datalatest[0],dataprevious[0])
 #print("comparing d2 to d1:")
 #findDiff(d2,d1)
