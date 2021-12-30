@@ -96,9 +96,16 @@ else:
 
 #comparação ponto a ponto
 
-if (datalatest[0] != dataprevious[0]):
-    print ("Diferente")
-    print (datalatest[0] - dataprevious[0])
-else:
-    print ("Igual")
+#encontrar ponto com o mesmo id
 
+
+for x in range(3):
+    m=0
+    #obter id latest
+    id1=datalatest[x]["id"]
+    #procurar o mesmo id no previous
+    for j in dataprevious:
+        if ( id1 == dataprevious[j]["id"] ):
+            print ("Encontrado no previous:",id1)
+        m=m+1
+        
