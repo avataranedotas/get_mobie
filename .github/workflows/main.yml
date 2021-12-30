@@ -15,11 +15,18 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '14'
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+         python-version: 3.8 #install the python needed    
     - name: Get the data
       run: |
         chmod +x ./get_mobie.sh
         ./get_mobie.sh
       shell: bash
+    - name: execute py script # run the run.py to get the latest data
+      run: |
+        python compare.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
