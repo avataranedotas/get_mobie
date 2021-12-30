@@ -31,5 +31,5 @@ for i in datalatest:
     latestlist[n]=i["id"]
     n=n+1
     
-print (latestlist[0]
-print (latestlist[1]
+print (latestlist[0])
+print (latestlist[1])
