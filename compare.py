@@ -70,9 +70,9 @@ if (adicionados or removidos):
     print ("Houve alterações")
     fich = open("changes.txt", "a")
     fich.write("Adicionados:")
-    fich.write(adicionados)
+    fich.write(str(adicionados))
     fich.write("Removidos:")
-    fich.write(removidos)
+    fich.write(str(removidos))
     fich.close()
 else:
     print ("Sem alterações")
