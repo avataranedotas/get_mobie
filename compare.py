@@ -125,7 +125,7 @@ def findDiff(d1, d2, path=""):
         else:
             print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
 
-print("comparing d1 to d2:")
-findDiff(d1,d2)
-print("comparing d2 to d1:")
-findDiff(d2,d1)
+print("comparing latest to previous:")
+findDiff(datalatest,dataprevious)
+#print("comparing d2 to d1:")
+#findDiff(d2,d1)
