@@ -48,9 +48,17 @@ print ("Pontos anteriores: ",previouscount,"\n")
 
 #if diference found then log to file the changes
 
+def Diff(li1, li2):
+    return list(set(li1) - set(li2)) + list(set(li2) - set(li1))
+
+#added stations
+print ("Adicionados:")
+print (Diff(latestlist,previouslist))
+
+
+#check number of stations
 if (latestcount != previouscount):
     print ("Encontradas diferenças")
 else:
     print ("Sem alterações")
-
     
