@@ -1,0 +1,4 @@
+ABF-00005
+evses -> 0 -> connectors -> 0: 
+ - max_amperage : 32
+ + max_amperage : 31
