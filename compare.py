@@ -11,7 +11,7 @@ import sys
 
 
 json_filename="./LATEST.json"
-print json_filename
+#print (json_filename)
 
 try:
     json_file=open(json_filename)
