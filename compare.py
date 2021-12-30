@@ -21,8 +21,8 @@ with open('./LATEST.json') as json_file:
 #teste        
 #print(datalatest[0]["id"])
 
-#with open('./PREVIOUS.json') as json_file2:
-with open('./teste.json',encoding="utf-8-sig") as json_file2:
+with open('./PREVIOUS.json') as json_file2:
+#with open('./teste.json',encoding="utf-8-sig") as json_file2:
     #json_file2.encoding='utf-8-sig'
     dataprevious = json.load(json_file2)
 
@@ -59,14 +59,13 @@ def Diff2(li1, li2):
 
 
 #added stations
-print ("Adicionados:")
 adicionados=Diff2(latestlist,previouslist)
-print (adicionados)
+print ("Adicionados:",adicionados)
 
 #removed stations
-print ("Removidos:")
 removidos=Diff1(latestlist,previouslist)
-print (removidos)
+print ("Removidos:",removidos)
+
 
 
 #check number of stations
