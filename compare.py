@@ -8,16 +8,15 @@ import sys
 with open('./teste.json') as json_file:
     data = json.load(json_file)
  
-    # teste
-    print(data[0])
+    # mostrar o registo n
+    print(data[1])
      
     # for printing the key-value pair of
     # nested dictionary for loop can be used
-    #print("\nPrinting nested dictionary as a key-value pair\n")
-    #for i in data['people1']:
-    #    print("Name:", i['name'])
-    #    print("Website:", i['website'])
-    #    print("From:", i['from'])
-    #    print()
+    print("\nPrinting nested dictionary as a key-value pair\n")
+    for i in data[0]:
+        print("Ref:", i['id'])
+        print("Operador:", i['party_id'])
+        print()
 
 
