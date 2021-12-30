@@ -49,18 +49,27 @@ print ("Pontos anteriores: ",previouscount,"\n")
 
 #if diference found then log to file the changes
 
-def Diff(li1, li2):
-    li_dif = [i for i in li1 + li2 if i not in li1 or i not in li2]
+def Diff1(li1, li2):
+    li_dif = [i for i in li1 + li2 if i not in li1]
     return li_dif
+
+def Diff2(li1, li2):
+    li_dif = [i for i in li1 + li2 if i not in li2]
+    return li_dif
+
 
 #added stations
 print ("Adicionados:")
-print (Diff(latestlist,previouslist))
+print (Diff1(latestlist,previouslist))
+
+#removed stations
+print ("Removidos:")
+print (Diff2(latestlist,previouslist))
 
 
 #check number of stations
-if (latestcount != previouscount):
-    print ("Encontradas diferenças")
-else:
-    print ("Sem alterações")
+#if (latestcount != previouscount):
+#    print ("Encontradas diferenças")
+#else:
+#    print ("Sem alterações")
     
