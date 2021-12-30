@@ -104,7 +104,8 @@ def dict_compare(d1, d2):
     same = set(o for o in shared_keys if d1[o] == d2[o])
     return added, removed, modified, same
 
-x = dict(a=1, b=2)
-y = dict(a=2, b=2)
+x = datalatest
+y = dataprevious
 added, removed, modified, same = dict_compare(x, y)
-print ("add:",added,"rem:", removed,"mod:", modified,"sam:", same)
+#print ("add:",added,"rem:", removed,"mod:", modified,"sam:", same)
+print ("add:",added,"rem:", removed,"mod:", modified)
