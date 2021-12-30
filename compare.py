@@ -68,9 +68,15 @@ print ("Removidos:",removidos)
 
 if (adicionados or removidos):
     print ("Houve alterações")
+    fich = open("changes.txt", "a")
+    fich.write("Adicionados:",adicionados)
+    fich.write("Removidos:",removidos)
+    fich.close()
 else:
     print ("Sem alterações")
 
+    
+    
 #check number of stations
 #if (latestcount != previouscount):
 #    print ("Encontradas diferenças")
