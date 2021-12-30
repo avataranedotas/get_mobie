@@ -47,7 +47,7 @@ print ("Pontos anteriores: ",previouscount,"\n")
 
 #if diference found then log to file the changes
 
-if (latestcount <> previouscount):
+if (latestcount != previouscount):
     print ("Encontradas diferenças")
 else:
     print ("Sem alterações")
