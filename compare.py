@@ -99,7 +99,7 @@ else:
 #encontrar ponto com o mesmo id
 
 
-for x in range(3):
+for x in range(10):
     m=0
     #obter id latest
     id1=datalatest[x]["id"]
