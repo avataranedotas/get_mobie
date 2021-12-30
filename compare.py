@@ -8,9 +8,8 @@ import sys
 with open('./teste.json') as json_file:
     data = json.load(json_file)
  
-    # for reading nested data [0] represents
-    # the index value of the list
-    print(data[''][0])
+    # teste
+    print(data[0])
      
     # for printing the key-value pair of
     # nested dictionary for loop can be used
