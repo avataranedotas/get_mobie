@@ -94,3 +94,5 @@ else:
 #else:
 #    print ("Sem alterações")
     
+unshared_items = {k: datalatest[k] for k in datalatest if k in dataprevious and datalatest[k] != dataprevious[k]}
+print (unshared_items)
