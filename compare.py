@@ -28,7 +28,7 @@ latestlist=list()
 
 n=0
 for i in datalatest:
-    latestlist[n]=i["id"]
+    latestlist.append(i["id"])
     n=n+1
     
 print (latestlist[0])
