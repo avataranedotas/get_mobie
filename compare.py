@@ -15,8 +15,7 @@ with open('./teste.json') as json_file:
     # nested dictionary for loop can be used
     print("\nPrinting nested dictionary as a key-value pair\n")
     for i in data:
-        print("0:", i[0])
-        print("1:", i[1])
+        print(i["id"])
         print()
 
 
