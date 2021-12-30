@@ -119,7 +119,8 @@ def findDiffE(d1, d2, path=""):
             if type(d1[k]) is dict:
                 findDiffE(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
             #esta comparação tenta evitar as situações em que só o updated mudou    
-            if (d1[k] != d2[k]) and (d1[k].find("updated") != -1):
+            #if (d1[k] != d2[k]) and (d1[k].find("updated") != -1):
+            if d1[k] != d2[k]:
                 result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
                 print("\n".join(result))
         else:
