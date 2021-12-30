@@ -66,7 +66,10 @@ print ("Adicionados:",adicionados)
 removidos=Diff1(latestlist,previouslist)
 print ("Removidos:",removidos)
 
-
+if (adicionados or removidos):
+    print ("Houve alterações")
+else:
+    print ("Sem alterações")
 
 #check number of stations
 #if (latestcount != previouscount):
