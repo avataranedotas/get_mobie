@@ -60,11 +60,13 @@ def Diff2(li1, li2):
 
 #added stations
 print ("Adicionados:")
-print (Diff1(latestlist,previouslist))
+adicionados=Diff2(latestlist,previouslist)
+print (adicionados)
 
 #removed stations
 print ("Removidos:")
-print (Diff2(latestlist,previouslist))
+removidos=Diff1(latestlist,previouslist)
+print (removidos)
 
 
 #check number of stations
