@@ -4,3 +4,9 @@ evses -> 0 -> connectors -> 0:
  + max_amperage : 31
 
 2021-12-30 23:46:43
+
+2021-12-30 23:48:36
+ABF-00005
+evses -> 0 -> connectors -> 0: 
+ - max_amperage : 32
+ + max_amperage : 31
