@@ -49,7 +49,8 @@ print ("Pontos anteriores: ",previouscount,"\n")
 #if diference found then log to file the changes
 
 def Diff(li1, li2):
-    return list(set(li1) - set(li2)) + list(set(li2) - set(li1))
+    li_dif = [i for i in li1 + li2 if i not in li1 or i not in li2]
+    return li_dif
 
 #added stations
 print ("Adicionados:")
