@@ -21,7 +21,8 @@ with open('./LATEST.json') as json_file:
 #teste        
 #print(datalatest[0]["id"])
 
-with open('./PREVIOUS.json') as json_file2:
+#with open('./PREVIOUS.json') as json_file2:
+with open('./teste.json') as json_file2:
     dataprevious = json.load(json_file2)
 
 latestlist=list()    
