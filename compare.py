@@ -13,7 +13,7 @@ If json_file contains 2 or more objects, "json.load(file_obj)"　will be to an e
 As JSON-file contains multiple objects, "json.load()" cannot extract 2 or more objects from JSON file at once.
 """
 
-with open("./LATEST.json", mode="r", encoding="utf-8") as f:
-    dict = json.load(f)
-    for key in dict:
-        print(dict[key])
+#with open("./LATEST.json", mode="r", encoding="utf-8") as f:
+#    dict = json.load(f)
+#    for key in dict:
+#        print(dict[key])
