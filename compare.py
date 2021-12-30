@@ -26,6 +26,10 @@ with open('./PREVIOUS.json') as json_file2:
 
 latestlist=list()    
 
+n=0
 for i in datalatest:
-    latestlist[i]=i["id"]
+    latestlist[n]=i["id"]
+    n=n+1
     
+print (latestlist[0]
+print (latestlist[1]
