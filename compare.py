@@ -98,6 +98,7 @@ else:
 
 if (datalatest[0] != dataprevious[0]):
     print ("Diferente")
+    print (datalatest[0] - dataprevious[0])
 else:
     print ("Igual")
 
