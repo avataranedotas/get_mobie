@@ -41,8 +41,15 @@ for i in dataprevious:
     previouslist.append(i["id"])
     n=n+1
 previouscount=n
-print ("Pontos actuais: ",previouscount,"\n")
+print ("Pontos anteriores: ",previouscount,"\n")
 #print (previouslist[0])
 #print (previouslist[1])
 
+#if diference found then log to file the changes
 
+if (latestcount <> previouscount):
+    print ("Encontradas diferenças")
+else:
+    print ("Sem alterações")
+
+    
