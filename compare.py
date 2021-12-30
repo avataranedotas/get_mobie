@@ -23,7 +23,9 @@ with open('./LATEST.json') as json_file:
 
 #with open('./PREVIOUS.json') as json_file2:
 with open('./teste.json') as json_file2:
-    dataprevious = json.load(json_file2)
+    #decoded_data=json_file2.text.encode().decode('utf-8-sig') 
+    decoded_data=json_file2.content.decode('utf-8-sig')
+    dataprevious = json.load(decoded_data)
 
 latestlist=list()    
 previouslist=list()
