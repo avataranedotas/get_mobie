@@ -1,2 +1,5 @@
 Adicionados:['ABF-00005', 'ABF-00006']Removidos:['ABF-00001']Adicionados:['ABF-00005', 'ABF-00006']
 Removidos:['ABF-00001']
+
+Adicionados:['ABF-00005', 'ABF-00006']
+Removidos:['ABF-00001']
