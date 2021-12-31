@@ -27,7 +27,7 @@ jobs:
     - name: compare.py
       run: |
         python compare.py
-    - name: compare.py
+    - name: find.py
       run: |
         python find.py
     - name: Check and log changes
