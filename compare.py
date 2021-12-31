@@ -137,6 +137,8 @@ def findDiffA(d1, d2, path=""):
 
 
 def findDiffB(ident, d1, d2, path=""):
+    global fich
+    global escreverfich
     reportar=1
     if type(d1) is dict:
         #print ("            Start dict")        
