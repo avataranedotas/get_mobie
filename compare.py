@@ -160,7 +160,7 @@ def findDiffB(ident, d1, d2, path=""):
                             escreverfich=1
                         fich.write(ident)
                         fich.write("\n")
-                        result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
+                        result = [ "%s: " % path, " NEW %s : %s" % (k, d1[k]) , " OLD %s : %s" % (k, d2[k])]
                         print("\n".join(result))
                         fich.write("\n".join(result))
                         fich.write("\n")
