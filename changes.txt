@@ -1,0 +1,530 @@
+
+2022-01-02 01:59:01
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00352
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00353
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00353
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00353
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00353
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00353
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00353
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00353
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00353
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00353
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00353
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00353
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00354
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00354
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00354
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00354
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00354
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00354
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00354
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00354
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00354
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00354
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00354
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00355
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00355
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00355
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00355
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00355
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00355
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00355
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00355
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00355
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00355
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00355
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00356
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00356
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00356
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00356
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00356
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00356
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00356
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00356
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00356
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00356
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00356
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00357
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00357
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00357
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00357
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00357
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00357
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00357
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00357
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00357
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00357
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00357
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00358
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00358
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00358
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00358
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00358
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00358
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00358
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00358
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00358
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00358
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00358
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00359
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00359
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00359
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00359
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00359
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00359
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00359
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00359
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00359
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00359
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00359
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00360
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00360
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00360
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00360
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00360
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00360
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00360
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00360
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00360
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00360
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00360
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00361
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00361
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00361
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00361
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00361
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00361
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00361
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00361
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00361
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00361
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00361
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00362
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00362
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00362
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00362
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00362
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00362
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00362
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00362
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00362
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00362
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00362
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00363
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00363
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00363
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-00363
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-00363
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00363
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00363
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00363
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00363
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-00363
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-00363
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
