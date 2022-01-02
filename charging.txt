@@ -1,3 +1,6 @@
 
 2022-01-02 12:09:06
 MMN-00005-02 evses -> 1: status : CHARGING
+
+2022-01-02 13:13:46
+MTJ-00016-01 evses -> 0: status : CHARGING
