@@ -2,3 +2,7 @@
 2022-01-03 12:10:00
 Adicionados:['CRV-00001', 'FAL-90001', 'PMZ-00003', 'PNL-90001', 'SLV-90001']
 Removidos:[]
+
+2022-01-03 19:04:40
+Adicionados:['VND-90004']
+Removidos:[]
