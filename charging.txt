@@ -1,0 +1,3 @@
+
+2022-01-04 15:58:01
+VFX-00021-01 evses -> 0: status : CHARGING
