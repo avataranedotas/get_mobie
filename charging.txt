@@ -4,3 +4,7 @@ VFX-00021-01 evses -> 0: status : CHARGING
 
 2022-01-04 16:08:40
 VFX-00021-01 evses -> 0: status : CHARGING
+
+2022-01-04 17:01:05
+LSB-00335-01 evses -> 0: status : CHARGING
+OER-00067-02 evses -> 1: status : CHARGING
