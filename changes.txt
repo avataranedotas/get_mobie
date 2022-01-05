@@ -42,3 +42,7 @@ VCD-00007
 : 
  NEW coordinates : {'latitude': '41.348391', 'longitude': '-8.747087'}
  OLD coordinates : {'latitude': '41.347780', 'longitude': '-8.747558'}
+
+2022-01-05 13:42:52
+Adicionados:['PNF-00014']
+Removidos:[]
