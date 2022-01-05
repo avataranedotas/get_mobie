@@ -38,3 +38,6 @@ ETZ-00010-02 evses -> 1: status : CHARGING
 2022-01-05 16:27:36
 LSB-00210-2 evses -> 1: status : CHARGING
 VND-00008-02 evses -> 1: status : CHARGING
+
+2022-01-05 18:20:43
+VND-00008-02 evses -> 1: status : CHARGING
