@@ -20,3 +20,25 @@ VCD-00007
 : 
  NEW coordinates : {'latitude': '41.347780', 'longitude': '-8.747558'}
  OLD coordinates : {'latitude': '41.34817', 'longitude': '-8.7558819'}
+
+2022-01-05 13:03:53
+MMN-00001
+: 
+ NEW city : Montemor-o-Novo
+ OLD city : Montemor
+MMN-00002
+: 
+ NEW city : Montemor-o-Novo
+ OLD city : Montemor
+VCD-00007
+coordinates: 
+ NEW latitude : 41.348391
+ OLD latitude : 41.347780
+VCD-00007
+coordinates: 
+ NEW longitude : -8.747087
+ OLD longitude : -8.747558
+VCD-00007
+: 
+ NEW coordinates : {'latitude': '41.348391', 'longitude': '-8.747087'}
+ OLD coordinates : {'latitude': '41.347780', 'longitude': '-8.747558'}
