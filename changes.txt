@@ -6,3 +6,17 @@ Removidos:[]
 2022-01-03 19:04:40
 Adicionados:['VND-90004']
 Removidos:[]
+
+2022-01-05 12:10:54
+VCD-00007
+coordinates: 
+ NEW latitude : 41.347780
+ OLD latitude : 41.34817
+VCD-00007
+coordinates: 
+ NEW longitude : -8.747558
+ OLD longitude : -8.7558819
+VCD-00007
+: 
+ NEW coordinates : {'latitude': '41.347780', 'longitude': '-8.747558'}
+ OLD coordinates : {'latitude': '41.34817', 'longitude': '-8.7558819'}
