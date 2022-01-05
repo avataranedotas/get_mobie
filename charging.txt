@@ -53,3 +53,7 @@ ARC-00002-02 evses -> 1: status : CHARGING
 2022-01-05 21:15:08
 ARC-00002-02 evses -> 1: status : CHARGING
 ARC-00002-02 evses -> 1: status : CHARGING
+
+2022-01-05 21:39:19
+ARC-00002-02 evses -> 1: status : CHARGING
+ARC-00002-02 evses -> 1: status : CHARGING
