@@ -54,3 +54,7 @@ Removidos:[]
 2022-01-05 17:05:25
 Adicionados:['PRL-90001']
 Removidos:[]
+
+2022-01-05 22:41:04
+Adicionados:['FLG-90002']
+Removidos:['FLG-00002']
