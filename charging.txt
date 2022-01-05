@@ -41,3 +41,7 @@ VND-00008-02 evses -> 1: status : CHARGING
 
 2022-01-05 18:20:43
 VND-00008-02 evses -> 1: status : CHARGING
+
+2022-01-05 20:18:34
+ARC-00002-02 evses -> 1: status : CHARGING
+ARC-00002-02 evses -> 1: status : CHARGING
