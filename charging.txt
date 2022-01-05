@@ -18,3 +18,7 @@ ESP-00003-01 evses -> 0: status : CHARGING
 
 2022-01-04 21:06:12
 CLB-00008-02 evses -> 1: status : CHARGING
+
+2022-01-05 08:55:03
+LRS-00060-03 evses -> 2: status : CHARGING
+VND-00009-02 evses -> 1: status : CHARGING
