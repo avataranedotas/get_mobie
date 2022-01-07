@@ -87,3 +87,6 @@ PNF-00014-03 evses -> 2: status : CHARGING
 
 2022-01-07 11:14:21
 LSB-00220-1 evses -> 0: status : CHARGING
+
+2022-01-07 11:36:56
+LSB-00220-1 evses -> 0: status : CHARGING
