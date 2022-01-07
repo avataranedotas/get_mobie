@@ -136,3 +136,7 @@ MTS-00037
 : 
  NEW coordinates : {'latitude': '41.184318', 'longitude': '-8.681518'}
  OLD coordinates : {'latitude': '41.1843180', 'longitude': '-8.6815180'}
+
+2022-01-07 15:45:09
+Adicionados:[]
+Removidos:['BRG-00031']
