@@ -109,3 +109,6 @@ PNF-00015-01 evses -> 0: status : CHARGING
 2022-01-07 18:47:15
 MMN-00006-02 evses -> 1: status : CHARGING
 MMN-00006-02 evses -> 1: status : CHARGING
+
+2022-01-07 20:18:48
+VFX-00021-02 evses -> 1: status : CHARGING
