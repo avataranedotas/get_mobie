@@ -116,3 +116,7 @@ VFX-00021-02 evses -> 1: status : CHARGING
 2022-01-07 20:41:32
 MMN-00006-02 evses -> 1: status : CHARGING
 MMN-00006-02 evses -> 1: status : CHARGING
+
+2022-01-07 21:14:54
+MMN-00006-02 evses -> 1: status : CHARGING
+MMN-00006-02 evses -> 1: status : CHARGING
