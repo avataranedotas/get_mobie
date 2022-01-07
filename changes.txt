@@ -122,3 +122,17 @@ evses -> 2 -> connectors -> 0:
 2022-01-06 19:14:26
 Adicionados:['GDM-00012']
 Removidos:[]
+
+2022-01-07 10:19:36
+MTS-00037
+coordinates: 
+ NEW latitude : 41.184318
+ OLD latitude : 41.1843180
+MTS-00037
+coordinates: 
+ NEW longitude : -8.681518
+ OLD longitude : -8.6815180
+MTS-00037
+: 
+ NEW coordinates : {'latitude': '41.184318', 'longitude': '-8.681518'}
+ OLD coordinates : {'latitude': '41.1843180', 'longitude': '-8.6815180'}
