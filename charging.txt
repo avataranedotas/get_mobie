@@ -102,3 +102,6 @@ GDM-00012-01 evses -> 0: status : CHARGING
 
 2022-01-07 16:27:28
 PNF-00015-03 evses -> 2: status : CHARGING
+
+2022-01-07 17:47:37
+PNF-00015-01 evses -> 0: status : CHARGING
