@@ -140,3 +140,7 @@ MTS-00037
 2022-01-07 15:45:09
 Adicionados:[]
 Removidos:['BRG-00031']
+
+2022-01-07 16:27:27
+Adicionados:['LOU-00002']
+Removidos:[]
