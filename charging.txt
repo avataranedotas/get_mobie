@@ -120,3 +120,6 @@ MMN-00006-02 evses -> 1: status : CHARGING
 2022-01-07 21:14:54
 MMN-00006-02 evses -> 1: status : CHARGING
 MMN-00006-02 evses -> 1: status : CHARGING
+
+2022-01-08 17:45:31
+PVL-00002-01 evses -> 0: status : CHARGING
