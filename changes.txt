@@ -202,3 +202,7 @@ PNF-00015
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 120000
+
+2022-01-10 17:05:43
+Adicionados:['MTS-00032']
+Removidos:[]
