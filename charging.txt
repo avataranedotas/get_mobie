@@ -126,3 +126,6 @@ PVL-00002-01 evses -> 0: status : CHARGING
 
 2022-01-10 10:43:48
 MFR-00008-02 evses -> 1: status : CHARGING
+
+2022-01-10 12:28:53
+MFR-00008-03 evses -> 2: status : CHARGING
