@@ -144,3 +144,6 @@ MFR-00008-03 evses -> 2: status : CHARGING
 
 2022-01-11 13:53:08
 SXL-00019-02 evses -> 1: status : CHARGING
+
+2022-01-11 14:16:10
+SXL-00019-02 evses -> 1: status : CHARGING
