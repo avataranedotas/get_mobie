@@ -150,3 +150,6 @@ SXL-00019-02 evses -> 1: status : CHARGING
 
 2022-01-11 14:39:03
 SXL-00019-02 evses -> 1: status : CHARGING
+
+2022-01-11 19:36:38
+OER-00078-01 evses -> 0: status : CHARGING
