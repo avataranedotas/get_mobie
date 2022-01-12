@@ -210,3 +210,7 @@ Removidos:[]
 2022-01-11 13:43:10
 Adicionados:['SXL-00009', 'SXL-00019']
 Removidos:[]
+
+2022-01-12 16:28:25
+Adicionados:['AGD-00007']
+Removidos:['AGD-00003']
