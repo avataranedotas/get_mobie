@@ -172,3 +172,6 @@ LSB-90064-2 evses -> 1: status : CHARGING
 2022-01-13 19:14:02
 ARC-00002-02 evses -> 1: status : CHARGING
 ARC-00002-02 evses -> 1: status : CHARGING
+
+2022-01-13 19:33:54
+ARC-00002-02 evses -> 1: status : CHARGING
