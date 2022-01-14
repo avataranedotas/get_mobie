@@ -238,3 +238,7 @@ LSB-00269
 2022-01-14 16:24:38
 Adicionados:['PVC-00003']
 Removidos:[]
+
+2022-01-14 17:01:38
+Adicionados:['AFE-00001']
+Removidos:[]
