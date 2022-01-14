@@ -214,3 +214,7 @@ Removidos:[]
 2022-01-12 16:28:25
 Adicionados:['AGD-00007']
 Removidos:['AGD-00003']
+
+2022-01-14 13:42:51
+Adicionados:['PDL-00008', 'SBS-00001']
+Removidos:[]
