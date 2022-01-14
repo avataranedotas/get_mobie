@@ -242,3 +242,9 @@ Removidos:[]
 2022-01-14 17:01:38
 Adicionados:['AFE-00001']
 Removidos:[]
+
+2022-01-14 17:46:26
+SBS-00001
+: 
+ NEW mobie_voltage_level : -
+ OLD mobie_voltage_level : BTN
