@@ -224,3 +224,13 @@ SBS-00001
 : 
  NEW city : Sabrosa
  OLD city : -
+
+2022-01-14 15:44:54
+LGP-00001
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00269
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
