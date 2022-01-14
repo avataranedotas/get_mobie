@@ -202,3 +202,6 @@ FUN-00012-01 evses -> 0: status : CHARGING
 
 2022-01-14 20:41:43
 FUN-00012-01 evses -> 0: status : CHARGING
+
+2022-01-14 21:14:53
+FUN-00012-01 evses -> 0: status : CHARGING
