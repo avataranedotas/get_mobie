@@ -199,3 +199,6 @@ PVC-00003-02 evses -> 1: status : CHARGING
 
 2022-01-14 20:18:42
 FUN-00012-01 evses -> 0: status : CHARGING
+
+2022-01-14 20:41:43
+FUN-00012-01 evses -> 0: status : CHARGING
