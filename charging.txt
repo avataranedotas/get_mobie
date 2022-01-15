@@ -218,3 +218,6 @@ PVC-00003-02 evses -> 1: status : CHARGING
 2022-01-15 15:43:41
 LRA-00024-02 evses -> 1: status : CHARGING
 PVC-00003-02 evses -> 1: status : CHARGING
+
+2022-01-15 16:26:26
+LRA-00024-02 evses -> 1: status : CHARGING
