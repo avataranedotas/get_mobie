@@ -208,3 +208,6 @@ FUN-00012-01 evses -> 0: status : CHARGING
 
 2022-01-15 14:15:20
 PVC-00003-02 evses -> 1: status : CHARGING
+
+2022-01-15 14:37:59
+PVC-00003-02 evses -> 1: status : CHARGING
