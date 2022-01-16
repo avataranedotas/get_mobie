@@ -244,3 +244,6 @@ FEC-00002-01 evses -> 0: status : CHARGING
 
 2022-01-16 18:45:57
 FUN-00012-01 evses -> 0: status : CHARGING
+
+2022-01-16 19:13:39
+FUN-00012-01 evses -> 0: status : CHARGING
