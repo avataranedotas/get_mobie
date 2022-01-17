@@ -282,3 +282,17 @@ AFE-00001
 : 
  NEW coordinates : {'latitude': '41.344778', 'longitude': '-6.961917'}
  OLD coordinates : {'latitude': '39.694531', 'longitude': '-8.130556'}
+
+2022-01-17 17:47:55
+SBS-00001
+coordinates: 
+ NEW latitude : 41.267111
+ OLD latitude : 39.694531
+SBS-00001
+coordinates: 
+ NEW longitude : -7.574972
+ OLD longitude : -8.130556
+SBS-00001
+: 
+ NEW coordinates : {'latitude': '41.267111', 'longitude': '-7.574972'}
+ OLD coordinates : {'latitude': '39.694531', 'longitude': '-8.130556'}
