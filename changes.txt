@@ -260,3 +260,25 @@ CSC-00073
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2022-01-17 17:05:31
+AFE-00001
+: 
+ NEW address : Avenida Engº. Manuel Cunha
+ OLD address : -
+AFE-00001
+: 
+ NEW city : Alfandega da Fé
+ OLD city : -
+AFE-00001
+coordinates: 
+ NEW latitude : 41.344778
+ OLD latitude : 39.694531
+AFE-00001
+coordinates: 
+ NEW longitude : -6.961917
+ OLD longitude : -8.130556
+AFE-00001
+: 
+ NEW coordinates : {'latitude': '41.344778', 'longitude': '-6.961917'}
+ OLD coordinates : {'latitude': '39.694531', 'longitude': '-8.130556'}
