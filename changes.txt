@@ -248,3 +248,15 @@ SBS-00001
 : 
  NEW mobie_voltage_level : -
  OLD mobie_voltage_level : BTN
+
+2022-01-17 16:27:49
+Adicionados:['VCT-00024']
+Removidos:[]
+CSC-00073
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+CSC-00073
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
