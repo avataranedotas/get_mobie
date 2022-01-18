@@ -296,3 +296,11 @@ SBS-00001
 : 
  NEW coordinates : {'latitude': '41.267111', 'longitude': '-7.574972'}
  OLD coordinates : {'latitude': '39.694531', 'longitude': '-8.130556'}
+
+2022-01-18 10:19:29
+Adicionados:[]
+Removidos:['LSB-01506']
+SBS-00001
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : -
