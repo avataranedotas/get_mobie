@@ -255,3 +255,7 @@ SCF-00001-02 evses -> 1: status : CHARGING
 2022-01-18 11:14:35
 SCF-00001-02 evses -> 1: status : CHARGING
 SCF-00001-02 evses -> 1: status : CHARGING
+
+2022-01-18 11:37:07
+SCF-00001-02 evses -> 1: status : CHARGING
+SCF-00001-02 evses -> 1: status : CHARGING
