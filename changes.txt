@@ -308,3 +308,9 @@ SBS-00001
 2022-01-18 11:14:34
 Adicionados:['SCR-00011']
 Removidos:[]
+
+2022-01-18 14:39:12
+SBS-00001
+: 
+ NEW address : Rua Sebastián Elcano
+ OLD address : -
