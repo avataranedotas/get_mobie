@@ -251,3 +251,7 @@ FUN-00012-01 evses -> 0: status : CHARGING
 2022-01-18 10:43:05
 SCF-00001-02 evses -> 1: status : CHARGING
 SCF-00001-02 evses -> 1: status : CHARGING
+
+2022-01-18 11:14:35
+SCF-00001-02 evses -> 1: status : CHARGING
+SCF-00001-02 evses -> 1: status : CHARGING

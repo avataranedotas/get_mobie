@@ -304,3 +304,7 @@ SBS-00001
 : 
  NEW mobie_voltage_level : BTN
  OLD mobie_voltage_level : -
+
+2022-01-18 11:14:34
+Adicionados:['SCR-00011']
+Removidos:[]
