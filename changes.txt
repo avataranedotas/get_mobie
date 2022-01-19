@@ -5098,3 +5098,7 @@ VZL-90003
 : 
  NEW parking_type : ON_STREET
  OLD parking_type : PARKING_LOT
+
+2022-01-19 20:37:53
+Adicionados:['CHV-00006']
+Removidos:[]
