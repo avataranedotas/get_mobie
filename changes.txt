@@ -362,3 +362,7 @@ OER-00073
 : 
  NEW coordinates : {'latitude': '38.71739', 'longitude': '-9.238126'}
  OLD coordinates : {'latitude': '38.7173900', 'longitude': '-9.2381260'}
+
+2022-01-19 16:57:35
+Adicionados:['LSB-00310']
+Removidos:[]
