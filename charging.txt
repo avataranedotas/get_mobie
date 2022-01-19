@@ -300,3 +300,7 @@ CBR-90002-02 evses -> 1: status : CHARGING
 CBR-00038-02 evses -> 1: status : CHARGING
 CBR-00038-02 evses -> 1: status : CHARGING
 CBR-90002-02 evses -> 1: status : CHARGING
+
+2022-01-19 20:16:40
+CBR-90002-01 evses -> 0: status : CHARGING
+CBR-90002-02 evses -> 1: status : CHARGING
