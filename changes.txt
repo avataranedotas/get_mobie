@@ -318,3 +318,7 @@ SBS-00001
 2022-01-18 17:06:24
 Adicionados:['LRS-00055']
 Removidos:[]
+
+2022-01-19 09:38:21
+Adicionados:['LSB-00430', 'LSB-00431', 'LSB-00432', 'LSB-00433']
+Removidos:[]
