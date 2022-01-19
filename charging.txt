@@ -275,3 +275,8 @@ OER-00073-03 evses -> 2: status : CHARGING
 CBR-00038-02 evses -> 1: status : CHARGING
 CBR-00038-02 evses -> 1: status : CHARGING
 CBR-90002-02 evses -> 1: status : CHARGING
+
+2022-01-19 17:40:42
+CBR-00038-02 evses -> 1: status : CHARGING
+CBR-00038-02 evses -> 1: status : CHARGING
+CBR-90002-02 evses -> 1: status : CHARGING
