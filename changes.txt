@@ -346,3 +346,19 @@ OER-00117
 2022-01-19 15:16:21
 Adicionados:['OER-00073']
 Removidos:[]
+
+2022-01-19 15:40:59
+Adicionados:['GMR-00024']
+Removidos:[]
+OER-00073
+coordinates: 
+ NEW latitude : 38.71739
+ OLD latitude : 38.7173900
+OER-00073
+coordinates: 
+ NEW longitude : -9.238126
+ OLD longitude : -9.2381260
+OER-00073
+: 
+ NEW coordinates : {'latitude': '38.71739', 'longitude': '-9.238126'}
+ OLD coordinates : {'latitude': '38.7173900', 'longitude': '-9.2381260'}
