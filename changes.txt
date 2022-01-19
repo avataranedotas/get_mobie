@@ -330,3 +330,15 @@ Removidos:[]
 2022-01-19 11:13:41
 Adicionados:['MNC-00004']
 Removidos:[]
+
+2022-01-19 12:25:42
+Adicionados:['BRR-00008', 'BRR-00009', 'BRR-00010', 'BRR-00011']
+Removidos:[]
+OER-00117
+coordinates: 
+ NEW latitude : 38.71631
+ OLD latitude : 38.7163100
+OER-00117
+: 
+ NEW coordinates : {'latitude': '38.71631', 'longitude': '-9.2403999'}
+ OLD coordinates : {'latitude': '38.7163100', 'longitude': '-9.2403999'}
