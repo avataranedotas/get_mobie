@@ -322,3 +322,7 @@ Removidos:[]
 2022-01-19 09:38:21
 Adicionados:['LSB-00430', 'LSB-00431', 'LSB-00432', 'LSB-00433']
 Removidos:[]
+
+2022-01-19 10:38:58
+Adicionados:['MNC-00005', 'OER-00117']
+Removidos:[]
