@@ -5106,3 +5106,17 @@ Removidos:[]
 2022-01-20 11:14:12
 Adicionados:['GDM-00013']
 Removidos:[]
+
+2022-01-20 11:36:38
+GDM-00013
+coordinates: 
+ NEW latitude : 41.173093
+ OLD latitude : 41.1730930
+GDM-00013
+coordinates: 
+ NEW longitude : -8.550395
+ OLD longitude : -8.5503950
+GDM-00013
+: 
+ NEW coordinates : {'latitude': '41.173093', 'longitude': '-8.550395'}
+ OLD coordinates : {'latitude': '41.1730930', 'longitude': '-8.5503950'}
