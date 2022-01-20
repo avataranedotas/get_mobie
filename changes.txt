@@ -5120,3 +5120,13 @@ GDM-00013
 : 
  NEW coordinates : {'latitude': '41.173093', 'longitude': '-8.550395'}
  OLD coordinates : {'latitude': '41.1730930', 'longitude': '-8.5503950'}
+
+2022-01-20 13:36:50
+OER-00087
+coordinates: 
+ NEW longitude : -9.305247
+ OLD longitude : -9.320195
+OER-00087
+: 
+ NEW coordinates : {'latitude': '38.691553', 'longitude': '-9.305247'}
+ OLD coordinates : {'latitude': '38.691553', 'longitude': '-9.320195'}

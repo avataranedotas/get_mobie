@@ -310,3 +310,6 @@ CBR-90002-02 evses -> 1: status : CHARGING
 
 2022-01-20 11:36:39
 CHV-00005-01 evses -> 0: status : CHARGING
+
+2022-01-20 13:36:51
+LSB-00310-01 evses -> 0: status : CHARGING
