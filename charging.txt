@@ -324,3 +324,6 @@ SBA-90001-01 evses -> 0: status : CHARGING
 2022-01-20 20:17:13
 GDM-00013-02 evses -> 1: status : CHARGING
 SBA-90001-01 evses -> 0: status : CHARGING
+
+2022-01-20 20:38:00
+SBA-90001-01 evses -> 0: status : CHARGING
