@@ -5102,3 +5102,7 @@ VZL-90003
 2022-01-19 20:37:53
 Adicionados:['CHV-00006']
 Removidos:[]
+
+2022-01-20 11:14:12
+Adicionados:['GDM-00013']
+Removidos:[]
