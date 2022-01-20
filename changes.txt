@@ -5130,3 +5130,21 @@ OER-00087
 : 
  NEW coordinates : {'latitude': '38.691553', 'longitude': '-9.305247'}
  OLD coordinates : {'latitude': '38.691553', 'longitude': '-9.320195'}
+
+2022-01-20 14:36:21
+LRS-00055
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+LSB-00310
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+OER-00117
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+VCT-00024
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
