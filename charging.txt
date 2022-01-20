@@ -317,3 +317,6 @@ LSB-00310-01 evses -> 0: status : CHARGING
 2022-01-20 15:41:00
 GMR-00023-02 evses -> 1: status : CHARGING
 GMR-00023-02 evses -> 1: status : CHARGING
+
+2022-01-20 19:36:30
+SBA-90001-01 evses -> 0: status : CHARGING
