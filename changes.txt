@@ -5152,3 +5152,17 @@ evses -> 2 -> connectors -> 0:
 2022-01-20 16:57:06
 Adicionados:['SPS-00003']
 Removidos:[]
+
+2022-01-20 17:40:49
+SPS-00003
+coordinates: 
+ NEW latitude : 40.7529800
+ OLD latitude : 40.7542351
+SPS-00003
+coordinates: 
+ NEW longitude : -8.0699500
+ OLD longitude : -8.0694698
+SPS-00003
+: 
+ NEW coordinates : {'latitude': '40.7529800', 'longitude': '-8.0699500'}
+ OLD coordinates : {'latitude': '40.7542351', 'longitude': '-8.0694698'}
