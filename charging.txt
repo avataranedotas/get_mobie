@@ -348,3 +348,6 @@ SCD-90001-1 evses -> 0: status : CHARGING
 
 2022-01-21 15:39:05
 PRT-00132-03 evses -> 2: status : CHARGING
+
+2022-01-21 15:41:26
+PRT-00132-03 evses -> 2: status : CHARGING
