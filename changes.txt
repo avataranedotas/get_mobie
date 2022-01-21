@@ -5196,3 +5196,7 @@ evses -> 1 -> connectors -> 0:
 2022-01-21 09:16:34
 Adicionados:['PRT-00132']
 Removidos:[]
+
+2022-01-21 14:14:36
+Adicionados:['PRT-00133']
+Removidos:[]
