@@ -341,3 +341,7 @@ SCD-90001-1 evses -> 0: status : CHARGING
 2022-01-21 14:36:17
 SBR-90001-1 evses -> 0: status : CHARGING
 SCD-90001-1 evses -> 0: status : CHARGING
+
+2022-01-21 15:17:06
+SBR-90001-1 evses -> 0: status : CHARGING
+SCD-90001-1 evses -> 0: status : CHARGING
