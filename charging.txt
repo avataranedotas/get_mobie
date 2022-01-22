@@ -351,3 +351,6 @@ PRT-00132-03 evses -> 2: status : CHARGING
 
 2022-01-21 15:41:26
 PRT-00132-03 evses -> 2: status : CHARGING
+
+2022-01-22 15:39:46
+CHV-00005-01 evses -> 0: status : CHARGING
