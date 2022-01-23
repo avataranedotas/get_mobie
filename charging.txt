@@ -358,3 +358,7 @@ CHV-00005-01 evses -> 0: status : CHARGING
 2022-01-23 15:41:00
 SCG-00002-02 evses -> 1: status : CHARGING
 SCG-00002-02 evses -> 1: status : CHARGING
+
+2022-01-23 16:23:21
+SCG-00002-02 evses -> 1: status : CHARGING
+SCG-00002-02 evses -> 1: status : CHARGING
