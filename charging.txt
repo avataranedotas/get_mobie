@@ -366,3 +366,7 @@ SCG-00002-02 evses -> 1: status : CHARGING
 2022-01-23 16:55:08
 SCG-00002-02 evses -> 1: status : CHARGING
 SCG-00002-02 evses -> 1: status : CHARGING
+
+2022-01-23 17:17:25
+SCG-00002-02 evses -> 1: status : CHARGING
+SCG-00002-02 evses -> 1: status : CHARGING
