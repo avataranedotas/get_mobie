@@ -373,3 +373,7 @@ SCG-00002-02 evses -> 1: status : CHARGING
 
 2022-01-24 10:17:28
 CBR-00038-01 evses -> 0: status : CHARGING
+
+2022-01-31 17:49:50
+TNV-00005-03 evses -> 2: status : CHARGING
+TNV-00005-03 evses -> 2: status : CHARGING

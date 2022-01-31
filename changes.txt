@@ -5204,3 +5204,31 @@ Removidos:[]
 2022-01-21 16:22:28
 Adicionados:['ABF-00035']
 Removidos:[]
+
+2022-01-31 17:49:49
+Adicionados:['ALM-00032', 'AVV-90001', 'BRG-00035', 'CSC-00076', 'MFR-00018', 'MFR-00019', 'OFR-90002', 'PMZ-00004', 'PRT-00036', 'SCD-00003', 'SCR-00007', 'TVD-00021', 'VIS-00007']
+Removidos:[]
+CBR-00040
+: 
+ NEW address : Rua Aníbal Lima
+ OLD address : Rua Camilo Pessanha
+CBR-00040
+coordinates: 
+ NEW latitude : 40.222517
+ OLD latitude : 40.2228320
+CBR-00040
+coordinates: 
+ NEW longitude : -8.4155
+ OLD longitude : -9.0980890
+CBR-00040
+: 
+ NEW coordinates : {'latitude': '40.222517', 'longitude': '-8.4155'}
+ OLD coordinates : {'latitude': '40.2228320', 'longitude': '-9.0980890'}
+GMR-00023
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
+GMR-00023
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
