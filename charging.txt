@@ -393,3 +393,6 @@ TNV-00005-03 evses -> 2: status : CHARGING
 2022-01-31 19:36:18
 TNV-00005-03 evses -> 2: status : CHARGING
 TNV-00005-03 evses -> 2: status : CHARGING
+
+2022-01-31 20:16:46
+MTS-00039-01 evses -> 0: status : CHARGING
