@@ -381,3 +381,7 @@ TNV-00005-03 evses -> 2: status : CHARGING
 2022-01-31 18:18:36
 TNV-00005-03 evses -> 2: status : CHARGING
 TNV-00005-03 evses -> 2: status : CHARGING
+
+2022-01-31 18:42:30
+TNV-00005-03 evses -> 2: status : CHARGING
+TNV-00005-03 evses -> 2: status : CHARGING
