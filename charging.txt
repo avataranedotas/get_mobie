@@ -444,3 +444,7 @@ STB-00021-01 evses -> 0: status : CHARGING
 
 2022-02-01 12:55:58
 VNG-00033-01 evses -> 0: status : CHARGING
+
+2022-02-01 14:35:57
+OFR-90002-1 evses -> 0: status : CHARGING
+VNG-00033-02 evses -> 1: status : CHARGING
