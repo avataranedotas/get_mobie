@@ -18,3 +18,7 @@ SCG-00002-01 evses -> 0: status : CHARGING
 2022-02-01 19:14:04
 MTJ-00013-01 evses -> 0: status : CHARGING
 MTJ-00013-02 evses -> 1: status : CHARGING
+
+2022-02-01 19:36:04
+MTJ-00013-01 evses -> 0: status : CHARGING
+MTJ-00013-02 evses -> 1: status : CHARGING
