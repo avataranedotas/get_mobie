@@ -5236,3 +5236,7 @@ evses -> 1 -> connectors -> 0:
 2022-02-01 10:17:57
 Adicionados:['CSC-00077']
 Removidos:[]
+
+2022-02-01 11:36:00
+Adicionados:['CSC-00078', 'STB-00020']
+Removidos:[]
