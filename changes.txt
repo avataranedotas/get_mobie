@@ -5232,3 +5232,7 @@ GMR-00023
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 43000
+
+2022-02-01 10:17:57
+Adicionados:['CSC-00077']
+Removidos:[]
