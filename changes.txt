@@ -1,0 +1,18 @@
+
+2022-02-01 15:40:53
+STR-00024
+: 
+ NEW address : A1 km 84,3 sentido Sul-Norte
+ OLD address : A1 km 84,3 sentido  Sul-Norte
+STR-00024
+coordinates: 
+ NEW latitude : 39.3922403
+ OLD latitude : 39.2332800
+STR-00024
+coordinates: 
+ NEW longitude : -8.6384393
+ OLD longitude : -8.3823600
+STR-00024
+: 
+ NEW coordinates : {'latitude': '39.3922403', 'longitude': '-8.6384393'}
+ OLD coordinates : {'latitude': '39.2332800', 'longitude': '-8.3823600'}

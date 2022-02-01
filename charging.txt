@@ -1,0 +1,3 @@
+
+2022-02-01 15:40:54
+STR-00024-01 evses -> 0: status : CHARGING
