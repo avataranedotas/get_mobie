@@ -25,3 +25,6 @@ MTJ-00013-02 evses -> 1: status : CHARGING
 
 2022-02-01 23:16:21
 AVV-90001-1 evses -> 0: status : CHARGING
+
+2022-02-01 23:37:18
+AVV-90001-1 evses -> 0: status : CHARGING
