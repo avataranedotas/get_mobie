@@ -5240,3 +5240,7 @@ Removidos:[]
 2022-02-01 11:36:00
 Adicionados:['CSC-00078', 'STB-00020']
 Removidos:[]
+
+2022-02-01 12:26:04
+Adicionados:['STB-00021', 'STR-00024']
+Removidos:[]
