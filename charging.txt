@@ -441,3 +441,6 @@ STB-00020-02 evses -> 1: status : CHARGING
 
 2022-02-01 12:26:06
 STB-00021-01 evses -> 0: status : CHARGING
+
+2022-02-01 12:55:58
+VNG-00033-01 evses -> 0: status : CHARGING
