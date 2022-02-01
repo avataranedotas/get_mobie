@@ -8,3 +8,6 @@ STR-00024-01 evses -> 0: status : CHARGING
 2022-02-01 16:57:11
 STR-00024-01 evses -> 0: status : CHARGING
 STR-00024-03 evses -> 2: status : CHARGING
+
+2022-02-01 18:19:13
+SCG-00002-01 evses -> 0: status : CHARGING
