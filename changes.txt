@@ -16,3 +16,7 @@ STR-00024
 : 
  NEW coordinates : {'latitude': '39.3922403', 'longitude': '-8.6384393'}
  OLD coordinates : {'latitude': '39.2332800', 'longitude': '-8.3823600'}
+
+2022-02-02 03:15:53
+Adicionados:['AFE-90001']
+Removidos:['AFE-00001']
