@@ -55,3 +55,6 @@ MFR-00019-02 evses -> 1: status : CHARGING
 
 2022-02-02 09:37:35
 AVV-90001-2 evses -> 1: status : CHARGING
+
+2022-02-02 10:17:26
+AVV-90001-2 evses -> 1: status : CHARGING

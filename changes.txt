@@ -20,3 +20,7 @@ STR-00024
 2022-02-02 03:15:53
 Adicionados:['AFE-90001']
 Removidos:['AFE-00001']
+
+2022-02-02 10:17:25
+Adicionados:['LGS-00011']
+Removidos:[]
