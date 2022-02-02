@@ -70,3 +70,6 @@ AVV-90001-2 evses -> 1: status : CHARGING
 
 2022-02-02 12:25:29
 AVV-90001-1 evses -> 0: status : CHARGING
+
+2022-02-02 16:24:00
+CSC-00078-03 evses -> 2: status : CHARGING
