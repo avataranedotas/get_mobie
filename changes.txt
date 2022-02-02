@@ -24,3 +24,7 @@ Removidos:['AFE-00001']
 2022-02-02 10:17:25
 Adicionados:['LGS-00011']
 Removidos:[]
+
+2022-02-02 13:46:10
+Adicionados:['PRT-00129']
+Removidos:[]
