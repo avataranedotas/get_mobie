@@ -52,3 +52,7 @@ ODM-00005
 : 
  NEW coordinates : {'latitude': '37.598781', 'longitude': '-8.645581'}
  OLD coordinates : {'latitude': '37.5987810', 'longitude': '-8.6455810'}
+
+2022-02-03 14:36:32
+Adicionados:['VNG-00068']
+Removidos:[]
