@@ -36,3 +36,19 @@ Removidos:[]
 2022-02-03 10:38:54
 Adicionados:['ODM-00005', 'PVZ-00013', 'PVZ-00014']
 Removidos:[]
+
+2022-02-03 11:12:56
+Adicionados:['PVZ-00015']
+Removidos:[]
+ODM-00005
+coordinates: 
+ NEW latitude : 37.598781
+ OLD latitude : 37.5987810
+ODM-00005
+coordinates: 
+ NEW longitude : -8.645581
+ OLD longitude : -8.6455810
+ODM-00005
+: 
+ NEW coordinates : {'latitude': '37.598781', 'longitude': '-8.645581'}
+ OLD coordinates : {'latitude': '37.5987810', 'longitude': '-8.6455810'}
