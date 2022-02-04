@@ -64,3 +64,7 @@ Removidos:[]
 2022-02-04 12:21:02
 Adicionados:['VNG-00066']
 Removidos:[]
+
+2022-02-04 16:48:02
+Adicionados:['AVR-00020']
+Removidos:[]
