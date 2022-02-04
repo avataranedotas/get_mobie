@@ -100,3 +100,6 @@ STC-00004-02 evses -> 1: status : CHARGING
 
 2022-02-04 09:36:51
 STC-00004-02 evses -> 1: status : CHARGING
+
+2022-02-04 10:14:27
+STC-00004-02 evses -> 1: status : CHARGING
