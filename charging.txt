@@ -94,3 +94,6 @@ PDL-00002-01 evses -> 0: status : CHARGING
 
 2022-02-04 08:36:12
 STC-00004-02 evses -> 1: status : CHARGING
+
+2022-02-04 09:14:22
+STC-00004-02 evses -> 1: status : CHARGING
