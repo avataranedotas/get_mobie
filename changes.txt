@@ -60,3 +60,7 @@ Removidos:[]
 2022-02-03 15:41:01
 Adicionados:['LSB-00440']
 Removidos:[]
+
+2022-02-04 12:21:02
+Adicionados:['VNG-00066']
+Removidos:[]
