@@ -118,3 +118,6 @@ LGS-00011-01 evses -> 0: status : CHARGING
 
 2022-02-05 15:36:12
 LGS-00011-01 evses -> 0: status : CHARGING
+
+2022-02-05 16:18:29
+LGS-00011-01 evses -> 0: status : CHARGING
