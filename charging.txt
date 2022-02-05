@@ -115,3 +115,6 @@ PDL-00008-01 evses -> 0: status : CHARGING
 
 2022-02-05 15:13:18
 LGS-00011-01 evses -> 0: status : CHARGING
+
+2022-02-05 15:36:12
+LGS-00011-01 evses -> 0: status : CHARGING
