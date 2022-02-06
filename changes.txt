@@ -76,3 +76,7 @@ Removidos:[]
 2022-02-05 12:19:31
 Adicionados:['BRG-00052']
 Removidos:[]
+
+2022-02-06 10:38:16
+Adicionados:['BRG-00054']
+Removidos:[]
