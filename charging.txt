@@ -153,3 +153,6 @@ SCD-00003-03 evses -> 2: status : CHARGING
 
 2022-02-07 18:19:14
 LRA-00049-02 evses -> 1: status : CHARGING
+
+2022-02-07 18:41:26
+LRA-00049-02 evses -> 1: status : CHARGING
