@@ -84,3 +84,7 @@ Removidos:[]
 2022-02-06 16:22:36
 Adicionados:['BRG-00048', 'BRG-00049']
 Removidos:[]
+
+2022-02-07 10:17:14
+Adicionados:['BRG-00053']
+Removidos:[]
