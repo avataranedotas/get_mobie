@@ -159,3 +159,6 @@ LRA-00049-02 evses -> 1: status : CHARGING
 
 2022-02-07 20:36:22
 PMZ-00004-02 evses -> 1: status : CHARGING
+
+2022-02-07 21:12:30
+PMZ-00004-02 evses -> 1: status : CHARGING
