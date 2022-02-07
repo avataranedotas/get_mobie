@@ -124,3 +124,6 @@ LGS-00011-01 evses -> 0: status : CHARGING
 
 2022-02-05 19:36:06
 ABF-00035-01 evses -> 0: status : CHARGING
+
+2022-02-07 12:55:56
+VNG-00066-01 evses -> 0: status : CHARGING
