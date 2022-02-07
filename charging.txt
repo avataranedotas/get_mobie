@@ -135,3 +135,7 @@ LGA-00002-01 evses -> 0: status : CHARGING
 2022-02-07 13:36:48
 LGA-00002-01 evses -> 0: status : CHARGING
 LGA-00002-01 evses -> 0: status : CHARGING
+
+2022-02-07 14:15:06
+LGA-00002-01 evses -> 0: status : CHARGING
+LGA-00002-01 evses -> 0: status : CHARGING
