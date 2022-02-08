@@ -171,3 +171,6 @@ PMZ-00004-02 evses -> 1: status : CHARGING
 
 2022-02-07 22:37:40
 PMZ-00004-02 evses -> 1: status : CHARGING
+
+2022-02-08 09:16:29
+BRG-00051-01 evses -> 0: status : CHARGING
