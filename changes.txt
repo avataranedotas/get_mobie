@@ -92,3 +92,7 @@ Removidos:[]
 2022-02-08 12:53:55
 Adicionados:['ALQ-00005']
 Removidos:[]
+
+2022-02-08 13:36:51
+Adicionados:['ALQ-00004']
+Removidos:[]
