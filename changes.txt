@@ -96,3 +96,31 @@ Removidos:[]
 2022-02-08 13:36:51
 Adicionados:['ALQ-00004']
 Removidos:[]
+
+2022-02-08 17:38:49
+Adicionados:['PCV-90001']
+Removidos:[]
+AFE-90001
+: 
+ NEW city : Alfândega da Fé
+ OLD city : Alfandega da Fé
+FCR-90001
+: 
+ NEW city : Figueira de Castelo Rodrigo
+ OLD city : Figueira Castelo Rodrigo
+LGA-00002
+: 
+ NEW city : Lagoa (Algarve)
+ OLD city : Lagoa
+PSR-00003
+: 
+ NEW address : Aeródromo de Ponte de Sor
+ OLD address : Aeródromo de Ponte de Sôr
+PSR-00003
+: 
+ NEW city : Ponte de Sor
+ OLD city : Ponte de Sôr
+PSR-90001
+: 
+ NEW city : Ponte de Sor
+ OLD city : Ponte de Sôr
