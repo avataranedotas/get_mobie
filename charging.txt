@@ -213,3 +213,6 @@ ALQ-00004-01 evses -> 0: status : CHARGING
 
 2022-02-08 16:54:42
 BRG-00053-1 evses -> 0: status : CHARGING
+
+2022-02-08 17:18:16
+BRG-00053-1 evses -> 0: status : CHARGING
