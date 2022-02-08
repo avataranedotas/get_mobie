@@ -204,3 +204,6 @@ CBR-00040-02 evses -> 1: status : CHARGING
 
 2022-02-08 14:36:28
 ALQ-00004-01 evses -> 0: status : CHARGING
+
+2022-02-08 15:16:19
+ALQ-00004-01 evses -> 0: status : CHARGING
