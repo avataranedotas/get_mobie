@@ -194,3 +194,6 @@ BRG-00051-01 evses -> 0: status : CHARGING
 BRG-00051-01 evses -> 0: status : CHARGING
 CBR-00040-02 evses -> 1: status : CHARGING
 CBR-00040-02 evses -> 1: status : CHARGING
+
+2022-02-08 12:38:31
+CBR-00040-02 evses -> 1: status : CHARGING
