@@ -231,3 +231,6 @@ LRA-00050-02 evses -> 1: status : CHARGING
 
 2022-02-08 22:37:21
 LRA-00050-02 evses -> 1: status : CHARGING
+
+2022-02-08 23:16:34
+LRA-00050-02 evses -> 1: status : CHARGING
