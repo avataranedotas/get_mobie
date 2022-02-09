@@ -128,3 +128,7 @@ PSR-90001
 2022-02-09 13:37:07
 Adicionados:['LGA-90002']
 Removidos:[]
+
+2022-02-09 14:14:28
+Adicionados:[]
+Removidos:['LGA-00002']
