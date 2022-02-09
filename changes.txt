@@ -166,3 +166,7 @@ evses -> 1 -> connectors -> 0:
 2022-02-09 15:32:19
 Adicionados:['LOU-90002']
 Removidos:[]
+
+2022-02-09 16:25:08
+Adicionados:[]
+Removidos:['LOU-00002']
