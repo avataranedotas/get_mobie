@@ -162,3 +162,7 @@ VNG-00066
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 920
  OLD max_voltage : 500
+
+2022-02-09 15:32:19
+Adicionados:['LOU-90002']
+Removidos:[]
