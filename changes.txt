@@ -124,3 +124,7 @@ PSR-90001
 : 
  NEW city : Ponte de Sor
  OLD city : Ponte de Sôr
+
+2022-02-09 13:37:07
+Adicionados:['LGA-90002']
+Removidos:[]
