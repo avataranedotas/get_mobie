@@ -255,3 +255,6 @@ OVR-00004-1 evses -> 0: status : CHARGING
 
 2022-02-10 08:40:19
 MFR-00008-03 evses -> 2: status : CHARGING
+
+2022-02-10 10:17:41
+TVD-00021-01 evses -> 0: status : CHARGING
