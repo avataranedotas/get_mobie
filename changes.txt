@@ -186,3 +186,43 @@ Removidos:[]
 2022-02-10 16:53:24
 Adicionados:['CBR-00026', 'CBR-00027', 'CBR-00028', 'CBR-00029', 'CBR-00030', 'CBR-00031', 'CBR-90004', 'VCT-90007']
 Removidos:[]
+
+2022-02-10 18:18:11
+Adicionados:['OER-00100']
+Removidos:[]
+GVA-90001
+: 
+ NEW address : Rua de Casimiro Andrade
+ OLD address : -
+GVA-90001
+: 
+ NEW postal_code : 6290-356
+ OLD postal_code : 1600-233
+MCV-90001
+: 
+ NEW address : R. Dr. Mota Pinto
+ OLD address : -
+MCV-90001
+: 
+ NEW postal_code : 3220-201
+ OLD postal_code : 1600-233
+OBD-90005
+: 
+ NEW address : N114 9
+ OLD address : -
+SRE-90002
+: 
+ NEW address : Av. Dr. João Esteves Simões
+ OLD address : -
+SRE-90002
+: 
+ NEW postal_code : 3130-211
+ OLD postal_code : 1600-233
+VLG-90001
+: 
+ NEW address : R. Emídio Navarro
+ OLD address : -
+VLG-90001
+: 
+ NEW postal_code : 4440-452
+ OLD postal_code : -
