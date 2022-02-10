@@ -174,3 +174,7 @@ Removidos:['LOU-00002']
 2022-02-09 16:56:18
 Adicionados:['PRT-00076', 'PRT-00084']
 Removidos:[]
+
+2022-02-10 11:35:59
+Adicionados:['MMN-90003', 'OER-00102']
+Removidos:[]
