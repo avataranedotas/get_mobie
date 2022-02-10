@@ -178,3 +178,7 @@ Removidos:[]
 2022-02-10 11:35:59
 Adicionados:['MMN-90003', 'OER-00102']
 Removidos:[]
+
+2022-02-10 12:25:34
+Adicionados:['LSB-00400', 'LSB-00401', 'LSB-00402', 'LSB-00403']
+Removidos:[]
