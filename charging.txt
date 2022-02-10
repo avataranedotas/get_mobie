@@ -258,3 +258,6 @@ MFR-00008-03 evses -> 2: status : CHARGING
 
 2022-02-10 10:17:41
 TVD-00021-01 evses -> 0: status : CHARGING
+
+2022-02-10 10:39:02
+TVD-00021-01 evses -> 0: status : CHARGING
