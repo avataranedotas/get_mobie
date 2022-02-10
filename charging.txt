@@ -286,3 +286,6 @@ BRG-00054-02 evses -> 1: status : CHARGING
 
 2022-02-10 16:53:25
 VCT-90007-02 evses -> 1: status : CHARGING
+
+2022-02-10 17:16:23
+VCT-90007-02 evses -> 1: status : CHARGING
