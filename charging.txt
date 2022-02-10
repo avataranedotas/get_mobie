@@ -273,3 +273,10 @@ BRG-00054-02 evses -> 1: status : CHARGING
 BRG-00054-02 evses -> 1: status : CHARGING
 LSB-00400-03 evses -> 2: status : CHARGING
 LSB-00400-03 evses -> 2: status : CHARGING
+
+2022-02-10 14:36:08
+BRG-00054-02 evses -> 1: status : CHARGING
+LSB-00400-03 evses -> 2: status : CHARGING
+LSB-00400-03 evses -> 2: status : CHARGING
+LSB-00401-02 evses -> 1: status : CHARGING
+LSB-00401-02 evses -> 1: status : CHARGING
