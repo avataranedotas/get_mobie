@@ -182,3 +182,7 @@ Removidos:[]
 2022-02-10 12:25:34
 Adicionados:['LSB-00400', 'LSB-00401', 'LSB-00402', 'LSB-00403']
 Removidos:[]
+
+2022-02-10 16:53:24
+Adicionados:['CBR-00026', 'CBR-00027', 'CBR-00028', 'CBR-00029', 'CBR-00030', 'CBR-00031', 'CBR-90004', 'VCT-90007']
+Removidos:[]
