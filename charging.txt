@@ -265,3 +265,6 @@ TVD-00021-01 evses -> 0: status : CHARGING
 2022-02-10 12:25:35
 LSB-00400-03 evses -> 2: status : CHARGING
 LSB-00400-03 evses -> 2: status : CHARGING
+
+2022-02-10 13:37:45
+BRG-00054-02 evses -> 1: status : CHARGING
