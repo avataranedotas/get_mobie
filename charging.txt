@@ -295,3 +295,6 @@ VCT-90007-02 evses -> 1: status : CHARGING
 
 2022-02-10 18:18:12
 VCT-00024-01 evses -> 0: status : CHARGING
+
+2022-02-10 18:41:51
+VCT-00024-01 evses -> 0: status : CHARGING
