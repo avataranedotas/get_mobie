@@ -226,3 +226,7 @@ VLG-90001
 : 
  NEW postal_code : 4440-452
  OLD postal_code : -
+
+2022-02-11 12:24:52
+Adicionados:['AGH-00002', 'MOBI-GDM-00003']
+Removidos:[]
