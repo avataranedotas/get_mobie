@@ -323,3 +323,7 @@ VCT-00024-03 evses -> 2: status : CHARGING
 AGH-00002-02 evses -> 1: status : CHARGING
 MNC-00005-01 evses -> 0: status : CHARGING
 VCT-00024-03 evses -> 2: status : CHARGING
+
+2022-02-11 13:17:41
+AGH-00002-02 evses -> 1: status : CHARGING
+VCT-00024-03 evses -> 2: status : CHARGING
