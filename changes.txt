@@ -230,3 +230,7 @@ VLG-90001
 2022-02-11 12:24:52
 Adicionados:['AGH-00002', 'MOBI-GDM-00003']
 Removidos:[]
+
+2022-02-11 12:53:13
+Adicionados:[]
+Removidos:['MOBI-GDM-00003']
