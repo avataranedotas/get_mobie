@@ -234,3 +234,17 @@ Removidos:[]
 2022-02-11 12:53:13
 Adicionados:[]
 Removidos:['MOBI-GDM-00003']
+
+2022-02-12 09:37:35
+AGH-00002
+coordinates: 
+ NEW latitude : 38.667833
+ OLD latitude : 38.6678330
+AGH-00002
+coordinates: 
+ NEW longitude : -27.215306
+ OLD longitude : -27.2153060
+AGH-00002
+: 
+ NEW coordinates : {'latitude': '38.667833', 'longitude': '-27.215306'}
+ OLD coordinates : {'latitude': '38.6678330', 'longitude': '-27.2153060'}
