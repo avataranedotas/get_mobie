@@ -381,3 +381,6 @@ BRG-00052-01 evses -> 0: status : CHARGING
 
 2022-02-12 15:15:12
 BRG-00052-01 evses -> 0: status : CHARGING
+
+2022-02-12 15:38:58
+BRG-00052-01 evses -> 0: status : CHARGING
