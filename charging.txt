@@ -438,3 +438,6 @@ BRG-00029-01 evses -> 0: status : CHARGING
 
 2022-02-14 23:15:57
 CHV-00006-02 evses -> 1: status : CHARGING
+
+2022-02-14 23:37:15
+CHV-00006-02 evses -> 1: status : CHARGING
