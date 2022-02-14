@@ -256,3 +256,7 @@ Removidos:[]
 2022-02-14 14:15:11
 Adicionados:['LSB-00412']
 Removidos:[]
+
+2022-02-14 14:36:07
+Adicionados:['LSB-00410', 'LSB-00417']
+Removidos:[]
