@@ -432,3 +432,6 @@ BRG-00029-01 evses -> 0: status : CHARGING
 
 2022-02-14 15:16:19
 BRG-00029-01 evses -> 0: status : CHARGING
+
+2022-02-14 15:40:04
+BRG-00029-01 evses -> 0: status : CHARGING
