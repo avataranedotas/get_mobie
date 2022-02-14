@@ -260,3 +260,7 @@ Removidos:[]
 2022-02-14 14:36:07
 Adicionados:['LSB-00410', 'LSB-00417']
 Removidos:[]
+
+2022-02-14 16:22:52
+Adicionados:['PNI-00006', 'PNI-00007', 'PNI-00008']
+Removidos:[]
