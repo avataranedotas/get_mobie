@@ -248,3 +248,7 @@ AGH-00002
 : 
  NEW coordinates : {'latitude': '38.667833', 'longitude': '-27.215306'}
  OLD coordinates : {'latitude': '38.6678330', 'longitude': '-27.2153060'}
+
+2022-02-14 13:36:49
+Adicionados:['LSB-00411']
+Removidos:[]
