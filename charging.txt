@@ -441,3 +441,6 @@ CHV-00006-02 evses -> 1: status : CHARGING
 
 2022-02-14 23:37:15
 CHV-00006-02 evses -> 1: status : CHARGING
+
+2022-02-15 10:17:42
+PNI-00007-1 evses -> 0: status : CHARGING
