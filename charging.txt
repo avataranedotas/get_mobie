@@ -450,3 +450,7 @@ PNI-00007-1 evses -> 0: status : CHARGING
 
 2022-02-15 11:13:03
 MGL-00005-01 evses -> 0: status : CHARGING
+
+2022-02-15 11:36:00
+CVL-00005-02 evses -> 1: status : CHARGING
+MGL-00005-01 evses -> 0: status : CHARGING
