@@ -503,3 +503,7 @@ PNI-00007-1 evses -> 0: status : CHARGING
 2022-02-15 17:36:36
 MMN-90003-1 evses -> 0: status : CHARGING
 PNI-00007-1 evses -> 0: status : CHARGING
+
+2022-02-15 18:18:47
+MMN-90003-1 evses -> 0: status : CHARGING
+PNI-00007-1 evses -> 0: status : CHARGING
