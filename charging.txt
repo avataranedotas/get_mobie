@@ -463,3 +463,8 @@ STS-00009-02 evses -> 1: status : CHARGING
 
 2022-02-15 12:55:23
 MMN-90003-1 evses -> 0: status : CHARGING
+
+2022-02-15 13:18:23
+MMN-90003-1 evses -> 0: status : CHARGING
+PNI-00006-1 evses -> 0: status : CHARGING
+STS-00009-02 evses -> 1: status : CHARGING
