@@ -454,3 +454,9 @@ MGL-00005-01 evses -> 0: status : CHARGING
 2022-02-15 11:36:00
 CVL-00005-02 evses -> 1: status : CHARGING
 MGL-00005-01 evses -> 0: status : CHARGING
+
+2022-02-15 12:26:15
+CVL-00005-02 evses -> 1: status : CHARGING
+MTS-00032-02 evses -> 1: status : CHARGING
+PNI-00007-1 evses -> 0: status : CHARGING
+STS-00009-02 evses -> 1: status : CHARGING
