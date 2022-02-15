@@ -479,3 +479,7 @@ MMN-90003-1 evses -> 0: status : CHARGING
 
 2022-02-15 14:35:59
 MMN-90003-1 evses -> 0: status : CHARGING
+
+2022-02-15 15:14:20
+CVL-00005-01 evses -> 0: status : CHARGING
+MMN-90003-1 evses -> 0: status : CHARGING
