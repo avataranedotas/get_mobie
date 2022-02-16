@@ -515,3 +515,6 @@ PNI-00007-1 evses -> 0: status : CHARGING
 2022-02-15 19:12:44
 MMN-90003-1 evses -> 0: status : CHARGING
 PNI-00007-1 evses -> 0: status : CHARGING
+
+2022-02-16 23:16:17
+ODV-00010-01 evses -> 0: status : CHARGING
