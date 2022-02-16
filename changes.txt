@@ -374,3 +374,7 @@ VLG-00011
 : 
  NEW parking_type : ON_STREET
  OLD parking_type : Undefined
+
+2022-02-16 19:36:51
+Adicionados:['ABF-00036']
+Removidos:[]
