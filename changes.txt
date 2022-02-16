@@ -292,3 +292,85 @@ Removidos:[]
 2022-02-16 11:15:24
 Adicionados:['LSB-00390', 'LSB-00391', 'LSB-00392', 'MGR-00002', 'PBL-00008', 'SCD-00002']
 Removidos:[]
+
+2022-02-16 13:18:32
+BMT-90001
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+FIG-00011
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+ILH-00001
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+LRA-00026
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+LRA-00030
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+LRA-00031
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+LSB-00310
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+LSD-00001
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+MCN-00002
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+MMN-00002
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+MTS-00032
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+OER-00067
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+OER-00082
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+PMS-00002
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+RSD-90001
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+SBG-00002
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+SRE-90002
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+TND-00005
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+VBP-00007
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
+VLG-00011
+: 
+ NEW parking_type : ON_STREET
+ OLD parking_type : Undefined
