@@ -524,3 +524,6 @@ ODV-00010-01 evses -> 0: status : CHARGING
 
 2022-02-17 11:13:08
 ODV-00010-03 evses -> 2: status : CHARGING
+
+2022-02-17 12:26:07
+LSB-00208-1 evses -> 0: status : CHARGING
