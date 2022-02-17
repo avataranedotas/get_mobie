@@ -554,3 +554,6 @@ PNI-00004-1 evses -> 0: status : CHARGING
 
 2022-02-17 17:37:54
 PNI-00004-1 evses -> 0: status : CHARGING
+
+2022-02-17 18:42:53
+ODV-00010-03 evses -> 2: status : CHARGING
