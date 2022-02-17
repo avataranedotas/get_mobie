@@ -394,3 +394,17 @@ Removidos:[]
 2022-02-17 12:55:19
 Adicionados:['OER-00065']
 Removidos:[]
+
+2022-02-17 16:23:35
+LSB-00440
+coordinates: 
+ NEW latitude : 38.7587447
+ OLD latitude : 38.75865
+LSB-00440
+coordinates: 
+ NEW longitude : -9.1135779
+ OLD longitude : -9.11453
+LSB-00440
+: 
+ NEW coordinates : {'latitude': '38.7587447', 'longitude': '-9.1135779'}
+ OLD coordinates : {'latitude': '38.75865', 'longitude': '-9.11453'}
