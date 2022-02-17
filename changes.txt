@@ -390,3 +390,7 @@ Removidos:[]
 2022-02-17 10:17:37
 Adicionados:['GMR-00038']
 Removidos:[]
+
+2022-02-17 12:55:19
+Adicionados:['OER-00065']
+Removidos:[]
