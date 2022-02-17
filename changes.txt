@@ -408,3 +408,7 @@ LSB-00440
 : 
  NEW coordinates : {'latitude': '38.7587447', 'longitude': '-9.1135779'}
  OLD coordinates : {'latitude': '38.75865', 'longitude': '-9.11453'}
+
+2022-02-17 23:37:07
+Adicionados:['CLD-90005']
+Removidos:[]
