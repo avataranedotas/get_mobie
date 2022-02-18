@@ -428,3 +428,7 @@ Removidos:[]
 2022-02-18 16:23:27
 Adicionados:['MTJ-00021']
 Removidos:[]
+
+2022-02-18 17:16:03
+Adicionados:['CLB-00001', 'CLB-00002']
+Removidos:[]
