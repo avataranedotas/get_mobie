@@ -582,3 +582,6 @@ OER-00065-02 evses -> 1: status : CHARGING
 
 2022-02-18 16:23:29
 GMR-00038-02 evses -> 1: status : CHARGING
+
+2022-02-18 16:52:56
+GMR-00038-02 evses -> 1: status : CHARGING
