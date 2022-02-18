@@ -585,3 +585,7 @@ GMR-00038-02 evses -> 1: status : CHARGING
 
 2022-02-18 16:52:56
 GMR-00038-02 evses -> 1: status : CHARGING
+
+2022-02-18 18:42:38
+VLN-00005-01 evses -> 0: status : CHARGING
+VLN-00005-01 evses -> 0: status : CHARGING
