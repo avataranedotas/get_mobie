@@ -563,3 +563,6 @@ ODV-00010-03 evses -> 2: status : CHARGING
 
 2022-02-17 19:36:19
 GMR-00037-02 evses -> 1: status : CHARGING
+
+2022-02-18 10:18:31
+PNI-00005-1 evses -> 0: status : CHARGING
