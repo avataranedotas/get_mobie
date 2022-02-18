@@ -593,3 +593,7 @@ VLN-00005-01 evses -> 0: status : CHARGING
 2022-02-18 19:12:50
 VLN-00005-01 evses -> 0: status : CHARGING
 VLN-00005-01 evses -> 0: status : CHARGING
+
+2022-02-18 19:36:12
+VLN-00005-01 evses -> 0: status : CHARGING
+VLN-00005-01 evses -> 0: status : CHARGING
