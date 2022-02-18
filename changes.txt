@@ -424,3 +424,7 @@ Removidos:[]
 2022-02-18 14:36:34
 Adicionados:['LSB-00444']
 Removidos:[]
+
+2022-02-18 16:23:27
+Adicionados:['MTJ-00021']
+Removidos:[]
