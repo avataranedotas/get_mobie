@@ -432,3 +432,7 @@ Removidos:[]
 2022-02-18 17:16:03
 Adicionados:['CLB-00001', 'CLB-00002']
 Removidos:[]
+
+2022-02-19 20:16:47
+Adicionados:[]
+Removidos:['GMR-00023']

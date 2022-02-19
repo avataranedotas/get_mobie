@@ -610,3 +610,6 @@ CLB-00001-01 evses -> 0: status : CHARGING
 2022-02-19 19:36:04
 LSB-00444-01 evses -> 0: status : CHARGING
 MTJ-00021-03 evses -> 2: status : CHARGING
+
+2022-02-19 20:16:48
+MTJ-00021-03 evses -> 2: status : CHARGING
