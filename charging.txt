@@ -600,3 +600,6 @@ VLN-00005-01 evses -> 0: status : CHARGING
 
 2022-02-19 12:25:18
 CLB-00001-02 evses -> 1: status : CHARGING
+
+2022-02-19 17:14:38
+CLB-00001-01 evses -> 0: status : CHARGING
