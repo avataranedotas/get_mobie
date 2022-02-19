@@ -603,3 +603,6 @@ CLB-00001-02 evses -> 1: status : CHARGING
 
 2022-02-19 17:14:38
 CLB-00001-01 evses -> 0: status : CHARGING
+
+2022-02-19 17:36:19
+CLB-00001-01 evses -> 0: status : CHARGING
