@@ -613,3 +613,6 @@ MTJ-00021-03 evses -> 2: status : CHARGING
 
 2022-02-19 20:16:48
 MTJ-00021-03 evses -> 2: status : CHARGING
+
+2022-02-20 13:17:12
+ODV-00012-01 evses -> 0: status : CHARGING
