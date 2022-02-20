@@ -633,3 +633,6 @@ SPS-00003-02 evses -> 1: status : CHARGING
 2022-02-20 19:13:58
 ODV-00012-01 evses -> 0: status : CHARGING
 SPS-00003-02 evses -> 1: status : CHARGING
+
+2022-02-20 21:14:17
+LSB-00444-02 evses -> 1: status : CHARGING
