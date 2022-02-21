@@ -57,6 +57,10 @@ print ("Pontos anteriores: ",previouscount)
 
 #if diference found then log to file the changes
 
+
+#-------------- DEFS -------
+
+
 def Diff1(li1, li2):
     li_dif = [i for i in li1 + li2 if i not in li1]
     return li_dif
@@ -64,6 +68,61 @@ def Diff1(li1, li2):
 def Diff2(li1, li2):
     li_dif = [i for i in li1 + li2 if i not in li2]
     return li_dif
+
+
+def finddetails(ident, d1, path=""):
+    global levelglobal2
+    global detalhesadic
+    #global escreverfich
+    #global fich
+    #global watchbusy
+    #levelmax=0
+    nomeactual=""
+    if type(d1) is dict:
+        #print ("            Start dict")        
+        if ( "id" in d1 ) and ( "coordinates" in d1 ) and (d1["id"] == ident) :
+            #print ("\nDetalhes do Novo posto encontrado")
+            #print (d1)
+            #print ("\n")
+            #print (d1["coordinates"])
+            detalhesadic = detalhesadic + "\n" + (d1["id"]) + "-->" + str(d1) + "\n"
+            nomeactual=d1["id"]
+        for k in d1:
+            #print ("            Encontrar dentro dict")
+            #if (k == "coordinates") :
+                #print ("        Encontrada coord:")
+                #print (levelglobal)
+                #print (k)
+                #verificar se estão na watch list
+                #result = [ "%s " %nomeactual, "%s: " % path, "%s : %s" % (k, d1[k])]
+                #levelmax=levelglobal
+                #print("".join(result))  
+                #fich.write ("".join(result))
+                #fich.write("\n")
+
+
+            levelglobal2=levelglobal2+1
+            finddetails(ident, d1[k], "%s -> %s" % (path, k) if path else k)
+            levelglobal2=levelglobal2-1
+
+    elif type(d1) is list:
+        n=0 
+        for j in d1:
+            #print ("            Percorrer lista")
+            #print (n)
+            #print (d1[n])
+            #print ("            Encontrada lista, tentando entrar dentro da lista")
+            #if ( (d1[n]) == ident ):
+            #    print ("Encontrado")
+            levelglobal2=levelglobal2+1      
+            finddetails(ident,d1[n], "%s -> %s" % (path, n) if path else n)
+            levelglobal2=levelglobal2-1 
+            n=n+1
+        
+#-------------------
+
+
+
 
 #get current time
 now = datetime.now()
@@ -73,6 +132,18 @@ date_time = now.strftime("%Y-%m-%d %H:%M:%S")
 #added stations
 adicionados=Diff2(latestlist,previouslist)
 print ("Adicionados:",adicionados)
+
+#new location details
+levelglobal2=0
+z1=0
+detalhesadic=""
+for z in adicionados:
+	#print (adicionados[z1])
+	finddetails (adicionados[z1],datalatest)
+	z1=z1+1
+#print ("detalhes ficheiro")
+print (detalhesadic)
+
 
 #removed stations
 removidos=Diff1(latestlist,previouslist)
@@ -92,47 +163,6 @@ print ("Removidos:",removidos)
 
 
 #comparação ponto a ponto
-
-def findDiff(d1, d2, path=""):
-    for k in d1:
-        if k in d2:
-            if type(d1[k]) is dict:
-                findDiff(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
-            if d1[k] != d2[k]:
-                result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
-                print("\n".join(result))
-        else:
-            print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
-            
-def findDiffE(d1, d2, path=""):
-    for k in d1:
-        if k in d2:
-            if type(d1[k]) is dict:
-                findDiffE(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
-            #esta comparação tenta evitar as situações em que só o updated mudou    
-            #if (d1[k] != d2[k]) and (str(d1[k]).find("updated") != -1):
-            if d1[k] != d2[k]:
-                result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
-                print("\n".join(result))
-                print (type(d1[k]))
-                print (str(d1[k]).find("updated"))
-        else:
-            print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
-
-
-
-def findDiffA(d1, d2, path=""):
-    for k in d1:
-        if k in d2:
-            if type(d1[k]) is dict:
-                findDiffE(d1[k],d2[k], "%s -> %s" % (path, k) if path else k)
-            if d1[k] != d2[k]:
-                result = [ "%s: " % path, " - %s : %s" % (k, d1[k]) , " + %s : %s" % (k, d2[k])]
-                print("\n".join(result))
-                #print (type(d1[k]))
-        else:
-            print ("%s%s as key not in d2\n" % ("%s: " % path if path else "", k))
-
 
 
 
@@ -217,7 +247,9 @@ if (adicionados or removidos):
     print ("Houve alterações")
     fich.write("Adicionados:")
     fich.write(str(adicionados))
-    fich.write("\n")    
+    fich.write("\n")
+    fich.write(str(detalhesadic))
+    #fich.write("\n")
     fich.write("Removidos:")
     fich.write(str(removidos))
     fich.write("\n")
@@ -263,4 +295,5 @@ if escreverfich == 1:
 
 
 #findDiffB(dA,dB)
+
 
