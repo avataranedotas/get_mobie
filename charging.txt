@@ -672,3 +672,6 @@ ODV-00012-03 evses -> 2: status : CHARGING
 
 2022-02-21 05:15:32
 ODV-00012-03 evses -> 2: status : CHARGING
+
+2022-02-21 05:36:05
+ODV-00012-03 evses -> 2: status : CHARGING
