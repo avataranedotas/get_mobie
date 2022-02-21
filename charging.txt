@@ -721,3 +721,7 @@ MNC-00004-01 evses -> 0: status : CHARGING
 2022-02-21 12:27:46
 ADL-90001-2 evses -> 1: status : CHARGING
 MNC-00004-01 evses -> 0: status : CHARGING
+
+2022-02-21 12:57:35
+ADL-90001-2 evses -> 1: status : CHARGING
+MNC-00004-01 evses -> 0: status : CHARGING
