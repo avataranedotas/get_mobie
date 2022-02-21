@@ -693,3 +693,6 @@ LSB-00440-02 evses -> 1: status : CHARGING
 
 2022-02-21 08:41:05
 LSB-00440-02 evses -> 1: status : CHARGING
+
+2022-02-21 09:17:04
+LSB-00440-02 evses -> 1: status : CHARGING
