@@ -440,3 +440,7 @@ Removidos:['GMR-00023']
 2022-02-21 11:14:08
 Adicionados:['PBL-00004']
 Removidos:[]
+
+2022-02-21 13:23:51
+Adicionados:['AMD-00042', 'AMD-00043', 'AMD-00044']
+Removidos:[]
