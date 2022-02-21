@@ -444,3 +444,7 @@ Removidos:[]
 2022-02-21 13:23:51
 Adicionados:['AMD-00042', 'AMD-00043', 'AMD-00044']
 Removidos:[]
+
+2022-02-21 13:37:39
+Adicionados:['VNG-00069']
+Removidos:[]
