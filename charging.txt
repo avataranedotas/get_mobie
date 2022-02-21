@@ -746,3 +746,8 @@ ODV-00012-01 evses -> 0: status : CHARGING
 
 2022-02-21 15:41:35
 MNC-00004-01 evses -> 0: status : CHARGING
+
+2022-02-21 16:23:38
+LSB-00444-01 evses -> 0: status : CHARGING
+MNC-00004-01 evses -> 0: status : CHARGING
+SPS-00003-01 evses -> 0: status : CHARGING
