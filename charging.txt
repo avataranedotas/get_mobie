@@ -771,3 +771,6 @@ SCD-00002-01 evses -> 0: status : CHARGING
 
 2022-02-22 12:29:09
 SCD-00002-01 evses -> 0: status : CHARGING
+
+2022-02-22 12:59:08
+VLN-00004-01 evses -> 0: status : CHARGING
