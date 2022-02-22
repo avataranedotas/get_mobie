@@ -780,3 +780,6 @@ MMV-00003-01 evses -> 0: status : CHARGING
 
 2022-02-22 16:54:04
 GVA-00002-03 evses -> 2: status : CHARGING
+
+2022-02-22 17:16:48
+GVA-00002-03 evses -> 2: status : CHARGING
