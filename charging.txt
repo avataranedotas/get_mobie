@@ -762,3 +762,6 @@ MNC-00004-01 evses -> 0: status : CHARGING
 
 2022-02-21 17:37:25
 MNC-00004-01 evses -> 0: status : CHARGING
+
+2022-02-22 11:14:30
+SCD-00002-01 evses -> 0: status : CHARGING
