@@ -794,3 +794,6 @@ MFR-00020-03 evses -> 2: status : CHARGING
 2022-02-22 19:36:28
 BRG-00049-01 evses -> 0: status : CHARGING
 PBL-00008-02 evses -> 1: status : CHARGING
+
+2022-02-22 19:51:56
+PBL-00008-02 evses -> 1: status : CHARGING
