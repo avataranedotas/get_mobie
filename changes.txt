@@ -448,3 +448,29 @@ Removidos:[]
 2022-02-21 13:37:39
 Adicionados:['VNG-00069']
 Removidos:[]
+
+2022-02-22 10:18:36
+LLE-00069
+coordinates: 
+ NEW latitude : 37.0945404
+ OLD latitude : 37.09454043252442
+LLE-00069
+coordinates: 
+ NEW longitude : -8.0430304
+ OLD longitude : -8.04303035470022
+LLE-00069
+: 
+ NEW coordinates : {'latitude': '37.0945404', 'longitude': '-8.0430304'}
+ OLD coordinates : {'latitude': '37.09454043252442', 'longitude': '-8.04303035470022'}
+PMS-00002
+coordinates: 
+ NEW latitude : 39.6233710
+ OLD latitude : 39.62337095302232
+PMS-00002
+coordinates: 
+ NEW longitude : -8.8565174
+ OLD longitude : -8.856517417243035
+PMS-00002
+: 
+ NEW coordinates : {'latitude': '39.6233710', 'longitude': '-8.8565174'}
+ OLD coordinates : {'latitude': '39.62337095302232', 'longitude': '-8.856517417243035'}
