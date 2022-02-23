@@ -800,3 +800,6 @@ PBL-00008-02 evses -> 1: status : CHARGING
 
 2022-02-23 19:40:08
 SNT-00072-01 evses -> 0: status : CHARGING
+
+2022-02-23 20:17:20
+AGN-90001-02 evses -> 1: status : CHARGING
