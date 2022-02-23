@@ -803,3 +803,6 @@ SNT-00072-01 evses -> 0: status : CHARGING
 
 2022-02-23 20:17:20
 AGN-90001-02 evses -> 1: status : CHARGING
+
+2022-02-23 20:38:19
+AGN-90001-02 evses -> 1: status : CHARGING
