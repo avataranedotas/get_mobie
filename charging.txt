@@ -806,3 +806,6 @@ AGN-90001-02 evses -> 1: status : CHARGING
 
 2022-02-23 20:38:19
 AGN-90001-02 evses -> 1: status : CHARGING
+
+2022-02-24 05:15:13
+GDM-00015-02 evses -> 1: status : CHARGING
