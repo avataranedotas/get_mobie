@@ -874,3 +874,7 @@ LSB-00417-02 evses -> 1: status : CHARGING
 2022-02-24 18:43:29
 LSB-00412-01 evses -> 0: status : CHARGING
 LSB-00417-02 evses -> 1: status : CHARGING
+
+2022-02-24 19:36:49
+MTA-00003-02 evses -> 1: status : CHARGING
+MTJ-00020-01 evses -> 0: status : CHARGING

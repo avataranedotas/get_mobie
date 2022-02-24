@@ -668,3 +668,9 @@ PBL-00004
 : 
  NEW coordinates : {'latitude': '40.014189', 'longitude': '-8.600330'}
  OLD coordinates : {'latitude': '39.356963', 'longitude': '-9.364021'}
+
+2022-02-24 19:36:48
+Adicionados:['VFX-00024']
+
+VFX-00024-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'VFX-00024', 'publish': True, 'address': 'EN10 km 127,5 - Lugar de Ponte da Silveira', 'city': 'Vila Franca de Xira', 'country': 'PRT', 'postal_code': '2615-000', 'coordinates': {'latitude': '38.906726', 'longitude': '-9.032482'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFX-00024-01', 'evse_id': 'PT*REP*VFX*00024*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFX-00024-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-24T19:03:36Z'}], 'last_updated': '2022-02-24T19:03:36Z'}, {'uid': 'VFX-00024-02', 'evse_id': 'PT*REP*VFX*00024*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFX-00024-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-24T19:03:37Z'}], 'last_updated': '2022-02-24T19:03:37Z'}, {'uid': 'VFX-00024-03', 'evse_id': 'PT*REP*VFX*00024*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFX-00024-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-02-24T19:03:35Z'}], 'last_updated': '2022-02-24T19:03:35Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-02-24T19:05:33Z'}
+Removidos:[]
