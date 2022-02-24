@@ -831,3 +831,6 @@ TBR-00001-1 evses -> 0: status : CHARGING
 
 2022-02-24 13:25:28
 AMR-00001-1 evses -> 0: status : CHARGING
+
+2022-02-24 13:38:25
+AMR-00001-1 evses -> 0: status : CHARGING
