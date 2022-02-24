@@ -821,3 +821,6 @@ MTA-00003-01 evses -> 0: status : CHARGING
 
 2022-02-24 09:16:34
 MTJ-00020-01 evses -> 0: status : CHARGING
+
+2022-02-24 10:18:15
+MTA-00003-03 evses -> 2: status : CHARGING
