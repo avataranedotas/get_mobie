@@ -843,3 +843,6 @@ MTA-00003-01 evses -> 0: status : CHARGING
 GDM-00010-02 evses -> 1: status : CHARGING
 GDM-00015-01 evses -> 0: status : CHARGING
 MTA-00003-01 evses -> 0: status : CHARGING
+
+2022-02-24 15:17:50
+MTA-00003-01 evses -> 0: status : CHARGING
