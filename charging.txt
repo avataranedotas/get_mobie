@@ -866,3 +866,7 @@ VLG-00012-04 evses -> 3: status : CHARGING
 2022-02-24 17:38:18
 GDM-00015-02 evses -> 1: status : CHARGING
 LSB-00412-01 evses -> 0: status : CHARGING
+
+2022-02-24 18:20:11
+LSB-00412-01 evses -> 0: status : CHARGING
+LSB-00417-02 evses -> 1: status : CHARGING
