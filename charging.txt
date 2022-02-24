@@ -812,3 +812,6 @@ GDM-00015-02 evses -> 1: status : CHARGING
 
 2022-02-24 05:36:13
 GDM-00015-02 evses -> 1: status : CHARGING
+
+2022-02-24 08:19:40
+MTA-00003-01 evses -> 0: status : CHARGING
