@@ -838,3 +838,8 @@ AMR-00001-1 evses -> 0: status : CHARGING
 2022-02-24 14:16:06
 AMR-00001-1 evses -> 0: status : CHARGING
 MTA-00003-01 evses -> 0: status : CHARGING
+
+2022-02-24 14:37:09
+GDM-00010-02 evses -> 1: status : CHARGING
+GDM-00015-01 evses -> 0: status : CHARGING
+MTA-00003-01 evses -> 0: status : CHARGING
