@@ -572,3 +572,17 @@ Adicionados:['TBR-00001']
 
 TBR-00001-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'TBR-00001', 'publish': True, 'address': '-', 'city': '-', 'country': 'PRT', 'postal_code': '1600-233', 'coordinates': {'latitude': '39.694531', 'longitude': '-8.130556'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TBR-00001-1', 'evse_id': 'PT*MOB*TBR*00001*1', 'status': 'CHARGING', 'connectors': [{'id': 'TBR-00001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-24T11:13:05Z'}], 'last_updated': '2022-02-24T11:13:05Z'}, {'uid': 'TBR-00001-2', 'evse_id': 'PT*MOB*TBR*00001*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'TBR-00001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-24T11:12:52Z'}], 'last_updated': '2022-02-24T11:12:52Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-02-24T11:20:03Z'}
 Removidos:[]
+
+2022-02-24 12:28:00
+PBL-00004
+coordinates: 
+ NEW latitude : 39.356963
+ OLD latitude : 39.3569630
+PBL-00004
+coordinates: 
+ NEW longitude : -9.364021
+ OLD longitude : -9.3640210
+PBL-00004
+: 
+ NEW coordinates : {'latitude': '39.356963', 'longitude': '-9.364021'}
+ OLD coordinates : {'latitude': '39.3569630', 'longitude': '-9.3640210'}
