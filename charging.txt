@@ -887,3 +887,8 @@ MTA-00003-02 evses -> 1: status : CHARGING
 
 2022-02-24 21:15:04
 MTA-00003-02 evses -> 1: status : CHARGING
+
+2022-02-25 09:16:26
+LSB-00412-01 evses -> 0: status : CHARGING
+MFR-00018-03 evses -> 2: status : CHARGING
+VFX-00024-01 evses -> 0: status : CHARGING
