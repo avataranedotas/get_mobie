@@ -930,3 +930,6 @@ LSB-00431-1 evses -> 0: status : CHARGING
 
 2022-02-25 16:23:49
 LSB-00431-1 evses -> 0: status : CHARGING
+
+2022-02-25 16:53:32
+LSB-00431-1 evses -> 0: status : CHARGING
