@@ -921,3 +921,6 @@ LSB-00433-1 evses -> 0: status : CHARGING
 FAF-00005-01 evses -> 0: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00433-1 evses -> 0: status : CHARGING
+
+2022-02-25 15:17:31
+LSB-00431-1 evses -> 0: status : CHARGING

@@ -680,3 +680,17 @@ Adicionados:['FAF-00005']
 
 FAF-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'FAF-00005', 'publish': True, 'address': 'Lugar de Cavadas', 'city': 'Fafe', 'country': 'PRT', 'postal_code': '4820-000', 'coordinates': {'latitude': '41.445663', 'longitude': '-8.165417'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FAF-00005-01', 'evse_id': 'PT*KLC*FAF*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAF-00005-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-25T12:53:46Z'}], 'last_updated': '2022-02-25T12:53:38Z'}, {'uid': 'FAF-00005-02', 'evse_id': 'PT*KLC*FAF*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAF-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-25T12:53:50Z'}], 'last_updated': '2022-02-25T12:53:47Z'}, {'uid': 'FAF-00005-03', 'evse_id': 'PT*KLC*FAF*00005*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAF-00005-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-02-25T12:53:51Z'}], 'last_updated': '2022-02-25T12:53:51Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-02-25T13:03:48Z'}
 Removidos:[]
+
+2022-02-25 15:17:30
+GDL-00007
+coordinates: 
+ NEW latitude : 38.167691
+ OLD latitude : 38.167018
+GDL-00007
+coordinates: 
+ NEW longitude : -8.490198
+ OLD longitude : -8.492748
+GDL-00007
+: 
+ NEW coordinates : {'latitude': '38.167691', 'longitude': '-8.490198'}
+ OLD coordinates : {'latitude': '38.167018', 'longitude': '-8.492748'}
