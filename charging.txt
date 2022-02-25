@@ -897,3 +897,9 @@ VFX-00024-01 evses -> 0: status : CHARGING
 LSB-00412-01 evses -> 0: status : CHARGING
 LSB-00412-02 evses -> 1: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
+
+2022-02-25 10:40:05
+LSB-00412-01 evses -> 0: status : CHARGING
+LSB-00412-02 evses -> 1: status : CHARGING
+LSB-00430-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
