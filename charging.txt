@@ -967,3 +967,6 @@ VIZ-00003-03 evses -> 2: status : CHARGING
 
 2022-02-26 11:36:54
 VIZ-00003-02 evses -> 1: status : CHARGING
+
+2022-02-26 16:22:35
+ALM-90027-02 evses -> 1: status : CHARGING
