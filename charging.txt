@@ -964,3 +964,6 @@ LSB-00431-1 evses -> 0: status : CHARGING
 2022-02-26 11:13:36
 VIZ-00003-02 evses -> 1: status : CHARGING
 VIZ-00003-03 evses -> 2: status : CHARGING
+
+2022-02-26 11:36:54
+VIZ-00003-02 evses -> 1: status : CHARGING
