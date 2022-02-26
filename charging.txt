@@ -973,3 +973,7 @@ ALM-90027-02 evses -> 1: status : CHARGING
 
 2022-02-26 16:51:42
 ALM-90027-02 evses -> 1: status : CHARGING
+
+2022-02-26 17:15:01
+ALM-90027-02 evses -> 1: status : CHARGING
+CLB-00002-01 evses -> 0: status : CHARGING
