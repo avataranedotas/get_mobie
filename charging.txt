@@ -1025,3 +1025,6 @@ LSB-00433-1 evses -> 0: status : CHARGING
 2022-02-27 13:37:07
 ALM-90027-01 evses -> 0: status : CHARGING
 LSB-00433-1 evses -> 0: status : CHARGING
+
+2022-02-27 14:15:33
+ALM-90027-01 evses -> 0: status : CHARGING
