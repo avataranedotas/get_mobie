@@ -993,3 +993,6 @@ CLB-00002-02 evses -> 1: status : CHARGING
 
 2022-02-26 20:16:32
 CLB-00002-02 evses -> 1: status : CHARGING
+
+2022-02-27 09:37:22
+ALM-90027-01 evses -> 0: status : CHARGING
