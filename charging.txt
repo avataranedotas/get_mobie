@@ -1057,3 +1057,8 @@ ALM-90027-02 evses -> 1: status : CHARGING
 2022-02-28 10:40:38
 MTS-00041-02 evses -> 1: status : CHARGING
 MTS-00041-02 evses -> 1: status : CHARGING
+
+2022-02-28 11:14:42
+MTS-00041-02 evses -> 1: status : CHARGING
+MTS-00041-02 evses -> 1: status : CHARGING
+VRL-00012-03 evses -> 2: status : CHARGING
