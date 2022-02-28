@@ -1074,3 +1074,6 @@ MTS-00041-02 evses -> 1: status : CHARGING
 2022-02-28 13:38:33
 LSB-00410-01 evses -> 0: status : CHARGING
 LSB-00410-02 evses -> 1: status : CHARGING
+
+2022-02-28 15:17:51
+VNC-00003-02 evses -> 1: status : CHARGING
