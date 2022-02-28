@@ -1077,3 +1077,6 @@ LSB-00410-02 evses -> 1: status : CHARGING
 
 2022-02-28 15:17:51
 VNC-00003-02 evses -> 1: status : CHARGING
+
+2022-02-28 15:41:29
+VNC-00003-02 evses -> 1: status : CHARGING
