@@ -1122,3 +1122,6 @@ MTS-00042-02 evses -> 1: status : CHARGING
 
 2022-03-01 18:43:04
 AVV-00002-01 evses -> 0: status : CHARGING
+
+2022-03-01 19:13:18
+AVV-00002-01 evses -> 0: status : CHARGING
