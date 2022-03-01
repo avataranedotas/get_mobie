@@ -1104,3 +1104,6 @@ AVV-00003-02 evses -> 1: status : CHARGING
 
 2022-03-01 13:36:15
 AVV-00003-02 evses -> 1: status : CHARGING
+
+2022-03-01 14:37:26
+AVV-00002-01 evses -> 0: status : CHARGING
