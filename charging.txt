@@ -1083,3 +1083,6 @@ VNC-00003-02 evses -> 1: status : CHARGING
 
 2022-03-01 03:20:08
 AVV-00003-02 evses -> 1: status : CHARGING
+
+2022-03-01 03:41:55
+AVV-00003-02 evses -> 1: status : CHARGING
