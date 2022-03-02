@@ -750,3 +750,33 @@ LSB-00442-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00442', 'publis
 
 LSB-00443-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00443', 'publish': True, 'address': 'Rua S. Bento, 209 a 215', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-219', 'coordinates': {'latitude': '38.7161432', 'longitude': '-9.1542867'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-00443-1', 'evse_id': 'PT*MAK*LSB*00443*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00443-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-02T16:35:05Z'}], 'last_updated': '2022-03-02T16:35:05Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-02T16:35:06Z'}
 Removidos:[]
+
+2022-03-02 17:38:27
+Adicionados:['CHM-00002']
+
+CHM-00002-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'CHM-00002', 'publish': True, 'address': 'Rua Direita de S. Pedro', 'city': 'Chamusca', 'country': 'PRT', 'postal_code': '2140-098', 'coordinates': {'latitude': '39.359452', 'longitude': '-8.480593'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CHM-00002-01', 'evse_id': 'PT*GLP*CHM*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CHM-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-02T17:10:16Z'}], 'last_updated': '2022-03-02T17:10:16Z'}, {'uid': 'CHM-00002-02', 'evse_id': 'PT*GLP*CHM*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CHM-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-02T17:10:17Z'}], 'last_updated': '2022-03-02T17:10:17Z'}, {'uid': 'CHM-00002-03', 'evse_id': 'PT*GLP*CHM*00002*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CHM-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-02T17:10:19Z'}], 'last_updated': '2022-03-02T17:10:19Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-02T17:10:19Z'}
+Removidos:[]
+AVV-00002
+coordinates: 
+ NEW latitude : 41.84836623
+ OLD latitude : 41.5054100
+AVV-00002
+coordinates: 
+ NEW longitude : -8.41664743
+ OLD longitude : -8.2500200
+AVV-00002
+: 
+ NEW coordinates : {'latitude': '41.84836623', 'longitude': '-8.41664743'}
+ OLD coordinates : {'latitude': '41.5054100', 'longitude': '-8.2500200'}
+AVV-00003
+coordinates: 
+ NEW latitude : 41.84836623
+ OLD latitude : 41.5054100
+AVV-00003
+coordinates: 
+ NEW longitude : -8.41664743
+ OLD longitude : -8.2500200
+AVV-00003
+: 
+ NEW coordinates : {'latitude': '41.84836623', 'longitude': '-8.41664743'}
+ OLD coordinates : {'latitude': '41.5054100', 'longitude': '-8.2500200'}
