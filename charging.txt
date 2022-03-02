@@ -1158,3 +1158,6 @@ LSB-00410-02 evses -> 1: status : CHARGING
 2022-03-02 15:17:40
 CHM-00003-01 evses -> 0: status : CHARGING
 LSB-00410-02 evses -> 1: status : CHARGING
+
+2022-03-02 15:40:00
+LSB-00410-02 evses -> 1: status : CHARGING
