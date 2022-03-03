@@ -1230,3 +1230,6 @@ PNI-00008-1 evses -> 0: status : CHARGING
 
 2022-03-03 20:17:27
 PNI-00008-1 evses -> 0: status : CHARGING
+
+2022-03-03 20:36:51
+PNI-00008-1 evses -> 0: status : CHARGING
