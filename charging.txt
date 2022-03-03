@@ -1212,3 +1212,6 @@ MTS-00041-02 evses -> 1: status : CHARGING
 
 2022-03-03 17:18:57
 MTS-00041-02 evses -> 1: status : CHARGING
+
+2022-03-03 17:39:11
+PNI-00008-1 evses -> 0: status : CHARGING
