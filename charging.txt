@@ -1200,3 +1200,6 @@ VNG-00069-01 evses -> 0: status : CHARGING
 
 2022-03-03 14:16:17
 VNG-00069-01 evses -> 0: status : CHARGING
+
+2022-03-03 14:37:17
+MNC-00004-02 evses -> 1: status : CHARGING
