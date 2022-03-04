@@ -1293,3 +1293,6 @@ MTS-00042-02 evses -> 1: status : CHARGING
 2022-03-04 11:13:41
 MTS-00042-02 evses -> 1: status : CHARGING
 VRL-00012-02 evses -> 1: status : CHARGING
+
+2022-03-04 11:36:19
+VRL-00012-02 evses -> 1: status : CHARGING
