@@ -1304,3 +1304,7 @@ VRL-00012-02 evses -> 1: status : CHARGING
 2022-03-04 13:25:53
 BRR-00011-1 evses -> 0: status : CHARGING
 VRL-00012-02 evses -> 1: status : CHARGING
+
+2022-03-04 13:38:52
+BRR-00011-1 evses -> 0: status : CHARGING
+VRL-00012-02 evses -> 1: status : CHARGING
