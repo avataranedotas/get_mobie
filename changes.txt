@@ -816,3 +816,9 @@ LSB-00401
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 160000
+
+2022-03-04 17:16:53
+Adicionados:['AVR-00032']
+
+AVR-00032-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'AVR-00032', 'publish': True, 'address': 'POSTO PRIO - Rua Conselheiro Queiróz 64', 'city': 'Aveiro', 'country': 'PRT', 'postal_code': '3810-414', 'coordinates': {'latitude': '40.6189050', 'longitude': '-8.6553070'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'AVR-00032-01', 'evse_id': 'PT*PRI*AVR*00032*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'AVR-00032-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-04T16:04:14Z'}], 'last_updated': '2022-03-04T16:04:14Z'}, {'uid': 'AVR-00032-02', 'evse_id': 'PT*PRI*AVR*00032*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'AVR-00032-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-04T16:04:15Z'}], 'last_updated': '2022-03-04T16:04:15Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-04T16:50:18Z'}
+Removidos:[]
