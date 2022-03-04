@@ -1319,3 +1319,6 @@ VNC-00003-02 evses -> 1: status : CHARGING
 
 2022-03-04 23:16:34
 BRG-00050-01 evses -> 0: status : CHARGING
+
+2022-03-04 23:37:58
+BRG-00050-01 evses -> 0: status : CHARGING
