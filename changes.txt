@@ -794,3 +794,25 @@ Adicionados:['LRS-00044']
 
 LRS-00044-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LRS-00044', 'publish': True, 'address': 'N10 E.N. 10, Km 138.4', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2695-715', 'coordinates': {'latitude': '38.823007', 'longitude': '-9.088169'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LRS-00044-01', 'evse_id': 'PT*EDP*LRS*00044*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00044-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-03T03:05:59Z'}], 'last_updated': '2022-03-03T03:05:59Z'}, {'uid': 'LRS-00044-02', 'evse_id': 'PT*EDP*LRS*00044*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00044-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-03T03:06:01Z'}], 'last_updated': '2022-03-03T03:06:01Z'}, {'uid': 'LRS-00044-03', 'evse_id': 'PT*EDP*LRS*00044*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00044-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-03T03:06:05Z'}], 'last_updated': '2022-03-03T03:06:05Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-03T16:14:44Z'}
 Removidos:['CSC-00081']
+
+2022-03-04 15:18:05
+Adicionados:['LSB-00437', 'LSB-00438', 'LSB-00439']
+
+LSB-00437-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00437', 'publish': True, 'address': 'Largo de Jesus', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1200-231', 'coordinates': {'latitude': '38.7122472', 'longitude': '-9.1506205'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00437-1', 'evse_id': 'PT*MAK*LSB*00437*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00437-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-04T14:22:06Z'}], 'last_updated': '2022-03-04T14:22:06Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-04T14:54:23Z'}
+
+LSB-00438-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00438', 'publish': True, 'address': 'Largo de Jesus', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1200-231', 'coordinates': {'latitude': '38.7122472', 'longitude': '-9.1506205'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00438-1', 'evse_id': 'PT*MAK*LSB*00438*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00438-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-04T14:23:58Z'}], 'last_updated': '2022-03-04T14:23:58Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-04T14:56:01Z'}
+
+LSB-00439-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00439', 'publish': True, 'address': 'Largo de Jesus', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1200-231', 'coordinates': {'latitude': '38.7122472', 'longitude': '-9.1506205'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00439-1', 'evse_id': 'PT*MAK*LSB*00439*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00439-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-04T14:25:31Z'}], 'last_updated': '2022-03-04T14:25:31Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-04T14:55:50Z'}
+Removidos:[]
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 175
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 160000
