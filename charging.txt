@@ -1383,3 +1383,7 @@ PRT-00129-1 evses -> 0: status : CHARGING
 2022-03-05 12:55:01
 BRR-00010-1 evses -> 0: status : CHARGING
 PRT-00129-1 evses -> 0: status : CHARGING
+
+2022-03-05 13:18:42
+BRR-00010-1 evses -> 0: status : CHARGING
+PRT-00129-1 evses -> 0: status : CHARGING
