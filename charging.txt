@@ -1423,3 +1423,6 @@ VVD-90001-1 evses -> 0: status : CHARGING
 
 2022-03-05 23:37:12
 VVD-90001-1 evses -> 0: status : CHARGING
+
+2022-03-06 02:50:29
+BRG-00050-01 evses -> 0: status : CHARGING
