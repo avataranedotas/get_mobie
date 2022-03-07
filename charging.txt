@@ -1596,3 +1596,6 @@ BRR-00008-1 evses -> 0: status : CHARGING
 
 2022-03-07 15:17:31
 BRR-00008-1 evses -> 0: status : CHARGING
+
+2022-03-07 15:41:13
+BRR-00008-1 evses -> 0: status : CHARGING
