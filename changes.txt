@@ -856,3 +856,9 @@ Adicionados:['CSC-00087']
 
 CSC-00087-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'CSC-00087', 'publish': True, 'address': 'Av De Portugal 164 Quinta De São Gonçalo', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2775-629', 'coordinates': {'latitude': '38.6821590', 'longitude': '-9.3278310'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00087-1', 'evse_id': 'PT*MLT*CSC*00087*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00087-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-03-07T15:27:37Z'}], 'last_updated': '2022-03-07T15:27:37Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-07T15:29:38Z'}
 Removidos:[]
+
+2022-03-07 16:24:50
+Adicionados:['CSC-00088']
+
+CSC-00088-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'CSC-00088', 'publish': True, 'address': 'Av De Portugal 164 Quinta De São Gonçalo', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2775-629', 'coordinates': {'latitude': '38.6821590', 'longitude': '-9.3278310'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00088-1', 'evse_id': 'PT*MLT*CSC*00088*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00088-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-03-07T15:50:42Z'}], 'last_updated': '2022-03-07T15:50:42Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-07T15:54:47Z'}
+Removidos:[]
