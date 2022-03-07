@@ -844,3 +844,9 @@ PBL-00004
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2022-03-07 14:37:02
+Adicionados:['OER-00118']
+
+OER-00118-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'OER-00118', 'publish': True, 'address': 'Rotunda acesso a Algés IC17 Miraflores/Algés', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '1495-023', 'coordinates': {'latitude': '38.7086060', 'longitude': '-9.2245870'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00118-01', 'evse_id': 'PT*REP*OER*00118*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00118-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-03-07T14:24:21Z'}], 'last_updated': '2022-03-07T14:24:25Z'}, {'uid': 'OER-00118-02', 'evse_id': 'PT*REP*OER*00118*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00118-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-03-07T14:24:23Z'}], 'last_updated': '2022-03-07T14:24:23Z'}, {'uid': 'OER-00118-03', 'evse_id': 'PT*REP*OER*00118*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00118-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-07T14:24:24Z'}], 'last_updated': '2022-03-07T14:24:24Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-07T14:24:25Z'}
+Removidos:[]
