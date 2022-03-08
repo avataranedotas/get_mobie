@@ -1650,3 +1650,6 @@ SNT-00062-03 evses -> 2: status : CHARGING
 
 2022-03-08 05:15:15
 SNT-00062-03 evses -> 2: status : CHARGING
+
+2022-03-08 05:36:13
+SNT-00062-03 evses -> 2: status : CHARGING
