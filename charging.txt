@@ -1687,3 +1687,7 @@ SNT-00062-03 evses -> 2: status : CHARGING
 2022-03-08 11:14:23
 MTJ-00004-1 evses -> 0: status : CHARGING
 SNT-00062-03 evses -> 2: status : CHARGING
+
+2022-03-08 11:36:11
+MTJ-00004-1 evses -> 0: status : CHARGING
+SNT-00062-03 evses -> 2: status : CHARGING
