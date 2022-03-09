@@ -1864,3 +1864,8 @@ OER-00118-02 evses -> 1: status : CHARGING
 SLV-00006-02 evses -> 1: status : CHARGING
 SNT-00061-01 evses -> 0: status : CHARGING
 SNT-00062-03 evses -> 2: status : CHARGING
+
+2022-03-09 16:25:18
+OER-00118-02 evses -> 1: status : CHARGING
+SLV-00006-02 evses -> 1: status : CHARGING
+SNT-00062-03 evses -> 2: status : CHARGING
