@@ -918,3 +918,9 @@ LRS-00047
 : 
  NEW postal_code : 2660-421
  OLD postal_code : 1200-800
+
+2022-03-09 12:28:26
+Adicionados:['FAR-00010']
+
+FAR-00010-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'FAR-00010', 'publish': True, 'address': 'Avenida Calouste Gulbenkian', 'city': 'Faro', 'country': 'PRT', 'postal_code': '8000-072', 'coordinates': {'latitude': '37.0272657', 'longitude': '-7.9329484'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FAR-00010-01', 'evse_id': 'PT*KLC*FAR*00010*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAR-00010-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-09T12:02:10Z'}], 'last_updated': '2022-03-09T12:02:10Z'}, {'uid': 'FAR-00010-02', 'evse_id': 'PT*KLC*FAR*00010*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAR-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-09T12:02:12Z'}], 'last_updated': '2022-03-09T12:02:12Z'}, {'uid': 'FAR-00010-03', 'evse_id': 'PT*KLC*FAR*00010*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'FAR-00010-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-09T12:02:13Z'}], 'last_updated': '2022-03-09T12:02:13Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-09T12:07:55Z'}
+Removidos:[]
