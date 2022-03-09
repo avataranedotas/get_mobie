@@ -930,3 +930,53 @@ Adicionados:['SLV-00006']
 
 SLV-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SLV-00006', 'publish': True, 'address': 'Via Dorsal de Armação de Pêra', 'city': 'Silves', 'country': 'PRT', 'postal_code': '8365-100', 'coordinates': {'latitude': '37.1041940', 'longitude': '-8.3637780'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SLV-00006-01', 'evse_id': 'PT*KLC*SLV*00006*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SLV-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-09T15:35:02Z'}], 'last_updated': '2022-03-09T15:35:02Z'}, {'uid': 'SLV-00006-02', 'evse_id': 'PT*KLC*SLV*00006*02', 'status': 'CHARGING', 'connectors': [{'id': 'SLV-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-09T15:35:02Z'}], 'last_updated': '2022-03-09T15:35:01Z'}, {'uid': 'SLV-00006-03', 'evse_id': 'PT*KLC*SLV*00006*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'SLV-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-09T15:30:48Z'}], 'last_updated': '2022-03-09T15:30:47Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-09T15:35:03Z'}
 Removidos:[]
+
+2022-03-09 21:37:09
+AMR-90001
+: 
+ NEW address : Praça do Comércio 18
+ OLD address : -
+AMR-90001
+: 
+ NEW city : Amares
+ OLD city : -
+AMR-90001
+: 
+ NEW postal_code : 4720-070
+ OLD postal_code : 1600-233
+TBR-00001
+: 
+ NEW address : Avenida das Pontes N446
+ OLD address : -
+TBR-00001
+: 
+ NEW city : Terras de Bouro
+ OLD city : -
+TBR-00001
+: 
+ NEW postal_code : 4845-024
+ OLD postal_code : 1600-233
+VCD-00004
+: 
+ NEW address : Avenida Júlio Graça 403
+ OLD address : -
+VCD-00004
+: 
+ NEW city : Vila do Conde
+ OLD city : -
+VCD-00004
+: 
+ NEW postal_code : 4480-754
+ OLD postal_code : 1600-233
+VVD-90001
+: 
+ NEW address : Avenida do Autarca
+ OLD address : -
+VVD-90001
+: 
+ NEW city : Vila Verde
+ OLD city : -
+VVD-90001
+: 
+ NEW postal_code : 4730-073
+ OLD postal_code : 1600-233
