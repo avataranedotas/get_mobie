@@ -892,3 +892,29 @@ BRG-00057-->{'country_code': 'PT', 'party_id': 'NEU', 'id': 'BRG-00057', 'publis
 
 LRS-00062-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LRS-00062', 'publish': True, 'address': 'Rua Dom Pedro V', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2690-178', 'coordinates': {'latitude': '38.8375280', 'longitude': '-9.0838610'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRS-00062-01', 'evse_id': 'PT*KLC*LRS*00062*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00062-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-08T18:15:03Z'}], 'last_updated': '2022-03-08T18:15:03Z'}, {'uid': 'LRS-00062-02', 'evse_id': 'PT*KLC*LRS*00062*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00062-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-08T18:15:04Z'}], 'last_updated': '2022-03-08T18:15:04Z'}, {'uid': 'LRS-00062-03', 'evse_id': 'PT*KLC*LRS*00062*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00062-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-08T18:10:00Z'}], 'last_updated': '2022-03-08T18:10:00Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-08T18:20:42Z'}
 Removidos:[]
+
+2022-03-09 02:28:55
+LRS-00046
+: 
+ NEW address : Avenida São João
+ OLD address : Rua de Santana À Lapa 148
+LRS-00046
+: 
+ NEW city : Loures
+ OLD city : Lisboa
+LRS-00046
+: 
+ NEW postal_code : 2660-421
+ OLD postal_code : 1200-800
+LRS-00047
+: 
+ NEW address : Avenida Santa Maria
+ OLD address : Rua de Santana À Lapa 148
+LRS-00047
+: 
+ NEW city : Loures
+ OLD city : Lisboa
+LRS-00047
+: 
+ NEW postal_code : 2660-421
+ OLD postal_code : 1200-800
