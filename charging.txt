@@ -1883,3 +1883,6 @@ SNT-00062-03 evses -> 2: status : CHARGING
 2022-03-09 17:38:58
 OER-00118-02 evses -> 1: status : CHARGING
 SNT-00062-03 evses -> 2: status : CHARGING
+
+2022-03-09 18:20:06
+SNT-00062-03 evses -> 2: status : CHARGING
