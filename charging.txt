@@ -1927,3 +1927,7 @@ ALM-00032-02 evses -> 1: status : CHARGING
 
 2022-03-10 17:38:47
 ALM-00032-02 evses -> 1: status : CHARGING
+
+2022-03-10 18:20:08
+ALM-00032-02 evses -> 1: status : CHARGING
+CSC-00086-1 evses -> 0: status : CHARGING
