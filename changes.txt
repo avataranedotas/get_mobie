@@ -1010,3 +1010,13 @@ Adicionados:['GDM-00016']
 
 GDM-00016-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'GDM-00016', 'publish': True, 'address': 'Rua de Rebordãos, 297', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4435-416', 'coordinates': {'latitude': '41.1804400', 'longitude': '-8.5686500'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GDM-00016-01', 'evse_id': 'PT*REP*GDM*00016*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00016-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-03-10T11:13:04Z'}], 'last_updated': '2022-03-10T11:13:04Z'}, {'uid': 'GDM-00016-02', 'evse_id': 'PT*REP*GDM*00016*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00016-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-03-10T11:13:05Z'}], 'last_updated': '2022-03-10T11:13:05Z'}, {'uid': 'GDM-00016-03', 'evse_id': 'PT*REP*GDM*00016*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00016-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-10T11:13:06Z'}], 'last_updated': '2022-03-10T11:13:06Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-10T11:13:06Z'}
 Removidos:[]
+
+2022-03-10 12:29:08
+GDM-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
+GDM-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
