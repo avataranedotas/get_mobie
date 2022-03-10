@@ -1941,3 +1941,6 @@ ALM-00032-02 evses -> 1: status : CHARGING
 
 2022-03-10 19:36:19
 ALM-00032-02 evses -> 1: status : CHARGING
+
+2022-03-10 20:17:56
+ALM-00032-02 evses -> 1: status : CHARGING
