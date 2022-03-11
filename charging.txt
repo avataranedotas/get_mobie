@@ -1992,3 +1992,8 @@ PRT-00135-03 evses -> 2: status : CHARGING
 PRT-00130-1 evses -> 0: status : CHARGING
 PRT-00135-03 evses -> 2: status : CHARGING
 VLG-00014-01 evses -> 0: status : CHARGING
+
+2022-03-11 22:39:02
+PRT-00130-1 evses -> 0: status : CHARGING
+PRT-00135-03 evses -> 2: status : CHARGING
+VLG-00014-01 evses -> 0: status : CHARGING
