@@ -1038,3 +1038,9 @@ Removidos:[]
 2022-03-10 23:17:16
 Adicionados:[]
 Removidos:['BRG-00035']
+
+2022-03-11 10:19:09
+Adicionados:['AMD-00047']
+
+AMD-00047-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'AMD-00047', 'publish': True, 'address': 'Avenida Hospitais Civis de Lisboa, n.º8', 'city': 'Amadora', 'country': 'PRT', 'postal_code': '2720-275', 'coordinates': {'latitude': '38.7485340', 'longitude': '-9.2296540'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMD-00047-01', 'evse_id': 'PT*MLT*AMD*00047*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AMD-00047-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-11T09:23:52Z'}], 'last_updated': '2022-03-11T09:23:52Z'}, {'uid': 'AMD-00047-02', 'evse_id': 'PT*MLT*AMD*00047*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AMD-00047-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-11T09:41:37Z'}], 'last_updated': '2022-03-11T09:41:37Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-11T09:43:38Z'}
+Removidos:[]
