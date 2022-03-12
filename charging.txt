@@ -2057,3 +2057,6 @@ PRT-00135-03 evses -> 2: status : CHARGING
 
 2022-03-12 09:15:57
 PRT-00135-03 evses -> 2: status : CHARGING
+
+2022-03-12 09:37:46
+PRT-00135-03 evses -> 2: status : CHARGING
