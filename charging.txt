@@ -2020,3 +2020,7 @@ PRT-00135-03 evses -> 2: status : CHARGING
 2022-03-12 03:17:42
 PRT-00135-03 evses -> 2: status : CHARGING
 VLG-00014-01 evses -> 0: status : CHARGING
+
+2022-03-12 03:39:49
+PRT-00135-03 evses -> 2: status : CHARGING
+VLG-00014-01 evses -> 0: status : CHARGING
