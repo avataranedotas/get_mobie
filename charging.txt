@@ -2067,3 +2067,7 @@ PRT-00135-03 evses -> 2: status : CHARGING
 2022-03-12 10:39:50
 ALM-00033-01 evses -> 0: status : CHARGING
 ALM-00033-01 evses -> 0: status : CHARGING
+
+2022-03-12 13:37:26
+ALM-00033-02 evses -> 1: status : CHARGING
+ALM-00033-02 evses -> 1: status : CHARGING
