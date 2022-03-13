@@ -2114,3 +2114,6 @@ ALM-00033-03 evses -> 2: status : CHARGING
 2022-03-13 15:16:52
 ALM-00033-02 evses -> 1: status : CHARGING
 ALM-00033-02 evses -> 1: status : CHARGING
+
+2022-03-13 16:24:03
+GDM-00016-01 evses -> 0: status : CHARGING
