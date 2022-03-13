@@ -2100,3 +2100,6 @@ ESP-00005-02 evses -> 1: status : CHARGING
 
 2022-03-13 10:39:16
 ESP-00005-02 evses -> 1: status : CHARGING
+
+2022-03-13 11:13:55
+ESP-00005-02 evses -> 1: status : CHARGING
