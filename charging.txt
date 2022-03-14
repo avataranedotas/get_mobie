@@ -2140,3 +2140,6 @@ GRD-00007-02 evses -> 1: status : CHARGING
 
 2022-03-13 21:14:21
 GRD-00007-02 evses -> 1: status : CHARGING
+
+2022-03-14 13:27:28
+ESP-00005-02 evses -> 1: status : CHARGING
