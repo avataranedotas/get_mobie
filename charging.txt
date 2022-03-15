@@ -2245,3 +2245,6 @@ FAR-00010-03 evses -> 2: status : CHARGING
 
 2022-03-15 21:12:34
 CSC-00081-02 evses -> 1: status : CHARGING
+
+2022-03-15 21:36:21
+CSC-00081-02 evses -> 1: status : CHARGING
