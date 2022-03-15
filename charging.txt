@@ -2232,3 +2232,8 @@ GDM-00016-01 evses -> 0: status : CHARGING
 ESP-00005-01 evses -> 0: status : CHARGING
 FAR-00010-03 evses -> 2: status : CHARGING
 GDM-00016-01 evses -> 0: status : CHARGING
+
+2022-03-15 20:18:16
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-01 evses -> 0: status : CHARGING
+FAR-00010-03 evses -> 2: status : CHARGING
