@@ -2187,3 +2187,8 @@ ESP-00005-01 evses -> 0: status : CHARGING
 
 2022-03-15 11:14:54
 FAR-00010-02 evses -> 1: status : CHARGING
+
+2022-03-15 11:36:01
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-01 evses -> 0: status : CHARGING
+ESP-00005-03 evses -> 2: status : CHARGING
