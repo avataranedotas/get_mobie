@@ -2216,3 +2216,6 @@ ALM-00033-03 evses -> 2: status : CHARGING
 
 2022-03-15 17:37:24
 CSC-00081-01 evses -> 0: status : CHARGING
+
+2022-03-15 18:20:52
+FAR-00010-03 evses -> 2: status : CHARGING
