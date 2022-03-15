@@ -1056,3 +1056,37 @@ Adicionados:['CSC-00081']
 
 CSC-00081-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'CSC-00081', 'publish': True, 'address': 'Rua Fernanda de Castro', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2785-092', 'coordinates': {'latitude': '38.7179168', 'longitude': '-9.33242'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'CSC-00081-01', 'evse_id': 'PT*HEX*CSC*00081*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00081-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-14T02:40:27Z'}], 'last_updated': '2022-03-14T02:40:27Z'}, {'uid': 'CSC-00081-02', 'evse_id': 'PT*HEX*CSC*00081*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00081-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-14T02:40:27Z'}], 'last_updated': '2022-03-14T02:40:27Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-03-14T13:56:00Z'}
 Removidos:[]
+
+2022-03-15 13:01:55
+LOU-90002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : AC_1_PHASE
+LOU-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 230
+LOU-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+LOU-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 3700
+LOU-90002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : AC_1_PHASE
+LOU-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 230
+LOU-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+LOU-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 3700
