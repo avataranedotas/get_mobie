@@ -1090,3 +1090,9 @@ LOU-90002
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 3700
+
+2022-03-15 15:39:38
+Adicionados:['VFX-00025']
+
+VFX-00025-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'VFX-00025', 'publish': True, 'address': 'Rua Vasco da Gama, Nº 1', 'city': 'Vila Franca de Xira', 'country': 'PRT', 'postal_code': '2615-215', 'coordinates': {'latitude': '38.8922600', 'longitude': '-9.0445800'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFX-00025-01', 'evse_id': 'PT*GLG*VFX*00025*01', 'status': 'CHARGING', 'connectors': [{'id': 'VFX-00025-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 43000, 'last_updated': '2022-03-15T15:20:01Z'}], 'last_updated': '2022-03-15T15:20:01Z'}, {'uid': 'VFX-00025-02', 'evse_id': 'PT*GLG*VFX*00025*02', 'status': 'CHARGING', 'connectors': [{'id': 'VFX-00025-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 43000, 'last_updated': '2022-03-15T15:20:13Z'}], 'last_updated': '2022-03-15T15:20:13Z'}, {'uid': 'VFX-00025-03', 'evse_id': 'PT*GLG*VFX*00025*03', 'status': 'CHARGING', 'connectors': [{'id': 'VFX-00025-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-15T15:20:14Z'}], 'last_updated': '2022-03-15T15:20:14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-15T15:23:23Z'}
+Removidos:[]
