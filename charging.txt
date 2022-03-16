@@ -2269,3 +2269,6 @@ CSC-00081-02 evses -> 1: status : CHARGING
 
 2022-03-16 03:20:11
 CSC-00081-02 evses -> 1: status : CHARGING
+
+2022-03-16 03:42:13
+CSC-00081-02 evses -> 1: status : CHARGING
