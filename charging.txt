@@ -2333,3 +2333,10 @@ ALM-00033-01 evses -> 0: status : CHARGING
 CSC-00081-01 evses -> 0: status : CHARGING
 CSC-00081-02 evses -> 1: status : CHARGING
 ESP-00005-02 evses -> 1: status : CHARGING
+
+2022-03-16 19:36:31
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-01 evses -> 0: status : CHARGING
+CSC-00081-01 evses -> 0: status : CHARGING
+CSC-00081-02 evses -> 1: status : CHARGING
+ESP-00005-02 evses -> 1: status : CHARGING
