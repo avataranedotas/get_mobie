@@ -2348,3 +2348,6 @@ GDM-00016-02 evses -> 1: status : CHARGING
 2022-03-16 20:38:55
 CSC-00081-01 evses -> 0: status : CHARGING
 GDM-00016-02 evses -> 1: status : CHARGING
+
+2022-03-16 21:15:45
+CSC-00081-01 evses -> 0: status : CHARGING
