@@ -2351,3 +2351,8 @@ GDM-00016-02 evses -> 1: status : CHARGING
 
 2022-03-16 21:15:45
 CSC-00081-01 evses -> 0: status : CHARGING
+
+2022-03-16 21:37:50
+ALM-00033-03 evses -> 2: status : CHARGING
+ALM-00033-03 evses -> 2: status : CHARGING
+CSC-00081-01 evses -> 0: status : CHARGING
