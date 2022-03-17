@@ -2371,3 +2371,6 @@ CSC-00081-01 evses -> 0: status : CHARGING
 2022-03-16 23:38:25
 CSC-00081-01 evses -> 0: status : CHARGING
 PNF-00009-02 evses -> 1: status : CHARGING
+
+2022-03-17 01:08:49
+CSC-00081-01 evses -> 0: status : CHARGING
