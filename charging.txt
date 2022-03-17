@@ -2438,3 +2438,11 @@ ALM-00033-02 evses -> 1: status : CHARGING
 CSC-00081-01 evses -> 0: status : CHARGING
 FAR-00010-02 evses -> 1: status : CHARGING
 GDM-00016-02 evses -> 1: status : CHARGING
+
+2022-03-17 10:42:08
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-02 evses -> 1: status : CHARGING
+ALM-00033-02 evses -> 1: status : CHARGING
+CSC-00081-01 evses -> 0: status : CHARGING
+FAR-00010-02 evses -> 1: status : CHARGING
