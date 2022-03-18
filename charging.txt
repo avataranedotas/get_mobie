@@ -2654,3 +2654,7 @@ PNF-00009-03 evses -> 2: status : CHARGING
 2022-03-18 18:20:17
 FAR-00010-03 evses -> 2: status : CHARGING
 GDM-00016-03 evses -> 2: status : CHARGING
+
+2022-03-18 18:44:00
+FAR-00010-03 evses -> 2: status : CHARGING
+GDM-00016-03 evses -> 2: status : CHARGING
