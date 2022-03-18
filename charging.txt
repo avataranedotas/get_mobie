@@ -2539,3 +2539,7 @@ FAR-00010-03 evses -> 2: status : CHARGING
 
 2022-03-18 09:16:49
 FAR-00010-02 evses -> 1: status : CHARGING
+
+2022-03-18 09:38:55
+FAR-00010-02 evses -> 1: status : CHARGING
+FAR-00010-03 evses -> 2: status : CHARGING
