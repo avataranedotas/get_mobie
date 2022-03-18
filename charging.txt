@@ -2605,3 +2605,8 @@ PNF-00009-02 evses -> 1: status : CHARGING
 LSB-90501-01 evses -> 0: status : CHARGING
 LSB-90501-04 evses -> 3: status : CHARGING
 PNF-00009-03 evses -> 2: status : CHARGING
+
+2022-03-18 14:37:08
+LSB-90501-01 evses -> 0: status : CHARGING
+LSB-90501-04 evses -> 3: status : CHARGING
+PNF-00009-03 evses -> 2: status : CHARGING
