@@ -2566,3 +2566,11 @@ AMD-00042-1 evses -> 0: status : CHARGING
 FAR-00010-02 evses -> 1: status : CHARGING
 FAR-00010-03 evses -> 2: status : CHARGING
 PNF-00009-02 evses -> 1: status : CHARGING
+
+2022-03-18 11:36:07
+ALM-00033-01 evses -> 0: status : CHARGING
+ALM-00033-01 evses -> 0: status : CHARGING
+AMD-00042-1 evses -> 0: status : CHARGING
+FAR-00010-02 evses -> 1: status : CHARGING
+FAR-00010-03 evses -> 2: status : CHARGING
+PNF-00009-02 evses -> 1: status : CHARGING
