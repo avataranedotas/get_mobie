@@ -2616,3 +2616,9 @@ CSC-00081-02 evses -> 1: status : CHARGING
 ESP-00005-03 evses -> 2: status : CHARGING
 FAR-00010-03 evses -> 2: status : CHARGING
 PNF-00009-03 evses -> 2: status : CHARGING
+
+2022-03-18 15:41:40
+CSC-00081-02 evses -> 1: status : CHARGING
+ESP-00005-03 evses -> 2: status : CHARGING
+FAR-00010-03 evses -> 2: status : CHARGING
+PNF-00009-03 evses -> 2: status : CHARGING
