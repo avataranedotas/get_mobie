@@ -2722,3 +2722,6 @@ CSC-00086-1 evses -> 0: status : CHARGING
 
 2022-03-19 11:36:16
 PVZ-00013-1 evses -> 0: status : CHARGING
+
+2022-03-19 12:27:35
+SNT-00071-01 evses -> 0: status : CHARGING
