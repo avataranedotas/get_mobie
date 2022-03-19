@@ -2707,3 +2707,6 @@ VFX-00025-02 evses -> 1: status : CHARGING
 
 2022-03-19 09:15:58
 CSC-00086-1 evses -> 0: status : CHARGING
+
+2022-03-19 09:37:59
+CSC-00086-1 evses -> 0: status : CHARGING
