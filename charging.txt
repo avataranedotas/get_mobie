@@ -2713,3 +2713,6 @@ CSC-00086-1 evses -> 0: status : CHARGING
 
 2022-03-19 10:18:18
 CSC-00086-1 evses -> 0: status : CHARGING
+
+2022-03-19 10:39:44
+CSC-00086-1 evses -> 0: status : CHARGING
