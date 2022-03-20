@@ -2728,3 +2728,6 @@ SNT-00071-01 evses -> 0: status : CHARGING
 
 2022-03-19 12:57:44
 SNT-00071-01 evses -> 0: status : CHARGING
+
+2022-03-20 16:52:20
+VFX-00025-01 evses -> 0: status : CHARGING
