@@ -2734,3 +2734,6 @@ VFX-00025-01 evses -> 0: status : CHARGING
 
 2022-03-20 17:15:49
 VFX-00025-01 evses -> 0: status : CHARGING
+
+2022-03-20 17:37:36
+VFX-00025-01 evses -> 0: status : CHARGING
