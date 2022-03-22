@@ -2754,3 +2754,6 @@ FIG-00014-02 evses -> 1: status : CHARGING
 AMD-00043-1 evses -> 0: status : CHARGING
 AZB-00005-02 evses -> 1: status : CHARGING
 AZB-00005-02 evses -> 1: status : CHARGING
+
+2022-03-22 18:20:18
+PDL-00001-02 evses -> 1: status : CHARGING
