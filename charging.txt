@@ -2743,3 +2743,6 @@ CSC-00088-1 evses -> 0: status : CHARGING
 
 2022-03-21 15:42:41
 CSC-00088-1 evses -> 0: status : CHARGING
+
+2022-03-22 11:14:25
+PVZ-00014-1 evses -> 0: status : CHARGING
