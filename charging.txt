@@ -2757,3 +2757,6 @@ AZB-00005-02 evses -> 1: status : CHARGING
 
 2022-03-22 18:20:18
 PDL-00001-02 evses -> 1: status : CHARGING
+
+2022-03-22 20:17:49
+BRG-00045-01 evses -> 0: status : CHARGING
