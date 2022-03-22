@@ -2749,3 +2749,8 @@ PVZ-00014-1 evses -> 0: status : CHARGING
 
 2022-03-22 14:15:57
 FIG-00014-02 evses -> 1: status : CHARGING
+
+2022-03-22 16:32:45
+AMD-00043-1 evses -> 0: status : CHARGING
+AZB-00005-02 evses -> 1: status : CHARGING
+AZB-00005-02 evses -> 1: status : CHARGING
