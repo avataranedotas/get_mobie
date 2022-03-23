@@ -2760,3 +2760,8 @@ PDL-00001-02 evses -> 1: status : CHARGING
 
 2022-03-22 20:17:49
 BRG-00045-01 evses -> 0: status : CHARGING
+
+2022-03-23 11:36:56
+LGS-00012-01 evses -> 0: status : CHARGING
+LGS-00012-02 evses -> 1: status : CHARGING
+LGS-00012-03 evses -> 2: status : CHARGING
