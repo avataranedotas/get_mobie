@@ -2765,3 +2765,6 @@ BRG-00045-01 evses -> 0: status : CHARGING
 LGS-00012-01 evses -> 0: status : CHARGING
 LGS-00012-02 evses -> 1: status : CHARGING
 LGS-00012-03 evses -> 2: status : CHARGING
+
+2022-03-23 12:30:15
+LGS-00012-02 evses -> 1: status : CHARGING
