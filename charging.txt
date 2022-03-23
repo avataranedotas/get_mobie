@@ -2775,3 +2775,6 @@ TVD-00022-01 evses -> 0: status : CHARGING
 
 2022-03-23 15:18:14
 BGC-00007-02 evses -> 1: status : CHARGING
+
+2022-03-23 15:42:02
+BGC-00007-02 evses -> 1: status : CHARGING
