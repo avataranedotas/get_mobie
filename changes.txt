@@ -1220,3 +1220,9 @@ CLD-00014-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'CLD-00014', 'publis
 
 FLG-00006-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'FLG-00006', 'publish': True, 'address': 'Rua T. C. Antonio Emidio Moreira Peixoto 1422', 'city': 'Felgueiras', 'country': 'PRT', 'postal_code': '4610-213', 'coordinates': {'latitude': '41.1734131', 'longitude': '-8.2046727'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FLG-00006-01', 'evse_id': 'PT*EDP*FLG*00006*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-03-22T16:06:09Z'}], 'last_updated': '2022-03-22T16:06:09Z'}, {'uid': 'FLG-00006-02', 'evse_id': 'PT*EDP*FLG*00006*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-03-22T16:06:10Z'}], 'last_updated': '2022-03-22T16:06:09Z'}, {'uid': 'FLG-00006-03', 'evse_id': 'PT*EDP*FLG*00006*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-22T16:06:10Z'}], 'last_updated': '2022-03-22T16:06:10Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-22T16:15:04Z'}
 Removidos:[]
+
+2022-03-23 11:13:08
+AZB-00005
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
