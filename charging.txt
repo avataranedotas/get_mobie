@@ -2768,3 +2768,7 @@ LGS-00012-03 evses -> 2: status : CHARGING
 
 2022-03-23 12:30:15
 LGS-00012-02 evses -> 1: status : CHARGING
+
+2022-03-23 14:36:08
+BGC-00007-03 evses -> 2: status : CHARGING
+TVD-00022-01 evses -> 0: status : CHARGING
