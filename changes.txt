@@ -1246,3 +1246,9 @@ BGC-00007-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'BGC-00007', 'publis
 
 MLD-00004-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'MLD-00004', 'publish': True, 'address': 'N1 km 234', 'city': 'Mealhada', 'country': 'PRT', 'postal_code': '3050-382', 'coordinates': {'latitude': '40.3947484', 'longitude': '-8.4508232'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'MLD-00004-01', 'evse_id': 'PT*HRZ*MLD*00004*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MLD-00004-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-23T14:04:54Z'}], 'last_updated': '2022-03-23T14:04:54Z'}, {'uid': 'MLD-00004-02', 'evse_id': 'PT*HRZ*MLD*00004*02', 'status': 'CHARGING', 'connectors': [{'id': 'MLD-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-23T14:04:54Z'}], 'last_updated': '2022-03-23T14:05:07Z'}, {'uid': 'MLD-00004-03', 'evse_id': 'PT*HRZ*MLD*00004*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MLD-00004-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-23T13:56:12Z'}], 'last_updated': '2022-03-23T13:56:12Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-23T14:06:07Z'}
 Removidos:[]
+
+2022-03-23 18:21:01
+VFR-00013
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
