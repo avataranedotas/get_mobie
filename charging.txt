@@ -2784,3 +2784,6 @@ BGC-00007-02 evses -> 1: status : CHARGING
 
 2022-03-23 16:54:27
 BGC-00007-02 evses -> 1: status : CHARGING
+
+2022-03-23 17:18:15
+VFR-00013-02 evses -> 1: status : CHARGING
