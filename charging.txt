@@ -2819,3 +2819,6 @@ CSC-00089-1 evses -> 0: status : CHARGING
 
 2022-03-24 16:24:20
 LSB-00441-1 evses -> 0: status : CHARGING
+
+2022-03-24 16:55:37
+LSB-00441-1 evses -> 0: status : CHARGING
