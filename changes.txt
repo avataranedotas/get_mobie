@@ -1252,3 +1252,9 @@ VFR-00013
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 43000
+
+2022-03-24 11:14:27
+Adicionados:['CSC-00093']
+
+CSC-00093-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CSC-00093', 'publish': True, 'address': 'Estrada Nacional 249 – km 4', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2785-784', 'coordinates': {'latitude': '38.7213998', 'longitude': '-9.3391516'}, 'parking_type': 'ON_DRIVEWAY', 'evses': [{'uid': 'CSC-00093-01', 'evse_id': 'PT*EDP*CSC*00093*01', 'status': 'CHARGING', 'connectors': [{'id': 'CSC-00093-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 139, 'max_electric_power': 60000, 'last_updated': '2022-03-24T10:35:21Z'}], 'last_updated': '2022-03-24T10:35:21Z'}, {'uid': 'CSC-00093-02', 'evse_id': 'PT*EDP*CSC*00093*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00093-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 77, 'max_electric_power': 30000, 'last_updated': '2022-03-24T10:35:22Z'}], 'last_updated': '2022-03-24T10:35:22Z'}, {'uid': 'CSC-00093-03', 'evse_id': 'PT*EDP*CSC*00093*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00093-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-24T10:35:23Z'}], 'last_updated': '2022-03-24T10:35:23Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-24T10:39:15Z'}
+Removidos:[]
