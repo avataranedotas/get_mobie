@@ -2810,3 +2810,6 @@ FIG-00015-02 evses -> 1: status : CHARGING
 LSB-00441-1 evses -> 0: status : CHARGING
 MTS-00046-03 evses -> 2: status : CHARGING
 PLM-00011-02 evses -> 1: status : CHARGING
+
+2022-03-24 15:18:37
+CSC-00089-1 evses -> 0: status : CHARGING
