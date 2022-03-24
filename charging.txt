@@ -2839,3 +2839,8 @@ PLM-00011-02 evses -> 1: status : CHARGING
 FIG-00015-01 evses -> 0: status : CHARGING
 LSB-00441-1 evses -> 0: status : CHARGING
 PLM-00011-02 evses -> 1: status : CHARGING
+
+2022-03-24 18:44:28
+FIG-00015-01 evses -> 0: status : CHARGING
+LSB-00441-1 evses -> 0: status : CHARGING
+PLM-00011-02 evses -> 1: status : CHARGING
