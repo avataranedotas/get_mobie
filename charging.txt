@@ -2793,3 +2793,6 @@ VFR-00013-02 evses -> 1: status : CHARGING
 
 2022-03-24 13:24:47
 CSC-00089-1 evses -> 0: status : CHARGING
+
+2022-03-24 13:41:14
+CSC-00089-1 evses -> 0: status : CHARGING
