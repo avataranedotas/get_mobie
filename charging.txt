@@ -2828,3 +2828,9 @@ AGD-00006-02 evses -> 1: status : CHARGING
 FIG-00015-01 evses -> 0: status : CHARGING
 LSB-00441-1 evses -> 0: status : CHARGING
 PLM-00011-02 evses -> 1: status : CHARGING
+
+2022-03-24 17:49:20
+FIG-00015-01 evses -> 0: status : CHARGING
+LSB-00441-1 evses -> 0: status : CHARGING
+PDL-00002-01 evses -> 0: status : CHARGING
+PLM-00011-02 evses -> 1: status : CHARGING
