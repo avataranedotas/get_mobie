@@ -1296,3 +1296,23 @@ Adicionados:['ALD-00003']
 
 ALD-00003-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'ALD-00003', 'publish': True, 'address': 'Sítio da Represa', 'city': 'Almeida', 'country': 'PRT', 'postal_code': '6355-289', 'coordinates': {'latitude': '40.6186698', 'longitude': '-6.8436252'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'ALD-00003-01', 'evse_id': 'PT*HRZ*ALD*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALD-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-24T19:08:47Z'}], 'last_updated': '2022-03-24T19:08:47Z'}, {'uid': 'ALD-00003-02', 'evse_id': 'PT*HRZ*ALD*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALD-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-03-24T19:08:48Z'}], 'last_updated': '2022-03-24T19:08:47Z'}, {'uid': 'ALD-00003-03', 'evse_id': 'PT*HRZ*ALD*00003*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALD-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-24T19:08:46Z'}], 'last_updated': '2022-03-24T19:08:46Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-24T19:15:05Z'}
 Removidos:[]
+
+2022-03-25 01:11:48
+Adicionados:['ILH-90001', 'VCD-90004']
+
+ILH-90001-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ILH-90001', 'publish': True, 'address': 'Av. José Estevão', 'city': 'Ílhavo', 'country': 'PRT', 'postal_code': '3830-452', 'coordinates': {'latitude': '40.613306', 'longitude': '-8.749528'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'ILH-90001-1', 'evse_id': 'PT*EDP*ILH*90001*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'ILH-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T00:53:20Z'}], 'last_updated': '2022-03-25T00:53:20Z'}, {'uid': 'ILH-90001-2', 'evse_id': 'PT*EDP*ILH*90001*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'ILH-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T00:53:21Z'}], 'last_updated': '2022-03-25T00:53:21Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-03-25T01:05:01Z'}
+
+VCD-90004-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VCD-90004', 'publish': True, 'address': 'Avenida Júlio Graça 403', 'city': 'Vila do Conde', 'country': 'PRT', 'postal_code': '4480-754', 'coordinates': {'latitude': '41.350327', 'longitude': '-8.747593'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VCD-90004-1', 'evse_id': 'PT*EDP*VCD*90004*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCD-90004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T00:53:13Z'}], 'last_updated': '2022-03-25T00:53:13Z'}, {'uid': 'VCD-90004-2', 'evse_id': 'PT*EDP*VCD*90004*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCD-90004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T00:53:14Z'}], 'last_updated': '2022-03-25T00:53:14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-03-25T01:05:03Z'}
+Removidos:['ILH-00001', 'VCD-00004']
+SRE-90002
+coordinates: 
+ NEW latitude : 40.056719
+ OLD latitude : 40.0601111
+SRE-90002
+coordinates: 
+ NEW longitude :  -8.626685
+ OLD longitude : -8.6216389
+SRE-90002
+: 
+ NEW coordinates : {'latitude': '40.056719', 'longitude': ' -8.626685'}
+ OLD coordinates : {'latitude': '40.0601111', 'longitude': '-8.6216389'}
