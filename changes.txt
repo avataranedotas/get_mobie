@@ -1316,3 +1316,9 @@ SRE-90002
 : 
  NEW coordinates : {'latitude': '40.056719', 'longitude': ' -8.626685'}
  OLD coordinates : {'latitude': '40.0601111', 'longitude': '-8.6216389'}
+
+2022-03-25 02:34:53
+Adicionados:['CBR-90009']
+
+CBR-90009-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CBR-90009', 'publish': True, 'address': 'Rua Flávio Rodrigues, AB', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3000-550', 'coordinates': {'latitude': '40.217469', 'longitude': '-8.404889'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'CBR-90009-1', 'evse_id': 'PT*EDP*CBR*90009*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-90009-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T01:35:24Z'}], 'last_updated': '2022-03-25T01:35:24Z'}, {'uid': 'CBR-90009-2', 'evse_id': 'PT*EDP*CBR*90009*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-90009-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T01:35:25Z'}], 'last_updated': '2022-03-25T01:35:25Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-03-25T02:19:21Z'}
+Removidos:['CBR-00009']
