@@ -2886,3 +2886,6 @@ BRG-00057-01 evses -> 0: status : CHARGING
 
 2022-03-25 18:33:34
 VNG-00067-02 evses -> 1: status : CHARGING
+
+2022-03-25 19:36:37
+LSB-00442-1 evses -> 0: status : CHARGING
