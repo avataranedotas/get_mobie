@@ -1334,3 +1334,9 @@ AGD-00006
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 43000
+
+2022-03-25 12:35:59
+Adicionados:['VNG-00067']
+
+VNG-00067-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNG-00067', 'publish': True, 'address': 'A1, km 295,7 Sentido Norte/Sul', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4430-129', 'coordinates': {'latitude': '41.1009100', 'longitude': '-8.5987200'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'VNG-00067-01', 'evse_id': 'PT*EDP*VNG*00067*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00067-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 175, 'max_electric_power': 160000, 'last_updated': '2022-03-25T11:44:49Z'}], 'last_updated': '2022-03-25T11:44:49Z'}, {'uid': 'VNG-00067-02', 'evse_id': 'PT*EDP*VNG*00067*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00067-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 175, 'max_electric_power': 160000, 'last_updated': '2022-03-25T11:44:50Z'}], 'last_updated': '2022-03-25T11:44:49Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-25T12:09:05Z'}
+Removidos:[]
