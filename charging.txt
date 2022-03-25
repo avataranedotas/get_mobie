@@ -2876,3 +2876,7 @@ LSB-00450-1 evses -> 0: status : CHARGING
 LSB-00450-1 evses -> 0: status : CHARGING
 TMC-90001-02 evses -> 1: status : CHARGING
 VIS-00017-01 evses -> 0: status : CHARGING
+
+2022-03-25 11:36:09
+BRG-00045-02 evses -> 1: status : CHARGING
+LSB-00450-1 evses -> 0: status : CHARGING
