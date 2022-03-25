@@ -2889,3 +2889,6 @@ VNG-00067-02 evses -> 1: status : CHARGING
 
 2022-03-25 19:36:37
 LSB-00442-1 evses -> 0: status : CHARGING
+
+2022-03-25 21:15:25
+LSB-00442-1 evses -> 0: status : CHARGING
