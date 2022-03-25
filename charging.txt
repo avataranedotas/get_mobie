@@ -2847,3 +2847,6 @@ PLM-00011-02 evses -> 1: status : CHARGING
 
 2022-03-24 19:13:49
 FIG-00015-01 evses -> 0: status : CHARGING
+
+2022-03-25 07:16:33
+LSB-00450-1 evses -> 0: status : CHARGING
