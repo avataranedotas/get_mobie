@@ -1356,3 +1356,65 @@ Adicionados:['FLG-00007']
 
 FLG-00007-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'FLG-00007', 'publish': True, 'address': 'R. Prof. Joaquim Barros Leite', 'city': 'Felgueiras', 'country': 'PRT', 'postal_code': '4610-108', 'coordinates': {'latitude': '41.3627242', 'longitude': '-8.1969799'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FLG-00007-01', 'evse_id': 'PT*EDP*FLG*00007*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-25T15:27:12Z'}], 'last_updated': '2022-03-25T15:27:12Z'}, {'uid': 'FLG-00007-02', 'evse_id': 'PT*EDP*FLG*00007*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-03-25T15:27:14Z'}], 'last_updated': '2022-03-25T15:27:13Z'}, {'uid': 'FLG-00007-03', 'evse_id': 'PT*EDP*FLG*00007*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'FLG-00007-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-03-25T15:27:15Z'}], 'last_updated': '2022-03-25T15:27:15Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-25T15:28:19Z'}
 Removidos:[]
+
+2022-03-26 10:18:07
+ABF-00005
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+ABF-00006
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+ACH-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+ACH-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+AVV-00002
+coordinates: 
+ NEW latitude : 41.8483662
+ OLD latitude : 41.84836623
+AVV-00002
+coordinates: 
+ NEW longitude : -8.4166474
+ OLD longitude : -8.41664743
+AVV-00002
+: 
+ NEW coordinates : {'latitude': '41.8483662', 'longitude': '-8.4166474'}
+ OLD coordinates : {'latitude': '41.84836623', 'longitude': '-8.41664743'}
+AVV-00003
+coordinates: 
+ NEW latitude : 41.8483662
+ OLD latitude : 41.84836623
+AVV-00003
+coordinates: 
+ NEW longitude : -8.4166474
+ OLD longitude : -8.41664743
+AVV-00003
+: 
+ NEW coordinates : {'latitude': '41.8483662', 'longitude': '-8.4166474'}
+ OLD coordinates : {'latitude': '41.84836623', 'longitude': '-8.41664743'}
+CLT-00005
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+MGR-00002
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : MT
+PBL-00008
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : MT
+VCD-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+VCD-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
