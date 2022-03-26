@@ -1418,3 +1418,657 @@ VCD-00003
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTN
+
+2022-03-26 19:13:15
+ABF-00012
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+ABF-00013
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+ABF-00014
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+ABF-00015
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+ABF-00016
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+AGN-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+AMD-00022
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+AMD-00026
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+ASL-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+AVR-00018
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+AVR-00020
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+BJA-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+BRG-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+BRR-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CBR-00032
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : MT
+CBR-00034
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CBR-00035
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CBR-00036
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CBR-00037
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+CLB-00001
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CLB-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CLB-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CLB-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CLB-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+CLD-00007
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+CSC-00043
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+CSC-00044
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+CSC-00045
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+CSC-00060
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+CVR-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+EVR-00012
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+EVR-00013
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+EVR-00018
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+FAR-00025
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+FLG-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+GDL-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+GMR-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+GRD-00007
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LGA-00007
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LGS-00010
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LLE-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LLE-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LLE-00019
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LLE-00021
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LLE-00022
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LLE-00040
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LMG-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LMG-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LRA-00014
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+LRA-00015
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LRA-00018
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LRA-00021
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LRS-00033
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LRS-00036
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LRS-00037
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+LRS-00045
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LRS-00046
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LRS-00047
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00065
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+LSB-00066
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+LSB-00068
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+LSB-00072
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+LSB-00207
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00218
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00219
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00221
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00222
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00238
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00239
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00240
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00245
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00246
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00247
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00248
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00249
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00250
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00251
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00252
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00253
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00259
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00260
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00261
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00262
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00277
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00278
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00291
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00292
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00293
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00294
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00295
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00302
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+LSB-00303
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MAI-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MAI-00007
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+MAI-00008
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+MAI-00010
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+MLD-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MMN-00001
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MMN-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTA-00002
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+MTS-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00014
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00015
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00016
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTS-00017
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTS-00018
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTS-00019
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTS-00020
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+MTS-00025
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+MTS-00026
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+OER-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00007
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00018
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00019
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00024
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00025
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OER-00045
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+OLH-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OVR-00004
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+PNI-00001
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00021
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+PRT-00028
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00029
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00031
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00032
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00033
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00034
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRT-00050
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+PTL-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+PTM-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+SBA-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+SEI-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+SEI-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+SNT-00041
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+SNT-00042
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+STB-00015
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+STC-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+SXL-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+SXL-00005
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+SXL-00008
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+TMR-00002
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+TMR-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+TVD-00010
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+TVD-00011
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+TVR-00010
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VCT-00012
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+VCT-00013
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+VCT-00014
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VFR-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VFX-00013
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VIS-00006
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VLC-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VLN-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VNF-00010
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VNG-00034
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+VNG-00036
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VNG-00037
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VNG-00038
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VRL-00008
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VRS-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VVD-00004
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
