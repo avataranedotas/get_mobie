@@ -2916,3 +2916,6 @@ CSC-00085-01 evses -> 0: status : CHARGING
 
 2022-03-26 11:14:43
 RMR-00003-03 evses -> 2: status : CHARGING
+
+2022-03-26 11:37:01
+RMR-00003-03 evses -> 2: status : CHARGING
