@@ -2913,3 +2913,6 @@ LSB-00442-1 evses -> 0: status : CHARGING
 
 2022-03-26 10:39:52
 CSC-00085-01 evses -> 0: status : CHARGING
+
+2022-03-26 11:14:43
+RMR-00003-03 evses -> 2: status : CHARGING
