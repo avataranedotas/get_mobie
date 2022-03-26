@@ -2072,3 +2072,53 @@ VVD-00004
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTE
+
+2022-03-26 19:36:27
+AGD-00007
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+AVR-00012
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+BRG-00057
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00263
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+MAI-00009
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+MTS-00037
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+OER-00044
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : BTE
+PRT-00049
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+STC-00003
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+STR-00014
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+TMR-00003
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+VRL-00009
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
