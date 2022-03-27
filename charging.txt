@@ -2948,3 +2948,6 @@ MLD-00004-02 evses -> 1: status : CHARGING
 
 2022-03-27 20:18:20
 MLD-00004-02 evses -> 1: status : CHARGING
+
+2022-03-27 20:38:50
+MLD-00004-02 evses -> 1: status : CHARGING
