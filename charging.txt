@@ -2929,3 +2929,6 @@ LGS-00012-01 evses -> 0: status : CHARGING
 
 2022-03-26 22:16:13
 MLD-00004-02 evses -> 1: status : CHARGING
+
+2022-03-27 11:36:49
+CLD-00014-02 evses -> 1: status : CHARGING
