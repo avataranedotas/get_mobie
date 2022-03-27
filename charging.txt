@@ -2936,3 +2936,6 @@ CLD-00014-02 evses -> 1: status : CHARGING
 2022-03-27 16:23:45
 AZB-00005-02 evses -> 1: status : CHARGING
 AZB-00005-02 evses -> 1: status : CHARGING
+
+2022-03-27 17:38:18
+CLD-00014-02 evses -> 1: status : CHARGING
