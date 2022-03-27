@@ -2122,3 +2122,25 @@ VRL-00009
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTE
+
+2022-03-27 01:18:20
+OER-00065
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
+VND-90004
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VND-90004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 3700
+VND-90004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VND-90004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 3700
