@@ -2961,3 +2961,6 @@ FLG-00006-01 evses -> 0: status : CHARGING
 
 2022-03-28 16:55:58
 PLM-00010-01 evses -> 0: status : CHARGING
+
+2022-03-28 17:40:44
+PVZ-00016-03 evses -> 2: status : CHARGING
