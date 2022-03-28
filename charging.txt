@@ -2983,3 +2983,7 @@ LSB-90530-06 evses -> 5: status : CHARGING
 2022-03-28 22:39:35
 LSB-90530-01 evses -> 0: status : CHARGING
 LSB-90530-06 evses -> 5: status : CHARGING
+
+2022-03-28 23:17:07
+LSB-90530-01 evses -> 0: status : CHARGING
+LSB-90530-06 evses -> 5: status : CHARGING
