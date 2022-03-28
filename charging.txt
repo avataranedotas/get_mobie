@@ -2970,3 +2970,6 @@ PVZ-00016-03 evses -> 2: status : CHARGING
 
 2022-03-28 20:39:31
 LSB-90530-06 evses -> 5: status : CHARGING
+
+2022-03-28 21:15:32
+LSB-90530-06 evses -> 5: status : CHARGING
