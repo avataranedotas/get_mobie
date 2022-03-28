@@ -2174,3 +2174,25 @@ FLG-00007
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 60000
+
+2022-03-28 10:41:26
+FLG-00007
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+FLG-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FLG-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 1000
+FLG-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 200
+FLG-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 30000
