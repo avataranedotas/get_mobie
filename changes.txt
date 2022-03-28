@@ -2196,3 +2196,9 @@ FLG-00007
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 30000
+
+2022-03-28 12:30:56
+Adicionados:['LSB-00446']
+
+LSB-00446-->{'country_code': 'PT', 'party_id': 'GRC', 'id': 'LSB-00446', 'publish': True, 'address': 'Rua S. Pedro Alcântara, 138', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-001', 'coordinates': {'latitude': '38.7138931', 'longitude': '-9.1466331'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00446-1', 'evse_id': 'PT*GRC*LSB*00446*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00446-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 22000, 'last_updated': '2022-03-28T11:55:36Z'}], 'last_updated': '2022-03-28T11:55:36Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-28T12:09:42Z'}
+Removidos:[]
