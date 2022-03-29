@@ -3013,3 +3013,6 @@ AVR-00035-01 evses -> 0: status : CHARGING
 
 2022-03-29 13:27:03
 AVR-00035-01 evses -> 0: status : CHARGING
+
+2022-03-29 15:43:17
+AVR-00035-02 evses -> 1: status : CHARGING
