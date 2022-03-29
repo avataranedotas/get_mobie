@@ -2998,3 +2998,6 @@ VFX-00023-02 evses -> 1: status : CHARGING
 
 2022-03-29 10:47:46
 VFX-00023-01 evses -> 0: status : CHARGING
+
+2022-03-29 11:29:48
+VFX-00023-01 evses -> 0: status : CHARGING
