@@ -2296,3 +2296,9 @@ evses -> 1 -> connectors -> 0:
 2022-03-30 08:21:55
 Adicionados:[]
 Removidos:['LSB-00450', 'LSB-00451', 'LSB-00452']
+
+2022-03-30 09:39:40
+Adicionados:['VCT-00025']
+
+VCT-00025-->{'country_code': 'PT', 'party_id': 'CGG', 'id': 'VCT-00025', 'publish': True, 'address': 'Escola Superior de Saude (ESS-IPVC)', 'city': 'Viana do Castelo', 'country': 'PRT', 'postal_code': '4900-314', 'coordinates': {'latitude': '41.6975420', 'longitude': '-8.8360020'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VCT-00025-01', 'evse_id': 'PT*CGG*VCT*00025*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VCT-00025-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-30T09:24:16Z'}], 'last_updated': '2022-03-30T09:24:16Z'}, {'uid': 'VCT-00025-02', 'evse_id': 'PT*CGG*VCT*00025*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VCT-00025-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-30T09:24:21Z'}], 'last_updated': '2022-03-30T09:24:21Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-30T09:27:47Z'}
+Removidos:[]
