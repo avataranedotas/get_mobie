@@ -3031,3 +3031,6 @@ AMD-00044-1 evses -> 0: status : CHARGING
 
 2022-03-30 12:31:42
 FLG-00007-02 evses -> 1: status : CHARGING
+
+2022-03-30 18:21:22
+VNG-90014-02 evses -> 1: status : CHARGING
