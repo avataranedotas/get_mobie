@@ -3025,3 +3025,6 @@ ACB-00003-01 evses -> 0: status : CHARGING
 
 2022-03-30 11:14:26
 ACB-00003-01 evses -> 0: status : CHARGING
+
+2022-03-30 11:36:19
+AMD-00044-1 evses -> 0: status : CHARGING
