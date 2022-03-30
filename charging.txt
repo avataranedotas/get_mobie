@@ -3034,3 +3034,6 @@ FLG-00007-02 evses -> 1: status : CHARGING
 
 2022-03-30 18:21:22
 VNG-90014-02 evses -> 1: status : CHARGING
+
+2022-03-30 18:45:11
+VNG-90014-02 evses -> 1: status : CHARGING
