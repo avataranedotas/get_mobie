@@ -2318,3 +2318,29 @@ CSC-00094-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CSC-00094', 'publis
 
 CSC-00095-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CSC-00095', 'publish': True, 'address': 'Onyria Quinta da Marinha Hotel R. Palmeiras', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-005', 'coordinates': {'latitude': '38.7077100', 'longitude': '-9.4568100'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'CSC-00095-1', 'evse_id': 'PT*EDP*CSC*00095*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00095-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-03-15T20:34:42Z'}], 'last_updated': '2022-03-15T20:30:39Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-30T13:25:14Z'}
 Removidos:[]
+
+2022-03-30 14:37:06
+AVR-00030
+coordinates: 
+ NEW latitude : 40.651257
+ OLD latitude : 40.6499987
+AVR-00030
+coordinates: 
+ NEW longitude : -8.620198
+ OLD longitude : -8.6228296
+AVR-00030
+: 
+ NEW coordinates : {'latitude': '40.651257', 'longitude': '-8.620198'}
+ OLD coordinates : {'latitude': '40.6499987', 'longitude': '-8.6228296'}
+AVR-00035
+coordinates: 
+ NEW latitude : 40.650830
+ OLD latitude : 40.6509830
+AVR-00035
+coordinates: 
+ NEW longitude : -8.620334
+ OLD longitude : -8.6218900
+AVR-00035
+: 
+ NEW coordinates : {'latitude': '40.650830', 'longitude': '-8.620334'}
+ OLD coordinates : {'latitude': '40.6509830', 'longitude': '-8.6218900'}
