@@ -3019,3 +3019,6 @@ AVR-00035-02 evses -> 1: status : CHARGING
 
 2022-03-29 16:25:41
 AVR-00035-02 evses -> 1: status : CHARGING
+
+2022-03-30 10:41:09
+ACB-00003-01 evses -> 0: status : CHARGING
