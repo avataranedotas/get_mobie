@@ -2356,3 +2356,29 @@ Adicionados:['SNT-00066']
 
 SNT-00066-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'SNT-00066', 'publish': True, 'address': 'IC 19, Alto do Forte - Forum Sintra', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2635-018', 'coordinates': {'latitude': '38.7747936', 'longitude': '-9.3402887'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'SNT-00066-01', 'evse_id': 'PT*MOT*SNT*00066*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SNT-00066-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 60, 'max_electric_power': 11000, 'last_updated': '2022-03-30T15:37:07Z'}], 'last_updated': '2022-03-30T15:37:07Z'}, {'uid': 'SNT-00066-02', 'evse_id': 'PT*MOT*SNT*00066*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SNT-00066-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 60, 'max_electric_power': 11000, 'last_updated': '2022-03-30T15:37:07Z'}], 'last_updated': '2022-03-30T15:37:07Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-30T15:59:13Z'}
 Removidos:[]
+
+2022-03-30 17:17:10
+CSC-00047
+coordinates: 
+ NEW latitude : 38.711285
+ OLD latitude : 38.710968
+CSC-00047
+coordinates: 
+ NEW longitude : -9.393527
+ OLD longitude : -9.446366
+CSC-00047
+: 
+ NEW coordinates : {'latitude': '38.711285', 'longitude': '-9.393527'}
+ OLD coordinates : {'latitude': '38.710968', 'longitude': '-9.446366'}
+CSC-00059
+: 
+ NEW address : EN247-5 Estrada de Manique
+ OLD address : E.N.247-5
+CSC-00059
+coordinates: 
+ NEW latitude : 38.73528
+ OLD latitude : 38.7352800
+CSC-00059
+: 
+ NEW coordinates : {'latitude': '38.73528', 'longitude': '-9.3874999'}
+ OLD coordinates : {'latitude': '38.7352800', 'longitude': '-9.3874999'}
