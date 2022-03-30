@@ -2292,3 +2292,7 @@ SNT-00062
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 22000
+
+2022-03-30 08:21:55
+Adicionados:[]
+Removidos:['LSB-00450', 'LSB-00451', 'LSB-00452']
