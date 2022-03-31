@@ -3053,3 +3053,6 @@ SJM-00008-02 evses -> 1: status : CHARGING
 
 2022-03-31 11:14:49
 SJM-00008-02 evses -> 1: status : CHARGING
+
+2022-03-31 11:36:17
+SJM-00008-01 evses -> 0: status : CHARGING
