@@ -3084,3 +3084,6 @@ SJM-00008-01 evses -> 0: status : CHARGING
 
 2022-03-31 18:45:27
 MTS-00035-02 evses -> 1: status : CHARGING
+
+2022-03-31 19:14:15
+MLD-00005-01 evses -> 0: status : CHARGING
