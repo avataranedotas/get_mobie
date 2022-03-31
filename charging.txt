@@ -3078,3 +3078,6 @@ PRT-00131-1 evses -> 0: status : CHARGING
 2022-03-31 17:40:50
 PRT-00131-1 evses -> 0: status : CHARGING
 SJM-00008-01 evses -> 0: status : CHARGING
+
+2022-03-31 18:21:23
+SJM-00008-01 evses -> 0: status : CHARGING
