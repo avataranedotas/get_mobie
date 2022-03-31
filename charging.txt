@@ -3047,3 +3047,6 @@ VNG-90014-01 evses -> 0: status : CHARGING
 
 2022-03-31 05:36:55
 SJM-00008-02 evses -> 1: status : CHARGING
+
+2022-03-31 06:21:34
+SJM-00008-02 evses -> 1: status : CHARGING
