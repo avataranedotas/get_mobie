@@ -2418,3 +2418,7 @@ AGH-00004-->{'country_code': 'PT', 'party_id': 'SEG', 'id': 'AGH-00004', 'publis
 
 PRT-00139-->{'country_code': 'PT', 'party_id': 'GRC', 'id': 'PRT-00139', 'publish': True, 'address': 'Alameda Basílio Teles, 29', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4150-127', 'coordinates': {'latitude': '41.1471291', 'longitude': '-8.6317776'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00139-1', 'evse_id': 'PT*GRC*PRT*00139*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'PRT-00139-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 50000, 'last_updated': '2022-03-31T15:53:10Z'}], 'last_updated': '2022-03-31T15:53:10Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-03-31T16:15:17Z'}
 Removidos:[]
+
+2022-03-31 17:40:48
+Adicionados:[]
+Removidos:['AMD-00001']
