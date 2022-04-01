@@ -2448,3 +2448,9 @@ AGD-00006
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2022-04-01 11:36:49
+Adicionados:['SNT-00068']
+
+SNT-00068-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'SNT-00068', 'publish': True, 'address': 'IC 19, Alto do Forte - Forum Sintra', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2635-018', 'coordinates': {'latitude': '38.7751875', 'longitude': '-9.3417321'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'SNT-00068-1', 'evse_id': 'PT*MOT*SNT*00068*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00068-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-04-01T11:06:32Z'}], 'last_updated': '2022-04-01T11:06:31Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-01T11:19:02Z'}
+Removidos:[]
