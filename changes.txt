@@ -2432,3 +2432,9 @@ Removidos:[]
 2022-04-01 08:43:34
 Adicionados:[]
 Removidos:['LSB-00453']
+
+2022-04-01 09:16:10
+Adicionados:['GMR-00027']
+
+GMR-00027-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'GMR-00027', 'publish': True, 'address': 'Rua do Colégio Militar', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4810-563', 'coordinates': {'latitude': '41.4372499', 'longitude': '-8.2986316'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'GMR-00027-01', 'evse_id': 'PT*IBD*GMR*00027*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-01T08:58:45Z'}], 'last_updated': '2022-04-01T08:58:45Z'}, {'uid': 'GMR-00027-02', 'evse_id': 'PT*IBD*GMR*00027*02', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-01T08:59:36Z'}], 'last_updated': '2022-04-01T08:59:39Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-01T08:59:40Z'}
+Removidos:[]
