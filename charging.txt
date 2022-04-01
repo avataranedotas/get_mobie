@@ -3127,3 +3127,6 @@ SNT-00069-1 evses -> 0: status : CHARGING
 
 2022-04-01 20:18:23
 AZB-00005-02 evses -> 1: status : CHARGING
+
+2022-04-01 20:39:38
+AZB-00005-02 evses -> 1: status : CHARGING
