@@ -3118,3 +3118,6 @@ PRT-00091-03 evses -> 2: status : CHARGING
 
 2022-04-01 17:26:28
 PRT-00091-03 evses -> 2: status : CHARGING
+
+2022-04-01 17:42:51
+PRT-00091-03 evses -> 2: status : CHARGING
