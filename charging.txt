@@ -3124,3 +3124,6 @@ PRT-00091-03 evses -> 2: status : CHARGING
 
 2022-04-01 18:45:52
 SNT-00069-1 evses -> 0: status : CHARGING
+
+2022-04-01 20:18:23
+AZB-00005-02 evses -> 1: status : CHARGING
