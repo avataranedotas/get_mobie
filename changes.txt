@@ -2428,3 +2428,7 @@ Adicionados:['TBR-90001']
 
 TBR-90001-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'TBR-90001', 'publish': True, 'address': 'Avenida das Pontes N446', 'city': 'Terras de Bouro', 'country': 'PRT', 'postal_code': '4845-024', 'coordinates': {'latitude': '41.674744', 'longitude': '-8.184965'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TBR-90001-1', 'evse_id': 'PT*GLP*TBR*90001*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'TBR-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-31T18:13:25Z'}], 'last_updated': '2022-03-31T18:13:25Z'}, {'uid': 'TBR-90001-2', 'evse_id': 'PT*GLP*TBR*90001*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'TBR-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-31T18:13:27Z'}], 'last_updated': '2022-03-31T18:13:27Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-03-31T18:29:03Z'}
 Removidos:[]
+
+2022-04-01 08:43:34
+Adicionados:[]
+Removidos:['LSB-00453']
