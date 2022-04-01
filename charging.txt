@@ -3133,3 +3133,6 @@ AZB-00005-02 evses -> 1: status : CHARGING
 
 2022-04-01 21:15:35
 AZB-00005-02 evses -> 1: status : CHARGING
+
+2022-04-01 21:37:51
+AZB-00005-02 evses -> 1: status : CHARGING
