@@ -3175,3 +3175,6 @@ PTG-00010-02 evses -> 1: status : CHARGING
 
 2022-04-02 14:15:43
 PTG-00010-02 evses -> 1: status : CHARGING
+
+2022-04-02 14:37:18
+PTG-00010-02 evses -> 1: status : CHARGING
