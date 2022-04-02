@@ -3189,3 +3189,7 @@ PRL-90001-2 evses -> 1: status : CHARGING
 2022-04-02 17:38:41
 BCL-00013-02 evses -> 1: status : CHARGING
 PRL-90001-2 evses -> 1: status : CHARGING
+
+2022-04-02 18:19:43
+BCL-00013-02 evses -> 1: status : CHARGING
+PRL-90001-2 evses -> 1: status : CHARGING
