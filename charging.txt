@@ -3181,3 +3181,7 @@ PTG-00010-02 evses -> 1: status : CHARGING
 
 2022-04-02 16:23:22
 AVR-00030-01 evses -> 0: status : CHARGING
+
+2022-04-02 17:16:56
+BCL-00013-02 evses -> 1: status : CHARGING
+PRL-90001-2 evses -> 1: status : CHARGING
