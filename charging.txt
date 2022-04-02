@@ -3148,3 +3148,6 @@ AZB-00005-02 evses -> 1: status : CHARGING
 
 2022-04-02 08:42:11
 CSC-00090-1 evses -> 0: status : CHARGING
+
+2022-04-02 09:16:11
+CSC-00090-1 evses -> 0: status : CHARGING
