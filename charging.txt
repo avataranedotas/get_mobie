@@ -3154,3 +3154,7 @@ CSC-00090-1 evses -> 0: status : CHARGING
 
 2022-04-02 09:38:41
 CSC-00090-1 evses -> 0: status : CHARGING
+
+2022-04-02 11:36:11
+BCL-00013-02 evses -> 1: status : CHARGING
+PTG-00010-02 evses -> 1: status : CHARGING
