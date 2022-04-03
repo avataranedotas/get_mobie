@@ -3242,3 +3242,6 @@ BCL-00013-02 evses -> 1: status : CHARGING
 
 2022-04-02 23:38:15
 BCL-00013-02 evses -> 1: status : CHARGING
+
+2022-04-03 08:19:57
+BCL-00013-01 evses -> 0: status : CHARGING
