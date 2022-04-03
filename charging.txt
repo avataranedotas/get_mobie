@@ -3258,3 +3258,6 @@ CHV-00007-1 evses -> 0: status : CHARGING
 
 2022-04-03 15:17:38
 AVR-00030-02 evses -> 1: status : CHARGING
+
+2022-04-03 15:41:22
+SNT-00068-1 evses -> 0: status : CHARGING
