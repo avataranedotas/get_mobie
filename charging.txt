@@ -3255,3 +3255,6 @@ VCD-90004-2 evses -> 1: status : CHARGING
 
 2022-04-03 12:59:23
 CHV-00007-1 evses -> 0: status : CHARGING
+
+2022-04-03 15:17:38
+AVR-00030-02 evses -> 1: status : CHARGING
