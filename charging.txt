@@ -3294,3 +3294,6 @@ SNT-00068-1 evses -> 0: status : CHARGING
 
 2022-04-03 20:39:23
 SNT-00068-1 evses -> 0: status : CHARGING
+
+2022-04-03 21:15:14
+SNT-00068-1 evses -> 0: status : CHARGING
