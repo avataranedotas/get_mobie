@@ -2480,3 +2480,25 @@ BCL-00016-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'BCL-00016', 'publis
 
 BCL-00017-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'BCL-00017', 'publish': True, 'address': 'Av. São José', 'city': 'Barcelos', 'country': 'PRT', 'postal_code': '4750-307', 'coordinates': {'latitude': '41.5374400', 'longitude': '-8.6222200'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BCL-00017-01', 'evse_id': 'PT*LOG*BCL*00017*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'BCL-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-04T17:34:35Z'}], 'last_updated': '2022-04-04T17:34:35Z'}, {'uid': 'BCL-00017-02', 'evse_id': 'PT*LOG*BCL*00017*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'BCL-00017-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-04T17:34:36Z'}], 'last_updated': '2022-04-04T17:34:36Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-04-04T17:38:00Z'}
 Removidos:[]
+
+2022-04-05 10:18:11
+MTJ-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
+MTJ-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
+MTJ-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
+SNT-00066
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 11000
+SNT-00066
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 11000
