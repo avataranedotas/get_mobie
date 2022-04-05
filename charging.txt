@@ -3363,3 +3363,6 @@ GMR-00027-01 evses -> 0: status : CHARGING
 
 2022-04-05 18:20:56
 GMR-00027-01 evses -> 0: status : CHARGING
+
+2022-04-05 19:14:35
+BRG-00048-01 evses -> 0: status : CHARGING
