@@ -3351,3 +3351,6 @@ PVZ-00013-1 evses -> 0: status : CHARGING
 
 2022-04-05 13:03:22
 PVZ-00013-1 evses -> 0: status : CHARGING
+
+2022-04-05 13:43:16
+PVZ-00013-1 evses -> 0: status : CHARGING
