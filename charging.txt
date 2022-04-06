@@ -3369,3 +3369,6 @@ BRG-00048-01 evses -> 0: status : CHARGING
 
 2022-04-06 09:17:15
 TVD-00023-01 evses -> 0: status : CHARGING
+
+2022-04-06 09:40:02
+TVD-00023-01 evses -> 0: status : CHARGING
