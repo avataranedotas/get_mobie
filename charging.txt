@@ -3387,3 +3387,6 @@ TVD-00023-01 evses -> 0: status : CHARGING
 2022-04-06 15:18:36
 LSB-90050-1 evses -> 0: status : CHARGING
 TVD-00023-01 evses -> 0: status : CHARGING
+
+2022-04-06 15:43:00
+TVD-00023-01 evses -> 0: status : CHARGING
