@@ -3417,3 +3417,6 @@ VNG-00065-02 evses -> 1: status : CHARGING
 
 2022-04-06 19:11:45
 TVD-00023-01 evses -> 0: status : CHARGING
+
+2022-04-06 19:36:02
+TVD-00023-01 evses -> 0: status : CHARGING
