@@ -3458,3 +3458,8 @@ LSB-90073-1 evses -> 0: status : CHARGING
 GRD-90005-2 evses -> 1: status : CHARGING
 LSB-90034-1 evses -> 0: status : CHARGING
 LSB-90073-1 evses -> 0: status : CHARGING
+
+2022-04-07 16:24:55
+GRD-90005-2 evses -> 1: status : CHARGING
+LSB-90034-1 evses -> 0: status : CHARGING
+LSB-90073-1 evses -> 0: status : CHARGING
