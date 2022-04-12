@@ -3502,3 +3502,10 @@ LRS-00054-01 evses -> 0: status : CHARGING
 MAI-00021-02 evses -> 1: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 PVZ-00015-1 evses -> 0: status : CHARGING
+
+2022-04-12 13:46:58
+AVR-00033-01 evses -> 0: status : CHARGING
+LRS-00054-01 evses -> 0: status : CHARGING
+MAI-00021-02 evses -> 1: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+PVZ-00015-1 evses -> 0: status : CHARGING
