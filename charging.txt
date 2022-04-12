@@ -3599,3 +3599,6 @@ SNT-00048-02 evses -> 1: status : CHARGING
 
 2022-04-12 20:18:41
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-12 20:36:45
+PNV-00002-01 evses -> 0: status : CHARGING
