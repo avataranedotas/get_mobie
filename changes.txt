@@ -7580,3 +7580,29 @@ VZL-90003
 : 
  NEW address : R. Bombeiros Volunt<U+00E1>rios
  OLD address : R. Bombeiros Voluntários
+
+2022-04-12 17:23:50
+VND-00010
+coordinates: 
+ NEW latitude : 38.622482
+ OLD latitude : 38.3722710
+VND-00010
+coordinates: 
+ NEW longitude : -8.578077
+ OLD longitude : -8.3446030
+VND-00010
+: 
+ NEW coordinates : {'latitude': '38.622482', 'longitude': '-8.578077'}
+ OLD coordinates : {'latitude': '38.3722710', 'longitude': '-8.3446030'}
+VND-00011
+coordinates: 
+ NEW latitude : 38.620628
+ OLD latitude : 38.3722710
+VND-00011
+coordinates: 
+ NEW longitude : -8.580408
+ OLD longitude : -8.3446030
+VND-00011
+: 
+ NEW coordinates : {'latitude': '38.620628', 'longitude': '-8.580408'}
+ OLD coordinates : {'latitude': '38.3722710', 'longitude': '-8.3446030'}
