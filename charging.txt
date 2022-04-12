@@ -3611,3 +3611,6 @@ PNV-00002-01 evses -> 0: status : CHARGING
 
 2022-04-12 21:15:28
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-12 21:41:16
+PNV-00002-01 evses -> 0: status : CHARGING
