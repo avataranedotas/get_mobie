@@ -3591,3 +3591,8 @@ SNT-00048-02 evses -> 1: status : CHARGING
 BCL-00016-01 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SNT-00048-02 evses -> 1: status : CHARGING
+
+2022-04-12 19:36:35
+GDM-00017-03 evses -> 2: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SNT-00048-02 evses -> 1: status : CHARGING
