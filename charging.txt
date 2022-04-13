@@ -3714,3 +3714,7 @@ SNT-00066-02 evses -> 1: status : CHARGING
 2022-04-13 10:19:48
 PNV-00002-01 evses -> 0: status : CHARGING
 SCR-00003-1 evses -> 0: status : CHARGING
+
+2022-04-13 10:41:59
+PNV-00002-01 evses -> 0: status : CHARGING
+SCR-00003-1 evses -> 0: status : CHARGING
