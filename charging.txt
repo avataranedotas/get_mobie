@@ -3760,3 +3760,8 @@ SCR-00003-1 evses -> 0: status : CHARGING
 2022-04-13 15:43:22
 LSB-00439-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-13 16:25:55
+ETR-00011-01 evses -> 0: status : CHARGING
+LSB-00439-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
