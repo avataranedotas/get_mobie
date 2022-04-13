@@ -3744,3 +3744,7 @@ BRR-00016-03 evses -> 2: status : CHARGING
 CSC-00072-03 evses -> 2: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SCR-00003-1 evses -> 0: status : CHARGING
+
+2022-04-13 14:25:46
+PNV-00002-01 evses -> 0: status : CHARGING
+SCR-00003-1 evses -> 0: status : CHARGING
