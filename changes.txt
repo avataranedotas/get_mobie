@@ -1,0 +1,6 @@
+
+2022-04-13 08:22:35
+Adicionados:['AMD-00048']
+
+AMD-00048-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'AMD-00048', 'publish': True, 'address': 'EDIFÍCIO TRIUNFO, AV. DO FORTE, 4, FRACÇÃO M', 'city': 'Amadora', 'country': 'PRT', 'postal_code': '2794-032', 'coordinates': {'latitude': '38.7193800', 'longitude': '-9.2348550'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMD-00048-1', 'evse_id': 'PT*MOO*AMD*00048*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'AMD-00048-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 32, 'max_electric_power': 43000, 'last_updated': '2022-04-13T07:58:03Z'}], 'last_updated': '2022-04-13T07:58:03Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-04-13T08:02:04Z'}
+Removidos:[]
