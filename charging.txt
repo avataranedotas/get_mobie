@@ -3813,3 +3813,6 @@ PNV-00002-01 evses -> 0: status : CHARGING
 
 2022-04-13 21:15:43
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-13 21:38:55
+PNV-00002-01 evses -> 0: status : CHARGING
