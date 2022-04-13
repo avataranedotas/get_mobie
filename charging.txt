@@ -3677,3 +3677,8 @@ PNV-00002-01 evses -> 0: status : CHARGING
 CHV-00008-1 evses -> 0: status : CHARGING
 LSB-00439-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-13 07:17:43
+CHV-00008-1 evses -> 0: status : CHARGING
+LSB-00439-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
