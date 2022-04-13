@@ -3795,3 +3795,6 @@ VFX-00026-01 evses -> 0: status : CHARGING
 2022-04-13 19:09:19
 GDM-00017-03 evses -> 2: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
+
+2022-04-13 19:12:32
+PNV-00002-01 evses -> 0: status : CHARGING
