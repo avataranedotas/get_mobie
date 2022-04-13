@@ -3785,3 +3785,9 @@ PNV-00002-01 evses -> 0: status : CHARGING
 LSB-00439-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 VFX-00026-01 evses -> 0: status : CHARGING
+
+2022-04-13 18:45:35
+GDM-00017-03 evses -> 2: status : CHARGING
+LSB-00439-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+VFX-00026-01 evses -> 0: status : CHARGING
