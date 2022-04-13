@@ -3726,3 +3726,8 @@ SCR-00003-1 evses -> 0: status : CHARGING
 2022-04-13 11:36:49
 PNV-00002-01 evses -> 0: status : CHARGING
 SCR-00003-1 evses -> 0: status : CHARGING
+
+2022-04-13 12:30:34
+GDM-00016-01 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SCR-00003-1 evses -> 0: status : CHARGING
