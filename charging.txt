@@ -4009,3 +4009,11 @@ PRT-00116-02 evses -> 1: status : CHARGING
 2022-04-14 17:43:46
 OER-00066-03 evses -> 2: status : CHARGING
 PRT-00116-02 evses -> 1: status : CHARGING
+
+2022-04-14 18:21:27
+ETZ-00005-2 evses -> 1: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
+OER-00066-03 evses -> 2: status : CHARGING
+OER-00071-02 evses -> 1: status : CHARGING
+PRT-00116-02 evses -> 1: status : CHARGING
