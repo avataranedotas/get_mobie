@@ -3922,3 +3922,10 @@ PRT-00116-01 evses -> 0: status : CHARGING
 TMR-00008-01 evses -> 0: status : CHARGING
 VNG-00054-03 evses -> 2: status : CHARGING
 VPA-00002-01 evses -> 0: status : CHARGING
+
+2022-04-14 11:32:58
+GMR-00002-01 evses -> 0: status : CHARGING
+LSB-00404-02 evses -> 1: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+PRT-00098-02 evses -> 1: status : CHARGING
+PRT-00116-01 evses -> 0: status : CHARGING
