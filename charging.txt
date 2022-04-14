@@ -4092,3 +4092,8 @@ LSB-00405-01 evses -> 0: status : CHARGING
 GMR-00002-02 evses -> 1: status : CHARGING
 LSB-00405-01 evses -> 0: status : CHARGING
 LSB-00405-01 evses -> 0: status : CHARGING
+
+2022-04-14 23:39:55
+GMR-00002-02 evses -> 1: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
