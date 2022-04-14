@@ -4033,3 +4033,13 @@ LSB-00405-01 evses -> 0: status : CHARGING
 LSB-00405-01 evses -> 0: status : CHARGING
 LSB-80144-2 evses -> 1: status : CHARGING
 OER-00066-03 evses -> 2: status : CHARGING
+
+2022-04-14 19:36:35
+ETZ-00005-2 evses -> 1: status : CHARGING
+GMR-00002-02 evses -> 1: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
+LSB-00405-01 evses -> 0: status : CHARGING
+LSB-00406-02 evses -> 1: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+MLD-00001-2 evses -> 1: status : CHARGING
+OER-00066-03 evses -> 2: status : CHARGING
