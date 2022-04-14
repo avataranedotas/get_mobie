@@ -3960,3 +3960,9 @@ VND-00011-01 evses -> 0: status : CHARGING
 2022-04-14 13:30:42
 GMR-00002-01 evses -> 0: status : CHARGING
 LSB-00404-02 evses -> 1: status : CHARGING
+
+2022-04-14 14:16:34
+GDL-00008-01 evses -> 0: status : CHARGING
+LSB-00348-02 evses -> 1: status : CHARGING
+LSB-00404-02 evses -> 1: status : CHARGING
+LSB-80078-02 evses -> 1: status : CHARGING
