@@ -3996,3 +3996,7 @@ LSB-00458-01 evses -> 0: status : CHARGING
 2022-04-14 16:26:59
 GMR-00002-02 evses -> 1: status : CHARGING
 SNS-00003-02 evses -> 1: status : CHARGING
+
+2022-04-14 16:59:42
+ENT-00002-01 evses -> 0: status : CHARGING
+GMR-00002-02 evses -> 1: status : CHARGING
