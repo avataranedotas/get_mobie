@@ -3956,3 +3956,7 @@ PNV-00002-01 evses -> 0: status : CHARGING
 SMG-00005-01 evses -> 0: status : CHARGING
 SMG-00005-01 evses -> 0: status : CHARGING
 VND-00011-01 evses -> 0: status : CHARGING
+
+2022-04-14 13:30:42
+GMR-00002-01 evses -> 0: status : CHARGING
+LSB-00404-02 evses -> 1: status : CHARGING
