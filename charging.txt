@@ -3973,3 +3973,9 @@ LSB-00348-02 evses -> 1: status : CHARGING
 LSB-80078-02 evses -> 1: status : CHARGING
 SMG-00005-01 evses -> 0: status : CHARGING
 SMG-00005-01 evses -> 0: status : CHARGING
+
+2022-04-14 15:04:24
+GDL-00009-01 evses -> 0: status : CHARGING
+GMR-00002-02 evses -> 1: status : CHARGING
+LRS-00055-01 evses -> 0: status : CHARGING
+PFR-00005-01 evses -> 0: status : CHARGING
