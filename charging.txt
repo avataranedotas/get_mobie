@@ -3942,3 +3942,17 @@ GMR-00002-01 evses -> 0: status : CHARGING
 LSB-00404-02 evses -> 1: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 PRT-00116-01 evses -> 0: status : CHARGING
+
+2022-04-14 12:35:08
+GDL-00008-01 evses -> 0: status : CHARGING
+GDL-00008-02 evses -> 1: status : CHARGING
+GDL-00008-03 evses -> 2: status : CHARGING
+GDL-00009-01 evses -> 0: status : CHARGING
+GMR-00002-01 evses -> 0: status : CHARGING
+LSB-00404-02 evses -> 1: status : CHARGING
+MFR-00022-03 evses -> 2: status : CHARGING
+MTS-00045-02 evses -> 1: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SMG-00005-01 evses -> 0: status : CHARGING
+SMG-00005-01 evses -> 0: status : CHARGING
+VND-00011-01 evses -> 0: status : CHARGING
