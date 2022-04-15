@@ -4339,3 +4339,10 @@ MLD-00001-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SNS-00003-01 evses -> 0: status : CHARGING
 VNG-00070-01 evses -> 0: status : CHARGING
+
+2022-04-15 19:36:39
+GMR-00008-1 evses -> 0: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+MLD-00001-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SNS-00003-01 evses -> 0: status : CHARGING
