@@ -4252,3 +4252,8 @@ GMR-00002-02 evses -> 1: status : CHARGING
 LSB-80144-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SXL-00019-01 evses -> 0: status : CHARGING
+
+2022-04-15 13:08:29
+GMR-00002-02 evses -> 1: status : CHARGING
+LSB-80144-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
