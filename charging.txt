@@ -4323,3 +4323,11 @@ LSB-80144-2 evses -> 1: status : CHARGING
 MLD-00001-1 evses -> 0: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SNS-00003-01 evses -> 0: status : CHARGING
+
+2022-04-15 18:45:46
+GMR-00002-02 evses -> 1: status : CHARGING
+GMR-00008-1 evses -> 0: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+MLD-00001-1 evses -> 0: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SNS-00003-01 evses -> 0: status : CHARGING
