@@ -4406,3 +4406,9 @@ LSB-80144-2 evses -> 1: status : CHARGING
 OER-00071-02 evses -> 1: status : CHARGING
 PNV-00002-01 evses -> 0: status : CHARGING
 SNS-00003-01 evses -> 0: status : CHARGING
+
+2022-04-15 23:39:58
+LLE-00018-01 evses -> 0: status : CHARGING
+OER-00071-02 evses -> 1: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
+SNS-00003-01 evses -> 0: status : CHARGING
