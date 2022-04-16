@@ -4566,3 +4566,11 @@ LLE-00018-02 evses -> 1: status : CHARGING
 MLD-00001-1 evses -> 0: status : CHARGING
 PRT-00106-02 evses -> 1: status : CHARGING
 PRT-00109-1 evses -> 0: status : CHARGING
+
+2022-04-16 14:16:04
+LLE-00018-02 evses -> 1: status : CHARGING
+MLD-00001-1 evses -> 0: status : CHARGING
+OER-00071-03 evses -> 2: status : CHARGING
+PRT-00106-02 evses -> 1: status : CHARGING
+PRT-00109-1 evses -> 0: status : CHARGING
+SXL-00002-01 evses -> 0: status : CHARGING
