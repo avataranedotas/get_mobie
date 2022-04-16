@@ -4553,3 +4553,10 @@ PRT-00106-02 evses -> 1: status : CHARGING
 PRT-00121-01 evses -> 0: status : CHARGING
 PRT-00121-01 evses -> 0: status : CHARGING
 SXL-00002-02 evses -> 1: status : CHARGING
+
+2022-04-16 13:01:22
+GMR-00002-02 evses -> 1: status : CHARGING
+LLE-00018-02 evses -> 1: status : CHARGING
+LSB-80144-1 evses -> 0: status : CHARGING
+PRT-00106-02 evses -> 1: status : CHARGING
+PRT-00109-1 evses -> 0: status : CHARGING
