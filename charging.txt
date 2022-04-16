@@ -4674,3 +4674,7 @@ MLD-00001-2 evses -> 1: status : CHARGING
 GMR-00002-02 evses -> 1: status : CHARGING
 LLE-00018-01 evses -> 0: status : CHARGING
 MLD-00001-2 evses -> 1: status : CHARGING
+
+2022-04-16 23:39:08
+LLE-00018-01 evses -> 0: status : CHARGING
+MLD-00001-2 evses -> 1: status : CHARGING
