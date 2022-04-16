@@ -4544,3 +4544,12 @@ LSB-80144-2 evses -> 1: status : CHARGING
 OER-00071-03 evses -> 2: status : CHARGING
 PRT-00121-01 evses -> 0: status : CHARGING
 PRT-00121-01 evses -> 0: status : CHARGING
+
+2022-04-16 12:29:05
+GMR-00002-02 evses -> 1: status : CHARGING
+LLE-00018-02 evses -> 1: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+PRT-00106-02 evses -> 1: status : CHARGING
+PRT-00121-01 evses -> 0: status : CHARGING
+PRT-00121-01 evses -> 0: status : CHARGING
+SXL-00002-02 evses -> 1: status : CHARGING
