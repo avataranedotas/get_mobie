@@ -4626,3 +4626,6 @@ VNG-00070-02 evses -> 1: status : CHARGING
 2022-04-16 18:20:51
 LSB-80144-2 evses -> 1: status : CHARGING
 OER-00071-03 evses -> 2: status : CHARGING
+
+2022-04-16 18:44:37
+LSB-80144-2 evses -> 1: status : CHARGING
