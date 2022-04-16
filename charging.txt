@@ -4615,3 +4615,10 @@ OER-00071-03 evses -> 2: status : CHARGING
 GMR-00002-01 evses -> 0: status : CHARGING
 LSB-80144-2 evses -> 1: status : CHARGING
 OER-00071-03 evses -> 2: status : CHARGING
+
+2022-04-16 17:39:39
+GMR-00002-01 evses -> 0: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+OER-00071-03 evses -> 2: status : CHARGING
+PRD-00007-01 evses -> 0: status : CHARGING
+VNG-00070-02 evses -> 1: status : CHARGING
