@@ -4770,3 +4770,8 @@ LSB-80144-2 evses -> 1: status : CHARGING
 GMR-00002-01 evses -> 0: status : CHARGING
 LLE-00018-01 evses -> 0: status : CHARGING
 LSB-80144-2 evses -> 1: status : CHARGING
+
+2022-04-17 10:18:48
+LLE-00018-01 evses -> 0: status : CHARGING
+LLE-00018-02 evses -> 1: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
