@@ -4699,3 +4699,9 @@ MLD-00001-2 evses -> 1: status : CHARGING
 GMR-00002-02 evses -> 1: status : CHARGING
 LLE-00018-01 evses -> 0: status : CHARGING
 LSB-80144-2 evses -> 1: status : CHARGING
+
+2022-04-17 04:48:27
+GMR-00002-02 evses -> 1: status : CHARGING
+LLE-00018-01 evses -> 0: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
+PNV-00002-01 evses -> 0: status : CHARGING
