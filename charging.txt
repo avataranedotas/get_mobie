@@ -4828,3 +4828,6 @@ LSB-80144-1 evses -> 0: status : CHARGING
 
 2022-04-17 15:42:07
 LSB-80144-1 evses -> 0: status : CHARGING
+
+2022-04-17 16:23:54
+LSB-80144-1 evses -> 0: status : CHARGING
