@@ -4831,3 +4831,8 @@ LSB-80144-1 evses -> 0: status : CHARGING
 
 2022-04-17 16:23:54
 LSB-80144-1 evses -> 0: status : CHARGING
+
+2022-04-17 16:54:27
+GMR-00002-01 evses -> 0: status : CHARGING
+LSB-80144-1 evses -> 0: status : CHARGING
+OER-00071-03 evses -> 2: status : CHARGING
