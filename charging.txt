@@ -4856,3 +4856,7 @@ PRD-00006-02 evses -> 1: status : CHARGING
 GMR-00002-01 evses -> 0: status : CHARGING
 OER-00071-03 evses -> 2: status : CHARGING
 SXL-00002-02 evses -> 1: status : CHARGING
+
+2022-04-17 19:14:10
+GMR-00002-01 evses -> 0: status : CHARGING
+OER-00071-03 evses -> 2: status : CHARGING
