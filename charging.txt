@@ -4872,3 +4872,6 @@ GMR-00002-02 evses -> 1: status : CHARGING
 
 2022-04-18 08:44:38
 ALM-90004-01 evses -> 0: status : CHARGING
+
+2022-04-18 11:15:10
+GDM-00018-01 evses -> 0: status : CHARGING
