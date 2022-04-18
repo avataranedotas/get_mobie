@@ -4924,3 +4924,7 @@ LSB-80144-2 evses -> 1: status : CHARGING
 2022-04-18 19:14:26
 LSB-00458-02 evses -> 1: status : CHARGING
 LSB-80144-2 evses -> 1: status : CHARGING
+
+2022-04-18 19:36:49
+LSB-00458-02 evses -> 1: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
