@@ -4938,3 +4938,6 @@ OER-00071-03 evses -> 2: status : CHARGING
 LSB-00458-02 evses -> 1: status : CHARGING
 OER-00071-03 evses -> 2: status : CHARGING
 SXL-00002-01 evses -> 0: status : CHARGING
+
+2022-04-18 21:15:58
+LSB-00458-02 evses -> 1: status : CHARGING
