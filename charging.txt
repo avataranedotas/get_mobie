@@ -4941,3 +4941,7 @@ SXL-00002-01 evses -> 0: status : CHARGING
 
 2022-04-18 21:15:58
 LSB-00458-02 evses -> 1: status : CHARGING
+
+2022-04-18 21:38:07
+LSB-00458-02 evses -> 1: status : CHARGING
+LSB-80144-2 evses -> 1: status : CHARGING
