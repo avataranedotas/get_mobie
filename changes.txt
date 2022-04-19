@@ -298,3 +298,9 @@ VNG-00067
 : 
  NEW coordinates : {'latitude': '41.10091', 'longitude': '-8.59872'}
  OLD coordinates : {'latitude': '41.1009100', 'longitude': '-8.5987200'}
+
+2022-04-19 09:41:00
+Adicionados:['LLE-00074']
+
+LLE-00074-->{'country_code': 'PT', 'party_id': 'LCG', 'id': 'LLE-00074', 'publish': True, 'address': 'Av. do Mar', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-034', 'coordinates': {'latitude': '37.0520500', 'longitude': '-8.0649120'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LLE-00074-01', 'evse_id': 'PT*LCG*LLE*00074*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00074-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-19T09:33:38Z'}], 'last_updated': '2022-04-19T09:33:38Z'}, {'uid': 'LLE-00074-02', 'evse_id': 'PT*LCG*LLE*00074*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00074-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-19T09:33:36Z'}], 'last_updated': '2022-04-19T09:33:36Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-04-19T09:33:38Z'}
+Removidos:[]
