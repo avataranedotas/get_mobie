@@ -4971,3 +4971,6 @@ LSB-00407-01 evses -> 0: status : CHARGING
 
 2022-04-19 17:02:50
 LSB-00407-01 evses -> 0: status : CHARGING
+
+2022-04-19 17:44:56
+LSB-00407-01 evses -> 0: status : CHARGING
