@@ -284,3 +284,17 @@ Removidos:[]
 2022-04-18 14:16:28
 Adicionados:[]
 Removidos:['CNT-00011', 'ORM-00005', 'PRD-00009']
+
+2022-04-19 09:18:01
+VNG-00067
+coordinates: 
+ NEW latitude : 41.10091
+ OLD latitude : 41.1009100
+VNG-00067
+coordinates: 
+ NEW longitude : -8.59872
+ OLD longitude : -8.5987200
+VNG-00067
+: 
+ NEW coordinates : {'latitude': '41.10091', 'longitude': '-8.59872'}
+ OLD coordinates : {'latitude': '41.1009100', 'longitude': '-8.5987200'}

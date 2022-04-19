@@ -4948,3 +4948,7 @@ LSB-80144-2 evses -> 1: status : CHARGING
 
 2022-04-19 08:45:12
 PRT-00121-02 evses -> 1: status : CHARGING
+
+2022-04-19 09:18:03
+BCL-00015-02 evses -> 1: status : CHARGING
+PRT-00121-02 evses -> 1: status : CHARGING
