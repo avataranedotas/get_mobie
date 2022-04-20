@@ -4989,3 +4989,6 @@ LRS-80003-02 evses -> 1: status : CHARGING
 
 2022-04-20 14:38:26
 ALQ-00003-03 evses -> 2: status : CHARGING
+
+2022-04-20 15:21:01
+ALQ-00003-03 evses -> 2: status : CHARGING
