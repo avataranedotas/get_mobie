@@ -344,3 +344,9 @@ LLE-00074
 : 
  NEW coordinates : {'latitude': '37.05205', 'longitude': '-8.064912'}
  OLD coordinates : {'latitude': '37.0520500', 'longitude': '-8.0649120'}
+
+2022-04-20 11:37:11
+Adicionados:['PNL-00002']
+
+PNL-00002-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PNL-00002', 'publish': True, 'address': 'Zona Industrial de Penela, Lote 1', 'city': 'Penela', 'country': 'PRT', 'postal_code': '3230-292', 'coordinates': {'latitude': '40.0182100', 'longitude': '-8.3724100'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PNL-00002-01', 'evse_id': 'PT*EDP*PNL*00002*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PNL-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-04-20T11:20:08Z'}], 'last_updated': '2022-04-20T11:20:08Z'}, {'uid': 'PNL-00002-02', 'evse_id': 'PT*EDP*PNL*00002*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PNL-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-04-20T11:20:07Z'}], 'last_updated': '2022-04-20T11:20:07Z'}, {'uid': 'PNL-00002-03', 'evse_id': 'PT*EDP*PNL*00002*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PNL-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-04-20T11:16:54Z'}], 'last_updated': '2022-04-20T11:16:54Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-20T11:20:08Z'}
+Removidos:[]
