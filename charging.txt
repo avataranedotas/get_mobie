@@ -4995,3 +4995,7 @@ ALQ-00003-03 evses -> 2: status : CHARGING
 
 2022-04-20 15:46:30
 ALQ-00003-03 evses -> 2: status : CHARGING
+
+2022-04-20 16:29:33
+MCV-00002-01 evses -> 0: status : CHARGING
+MCV-00002-02 evses -> 1: status : CHARGING
