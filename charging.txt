@@ -4980,3 +4980,6 @@ VCT-00016-02 evses -> 1: status : CHARGING
 
 2022-04-20 10:42:15
 EVR-00021-02 evses -> 1: status : CHARGING
+
+2022-04-20 13:35:08
+LRS-80003-02 evses -> 1: status : CHARGING
