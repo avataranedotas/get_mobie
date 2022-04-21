@@ -392,3 +392,9 @@ CSC-00098
 : 
  NEW coordinates : {'latitude': '38.70771', 'longitude': '-9.45681'}
  OLD coordinates : {'latitude': '38.7077100', 'longitude': '-9.4568100'}
+
+2022-04-21 14:17:41
+Adicionados:['PTL-00006']
+
+PTL-00006-->{'country_code': 'PT', 'party_id': 'CGG', 'id': 'PTL-00006', 'publish': True, 'address': 'Refóios do Lima', 'city': 'Ponte de Lima', 'country': 'PRT', 'postal_code': '4900-347', 'coordinates': {'latitude': '41.7927520', 'longitude': '-8.5416380'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTL-00006-01', 'evse_id': 'PT*CGG*PTL*00006*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTL-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-21T13:57:17Z'}], 'last_updated': '2022-04-21T13:57:17Z'}, {'uid': 'PTL-00006-02', 'evse_id': 'PT*CGG*PTL*00006*02', 'status': 'CHARGING', 'connectors': [{'id': 'PTL-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-21T13:59:54Z'}], 'last_updated': '2022-04-21T13:59:54Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-21T13:59:54Z'}
+Removidos:[]
