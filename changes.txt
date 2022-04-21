@@ -376,3 +376,19 @@ Adicionados:['CSC-00098']
 
 CSC-00098-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CSC-00098', 'publish': True, 'address': 'Onyria Quinta da Marinha Hotel R. Palmeiras', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-005', 'coordinates': {'latitude': '38.7077100', 'longitude': '-9.4568100'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00098-01', 'evse_id': 'PT*EDP*CSC*00098*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00098-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-21T10:03:50Z'}], 'last_updated': '2022-04-21T10:03:50Z'}, {'uid': 'CSC-00098-02', 'evse_id': 'PT*EDP*CSC*00098*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00098-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-21T10:09:57Z'}], 'last_updated': '2022-04-21T10:09:57Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-21T10:09:57Z'}
 Removidos:[]
+
+2022-04-21 10:43:47
+Adicionados:[]
+Removidos:['LLE-00018', 'LLE-00019']
+CSC-00098
+coordinates: 
+ NEW latitude : 38.70771
+ OLD latitude : 38.7077100
+CSC-00098
+coordinates: 
+ NEW longitude : -9.45681
+ OLD longitude : -9.4568100
+CSC-00098
+: 
+ NEW coordinates : {'latitude': '38.70771', 'longitude': '-9.45681'}
+ OLD coordinates : {'latitude': '38.7077100', 'longitude': '-9.4568100'}
