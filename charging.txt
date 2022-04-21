@@ -5080,3 +5080,6 @@ LSB-00452-1 evses -> 0: status : CHARGING
 2022-04-21 12:32:54
 AGH-00004-1 evses -> 0: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-21 13:30:31
+LSB-00452-1 evses -> 0: status : CHARGING
