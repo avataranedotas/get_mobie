@@ -5268,3 +5268,8 @@ LSB-00452-1 evses -> 0: status : CHARGING
 LOU-90002-01 evses -> 0: status : CHARGING
 LSB-00406-01 evses -> 0: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-22 21:39:14
+LOU-90002-01 evses -> 0: status : CHARGING
+LSB-00406-01 evses -> 0: status : CHARGING
+LSB-00452-1 evses -> 0: status : CHARGING
