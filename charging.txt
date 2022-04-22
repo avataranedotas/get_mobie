@@ -5202,3 +5202,8 @@ LSB-00452-1 evses -> 0: status : CHARGING
 2022-04-22 12:34:56
 LSB-00349-02 evses -> 1: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-22 13:35:51
+LSB-00349-02 evses -> 1: status : CHARGING
+LSB-00452-1 evses -> 0: status : CHARGING
+PRT-00139-1 evses -> 0: status : CHARGING
