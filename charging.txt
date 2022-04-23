@@ -5420,3 +5420,6 @@ VNG-00068-02 evses -> 1: status : CHARGING
 2022-04-23 19:14:20
 LLE-00064-02 evses -> 1: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-23 19:36:40
+LSB-00452-1 evses -> 0: status : CHARGING
