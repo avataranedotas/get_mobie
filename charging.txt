@@ -5551,3 +5551,7 @@ LSB-00464-01 evses -> 0: status : CHARGING
 GMR-00008-1 evses -> 0: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
 LSB-00464-01 evses -> 0: status : CHARGING
+
+2022-04-24 16:54:56
+LSB-00452-1 evses -> 0: status : CHARGING
+LSB-00464-01 evses -> 0: status : CHARGING
