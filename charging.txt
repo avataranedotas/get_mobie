@@ -5704,3 +5704,6 @@ SJM-00009-02 evses -> 1: status : CHARGING
 
 2022-04-25 19:37:05
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-25 20:18:52
+LSB-00452-1 evses -> 0: status : CHARGING
