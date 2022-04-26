@@ -5819,3 +5819,7 @@ LSB-90005-02 evses -> 1: status : CHARGING
 2022-04-26 17:43:40
 LSB-00452-1 evses -> 0: status : CHARGING
 OER-00038-02 evses -> 1: status : CHARGING
+
+2022-04-26 18:22:13
+LSB-00452-1 evses -> 0: status : CHARGING
+OER-00038-02 evses -> 1: status : CHARGING
