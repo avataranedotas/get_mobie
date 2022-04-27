@@ -5922,3 +5922,6 @@ SNT-00067-1 evses -> 0: status : CHARGING
 
 2022-04-27 13:35:29
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-04-27 14:16:51
+LSB-00452-1 evses -> 0: status : CHARGING
