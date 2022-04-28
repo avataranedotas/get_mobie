@@ -426,3 +426,9 @@ Removidos:[]
 2022-04-27 15:45:44
 Adicionados:[]
 Removidos:['CSC-00082']
+
+2022-04-28 11:37:29
+Adicionados:['VVD-00008']
+
+VVD-00008-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VVD-00008', 'publish': True, 'address': 'Rua 3 Lugar da Fuzelha', 'city': 'Vila Verde', 'country': 'PRT', 'postal_code': '4730-461', 'coordinates': {'latitude': '41.6129700', 'longitude': '-8.4721320'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VVD-00008-01', 'evse_id': 'PT*HRZ*VVD*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VVD-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-28T11:29:33Z'}], 'last_updated': '2022-04-28T11:29:33Z'}, {'uid': 'VVD-00008-02', 'evse_id': 'PT*HRZ*VVD*00008*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VVD-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-28T11:29:42Z'}], 'last_updated': '2022-04-28T11:29:42Z'}, {'uid': 'VVD-00008-03', 'evse_id': 'PT*HRZ*VVD*00008*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VVD-00008-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-04-28T11:30:03Z'}], 'last_updated': '2022-04-28T11:30:11Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-04-28T11:30:11Z'}
+Removidos:[]
