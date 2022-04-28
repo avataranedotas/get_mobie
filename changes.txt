@@ -446,3 +446,9 @@ VVD-00008
 : 
  NEW coordinates : {'latitude': '41.61297', 'longitude': '-8.472132'}
  OLD coordinates : {'latitude': '41.6129700', 'longitude': '-8.4721320'}
+
+2022-04-28 14:38:13
+Adicionados:['TND-00006']
+
+TND-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'TND-00006', 'publish': True, 'address': 'Avenida Lusiadas', 'city': 'Tondela', 'country': 'PRT', 'postal_code': '3460-482', 'coordinates': {'latitude': '40.5291829', 'longitude': '-8.0908963'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TND-00006-01', 'evse_id': 'PT*KLC*TND*00006*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'TND-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-28T14:30:13Z'}], 'last_updated': '2022-04-28T14:30:13Z'}, {'uid': 'TND-00006-02', 'evse_id': 'PT*KLC*TND*00006*02', 'status': 'CHARGING', 'connectors': [{'id': 'TND-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-28T14:30:14Z'}], 'last_updated': '2022-04-28T14:30:14Z'}, {'uid': 'TND-00006-03', 'evse_id': 'PT*KLC*TND*00006*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'TND-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-04-28T14:30:15Z'}], 'last_updated': '2022-04-28T14:30:15Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-28T14:30:16Z'}
+Removidos:[]
