@@ -484,3 +484,17 @@ Adicionados:['CBR-00051']
 
 CBR-00051-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'CBR-00051', 'publish': True, 'address': 'Intermarché Mira, R. Fernandes Costa', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3070-323', 'coordinates': {'latitude': '40.4267650', 'longitude': '-8.7302660'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CBR-00051-01', 'evse_id': 'PT*MLT*CBR*00051*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00051-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-29T14:26:13Z'}], 'last_updated': '2022-04-29T14:26:13Z'}, {'uid': 'CBR-00051-02', 'evse_id': 'PT*MLT*CBR*00051*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00051-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-04-29T14:30:21Z'}], 'last_updated': '2022-04-29T14:30:21Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-04-29T14:30:21Z'}
 Removidos:[]
+
+2022-04-29 15:19:52
+CBR-00051
+coordinates: 
+ NEW latitude : 40.426765
+ OLD latitude : 40.4267650
+CBR-00051
+coordinates: 
+ NEW longitude : -8.730266
+ OLD longitude : -8.7302660
+CBR-00051
+: 
+ NEW coordinates : {'latitude': '40.426765', 'longitude': '-8.730266'}
+ OLD coordinates : {'latitude': '40.4267650', 'longitude': '-8.7302660'}
