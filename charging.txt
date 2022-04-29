@@ -6137,3 +6137,7 @@ PRT-90082-1 evses -> 0: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
 PRT-90082-1 evses -> 0: status : CHARGING
 STS-00011-02 evses -> 1: status : CHARGING
+
+2022-04-29 09:41:58
+LSB-00452-1 evses -> 0: status : CHARGING
+PRT-90082-1 evses -> 0: status : CHARGING
