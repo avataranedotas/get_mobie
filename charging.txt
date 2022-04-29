@@ -6153,3 +6153,7 @@ PRT-90082-1 evses -> 0: status : CHARGING
 2022-04-29 11:15:26
 LSB-00452-1 evses -> 0: status : CHARGING
 PRT-90082-1 evses -> 0: status : CHARGING
+
+2022-04-29 11:39:11
+LSB-00452-1 evses -> 0: status : CHARGING
+PRT-90082-1 evses -> 0: status : CHARGING
