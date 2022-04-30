@@ -6349,3 +6349,8 @@ SNT-00070-1 evses -> 0: status : CHARGING
 2022-04-30 21:16:32
 LSB-00452-1 evses -> 0: status : CHARGING
 SNT-00070-1 evses -> 0: status : CHARGING
+
+2022-04-30 21:39:21
+LSB-00452-1 evses -> 0: status : CHARGING
+LSD-00002-03 evses -> 2: status : CHARGING
+SNT-00070-1 evses -> 0: status : CHARGING
