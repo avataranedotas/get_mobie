@@ -6483,3 +6483,6 @@ LSD-00002-02 evses -> 1: status : CHARGING
 2022-05-01 22:17:32
 LSB-00452-1 evses -> 0: status : CHARGING
 LSD-00002-02 evses -> 1: status : CHARGING
+
+2022-05-01 22:40:25
+LSB-00452-1 evses -> 0: status : CHARGING
