@@ -498,3 +498,9 @@ CBR-00051
 : 
  NEW coordinates : {'latitude': '40.426765', 'longitude': '-8.730266'}
  OLD coordinates : {'latitude': '40.4267650', 'longitude': '-8.7302660'}
+
+2022-05-02 13:36:55
+Adicionados:['OBD-00007']
+
+OBD-00007-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'OBD-00007', 'publish': True, 'address': 'Cabeço da Serra - Vau', 'city': 'Óbidos', 'country': 'PRT', 'postal_code': '2510-665', 'coordinates': {'latitude': '39.4067720', 'longitude': '-9.2429740'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OBD-00007-01', 'evse_id': 'PT*VEI*OBD*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OBD-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-02T13:13:04Z'}], 'last_updated': '2022-05-02T13:13:04Z'}, {'uid': 'OBD-00007-02', 'evse_id': 'PT*VEI*OBD*00007*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OBD-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-02T13:13:05Z'}], 'last_updated': '2022-05-02T13:13:05Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-02T13:19:28Z'}
+Removidos:[]
