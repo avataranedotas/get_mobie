@@ -6567,3 +6567,6 @@ TND-00006-03 evses -> 2: status : CHARGING
 
 2022-05-02 16:29:09
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-05-02 17:03:01
+LSB-00452-1 evses -> 0: status : CHARGING
