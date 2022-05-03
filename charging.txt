@@ -6696,3 +6696,7 @@ VVD-00008-02 evses -> 1: status : CHARGING
 
 2022-05-03 15:20:08
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-05-03 15:44:43
+LSB-00452-1 evses -> 0: status : CHARGING
+ODV-00009-02 evses -> 1: status : CHARGING
