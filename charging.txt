@@ -6721,3 +6721,6 @@ ODV-00009-02 evses -> 1: status : CHARGING
 2022-05-03 19:14:56
 LSB-00452-1 evses -> 0: status : CHARGING
 ODV-00009-02 evses -> 1: status : CHARGING
+
+2022-05-03 19:37:25
+LSB-00452-1 evses -> 0: status : CHARGING
