@@ -6809,3 +6809,8 @@ FUN-00033-02 evses -> 1: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
 LSB-00459-02 evses -> 1: status : CHARGING
 ODV-00009-03 evses -> 2: status : CHARGING
+
+2022-05-04 11:38:04
+LSB-00452-1 evses -> 0: status : CHARGING
+LSB-00459-02 evses -> 1: status : CHARGING
+ODV-00009-03 evses -> 2: status : CHARGING
