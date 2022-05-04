@@ -6872,3 +6872,6 @@ LSB-00452-1 evses -> 0: status : CHARGING
 
 2022-05-04 22:19:01
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-05-04 22:29:38
+LSB-00452-1 evses -> 0: status : CHARGING
