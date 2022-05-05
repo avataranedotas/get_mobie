@@ -6947,3 +6947,8 @@ VNG-00039-01 evses -> 0: status : CHARGING
 2022-05-05 14:38:49
 LSB-00452-1 evses -> 0: status : CHARGING
 VNG-00039-01 evses -> 0: status : CHARGING
+
+2022-05-05 15:19:07
+LSB-00452-1 evses -> 0: status : CHARGING
+VNG-00039-01 evses -> 0: status : CHARGING
+VNG-00061-02 evses -> 1: status : CHARGING
