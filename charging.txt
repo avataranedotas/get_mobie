@@ -6988,3 +6988,7 @@ SNT-90006-2 evses -> 1: status : CHARGING
 2022-05-05 20:19:21
 BCL-00012-01 evses -> 0: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-05-05 20:42:20
+BCL-00012-01 evses -> 0: status : CHARGING
+LSB-00452-1 evses -> 0: status : CHARGING
