@@ -7107,3 +7107,6 @@ BRG-00061-01 evses -> 0: status : CHARGING
 
 2022-05-06 20:19:36
 LSB-00429-1 evses -> 0: status : CHARGING
+
+2022-05-06 20:41:16
+LSB-00429-1 evses -> 0: status : CHARGING
