@@ -636,3 +636,17 @@ Adicionados:['MIR-00002']
 
 MIR-00002-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'MIR-00002', 'publish': True, 'address': 'R. Fernandes Costa', 'city': 'Mira', 'country': 'PRT', 'postal_code': '3070-323', 'coordinates': {'latitude': '40.4267650', 'longitude': '-8.7302660'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MIR-00002-01', 'evse_id': 'PT*MLT*MIR*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MIR-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-06T15:38:07Z'}], 'last_updated': '2022-05-06T15:38:07Z'}, {'uid': 'MIR-00002-02', 'evse_id': 'PT*MLT*MIR*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MIR-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-06T15:38:08Z'}], 'last_updated': '2022-05-06T15:38:08Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-06T15:38:27Z'}
 Removidos:[]
+
+2022-05-06 18:22:28
+MIR-00002
+coordinates: 
+ NEW latitude : 40.426765
+ OLD latitude : 40.4267650
+MIR-00002
+coordinates: 
+ NEW longitude : -8.730266
+ OLD longitude : -8.7302660
+MIR-00002
+: 
+ NEW coordinates : {'latitude': '40.426765', 'longitude': '-8.730266'}
+ OLD coordinates : {'latitude': '40.4267650', 'longitude': '-8.7302660'}
