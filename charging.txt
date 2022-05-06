@@ -7083,3 +7083,6 @@ LSB-00452-1 evses -> 0: status : CHARGING
 2022-05-06 13:33:59
 PTL-00006-01 evses -> 0: status : CHARGING
 PTL-00006-02 evses -> 1: status : CHARGING
+
+2022-05-06 14:17:41
+PTL-00006-01 evses -> 0: status : CHARGING
