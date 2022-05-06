@@ -7055,3 +7055,7 @@ SNT-90006-1 evses -> 0: status : CHARGING
 2022-05-06 09:18:44
 LSB-00452-1 evses -> 0: status : CHARGING
 SNT-90006-1 evses -> 0: status : CHARGING
+
+2022-05-06 09:41:50
+LSB-00452-1 evses -> 0: status : CHARGING
+SNT-90006-1 evses -> 0: status : CHARGING
