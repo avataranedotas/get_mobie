@@ -7101,3 +7101,6 @@ PTL-00006-01 evses -> 0: status : CHARGING
 
 2022-05-06 18:22:30
 BRG-00061-01 evses -> 0: status : CHARGING
+
+2022-05-06 18:47:17
+BRG-00061-01 evses -> 0: status : CHARGING
