@@ -7043,3 +7043,7 @@ LSB-00452-1 evses -> 0: status : CHARGING
 
 2022-05-06 07:38:44
 LSB-00452-1 evses -> 0: status : CHARGING
+
+2022-05-06 08:23:20
+LSB-00452-1 evses -> 0: status : CHARGING
+SNT-90006-1 evses -> 0: status : CHARGING
