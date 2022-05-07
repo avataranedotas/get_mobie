@@ -7139,3 +7139,6 @@ LSB-00427-1 evses -> 0: status : CHARGING
 LSB-00392-02 evses -> 1: status : CHARGING
 LSB-00392-02 evses -> 1: status : CHARGING
 LSB-00427-1 evses -> 0: status : CHARGING
+
+2022-05-07 11:15:29
+LSB-00427-1 evses -> 0: status : CHARGING
