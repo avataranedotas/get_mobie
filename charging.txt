@@ -7123,3 +7123,6 @@ VLN-00001-02 evses -> 1: status : CHARGING
 
 2022-05-06 22:41:22
 VLN-00001-02 evses -> 1: status : CHARGING
+
+2022-05-07 08:45:00
+BRG-00061-01 evses -> 0: status : CHARGING
