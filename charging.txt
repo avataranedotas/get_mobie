@@ -7134,3 +7134,8 @@ MNC-00002-02 evses -> 1: status : CHARGING
 LSB-00392-02 evses -> 1: status : CHARGING
 LSB-00392-02 evses -> 1: status : CHARGING
 LSB-00427-1 evses -> 0: status : CHARGING
+
+2022-05-07 10:42:16
+LSB-00392-02 evses -> 1: status : CHARGING
+LSB-00392-02 evses -> 1: status : CHARGING
+LSB-00427-1 evses -> 0: status : CHARGING
