@@ -7149,3 +7149,6 @@ VLN-00001-02 evses -> 1: status : CHARGING
 
 2022-05-07 17:40:56
 VRS-00004-03 evses -> 2: status : CHARGING
+
+2022-05-08 10:19:56
+LSB-00392-01 evses -> 0: status : CHARGING
