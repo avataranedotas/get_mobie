@@ -7170,3 +7170,6 @@ LSB-00428-1 evses -> 0: status : CHARGING
 
 2022-05-08 18:21:02
 MIR-00002-01 evses -> 0: status : CHARGING
+
+2022-05-08 19:36:38
+MIR-00002-02 evses -> 1: status : CHARGING
