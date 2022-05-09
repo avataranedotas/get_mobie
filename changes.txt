@@ -672,3 +672,17 @@ Removidos:[]
 2022-05-09 15:45:33
 Adicionados:[]
 Removidos:['VNG-00080']
+
+2022-05-09 17:04:53
+GDM-00011
+coordinates: 
+ NEW latitude : 41.14706
+ OLD latitude : 41.1470600
+GDM-00011
+coordinates: 
+ NEW longitude : -8.53162
+ OLD longitude : -8.5316200
+GDM-00011
+: 
+ NEW coordinates : {'latitude': '41.14706', 'longitude': '-8.53162'}
+ OLD coordinates : {'latitude': '41.1470600', 'longitude': '-8.5316200'}
