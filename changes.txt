@@ -650,3 +650,9 @@ MIR-00002
 : 
  NEW coordinates : {'latitude': '40.426765', 'longitude': '-8.730266'}
  OLD coordinates : {'latitude': '40.4267650', 'longitude': '-8.7302660'}
+
+2022-05-09 10:44:18
+Adicionados:['GDM-00011']
+
+GDM-00011-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'GDM-00011', 'publish': True, 'address': 'Av.General Humberto Delgado', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4420-000', 'coordinates': {'latitude': '41.1470600', 'longitude': '-8.5316200'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GDM-00011-01', 'evse_id': 'PT*GLG*GDM*00011*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'GDM-00011-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-09T10:18:33Z'}], 'last_updated': '2022-05-09T10:18:33Z'}, {'uid': 'GDM-00011-02', 'evse_id': 'PT*GLG*GDM*00011*02', 'status': 'CHARGING', 'connectors': [{'id': 'GDM-00011-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-09T10:18:31Z'}], 'last_updated': '2022-05-09T10:18:31Z'}, {'uid': 'GDM-00011-03', 'evse_id': 'PT*GLG*GDM*00011*03', 'status': 'CHARGING', 'connectors': [{'id': 'GDM-00011-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-05-09T10:18:32Z'}], 'last_updated': '2022-05-09T10:18:32Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-09T10:18:33Z'}
+Removidos:[]
