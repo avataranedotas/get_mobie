@@ -7259,3 +7259,7 @@ LSB-90017-02 evses -> 1: status : CHARGING
 
 2022-05-10 11:38:33
 VRS-00004-01 evses -> 0: status : CHARGING
+
+2022-05-10 13:46:58
+LSB-00445-02 evses -> 1: status : CHARGING
+LSB-90017-02 evses -> 1: status : CHARGING
