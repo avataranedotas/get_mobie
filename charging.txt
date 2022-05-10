@@ -7253,3 +7253,6 @@ ACN-00004-02 evses -> 1: status : CHARGING
 
 2022-05-10 09:18:48
 ACN-00004-02 evses -> 1: status : CHARGING
+
+2022-05-10 10:20:22
+LSB-90017-02 evses -> 1: status : CHARGING
