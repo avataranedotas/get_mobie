@@ -7271,3 +7271,7 @@ LSB-90017-02 evses -> 1: status : CHARGING
 2022-05-10 14:42:21
 LSB-00445-02 evses -> 1: status : CHARGING
 LSB-90017-02 evses -> 1: status : CHARGING
+
+2022-05-10 15:19:38
+LSB-00445-02 evses -> 1: status : CHARGING
+LSB-90017-02 evses -> 1: status : CHARGING
