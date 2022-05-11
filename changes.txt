@@ -814,3 +814,17 @@ CMN-00003
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 22000
+
+2022-05-11 18:22:59
+LSB-00350
+coordinates: 
+ NEW latitude : 38.749639409721
+ OLD latitude : 38.7497277
+LSB-00350
+coordinates: 
+ NEW longitude : -9.116559318775
+ OLD longitude : -9.1199448
+LSB-00350
+: 
+ NEW coordinates : {'latitude': '38.749639409721', 'longitude': '-9.116559318775'}
+ OLD coordinates : {'latitude': '38.7497277', 'longitude': '-9.1199448'}
