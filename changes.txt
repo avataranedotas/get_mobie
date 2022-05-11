@@ -764,3 +764,53 @@ Adicionados:['ETR-00009']
 
 ETR-00009-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ETR-00009', 'publish': True, 'address': 'Área de Serviço – Antuã, A1,  km 254,9', 'city': 'Estarreja', 'country': 'PRT', 'postal_code': '3865-222', 'coordinates': {'latitude': '40.7553500', 'longitude': '-8.5364900'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'ETR-00009-01', 'evse_id': 'PT*EDP*ETR*00009*01', 'status': 'CHARGING', 'connectors': [{'id': 'ETR-00009-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 500, 'max_electric_power': 43000, 'last_updated': '2022-05-11T14:00:19Z'}], 'last_updated': '2022-05-11T14:00:19Z'}, {'uid': 'ETR-00009-02', 'evse_id': 'PT*EDP*ETR*00009*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ETR-00009-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 43000, 'last_updated': '2022-05-11T13:55:28Z'}], 'last_updated': '2022-05-11T13:55:28Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-11T14:00:19Z'}
 Removidos:[]
+
+2022-05-11 16:28:31
+CMN-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+CMN-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 250
+CMN-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 120000
+CMN-00003
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CMN-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 250
+CMN-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 120000
+CMN-00003
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+CMN-00003
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+CMN-00003
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+CMN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+CMN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 32
+CMN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 22000
