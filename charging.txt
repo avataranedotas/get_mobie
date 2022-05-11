@@ -7341,3 +7341,6 @@ LSB-90017-02 evses -> 1: status : CHARGING
 2022-05-11 09:42:03
 CMN-00003-03 evses -> 2: status : CHARGING
 STS-00012-01 evses -> 0: status : CHARGING
+
+2022-05-11 10:21:35
+LSB-00435-1 evses -> 0: status : CHARGING
