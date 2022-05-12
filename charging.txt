@@ -7426,3 +7426,8 @@ LSB-90500-06 evses -> 5: status : CHARGING
 LSB-90500-02 evses -> 1: status : CHARGING
 LSB-90500-06 evses -> 5: status : CHARGING
 SSB-00006-01 evses -> 0: status : CHARGING
+
+2022-05-12 13:44:48
+LSB-00390-02 evses -> 1: status : CHARGING
+LSB-00390-02 evses -> 1: status : CHARGING
+LSB-90500-02 evses -> 1: status : CHARGING
