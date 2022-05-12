@@ -828,3 +828,9 @@ LSB-00350
 : 
  NEW coordinates : {'latitude': '38.749639409721', 'longitude': '-9.116559318775'}
  OLD coordinates : {'latitude': '38.7497277', 'longitude': '-9.1199448'}
+
+2022-05-12 08:47:14
+Adicionados:['MFR-00021']
+
+MFR-00021-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'MFR-00021', 'publish': True, 'address': 'Rua da Lagoa, 25 - E.N. 8, km 22,900', 'city': 'Mafra', 'country': 'PRT', 'postal_code': '2665-243', 'coordinates': {'latitude': '38.9394670', 'longitude': '-9.2517010'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'MFR-00021-01', 'evse_id': 'PT*REP*MFR*00021*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'MFR-00021-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-02-01T19:52:31Z'}], 'last_updated': '2022-01-18T23:30:41Z'}, {'uid': 'MFR-00021-02', 'evse_id': 'PT*REP*MFR*00021*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'MFR-00021-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-02-01T19:52:31Z'}], 'last_updated': '2022-01-18T23:30:41Z'}, {'uid': 'MFR-00021-03', 'evse_id': 'PT*REP*MFR*00021*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'MFR-00021-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-01T19:52:31Z'}], 'last_updated': '2022-01-18T23:30:41Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T08:39:25Z'}
+Removidos:[]
