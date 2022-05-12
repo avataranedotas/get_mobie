@@ -7390,3 +7390,6 @@ LSB-90500-04 evses -> 3: status : CHARGING
 
 2022-05-12 05:45:16
 LSB-90500-04 evses -> 3: status : CHARGING
+
+2022-05-12 06:25:47
+LSB-90500-04 evses -> 3: status : CHARGING
