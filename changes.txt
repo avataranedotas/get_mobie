@@ -880,3 +880,9 @@ ODV-00011
 : 
  NEW parking_type : ALONG_MOTORWAY
  OLD parking_type : ON_STREET
+
+2022-05-12 12:36:58
+Adicionados:['VNG-00072']
+
+VNG-00072-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNG-00072', 'publish': True, 'address': 'Área de Serviço de V. N. de Gaia, A1 km 295,7', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4430-129', 'coordinates': {'latitude': '41.1014900', 'longitude': '-8.5982200'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'VNG-00072-01', 'evse_id': 'PT*EDP*VNG*00072*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00072-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2022-05-12T12:19:46Z'}], 'last_updated': '2022-05-12T12:19:46Z'}, {'uid': 'VNG-00072-02', 'evse_id': 'PT*EDP*VNG*00072*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00072-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-05-12T12:08:04Z'}], 'last_updated': '2022-05-12T12:08:04Z'}, {'uid': 'VNG-00072-03', 'evse_id': 'PT*EDP*VNG*00072*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00072-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-12T12:08:26Z'}], 'last_updated': '2022-05-12T12:08:26Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T12:19:55Z'}
+Removidos:[]
