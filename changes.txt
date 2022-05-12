@@ -858,3 +858,25 @@ Adicionados:['ODV-00011']
 
 ODV-00011-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'ODV-00011', 'publish': True, 'address': 'Rua Aires Ornelas/Rua do Vale Forno', 'city': 'Odivelas', 'country': 'PRT', 'postal_code': '2675-272', 'coordinates': {'latitude': '38.7853110', 'longitude': '-9.1791800'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'ODV-00011-01', 'evse_id': 'PT*REP*ODV*00011*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODV-00011-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-05-12T10:03:52Z'}], 'last_updated': '2022-05-12T10:03:51Z'}, {'uid': 'ODV-00011-02', 'evse_id': 'PT*REP*ODV*00011*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODV-00011-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-05-12T10:03:53Z'}], 'last_updated': '2022-05-12T10:03:53Z'}, {'uid': 'ODV-00011-03', 'evse_id': 'PT*REP*ODV*00011*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODV-00011-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-12T10:03:55Z'}], 'last_updated': '2022-05-12T10:03:55Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T10:09:58Z'}
 Removidos:[]
+
+2022-05-12 10:45:26
+Adicionados:['VNG-00073']
+
+VNG-00073-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNG-00073', 'publish': True, 'address': 'Área de Serviço de V. N. de Gaia, A1 km 295,7', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4430-129', 'coordinates': {'latitude': '41.1009200', 'longitude': '-8.5987100'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'VNG-00073-01', 'evse_id': 'PT*EDP*VNG*00073*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00073-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2022-05-12T10:37:21Z'}], 'last_updated': '2022-05-12T10:37:22Z'}, {'uid': 'VNG-00073-02', 'evse_id': 'PT*EDP*VNG*00073*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00073-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-05-12T10:34:32Z'}], 'last_updated': '2022-05-12T10:34:32Z'}, {'uid': 'VNG-00073-03', 'evse_id': 'PT*EDP*VNG*00073*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00073-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-12T10:34:33Z'}], 'last_updated': '2022-05-12T10:34:33Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T10:38:30Z'}
+Removidos:[]
+ODV-00011
+coordinates: 
+ NEW latitude : 38.785311
+ OLD latitude : 38.7853110
+ODV-00011
+coordinates: 
+ NEW longitude : -9.17918
+ OLD longitude : -9.1791800
+ODV-00011
+: 
+ NEW coordinates : {'latitude': '38.785311', 'longitude': '-9.17918'}
+ OLD coordinates : {'latitude': '38.7853110', 'longitude': '-9.1791800'}
+ODV-00011
+: 
+ NEW parking_type : ALONG_MOTORWAY
+ OLD parking_type : ON_STREET
