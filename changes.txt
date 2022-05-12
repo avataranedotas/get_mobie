@@ -892,3 +892,13 @@ Adicionados:['ACH-00008']
 
 ACH-00008-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'ACH-00008', 'publish': True, 'address': 'Rotunda de Alcochete - Lugar do Entroncamento', 'city': 'Alcochete', 'country': 'PRT', 'postal_code': '2890-174', 'coordinates': {'latitude': '38.74532', 'longitude': '-8.9306999'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'ACH-00008-01', 'evse_id': 'PT*REP*ACH*00008*01', 'status': 'CHARGING', 'connectors': [{'id': 'ACH-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 77, 'max_electric_power': 30000, 'last_updated': '2022-05-12T13:16:10Z'}], 'last_updated': '2022-05-12T13:16:10Z'}, {'uid': 'ACH-00008-02', 'evse_id': 'PT*REP*ACH*00008*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'ACH-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 77, 'max_electric_power': 30000, 'last_updated': '2022-05-12T13:16:11Z'}], 'last_updated': '2022-05-12T13:16:10Z'}, {'uid': 'ACH-00008-03', 'evse_id': 'PT*REP*ACH*00008*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'ACH-00008-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-12T13:16:12Z'}], 'last_updated': '2022-05-12T13:16:11Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T13:30:38Z'}
 Removidos:[]
+
+2022-05-12 16:29:18
+ODV-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
+ODV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000

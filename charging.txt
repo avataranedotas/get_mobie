@@ -7445,3 +7445,6 @@ LSB-00475-1 evses -> 0: status : CHARGING
 2022-05-12 15:46:19
 ALM-00034-02 evses -> 1: status : CHARGING
 LSB-00475-1 evses -> 0: status : CHARGING
+
+2022-05-12 16:29:19
+LSB-00475-1 evses -> 0: status : CHARGING
