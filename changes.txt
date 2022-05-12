@@ -902,3 +902,11 @@ ODV-00011
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 22000
+
+2022-05-12 19:36:55
+Adicionados:['LSB-00476', 'LSB-00477']
+
+LSB-00476-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'LSB-00476', 'publish': True, 'address': 'Rua Castilho, 64', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-071', 'coordinates': {'latitude': '38.7241300', 'longitude': '-9.1523500'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00476-1', 'evse_id': 'PT*LOG*LSB*00476*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00476-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-12T19:10:57Z'}], 'last_updated': '2022-05-12T19:10:57Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T19:14:57Z'}
+
+LSB-00477-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'LSB-00477', 'publish': True, 'address': 'Rua Castilho, 64', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-071', 'coordinates': {'latitude': '38.7241300', 'longitude': '-9.1523500'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00477-1', 'evse_id': 'PT*LOG*LSB*00477*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00477-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-12T19:11:14Z'}], 'last_updated': '2022-05-12T19:11:14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-12T19:15:15Z'}
+Removidos:[]
