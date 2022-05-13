@@ -7516,3 +7516,6 @@ GMR-90014-01 evses -> 0: status : CHARGING
 ETR-00009-01 evses -> 0: status : CHARGING
 GMR-90014-01 evses -> 0: status : CHARGING
 MGR-00004-01 evses -> 0: status : CHARGING
+
+2022-05-13 17:48:35
+MGR-00004-03 evses -> 2: status : CHARGING
