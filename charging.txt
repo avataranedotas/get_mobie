@@ -7508,3 +7508,6 @@ MFR-00021-03 evses -> 2: status : CHARGING
 
 2022-05-13 14:42:28
 ETR-00010-03 evses -> 2: status : CHARGING
+
+2022-05-13 15:19:52
+GMR-90014-01 evses -> 0: status : CHARGING

@@ -950,3 +950,9 @@ Removidos:['AGN-00001', 'MGL-00003', 'TBR-00001']
 2022-05-13 14:20:19
 Adicionados:[]
 Removidos:['PNC-00001']
+
+2022-05-13 15:19:49
+Adicionados:['MDL-90001']
+
+MDL-90001-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'MDL-90001', 'publish': True, 'address': 'Nacional 15', 'city': 'Mirandela', 'country': 'PRT', 'postal_code': '5370-585', 'coordinates': {'latitude': '41.487599', 'longitude': '-7.182711'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MDL-90001-01', 'evse_id': 'PT*EDP*MDL*90001*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDL-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T14:44:26Z'}], 'last_updated': '2022-05-13T14:44:26Z'}, {'uid': 'MDL-90001-02', 'evse_id': 'PT*EDP*MDL*90001*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDL-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T14:44:37Z'}], 'last_updated': '2022-05-13T14:44:37Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-13T14:54:28Z'}
+Removidos:['MDL-00001']
