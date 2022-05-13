@@ -7492,3 +7492,6 @@ MGR-00004-02 evses -> 1: status : CHARGING
 
 2022-05-13 10:45:06
 ETR-00010-03 evses -> 2: status : CHARGING
+
+2022-05-13 11:39:26
+ETR-00010-01 evses -> 0: status : CHARGING
