@@ -7533,3 +7533,6 @@ VNG-00072-01 evses -> 0: status : CHARGING
 
 2022-05-13 19:15:56
 GMR-90014-02 evses -> 1: status : CHARGING
+
+2022-05-13 19:37:07
+GMR-90014-02 evses -> 1: status : CHARGING
