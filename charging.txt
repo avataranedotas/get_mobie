@@ -7523,3 +7523,10 @@ MGR-00004-03 evses -> 2: status : CHARGING
 2022-05-13 18:24:07
 AMT-00001-2 evses -> 1: status : CHARGING
 MGR-00004-03 evses -> 2: status : CHARGING
+
+2022-05-13 18:48:11
+AMT-00001-2 evses -> 1: status : CHARGING
+GMR-90014-01 evses -> 0: status : CHARGING
+MGR-00004-01 evses -> 0: status : CHARGING
+MGR-00004-03 evses -> 2: status : CHARGING
+VNG-00072-01 evses -> 0: status : CHARGING
