@@ -7489,3 +7489,6 @@ AMD-00048-1 evses -> 0: status : CHARGING
 
 2022-05-13 10:21:33
 MGR-00004-02 evses -> 1: status : CHARGING
+
+2022-05-13 10:45:06
+ETR-00010-03 evses -> 2: status : CHARGING
