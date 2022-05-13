@@ -7502,3 +7502,6 @@ VNG-00073-02 evses -> 1: status : CHARGING
 
 2022-05-13 13:47:30
 MFR-00021-03 evses -> 2: status : CHARGING
+
+2022-05-13 14:20:21
+MFR-00021-03 evses -> 2: status : CHARGING
