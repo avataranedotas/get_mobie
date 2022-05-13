@@ -920,3 +920,9 @@ ETR-00009
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 75000
  OLD max_electric_power : 43000
+
+2022-05-13 09:19:03
+Adicionados:['SLV-00007']
+
+SLV-00007-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SLV-00007', 'publish': True, 'address': 'Rua João de Deus', 'city': 'Silves', 'country': 'PRT', 'postal_code': '8375-127', 'coordinates': {'latitude': '37.2560572', 'longitude': '-8.2982926'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SLV-00007-01', 'evse_id': 'PT*KLC*SLV*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SLV-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T09:14:34Z'}], 'last_updated': '2022-05-13T09:14:34Z'}, {'uid': 'SLV-00007-02', 'evse_id': 'PT*KLC*SLV*00007*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SLV-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T09:15:13Z'}], 'last_updated': '2022-05-13T09:15:13Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-13T09:15:13Z'}
+Removidos:[]
