@@ -7542,3 +7542,6 @@ ACH-00008-03 evses -> 2: status : CHARGING
 
 2022-05-14 04:05:32
 ACH-00008-03 evses -> 2: status : CHARGING
+
+2022-05-14 05:45:52
+ACH-00008-03 evses -> 2: status : CHARGING
