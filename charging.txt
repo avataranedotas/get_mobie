@@ -7589,3 +7589,7 @@ LSB-00438-1 evses -> 0: status : CHARGING
 2022-05-14 20:19:05
 CTB-90006-1 evses -> 0: status : CHARGING
 LSB-00438-1 evses -> 0: status : CHARGING
+
+2022-05-14 20:40:54
+CTB-90006-1 evses -> 0: status : CHARGING
+LSB-00438-1 evses -> 0: status : CHARGING
