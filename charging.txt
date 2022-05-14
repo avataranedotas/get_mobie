@@ -7572,3 +7572,6 @@ RGR-00006-01 evses -> 0: status : CHARGING
 
 2022-05-14 17:43:00
 CTB-90006-1 evses -> 0: status : CHARGING
+
+2022-05-14 18:22:16
+CTB-90006-1 evses -> 0: status : CHARGING
