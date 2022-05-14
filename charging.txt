@@ -7566,3 +7566,6 @@ LSB-00390-02 evses -> 1: status : CHARGING
 2022-05-14 09:17:51
 ACH-00008-03 evses -> 2: status : CHARGING
 LSB-00390-02 evses -> 1: status : CHARGING
+
+2022-05-14 16:58:19
+RGR-00006-01 evses -> 0: status : CHARGING
