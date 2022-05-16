@@ -966,3 +966,9 @@ Removidos:[]
 2022-05-13 18:24:05
 Adicionados:[]
 Removidos:['VLC-00002']
+
+2022-05-16 09:18:48
+Adicionados:['CBR-00019']
+
+CBR-00019-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CBR-00019', 'publish': True, 'address': 'Rua Doutor Manuel Almeida e Sousa', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3020-258', 'coordinates': {'latitude': '40.2275335', 'longitude': '-8.4404412'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CBR-00019-01', 'evse_id': 'PT*KLC*CBR*00019*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CBR-00019-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T09:00:17Z'}], 'last_updated': '2022-05-16T09:00:17Z'}, {'uid': 'CBR-00019-02', 'evse_id': 'PT*KLC*CBR*00019*02', 'status': 'CHARGING', 'connectors': [{'id': 'CBR-00019-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T09:00:16Z'}], 'last_updated': '2022-05-16T09:00:16Z'}, {'uid': 'CBR-00019-03', 'evse_id': 'PT*KLC*CBR*00019*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00019-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-05-16T09:00:14Z'}], 'last_updated': '2022-05-16T09:00:14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T09:10:13Z'}
+Removidos:[]
