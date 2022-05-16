@@ -1042,3 +1042,9 @@ evses -> 2 -> connectors -> 0:
 2022-05-16 19:15:06
 Adicionados:[]
 Removidos:['BRG-00053']
+
+2022-05-16 20:21:10
+Adicionados:['SCG-00003']
+
+SCG-00003-->{'country_code': 'PT', 'party_id': 'SEG', 'id': 'SCG-00003', 'publish': True, 'address': 'Rua Dr. Manuel Gregório Jr.', 'city': 'Santa Cruz da Graciosa', 'country': 'PRT', 'postal_code': '9880-381', 'coordinates': {'latitude': '39.0840330', 'longitude': '-28.0050910'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SCG-00003-01', 'evse_id': 'PT*SEG*SCG*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'SCG-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T20:08:26Z'}], 'last_updated': '2022-05-16T20:08:26Z'}, {'uid': 'SCG-00003-02', 'evse_id': 'PT*SEG*SCG*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'SCG-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T20:08:27Z'}], 'last_updated': '2022-05-16T20:08:27Z'}], 'time_zone': 'Atlantic/Azores', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T20:14:28Z'}
+Removidos:[]
