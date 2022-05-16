@@ -7602,3 +7602,6 @@ CTB-90006-1 evses -> 0: status : CHARGING
 
 2022-05-16 09:18:50
 CBR-00019-02 evses -> 1: status : CHARGING
+
+2022-05-16 09:42:12
+CBR-00019-03 evses -> 2: status : CHARGING
