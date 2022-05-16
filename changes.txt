@@ -1038,3 +1038,7 @@ CMN-00002
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 22000
+
+2022-05-16 19:15:06
+Adicionados:[]
+Removidos:['BRG-00053']
