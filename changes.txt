@@ -978,3 +978,33 @@ Adicionados:['VNG-00075']
 
 VNG-00075-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00075', 'publish': True, 'address': 'Rua Diogo Macedo, 220', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-107', 'coordinates': {'latitude': '41.1240920', 'longitude': '-8.6148050'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00075-01', 'evse_id': 'PT*GLP*VNG*00075*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00075-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T09:37:36Z'}], 'last_updated': '2022-05-16T09:37:35Z'}, {'uid': 'VNG-00075-02', 'evse_id': 'PT*GLP*VNG*00075*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00075-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T09:37:36Z'}], 'last_updated': '2022-05-16T09:37:36Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T09:47:22Z'}
 Removidos:[]
+
+2022-05-16 10:44:48
+Adicionados:['VNG-00076']
+
+VNG-00076-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00076', 'publish': True, 'address': 'Rua Diogo Macedo, 220', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-107', 'coordinates': {'latitude': '41.1240920', 'longitude': '-8.6148050'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00076-01', 'evse_id': 'PT*GLP*VNG*00076*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00076-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T10:23:08Z'}], 'last_updated': '2022-05-16T10:23:08Z'}, {'uid': 'VNG-00076-02', 'evse_id': 'PT*GLP*VNG*00076*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00076-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-16T10:23:09Z'}], 'last_updated': '2022-05-16T10:23:09Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T10:33:15Z'}
+Removidos:[]
+PTM-00023
+coordinates: 
+ NEW latitude : 37.130472
+ OLD latitude : 37.1303854
+PTM-00023
+coordinates: 
+ NEW longitude : -8.575175
+ OLD longitude : -9.6961295
+PTM-00023
+: 
+ NEW coordinates : {'latitude': '37.130472', 'longitude': '-8.575175'}
+ OLD coordinates : {'latitude': '37.1303854', 'longitude': '-9.6961295'}
+SLV-00007
+coordinates: 
+ NEW latitude : 37.260219
+ OLD latitude : 37.2560572
+SLV-00007
+coordinates: 
+ NEW longitude : -8.292558
+ OLD longitude : -8.2982926
+SLV-00007
+: 
+ NEW coordinates : {'latitude': '37.260219', 'longitude': '-8.292558'}
+ OLD coordinates : {'latitude': '37.2560572', 'longitude': '-8.2982926'}
