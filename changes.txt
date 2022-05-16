@@ -1020,3 +1020,21 @@ Adicionados:['ESP-00002']
 
 ESP-00002-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ESP-00002', 'publish': True, 'address': 'Rua 43', 'city': 'Espinho', 'country': 'PRT', 'postal_code': '4500-801', 'coordinates': {'latitude': '41.0000651', 'longitude': '-8.6414990'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ESP-00002-01', 'evse_id': 'PT*KLC*ESP*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T13:21:59Z'}], 'last_updated': '2022-05-16T13:21:58Z'}, {'uid': 'ESP-00002-02', 'evse_id': 'PT*KLC*ESP*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T13:22:00Z'}], 'last_updated': '2022-05-16T13:21:59Z'}, {'uid': 'ESP-00002-03', 'evse_id': 'PT*KLC*ESP*00002*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-05-16T13:22:01Z'}], 'last_updated': '2022-05-16T13:22:01Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T13:33:55Z'}
 Removidos:[]
+
+2022-05-16 15:21:06
+Adicionados:['CNS-00002']
+
+CNS-00002-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'CNS-00002', 'publish': True, 'address': 'Estrada Nacional nº 3, Km 100+900', 'city': 'Constância', 'country': 'PRT', 'postal_code': '2250-211', 'coordinates': {'latitude': '39.4819460', 'longitude': '-8.2881500'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CNS-00002-01', 'evse_id': 'PT*REP*CNS*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CNS-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T15:10:34Z'}], 'last_updated': '2022-05-16T15:10:34Z'}, {'uid': 'CNS-00002-02', 'evse_id': 'PT*REP*CNS*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CNS-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-16T15:10:32Z'}], 'last_updated': '2022-05-16T15:10:32Z'}, {'uid': 'CNS-00002-03', 'evse_id': 'PT*REP*CNS*00002*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CNS-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-05-16T15:10:12Z'}], 'last_updated': '2022-05-16T15:10:12Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-16T15:10:34Z'}
+Removidos:[]
+CMN-00002
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+CMN-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 190
+ OLD max_amperage : 32
+CMN-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 22000
