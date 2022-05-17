@@ -7608,3 +7608,6 @@ CBR-00019-03 evses -> 2: status : CHARGING
 
 2022-05-16 11:16:29
 FIG-00006-02 evses -> 1: status : CHARGING
+
+2022-05-17 15:24:22
+ESP-00002-02 evses -> 1: status : CHARGING
