@@ -1058,3 +1058,9 @@ SNT-00061
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 30000
+
+2022-05-17 10:43:42
+Adicionados:['LRS-00066']
+
+LRS-00066-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'LRS-00066', 'publish': True, 'address': 'R. Álvaro Pedro Gomes 13', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2685-141', 'coordinates': {'latitude': '38.7941479', 'longitude': '-9.1024116'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRS-00066-01', 'evse_id': 'PT*MLT*LRS*00066*01', 'status': 'CHARGING', 'connectors': [{'id': 'LRS-00066-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-17T10:25:16Z'}], 'last_updated': '2022-05-17T10:25:16Z'}, {'uid': 'LRS-00066-02', 'evse_id': 'PT*MLT*LRS*00066*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00066-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-17T10:25:17Z'}], 'last_updated': '2022-05-17T10:25:17Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-17T10:38:12Z'}
+Removidos:[]
