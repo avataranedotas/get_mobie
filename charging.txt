@@ -7611,3 +7611,6 @@ FIG-00006-02 evses -> 1: status : CHARGING
 
 2022-05-17 15:24:22
 ESP-00002-02 evses -> 1: status : CHARGING
+
+2022-05-17 16:30:26
+LSB-00437-1 evses -> 0: status : CHARGING
