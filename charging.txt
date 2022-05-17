@@ -7617,3 +7617,6 @@ LSB-00437-1 evses -> 0: status : CHARGING
 
 2022-05-17 17:24:09
 LSB-00437-1 evses -> 0: status : CHARGING
+
+2022-05-17 17:47:40
+LSB-00437-1 evses -> 0: status : CHARGING
