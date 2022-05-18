@@ -1110,3 +1110,13 @@ Adicionados:['MTS-00044']
 
 MTS-00044-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'MTS-00044', 'publish': True, 'address': 'Avenida da Liberdade - Prolongamento do IP4', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-113', 'coordinates': {'latitude': '41.1823850', 'longitude': '-8.6769030'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'MTS-00044-01', 'evse_id': 'PT*REP*MTS*00044*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00044-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-05-18T08:24:42Z'}], 'last_updated': '2022-05-18T08:24:42Z'}, {'uid': 'MTS-00044-02', 'evse_id': 'PT*REP*MTS*00044*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00044-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 80, 'max_electric_power': 22000, 'last_updated': '2022-05-18T08:24:43Z'}], 'last_updated': '2022-05-18T08:24:43Z'}, {'uid': 'MTS-00044-03', 'evse_id': 'PT*REP*MTS*00044*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00044-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-18T08:24:44Z'}], 'last_updated': '2022-05-18T08:24:44Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-18T08:24:44Z'}
 Removidos:[]
+
+2022-05-18 10:43:24
+MTS-00044
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
+MTS-00044
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
