@@ -1120,3 +1120,9 @@ MTS-00044
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 22000
+
+2022-05-18 12:37:46
+Adicionados:['PTG-00012']
+
+PTG-00012-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'PTG-00012', 'publish': True, 'address': 'Rua General Conde Jorge de Avilez', 'city': 'Portalegre', 'country': 'PRT', 'postal_code': '7300-185', 'coordinates': {'latitude': '39.2976400', 'longitude': '-7.4285800'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTG-00012-01', 'evse_id': 'PT*IBD*PTG*00012*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTG-00012-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-05-18T12:27:24Z'}], 'last_updated': '2022-05-18T12:27:24Z'}, {'uid': 'PTG-00012-02', 'evse_id': 'PT*IBD*PTG*00012*02', 'status': 'CHARGING', 'connectors': [{'id': 'PTG-00012-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 350, 'max_electric_power': 160000, 'last_updated': '2022-05-18T12:27:24Z'}], 'last_updated': '2022-05-18T12:27:24Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-18T12:29:22Z'}
+Removidos:[]
