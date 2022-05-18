@@ -7629,3 +7629,6 @@ PRT-00107-1 evses -> 0: status : CHARGING
 
 2022-05-18 08:22:54
 PRT-00107-1 evses -> 0: status : CHARGING
+
+2022-05-18 08:46:03
+PRT-00107-1 evses -> 0: status : CHARGING
