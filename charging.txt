@@ -7663,3 +7663,6 @@ SLV-00007-02 evses -> 1: status : CHARGING
 
 2022-05-19 12:36:59
 MTS-00044-03 evses -> 2: status : CHARGING
+
+2022-05-19 13:40:45
+MTS-00044-03 evses -> 2: status : CHARGING
