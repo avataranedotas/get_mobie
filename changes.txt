@@ -1178,3 +1178,9 @@ FUN-00034
 : 
  NEW coordinates : {'latitude': '32.656198', 'longitude': '-16.900474'}
  OLD coordinates : {'latitude': '32.6561980', 'longitude': '-16.9004740'}
+
+2022-05-19 10:21:50
+Adicionados:['ALB-00006']
+
+ALB-00006-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'ALB-00006', 'publish': True, 'address': 'Cepsa Albergaria-a-Velha', 'city': 'Albergaria-a-Velha', 'country': 'PRT', 'postal_code': '3850-165', 'coordinates': {'latitude': '40.6781331', 'longitude': '-8.4719281'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'ALB-00006-1', 'evse_id': 'PT*ION*ALB*00006*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALB-00006-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2022-05-19T10:13:28Z'}], 'last_updated': '2022-05-19T10:13:28Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-19T10:14:00Z'}
+Removidos:[]

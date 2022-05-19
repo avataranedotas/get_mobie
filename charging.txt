@@ -7644,3 +7644,6 @@ AJT-00007-03 evses -> 2: status : CHARGING
 
 2022-05-19 09:42:40
 AJT-00005-03 evses -> 2: status : CHARGING
+
+2022-05-19 10:21:52
+MTS-00044-03 evses -> 2: status : CHARGING
