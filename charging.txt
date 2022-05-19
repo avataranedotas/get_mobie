@@ -7678,3 +7678,6 @@ MTS-00044-03 evses -> 2: status : CHARGING
 
 2022-05-19 16:04:06
 MTS-00044-03 evses -> 2: status : CHARGING
+
+2022-05-19 17:29:03
+LSB-00446-1 evses -> 0: status : CHARGING
