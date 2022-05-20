@@ -7701,3 +7701,8 @@ TNV-00008-02 evses -> 1: status : CHARGING
 
 2022-05-20 15:20:36
 TNV-00007-02 evses -> 1: status : CHARGING
+
+2022-05-20 18:22:50
+AJT-00008-02 evses -> 1: status : CHARGING
+ALB-00005-1 evses -> 0: status : CHARGING
+ALB-00006-1 evses -> 0: status : CHARGING
