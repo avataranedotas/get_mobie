@@ -7736,3 +7736,6 @@ CNS-00002-02 evses -> 1: status : CHARGING
 
 2022-05-21 20:41:18
 CNS-00002-02 evses -> 1: status : CHARGING
+
+2022-05-21 21:16:25
+CNS-00002-02 evses -> 1: status : CHARGING
