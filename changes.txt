@@ -1220,3 +1220,15 @@ Adicionados:['PTS-00001']
 
 PTS-00001-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'PTS-00001', 'publish': True, 'address': 'Azinhaga do Poço Barral N 23', 'city': 'Ponta do Sol', 'country': 'PRT', 'postal_code': '9000-638', 'coordinates': {'latitude': '32.6798250', 'longitude': '-17.0867090'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'PTS-00001-01', 'evse_id': 'PT*FAC*PTS*00001*01', 'status': 'PLANNED', 'connectors': [{'id': 'PTS-00001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-20T16:11:48Z'}], 'last_updated': '2022-05-20T16:11:48Z'}, {'uid': 'PTS-00001-02', 'evse_id': 'PT*FAC*PTS*00001*02', 'status': 'PLANNED', 'connectors': [{'id': 'PTS-00001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-20T16:11:48Z'}], 'last_updated': '2022-05-20T16:11:48Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-05-20T16:11:48Z'}
 Removidos:[]
+
+2022-05-21 20:19:25
+Adicionados:[]
+Removidos:['CSC-00096']
+LSB-00446
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 22000
+PRT-00139
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 50000
