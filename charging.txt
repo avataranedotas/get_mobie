@@ -7710,3 +7710,6 @@ ALB-00006-1 evses -> 0: status : CHARGING
 2022-05-20 18:48:05
 AJT-00008-02 evses -> 1: status : CHARGING
 ALB-00005-1 evses -> 0: status : CHARGING
+
+2022-05-21 09:41:35
+BJA-00013-02 evses -> 1: status : CHARGING
