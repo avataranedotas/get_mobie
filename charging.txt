@@ -7720,3 +7720,7 @@ LLE-00058-01 evses -> 0: status : CHARGING
 
 2022-05-21 11:15:13
 ODV-00014-01 evses -> 0: status : CHARGING
+
+2022-05-21 18:45:54
+CNS-00002-02 evses -> 1: status : CHARGING
+ODV-00014-03 evses -> 2: status : CHARGING
