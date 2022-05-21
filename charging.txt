@@ -7717,3 +7717,6 @@ BJA-00013-02 evses -> 1: status : CHARGING
 2022-05-21 10:19:52
 BJA-00013-02 evses -> 1: status : CHARGING
 LLE-00058-01 evses -> 0: status : CHARGING
+
+2022-05-21 11:15:13
+ODV-00014-01 evses -> 0: status : CHARGING
