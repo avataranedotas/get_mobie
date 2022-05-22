@@ -1232,3 +1232,9 @@ PRT-00139
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 180000
  OLD max_electric_power : 50000
+
+2022-05-22 15:44:04
+Adicionados:['CLD-90003']
+
+CLD-90003-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CLD-90003', 'publish': True, 'address': 'Avenida da Independência Nacional 4', 'city': 'Caldas da Rainha', 'country': 'PRT', 'postal_code': '2500-082', 'coordinates': {'latitude': '39.406311', 'longitude': '-9.13764'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'CLD-90003-1', 'evse_id': 'PT*EDP*CLD*90003*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-90003-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7200, 'last_updated': '2022-05-22T15:32:19Z'}], 'last_updated': '2022-05-22T15:32:19Z'}, {'uid': 'CLD-90003-2', 'evse_id': 'PT*EDP*CLD*90003*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-90003-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7200, 'last_updated': '2022-05-22T15:32:21Z'}], 'last_updated': '2022-05-22T15:32:21Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-22T15:34:00Z'}
+Removidos:[]
