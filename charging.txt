@@ -7763,3 +7763,6 @@ CNS-00002-02 evses -> 1: status : CHARGING
 
 2022-05-22 10:20:09
 ODV-00014-03 evses -> 2: status : CHARGING
+
+2022-05-22 10:42:35
+ODV-00014-03 evses -> 2: status : CHARGING
