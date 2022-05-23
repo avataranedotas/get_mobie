@@ -7790,3 +7790,6 @@ ODV-00014-03 evses -> 2: status : CHARGING
 
 2022-05-23 10:21:29
 ODV-00014-03 evses -> 2: status : CHARGING
+
+2022-05-23 11:16:52
+ODV-00014-03 evses -> 2: status : CHARGING
