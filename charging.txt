@@ -7807,3 +7807,7 @@ LNH-00002-03 evses -> 2: status : CHARGING
 2022-05-23 17:27:56
 LNH-00002-01 evses -> 0: status : CHARGING
 LNH-00002-01 evses -> 0: status : CHARGING
+
+2022-05-23 17:45:42
+LNH-00002-01 evses -> 0: status : CHARGING
+LNH-00002-01 evses -> 0: status : CHARGING
