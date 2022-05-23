@@ -1256,3 +1256,9 @@ ODV-00009
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 43000
  OLD max_electric_power : 22000
+
+2022-05-23 14:18:24
+Adicionados:['VIZ-00004']
+
+VIZ-00004-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VIZ-00004', 'publish': True, 'address': 'Ruela Ribeira, Santa Eulália', 'city': 'Vizela', 'country': 'PRT', 'postal_code': '4620-567', 'coordinates': {'latitude': '41.3640371', 'longitude': '-8.3027706'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIZ-00004-01', 'evse_id': 'PT*GLP*VIZ*00004*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VIZ-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-05-23T13:58:33Z'}], 'last_updated': '2022-05-23T13:58:33Z'}, {'uid': 'VIZ-00004-02', 'evse_id': 'PT*GLP*VIZ*00004*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VIZ-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-05-23T13:58:01Z'}], 'last_updated': '2022-05-23T13:58:02Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-23T13:59:21Z'}
+Removidos:[]
