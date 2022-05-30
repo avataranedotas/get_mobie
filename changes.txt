@@ -1274,3 +1274,107 @@ Adicionados:['LNH-00002']
 
 LNH-00002-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LNH-00002', 'publish': True, 'address': 'Avenida António José de Almeida', 'city': 'Lourinhã', 'country': 'PRT', 'postal_code': '2530-113', 'coordinates': {'latitude': '39.2470662', 'longitude': '-9.3153622'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LNH-00002-01', 'evse_id': 'PT*KLC*LNH*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LNH-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-23T15:51:12Z'}], 'last_updated': '2022-05-23T15:51:12Z'}, {'uid': 'LNH-00002-02', 'evse_id': 'PT*KLC*LNH*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LNH-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-05-23T15:51:14Z'}], 'last_updated': '2022-05-23T15:51:14Z'}, {'uid': 'LNH-00002-03', 'evse_id': 'PT*KLC*LNH*00002*03', 'status': 'CHARGING', 'connectors': [{'id': 'LNH-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-23T15:51:16Z'}], 'last_updated': '2022-05-23T15:51:16Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-23T15:59:49Z'}
 Removidos:[]
+
+2022-05-30 12:34:58
+Adicionados:['AJZ-00003', 'FVN-00002', 'LSB-00450', 'LSB-00470', 'LSB-90027', 'PSR-00005', 'PSR-00006', 'RMZ-00003', 'RMZ-00004', 'SRT-00004', 'VNG-00077', 'VNG-00078', 'VNG-00079', 'VNG-00080']
+
+AJZ-00003-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'AJZ-00003', 'publish': True, 'address': 'Igreja Nova EN 120', 'city': 'Aljezur', 'country': 'PRT', 'postal_code': '8670-161', 'coordinates': {'latitude': '37.3171692', 'longitude': '-8.8008730'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AJZ-00003-01', 'evse_id': 'PT*KLC*AJZ*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AJZ-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-30T03:26:03Z'}], 'last_updated': '2022-05-30T03:26:03Z'}, {'uid': 'AJZ-00003-02', 'evse_id': 'PT*KLC*AJZ*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AJZ-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-30T03:24:32Z'}], 'last_updated': '2022-05-30T03:24:32Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-30T03:30:56Z'}
+
+FVN-00002-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'FVN-00002', 'publish': True, 'address': 'Lugar Nossa Senhora dos Remédios, Lote 1', 'city': 'Figueiró dos Vinhos', 'country': 'PRT', 'postal_code': '3260-349', 'coordinates': {'latitude': '39.9061470', 'longitude': '-8.2810180'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FVN-00002-01', 'evse_id': 'PT*GLP*FVN*00002*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'FVN-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-05-25T14:29:10Z'}], 'last_updated': '2022-05-25T14:29:10Z'}, {'uid': 'FVN-00002-02', 'evse_id': 'PT*GLP*FVN*00002*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'FVN-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-05-25T14:29:11Z'}], 'last_updated': '2022-05-25T14:29:11Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-25T14:32:30Z'}
+
+LSB-00450-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LSB-00450', 'publish': True, 'address': 'Júpiter Lisboa Hotel - Av. da República', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1050-150', 'coordinates': {'latitude': '38.7395719', 'longitude': '-9.1457562'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00450-1', 'evse_id': 'PT*EDP*LSB*00450*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00450-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-29T19:25:59Z'}], 'last_updated': '2022-05-29T19:25:59Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-30T11:39:11Z'}
+
+LSB-00470-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00470', 'publish': True, 'address': 'Av. Marechal Craveiro Lopes 390', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1749-009', 'coordinates': {'latitude': '38.7600650', 'longitude': '-9.1514190'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'LSB-00470-01', 'evse_id': 'PT*GLP*LSB*00470*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00470-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-24T14:51:42Z'}], 'last_updated': '2022-05-24T14:51:42Z'}, {'uid': 'LSB-00470-02', 'evse_id': 'PT*GLP*LSB*00470*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00470-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-24T14:51:44Z'}], 'last_updated': '2022-05-24T14:51:44Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-24T15:04:29Z'}
+
+LSB-90027-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LSB-90027', 'publish': True, 'address': 'Rua Conde de Almoster 96', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1500-194', 'coordinates': {'latitude': '38.744458', 'longitude': '-9.183136'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-90027-01', 'evse_id': 'PT*KLC*LSB*90027*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-05-29T15:47:56Z'}], 'last_updated': '2022-05-29T15:47:55Z'}, {'uid': 'LSB-90027-02', 'evse_id': 'PT*KLC*LSB*90027*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-05-29T11:49:21Z'}], 'last_updated': '2022-05-29T11:49:20Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-30T11:39:50Z'}
+
+PSR-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PSR-00005', 'publish': True, 'address': 'Aeródromo Municipal de Ponte de Sor', 'city': 'Ponte de Sôr', 'country': 'PRT', 'postal_code': '7400-601', 'coordinates': {'latitude': '39.2078515', 'longitude': '-8.0611742'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PSR-00005-01', 'evse_id': 'PT*KLC*PSR*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PSR-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-05-30T02:43:01Z'}], 'last_updated': '2022-05-30T02:43:01Z'}, {'uid': 'PSR-00005-02', 'evse_id': 'PT*KLC*PSR*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PSR-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-05-30T02:43:02Z'}], 'last_updated': '2022-05-30T02:43:02Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-30T11:39:54Z'}
+
+PSR-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PSR-00006', 'publish': True, 'address': 'R. Olivença 10 - A', 'city': 'Ponte de Sôr', 'country': 'PRT', 'postal_code': '7400-232', 'coordinates': {'latitude': '39.2464677', 'longitude': '-8.0095375'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PSR-00006-01', 'evse_id': 'PT*KLC*PSR*00006*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'PSR-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T17:24:35Z'}], 'last_updated': '2022-05-26T17:25:16Z'}, {'uid': 'PSR-00006-02', 'evse_id': 'PT*KLC*PSR*00006*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'PSR-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T17:24:36Z'}], 'last_updated': '2022-05-26T17:25:16Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-26T17:28:54Z'}
+
+RMZ-00003-->{'country_code': 'PT', 'party_id': 'ECI', 'id': 'RMZ-00003', 'publish': True, 'address': 'Lugar da Cegonheira - Semi Circular Sul', 'city': 'Reguengos de Monsaraz', 'country': 'PRT', 'postal_code': '7200-999', 'coordinates': {'latitude': '38.4241378', 'longitude': '-7.5449347'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'RMZ-00003-01', 'evse_id': 'PT*ECI*RMZ*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMZ-00003-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-05-26T14:09:52Z'}], 'last_updated': '2022-05-26T14:09:52Z'}, {'uid': 'RMZ-00003-02', 'evse_id': 'PT*ECI*RMZ*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMZ-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-05-26T14:09:53Z'}], 'last_updated': '2022-05-26T14:09:53Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-26T14:16:54Z'}
+
+RMZ-00004-->{'country_code': 'PT', 'party_id': 'ECI', 'id': 'RMZ-00004', 'publish': True, 'address': 'Lugar da Cegonheira - Semi Circular Sul', 'city': 'Reguengos de Monsaraz', 'country': 'PRT', 'postal_code': '7200-999', 'coordinates': {'latitude': '38.4241378', 'longitude': '-7.5449347'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'RMZ-00004-01', 'evse_id': 'PT*ECI*RMZ*00004*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMZ-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-26T14:14:35Z'}], 'last_updated': '2022-05-26T14:14:35Z'}, {'uid': 'RMZ-00004-02', 'evse_id': 'PT*ECI*RMZ*00004*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMZ-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-26T14:14:36Z'}], 'last_updated': '2022-05-26T14:14:35Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-27T07:42:42Z'}
+
+SRT-00004-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'SRT-00004', 'publish': True, 'address': 'Rua da Zona Industrial, 5', 'city': 'Sertã', 'country': 'PRT', 'postal_code': '6100-698', 'coordinates': {'latitude': '39.8125074', 'longitude': '-8.1082381'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SRT-00004-01', 'evse_id': 'PT*GLP*SRT*00004*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'SRT-00004-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-05-25T13:50:13Z'}], 'last_updated': '2022-05-25T13:50:13Z'}, {'uid': 'SRT-00004-02', 'evse_id': 'PT*GLP*SRT*00004*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'SRT-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-05-25T13:50:14Z'}], 'last_updated': '2022-05-25T13:50:14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-25T13:56:30Z'}
+
+VNG-00077-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00077', 'publish': True, 'address': 'Rua de Serpa Pinto 124', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-307', 'coordinates': {'latitude': '41.1357960', 'longitude': '-8.6184490'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00077-01', 'evse_id': 'PT*GLP*VNG*00077*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00077-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T18:45:52Z'}], 'last_updated': '2022-05-26T18:45:52Z'}, {'uid': 'VNG-00077-02', 'evse_id': 'PT*GLP*VNG*00077*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00077-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T18:45:52Z'}], 'last_updated': '2022-05-26T18:45:52Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-26T18:48:54Z'}
+
+VNG-00078-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00078', 'publish': True, 'address': 'Rua de Serpa Pinto 124', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-307', 'coordinates': {'latitude': '41.1357960', 'longitude': '-8.6184490'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00078-01', 'evse_id': 'PT*GLP*VNG*00078*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00078-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T17:56:07Z'}], 'last_updated': '2022-05-26T17:56:07Z'}, {'uid': 'VNG-00078-02', 'evse_id': 'PT*GLP*VNG*00078*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00078-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T17:56:07Z'}], 'last_updated': '2022-05-26T17:56:07Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-26T18:01:04Z'}
+
+VNG-00079-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00079', 'publish': True, 'address': 'Rua de Serpa Pinto 124', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-307', 'coordinates': {'latitude': '41.1357960', 'longitude': '-8.6184490'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00079-01', 'evse_id': 'PT*GLP*VNG*00079*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00079-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T10:02:56Z'}], 'last_updated': '2022-05-26T10:02:56Z'}, {'uid': 'VNG-00079-02', 'evse_id': 'PT*GLP*VNG*00079*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00079-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-26T10:02:57Z'}], 'last_updated': '2022-05-26T10:02:57Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-26T18:42:54Z'}
+
+VNG-00080-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00080', 'publish': True, 'address': 'Rua de Serpa Pinto 124', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-307', 'coordinates': {'latitude': '41.1357960', 'longitude': '-8.6184490'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00080-01', 'evse_id': 'PT*GLP*VNG*00080*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00080-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-24T18:01:15Z'}], 'last_updated': '2022-05-24T18:01:15Z'}, {'uid': 'VNG-00080-02', 'evse_id': 'PT*GLP*VNG*00080*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VNG-00080-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-24T18:01:15Z'}], 'last_updated': '2022-05-24T18:01:15Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-24T18:04:30Z'}
+Removidos:[]
+FUN-00023
+coordinates: 
+ NEW latitude : 32.64497
+ OLD latitude : 32.6449700
+FUN-00023
+: 
+ NEW coordinates : {'latitude': '32.64497', 'longitude': '-16.9180999'}
+ OLD coordinates : {'latitude': '32.6449700', 'longitude': '-16.9180999'}
+LNH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 60000
+LSB-00451
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : Av. Elias Garcia 60
+LSB-00452
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : Av. Elias Garcia 60
+LSB-00453
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : Av. Elias Garcia 60
+VIZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+VIZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+VIZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 63
+VIZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
+VIZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+VIZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 900
+ OLD max_voltage : 400
+VIZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 63
+VIZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
