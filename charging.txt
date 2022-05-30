@@ -7847,3 +7847,8 @@ PTM-00023-01 evses -> 0: status : CHARGING
 2022-05-30 17:44:43
 LSB-90027-01 evses -> 0: status : CHARGING
 LSB-90027-02 evses -> 1: status : CHARGING
+
+2022-05-30 18:22:50
+LNH-00002-02 evses -> 1: status : CHARGING
+LSB-90027-01 evses -> 0: status : CHARGING
+LSB-90027-02 evses -> 1: status : CHARGING
