@@ -7857,3 +7857,6 @@ LSB-90027-02 evses -> 1: status : CHARGING
 LSB-00469-01 evses -> 0: status : CHARGING
 LSB-90027-01 evses -> 0: status : CHARGING
 LSB-90027-02 evses -> 1: status : CHARGING
+
+2022-05-30 22:19:21
+VIZ-00004-01 evses -> 0: status : CHARGING
