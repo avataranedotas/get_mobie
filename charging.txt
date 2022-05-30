@@ -7819,3 +7819,9 @@ PRT-00111-1 evses -> 0: status : CHARGING
 LRS-00066-01 evses -> 0: status : CHARGING
 LSB-00469-02 evses -> 1: status : CHARGING
 PRT-00111-1 evses -> 0: status : CHARGING
+
+2022-05-30 14:18:04
+LRS-00066-01 evses -> 0: status : CHARGING
+LSB-00469-02 evses -> 1: status : CHARGING
+LSB-90027-01 evses -> 0: status : CHARGING
+PTM-00023-01 evses -> 0: status : CHARGING
