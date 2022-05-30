@@ -7814,3 +7814,8 @@ LNH-00002-01 evses -> 0: status : CHARGING
 
 2022-05-30 12:35:01
 PRT-00111-1 evses -> 0: status : CHARGING
+
+2022-05-30 13:41:27
+LRS-00066-01 evses -> 0: status : CHARGING
+LSB-00469-02 evses -> 1: status : CHARGING
+PRT-00111-1 evses -> 0: status : CHARGING
