@@ -1422,3 +1422,17 @@ Adicionados:['LSB-00478']
 
 LSB-00478-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00478', 'publish': True, 'address': 'Rua C- Aeroporto Humberto Delgado', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1700-008', 'coordinates': {'latitude': '38.7793980', 'longitude': '-9.1260230'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00478-01', 'evse_id': 'PT*GLP*LSB*00478*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00478-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2022-05-31T12:36:37Z'}], 'last_updated': '2022-05-31T12:36:37Z'}, {'uid': 'LSB-00478-02', 'evse_id': 'PT*GLP*LSB*00478*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00478-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2022-05-31T12:36:41Z'}], 'last_updated': '2022-05-31T12:36:38Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-05-31T12:41:00Z'}
 Removidos:[]
+
+2022-05-31 16:29:31
+VLG-00015
+coordinates: 
+ NEW latitude : 41.201904
+ OLD latitude : 41.2017970
+VLG-00015
+coordinates: 
+ NEW longitude : -8.50662
+ OLD longitude : -8.5096090
+VLG-00015
+: 
+ NEW coordinates : {'latitude': '41.201904', 'longitude': '-8.50662'}
+ OLD coordinates : {'latitude': '41.2017970', 'longitude': '-8.5096090'}
