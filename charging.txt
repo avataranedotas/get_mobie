@@ -7902,3 +7902,6 @@ VFX-00027-02 evses -> 1: status : CHARGING
 
 2022-05-31 12:36:48
 AJZ-00003-01 evses -> 0: status : CHARGING
+
+2022-05-31 17:10:51
+MRS-90001-2 evses -> 1: status : CHARGING
