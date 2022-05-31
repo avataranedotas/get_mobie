@@ -7879,3 +7879,8 @@ AJZ-00003-01 evses -> 0: status : CHARGING
 FUN-00034-03 evses -> 2: status : CHARGING
 PSR-00005-02 evses -> 1: status : CHARGING
 VFX-00027-02 evses -> 1: status : CHARGING
+
+2022-05-31 10:22:38
+AJZ-00003-01 evses -> 0: status : CHARGING
+PSR-00005-02 evses -> 1: status : CHARGING
+VFX-00027-02 evses -> 1: status : CHARGING
