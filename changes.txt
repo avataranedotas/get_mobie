@@ -1436,3 +1436,13 @@ VLG-00015
 : 
  NEW coordinates : {'latitude': '41.201904', 'longitude': '-8.50662'}
  OLD coordinates : {'latitude': '41.2017970', 'longitude': '-8.5096090'}
+
+2022-05-31 21:17:21
+LRA-00047
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 75000
+ OLD max_electric_power : 22000
+LRA-00047
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 75000
+ OLD max_electric_power : 22000
