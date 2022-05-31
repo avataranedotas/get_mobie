@@ -1378,3 +1378,9 @@ VIZ-00004
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 43000
+
+2022-05-31 08:27:27
+Adicionados:['PVZ-00012']
+
+PVZ-00012-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'PVZ-00012', 'publish': True, 'address': 'Rua Viriato Barbosa 487', 'city': 'Póvoa de Varzim', 'country': 'PRT', 'postal_code': '4490-683', 'coordinates': {'latitude': '41.3747450', 'longitude': '-8.7461730'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'PVZ-00012-01', 'evse_id': 'PT*REP*PVZ*00012*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00012-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 75, 'max_electric_power': 22000, 'last_updated': '2022-05-31T08:17:59Z'}], 'last_updated': '2022-05-31T08:17:57Z'}, {'uid': 'PVZ-00012-02', 'evse_id': 'PT*REP*PVZ*00012*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00012-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 75, 'max_electric_power': 22000, 'last_updated': '2022-05-31T08:18:47Z'}], 'last_updated': '2022-05-31T08:18:47Z'}, {'uid': 'PVZ-00012-03', 'evse_id': 'PT*REP*PVZ*00012*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00012-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-31T08:18:48Z'}], 'last_updated': '2022-05-31T08:18:48Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-05-31T08:18:49Z'}
+Removidos:[]
