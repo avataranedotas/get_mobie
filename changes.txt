@@ -1492,3 +1492,9 @@ MMN-00004
 : 
  NEW coordinates : {'latitude': '38.6501600', 'longitude': '-8.2183999'}
  OLD coordinates : {'latitude': '38.65016', 'longitude': '-8.2184'}
+
+2022-06-01 10:25:36
+Adicionados:['TMR-00010']
+
+TMR-00010-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'TMR-00010', 'publish': True, 'address': 'Rua Coronel Garcês Teixeira 49', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-463', 'coordinates': {'latitude': '39.6029299', 'longitude': '-8.3985854'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TMR-00010-01', 'evse_id': 'PT*EDP*TMR*00010*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00010-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-06-01T10:09:22Z'}], 'last_updated': '2022-06-01T10:09:22Z'}, {'uid': 'TMR-00010-02', 'evse_id': 'PT*EDP*TMR*00010*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00010-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-06-01T10:09:23Z'}], 'last_updated': '2022-06-01T10:09:23Z'}, {'uid': 'TMR-00010-03', 'evse_id': 'PT*EDP*TMR*00010*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00010-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-01T10:14:52Z'}], 'last_updated': '2022-06-01T10:14:52Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T10:14:52Z'}
+Removidos:[]
