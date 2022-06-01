@@ -2,3 +2,6 @@
 
 2022-06-01 16:28:36
 TMR-00010-01 evses -> 0: status : CHARGING
+
+2022-06-01 18:50:16
+FUN-00031-01 evses -> 0: status : CHARGING
