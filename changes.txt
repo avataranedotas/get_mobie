@@ -1520,3 +1520,9 @@ LRA-00059-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'LRA-00059', 'publis
 
 VLG-00010-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VLG-00010', 'publish': True, 'address': 'Rua da Passagem', 'city': 'Valongo', 'country': 'PRT', 'postal_code': '4440-565', 'coordinates': {'latitude': '41.1883198', 'longitude': '-8.5003957'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VLG-00010-01', 'evse_id': 'PT*KLC*VLG*00010*01', 'status': 'CHARGING', 'connectors': [{'id': 'VLG-00010-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-01T14:10:20Z'}], 'last_updated': '2022-06-01T14:10:20Z'}, {'uid': 'VLG-00010-02', 'evse_id': 'PT*KLC*VLG*00010*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-01T14:10:21Z'}], 'last_updated': '2022-06-01T14:10:21Z'}, {'uid': 'VLG-00010-03', 'evse_id': 'PT*KLC*VLG*00010*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00010-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-06-01T14:10:22Z'}], 'last_updated': '2022-06-01T14:10:22Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T14:10:22Z'}
 Removidos:[]
+
+2022-06-01 15:31:45
+VLG-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
