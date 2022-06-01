@@ -7965,3 +7965,9 @@ LSB-00451-1 evses -> 0: status : CHARGING
 SCG-00003-01 evses -> 0: status : CHARGING
 VIS-90037-1 evses -> 0: status : CHARGING
 VIS-90037-2 evses -> 1: status : CHARGING
+
+2022-06-01 13:49:05
+LSB-00451-1 evses -> 0: status : CHARGING
+SCG-00003-01 evses -> 0: status : CHARGING
+VIS-90037-1 evses -> 0: status : CHARGING
+VIS-90037-2 evses -> 1: status : CHARGING
