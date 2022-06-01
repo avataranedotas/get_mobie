@@ -7949,3 +7949,8 @@ FUN-00031-02 evses -> 1: status : CHARGING
 LSB-00451-1 evses -> 0: status : CHARGING
 VIS-90037-1 evses -> 0: status : CHARGING
 VIS-90037-2 evses -> 1: status : CHARGING
+
+2022-06-01 11:16:46
+LSB-00451-1 evses -> 0: status : CHARGING
+VIS-90037-1 evses -> 0: status : CHARGING
+VIS-90037-2 evses -> 1: status : CHARGING
