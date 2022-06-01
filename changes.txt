@@ -1454,3 +1454,41 @@ LLE-00079-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00079', 'publis
 
 LLE-00084-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00084', 'publish': True, 'address': 'AVENIDA ENG. JOÃO MEIRELES', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-507', 'coordinates': {'latitude': '37.0827180', 'longitude': '-8.1174400'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00084-01', 'evse_id': 'PT*GLP*LLE*00084*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00084-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-01T00:35:50Z'}], 'last_updated': '2022-06-01T00:35:50Z'}, {'uid': 'LLE-00084-02', 'evse_id': 'PT*GLP*LLE*00084*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00084-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-01T00:35:51Z'}], 'last_updated': '2022-06-01T00:35:51Z'}, {'uid': 'LLE-00084-03', 'evse_id': 'PT*GLP*LLE*00084*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00084-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-01T00:35:49Z'}], 'last_updated': '2022-06-01T00:35:49Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T01:49:27Z'}
 Removidos:[]
+
+2022-06-01 05:34:25
+CBR-00040
+coordinates: 
+ NEW latitude : 40.2225170
+ OLD latitude : 40.222517
+CBR-00040
+coordinates: 
+ NEW longitude : -8.4154999
+ OLD longitude : -8.4155
+CBR-00040
+: 
+ NEW coordinates : {'latitude': '40.2225170', 'longitude': '-8.4154999'}
+ OLD coordinates : {'latitude': '40.222517', 'longitude': '-8.4155'}
+LSB-00350
+coordinates: 
+ NEW latitude : 38.7496394
+ OLD latitude : 38.749639409721
+LSB-00350
+coordinates: 
+ NEW longitude : -9.1165593
+ OLD longitude : -9.116559318775
+LSB-00350
+: 
+ NEW coordinates : {'latitude': '38.7496394', 'longitude': '-9.1165593'}
+ OLD coordinates : {'latitude': '38.749639409721', 'longitude': '-9.116559318775'}
+MMN-00004
+coordinates: 
+ NEW latitude : 38.6501600
+ OLD latitude : 38.65016
+MMN-00004
+coordinates: 
+ NEW longitude : -8.2183999
+ OLD longitude : -8.2184
+MMN-00004
+: 
+ NEW coordinates : {'latitude': '38.6501600', 'longitude': '-8.2183999'}
+ OLD coordinates : {'latitude': '38.65016', 'longitude': '-8.2184'}
