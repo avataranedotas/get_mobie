@@ -59,3 +59,17 @@ Adicionados:['CTX-00003']
 
 CTX-00003-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CTX-00003', 'publish': True, 'address': 'Estrada Nacional 3, km 25', 'city': 'Cartaxo', 'country': 'PRT', 'postal_code': '2070-621', 'coordinates': {'latitude': '38.7995605', 'longitude': '-9.0977392'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTX-00003-01', 'evse_id': 'PT*HRZ*CTX*00003*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CTX-00003-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2022-06-02T15:37:34Z'}], 'last_updated': '2022-06-02T15:37:34Z'}, {'uid': 'CTX-00003-02', 'evse_id': 'PT*HRZ*CTX*00003*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CTX-00003-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-02T15:17:18Z'}], 'last_updated': '2022-06-02T15:17:18Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-02T15:39:06Z'}
 Removidos:[]
+
+2022-06-02 16:29:38
+SRP-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SRP-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 22000
+SRP-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 22000
