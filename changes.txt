@@ -39,3 +39,17 @@ VFX-00006
 : 
  NEW mobie_voltage_level : BTE
  OLD mobie_voltage_level : BTN
+
+2022-06-02 15:20:42
+LNH-00002
+coordinates: 
+ NEW latitude : 39.2503498771319
+ OLD latitude : 39.2470662
+LNH-00002
+coordinates: 
+ NEW longitude : -9.31255234020662
+ OLD longitude : -9.3153622
+LNH-00002
+: 
+ NEW coordinates : {'latitude': '39.2503498771319', 'longitude': '-9.31255234020662'}
+ OLD coordinates : {'latitude': '39.2470662', 'longitude': '-9.3153622'}
