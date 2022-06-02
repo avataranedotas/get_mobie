@@ -73,3 +73,7 @@ SRP-00004
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 180000
  OLD max_electric_power : 22000
+
+2022-06-02 17:49:33
+Adicionados:[]
+Removidos:['SRP-00004']
