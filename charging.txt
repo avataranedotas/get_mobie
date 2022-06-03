@@ -135,3 +135,7 @@ LSB-00310-03 evses -> 2: status : CHARGING
 2022-06-03 21:37:02
 EPS-00002-01 evses -> 0: status : CHARGING
 LRS-00045-02 evses -> 1: status : CHARGING
+
+2022-06-03 22:16:51
+EPS-00002-01 evses -> 0: status : CHARGING
+LRS-00045-01 evses -> 0: status : CHARGING
