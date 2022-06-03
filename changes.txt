@@ -135,3 +135,13 @@ LNH-00002
 : 
  NEW coordinates : {'latitude': '39.2503499', 'longitude': '-9.3125523'}
  OLD coordinates : {'latitude': '39.2503498771319', 'longitude': '-9.31255234020662'}
+
+2022-06-03 15:18:12
+GRD-90001
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+GRD-90001
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
