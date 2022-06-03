@@ -92,3 +92,8 @@ LSB-00453-1 evses -> 0: status : CHARGING
 2022-06-03 16:26:01
 LSB-00452-1 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2022-06-03 16:56:25
+EPS-00002-01 evses -> 0: status : CHARGING
+LSB-00452-1 evses -> 0: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
