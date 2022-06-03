@@ -71,3 +71,7 @@ VIS-00011-02 evses -> 1: status : CHARGING
 LSB-00452-1 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 TMR-00010-01 evses -> 0: status : CHARGING
+
+2022-06-03 14:15:22
+LSB-00452-1 evses -> 0: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
