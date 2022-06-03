@@ -47,3 +47,6 @@ EPS-00002-02 evses -> 1: status : CHARGING
 
 2022-06-03 09:18:29
 EPS-00002-02 evses -> 1: status : CHARGING
+
+2022-06-03 09:40:43
+EPS-00002-02 evses -> 1: status : CHARGING
