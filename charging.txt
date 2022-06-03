@@ -53,3 +53,6 @@ EPS-00002-02 evses -> 1: status : CHARGING
 
 2022-06-03 10:21:19
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2022-06-03 10:41:49
+LSB-00453-1 evses -> 0: status : CHARGING
