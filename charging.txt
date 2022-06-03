@@ -125,3 +125,6 @@ LRS-00045-02 evses -> 1: status : CHARGING
 LSB-00310-01 evses -> 0: status : CHARGING
 LSB-00310-03 evses -> 2: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2022-06-03 20:18:26
+LSB-00310-03 evses -> 2: status : CHARGING
