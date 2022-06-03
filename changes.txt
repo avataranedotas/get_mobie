@@ -77,3 +77,21 @@ evses -> 1 -> connectors -> 0:
 2022-06-02 17:49:33
 Adicionados:[]
 Removidos:['SRP-00004']
+
+2022-06-03 08:21:12
+FUN-00031
+: 
+ NEW address : Rua Nova do Engenho Velho - McDonald´s - Funchal (drive)
+ OLD address : McDonald´s - Funchal (drive)
+FUN-00031
+coordinates: 
+ NEW latitude : 32.64693
+ OLD latitude : 32.6469300
+FUN-00031
+coordinates: 
+ NEW longitude : -16.94027
+ OLD longitude : -16.9402700
+FUN-00031
+: 
+ NEW coordinates : {'latitude': '32.64693', 'longitude': '-16.94027'}
+ OLD coordinates : {'latitude': '32.6469300', 'longitude': '-16.9402700'}
