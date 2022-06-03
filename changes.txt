@@ -95,3 +95,17 @@ FUN-00031
 : 
  NEW coordinates : {'latitude': '32.64693', 'longitude': '-16.94027'}
  OLD coordinates : {'latitude': '32.6469300', 'longitude': '-16.9402700'}
+
+2022-06-03 10:21:17
+Adicionados:['BRG-00058']
+
+BRG-00058-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'BRG-00058', 'publish': True, 'address': 'Avenida da Independência', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4705-162', 'coordinates': {'latitude': '41.5250001', 'longitude': '-8.4184170'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00058-01', 'evse_id': 'PT*IBD*BRG*00058*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BRG-00058-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T08:50:00Z'}], 'last_updated': '2022-06-03T08:50:00Z'}, {'uid': 'BRG-00058-02', 'evse_id': 'PT*IBD*BRG*00058*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BRG-00058-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T08:50:00Z'}], 'last_updated': '2022-06-03T08:50:00Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-03T10:10:02Z'}
+Removidos:[]
+PVZ-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
+PVZ-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 22000
