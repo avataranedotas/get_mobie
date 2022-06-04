@@ -189,3 +189,7 @@ ABT-00006-01 evses -> 0: status : CHARGING
 FUN-00031-03 evses -> 2: status : CHARGING
 LRS-00045-01 evses -> 0: status : CHARGING
 TMR-00010-01 evses -> 0: status : CHARGING
+
+2022-06-04 11:36:01
+FUN-00031-03 evses -> 2: status : CHARGING
+LRS-00045-01 evses -> 0: status : CHARGING
