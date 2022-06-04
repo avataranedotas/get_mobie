@@ -213,3 +213,6 @@ LSB-00310-02 evses -> 1: status : CHARGING
 
 2022-06-04 16:22:48
 LSB-00310-02 evses -> 1: status : CHARGING
+
+2022-06-04 16:50:28
+LSB-00310-02 evses -> 1: status : CHARGING
