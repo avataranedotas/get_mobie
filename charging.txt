@@ -199,3 +199,7 @@ FUN-00031-03 evses -> 2: status : CHARGING
 TMR-00010-01 evses -> 0: status : CHARGING
 TMR-00010-02 evses -> 1: status : CHARGING
 TMR-00010-03 evses -> 2: status : CHARGING
+
+2022-06-04 12:58:58
+ABT-00006-01 evses -> 0: status : CHARGING
+FUN-00031-03 evses -> 2: status : CHARGING
