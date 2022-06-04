@@ -184,3 +184,8 @@ LRS-00045-02 evses -> 1: status : CHARGING
 
 2022-06-04 10:39:19
 ABT-00006-01 evses -> 0: status : CHARGING
+
+2022-06-04 11:15:20
+FUN-00031-03 evses -> 2: status : CHARGING
+LRS-00045-01 evses -> 0: status : CHARGING
+TMR-00010-01 evses -> 0: status : CHARGING
