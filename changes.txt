@@ -145,3 +145,9 @@ GRD-90001
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2022-06-05 18:42:51
+Adicionados:['LLE-00075']
+
+LLE-00075-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LLE-00075', 'publish': True, 'address': 'Alameda Praia da Marina', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-497', 'coordinates': {'latitude': '37.0825349', 'longitude': '-8.1188402'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LLE-00075-01', 'evse_id': 'PT*KLC*LLE*00075*01', 'status': 'CHARGING', 'connectors': [{'id': 'LLE-00075-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-05T18:22:30Z'}], 'last_updated': '2022-06-05T18:22:30Z'}, {'uid': 'LLE-00075-02', 'evse_id': 'PT*KLC*LLE*00075*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00075-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-05T18:22:30Z'}], 'last_updated': '2022-06-05T18:22:30Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-05T18:30:15Z'}
+Removidos:[]
