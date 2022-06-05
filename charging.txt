@@ -324,3 +324,6 @@ LRS-00045-02 evses -> 1: status : CHARGING
 2022-06-05 18:42:53
 EPS-00002-02 evses -> 1: status : CHARGING
 VIS-00011-02 evses -> 1: status : CHARGING
+
+2022-06-05 19:14:50
+LSB-00310-01 evses -> 0: status : CHARGING
