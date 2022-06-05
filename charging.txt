@@ -273,3 +273,6 @@ TMR-00010-01 evses -> 0: status : CHARGING
 
 2022-06-05 10:39:12
 LRS-00045-01 evses -> 0: status : CHARGING
+
+2022-06-05 11:14:16
+LRS-00045-01 evses -> 0: status : CHARGING
