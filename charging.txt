@@ -356,3 +356,6 @@ LRS-00045-01 evses -> 0: status : CHARGING
 
 2022-06-06 01:42:25
 LRS-00045-01 evses -> 0: status : CHARGING
+
+2022-06-06 03:20:32
+LRS-00045-01 evses -> 0: status : CHARGING
