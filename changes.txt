@@ -189,3 +189,7 @@ Adicionados:['AZB-00008']
 
 AZB-00008-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'AZB-00008', 'publish': True, 'address': 'Auto Estrada A1. km 44 (sentido Norte/Sul)', 'city': 'Azambuja', 'country': 'PRT', 'postal_code': '2050-000', 'coordinates': {'latitude': '39.1239869', 'longitude': '-8.9070956'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'AZB-00008-01', 'evse_id': 'PT*GLG*AZB*00008*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'AZB-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 22000, 'last_updated': '2022-06-07T10:20:26Z'}], 'last_updated': '2022-06-07T10:20:25Z'}, {'uid': 'AZB-00008-02', 'evse_id': 'PT*GLG*AZB*00008*02', 'status': 'CHARGING', 'connectors': [{'id': 'AZB-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 350, 'max_electric_power': 160000, 'last_updated': '2022-06-07T10:20:25Z'}], 'last_updated': '2022-06-07T10:20:24Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-07T10:29:29Z'}
 Removidos:[]
+
+2022-06-07 11:36:45
+Adicionados:[]
+Removidos:['STR-90003']
