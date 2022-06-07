@@ -407,3 +407,6 @@ AZB-00008-02 evses -> 1: status : CHARGING
 
 2022-06-07 11:15:27
 AZB-00008-02 evses -> 1: status : CHARGING
+
+2022-06-07 12:36:31
+GMR-00001-2 evses -> 1: status : CHARGING

@@ -193,3 +193,17 @@ Removidos:[]
 2022-06-07 11:36:45
 Adicionados:[]
 Removidos:['STR-90003']
+
+2022-06-07 12:36:29
+Adicionados:['AZB-00007']
+
+AZB-00007-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'AZB-00007', 'publish': True, 'address': 'Auto Estrada A1. km 44 (sentido Norte/Sul)', 'city': 'Azambuja', 'country': 'PRT', 'postal_code': '2050-000', 'coordinates': {'latitude': '39.1239869', 'longitude': '-8.9070956'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'AZB-00007-01', 'evse_id': 'PT*GLG*AZB*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'AZB-00007-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 22000, 'last_updated': '2022-06-07T12:19:11Z'}], 'last_updated': '2022-06-07T12:19:11Z'}, {'uid': 'AZB-00007-02', 'evse_id': 'PT*GLG*AZB*00007*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'AZB-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 22000, 'last_updated': '2022-06-07T12:19:12Z'}], 'last_updated': '2022-06-07T12:19:12Z'}, {'uid': 'AZB-00007-03', 'evse_id': 'PT*GLG*AZB*00007*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'AZB-00007-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-06-07T12:18:48Z'}], 'last_updated': '2022-06-07T12:18:48Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-07T12:19:12Z'}
+Removidos:['BRR-00007', 'PTG-00010']
+VIS-00011
+coordinates: 
+ NEW latitude : 40.663694
+ OLD latitude : 40.6636940
+VIS-00011
+: 
+ NEW coordinates : {'latitude': '40.663694', 'longitude': '-7.8984999'}
+ OLD coordinates : {'latitude': '40.6636940', 'longitude': '-7.8984999'}
