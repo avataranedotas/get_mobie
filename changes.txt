@@ -207,3 +207,9 @@ VIS-00011
 : 
  NEW coordinates : {'latitude': '40.663694', 'longitude': '-7.8984999'}
  OLD coordinates : {'latitude': '40.6636940', 'longitude': '-7.8984999'}
+
+2022-06-07 15:18:52
+Adicionados:['LSB-00472']
+
+LSB-00472-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00472', 'publish': True, 'address': 'R. Rodrigo da Fonseca 44-50', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-193', 'coordinates': {'latitude': '38.7231450', 'longitude': '-9.1488219'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'LSB-00472-01', 'evse_id': 'PT*GLP*LSB*00472*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00472-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-07T14:43:04Z'}], 'last_updated': '2022-06-07T14:43:04Z'}, {'uid': 'LSB-00472-02', 'evse_id': 'PT*GLP*LSB*00472*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00472-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-07T14:43:06Z'}], 'last_updated': '2022-06-07T14:43:06Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-07T14:45:07Z'}
+Removidos:[]
