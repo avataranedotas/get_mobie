@@ -635,3 +635,8 @@ LSB-00453-1 evses -> 0: status : CHARGING
 AZB-00007-03 evses -> 2: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 VNG-00076-01 evses -> 0: status : CHARGING
+
+2022-06-08 23:38:57
+AZB-00007-03 evses -> 2: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+VNG-00076-01 evses -> 0: status : CHARGING
