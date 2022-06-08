@@ -535,3 +535,7 @@ STR-00025-01 evses -> 0: status : CHARGING
 2022-06-08 10:42:32
 LSB-00453-1 evses -> 0: status : CHARGING
 STR-00025-03 evses -> 2: status : CHARGING
+
+2022-06-08 11:19:24
+GMR-00001-2 evses -> 1: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
