@@ -563,3 +563,6 @@ SNT-00073-01 evses -> 0: status : CHARGING
 
 2022-06-08 14:39:14
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2022-06-08 15:18:02
+LSB-00453-1 evses -> 0: status : CHARGING
