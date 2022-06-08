@@ -616,3 +616,8 @@ PTM-00022-03 evses -> 2: status : CHARGING
 AZB-00007-01 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 PTM-00022-03 evses -> 2: status : CHARGING
+
+2022-06-08 21:37:53
+AZB-00007-01 evses -> 0: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+PTM-00022-03 evses -> 2: status : CHARGING
