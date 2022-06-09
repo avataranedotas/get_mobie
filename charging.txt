@@ -824,3 +824,6 @@ AMD-00037-02 evses -> 1: status : CHARGING
 AMD-00037-02 evses -> 1: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 PTM-00022-02 evses -> 1: status : CHARGING
+
+2022-06-09 20:39:18
+AMD-00037-02 evses -> 1: status : CHARGING
