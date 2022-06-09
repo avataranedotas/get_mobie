@@ -656,3 +656,7 @@ VNG-00076-01 evses -> 0: status : CHARGING
 2022-06-09 04:54:02
 LSB-00453-1 evses -> 0: status : CHARGING
 VNG-00076-01 evses -> 0: status : CHARGING
+
+2022-06-09 05:16:26
+LSB-00453-1 evses -> 0: status : CHARGING
+VNG-00076-01 evses -> 0: status : CHARGING
