@@ -727,3 +727,9 @@ GMR-00001-1 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 PTM-00022-03 evses -> 2: status : CHARGING
 VNG-00075-01 evses -> 0: status : CHARGING
+
+2022-06-09 12:37:25
+AZB-00008-02 evses -> 1: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+PTM-00022-03 evses -> 2: status : CHARGING
+VNG-00075-01 evses -> 0: status : CHARGING
