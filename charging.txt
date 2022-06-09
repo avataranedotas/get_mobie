@@ -770,3 +770,10 @@ MMN-00007-03 evses -> 2: status : CHARGING
 PTM-00022-01 evses -> 0: status : CHARGING
 SRT-00004-02 evses -> 1: status : CHARGING
 VNG-00075-01 evses -> 0: status : CHARGING
+
+2022-06-09 16:26:00
+AZB-00007-02 evses -> 1: status : CHARGING
+AZB-00008-02 evses -> 1: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+MMN-00007-03 evses -> 2: status : CHARGING
+VNG-00075-01 evses -> 0: status : CHARGING
