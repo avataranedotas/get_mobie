@@ -688,3 +688,9 @@ LSB-00453-1 evses -> 0: status : CHARGING
 
 2022-06-09 08:48:03
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2022-06-09 09:17:44
+AZB-00007-02 evses -> 1: status : CHARGING
+AZB-00008-02 evses -> 1: status : CHARGING
+GMR-00001-1 evses -> 0: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
