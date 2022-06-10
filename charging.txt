@@ -887,3 +887,6 @@ LSB-00474-01 evses -> 0: status : CHARGING
 
 2022-06-10 13:34:43
 TBU-00003-02 evses -> 1: status : CHARGING
+
+2022-06-10 14:16:40
+AMD-00037-02 evses -> 1: status : CHARGING
