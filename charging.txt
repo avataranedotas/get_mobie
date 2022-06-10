@@ -925,3 +925,6 @@ AMD-00037-02 evses -> 1: status : CHARGING
 
 2022-06-10 20:17:09
 AMD-00037-02 evses -> 1: status : CHARGING
+
+2022-06-10 20:38:43
+AMD-00037-02 evses -> 1: status : CHARGING
