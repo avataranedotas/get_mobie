@@ -311,3 +311,7 @@ Adicionados:['GRD-00014']
 
 GRD-00014-->{'country_code': 'PT', 'party_id': 'GRC', 'id': 'GRD-00014', 'publish': True, 'address': 'Rua Pombeira, 9605', 'city': 'Guarda', 'country': 'PRT', 'postal_code': '6300-035', 'coordinates': {'latitude': '40.4969838', 'longitude': '-7.8108314'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'GRD-00014-01', 'evse_id': 'PT*GRC*GRD*00014*01', 'status': 'CHARGING', 'connectors': [{'id': 'GRD-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T17:36:47Z'}], 'last_updated': '2022-06-09T17:36:46Z'}, {'uid': 'GRD-00014-02', 'evse_id': 'PT*GRC*GRD*00014*02', 'status': 'CHARGING', 'connectors': [{'id': 'GRD-00014-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T17:36:47Z'}], 'last_updated': '2022-06-09T17:43:11Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-09T17:50:05Z'}
 Removidos:[]
+
+2022-06-10 12:36:22
+Adicionados:[]
+Removidos:['AZB-00002', 'CBR-00051']
