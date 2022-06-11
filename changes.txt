@@ -315,3 +315,17 @@ Removidos:[]
 2022-06-10 12:36:22
 Adicionados:[]
 Removidos:['AZB-00002', 'CBR-00051']
+
+2022-06-11 15:17:01
+LLE-00084
+coordinates: 
+ NEW latitude : 37.082718
+ OLD latitude : 37.0827180
+LLE-00084
+coordinates: 
+ NEW longitude : -8.11744
+ OLD longitude : -8.1174400
+LLE-00084
+: 
+ NEW coordinates : {'latitude': '37.082718', 'longitude': '-8.11744'}
+ OLD coordinates : {'latitude': '37.0827180', 'longitude': '-8.1174400'}
