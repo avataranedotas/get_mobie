@@ -995,3 +995,6 @@ LSB-00474-02 evses -> 1: status : CHARGING
 
 2022-06-11 09:16:01
 LSB-00474-02 evses -> 1: status : CHARGING
+
+2022-06-11 09:38:22
+LSB-00474-02 evses -> 1: status : CHARGING
