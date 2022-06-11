@@ -1051,3 +1051,6 @@ CSC-00100-02 evses -> 1: status : CHARGING
 
 2022-06-11 17:37:09
 CSC-00100-02 evses -> 1: status : CHARGING
+
+2022-06-11 18:19:34
+CSC-00100-02 evses -> 1: status : CHARGING
