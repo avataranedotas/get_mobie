@@ -1048,3 +1048,6 @@ CSC-00100-02 evses -> 1: status : CHARGING
 2022-06-11 17:15:27
 AMD-00037-02 evses -> 1: status : CHARGING
 CSC-00100-02 evses -> 1: status : CHARGING
+
+2022-06-11 17:37:09
+CSC-00100-02 evses -> 1: status : CHARGING
