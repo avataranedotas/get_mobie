@@ -329,3 +329,17 @@ LLE-00084
 : 
  NEW coordinates : {'latitude': '37.082718', 'longitude': '-8.11744'}
  OLD coordinates : {'latitude': '37.0827180', 'longitude': '-8.1174400'}
+
+2022-06-11 19:13:14
+LLE-00079
+coordinates: 
+ NEW latitude : 37.076285
+ OLD latitude : 37.0762850
+LLE-00079
+coordinates: 
+ NEW longitude : -8.114758
+ OLD longitude : -8.1147580
+LLE-00079
+: 
+ NEW coordinates : {'latitude': '37.076285', 'longitude': '-8.114758'}
+ OLD coordinates : {'latitude': '37.0762850', 'longitude': '-8.1147580'}
