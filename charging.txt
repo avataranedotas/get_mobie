@@ -1090,3 +1090,6 @@ MTA-00005-02 evses -> 1: status : CHARGING
 
 2022-06-12 10:39:34
 TBU-00003-02 evses -> 1: status : CHARGING
+
+2022-06-12 11:36:19
+TBU-00003-03 evses -> 2: status : CHARGING
