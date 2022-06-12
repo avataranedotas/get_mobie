@@ -1100,3 +1100,6 @@ TBU-00003-03 evses -> 2: status : CHARGING
 
 2022-06-12 13:00:12
 AMD-00037-02 evses -> 1: status : CHARGING
+
+2022-06-12 13:28:44
+AMD-00037-02 evses -> 1: status : CHARGING
