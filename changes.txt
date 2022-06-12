@@ -343,3 +343,41 @@ LLE-00079
 : 
  NEW coordinates : {'latitude': '37.076285', 'longitude': '-8.114758'}
  OLD coordinates : {'latitude': '37.0762850', 'longitude': '-8.1147580'}
+
+2022-06-12 12:28:34
+AZB-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+AZB-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+AZB-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+ETR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+ETR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 350
+ OLD max_amperage : 32
+ETR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 22000
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
