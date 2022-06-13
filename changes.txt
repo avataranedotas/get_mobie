@@ -607,3 +607,183 @@ TVD-00022
 : 
  NEW address : BURGUER KING Torres Vedras - Rua António Augusto Cabral N17
  OLD address : Rua António Augusto Cabral N17
+
+2022-06-13 15:26:29
+Adicionados:['GMR-00046', 'GMR-00048']
+
+GMR-00046-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00046', 'publish': True, 'address': 'Rua Teixeira de Pascoais', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4800-073', 'coordinates': {'latitude': '41.4479920', 'longitude': '-8.2986302'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00046-01', 'evse_id': 'PT*KLC*GMR*00046*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00046-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-06-13T14:41:41Z'}], 'last_updated': '2022-06-13T14:42:01Z'}, {'uid': 'GMR-00046-02', 'evse_id': 'PT*KLC*GMR*00046*02', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00046-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-06-13T14:42:59Z'}], 'last_updated': '2022-06-13T14:42:59Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-13T14:45:12Z'}
+
+GMR-00048-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00048', 'publish': True, 'address': 'Rua Teixeira de Pascoais', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4800-073', 'coordinates': {'latitude': '41.4479920', 'longitude': '-8.2986302'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00048-01', 'evse_id': 'PT*KLC*GMR*00048*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00048-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T14:32:00Z'}], 'last_updated': '2022-06-13T14:31:59Z'}, {'uid': 'GMR-00048-02', 'evse_id': 'PT*KLC*GMR*00048*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00048-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T14:32:04Z'}], 'last_updated': '2022-06-13T14:32:03Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-13T14:44:09Z'}
+Removidos:[]
+LRS-00056
+: 
+ NEW address : CREL Norte, A9 km 22,1 sentido Bucelas-Loures
+ OLD address : CREL Norte, A9 km 22,1 sentido Loures-Bucelas
+LRS-00056
+coordinates: 
+ NEW latitude : 38.859756
+ OLD latitude : 38.8582500
+LRS-00056
+coordinates: 
+ NEW longitude : -9.161636
+ OLD longitude : -9.1611670
+LRS-00056
+: 
+ NEW coordinates : {'latitude': '38.859756', 'longitude': '-9.161636'}
+ OLD coordinates : {'latitude': '38.8582500', 'longitude': '-9.1611670'}
+LRS-00058
+coordinates: 
+ NEW latitude : 38.85825
+ OLD latitude : 38.8597560
+LRS-00058
+coordinates: 
+ NEW longitude : -9.161167
+ OLD longitude : -9.1616360
+LRS-00058
+: 
+ NEW coordinates : {'latitude': '38.85825', 'longitude': '-9.161167'}
+ OLD coordinates : {'latitude': '38.8597560', 'longitude': '-9.1616360'}
+LRS-00059
+: 
+ NEW address : CREL Norte, A9 km 22,1 sentido Loures-Bucelas
+ OLD address : CREL Norte, A9 km 22,1 sentido Bucelas-Loures
+LRS-00059
+coordinates: 
+ NEW latitude : 38.85825
+ OLD latitude : 38.859756
+LRS-00059
+coordinates: 
+ NEW longitude : -9.161167
+ OLD longitude : -9.161636
+LRS-00059
+: 
+ NEW coordinates : {'latitude': '38.85825', 'longitude': '-9.161167'}
+ OLD coordinates : {'latitude': '38.859756', 'longitude': '-9.161636'}
+LSB-00400
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LSB-00400
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 32
+LSB-00400
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+LSB-00400
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+LSB-00400
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LSB-00401
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00401
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+MTS-00046
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+MTS-00046
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 32
+MTS-00046
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 22000
+MTS-00046
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+MTS-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 200
+MTS-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+MTS-00046
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+MTS-00046
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 200
+MTS-00046
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 30000
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+STS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+STS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+STS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 200
+STS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 30000
+SXL-00016
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+VND-00008
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VND-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+VND-00009
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VND-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+VNG-00066
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 175
+ OLD max_amperage : 125
+VNG-00066
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+VNG-00067
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VNG-00067
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
