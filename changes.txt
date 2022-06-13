@@ -787,3 +787,33 @@ VNG-00067
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 160000
+
+2022-06-13 15:51:00
+Adicionados:['GMR-00047']
+
+GMR-00047-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00047', 'publish': True, 'address': 'Rua Teixeira de Pascoais', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4800-073', 'coordinates': {'latitude': '41.4479920', 'longitude': '-8.2986302'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00047-01', 'evse_id': 'PT*KLC*GMR*00047*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00047-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T15:06:19Z'}], 'last_updated': '2022-06-13T15:06:18Z'}, {'uid': 'GMR-00047-02', 'evse_id': 'PT*KLC*GMR*00047*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00047-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T15:06:20Z'}], 'last_updated': '2022-06-13T15:06:20Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-13T15:28:33Z'}
+Removidos:[]
+GMR-00046
+coordinates: 
+ NEW latitude : 41.447992
+ OLD latitude : 41.4479920
+GMR-00046
+: 
+ NEW coordinates : {'latitude': '41.447992', 'longitude': '-8.2986302'}
+ OLD coordinates : {'latitude': '41.4479920', 'longitude': '-8.2986302'}
+LRS-00057
+: 
+ NEW address : CREL Norte, A9 km 22,1 sentido Bucelas-Loures
+ OLD address : CREL Norte, A9 km 22,1 sentido Loures-Bucelas
+LRS-00057
+coordinates: 
+ NEW latitude : 38.859756
+ OLD latitude : 38.85825
+LRS-00057
+coordinates: 
+ NEW longitude : -9.161636
+ OLD longitude : -9.161167
+LRS-00057
+: 
+ NEW coordinates : {'latitude': '38.859756', 'longitude': '-9.161636'}
+ OLD coordinates : {'latitude': '38.85825', 'longitude': '-9.161167'}
