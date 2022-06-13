@@ -817,3 +817,53 @@ LRS-00057
 : 
  NEW coordinates : {'latitude': '38.859756', 'longitude': '-9.161636'}
  OLD coordinates : {'latitude': '38.85825', 'longitude': '-9.161167'}
+
+2022-06-13 17:05:19
+GMR-00043
+coordinates: 
+ NEW latitude : 41.447802
+ OLD latitude : 41.4479920
+GMR-00043
+coordinates: 
+ NEW longitude : -8.2984402
+ OLD longitude : -8.2986302
+GMR-00043
+: 
+ NEW coordinates : {'latitude': '41.447802', 'longitude': '-8.2984402'}
+ OLD coordinates : {'latitude': '41.4479920', 'longitude': '-8.2986302'}
+GMR-00044
+coordinates: 
+ NEW latitude : 41.448042
+ OLD latitude : 41.4479920
+GMR-00044
+coordinates: 
+ NEW longitude : -8.298205
+ OLD longitude : -8.2986302
+GMR-00044
+: 
+ NEW coordinates : {'latitude': '41.448042', 'longitude': '-8.298205'}
+ OLD coordinates : {'latitude': '41.4479920', 'longitude': '-8.2986302'}
+GMR-00045
+coordinates: 
+ NEW latitude : 41.448192
+ OLD latitude : 41.4479920
+GMR-00045
+coordinates: 
+ NEW longitude : -8.298083
+ OLD longitude : -8.2986302
+GMR-00045
+: 
+ NEW coordinates : {'latitude': '41.448192', 'longitude': '-8.298083'}
+ OLD coordinates : {'latitude': '41.4479920', 'longitude': '-8.2986302'}
+GMR-00046
+coordinates: 
+ NEW latitude : 41.447932
+ OLD latitude : 41.447992
+GMR-00046
+coordinates: 
+ NEW longitude : -8.29835
+ OLD longitude : -8.2986302
+GMR-00046
+: 
+ NEW coordinates : {'latitude': '41.447932', 'longitude': '-8.29835'}
+ OLD coordinates : {'latitude': '41.447992', 'longitude': '-8.2986302'}
