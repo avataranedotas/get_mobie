@@ -409,3 +409,201 @@ GMR-00045-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00045', 'publis
 
 GMR-00049-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00049', 'publish': True, 'address': 'Rua Teixeira de Pascoais', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4800-073', 'coordinates': {'latitude': '41.4479920', 'longitude': '-8.2986302'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00049-01', 'evse_id': 'PT*KLC*GMR*00049*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00049-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T12:16:20Z'}], 'last_updated': '2022-06-13T12:16:20Z'}, {'uid': 'GMR-00049-02', 'evse_id': 'PT*KLC*GMR*00049*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00049-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-13T12:16:17Z'}], 'last_updated': '2022-06-13T12:16:17Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-13T12:21:07Z'}
 Removidos:[]
+
+2022-06-13 14:17:01
+AGH-00002
+: 
+ NEW address : KFC - Angra do Heroísmo - Rua Dr. Aníbal de Bettencourt
+ OLD address : Rua Dr. Aníbal de Bettencourt
+ENT-00005
+: 
+ NEW address : BURGUER KING Entroncamento - Rua Calouste Gulbenkian 8
+ OLD address : Rua Calouste Gulbenkian 8
+ESP-00004
+: 
+ NEW address : BURGUER KING Espinho - Rua de Santa Cruz
+ OLD address : Rua de Santa Cruz
+ETR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 100000
+ETR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+ETR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 120000
+ETR-00010
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+ETR-00010
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+ETR-00010
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 120000
+FLG-00007
+: 
+ NEW address : BURGUER KING Felgueiras - R. Prof. Joaquim Barros Leite
+ OLD address : R. Prof. Joaquim Barros Leite
+GDM-00017
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+GDM-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 32
+GDM-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 22000
+GDM-00017
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+GDM-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 200
+GDM-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+GDM-00017
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+GDM-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 200
+GDM-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 30000
+GDM-00018
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+GDM-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 32
+GDM-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 22000
+GDM-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 200
+GDM-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+GDM-00018
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+GDM-00018
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 200
+GDM-00018
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 30000
+LRS-00056
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LRS-00056
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+LRS-00057
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LRS-00057
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 63
+LRS-00057
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LRS-00057
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 72
+LRS-00057
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+LRS-00057
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 120
+LRS-00057
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LRS-00058
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LRS-00058
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+LRS-00059
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LRS-00059
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 63
+LRS-00059
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LRS-00059
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+LRS-00059
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 120
+LRS-00059
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+LRS-00063
+: 
+ NEW address : BURGUER KING Loures - Rua Almirante Gago Coutinho
+ OLD address : Rua Almirante Gago Coutinho
+MGL-00005
+: 
+ NEW address : BURGUER KING Mangualde - Av. dos Combatentes da Grande Guerra 44
+ OLD address : Av. dos Combatentes da Grande Guerra 44
+RMR-00003
+: 
+ NEW address : BURGUER KING Rio Maior - Avenida Dr. Mário Soares
+ OLD address : Avenida Dr. Mário Soares
+SJM-00009
+: 
+ NEW address : KFC São João da Madeira - Av. Dr. Renato Araújo, Lote 10
+ OLD address : Av. Dr. Renato Araújo, Lote 10
+TVD-00022
+: 
+ NEW address : BURGUER KING Torres Vedras - Rua António Augusto Cabral N17
+ OLD address : Rua António Augusto Cabral N17
