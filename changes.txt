@@ -905,3 +905,7 @@ VNG-00067
 evses -> 1 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : CHADEMO
+
+2022-06-15 08:45:56
+Adicionados:[]
+Removidos:['PSR-00003']
