@@ -1182,3 +1182,7 @@ FVN-00002-02 evses -> 1: status : CHARGING
 2022-06-15 11:15:52
 FVN-00002-02 evses -> 1: status : CHARGING
 OER-00088-01 evses -> 0: status : CHARGING
+
+2022-06-15 11:38:18
+FVN-00002-02 evses -> 1: status : CHARGING
+OER-00088-01 evses -> 0: status : CHARGING
