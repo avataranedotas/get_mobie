@@ -1334,3 +1334,7 @@ FIG-00014-01 evses -> 0: status : CHARGING
 2022-06-16 20:18:36
 AMD-00046-02 evses -> 1: status : CHARGING
 FIG-00014-01 evses -> 0: status : CHARGING
+
+2022-06-16 20:41:08
+AMD-00046-02 evses -> 1: status : CHARGING
+FIG-00014-01 evses -> 0: status : CHARGING
