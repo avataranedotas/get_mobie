@@ -1247,3 +1247,6 @@ AMD-00045-01 evses -> 0: status : CHARGING
 
 2022-06-15 22:39:44
 AMD-00045-01 evses -> 0: status : CHARGING
+
+2022-06-16 07:17:03
+LSB-90040-2 evses -> 1: status : CHARGING
