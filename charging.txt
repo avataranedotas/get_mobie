@@ -1358,3 +1358,7 @@ PVZ-00012-03 evses -> 2: status : CHARGING
 2022-06-16 23:18:23
 FIG-00014-01 evses -> 0: status : CHARGING
 PVZ-00012-03 evses -> 2: status : CHARGING
+
+2022-06-16 23:39:39
+FIG-00014-01 evses -> 0: status : CHARGING
+PVZ-00012-03 evses -> 2: status : CHARGING
