@@ -1301,3 +1301,8 @@ LSB-90040-2 evses -> 1: status : CHARGING
 2022-06-16 15:43:44
 FIG-00014-01 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
+
+2022-06-16 16:27:31
+AMD-00046-02 evses -> 1: status : CHARGING
+FIG-00014-01 evses -> 0: status : CHARGING
+FVN-00002-02 evses -> 1: status : CHARGING
