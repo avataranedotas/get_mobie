@@ -951,3 +951,13 @@ LLE-00083
 : 
  NEW coordinates : {'latitude': '37.074327', 'longitude': '-8.118254'}
  OLD coordinates : {'latitude': '37.0743270', 'longitude': '-8.1182540'}
+
+2022-06-17 10:19:19
+AMD-00045
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+AMD-00045
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
