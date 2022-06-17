@@ -965,3 +965,13 @@ evses -> 1 -> connectors -> 0:
 2022-06-17 11:15:07
 Adicionados:[]
 Removidos:['SNT-00015']
+
+2022-06-17 12:40:23
+AJZ-00003
+coordinates: 
+ NEW longitude : -8.800873
+ OLD longitude : -8.8008730
+AJZ-00003
+: 
+ NEW coordinates : {'latitude': '37.3171692', 'longitude': '-8.800873'}
+ OLD coordinates : {'latitude': '37.3171692', 'longitude': '-8.8008730'}
