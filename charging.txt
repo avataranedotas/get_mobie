@@ -1371,3 +1371,7 @@ PVZ-00012-03 evses -> 2: status : CHARGING
 2022-06-17 03:24:25
 LSB-90040-2 evses -> 1: status : CHARGING
 PVZ-00012-03 evses -> 2: status : CHARGING
+
+2022-06-17 04:06:22
+LSB-90040-2 evses -> 1: status : CHARGING
+PVZ-00012-03 evses -> 2: status : CHARGING
