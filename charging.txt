@@ -1493,3 +1493,6 @@ LSB-90040-1 evses -> 0: status : CHARGING
 
 2022-06-18 09:38:33
 BRG-00047-02 evses -> 1: status : CHARGING
+
+2022-06-18 10:17:59
+BRG-00047-02 evses -> 1: status : CHARGING
