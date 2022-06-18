@@ -1549,3 +1549,6 @@ LSB-90040-2 evses -> 1: status : CHARGING
 AMD-00046-01 evses -> 0: status : CHARGING
 AMD-00046-02 evses -> 1: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
+
+2022-06-18 17:37:56
+LSB-90040-2 evses -> 1: status : CHARGING
