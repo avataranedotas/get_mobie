@@ -1694,3 +1694,6 @@ LSB-90040-2 evses -> 1: status : CHARGING
 
 2022-06-19 20:18:35
 LSB-90040-2 evses -> 1: status : CHARGING
+
+2022-06-19 20:39:47
+LSB-90040-2 evses -> 1: status : CHARGING
