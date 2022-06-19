@@ -975,3 +975,21 @@ AJZ-00003
 : 
  NEW coordinates : {'latitude': '37.3171692', 'longitude': '-8.800873'}
  OLD coordinates : {'latitude': '37.3171692', 'longitude': '-8.8008730'}
+
+2022-06-19 13:02:35
+GRD-90001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : AC_3_PHASE
+GRD-90001
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+GRD-90001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : AC_3_PHASE
+GRD-90001
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
