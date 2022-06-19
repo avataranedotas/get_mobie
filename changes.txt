@@ -993,3 +993,277 @@ GRD-90001
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2022-06-19 15:16:52
+CLT-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+CLT-00004
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+CLT-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+CLT-00006
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+CML-00059
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00006
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00007
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00008
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00009
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00010
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00011
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00012
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00013
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00014
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00015
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00016
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00018
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00019
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00020
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00021
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00022
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00023
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00024
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00025
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00026
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00027
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00028
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00029
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00030
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00031
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00032
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00033
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00034
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00035
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00004
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00006
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00007
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00008
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PMZ-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PMZ-00004
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PST-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PST-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PST-00004
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PTS-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+RAM-CML-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+RBR-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+RBR-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00004
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00006
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00007
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00009
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00010
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00011
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+STN-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+STN-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SVC-00001
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SVC-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
