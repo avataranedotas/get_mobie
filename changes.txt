@@ -1267,3 +1267,9 @@ SVC-00002
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2022-06-20 09:42:12
+STR-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
