@@ -1780,3 +1780,9 @@ LSB-90040-1 evses -> 0: status : CHARGING
 2022-06-20 19:37:11
 AJT-00006-02 evses -> 1: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
+
+2022-06-20 20:20:13
+AMD-00045-01 evses -> 0: status : CHARGING
+AMD-00046-02 evses -> 1: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
+PRT-00134-02 evses -> 1: status : CHARGING
