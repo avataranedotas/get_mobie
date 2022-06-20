@@ -1730,3 +1730,6 @@ OER-00058-03 evses -> 2: status : CHARGING
 2022-06-20 11:14:42
 LSB-90040-1 evses -> 0: status : CHARGING
 OER-00058-03 evses -> 2: status : CHARGING
+
+2022-06-20 11:37:02
+AMD-00046-02 evses -> 1: status : CHARGING
