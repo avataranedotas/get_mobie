@@ -1772,3 +1772,7 @@ LSB-90040-1 evses -> 0: status : CHARGING
 2022-06-20 18:47:23
 AJT-00006-02 evses -> 1: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
+
+2022-06-20 19:17:18
+AJT-00006-02 evses -> 1: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
