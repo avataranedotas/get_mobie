@@ -1273,3 +1273,9 @@ STR-00026
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 180000
  OLD max_electric_power : 100000
+
+2022-06-20 10:21:19
+Adicionados:['OER-00058']
+
+OER-00058-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'OER-00058', 'publish': True, 'address': 'Avenida Prof. Dr. Cavaco Silva', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2740-122', 'coordinates': {'latitude': '38.741254', 'longitude': '-9.305143'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00058-01', 'evse_id': 'PT*MLT*OER*00058*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00058-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-20T09:52:21Z'}], 'last_updated': '2022-06-20T09:52:21Z'}, {'uid': 'OER-00058-02', 'evse_id': 'PT*MLT*OER*00058*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00058-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-20T09:52:37Z'}], 'last_updated': '2022-06-20T09:52:37Z'}, {'uid': 'OER-00058-03', 'evse_id': 'PT*MLT*OER*00058*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00058-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-06-20T09:50:53Z'}], 'last_updated': '2022-06-20T09:50:52Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-20T09:52:37Z'}
+Removidos:[]
