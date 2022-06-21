@@ -1958,3 +1958,6 @@ AMD-00046-01 evses -> 0: status : CHARGING
 
 2022-06-21 23:19:13
 LSB-00470-01 evses -> 0: status : CHARGING
+
+2022-06-21 23:40:31
+CNT-00011-01 evses -> 0: status : CHARGING
