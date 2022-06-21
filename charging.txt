@@ -1921,3 +1921,8 @@ PRT-00134-03 evses -> 2: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
 PRT-00134-03 evses -> 2: status : CHARGING
+
+2022-06-21 18:21:41
+LSB-90040-1 evses -> 0: status : CHARGING
+LSB-90040-2 evses -> 1: status : CHARGING
+PRT-00134-03 evses -> 2: status : CHARGING
