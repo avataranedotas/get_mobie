@@ -1930,3 +1930,7 @@ PRT-00134-03 evses -> 2: status : CHARGING
 2022-06-21 18:46:33
 LSB-90040-2 evses -> 1: status : CHARGING
 PRT-00134-03 evses -> 2: status : CHARGING
+
+2022-06-21 19:14:18
+LSB-90040-2 evses -> 1: status : CHARGING
+PRT-00134-03 evses -> 2: status : CHARGING
