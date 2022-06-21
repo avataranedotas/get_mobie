@@ -1295,3 +1295,9 @@ Removidos:[]
 2022-06-21 01:45:09
 Adicionados:[]
 Removidos:['LSB-00462']
+
+2022-06-21 09:27:25
+Adicionados:['OLH-00002']
+
+OLH-00002-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'OLH-00002', 'publish': True, 'address': '-', 'city': 'Lagoa', 'country': 'PRT', 'postal_code': '-', 'coordinates': {'latitude': '37.135332', 'longitude': '-8.456384'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OLH-00002-01', 'evse_id': 'PT*MOB*OLH*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OLH-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-21T09:09:50Z'}], 'last_updated': '2022-06-21T09:09:50Z'}, {'uid': 'OLH-00002-02', 'evse_id': 'PT*MOB*OLH*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OLH-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-21T09:09:49Z'}], 'last_updated': '2022-06-21T09:09:49Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-21T09:09:51Z'}
+Removidos:[]
