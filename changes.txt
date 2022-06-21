@@ -1313,3 +1313,17 @@ Removidos:['LSB-00030', 'OER-00044']
 2022-06-21 15:19:53
 Adicionados:[]
 Removidos:['OER-00087']
+
+2022-06-21 18:46:30
+OER-00086
+coordinates: 
+ NEW latitude : 38.702361
+ OLD latitude : 38.701867
+OER-00086
+coordinates: 
+ NEW longitude : -9.306357
+ OLD longitude : -9.293928
+OER-00086
+: 
+ NEW coordinates : {'latitude': '38.702361', 'longitude': '-9.306357'}
+ OLD coordinates : {'latitude': '38.701867', 'longitude': '-9.293928'}
