@@ -1997,3 +1997,6 @@ LSB-90040-1 evses -> 0: status : CHARGING
 
 2022-06-22 08:49:54
 LSB-90040-1 evses -> 0: status : CHARGING
+
+2022-06-22 09:16:48
+LSB-90040-1 evses -> 0: status : CHARGING
