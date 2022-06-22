@@ -1327,3 +1327,11 @@ OER-00086
 : 
  NEW coordinates : {'latitude': '38.702361', 'longitude': '-9.306357'}
  OLD coordinates : {'latitude': '38.701867', 'longitude': '-9.293928'}
+
+2022-06-22 10:21:40
+Adicionados:[]
+Removidos:['LSB-90059']
+AJT-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
