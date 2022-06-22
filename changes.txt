@@ -1339,3 +1339,9 @@ evses -> 0 -> connectors -> 0:
 2022-06-22 15:18:44
 Adicionados:[]
 Removidos:['LSB-00186']
+
+2022-06-22 17:33:08
+Adicionados:['STS-90001']
+
+STS-90001-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STS-90001', 'publish': True, 'address': 'Travessa das Rãs', 'city': 'Santo Tirso', 'country': 'PRT', 'postal_code': '4780-563', 'coordinates': {'latitude': '41.337886', 'longitude': '-8.477127'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STS-90001-01', 'evse_id': 'PT*HRZ*STS*90001*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STS-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-22T16:47:44Z'}], 'last_updated': '2022-06-22T16:47:44Z'}, {'uid': 'STS-90001-02', 'evse_id': 'PT*HRZ*STS*90001*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STS-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-22T16:47:46Z'}], 'last_updated': '2022-06-22T16:47:46Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-22T16:59:44Z'}
+Removidos:[]
