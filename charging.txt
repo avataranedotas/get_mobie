@@ -1964,3 +1964,6 @@ CNT-00011-01 evses -> 0: status : CHARGING
 
 2022-06-22 01:53:35
 AMD-00046-02 evses -> 1: status : CHARGING
+
+2022-06-22 03:36:27
+AMD-00046-02 evses -> 1: status : CHARGING
