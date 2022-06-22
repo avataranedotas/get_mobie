@@ -2065,3 +2065,7 @@ PRT-00134-02 evses -> 1: status : CHARGING
 AMD-00046-02 evses -> 1: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
 PRT-00134-03 evses -> 2: status : CHARGING
+
+2022-06-22 18:23:10
+AMD-00046-02 evses -> 1: status : CHARGING
+PRT-00112-1 evses -> 0: status : CHARGING
