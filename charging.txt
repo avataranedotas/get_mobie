@@ -1983,3 +1983,7 @@ LSB-00470-01 evses -> 0: status : CHARGING
 
 2022-06-22 06:47:31
 LSB-00470-01 evses -> 0: status : CHARGING
+
+2022-06-22 07:16:55
+LSB-00470-01 evses -> 0: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
