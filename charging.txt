@@ -2101,3 +2101,6 @@ LSB-90040-2 evses -> 1: status : CHARGING
 2022-06-23 09:17:26
 LSB-90040-2 evses -> 1: status : CHARGING
 VFX-00025-02 evses -> 1: status : CHARGING
+
+2022-06-23 09:41:13
+LSB-90040-2 evses -> 1: status : CHARGING
