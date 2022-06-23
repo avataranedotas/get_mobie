@@ -2176,3 +2176,9 @@ LSB-90040-1 evses -> 0: status : CHARGING
 AMD-00045-01 evses -> 0: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
+
+2022-06-23 18:22:58
+AMD-00045-01 evses -> 0: status : CHARGING
+CNT-00011-01 evses -> 0: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
+PRT-00112-1 evses -> 0: status : CHARGING
