@@ -2223,3 +2223,9 @@ ALM-90005-2 evses -> 1: status : CHARGING
 ALM-90005-2 evses -> 1: status : CHARGING
 ALM-90005-2 evses -> 1: status : CHARGING
 AMD-00046-02 evses -> 1: status : CHARGING
+
+2022-06-23 21:39:20
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+AMD-00046-02 evses -> 1: status : CHARGING
