@@ -2111,3 +2111,7 @@ AMD-00046-02 evses -> 1: status : CHARGING
 2022-06-23 10:43:16
 AJT-00006-02 evses -> 1: status : CHARGING
 AMD-00046-02 evses -> 1: status : CHARGING
+
+2022-06-23 11:15:12
+AJT-00006-02 evses -> 1: status : CHARGING
+AMD-00046-02 evses -> 1: status : CHARGING
