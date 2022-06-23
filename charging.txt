@@ -2182,3 +2182,8 @@ AMD-00045-01 evses -> 0: status : CHARGING
 CNT-00011-01 evses -> 0: status : CHARGING
 LSB-90040-1 evses -> 0: status : CHARGING
 PRT-00112-1 evses -> 0: status : CHARGING
+
+2022-06-23 18:48:58
+AJT-00006-02 evses -> 1: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
+VFX-00025-01 evses -> 0: status : CHARGING
