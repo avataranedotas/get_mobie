@@ -2239,3 +2239,8 @@ ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
+
+2022-06-23 23:17:42
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
