@@ -2423,3 +2423,13 @@ LSB-90040-1 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
 PRT-00112-1 evses -> 0: status : CHARGING
 VFX-00025-01 evses -> 0: status : CHARGING
+
+2022-06-24 16:26:25
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+BRG-00047-01 evses -> 0: status : CHARGING
+CNT-00011-01 evses -> 0: status : CHARGING
+LSB-90040-1 evses -> 0: status : CHARGING
+PRT-00112-1 evses -> 0: status : CHARGING
+VFX-00025-01 evses -> 0: status : CHARGING
