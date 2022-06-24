@@ -2320,3 +2320,8 @@ ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
+
+2022-06-24 08:47:14
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
