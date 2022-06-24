@@ -2307,3 +2307,10 @@ ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 LSB-90040-2 evses -> 1: status : CHARGING
 VFX-00025-02 evses -> 1: status : CHARGING
+
+2022-06-24 07:38:12
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+LSB-90040-2 evses -> 1: status : CHARGING
+VFX-00025-02 evses -> 1: status : CHARGING
