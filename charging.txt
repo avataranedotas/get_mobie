@@ -2513,3 +2513,11 @@ BRG-00047-01 evses -> 0: status : CHARGING
 CNT-00011-01 evses -> 0: status : CHARGING
 CNT-00011-03 evses -> 2: status : CHARGING
 VFX-00025-01 evses -> 0: status : CHARGING
+
+2022-06-24 21:15:41
+AJT-00006-02 evses -> 1: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+BRG-00047-01 evses -> 0: status : CHARGING
+VFX-00025-01 evses -> 0: status : CHARGING
