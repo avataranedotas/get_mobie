@@ -2643,3 +2643,9 @@ ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 CNT-00011-01 evses -> 0: status : CHARGING
+
+2022-06-25 10:40:30
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+CNT-00011-01 evses -> 0: status : CHARGING
