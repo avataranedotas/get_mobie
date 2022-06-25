@@ -2690,3 +2690,11 @@ ALM-90005-1 evses -> 0: status : CHARGING
 ALM-90005-1 evses -> 0: status : CHARGING
 AMD-00046-02 evses -> 1: status : CHARGING
 VFX-00025-02 evses -> 1: status : CHARGING
+
+2022-06-25 14:15:01
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+ALM-90005-1 evses -> 0: status : CHARGING
+AMD-00046-01 evses -> 0: status : CHARGING
+AMD-00046-02 evses -> 1: status : CHARGING
+VFX-00025-02 evses -> 1: status : CHARGING
