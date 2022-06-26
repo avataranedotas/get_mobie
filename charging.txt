@@ -2925,3 +2925,6 @@ OER-00100-1 evses -> 0: status : CHARGING
 OER-00116-1 evses -> 0: status : CHARGING
 OER-00116-1 evses -> 0: status : CHARGING
 PTL-00011-03 evses -> 2: status : CHARGING
+
+2022-06-26 15:17:01
+OER-00100-1 evses -> 0: status : CHARGING
