@@ -2852,3 +2852,8 @@ CNT-00010-01 evses -> 0: status : CHARGING
 BRG-00058-01 evses -> 0: status : CHARGING
 BRG-00058-02 evses -> 1: status : CHARGING
 MCN-00004-01 evses -> 0: status : CHARGING
+
+2022-06-26 10:40:12
+BRG-00058-01 evses -> 0: status : CHARGING
+BRG-00058-02 evses -> 1: status : CHARGING
+MCN-00004-01 evses -> 0: status : CHARGING
