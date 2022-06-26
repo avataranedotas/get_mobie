@@ -2912,3 +2912,10 @@ OER-00115-1 evses -> 0: status : CHARGING
 OER-00115-1 evses -> 0: status : CHARGING
 OER-00116-1 evses -> 0: status : CHARGING
 OER-00116-1 evses -> 0: status : CHARGING
+
+2022-06-26 14:19:47
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00116-1 evses -> 0: status : CHARGING
+OER-00116-1 evses -> 0: status : CHARGING
