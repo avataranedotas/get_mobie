@@ -2934,3 +2934,6 @@ OER-00100-1 evses -> 0: status : CHARGING
 
 2022-06-26 15:41:14
 OER-00100-1 evses -> 0: status : CHARGING
+
+2022-06-26 16:01:01
+OER-00116-1 evses -> 0: status : CHARGING
