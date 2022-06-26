@@ -2844,3 +2844,6 @@ CNT-00010-01 evses -> 0: status : CHARGING
 
 2022-06-26 09:16:01
 CNT-00010-01 evses -> 0: status : CHARGING
+
+2022-06-26 09:39:09
+CNT-00010-01 evses -> 0: status : CHARGING
