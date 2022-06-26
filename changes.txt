@@ -85279,3 +85279,5121 @@ VZL-90003
 evses -> 1 -> connectors -> 0: 
  NEW id : VZL-90003-01-01
  OLD id : VZL-90003-02-01
+
+2022-06-26 14:37:08
+ABF-00005
+: 
+ NEW address : Rua do Município
+ OLD address : Rua do Munic<U+00ED>pio
+ABF-00008
+: 
+ NEW address : Vila Galé Cerro Alagoa
+ OLD address : Vila Gal<U+00E9> Cerro Alagoa
+ABF-00009
+: 
+ NEW address : Vila Galé Cerroa Alagoa
+ OLD address : Vila Gal<U+00E9> Cerroa Alagoa
+ABF-00011
+: 
+ NEW address : Praia Maria Luísa
+ OLD address : Praia Maria Lu<U+00ED>sa
+ABF-00014
+: 
+ NEW address : Hotel Vila Galé Atlântico
+ OLD address : Hotel Vila Gal<U+00E9> Atl<U+00E2>ntico
+ABF-00015
+: 
+ NEW address : Hotel Vila Galé Atlantico
+ OLD address : Hotel Vila Gal<U+00E9> Atlantico
+ABF-00016
+: 
+ NEW address : Estrada dos Caliços
+ OLD address : Estrada dos Cali<U+00E7>os
+ABF-00025
+: 
+ NEW address : Zona Industrial de Vale Paraíso Albufeira
+ OLD address : Zona Industrial de Vale Parai<U+0301>so Albufeira
+ABT-00006
+: 
+ NEW address : Av. António Farinha Pereira 1
+ OLD address : Av. Ant<U+00F3>nio Farinha Pereira 1
+ABT-90001
+: 
+ NEW address : Largo 1º de Maio
+ OLD address : Largo 1<U+00BA> de Maio
+ACB-00002
+: 
+ NEW address : Estrada Nacional 86, Casal do Leirão
+ OLD address : Estrada Nacional 86, Casal do Leir<U+00E3>o
+ACB-00002
+: 
+ NEW city : Alcobaça
+ OLD city : Alcoba<U+00E7>a
+ACB-90001
+: 
+ NEW city : Alcobaça
+ OLD city : Alcoba<U+00E7>a
+ACH-00007
+: 
+ NEW address : Lagoa do Láparo
+ OLD address : Lagoa do L<U+00E1>paro
+ACN-90001
+: 
+ NEW address : Rua João da Silva Nazário
+ OLD address : Rua Jo<U+00E3>o da Silva Naz<U+00E1>rio
+ACT-90001
+: 
+ NEW address : M507 – Rotunda 5 de Outubro
+ OLD address : M507 <U+2013> Rotunda 5 de Outubro
+ADV-00002
+: 
+ NEW address : Área de Serviço de Almodôvar S/N, km 193 A2
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Almod<U+00F4>var S/N, km 193 A2
+ADV-00002
+: 
+ NEW city : Almodôvar
+ OLD city : Almod<U+00F4>var
+ADV-00003
+: 
+ NEW address : Área de Serviço de Almodôvar S/N, km 193 A2
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Almod<U+00F4>var S/N, km 193 A2
+ADV-00003
+: 
+ NEW city : Almodôvar
+ OLD city : Almod<U+00F4>var
+ADV-00004
+: 
+ NEW address : Área de Serviço de Almodôvar N/S, km 193 A2
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Almod<U+00F4>var N/S, km 193 A2
+ADV-00004
+: 
+ NEW city : Almodôvar
+ OLD city : Almod<U+00F4>var
+ADV-00005
+: 
+ NEW address : Área de Serviço de Almodôvar N/S, km 193 A2
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Almod<U+00F4>var N/S, km 193 A2
+ADV-00005
+: 
+ NEW city : Almodôvar
+ OLD city : Almod<U+00F4>var
+ADV-90001
+: 
+ NEW city : Almodôvar
+ OLD city : Almod<U+00F4>var
+AFE-00001
+: 
+ NEW address : Avenida Engº. Manuel Cunha
+ OLD address : Avenida Eng<U+00BA>. Manuel Cunha
+AFE-00001
+: 
+ NEW city : Alfandega da Fé
+ OLD city : Alfandega da F<U+00E9>
+AFE-90001
+: 
+ NEW address : Avenida Engº. Manuel Cunha
+ OLD address : Avenida Eng<U+00BA>. Manuel Cunha
+AFE-90001
+: 
+ NEW city : Alfândega da Fé
+ OLD city : Alf<U+00E2>ndega da F<U+00E9>
+AGD-00005
+: 
+ NEW city : Águeda
+ OLD city : <U+00C1>gueda
+AGD-00006
+: 
+ NEW city : Águeda
+ OLD city : <U+00C1>gueda
+AGD-00007
+: 
+ NEW city : Águeda
+ OLD city : <U+00C1>gueda
+AGD-00009
+: 
+ NEW city : Águeda
+ OLD city : <U+00C1>gueda
+AGD-90001
+: 
+ NEW city : Águeda
+ OLD city : <U+00C1>gueda
+AGH-00001
+: 
+ NEW address : Rua de São Pedro, Circular Externa
+ OLD address : Rua de S<U+00E3>o Pedro, Circular Externa
+AGH-00001
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do Hero<U+00ED>smo
+AGH-00002
+: 
+ NEW address : Rua Dr. Aníbal de Bettencourt
+ OLD address : Rua Dr. An<U+00ED>bal de Bettencourt
+AGH-00002
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do Hero<U+00ED>smo
+AGH-00003
+: 
+ NEW address : Circular de  Angra do Heroísmo
+ OLD address : Circular de  Angra do Hero<U+00ED>smo
+AGH-00003
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do Hero<U+00ED>smo
+AGH-00004
+: 
+ NEW address : Sé de Angra do Heroísmo
+ OLD address : S<U+00E9> de Angra do Hero<U+00ED>smo
+AGH-00004
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do Hero<U+00ED>smo
+AGN-00002
+: 
+ NEW address : Rua Comendador Saúl Brandão
+ OLD address : Rua Comendador Sa<U+00FA>l Brand<U+00E3>o
+AGN-90001
+: 
+ NEW address : Avenida Irmãos Duarte
+ OLD address : Avenida Irm<U+00E3>os Duarte
+AJT-90004
+: 
+ NEW address : Rua Catarina Eufémia
+ OLD address : Rua Catarina Euf<U+00E9>mia
+ALD-00003
+: 
+ NEW address : Sítio da Represa
+ OLD address : S<U+00ED>tio da Represa
+ALJ-90001
+: 
+ NEW address : Avenida Dr. Francisco Sá Carneiro
+ OLD address : Avenida Dr. Francisco S<U+00E1> Carneiro
+ALJ-90001
+: 
+ NEW city : Alijó
+ OLD city : Alij<U+00F3>
+ALM-00022
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+ALM-00033
+: 
+ NEW address : Centro Cívico do Pragal, Rua Abel Salazar
+ OLD address : Centro C<U+00ED>vico do Pragal, Rua Abel Salazar
+ALM-90003
+: 
+ NEW address : Avenida Dom Nuno Álvares Pereira
+ OLD address : Avenida Dom Nuno <U+00C1>lvares Pereira
+ALM-90007
+: 
+ NEW address : Avenida Bento Gonçalves
+ OLD address : Avenida Bento Gon<U+00E7>alves
+ALM-90010
+: 
+ NEW address : Praça João Raimundo
+ OLD address : Pra<U+00E7>a Jo<U+00E3>o Raimundo
+ALM-90012
+: 
+ NEW address : Rua Catarina Eufémia
+ OLD address : Rua Catarina Euf<U+00E9>mia
+ALM-90024
+: 
+ NEW address : Rua de Marco Cabaço
+ OLD address : Rua de Marco Caba<U+00E7>o
+ALQ-00002
+: 
+ NEW address : Intermarché do Carregado
+ OLD address : Intermarch<U+00E9> do Carregado
+ALT-00002
+: 
+ NEW city : Alter do Chão
+ OLD city : Alter do Ch<U+00E3>o
+ALT-00003
+: 
+ NEW city : Alter do Chão
+ OLD city : Alter do Ch<U+00E3>o
+ALT-90001
+: 
+ NEW address : R. João Lopes Namorado 2
+ OLD address : R. Jo<U+00E3>o Lopes Namorado 2
+ALT-90001
+: 
+ NEW city : Alter do Chão
+ OLD city : Alter do Ch<U+00E3>o
+AMD-00022
+: 
+ NEW address : Avenida Ruy Luís Gomes
+ OLD address : Avenida Ruy Lu<U+00ED>s Gomes
+AMD-00028
+: 
+ NEW address : Avenida José Garcês
+ OLD address : Avenida Jos<U+00E9> Garc<U+00EA>s
+AMD-00029
+: 
+ NEW address : Avenida José Garcês
+ OLD address : Avenida Jos<U+00E9> Garc<U+00EA>s
+AMD-00042
+: 
+ NEW address : Largo Dr. Dário Gandra Nunes
+ OLD address : Largo Dr. D<U+00E1>rio Gandra Nunes
+AMD-00043
+: 
+ NEW address : Largo Dr. Dário Gandra Nunes
+ OLD address : Largo Dr. D<U+00E1>rio Gandra Nunes
+AMD-00044
+: 
+ NEW address : Largo Dr. Dário Gandra Nunes
+ OLD address : Largo Dr. D<U+00E1>rio Gandra Nunes
+AMD-00047
+: 
+ NEW address : Avenida Hospitais Civis de Lisboa, n.º8
+ OLD address : Avenida Hospitais Civis de Lisboa, n.<U+00BA>8
+AMD-00048
+: 
+ NEW address : EDIFÍCIO TRIUNFO, AV. DO FORTE, 4, FRACÇÃO M
+ OLD address : EDIF<U+00CD>CIO TRIUNFO, AV. DO FORTE, 4, FRAC<U+00C7><U+00C3>O M
+AMM-90001
+: 
+ NEW address : Rua de São Lázaro
+ OLD address : Rua de S<U+00E3>o L<U+00E1>zaro
+AMR-00004
+: 
+ NEW address : Quinta do Paço
+ OLD address : Quinta do Pa<U+00E7>o
+AMR-90001
+: 
+ NEW address : Praça do Comércio 18
+ OLD address : Pra<U+00E7>a do Com<U+00E9>rcio 18
+AMT-00006
+: 
+ NEW address : Rua Manuel António da Mota
+ OLD address : Rua Manuel Ant<U+00F3>nio da Mota
+AND-90002
+: 
+ NEW address : Avenida Plátanos
+ OLD address : Avenida Pl<U+00E1>tanos
+ANS-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+ANS-90001
+: 
+ NEW city : Ansião
+ OLD city : Ansi<U+00E3>o
+APC-90001
+: 
+ NEW city : Alpiarça
+ OLD city : Alpiar<U+00E7>a
+ARC-00002
+: 
+ NEW address : Variante à N326-12
+ OLD address : Variante <U+00E0> N326-12
+ARL-90001
+: 
+ NEW address : Largo Simão Dórdio Gomes
+ OLD address : Largo Sim<U+00E3>o D<U+00F3>rdio Gomes
+ARV-00005
+: 
+ NEW address : Rua União Recreativa e Desportiva de Arranhó
+ OLD address : Rua Uni<U+00E3>o Recreativa e Desportiva de Arranh<U+00F3>
+ARV-90003
+: 
+ NEW address : R. Heróis do Ultramar
+ OLD address : R. Her<U+00F3>is do Ultramar
+ASL-00001
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+ASL-00002
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+ASL-00004
+: 
+ NEW address : Avenida José Saramago
+ OLD address : Avenida Jos<U+00E9> Saramago
+ASL-00004
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+ASL-00005
+: 
+ NEW address : Castelo de Alcácer do Sal
+ OLD address : Castelo de Alc<U+00E1>cer do Sal
+ASL-00005
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+ASL-00006
+: 
+ NEW address : Castelo de Alcácer do Sal
+ OLD address : Castelo de Alc<U+00E1>cer do Sal
+ASL-00006
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+ASL-90003
+: 
+ NEW city : Alcácer do Sal
+ OLD city : Alc<U+00E1>cer do Sal
+AVR-00010
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+AVR-00015
+: 
+ NEW address : Rua Batalhão Caçadores Dez
+ OLD address : Rua Batalh<U+00E3>o Ca<U+00E7>adores Dez
+AVR-00022
+: 
+ NEW address : Est.Nacional16, Km3, Quinta do Simão
+ OLD address : Est.Nacional16, Km3, Quinta do Sim<U+00E3>o
+AVR-00032
+: 
+ NEW address : POSTO PRIO - Rua Conselheiro Queiróz 64
+ OLD address : POSTO PRIO - Rua Conselheiro Queir<U+00F3>z 64
+AVR-90003
+: 
+ NEW address : Rua do Príncipe Perfeito
+ OLD address : Rua do Pr<U+00ED>ncipe Perfeito
+AVR-90005
+: 
+ NEW address : Avenida Doutor Lourenço Peixinho
+ OLD address : Avenida Doutor Louren<U+00E7>o Peixinho
+AVS-90001
+: 
+ NEW address : R. 1º de Maio
+ OLD address : R. 1<U+00BA> de Maio
+AVT-90001
+: 
+ NEW address : Praça da República
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica
+AVZ-00002
+: 
+ NEW address : A13 - Lanço Tomar / Avelar Sul - Km 26
+ OLD address : A13 - Lan<U+00E7>o Tomar / Avelar Sul - Km 26
+AVZ-00002
+: 
+ NEW city : Alvaiázere
+ OLD city : Alvai<U+00E1>zere
+AVZ-00003
+: 
+ NEW city : Alvaiázere
+ OLD city : Alvai<U+00E1>zere
+AVZ-90001
+: 
+ NEW address : Travessa Colégio Vera Cruz
+ OLD address : Travessa Col<U+00E9>gio Vera Cruz
+AVZ-90001
+: 
+ NEW city : Alvaiázere
+ OLD city : Alvai<U+00E1>zere
+AZB-00004
+: 
+ NEW address : Posto de Combustível Ouro Negro
+ OLD address : Posto de Combust<U+00ED>vel Ouro Negro
+BAO-90001
+: 
+ NEW address : Praça Francisco Sá Carneiro
+ OLD address : Pra<U+00E7>a Francisco S<U+00E1> Carneiro
+BAO-90001
+: 
+ NEW city : Baião
+ OLD city : Bai<U+00E3>o
+BCL-00003
+: 
+ NEW address : Rua Irmão Martinho Corral Alcalde
+ OLD address : Rua Irm<U+00E3>o Martinho Corral Alcalde
+BCL-00008
+: 
+ NEW address : Área de Serviço de Barcelos N/S, A3 Km 56.4
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Barcelos N/S, A3 Km 56.4
+BCL-00009
+: 
+ NEW address : Área de Serviço de Barcelos N/S, A3 Km 56.4
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Barcelos N/S, A3 Km 56.4
+BCL-00013
+: 
+ NEW address : Avenida João Duarte
+ OLD address : Avenida Jo<U+00E3>o Duarte
+BCL-00014
+: 
+ NEW address : Av. São José
+ OLD address : Av. S<U+00E3>o Jos<U+00E9>
+BCL-00015
+: 
+ NEW address : Av. São José
+ OLD address : Av. S<U+00E3>o Jos<U+00E9>
+BCL-00016
+: 
+ NEW address : Av. São José
+ OLD address : Av. S<U+00E3>o Jos<U+00E9>
+BCL-00017
+: 
+ NEW address : Av. São José
+ OLD address : Av. S<U+00E3>o Jos<U+00E9>
+BGC-00005
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BGC-00007
+: 
+ NEW address : Avenida Sá Carneiro
+ OLD address : Avenida S<U+00E1> Carneiro
+BGC-00007
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BGC-00009
+: 
+ NEW address : Br. Formarigos, Av. Cónego Luís Ruivo, nº2
+ OLD address : Br. Formarigos, Av. C<U+00F3>nego Lu<U+00ED>s Ruivo, n<U+00BA>2
+BGC-00009
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BGC-90001
+: 
+ NEW address : Avenida João da Cruz
+ OLD address : Avenida Jo<U+00E3>o da Cruz
+BGC-90001
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BGC-90002
+: 
+ NEW address : Jardim António José de Almeida
+ OLD address : Jardim Ant<U+00F3>nio Jos<U+00E9> de Almeida
+BGC-90002
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BGC-90003
+: 
+ NEW address : Avenida Sá Carneiro
+ OLD address : Avenida S<U+00E1> Carneiro
+BGC-90003
+: 
+ NEW city : Bragança
+ OLD city : Bragan<U+00E7>a
+BJA-00007
+: 
+ NEW address : Hotel Vila Galé Clube de Campo
+ OLD address : Hotel Vila Gal<U+00E9> Clube de Campo
+BJA-00008
+: 
+ NEW address : Hotel Vila Galé Clube de Campo
+ OLD address : Hotel Vila Gal<U+00E9> Clube de Campo
+BJA-00013
+: 
+ NEW address : Rua 1º de Maio, Parque do C.D. Beja e Natação
+ OLD address : Rua 1<U+00BA> de Maio, Parque do C.D. Beja e Nata<U+00E7><U+00E3>o
+BJA-90001
+: 
+ NEW address : Praça da República
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica
+BJA-90004
+: 
+ NEW address : Rua 1º de Maio
+ OLD address : Rua 1<U+00BA> de Maio
+BMT-90001
+: 
+ NEW address : Largo dos Bombeiros Voluntários
+ OLD address : Largo dos Bombeiros Volunt<U+00E1>rios
+BRG-00004
+: 
+ NEW address : Rua Américo Rodrigues Barbosa
+ OLD address : Rua Am<U+00E9>rico Rodrigues Barbosa
+BRG-00010
+: 
+ NEW address : Rua de Santo André
+ OLD address : Rua de Santo Andr<U+00E9>
+BRG-00015
+: 
+ NEW address : Rua de São Martinho
+ OLD address : Rua de S<U+00E3>o Martinho
+BRG-00022
+: 
+ NEW address : Avenida Dom João II 280
+ OLD address : Avenida Dom Jo<U+00E3>o II 280
+BRG-00023
+: 
+ NEW address : Rua Frei José Vilaça
+ OLD address : Rua Frei Jos<U+00E9> Vila<U+00E7>a
+BRG-00024
+: 
+ NEW address : Rua Frei José Vilaça
+ OLD address : Rua Frei Jos<U+00E9> Vila<U+00E7>a
+BRG-00025
+: 
+ NEW address : Avenida Dr. António Palha
+ OLD address : Avenida Dr. Ant<U+00F3>nio Palha
+BRG-00026
+: 
+ NEW address : Avenida Dr. António Palha
+ OLD address : Avenida Dr. Ant<U+00F3>nio Palha
+BRG-00036
+: 
+ NEW address : Hotel Vila Galé Braga
+ OLD address : Hotel Vila Gal<U+00E9> Braga
+BRG-00037
+: 
+ NEW address : Hotel Vila Galé Braga
+ OLD address : Hotel Vila Gal<U+00E9> Braga
+BRG-00045
+: 
+ NEW address : Avenida Frei Bartolomeu dos Mártires
+ OLD address : Avenida Frei Bartolomeu dos M<U+00E1>rtires
+BRG-00048
+: 
+ NEW address : RUA DO PAÇO
+ OLD address : RUA DO PA<U+00C7>O
+BRG-00049
+: 
+ NEW address : RUA DO PAÇO
+ OLD address : RUA DO PA<U+00C7>O
+BRG-00058
+: 
+ NEW address : Avenida da Independência
+ OLD address : Avenida da Independ<U+00EA>ncia
+BRG-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+BRG-90002
+: 
+ NEW address : Rua dos Bombeiros Voluntários
+ OLD address : Rua dos Bombeiros Volunt<U+00E1>rios
+BRG-90003
+: 
+ NEW address : Rua Nova da Estação
+ OLD address : Rua Nova da Esta<U+00E7><U+00E3>o
+BRG-90005
+: 
+ NEW address : Praceta João XXI
+ OLD address : Praceta Jo<U+00E3>o XXI
+BRG-90007
+: 
+ NEW address : Rua Marcelino sá Pires
+ OLD address : Rua Marcelino s<U+00E1> Pires
+BRG-90008
+: 
+ NEW address : Avenida João Paulo II
+ OLD address : Avenida Jo<U+00E3>o Paulo II
+BRG-90012
+: 
+ NEW address : Rua da Quintã
+ OLD address : Rua da Quint<U+00E3>
+BRG-90013
+: 
+ NEW address : Parque Industrial dos Celeirós
+ OLD address : Parque Industrial dos Celeir<U+00F3>s
+BRR-00008
+: 
+ NEW address : Rua Dr. Câmara Pestana Garage
+ OLD address : Rua Dr. C<U+00E2>mara Pestana Garage
+BRR-00009
+: 
+ NEW address : Rua Dr. Câmara Pestana Garage
+ OLD address : Rua Dr. C<U+00E2>mara Pestana Garage
+BRR-00010
+: 
+ NEW address : Rua Dr. Câmara Pestana Garage
+ OLD address : Rua Dr. C<U+00E2>mara Pestana Garage
+BRR-00011
+: 
+ NEW address : Rua Dr. Câmara Pestana Garage
+ OLD address : Rua Dr. C<U+00E2>mara Pestana Garage
+CBR-00010
+: 
+ NEW address : Avenida Lousã
+ OLD address : Avenida Lous<U+00E3>
+CBR-00014
+: 
+ NEW address : Rua João Machado 4
+ OLD address : Rua Jo<U+00E3>o Machado 4
+CBR-00015
+: 
+ NEW address : Rua João Machado 4
+ OLD address : Rua Jo<U+00E3>o Machado 4
+CBR-00025
+: 
+ NEW address : Avenida José Bonifácio Andrade e Silva
+ OLD address : Avenida Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva
+CBR-00034
+: 
+ NEW address : Hotel Vila Galé Coimbra
+ OLD address : Hotel Vila Gal<U+00E9> Coimbra
+CBR-00035
+: 
+ NEW address : Hotel Vila Galé Coimbra
+ OLD address : Hotel Vila Gal<U+00E9> Coimbra
+CBR-00040
+: 
+ NEW address : Rua Aníbal Lima
+ OLD address : Rua An<U+00ED>bal Lima
+CBR-00043
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00044
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00045
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00046
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00047
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00048
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00049
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-00050
+: 
+ NEW address : Av. José Bonifácio Andrade e Silva, nº1
+ OLD address : Av. Jos<U+00E9> Bonif<U+00E1>cio Andrade e Silva, n<U+00BA>1
+CBR-90001
+: 
+ NEW address : Rua Olímpio Nicolau Fernandes
+ OLD address : Rua Ol<U+00ED>mpio Nicolau Fernandes
+CBR-90003
+: 
+ NEW address : Praça Dom Dinis
+ OLD address : Pra<U+00E7>a Dom Dinis
+CBR-90004
+: 
+ NEW address : Alameda Dr. Armando Gonçalves
+ OLD address : Alameda Dr. Armando Gon<U+00E7>alves
+CBR-90005
+: 
+ NEW address : Rua Sílvio Lima
+ OLD address : Rua S<U+00ED>lvio Lima
+CBR-90009
+: 
+ NEW address : Rua Flávio Rodrigues, AB
+ OLD address : Rua Fl<U+00E1>vio Rodrigues, AB
+CBT-90001
+: 
+ NEW address : Praça Cardeal Dom António Ribeiro
+ OLD address : Pra<U+00E7>a Cardeal Dom Ant<U+00F3>nio Ribeiro
+CCH-90001
+: 
+ NEW address : Largo de São Pedro
+ OLD address : Largo de S<U+00E3>o Pedro
+CDN-90001
+: 
+ NEW address : Urbanização Quinta Nova 14
+ OLD address : Urbaniza<U+00E7><U+00E3>o Quinta Nova 14
+CDR-90001
+: 
+ NEW address : R. Inocêncio Santos Cruz
+ OLD address : R. Inoc<U+00EA>ncio Santos Cruz
+CDV-90001
+: 
+ NEW address : Largo da Misericórdia
+ OLD address : Largo da Miseric<U+00F3>rdia
+CHM-00003
+: 
+ NEW address : Rua Câmara Pestana
+ OLD address : Rua C<U+00E2>mara Pestana
+CHT-00001
+: 
+ NEW address : Travessas – Ribeira Seca
+ OLD address : Travessas <U+2013> Ribeira Seca
+CLB-00008
+: 
+ NEW address : Rua Dom João de Oliveira Matos
+ OLD address : Rua Dom Jo<U+00E3>o de Oliveira Matos
+CLD-00007
+: 
+ NEW address : Rua Isidoro Inácio Alves de Carvalho
+ OLD address : Rua Isidoro In<U+00E1>cio Alves de Carvalho
+CLD-90005
+: 
+ NEW address : Praça 25 de Abril
+ OLD address : Pra<U+00E7>a 25 de Abril
+CML-00059
+: 
+ NEW address : Rua João Augusto de Ornelas
+ OLD address : Rua Jo<U+00E3>o Augusto de Ornelas
+CML-00059
+: 
+ NEW city : Câmara de Lobos
+ OLD city : C<U+00E2>mara de Lobos
+CNF-90001
+: 
+ NEW address : Rua Capitão Salgueiro Maia
+ OLD address : Rua Capit<U+00E3>o Salgueiro Maia
+CNF-90001
+: 
+ NEW city : Cinfães
+ OLD city : Cinf<U+00E3>es
+CNS-00002
+: 
+ NEW address : Estrada Nacional nº 3, Km 100+900
+ OLD address : Estrada Nacional n<U+00BA> 3, Km 100+900
+CNS-00002
+: 
+ NEW city : Constância
+ OLD city : Const<U+00E2>ncia
+CNS-90001
+: 
+ NEW city : Constância
+ OLD city : Const<U+00E2>ncia
+CNT-00007
+: 
+ NEW address : AS BP – Cantanhede/Mealhada, A1, km 204,6 N/S
+ OLD address : AS BP <U+2013> Cantanhede/Mealhada, A1, km 204,6 N/S
+CNT-00008
+: 
+ NEW address : AS BP – Cantanhede/Mealhada, A1, km 204,6 S/N
+ OLD address : AS BP <U+2013> Cantanhede/Mealhada, A1, km 204,6 S/N
+CNT-00010
+: 
+ NEW address : Área S. BP – Cantanhede/Mealhada, A1 km 204,6
+ OLD address : <U+00C1>rea S. BP <U+2013> Cantanhede/Mealhada, A1 km 204,6
+CNT-00011
+: 
+ NEW address : Área S. BP – Cantanhede/Mealhada, A1 km 204,6
+ OLD address : <U+00C1>rea S. BP <U+2013> Cantanhede/Mealhada, A1 km 204,6
+CNT-90003
+: 
+ NEW address : Largo Cândido dos Reis
+ OLD address : Largo C<U+00E2>ndido dos Reis
+CPR-90001
+: 
+ NEW address : Av. Adrião Reis
+ OLD address : Av. Adri<U+00E3>o Reis
+CPR-90001
+: 
+ NEW city : Castanheira de Pêra
+ OLD city : Castanheira de P<U+00EA>ra
+CRS-90001
+: 
+ NEW address : Rua António Victor Júnior
+ OLD address : Rua Ant<U+00F3>nio Victor J<U+00FA>nior
+CRZ-90001
+: 
+ NEW address : Jardins da Praça do Município
+ OLD address : Jardins da Pra<U+00E7>a do Munic<U+00ED>pio
+CRZ-90001
+: 
+ NEW city : Carrazeda de Ansiães
+ OLD city : Carrazeda de Ansi<U+00E3>es
+CSC-00016
+: 
+ NEW address : Avenida Rei Humberto II de Itália
+ OLD address : Avenida Rei Humberto II de It<U+00E1>lia
+CSC-00021
+: 
+ NEW address : Rua Florêncio Freire
+ OLD address : Rua Flor<U+00EA>ncio Freire
+CSC-00027
+: 
+ NEW address : Avenida da República, 9011
+ OLD address : Avenida da Rep<U+00FA>blica, 9011
+CSC-00043
+: 
+ NEW address : Vila Galé - Apartamentos Cascais
+ OLD address : Vila Gal<U+00E9> - Apartamentos Cascais
+CSC-00044
+: 
+ NEW address : Vila Galé - Apartamentos Cascais
+ OLD address : Vila Gal<U+00E9> - Apartamentos Cascais
+CSC-00047
+: 
+ NEW address : Av. Bombeiros Voluntários
+ OLD address : Av. Bombeiros Volunt<U+00E1>rios
+CSC-00067
+: 
+ NEW address : Rua João Villaret
+ OLD address : Rua Jo<U+00E3>o Villaret
+CSC-00070
+: 
+ NEW address : Avenida Bombeiros Voluntários
+ OLD address : Avenida Bombeiros Volunt<U+00E1>rios
+CSC-00073
+: 
+ NEW address : Rua José Carlos Ary dos Santos
+ OLD address : Rua Jos<U+00E9> Carlos Ary dos Santos
+CSC-00086
+: 
+ NEW address : Av De Portugal 164 Quinta De São Gonçalo
+ OLD address : Av De Portugal 164 Quinta De Sa<U+0303>o Gonc<U+0327>alo
+CSC-00087
+: 
+ NEW address : Av De Portugal 164 Quinta De São Gonçalo
+ OLD address : Av De Portugal 164 Quinta De Sa<U+0303>o Gonc<U+0327>alo
+CSC-00088
+: 
+ NEW address : Av De Portugal 164 Quinta De São Gonçalo
+ OLD address : Av De Portugal 164 Quinta De Sa<U+0303>o Gonc<U+0327>alo
+CSC-00089
+: 
+ NEW address : Av De Portugal 164 Quinta De São Gonçalo
+ OLD address : Av De Portugal 164 Quinta De Sa<U+0303>o Gonc<U+0327>alo
+CSC-00090
+: 
+ NEW address : Av De Portugal 164 Quinta De São Gonçalo
+ OLD address : Av De Portugal 164 Quinta De Sa<U+0303>o Gonc<U+0327>alo
+CSC-00093
+: 
+ NEW address : Estrada Nacional 249 – km 4
+ OLD address : Estrada Nacional 249 <U+2013> km 4
+CSC-00100
+: 
+ NEW address : Rua Fernão Lopes 60
+ OLD address : Rua Fern<U+00E3>o Lopes 60
+CSC-90002
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+CSC-90006
+: 
+ NEW address : Rua da República
+ OLD address : Rua da Rep<U+00FA>blica
+CSC-90008
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+CSC-90012
+: 
+ NEW address : Rua dos Caçadores
+ OLD address : Rua dos Ca<U+00E7>adores
+CSC-90013
+: 
+ NEW address : Praça Mário Azevedo Gomes
+ OLD address : Pra<U+00E7>a M<U+00E1>rio Azevedo Gomes
+CSC-90014
+: 
+ NEW address : Largo São Domingos
+ OLD address : Largo S<U+00E3>o Domingos
+CTB-00016
+: 
+ NEW address : Rua João Evangelista
+ OLD address : Rua Jo<U+00E3>o Evangelista
+CTB-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+CTB-90005
+: 
+ NEW address : Avenida Pedro Álvares Cabral
+ OLD address : Avenida Pedro <U+00C1>lvares Cabral
+CTB-90006
+: 
+ NEW address : Avenida do Empresário
+ OLD address : Avenida do Empres<U+00E1>rio
+CTB-90007
+: 
+ NEW address : Largo de Santo António
+ OLD address : Largo de Santo Ant<U+00F3>nio
+CTC-00001
+: 
+ NEW city : Constância
+ OLD city : Const<U+00E2>ncia
+CTM-00003
+: 
+ NEW address : Urbanização Real Village
+ OLD address : Urbaniza<U+00E7><U+00E3>o Real Village
+CTM-90001
+: 
+ NEW address : Rua de S. Gonçalo de Lagos
+ OLD address : Rua de S. Gon<U+00E7>alo de Lagos
+CVL-00002
+: 
+ NEW address : Covilhã Shopping
+ OLD address : Covilh<U+00E3> Shopping
+CVL-00002
+: 
+ NEW city : Covilhã
+ OLD city : Covilh<U+00E3>
+CVL-00003
+: 
+ NEW city : Covilhã
+ OLD city : Covilh<U+00E3>
+CVL-00004
+: 
+ NEW city : Covilhã
+ OLD city : Covilh<U+00E3>
+CVL-00005
+: 
+ NEW address : Burger king - Covilhã
+ OLD address : Burger king - Covilh<U+00E3>
+CVL-00005
+: 
+ NEW city : Covilhã
+ OLD city : Covilh<U+00E3>
+CVL-90001
+: 
+ NEW address : Rua António Augusto de Aguiar
+ OLD address : Rua Ant<U+00F3>nio Augusto de Aguiar
+CVL-90001
+: 
+ NEW city : Covilhã
+ OLD city : Covilh<U+00E3>
+CVR-00003
+: 
+ NEW address : Intermarché Castro Verde - Trav. Serrana
+ OLD address : Intermarch<U+00E9> Castro Verde - Trav. Serrana
+ELV-00002
+: 
+ NEW address : Hotel Vila Galé Collection Elvas
+ OLD address : Hotel Vila Gal<U+00E9> Collection Elvas
+ELV-00003
+: 
+ NEW address : Hotel Vila Galé Collection Elvas
+ OLD address : Hotel Vila Gal<U+00E9> Collection Elvas
+ENT-90001
+: 
+ NEW address : Praça Mal. Carmona
+ OLD address : Pra<U+00E7>a Mal. Carmona
+ESP-00006
+: 
+ NEW address : R. 20 nº 1
+ OLD address : R. 20 n<U+00BA> 1
+ETR-00009
+: 
+ NEW address : Área de Serviço – Antuã, A1,  km 254,9
+ OLD address : <U+00C1>rea de Servi<U+00E7>o <U+2013> Antu<U+00E3>, A1,  km 254,9
+ETR-00010
+: 
+ NEW address : Área de Serviço – Antuã, A1,  km 254,9
+ OLD address : <U+00C1>rea de Servi<U+00E7>o <U+2013> Antu<U+00E3>, A1,  km 254,9
+ETR-00011
+: 
+ NEW address : A1 km 254,9, sentido Sul – Norte
+ OLD address : A1 km 254,9, sentido Sul <U+2013> Norte
+ETR-90003
+: 
+ NEW address : Rua José Mendonça
+ OLD address : Rua Jos<U+00E9> Mendon<U+00E7>a
+ETZ-00006
+: 
+ NEW address : Área de Serviço Cepsa Estremoz Sul
+ OLD address : <U+00C1>rea de Servi<U+00E7>o Cepsa Estremoz Sul
+ETZ-00007
+: 
+ NEW address : Área de Serviço Cepsa Estremoz Sul
+ OLD address : <U+00C1>rea de Servi<U+00E7>o Cepsa Estremoz Sul
+ETZ-00008
+: 
+ NEW address : Área de Serviço Cepsa Estremoz Norte
+ OLD address : <U+00C1>rea de Servi<U+00E7>o Cepsa Estremoz Norte
+ETZ-00009
+: 
+ NEW address : Área de Serviço Cepsa Estremoz Norte
+ OLD address : <U+00C1>rea de Servi<U+00E7>o Cepsa Estremoz Norte
+ETZ-00010
+: 
+ NEW address : Estrada Nacional n.º 18
+ OLD address : Estrada Nacional n.<U+00BA> 18
+EVR-00011
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00012
+: 
+ NEW address : Hotel Pestana Pousada Convento Évora
+ OLD address : Hotel Pestana Pousada Convento <U+00C9>vora
+EVR-00012
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00013
+: 
+ NEW address : Hotel Pestana Pousada Convento Évora
+ OLD address : Hotel Pestana Pousada Convento <U+00C9>vora
+EVR-00013
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00014
+: 
+ NEW address : Hotel Vila Galé Evora
+ OLD address : Hotel Vila Gal<U+00E9> Evora
+EVR-00014
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00015
+: 
+ NEW address : Hotel Vila Galé Evora
+ OLD address : Hotel Vila Gal<U+00E9> Evora
+EVR-00015
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00016
+: 
+ NEW address : Ecorkhotel Évora
+ OLD address : Ecorkhotel <U+00C9>vora
+EVR-00016
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00017
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00018
+: 
+ NEW address : Avenida Túlio Espanca
+ OLD address : Avenida T<U+00FA>lio Espanca
+EVR-00018
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00019
+: 
+ NEW address : Rua Dionísio de Aires Moleiro
+ OLD address : Rua Dion<U+00ED>sio de Aires Moleiro
+EVR-00019
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-00021
+: 
+ NEW address : R. da Quinta da Alcântara
+ OLD address : R. da Quinta da Alc<U+00E2>ntara
+EVR-00021
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90001
+: 
+ NEW address : Praça Porta da Lagoa
+ OLD address : Pra<U+00E7>a Porta da Lagoa
+EVR-90001
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90002
+: 
+ NEW address : Praça Joaquim António de Aguiar
+ OLD address : Pra<U+00E7>a Joaquim Ant<U+00F3>nio de Aguiar
+EVR-90002
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90003
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90004
+: 
+ NEW address : Praça 1º de Maio
+ OLD address : Pra<U+00E7>a 1<U+00BA> de Maio
+EVR-90004
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90005
+: 
+ NEW address : Avenida Túlio Espanca
+ OLD address : Avenida T<U+00FA>lio Espanca
+EVR-90005
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90006
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90007
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90008
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+EVR-90009
+: 
+ NEW address : Rua de Olivença
+ OLD address : Rua de Oliven<U+00E7>a
+EVR-90009
+: 
+ NEW city : Évora
+ OLD city : <U+00C9>vora
+FAF-00003
+: 
+ NEW address : Intermaché Fafe
+ OLD address : Intermach<U+00E9> Fafe
+FAF-00004
+: 
+ NEW address : Intermaché Fafe
+ OLD address : Intermach<U+00E9> Fafe
+FAF-90001
+: 
+ NEW address : Praça Mártires Fascismo
+ OLD address : Pra<U+00E7>a M<U+00E1>rtires Fascismo
+FAR-00009
+: 
+ NEW address : Praça da Liberdade
+ OLD address : Pra<U+00E7>a da Liberdade
+FAR-00011
+: 
+ NEW address : Avenida Dr. Júlio Filipe Almeida Carrapato
+ OLD address : Avenida Dr. J<U+00FA>lio Filipe Almeida Carrapato
+FAR-00019
+: 
+ NEW address : Parque de Estacionamento do Fórum Algarve 
+ OLD address : Parque de Estacionamento do F<U+00F3>rum Algarve 
+FAR-00022
+: 
+ NEW address : Hotel Pestana Estói
+ OLD address : Hotel Pestana Est<U+00F3>i
+FAR-00023
+: 
+ NEW address : Hotel Pestana Estói
+ OLD address : Hotel Pestana Est<U+00F3>i
+FAR-90001
+: 
+ NEW address : Largo de São Francisco
+ OLD address : Largo de S<U+00E3>o Francisco
+FAR-90002
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+FAR-90003
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+FAR-90004
+: 
+ NEW address : Largo Francisco Sá Carneiro
+ OLD address : Largo Francisco S<U+00E1> Carneiro
+FEC-00002
+: 
+ NEW address : Bairro Samiteiro, Nº 7010
+ OLD address : Bairro Samiteiro, N<U+00BA> 7010
+FEC-00002
+: 
+ NEW city : Freixo de Espada à Cinta
+ OLD city : Freixo de Espada <U+00E0> Cinta
+FEC-90001
+: 
+ NEW city : Freixo de Espada À Cinta
+ OLD city : Freixo de Espada <U+00C0> Cinta
+FIG-00011
+: 
+ NEW address : Avenida Dom João Alves
+ OLD address : Avenida Dom Jo<U+00E3>o Alves
+FIG-90003
+: 
+ NEW address : São Julião da Figueira da Foz
+ OLD address : S<U+00E3>o Juli<U+00E3>o da Figueira da Foz
+FLG-90002
+: 
+ NEW address : Praça R. Dr.Eduardo de Freitas
+ OLD address : Pra<U+00E7>a R. Dr.Eduardo de Freitas
+FND-00002
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-00003
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-00004
+: 
+ NEW address : Rua Cidade Da Covilhã
+ OLD address : Rua Cidade Da Covilh<U+00E3>
+FND-00004
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-00005
+: 
+ NEW address : Rua Dr. António José Saraiva
+ OLD address : Rua Dr. Ant<U+00F3>nio Jos<U+00E9> Saraiva
+FND-00005
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-00006
+: 
+ NEW address : Zona Industrial do Fundão
+ OLD address : Zona Industrial do Fund<U+00E3>o
+FND-00006
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-00007
+: 
+ NEW address : Rua Cidade da Covilhã
+ OLD address : Rua Cidade da Covilh<U+00E3>
+FND-00007
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FND-90001
+: 
+ NEW address : Largo da Estação 1
+ OLD address : Largo da Esta<U+00E7><U+00E3>o 1
+FND-90001
+: 
+ NEW city : Fundão
+ OLD city : Fund<U+00E3>o
+FTR-90001
+: 
+ NEW address : Largo Marquês da Fronteira
+ OLD address : Largo Marqu<U+00EA>s da Fronteira
+FUN-00003
+: 
+ NEW address : Avenida Sá Carneiro
+ OLD address : Avenida S<U+00E1> Carneiro
+FUN-00007
+: 
+ NEW address : Caminho do Poço Barral
+ OLD address : Caminho do Po<U+00E7>o Barral
+FUN-00018
+: 
+ NEW address : Rua Dr. Brito Câmara 9
+ OLD address : Rua Dr. Brito C<U+00E2>mara 9
+FUN-00019
+: 
+ NEW address : Rua Dr. Brito Câmara 9
+ OLD address : Rua Dr. Brito C<U+00E2>mara 9
+FUN-00020
+: 
+ NEW address : Avenida Luís de Camões
+ OLD address : Avenida Lu<U+00ED>s de Cam<U+00F5>es
+FUN-00031
+: 
+ NEW address : McDonald´s - Funchal (drive)
+ OLD address : McDonald<U+00B4>s - Funchal (drive)
+FUN-00034
+: 
+ NEW address : Rua Ribeira de João Gomes, 53
+ OLD address : Rua Ribeira de Jo<U+00E3>o Gomes, 53
+FUN-00035
+: 
+ NEW address : Edifício 2000, Av. Calouste Gulbenkien
+ OLD address : Edif<U+00ED>cio 2000, Av. Calouste Gulbenkien
+FVN-00002
+: 
+ NEW address : Lugar Nossa Senhora dos Remédios, Lote 1
+ OLD address : Lugar Nossa Senhora dos Rem<U+00E9>dios, Lote 1
+FVN-00002
+: 
+ NEW city : Figueiró dos Vinhos
+ OLD city : Figueir<U+00F3> dos Vinhos
+FVN-90001
+: 
+ NEW city : Figueiró dos Vinhos
+ OLD city : Figueir<U+00F3> dos Vinhos
+FZZ-00002
+: 
+ NEW city : Ferreira do Zêzere
+ OLD city : Ferreira do Z<U+00EA>zere
+FZZ-90001
+: 
+ NEW address : Rua Depósito da Água
+ OLD address : Rua Dep<U+00F3>sito da <U+00C1>gua
+FZZ-90001
+: 
+ NEW city : Ferreira do Zêzere
+ OLD city : Ferreira do Z<U+00EA>zere
+GAV-90001
+: 
+ NEW address : R. Eugénio Maleitas
+ OLD address : R. Eug<U+00E9>nio Maleitas
+GAV-90001
+: 
+ NEW city : Gavião
+ OLD city : Gavi<U+00E3>o
+GDL-00002
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00004
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00005
+: 
+ NEW address : Avenida Frédéric Velge
+ OLD address : Avenida Fr<U+00E9>d<U+00E9>ric Velge
+GDL-00005
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00006
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00007
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00008
+: 
+ NEW address : AS REPSOL – Grândola, A2, Km 111.3 N/S
+ OLD address : AS REPSOL <U+2013> Gr<U+00E2>ndola, A2, Km 111.3 N/S
+GDL-00008
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-00009
+: 
+ NEW address : AS REPSOL – Grândola, A2, Km 111.3 S/N
+ OLD address : AS REPSOL <U+2013> Gr<U+00E2>ndola, A2, Km 111.3 S/N
+GDL-00009
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDL-90003
+: 
+ NEW address : R. Dom Nuno Álvares Pereira
+ OLD address : R. Dom Nuno <U+00C1>lvares Pereira
+GDL-90003
+: 
+ NEW city : Grândola
+ OLD city : Gr<U+00E2>ndola
+GDM-00009
+: 
+ NEW address : Largo Júlio Dinis
+ OLD address : Largo J<U+00FA>lio Dinis
+GDM-00013
+: 
+ NEW address : Rua Fernão de Magalhães, 431
+ OLD address : Rua Fern<U+00E3>o de Magalh<U+00E3>es, 431
+GDM-00015
+: 
+ NEW address : Rua Dom António de Castro, 243
+ OLD address : Rua Dom Ant<U+00F3>nio de Castro, 243
+GDM-00016
+: 
+ NEW address : Rua de Rebordãos, 297
+ OLD address : Rua de Rebord<U+00E3>os, 297
+GDM-00017
+: 
+ NEW address : R. Fernão de Magalhães 584
+ OLD address : R. Fern<U+00E3>o de Magalh<U+00E3>es 584
+GDM-00019
+: 
+ NEW address : Rua Nossa Srª do Amparo, nº 1033
+ OLD address : Rua Nossa Sr<U+00AA> do Amparo, n<U+00BA> 1033
+GLG-90001
+: 
+ NEW address : Largo da Imac. Conceição
+ OLD address : Largo da Imac. Concei<U+00E7><U+00E3>o
+GLG-90001
+: 
+ NEW city : Golegã
+ OLD city : Goleg<U+00E3>
+GMR-00004
+: 
+ NEW address : Rua Santa Eulália, E.N.101
+ OLD address : Rua Santa Eul<U+00E1>lia, E.N.101
+GMR-00004
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00009
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00013
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00018
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00019
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00021
+: 
+ NEW address : Intermarché Urgezes-Guimarães
+ OLD address : Intermarch<U+00E9> Urgezes-Guimar<U+00E3>es
+GMR-00021
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00022
+: 
+ NEW address : Intermarché Urgezes-Guimarães
+ OLD address : Intermarch<U+00E9> Urgezes-Guimar<U+00E3>es
+GMR-00022
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00024
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00025
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00026
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00027
+: 
+ NEW address : Rua do Colégio Militar
+ OLD address : Rua do Col<U+00E9>gio Militar
+GMR-00027
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00037
+: 
+ NEW address : Rua de Ardão
+ OLD address : Rua de Ard<U+00E3>o
+GMR-00037
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00038
+: 
+ NEW address : Parque Ind. São João da Ponte, Fase 1
+ OLD address : Parque Ind. S<U+00E3>o Jo<U+00E3>o da Ponte, Fase 1
+GMR-00038
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00041
+: 
+ NEW address : Rua da Arcela, n,º 2064
+ OLD address : Rua da Arcela, n,<U+00BA> 2064
+GMR-00041
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00043
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00044
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00045
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00046
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00047
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00048
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00049
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00050
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-00051
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90003
+: 
+ NEW address : Largo António Leite de Carvalho
+ OLD address : Largo Ant<U+00F3>nio Leite de Carvalho
+GMR-90003
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90005
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90006
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90007
+: 
+ NEW address : Estação de Comboios
+ OLD address : Esta<U+00E7><U+00E3>o de Comboios
+GMR-90007
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90012
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GMR-90014
+: 
+ NEW city : Guimarães
+ OLD city : Guimar<U+00E3>es
+GOI-90001
+: 
+ NEW city : Góis
+ OLD city : G<U+00F3>is
+GRD-00006
+: 
+ NEW address : Av. Dr. Francisco Sá Carneiro
+ OLD address : Av. Dr. Francisco S<U+00E1> Carneiro
+GRD-00009
+: 
+ NEW address : Av. dos Bombeiros Voluntários Egitaniense
+ OLD address : Av. dos Bombeiros Volunt<U+00E1>rios Egitaniense
+GRD-00010
+: 
+ NEW address : Av. dos Bombeiros Voluntários Egitaniense
+ OLD address : Av. dos Bombeiros Volunt<U+00E1>rios Egitaniense
+GRD-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+GRD-90002
+: 
+ NEW address : Rua Marquês de Pombal
+ OLD address : Rua Marqu<U+00EA>s de Pombal
+GRD-90004
+: 
+ NEW address : Avenida de São Miguel
+ OLD address : Avenida de S<U+00E3>o Miguel
+GVA-00002
+: 
+ NEW address : Estrada Nacional n.º 232
+ OLD address : Estrada Nacional n.<U+00BA> 232
+HRT-00001
+: 
+ NEW address : Estrada Príncipe Alberto do Mónaco
+ OLD address : Estrada Pr<U+00ED>ncipe Alberto do M<U+00F3>naco
+HRT-00003
+: 
+ NEW address : Estrada Regional 1-1.ª, Praça
+ OLD address : Estrada Regional 1-1.<U+00AA>, Pra<U+00E7>a
+IDN-90001
+: 
+ NEW address : Largo do Município
+ OLD address : Largo do Munic<U+00ED>pio
+ILH-00002
+: 
+ NEW city : Ílhavo
+ OLD city : <U+00CD>lhavo
+ILH-90001
+: 
+ NEW address : Av. José Estevão
+ OLD address : Av. Jos<U+00E9> Estev<U+00E3>o
+ILH-90001
+: 
+ NEW city : Ílhavo
+ OLD city : <U+00CD>lhavo
+LAG-00001
+: 
+ NEW address : Rua Agente Técnico João Mota Amaral
+ OLD address : Rua Agente T<U+00E9>cnico Jo<U+00E3>o Mota Amaral
+LAG-00001
+: 
+ NEW city : Lagoa (Açores)
+ OLD city : Lagoa (A<U+00E7>ores)
+LGP-00001
+: 
+ NEW address : Rua Capitão-Mor Garcia Gonçalves Madruga
+ OLD address : Rua Capit<U+00E3>o-Mor Garcia Gon<U+00E7>alves Madruga
+LGS-00004
+: 
+ NEW address : Lugar da Pedra Alçada - Ameijeira Verde
+ OLD address : Lugar da Pedra Al<U+00E7>ada - Ameijeira Verde
+LGS-00006
+: 
+ NEW address : Hotel Vila Galé Lagos
+ OLD address : Hotel Vila Gal<U+00E9> Lagos
+LGS-00007
+: 
+ NEW address : Hotel Vila Galé Lagos
+ OLD address : Hotel Vila Gal<U+00E9> Lagos
+LGS-00008
+: 
+ NEW address : EN 125 - Sítio da Ponte
+ OLD address : EN 125 - S<U+00ED>tio da Ponte
+LGS-00009
+: 
+ NEW address : Rua Pedra Alçada
+ OLD address : Rua Pedra Al<U+00E7>ada
+LGS-00010
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+LGS-00011
+: 
+ NEW address : Estrada de Porto de Mós
+ OLD address : Estrada de Porto de M<U+00F3>s
+LGS-00012
+: 
+ NEW address : Urbanização Varandas de São João, Lote 14
+ OLD address : Urbaniza<U+00E7><U+00E3>o Varandas de S<U+00E3>o Jo<U+00E3>o, Lote 14
+LLE-00002
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00003
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00004
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00005
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00010
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00012
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00013
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00014
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00015
+: 
+ NEW address : Av. Eng. João Meireles
+ OLD address : Av. Eng. Jo<U+00E3>o Meireles
+LLE-00015
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00021
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00022
+: 
+ NEW address : Avenida José da Costa Mealha
+ OLD address : Avenida Jos<U+00E9> da Costa Mealha
+LLE-00022
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00024
+: 
+ NEW address : Hotel Vila Galé Ampalius
+ OLD address : Hotel Vila Gal<U+00E9> Ampalius
+LLE-00024
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00025
+: 
+ NEW address : Hotel Vila Galé Ampalius
+ OLD address : Hotel Vila Gal<U+00E9> Ampalius
+LLE-00025
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00027
+: 
+ NEW address : Hotel Vila Galé Marina
+ OLD address : Hotel Vila Gal<U+00E9> Marina
+LLE-00027
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00040
+: 
+ NEW address : Av. Prof. Doutor Aníbal António Cavaco Silva
+ OLD address : Av. Prof. Doutor An<U+00ED>bal Ant<U+00F3>nio Cavaco Silva
+LLE-00040
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00041
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00042
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00044
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00045
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00048
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00049
+: 
+ NEW address : Rua de São Paulo
+ OLD address : Rua de S<U+00E3>o Paulo
+LLE-00049
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00051
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00052
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00054
+: 
+ NEW address : Avenida Eng. João Meireles
+ OLD address : Avenida Eng. Jo<U+00E3>o Meireles
+LLE-00054
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00056
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00057
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00058
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00059
+: 
+ NEW address : Rua Manuel Dourado Eusébio
+ OLD address : Rua Manuel Dourado Eus<U+00E9>bio
+LLE-00059
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00060
+: 
+ NEW address : Fundação Manuel Viegas Guerreiro
+ OLD address : Funda<U+00E7><U+00E3>o Manuel Viegas Guerreiro
+LLE-00060
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00061
+: 
+ NEW address : Urbanização Quinta do Romão
+ OLD address : Urbaniza<U+00E7><U+00E3>o Quinta do Rom<U+00E3>o
+LLE-00061
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00062
+: 
+ NEW address : Rua Cónego Clemente Brito Pinto
+ OLD address : Rua C<U+00F3>nego Clemente Brito Pinto
+LLE-00062
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00063
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00066
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00067
+: 
+ NEW address : Rua Cristóvão Pires Norte
+ OLD address : Rua Crist<U+00F3>v<U+00E3>o Pires Norte
+LLE-00067
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00068
+: 
+ NEW address : Avenida José dos Santos Farias
+ OLD address : Avenida Jos<U+00E9> dos Santos Farias
+LLE-00068
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00069
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00070
+: 
+ NEW address : Avenida Francisco Sá Carneiro
+ OLD address : Avenida Francisco S<U+00E1> Carneiro
+LLE-00070
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00071
+: 
+ NEW address : Avenida Francisco Sá Carneiro
+ OLD address : Avenida Francisco S<U+00E1> Carneiro
+LLE-00071
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00072
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00073
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00074
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00076
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00077
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00078
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00079
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00083
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-00084
+: 
+ NEW address : AVENIDA ENG. JOÃO MEIRELES
+ OLD address : AVENIDA ENG. JO<U+00C3>O MEIRELES
+LLE-00084
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-90001
+: 
+ NEW address : Av. Francisco Sá Carneiro
+ OLD address : Av. Francisco S<U+00E1> Carneiro
+LLE-90001
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LLE-90023
+: 
+ NEW city : Loulé
+ OLD city : Loul<U+00E9>
+LMG-00005
+: 
+ NEW address : Hotel Vila Galé-VILA GALÉ COLLECTION DOURO
+ OLD address : Hotel Vila Gal<U+00E9>-VILA GAL<U+00C9> COLLECTION DOURO
+LMG-00006
+: 
+ NEW address : Hotel Vila Galé-VILA GALÉ COLLECTION DOURO
+ OLD address : Hotel Vila Gal<U+00E9>-VILA GAL<U+00C9> COLLECTION DOURO
+LMG-00007
+: 
+ NEW address : N226, nº3
+ OLD address : N226, n<U+00BA>3
+LMG-00008
+: 
+ NEW address : N226, nº3
+ OLD address : N226, n<U+00BA>3
+LMG-00009
+: 
+ NEW address : Rua de São João
+ OLD address : Rua de S<U+00E3>o Jo<U+00E3>o
+LNH-00002
+: 
+ NEW address : Avenida António José de Almeida
+ OLD address : Avenida Ant<U+00F3>nio Jos<U+00E9> de Almeida
+LNH-00002
+: 
+ NEW city : Lourinhã
+ OLD city : Lourinh<U+00E3>
+LNH-90001
+: 
+ NEW city : Lourinhã
+ OLD city : Lourinh<U+00E3>
+LOU-90001
+: 
+ NEW address : Av. Amílcar Neto
+ OLD address : Av. Am<U+00ED>lcar Neto
+LOU-90002
+: 
+ NEW address : Av. do Santuário
+ OLD address : Av. do Santu<U+00E1>rio
+LRA-00017
+: 
+ NEW address : Praça Goa Damão e Diu
+ OLD address : Pra<U+00E7>a Goa Dam<U+00E3>o e Diu
+LRA-00022
+: 
+ NEW address : Rua do Pisão
+ OLD address : Rua do Pis<U+00E3>o
+LRA-00023
+: 
+ NEW address : Rua do Pisão
+ OLD address : Rua do Pis<U+00E3>o
+LRA-00028
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria S-N
+ OLD address : <U+00C1>rea de Servi<U+00E7>o CEPSA A1 Leiria S-N
+LRA-00029
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria S-N
+ OLD address : <U+00C1>rea de Servi<U+00E7>o CEPSA A1 Leiria S-N
+LRA-00030
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : <U+00C1>rea de Servi<U+00E7>o CEPSA A1 Leiria N-S
+LRA-00031
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : <U+00C1>rea de Servi<U+00E7>o CEPSA A1 Leiria N-S
+LRA-00050
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00051
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00052
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00053
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00054
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00055
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00056
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00057
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-00058
+: 
+ NEW address : Rua Santo André
+ OLD address : Rua Santo Andr<U+00E9>
+LRA-90006
+: 
+ NEW address : Avenida Heróis de Angola
+ OLD address : Avenida Her<U+00F3>is de Angola
+LRA-90007
+: 
+ NEW address : Largo da República
+ OLD address : Largo da Rep<U+00FA>blica
+LRA-90008
+: 
+ NEW address : Rua Doutor João Soares
+ OLD address : Rua Doutor Jo<U+00E3>o Soares
+LRA-90009
+: 
+ NEW address : Rua Luís Silveira Charters Azevedo
+ OLD address : Rua Lu<U+00ED>s Silveira Charters Azevedo
+LRA-90011
+: 
+ NEW address : Rua da Assunção
+ OLD address : Rua da Assun<U+00E7><U+00E3>o
+LRS-00035
+: 
+ NEW address : Quinta São João das Areias
+ OLD address : Quinta S<U+00E3>o Jo<U+00E3>o das Areias
+LRS-00045
+: 
+ NEW address : Rua da Cidade de Gôa
+ OLD address : Rua da Cidade de G<U+00F4>a
+LRS-00046
+: 
+ NEW address : Avenida São João
+ OLD address : Avenida S<U+00E3>o Jo<U+00E3>o
+LRS-00050
+: 
+ NEW address : Rua Pedro Álvares Cabral
+ OLD address : Rua Pedro <U+00C1>lvares Cabral
+LRS-00055
+: 
+ NEW address : Rua da República 5
+ OLD address : Rua da Rep<U+00FA>blica 5
+LRS-00064
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+LRS-00066
+: 
+ NEW address : R. Álvaro Pedro Gomes 13
+ OLD address : R. <U+00C1>lvaro Pedro Gomes 13
+LRS-90001
+: 
+ NEW address : Largo João Raymundo Alves
+ OLD address : Largo Jo<U+00E3>o Raymundo Alves
+LRS-90002
+: 
+ NEW address : Avenida Severiano Falcão
+ OLD address : Avenida Severiano Falc<U+00E3>o
+LRS-90004
+: 
+ NEW address : Rua António dos Santos Saúde e Vida
+ OLD address : Rua Ant<U+00F3>nio dos Santos Sa<U+00FA>de e Vida
+LRS-90007
+: 
+ NEW address : Rua da República
+ OLD address : Rua da Rep<U+00FA>blica
+LRS-90008
+: 
+ NEW address : Rua Olivença
+ OLD address : Rua Oliven<U+00E7>a
+LRS-90011
+: 
+ NEW address : Praceta António Corte Real
+ OLD address : Praceta Ant<U+00F3>nio Corte Real
+LRS-90013
+: 
+ NEW address : Rua David Mourão Ferreira
+ OLD address : Rua David Mour<U+00E3>o Ferreira
+LRS-90014
+: 
+ NEW address : Rua São Domingos
+ OLD address : Rua S<U+00E3>o Domingos
+LRS-90018
+: 
+ NEW address : Praceta José Régio
+ OLD address : Praceta Jos<U+00E9> R<U+00E9>gio
+LRS-90019
+: 
+ NEW address : Rua Rogério da Gama Gil
+ OLD address : Rua Rog<U+00E9>rio da Gama Gil
+LRS-90021
+: 
+ NEW address : Rua Álvaro Pedro Gomes
+ OLD address : Rua <U+00C1>lvaro Pedro Gomes
+LRS-90024
+: 
+ NEW address : Avenida Severiano Falcão
+ OLD address : Avenida Severiano Falc<U+00E3>o
+LRS-90028
+: 
+ NEW address : Estrada da Circunvalação
+ OLD address : Estrada da Circunvala<U+00E7><U+00E3>o
+LRS-90032
+: 
+ NEW address : Avenida das Forças Armadas
+ OLD address : Avenida das For<U+00E7>as Armadas
+LSA-00003
+: 
+ NEW city : Lousã
+ OLD city : Lous<U+00E3>
+LSA-90001
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : Pra<U+00E7>a Lu<U+00ED>s de Cam<U+00F5>es
+LSA-90001
+: 
+ NEW city : Lousã
+ OLD city : Lous<U+00E3>
+LSA-90002
+: 
+ NEW address : Variante à Nacional 236
+ OLD address : Variante <U+00E0> Nacional 236
+LSA-90002
+: 
+ NEW city : Lousã
+ OLD city : Lous<U+00E3>
+LSB-00011
+: 
+ NEW address : Calçada de Carriche
+ OLD address : Cal<U+00E7>ada de Carriche
+LSB-00019
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Jo<U+00E3>o II
+LSB-00030
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Jo<U+00E3>o II
+LSB-00052
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Jo<U+00E3>o II
+LSB-00070
+: 
+ NEW address : Rua Dom Luís I
+ OLD address : Rua Dom Lu<U+00ED>s I
+LSB-00071
+: 
+ NEW address : Rua Dom Luís I
+ OLD address : Rua Dom Lu<U+00ED>s I
+LSB-00090
+: 
+ NEW address : Calçada do Tojal
+ OLD address : Cal<U+00E7>ada do Tojal
+LSB-00098
+: 
+ NEW address : Campo Grande, Nº 9105
+ OLD address : Campo Grande, N<U+00BA> 9105
+LSB-00104
+: 
+ NEW address : Campo Grande, Nº 9105
+ OLD address : Campo Grande, N<U+00BA> 9105
+LSB-00109
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+LSB-00113
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+LSB-00114
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : Pra<U+00E7>a Lu<U+00ED>s de Cam<U+00F5>es
+LSB-00115
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : Pra<U+00E7>a Lu<U+00ED>s de Cam<U+00F5>es
+LSB-00117
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : Pra<U+00E7>a Lu<U+00ED>s de Cam<U+00F5>es
+LSB-00119
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00120
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00121
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00125
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00126
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00152
+: 
+ NEW address : Praça dos Restauradores
+ OLD address : Pra<U+00E7>a dos Restauradores
+LSB-00153
+: 
+ NEW address : Praça D. Luís I
+ OLD address : Pra<U+00E7>a D. Lu<U+00ED>s I
+LSB-00154
+: 
+ NEW address : Praça D. Luís I
+ OLD address : Pra<U+00E7>a D. Lu<U+00ED>s I
+LSB-00155
+: 
+ NEW address : Praça D. Luís I
+ OLD address : Pra<U+00E7>a D. Lu<U+00ED>s I
+LSB-00161
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida Jo<U+00E3>o Cris<U+00F3>stomo
+LSB-00162
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida Jo<U+00E3>o Cris<U+00F3>stomo
+LSB-00164
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida Jo<U+00E3>o Cris<U+00F3>stomo
+LSB-00165
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida Jo<U+00E3>o Cris<U+00F3>stomo
+LSB-00166
+: 
+ NEW address : Praça de Londres
+ OLD address : Pra<U+00E7>a de Londres
+LSB-00167
+: 
+ NEW address : Praça de Londres
+ OLD address : Pra<U+00E7>a de Londres
+LSB-00168
+: 
+ NEW address : Praça de Londres
+ OLD address : Pra<U+00E7>a de Londres
+LSB-00174
+: 
+ NEW address : Praça do Império
+ OLD address : Pra<U+00E7>a do Imp<U+00E9>rio
+LSB-00176
+: 
+ NEW address : Praça do Império
+ OLD address : Pra<U+00E7>a do Imp<U+00E9>rio
+LSB-00187
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Joa<U+0303>o II
+LSB-00188
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Joa<U+0303>o II
+LSB-00189
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. Joa<U+0303>o II
+LSB-00190
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : Pra<U+00E7>a Humberto Delgado
+LSB-00191
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : Pra<U+00E7>a Humberto Delgado
+LSB-00192
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : Pra<U+00E7>a Humberto Delgado
+LSB-00201
+: 
+ NEW address : Rua João de Oliveira Miguéns
+ OLD address : Rua Jo<U+00E3>o de Oliveira Migu<U+00E9>ns
+LSB-00207
+: 
+ NEW address : Praça Ginásio Clube Português
+ OLD address : Pra<U+00E7>a Gin<U+00E1>sio Clube Portugu<U+00EA>s
+LSB-00208
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom Jo<U+00E3>o V
+LSB-00209
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom Jo<U+00E3>o V
+LSB-00210
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom Jo<U+00E3>o V
+LSB-00212
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom Jo<U+00E3>o V
+LSB-00213
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom Jo<U+00E3>o V
+LSB-00214
+: 
+ NEW address : Rua Inocêncio Francisco da Silva
+ OLD address : Rua Inoc<U+00EA>ncio Francisco da Silva
+LSB-00215
+: 
+ NEW address : Rua 1º de Maio
+ OLD address : Rua 1<U+00BA> de Maio
+LSB-00216
+: 
+ NEW address : Hotel Vila Galé Opera
+ OLD address : Hotel Vila Gal<U+00E9> Opera
+LSB-00217
+: 
+ NEW address : Hotel Vila Galé Opera
+ OLD address : Hotel Vila Gal<U+00E9> Opera
+LSB-00223
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00224
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00225
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00226
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00227
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00228
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00229
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00230
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00231
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00245
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. Marqu<U+00EA>s S<U+00E1> da Bandeira
+LSB-00246
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. Marqu<U+00EA>s S<U+00E1> da Bandeira
+LSB-00247
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. Marqu<U+00EA>s S<U+00E1> da Bandeira
+LSB-00259
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da Alf<U+00E2>ndega
+LSB-00260
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da Alf<U+00E2>ndega
+LSB-00261
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da Alf<U+00E2>ndega
+LSB-00262
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da Alf<U+00E2>ndega
+LSB-00263
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da Alf<U+00E2>ndega
+LSB-00264
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : Pra<U+00E7>a Marqu<U+00EA>s de Pombal
+LSB-00265
+: 
+ NEW address :  Av. Eusébio da Silva Ferreira
+ OLD address :  Av. Eus<U+00E9>bio da Silva Ferreira
+LSB-00270
+: 
+ NEW address : Área Serviço Repsol 2a Circular Sentido N/S
+ OLD address : <U+00C1>rea Servi<U+00E7>o Repsol 2a Circular Sentido N/S
+LSB-00282
+: 
+ NEW address : Avenida de Pádua
+ OLD address : Avenida de P<U+00E1>dua
+LSB-00289
+: 
+ NEW address : Rua da Verónica
+ OLD address : Rua da Ver<U+00F3>nica
+LSB-00290
+: 
+ NEW address : Rua da Verónica
+ OLD address : Rua da Ver<U+00F3>nica
+LSB-00303
+: 
+ NEW address : Rua Bispo de Coxim, Nº1
+ OLD address : Rua Bispo de Coxim, N<U+00BA>1
+LSB-00309
+: 
+ NEW address : Rua Abílio Mendes 62
+ OLD address : Rua Ab<U+00ED>lio Mendes 62
+LSB-00310
+: 
+ NEW address : Avª Da Índia E Rua Fernão Mendes Pinto
+ OLD address : Av<U+00AA> Da <U+00CD>ndia E Rua Fern<U+00E3>o Mendes Pinto
+LSB-00318
+: 
+ NEW address : Av. Eusébio da Silva Ferreira
+ OLD address : Av. Eus<U+00E9>bio da Silva Ferreira
+LSB-00335
+: 
+ NEW address : Praça Aeroporto, Av. Marechal Gomes da Costa
+ OLD address : Pra<U+00E7>a Aeroporto, Av. Marechal Gomes da Costa
+LSB-00350
+: 
+ NEW address : Avenida Santo Condestável
+ OLD address : Avenida Santo Condest<U+00E1>vel
+LSB-00352
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00353
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00354
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00355
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00356
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00357
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua Fern<U+00E3>o Mendes Pinto
+LSB-00387
+: 
+ NEW address : Av. Rovisco Pais, nº1
+ OLD address : Av. Rovisco Pais, n<U+00BA>1
+LSB-00388
+: 
+ NEW address : Av. Rovisco Pais, nº1
+ OLD address : Av. Rovisco Pais, n<U+00BA>1
+LSB-00409
+: 
+ NEW address : Estrada do Paço do Lumiar
+ OLD address : Estrada do Pa<U+00E7>o do Lumiar
+LSB-00410
+: 
+ NEW address : Rua Mário Botas
+ OLD address : Rua M<U+00E1>rio Botas
+LSB-00411
+: 
+ NEW address : Rua Mário Botas
+ OLD address : Rua M<U+00E1>rio Botas
+LSB-00412
+: 
+ NEW address : Rua Mário Botas
+ OLD address : Rua M<U+00E1>rio Botas
+LSB-00413
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+LSB-00414
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+LSB-00415
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+LSB-00416
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+LSB-00417
+: 
+ NEW address : Rua Mário Botas
+ OLD address : Rua M<U+00E1>rio Botas
+LSB-00430
+: 
+ NEW address : Campo dos Mártires da Pátria
+ OLD address : Campo dos M<U+00E1>rtires da P<U+00E1>tria
+LSB-00431
+: 
+ NEW address : Campo dos Mártires da Pátria
+ OLD address : Campo dos M<U+00E1>rtires da P<U+00E1>tria
+LSB-00432
+: 
+ NEW address : Campo dos Mártires da Pátria
+ OLD address : Campo dos M<U+00E1>rtires da P<U+00E1>tria
+LSB-00433
+: 
+ NEW address : Campo dos Mártires da Pátria
+ OLD address : Campo dos M<U+00E1>rtires da P<U+00E1>tria
+LSB-00445
+: 
+ NEW address : Rua Rosa Araújo, 16
+ OLD address : Rua Rosa Ara<U+00FA>jo, 16
+LSB-00446
+: 
+ NEW address : Rua S. Pedro Alcântara, 138
+ OLD address : Rua S. Pedro Alc<U+00E2>ntara, 138
+LSB-00450
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : J<U+00FA>piter Lisboa Hotel - Av. da Rep<U+00FA>blica
+LSB-00451
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : J<U+00FA>piter Lisboa Hotel - Av. da Rep<U+00FA>blica
+LSB-00452
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : J<U+00FA>piter Lisboa Hotel - Av. da Rep<U+00FA>blica
+LSB-00453
+: 
+ NEW address : Júpiter Lisboa Hotel - Av. da República
+ OLD address : J<U+00FA>piter Lisboa Hotel - Av. da Rep<U+00FA>blica
+LSB-00469
+: 
+ NEW address : Tv.  Légua da Póvoa, 11C
+ OLD address : Tv.  L<U+00E9>gua da P<U+00F3>voa, 11C
+LSB-00474
+: 
+ NEW address : Av. de António José de Almeida 28-A
+ OLD address : Av. de Ant<U+00F3>nio Jos<U+00E9> de Almeida 28-A
+LSB-01529
+: 
+ NEW address : R. Hermínio da Palma Inácio
+ OLD address : R. Herm<U+00ED>nio da Palma In<U+00E1>cio
+LSB-01540
+: 
+ NEW address : Av. Engº Duarte Pacheco
+ OLD address : Av. Eng<U+00BA> Duarte Pacheco
+LSB-01541
+: 
+ NEW address : Av. Engº Duarte Pacheco
+ OLD address : Av. Eng<U+00BA> Duarte Pacheco
+LSB-90001
+: 
+ NEW address : Avenida Torre de Belém
+ OLD address : Avenida Torre de Bel<U+00E9>m
+LSB-90002
+: 
+ NEW address : Rua Lucília do Carmo
+ OLD address : Rua Luc<U+00ED>lia do Carmo
+LSB-90005
+: 
+ NEW address : Praça do Império
+ OLD address : Pra<U+00E7>a do Imp<U+00E9>rio
+LSB-90007
+: 
+ NEW address : Rua Gonçalves Zarco
+ OLD address : Rua Gon<U+00E7>alves Zarco
+LSB-90012
+: 
+ NEW address : Alameda Padre Álvaro Proença
+ OLD address : Alameda Padre <U+00C1>lvaro Proen<U+00E7>a
+LSB-90016
+: 
+ NEW address : Avenida da Universidade Técnica
+ OLD address : Avenida da Universidade T<U+00E9>cnica
+LSB-90017
+: 
+ NEW address : Travessa da Boa-Hora à Ajuda
+ OLD address : Travessa da Boa-Hora <U+00E0> Ajuda
+LSB-90018
+: 
+ NEW address : Avenida de Brasília
+ OLD address : Avenida de Bras<U+00ED>lia
+LSB-90021
+: 
+ NEW address : Calçada da Tapada
+ OLD address : Cal<U+00E7>ada da Tapada
+LSB-90022
+: 
+ NEW address : Avenida do Colégio Militar
+ OLD address : Avenida do Col<U+00E9>gio Militar
+LSB-90025
+: 
+ NEW address : Rua João Morais Barbosa
+ OLD address : Rua Jo<U+00E3>o Morais Barbosa
+LSB-90032
+: 
+ NEW address : Avenida Dom João II
+ OLD address : Avenida Dom Jo<U+00E3>o II
+LSB-90033
+: 
+ NEW address : Rua do Pólo Norte
+ OLD address : Rua do P<U+00F3>lo Norte
+LSB-90035
+: 
+ NEW address : Rua Pedro e Inês
+ OLD address : Rua Pedro e In<U+00EA>s
+LSB-90039
+: 
+ NEW address : Avenida do Mediterrâneo
+ OLD address : Avenida do Mediterr<U+00E2>neo
+LSB-90040
+: 
+ NEW address : Passeio do Báltico
+ OLD address : Passeio do B<U+00E1>ltico
+LSB-90041
+: 
+ NEW address : Rua do Pólo Sul
+ OLD address : Rua do P<U+00F3>lo Sul
+LSB-90046
+: 
+ NEW address : Rua João de Freitas Branco
+ OLD address : Rua Jo<U+00E3>o de Freitas Branco
+LSB-90048
+: 
+ NEW address : Rua Leão de Oliveira
+ OLD address : Rua Le<U+00E3>o de Oliveira
+LSB-90049
+: 
+ NEW address : Rua José Dias Coelho
+ OLD address : Rua Jos<U+00E9> Dias Coelho
+LSB-90051
+: 
+ NEW address : Rua António Macedo
+ OLD address : Rua Ant<U+00F3>nio Macedo
+LSB-90056
+: 
+ NEW address : Rua Fernando Lopes Graça
+ OLD address : Rua Fernando Lopes Gra<U+00E7>a
+LSB-90057
+: 
+ NEW address : Rua José Escada
+ OLD address : Rua Jos<U+00E9> Escada
+LSB-90061
+: 
+ NEW address : Praça Afonso do Paço
+ OLD address : Pra<U+00E7>a Afonso do Pa<U+00E7>o
+LSB-90063
+: 
+ NEW address : Calçada dos Mestres
+ OLD address : Cal<U+00E7>ada dos Mestres
+LSB-90064
+: 
+ NEW address : Avenida Estados Unidos da América
+ OLD address : Avenida Estados Unidos da Am<U+00E9>rica
+LSB-90067
+: 
+ NEW address : Rua do Arco do Carvalhão
+ OLD address : Rua do Arco do Carvalh<U+00E3>o
+LSB-90083
+: 
+ NEW address : Rua Marquês de Fronteira
+ OLD address : Rua Marqu<U+00EA>s de Fronteira
+LSB-90092
+: 
+ NEW address : Avenida Sidónio Pais
+ OLD address : Avenida Sid<U+00F3>nio Pais
+LSB-90101
+: 
+ NEW address : Rua Dom Luís I
+ OLD address : Rua Dom Lu<U+00ED>s I
+LSB-90102
+: 
+ NEW address : Rua de O Século
+ OLD address : Rua de O S<U+00E9>culo
+LSB-90105
+: 
+ NEW address : Rua Aprígio Mafra
+ OLD address : Rua Apr<U+00ED>gio Mafra
+LSB-90110
+: 
+ NEW address : Rua António Maria Cardoso
+ OLD address : Rua Ant<U+00F3>nio Maria Cardoso
+LSB-90112
+: 
+ NEW address : Avenida António José de Almeida
+ OLD address : Avenida Ant<U+00F3>nio Jos<U+00E9> de Almeida
+LSB-90123
+: 
+ NEW address : Travessa do Cidadão João Gonçalves
+ OLD address : Travessa do Cidad<U+00E3>o Jo<U+00E3>o Gon<U+00E7>alves
+LSB-90129
+: 
+ NEW address : Avenida General Roçadas
+ OLD address : Avenida General Ro<U+00E7>adas
+LSB-90134
+: 
+ NEW address : Parada Alto de São João
+ OLD address : Parada Alto de S<U+00E3>o Jo<U+00E3>o
+LSB-90135
+: 
+ NEW address : Rua da Cruz de Santa Apolónia
+ OLD address : Rua da Cruz de Santa Apol<U+00F3>nia
+LSB-90136
+: 
+ NEW address : Avenida Cidade de Lourenço Marques
+ OLD address : Avenida Cidade de Louren<U+00E7>o Marques
+LSB-90137
+: 
+ NEW address : Rua Conselheiro Emídio Navarro
+ OLD address : Rua Conselheiro Em<U+00ED>dio Navarro
+LSB-90141
+: 
+ NEW address : Praça de Londres
+ OLD address : Pra<U+00E7>a de Londres
+LSB-90142
+: 
+ NEW address : Praça General Domingos de Oliveira
+ OLD address : Pra<U+00E7>a General Domingos de Oliveira
+LSB-90143
+: 
+ NEW address : Praça da Estrela
+ OLD address : Pra<U+00E7>a da Estrela
+LSB-90145
+: 
+ NEW address : Rua Doutor José Espírito Santo
+ OLD address : Rua Doutor Jos<U+00E9> Esp<U+00ED>rito Santo
+LSB-90175
+: 
+ NEW address : Rua do Comércio
+ OLD address : Rua do Com<U+00E9>rcio
+LSB-90500
+: 
+ NEW address : Avenida da Índia
+ OLD address : Avenida da <U+00CD>ndia
+LSB-90501
+: 
+ NEW address : Avenida da Índia
+ OLD address : Avenida da <U+00CD>ndia
+LSB-90520
+: 
+ NEW address : Praça Afonso de Albuquerque
+ OLD address : Pra<U+00E7>a Afonso de Albuquerque
+LSB-90521
+: 
+ NEW address : Praça Afonso de Albuquerque
+ OLD address : Pra<U+00E7>a Afonso de Albuquerque
+LSB-91090
+: 
+ NEW address : Rua Cecília Meireles
+ OLD address : Rua Cec<U+00ED>lia Meireles
+LSD-00001
+: 
+ NEW address : Rua de Santo André
+ OLD address : Rua de Santo Andr<U+00E9>
+MAC-90001
+: 
+ NEW city : Mação
+ OLD city : Ma<U+00E7><U+00E3>o
+MAI-00016
+: 
+ NEW address : Av. Eng. José Afonso Moreira de Figueiredo
+ OLD address : Av. Eng. Jos<U+00E9> Afonso Moreira de Figueiredo
+MAI-00017
+: 
+ NEW address : Rua da Fábrica
+ OLD address : Rua da F<U+00E1>brica
+MAI-90004
+: 
+ NEW address : Avenida de José da Silva Soares
+ OLD address : Avenida de Jos<U+00E9> da Silva Soares
+MCV-00002
+: 
+ NEW address : Rua João Paulo II, 19
+ OLD address : Rua Jo<U+00E3>o Paulo II, 19
+MDL-00004
+: 
+ NEW address : Rua 25 de Maio Nº119
+ OLD address : Rua 25 de Maio N<U+00BA>119
+MED-00002
+: 
+ NEW city : Mêda
+ OLD city : M<U+00EA>da
+MED-90001
+: 
+ NEW city : Mêda
+ OLD city : M<U+00EA>da
+MFR-00005
+: 
+ NEW address : Hotel Vila Galé Ericeira
+ OLD address : Hotel Vila Gal<U+00E9> Ericeira
+MFR-00006
+: 
+ NEW address : Hotel Vila Galé Ericeira
+ OLD address : Hotel Vila Gal<U+00E9> Ericeira
+MFR-00010
+: 
+ NEW address : Rua Santa Casa Misericórdia 6
+ OLD address : Rua Santa Casa Miseric<U+00F3>rdia 6
+MFR-00011
+: 
+ NEW address : Largo São Sebastião
+ OLD address : Largo S<U+00E3>o Sebasti<U+00E3>o
+MFR-00019
+: 
+ NEW address : Estrada Nacional Nº8
+ OLD address : Estrada Nacional N<U+00BA>8
+MFR-00020
+: 
+ NEW address : McDonald´s - Malveira
+ OLD address : McDonald<U+00B4>s - Malveira
+MFR-00022
+: 
+ NEW address : McDonalds - Rua Dr. António Fernandes Cura
+ OLD address : McDonalds - Rua Dr. Ant<U+00F3>nio Fernandes Cura
+MGR-00002
+: 
+ NEW address : Avenida José Gregório SN
+ OLD address : Avenida Jos<U+00E9> Greg<U+00F3>rio SN
+MLG-00002
+: 
+ NEW address : Lugar do Galvão
+ OLD address : Lugar do Galv<U+00E3>o
+MLG-00002
+: 
+ NEW city : Melgaço
+ OLD city : Melga<U+00E7>o
+MLG-90001
+: 
+ NEW address : Praça da República
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica
+MLG-90001
+: 
+ NEW city : Melgaço
+ OLD city : Melga<U+00E7>o
+MMV-90001
+: 
+ NEW address : Rua São Tiago
+ OLD address : Rua S<U+00E3>o Tiago
+MNC-00002
+: 
+ NEW address : Estrada Nacional n.º 101, km 16
+ OLD address : Estrada Nacional n.<U+00BA> 101, km 16
+MNC-00002
+: 
+ NEW city : Monção
+ OLD city : Mon<U+00E7><U+00E3>o
+MNC-00003
+: 
+ NEW city : Monção
+ OLD city : Mon<U+00E7><U+00E3>o
+MNC-00004
+: 
+ NEW city : Monção
+ OLD city : Mon<U+00E7><U+00E3>o
+MNC-00005
+: 
+ NEW city : Monção
+ OLD city : Mon<U+00E7><U+00E3>o
+MNC-90001
+: 
+ NEW city : Monção
+ OLD city : Mon<U+00E7><U+00E3>o
+MOR-90001
+: 
+ NEW address : Rua da Misericórdia do Lar da Graça de Mora
+ OLD address : Rua da Miseric<U+00F3>rdia do Lar da Gra<U+00E7>a de Mora
+MOU-90001
+: 
+ NEW address : Praça da República 15-19
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica 15-19
+MOU-90001
+: 
+ NEW city : Mourão
+ OLD city : Mour<U+00E3>o
+MRA-00002
+: 
+ NEW address : Av. dos Bombeiros Voluntários de Moura
+ OLD address : Av. dos Bombeiros Volunt<U+00E1>rios de Moura
+MRA-90001
+: 
+ NEW address : Praça Sacadura Cabra
+ OLD address : Pra<U+00E7>a Sacadura Cabra
+MRS-90001
+: 
+ NEW address : Rua Urbanização da Acabada
+ OLD address : Rua Urbaniza<U+00E7><U+00E3>o da Acabada
+MRT-90001
+: 
+ NEW address : Rua Luís de Camões
+ OLD address : Rua Lu<U+00ED>s de Cam<U+00F5>es
+MRT-90001
+: 
+ NEW city : Mortágua
+ OLD city : Mort<U+00E1>gua
+MRV-90001
+: 
+ NEW city : Marvão
+ OLD city : Marv<U+00E3>o
+MSF-90001
+: 
+ NEW city : Mesão Frio
+ OLD city : Mes<U+00E3>o Frio
+MTA-00004
+: 
+ NEW address : R. António da Silveira 12
+ OLD address : R. Ant<U+00F3>nio da Silveira 12
+MTA-00005
+: 
+ NEW address : R. António da Silveira 12
+ OLD address : R. Ant<U+00F3>nio da Silveira 12
+MTG-00002
+: 
+ NEW address : Hotel Vila Galé Serra da Estrela
+ OLD address : Hotel Vila Gal<U+00E9> Serra da Estrela
+MTG-90001
+: 
+ NEW address : Rua 1.º de Maio
+ OLD address : Rua 1.<U+00BA> de Maio
+MTJ-00004
+: 
+ NEW address : R. José Joaquim Marques
+ OLD address : R. Jos<U+00E9> Joaquim Marques
+MTJ-00015
+: 
+ NEW address : A13 Km 16 Sublanço St. Estevão (S/N)
+ OLD address : A13 Km 16 Sublan<U+00E7>o St. Estev<U+00E3>o (S/N)
+MTJ-00016
+: 
+ NEW address : A13 Km 16 Sublanço St. Estevão (S/N)
+ OLD address : A13 Km 16 Sublan<U+00E7>o St. Estev<U+00E3>o (S/N)
+MTJ-00017
+: 
+ NEW address : A13 Km 16 Sublanço St. Estevão (N/S)
+ OLD address : A13 Km 16 Sublan<U+00E7>o St. Estev<U+00E3>o (N/S)
+MTJ-00020
+: 
+ NEW address : Avenida de Olivença, Corte das Cheias
+ OLD address : Avenida de Oliven<U+00E7>a, Corte das Cheias
+MTJ-00021
+: 
+ NEW address : Avenida de Olivença (Via Circular do Montijo)
+ OLD address : Avenida de Oliven<U+00E7>a (Via Circular do Montijo)
+MTL-90001
+: 
+ NEW city : Mértola
+ OLD city : M<U+00E9>rtola
+MTR-00007
+: 
+ NEW address : Largo Luis de Camões
+ OLD address : Largo Luis de Cam<U+00F5>es
+MTR-90004
+: 
+ NEW address : R. de Chães 12, 5470-370 Pitões das Junias
+ OLD address : R. de Ch<U+00E3>es 12, 5470-370 Pit<U+00F5>es das Junias
+MTS-00001
+: 
+ NEW address : Largo José Santos Leça
+ OLD address : Largo Jos<U+00E9> Santos Le<U+00E7>a
+MTS-00002
+: 
+ NEW address : Avenida Óscar Lopes
+ OLD address : Avenida <U+00D3>scar Lopes
+MTS-00005
+: 
+ NEW address : Avenida Óscar Lopes
+ OLD address : Avenida <U+00D3>scar Lopes
+MTS-00006
+: 
+ NEW address : Avenida Óscar Lopes
+ OLD address : Avenida <U+00D3>scar Lopes
+MTS-00014
+: 
+ NEW address : Av. Dr. Óscar Lopes
+ OLD address : Av. Dr. <U+00D3>scar Lopes
+MTS-00015
+: 
+ NEW address : Av. Dr. Óscar Lopes
+ OLD address : Av. Dr. <U+00D3>scar Lopes
+MTS-00031
+: 
+ NEW address : Estrada Ext. Da Circunvalação En 12 Km 0,7
+ OLD address : Estrada Ext. Da Circunvala<U+00E7><U+00E3>o En 12 Km 0,7
+MTS-00032
+: 
+ NEW address : Rua Mário Brito
+ OLD address : Rua M<U+00E1>rio Brito
+MTS-00036
+: 
+ NEW address : Avenida António Domingues dos Santos
+ OLD address : Avenida Ant<U+00F3>nio Domingues dos Santos
+MTS-00045
+: 
+ NEW address : Av. Dr. António Macedo, 196
+ OLD address : Av. Dr. Ant<U+00F3>nio Macedo, 196
+MTS-00046
+: 
+ NEW address : Rua Heróis de França 905
+ OLD address : Rua Her<U+00F3>is de Fran<U+00E7>a 905
+MUR-90001
+: 
+ NEW city : Murça
+ OLD city : Mur<U+00E7>a
+NLS-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+NZR-00002
+: 
+ NEW city : Nazaré
+ OLD city : Nazar<U+00E9>
+OAZ-00005
+: 
+ NEW city : Oliveira de Azeméis
+ OLD city : Oliveira de Azem<U+00E9>is
+OBD-00003
+: 
+ NEW city : Óbidos
+ OLD city : <U+00D3>bidos
+OBD-00006
+: 
+ NEW address : Parque Tecnológico de Óbidos
+ OLD address : Parque Tecnol<U+00F3>gico de <U+00D3>bidos
+OBD-00006
+: 
+ NEW city : Óbidos
+ OLD city : <U+00D3>bidos
+OBD-90005
+: 
+ NEW city : Óbidos
+ OLD city : <U+00D3>bidos
+ODV-00001
+: 
+ NEW address : Estrada da Paiã - Strada Outlet
+ OLD address : Estrada da Pai<U+00E3> - Strada Outlet
+ODV-00003
+: 
+ NEW address : Estrada da Paiã - Strada Outlet
+ OLD address : Estrada da Pai<U+00E3> - Strada Outlet
+ODV-00007
+: 
+ NEW address : Rua Júlio Borba
+ OLD address : Rua J<U+00FA>lio Borba
+ODV-00008
+: 
+ NEW address : Casal do Troca, Estrada da Paiã
+ OLD address : Casal do Troca, Estrada da Pai<U+00E3>
+ODV-00012
+: 
+ NEW address : Rua Almirante Gago Coutinho, Casal Sto André
+ OLD address : Rua Almirante Gago Coutinho, Casal Sto Andr<U+00E9>
+ODV-00014
+: 
+ NEW address : Av. Augusto Hilário 59
+ OLD address : Av. Augusto Hil<U+00E1>rio 59
+OER-00015
+: 
+ NEW address : Hotel Vila Galé-COLLECTION PALÁCIO DOS ARCOS
+ OLD address : Hotel Vila Gal<U+00E9>-COLLECTION PAL<U+00C1>CIO DOS ARCOS
+OER-00016
+: 
+ NEW address : Hotel Vila Galé-COLLECTION PALÁCIO DOS ARCOS
+ OLD address : Hotel Vila Gal<U+00E9>-COLLECTION PAL<U+00C1>CIO DOS ARCOS
+OER-00034
+: 
+ NEW address : Rua Comendador Álvaro Vilela
+ OLD address : Rua Comendador <U+00C1>lvaro Vilela
+OER-00035
+: 
+ NEW address : Avenida José Gomes Ferreira
+ OLD address : Avenida Jos<U+00E9> Gomes Ferreira
+OER-00036
+: 
+ NEW address : Estrada do Cacém
+ OLD address : Estrada do Cac<U+00E9>m
+OER-00038
+: 
+ NEW address : Alameda António Sérgio
+ OLD address : Alameda Ant<U+00F3>nio S<U+00E9>rgio
+OER-00040
+: 
+ NEW address : Estrada de Paço de Arcos
+ OLD address : Estrada de Pa<U+00E7>o de Arcos
+OER-00041
+: 
+ NEW address : Estrada de Paço de Arcos
+ OLD address : Estrada de Pa<U+00E7>o de Arcos
+OER-00042
+: 
+ NEW address : Estrada de Paço de Arcos
+ OLD address : Estrada de Pa<U+00E7>o de Arcos
+OER-00043
+: 
+ NEW address : Av. Dr. Mário Soares
+ OLD address : Av. Dr. M<U+00E1>rio Soares
+OER-00044
+: 
+ NEW address : Praça 25 Abril
+ OLD address : Pra<U+00E7>a 25 Abril
+OER-00045
+: 
+ NEW address : R. Eng. José Frederico Ulrich 37
+ OLD address : R. Eng. Jos<U+00E9> Frederico Ulrich 37
+OER-00046
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00047
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00048
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00049
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00050
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00051
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00052
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00053
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00054
+: 
+ NEW address : Rua dos Malhões, Edificio Q53
+ OLD address : Rua dos Malh<U+00F5>es, Edificio Q53
+OER-00063
+: 
+ NEW address : Rua Maria Eusébia Gonçalves
+ OLD address : Rua Maria Eus<U+00E9>bia Gon<U+00E7>alves
+OER-00067
+: 
+ NEW address : Estrada de Paço de Arcos
+ OLD address : Estrada de Pa<U+00E7>o de Arcos
+OER-00069
+: 
+ NEW address : Avenida Dr. António Loureiro Borges
+ OLD address : Avenida Dr. Ant<U+00F3>nio Loureiro Borges
+OER-00077
+: 
+ NEW address : Rua Fundição de Oeiras
+ OLD address : Rua Fundi<U+00E7><U+00E3>o de Oeiras
+OER-00081
+: 
+ NEW address : Rua João XXI
+ OLD address : Rua Jo<U+00E3>o XXI
+OER-00085
+: 
+ NEW address : Estrada de Paço de Arcos
+ OLD address : Estrada de Pa<U+00E7>o de Arcos
+OER-00086
+: 
+ NEW address : Rua Dr. José da Cunha
+ OLD address : Rua Dr. Jos<U+00E9> da Cunha
+OER-00087
+: 
+ NEW address : Avenida Dr. Francisco Sá Carneiro
+ OLD address : Avenida Dr. Francisco S<U+00E1> Carneiro
+OER-00095
+: 
+ NEW address : Av. António Bernardo Cabral de Macedo
+ OLD address : Av. Ant<U+00F3>nio Bernardo Cabral de Macedo
+OER-00096
+: 
+ NEW address : Av. António Bernardo Cabral de Macedo
+ OLD address : Av. Ant<U+00F3>nio Bernardo Cabral de Macedo
+OER-00099
+: 
+ NEW address : Rua Cesário Verde
+ OLD address : Rua Ces<U+00E1>rio Verde
+OER-00107
+: 
+ NEW address : Rua São Salvador da Baía
+ OLD address : Rua S<U+00E3>o Salvador da Ba<U+00ED>a
+OER-00110
+: 
+ NEW address : Alameda Fernão Lopes
+ OLD address : Alameda Fern<U+00E3>o Lopes
+OER-00113
+: 
+ NEW address : Jardim de Paço de Arcos
+ OLD address : Jardim de Pa<U+00E7>o de Arcos
+OER-00116
+: 
+ NEW address : Largo Marquês de Pombal
+ OLD address : Largo Marqu<U+00EA>s de Pombal
+OER-00118
+: 
+ NEW address : Rotunda acesso a Algés IC17 Miraflores/Algés
+ OLD address : Rotunda acesso a Alg<U+00E9>s IC17 Miraflores/Alg<U+00E9>s
+OER-00120
+: 
+ NEW address : Av. Dom Félix Níza Ribeiro
+ OLD address : Av. Dom F<U+00E9>lix N<U+00ED>za Ribeiro
+OER-90013
+: 
+ NEW address : Largo Marquês Pombal
+ OLD address : Largo Marqu<U+00EA>s Pombal
+OLH-00003
+: 
+ NEW address : Estrada Nacional Nº125
+ OLD address : Estrada Nacional N<U+00BA>125
+OLH-00003
+: 
+ NEW city : Olhão
+ OLD city : Olh<U+00E3>o
+OLH-90001
+: 
+ NEW address : Avenida D. João VI
+ OLD address : Avenida D. Jo<U+00E3>o VI
+OLH-90001
+: 
+ NEW city : Olhão
+ OLD city : Olh<U+00E3>o
+OLR-00001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+ORM-00002
+: 
+ NEW city : Ourém
+ OLD city : Our<U+00E9>m
+ORM-00003
+: 
+ NEW city : Ourém
+ OLD city : Our<U+00E9>m
+ORM-90001
+: 
+ NEW address : Rua António Leitão
+ OLD address : Rua Ant<U+00F3>nio Leit<U+00E3>o
+ORM-90001
+: 
+ NEW city : Ourém
+ OLD city : Our<U+00E9>m
+ORQ-00002
+: 
+ NEW address : Rua Padre António Pereira
+ OLD address : Rua Padre Ant<U+00F3>nio Pereira
+OVR-00003
+: 
+ NEW address : Av. 29 de Março
+ OLD address : Av. 29 de Mar<U+00E7>o
+OVR-00009
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada S<U+00E3>o Jo<U+00E3>o
+OVR-00010
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada S<U+00E3>o Jo<U+00E3>o
+OVR-00011
+: 
+ NEW address : R. Família Colares Pinto 1695
+ OLD address : R. Fam<U+00ED>lia Colares Pinto 1695
+PBL-00008
+: 
+ NEW address : Rua Travessa FE-EN9, Marriço
+ OLD address : Rua Travessa FE-EN9, Marri<U+00E7>o
+PBL-90003
+: 
+ NEW address : Avenida Heróis do Ultramar
+ OLD address : Avenida Her<U+00F3>is do Ultramar
+PCR-90001
+: 
+ NEW address : R. dos Heróis do Ultramar
+ OLD address : R. dos Her<U+00F3>is do Ultramar
+PDL-00002
+: 
+ NEW address : Circular de Ponta Delgada – Laranjeiras
+ OLD address : Circular de Ponta Delgada <U+2013> Laranjeiras
+PDL-00003
+: 
+ NEW address : Rua de São Joaquim
+ OLD address : Rua de S<U+00E3>o Joaquim
+PDL-00005
+: 
+ NEW address : Rua Eng.º Deodato de Magalhães
+ OLD address : Rua Eng.<U+00BA> Deodato de Magalh<U+00E3>es
+PFR-00002
+: 
+ NEW address : Rua António Matos
+ OLD address : Rua Ant<U+00F3>nio Matos
+PFR-00002
+: 
+ NEW city : Paços de Ferreira
+ OLD city : Pa<U+00E7>os de Ferreira
+PFR-90001
+: 
+ NEW address : Rua Dom José de Lencastre
+ OLD address : Rua Dom Jos<U+00E9> de Lencastre
+PFR-90001
+: 
+ NEW city : Paços de Ferreira
+ OLD city : Pa<U+00E7>os de Ferreira
+PGR-90001
+: 
+ NEW address : Av. Miguel Leitão de Andrada
+ OLD address : Av. Miguel Leit<U+00E3>o de Andrada
+PGR-90001
+: 
+ NEW city : Pedrógão Grande
+ OLD city : Pedr<U+00F3>g<U+00E3>o Grande
+PLM-00011
+: 
+ NEW address : Avenida António Velge, E.N. 252 - Km 15.460
+ OLD address : Avenida Ant<U+00F3>nio Velge, E.N. 252 - Km 15.460
+PMS-00002
+: 
+ NEW address : IC2 km 107,4 Chão da Feira
+ OLD address : IC2 km 107,4 Ch<U+00E3>o da Feira
+PMS-00002
+: 
+ NEW city : Porto de Mós
+ OLD city : Porto de M<U+00F3>s
+PMS-00003
+: 
+ NEW city : Porto de Mós
+ OLD city : Porto de M<U+00F3>s
+PMS-90001
+: 
+ NEW city : Porto de Mós
+ OLD city : Porto de M<U+00F3>s
+PMZ-00004
+: 
+ NEW address : Praça do Lyra
+ OLD address : Pra<U+00E7>a do Lyra
+PNF-00007
+: 
+ NEW address : Avenida Dr. Francisco Sá Carneiro Cruce
+ OLD address : Avenida Dr. Francisco S<U+00E1> Carneiro Cruce
+PNF-00008
+: 
+ NEW address : Avenida Dr. Francisco Sá Carneiro Cruce
+ OLD address : Avenida Dr. Francisco S<U+00E1> Carneiro Cruce
+PNF-00011
+: 
+ NEW address : Área de Serviço de Penafiel, A4, km 47,6
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Penafiel, A4, km 47,6
+PNF-00012
+: 
+ NEW address : Área de Serviço de Penafiel, A4, km 47,6
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Penafiel, A4, km 47,6
+PNF-00014
+: 
+ NEW address : Área de Serviço de Penafiel, A4, km 47,6
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Penafiel, A4, km 47,6
+PNF-00015
+: 
+ NEW address : Área de Serviço de Penafiel, A4, km 47,6
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de Penafiel, A4, km 47,6
+PNI-00001
+: 
+ NEW address : Santuário de Nossa Senhora dos Remédios
+ OLD address : Santu<U+00E1>rio de Nossa Senhora dos Rem<U+00E9>dios
+PNI-00001
+: 
+ NEW postal_code : 2520–641
+ OLD postal_code : 2520<U+2013>641
+PNL-90001
+: 
+ NEW address : Avenida Bombeiros Voluntários de Penela
+ OLD address : Avenida Bombeiros Volunt<U+00E1>rios de Penela
+PNV-90001
+: 
+ NEW city : Proença-a-Nova
+ OLD city : Proen<U+00E7>a-a-Nova
+PPS-90001
+: 
+ NEW address : Largo José Henriques da Cunha
+ OLD address : Largo Jos<U+00E9> Henriques da Cunha
+PRG-90001
+: 
+ NEW city : Peso da Régua
+ OLD city : Peso da R<U+00E9>gua
+PRS-90001
+: 
+ NEW address : Largo República
+ OLD address : Largo Rep<U+00FA>blica
+PRT-00001
+: 
+ NEW address : Avenida de França
+ OLD address : Avenida de Fran<U+00E7>a
+PRT-00013
+: 
+ NEW address : Avenida da França
+ OLD address : Avenida da Fran<U+00E7>a
+PRT-00014
+: 
+ NEW address : Praça Dr. Francisco Sá Carneiro
+ OLD address : Pra<U+00E7>a Dr. Francisco S<U+00E1> Carneiro
+PRT-00015
+: 
+ NEW address : Praça Dr. Francisco Sá Carneiro
+ OLD address : Pra<U+00E7>a Dr. Francisco S<U+00E1> Carneiro
+PRT-00019
+: 
+ NEW address : Av. Sidónio Pais
+ OLD address : Av. Sid<U+00F3>nio Pais
+PRT-00022
+: 
+ NEW address : Rua dos Campeões Europeus
+ OLD address : Rua dos Campe<U+00F5>es Europeus
+PRT-00024
+: 
+ NEW address : Rua Dr. António Bernardino de Almeida
+ OLD address : Rua Dr. Ant<U+00F3>nio Bernardino de Almeida
+PRT-00025
+: 
+ NEW address : Rua Dr. António Bernardino de Almeida
+ OLD address : Rua Dr. Ant<U+00F3>nio Bernardino de Almeida
+PRT-00031
+: 
+ NEW address : Hotel Vila Galé Porto
+ OLD address : Hotel Vila Gal<U+00E9> Porto
+PRT-00032
+: 
+ NEW address : Hotel Vila Galé Porto
+ OLD address : Hotel Vila Gal<U+00E9> Porto
+PRT-00033
+: 
+ NEW address : Hotel Vila Galé Porto Ribeira
+ OLD address : Hotel Vila Gal<U+00E9> Porto Ribeira
+PRT-00034
+: 
+ NEW address : Hotel Vila Galé Porto Ribeira
+ OLD address : Hotel Vila Gal<U+00E9> Porto Ribeira
+PRT-00040
+: 
+ NEW address : Praça de Mouzinho de Albuquerque
+ OLD address : Pra<U+00E7>a de Mouzinho de Albuquerque
+PRT-00041
+: 
+ NEW address : Praça de Mouzinho de Albuquerque
+ OLD address : Pra<U+00E7>a de Mouzinho de Albuquerque
+PRT-00043
+: 
+ NEW address : Praça de Lisboa
+ OLD address : Pra<U+00E7>a de Lisboa
+PRT-00044
+: 
+ NEW address : Praça de Lisboa
+ OLD address : Pra<U+00E7>a de Lisboa
+PRT-00045
+: 
+ NEW address : Praça de Lisboa
+ OLD address : Pra<U+00E7>a de Lisboa
+PRT-00047
+: 
+ NEW address : Rua da Constituição 666
+ OLD address : Rua da Constitui<U+00E7><U+00E3>o 666
+PRT-00048
+: 
+ NEW address : Rua da Constituição 666
+ OLD address : Rua da Constitui<U+00E7><U+00E3>o 666
+PRT-00051
+: 
+ NEW address : Estrada da Circunvalação 10853
+ OLD address : Estrada da Circunvala<U+00E7><U+00E3>o 10853
+PRT-00053
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00054
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00055
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00056
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00057
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00058
+: 
+ NEW address : Praça D. João I
+ OLD address : Pra<U+00E7>a D. Jo<U+00E3>o I
+PRT-00071
+: 
+ NEW address : Rua São Roque da Lameira
+ OLD address : Rua S<U+00E3>o Roque da Lameira
+PRT-00072
+: 
+ NEW address : Rua da Constituição
+ OLD address : Rua da Constitui<U+00E7><U+00E3>o
+PRT-00076
+: 
+ NEW address : Rua do Doutor José António Marques
+ OLD address : Rua do Doutor Jos<U+00E9> Ant<U+00F3>nio Marques
+PRT-00077
+: 
+ NEW address : Praça de Francisco Sá Carneiro
+ OLD address : Pra<U+00E7>a de Francisco S<U+00E1> Carneiro
+PRT-00078
+: 
+ NEW address : Praça de Francisco Sá Carneiro
+ OLD address : Pra<U+00E7>a de Francisco S<U+00E1> Carneiro
+PRT-00086
+: 
+ NEW address : Rua Ofélia Diogo da Costa
+ OLD address : Rua Of<U+00E9>lia Diogo da Costa
+PRT-00087
+: 
+ NEW address : Rua João Pedro Ribeiro
+ OLD address : Rua Jo<U+00E3>o Pedro Ribeiro
+PRT-00092
+: 
+ NEW address : Rua de Gonçalo Cristóvão
+ OLD address : Rua de Gon<U+00E7>alo Crist<U+00F3>v<U+00E3>o
+PRT-00093
+: 
+ NEW address : Rua de Gonçalo Cristóvão
+ OLD address : Rua de Gon<U+00E7>alo Crist<U+00F3>v<U+00E3>o
+PRT-00094
+: 
+ NEW address : Rua do Elísio e do Almada
+ OLD address : Rua do El<U+00ED>sio e do Almada
+PRT-00095
+: 
+ NEW address : Rua do Elísio e do Almada
+ OLD address : Rua do El<U+00ED>sio e do Almada
+PRT-00097
+: 
+ NEW address : Rua Conde da Covilhã
+ OLD address : Rua Conde da Covilh<U+00E3>
+PRT-00117
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+PRT-00118
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+PRT-00119
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+PRT-00120
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade Cat<U+00F3>lica Portuguesa
+PRT-00122
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : Pra<U+00E7>a do Bom Sucesso 123
+PRT-00123
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : Pra<U+00E7>a do Bom Sucesso 123
+PRT-00124
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : Pra<U+00E7>a do Bom Sucesso 123
+PRT-00132
+: 
+ NEW address : Avenida Fernão de Magalhães
+ OLD address : Avenida Fern<U+00E3>o de Magalh<U+00E3>es
+PRT-00139
+: 
+ NEW address : Alameda Basílio Teles, 29
+ OLD address : Alameda Bas<U+00ED>lio Teles, 29
+PRT-90080
+: 
+ NEW address : Rua António Bessa Leite
+ OLD address : Rua Ant<U+00F3>nio Bessa Leite
+PRT-90082
+: 
+ NEW address : Rua Duque de Loulé
+ OLD address : Rua Duque de Loul<U+00E9>
+PSR-00005
+: 
+ NEW address : Aeródromo Municipal de Ponte de Sor
+ OLD address : Aer<U+00F3>dromo Municipal de Ponte de Sor
+PSR-00005
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de S<U+00F4>r
+PSR-00006
+: 
+ NEW address : R. Olivença 10 - A
+ OLD address : R. Oliven<U+00E7>a 10 - A
+PSR-00006
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de S<U+00F4>r
+PSR-90001
+: 
+ NEW address : R. dos Bombeiros Voluntários
+ OLD address : R. dos Bombeiros Volunt<U+00E1>rios
+PST-00003
+: 
+ NEW address : Sítio do Espírito Santo
+ OLD address : S<U+00ED>tio do Esp<U+00ED>rito Santo
+PST-00004
+: 
+ NEW address : Sítio do Espírito Santo
+ OLD address : S<U+00ED>tio do Esp<U+00ED>rito Santo
+PTG-90002
+: 
+ NEW address : Rua de Olivença
+ OLD address : Rua de Oliven<U+00E7>a
+PTG-90003
+: 
+ NEW address : Praça da República
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica
+PTG-90004
+: 
+ NEW address : Rua Engenheiro Óscar Malcata
+ OLD address : Rua Engenheiro <U+00D3>scar Malcata
+PTL-00003
+: 
+ NEW address : Calçada dos Quarteis
+ OLD address : Cal<U+00E7>ada dos Quarteis
+PTL-00004
+: 
+ NEW address : Intermarché Ponte De Lima
+ OLD address : Intermarch<U+00E9> Ponte De Lima
+PTL-00006
+: 
+ NEW address : Refóios do Lima
+ OLD address : Ref<U+00F3>ios do Lima
+PTL-00011
+: 
+ NEW address : R. Salvato Feijó 17
+ OLD address : R. Salvato Feij<U+00F3> 17
+PTM-00003
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00004
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00005
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00006
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00007
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00009
+: 
+ NEW address : Leroy Merlin Portimão
+ OLD address : Leroy Merlin Portim<U+00E3>o
+PTM-00009
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00010
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00011
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00012
+: 
+ NEW address : Pestana D João II
+ OLD address : Pestana D Jo<U+00E3>o II
+PTM-00012
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00013
+: 
+ NEW address : Pestana D João II
+ OLD address : Pestana D Jo<U+00E3>o II
+PTM-00013
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00014
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00015
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00016
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00017
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00018
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua Fran<U+00E7>a Borges
+PTM-00018
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00019
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua Fran<U+00E7>a Borges
+PTM-00019
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00020
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua Fran<U+00E7>a Borges
+PTM-00020
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00021
+: 
+ NEW address : Vitor’s Plaza
+ OLD address : Vitor<U+2019>s Plaza
+PTM-00021
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00022
+: 
+ NEW address : Barranco do Rodrigo – V7
+ OLD address : Barranco do Rodrigo <U+2013> V7
+PTM-00022
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-00023
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-90001
+: 
+ NEW address : Rua António Feu
+ OLD address : Rua Ant<U+00F3>nio Feu
+PTM-90001
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTM-90008
+: 
+ NEW city : Portimão
+ OLD city : Portim<U+00E3>o
+PTS-00001
+: 
+ NEW address : Azinhaga do Poço Barral N 23
+ OLD address : Azinhaga do Po<U+00E7>o Barral N 23
+PVC-00001
+: 
+ NEW city : Povoação
+ OLD city : Povoa<U+00E7><U+00E3>o
+PVC-00003
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+PVC-00003
+: 
+ NEW city : Povoação
+ OLD city : Povoa<U+00E7><U+00E3>o
+PVL-00002
+: 
+ NEW address : Rua da Europa, Nº 1532
+ OLD address : Rua da Europa, N<U+00BA> 1532
+PVL-00002
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : P<U+00F3>voa de Lanhoso
+PVL-90001
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : P<U+00F3>voa de Lanhoso
+PVZ-00002
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00004
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : Pra<U+00E7>a Lu<U+00ED>s de Cam<U+00F5>es
+PVZ-00004
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00006
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00007
+: 
+ NEW address : Rua do Bocal da Gândara
+ OLD address : Rua do Bocal da G<U+00E2>ndara
+PVZ-00007
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00008
+: 
+ NEW address : Praça do Almada 34
+ OLD address : Pra<U+00E7>a do Almada 34
+PVZ-00008
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00009
+: 
+ NEW address : Praça do Almada 34
+ OLD address : Pra<U+00E7>a do Almada 34
+PVZ-00009
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00010
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00012
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00013
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento Pra<U+00E7>a do Almada
+PVZ-00013
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00014
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento Pra<U+00E7>a do Almada
+PVZ-00014
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00015
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento Pra<U+00E7>a do Almada
+PVZ-00015
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00016
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+PVZ-00017
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : P<U+00F3>voa de Varzim
+RAM-CML-00001
+: 
+ NEW city : Câmara de Lobos
+ OLD city : C<U+00E2>mara de Lobos
+RGR-00004
+: 
+ NEW address : Rua da Praça
+ OLD address : Rua da Pra<U+00E7>a
+RGR-00005
+: 
+ NEW address : Rua Areal St B arbara (Praia Santa Bárbara)
+ OLD address : Rua Areal St B arbara (Praia Santa B<U+00E1>rbara)
+RGR-00006
+: 
+ NEW address : Trav. Aresta (Passeio Atlântico)
+ OLD address : Trav. Aresta (Passeio Atl<U+00E2>ntico)
+RMR-00003
+: 
+ NEW address : Avenida Dr. Mário Soares
+ OLD address : Avenida Dr. M<U+00E1>rio Soares
+SAT-90001
+: 
+ NEW address : Rua Augusto Xavier de Sá
+ OLD address : Rua Augusto Xavier de S<U+00E1>
+SAT-90001
+: 
+ NEW city : Sátão
+ OLD city : S<U+00E1>t<U+00E3>o
+SBA-00003
+: 
+ NEW city : São Brás de Alportel
+ OLD city : S<U+00E3>o Br<U+00E1>s de Alportel
+SBA-00004
+: 
+ NEW city : São Brás de Alportel
+ OLD city : S<U+00E3>o Br<U+00E1>s de Alportel
+SBA-90001
+: 
+ NEW address : Praça da República
+ OLD address : Pra<U+00E7>a da Rep<U+00FA>blica
+SBA-90001
+: 
+ NEW city : São Brás de Alportel
+ OLD city : S<U+00E3>o Br<U+00E1>s de Alportel
+SBG-90001
+: 
+ NEW address : Rua Luís de Camões
+ OLD address : Rua Lu<U+00ED>s de Cam<U+00F5>es
+SBR-90001
+: 
+ NEW address : Rua Sebastián Elcano
+ OLD address : Rua Sebasti<U+00E1>n Elcano
+SCD-00002
+: 
+ NEW address : Avenida Santo Estevão
+ OLD address : Avenida Santo Estev<U+00E3>o
+SCD-00002
+: 
+ NEW city : Santa Comba Dão
+ OLD city : Santa Comba D<U+00E3>o
+SCD-00003
+: 
+ NEW city : Santa Comba Dão
+ OLD city : Santa Comba D<U+00E3>o
+SCD-90001
+: 
+ NEW city : Santa Comba Dão
+ OLD city : Santa Comba D<U+00E3>o
+SCF-00001
+: 
+ NEW address : Rua Senador André de Freitas
+ OLD address : Rua Senador Andr<U+00E9> de Freitas
+SCG-00003
+: 
+ NEW address : Rua Dr. Manuel Gregório Jr.
+ OLD address : Rua Dr. Manuel Greg<U+00F3>rio Jr.
+SCR-00001
+: 
+ NEW address : Caniço Shopping Piso -1
+ OLD address : Cani<U+00E7>o Shopping Piso -1
+SCR-00010
+: 
+ NEW address : Hotel Vila Galé Santa Cruz
+ OLD address : Hotel Vila Gal<U+00E9> Santa Cruz
+SCR-00011
+: 
+ NEW address : Rua João Paulo II
+ OLD address : Rua Jo<U+00E3>o Paulo II
+SEI-00002
+: 
+ NEW address : Rua Dr. José António Fernandes Camelo
+ OLD address : Rua Dr. Jos<U+00E9> Ant<U+00F3>nio Fernandes Camelo
+SJM-00003
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00004
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00005
+: 
+ NEW address : Avenida Dr. Renato Araújo
+ OLD address : Avenida Dr. Renato Ara<U+00FA>jo
+SJM-00005
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00006
+: 
+ NEW address : Avenida Dr. Renato Araújo
+ OLD address : Avenida Dr. Renato Ara<U+00FA>jo
+SJM-00006
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00007
+: 
+ NEW address : Avenida Dr. Renato Araújo
+ OLD address : Avenida Dr. Renato Ara<U+00FA>jo
+SJM-00007
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00008
+: 
+ NEW address : Avenida Doutor Renato Araújo
+ OLD address : Avenida Doutor Renato Ara<U+00FA>jo
+SJM-00008
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00009
+: 
+ NEW address : Av. Dr. Renato Araújo, Lote 10
+ OLD address : Av. Dr. Renato Ara<U+00FA>jo, Lote 10
+SJM-00009
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-00010
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-90001
+: 
+ NEW address : Av. Benjamim Araújo
+ OLD address : Av. Benjamim Ara<U+00FA>jo
+SJM-90001
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJM-90002
+: 
+ NEW address : Avenida Dr. Renato Araújo
+ OLD address : Avenida Dr. Renato Ara<U+00FA>jo
+SJM-90002
+: 
+ NEW city : São João da Madeira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Madeira
+SJP-90001
+: 
+ NEW city : São João da Pesqueira
+ OLD city : S<U+00E3>o Jo<U+00E3>o da Pesqueira
+SLV-00006
+: 
+ NEW address : Via Dorsal de Armação de Pêra
+ OLD address : Via Dorsal de Arma<U+00E7><U+00E3>o de P<U+00EA>ra
+SLV-00007
+: 
+ NEW address : Rua João de Deus
+ OLD address : Rua Jo<U+00E3>o de Deus
+SMA-90001
+: 
+ NEW address : Rua Francisco Lázaro
+ OLD address : Rua Francisco L<U+00E1>zaro
+SMA-90001
+: 
+ NEW city : Sobral de Monte Agraço
+ OLD city : Sobral de Monte Agra<U+00E7>o
+SMG-00002
+: 
+ NEW address : A13 Km 60.4 Sublanço Almeirim (S/N)
+ OLD address : A13 Km 60.4 Sublan<U+00E7>o Almeirim (S/N)
+SMG-00003
+: 
+ NEW address : A13 Km 60.4 Sublanço Almeirim (S/N)
+ OLD address : A13 Km 60.4 Sublan<U+00E7>o Almeirim (S/N)
+SMP-90001
+: 
+ NEW city : Santa Marta de Penaguião
+ OLD city : Santa Marta de Penagui<U+00E3>o
+SNT-00017
+: 
+ NEW address : Hotel Vila Galé Sintra
+ OLD address : Hotel Vila Gal<U+00E9> Sintra
+SNT-00018
+: 
+ NEW address : Hotel Vila Galé Sintra
+ OLD address : Hotel Vila Gal<U+00E9> Sintra
+SNT-00047
+: 
+ NEW address : Rua da Bela Vista – Alto da Bela Vista
+ OLD address : Rua da Bela Vista <U+2013> Alto da Bela Vista
+SNT-00051
+: 
+ NEW address : A16, km 9,5, Lanço Lourel/Ranholas – IC 16
+ OLD address : A16, km 9,5, Lan<U+00E7>o Lourel/Ranholas <U+2013> IC 16
+SNT-00071
+: 
+ NEW address : Avenida José Régio, Nº 11
+ OLD address : Avenida Jos<U+00E9> R<U+00E9>gio, N<U+00BA> 11
+SNT-90005
+: 
+ NEW address : Rua Câmara Pestana
+ OLD address : Rua C<U+00E2>mara Pestana
+SNT-90021
+: 
+ NEW address : Largo do Palácio
+ OLD address : Largo do Pal<U+00E1>cio
+SPS-00002
+: 
+ NEW city : São Pedro do Sul
+ OLD city : S<U+00E3>o Pedro do Sul
+SPS-00003
+: 
+ NEW city : São Pedro do Sul
+ OLD city : S<U+00E3>o Pedro do Sul
+SRD-90001
+: 
+ NEW address : Avenida Heróis do Ultramar
+ OLD address : Avenida Her<U+00F3>is do Ultramar
+SRE-90002
+: 
+ NEW address : Av. Dr. João Esteves Simões
+ OLD address : Av. Dr. Jo<U+00E3>o Esteves Sim<U+00F5>es
+SRN-90001
+: 
+ NEW address : Rua do Colégio
+ OLD address : Rua do Col<U+00E9>gio
+SRP-00002
+: 
+ NEW address : Sítio da Hortinha
+ OLD address : S<U+00ED>tio da Hortinha
+SRQ-00001
+: 
+ NEW city : São Roque do Pico
+ OLD city : S<U+00E3>o Roque do Pico
+SRT-00003
+: 
+ NEW city : Sertã
+ OLD city : Sert<U+00E3>
+SRT-00004
+: 
+ NEW city : Sertã
+ OLD city : Sert<U+00E3>
+SRT-90002
+: 
+ NEW city : Sertã
+ OLD city : Sert<U+00E3>
+SSB-00003
+: 
+ NEW address : Avenida Sérgio Vieira de Mello
+ OLD address : Avenida S<U+00E9>rgio Vieira de Mello
+SSB-00004
+: 
+ NEW address : Avenida Sérgio Vieira de Mello
+ OLD address : Avenida S<U+00E9>rgio Vieira de Mello
+SSL-90001
+: 
+ NEW address : Estrada da Circunvalação N372
+ OLD address : Estrada da Circunvala<U+00E7><U+00E3>o N372
+STB-00013
+: 
+ NEW address : Av. António Xavier de Lima
+ OLD address : Av. Ant<U+00F3>nio Xavier de Lima
+STB-00013
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00014
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00015
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00016
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00019
+: 
+ NEW address : Rua Luísa Tody
+ OLD address : Rua Lu<U+00ED>sa Tody
+STB-00019
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00020
+: 
+ NEW address : Hospital da Luz Setúbal, EN 10, km 37,
+ OLD address : Hospital da Luz Set<U+00FA>bal, EN 10, km 37,
+STB-00020
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00021
+: 
+ NEW address : Hospital da Luz Setúbal, EN 10, km 37,
+ OLD address : Hospital da Luz Set<U+00FA>bal, EN 10, km 37,
+STB-00021
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-00024
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90001
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90002
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90003
+: 
+ NEW address : Rua 1º de Agosto
+ OLD address : Rua 1<U+00BA> de Agosto
+STB-90003
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90004
+: 
+ NEW address : Estrada de Santo Ovídio
+ OLD address : Estrada de Santo Ov<U+00ED>dio
+STB-90004
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90005
+: 
+ NEW address : Avenida Luísa Todi
+ OLD address : Avenida Lu<U+00ED>sa Todi
+STB-90005
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90006
+: 
+ NEW address : Avenida Luísa Todi
+ OLD address : Avenida Lu<U+00ED>sa Todi
+STB-90006
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90008
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90009
+: 
+ NEW address : Praça do Brasil
+ OLD address : Pra<U+00E7>a do Brasil
+STB-90009
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90010
+: 
+ NEW address : Avenida Dom João II
+ OLD address : Avenida Dom Jo<U+00E3>o II
+STB-90010
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90011
+: 
+ NEW address : Avenida Doutor António Rodrigues Manito
+ OLD address : Avenida Doutor Ant<U+00F3>nio Rodrigues Manito
+STB-90011
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STB-90012
+: 
+ NEW city : Setúbal
+ OLD city : Set<U+00FA>bal
+STC-00002
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do Cac<U+00E9>m
+STC-00003
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do Cac<U+00E9>m
+STC-00004
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do Cac<U+00E9>m
+STC-00005
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do Cac<U+00E9>m
+STC-90001
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do Cac<U+00E9>m
+STN-00002
+: 
+ NEW address : Estrada da Quinta do Furão
+ OLD address : Estrada da Quinta do Fur<U+00E3>o
+STN-00003
+: 
+ NEW address : Sítio do Serrado
+ OLD address : S<U+00ED>tio do Serrado
+STR-00014
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00015
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00016
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00017
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00018
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00019
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00021
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00022
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00024
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00025
+: 
+ NEW address : E.N. 114 - Rua do Ó
+ OLD address : E.N. 114 - Rua do <U+00D3>
+STR-00025
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-00026
+: 
+ NEW address : Complexo Aquático Muni. Santarém, Jardim Cima
+ OLD address : Complexo Aqu<U+00E1>tico Muni. Santar<U+00E9>m, Jardim Cima
+STR-00026
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90001
+: 
+ NEW address : Praça do Município
+ OLD address : Pra<U+00E7>a do Munic<U+00ED>pio
+STR-90001
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90002
+: 
+ NEW address : Praça Visconde Serra do Pilar
+ OLD address : Pra<U+00E7>a Visconde Serra do Pilar
+STR-90002
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90004
+: 
+ NEW address : Avenida Grupo Forcados Amadores de Santarém
+ OLD address : Avenida Grupo Forcados Amadores de Santar<U+00E9>m
+STR-90004
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90005
+: 
+ NEW address : Rua Doutor Vírgilio Arruda
+ OLD address : Rua Doutor V<U+00ED>rgilio Arruda
+STR-90005
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90006
+: 
+ NEW address : Avenida Nossa Senhora de Fátima
+ OLD address : Avenida Nossa Senhora de F<U+00E1>tima
+STR-90006
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90007
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90008
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STR-90009
+: 
+ NEW city : Santarém
+ OLD city : Santar<U+00E9>m
+STS-00003
+: 
+ NEW address : Praça 25 de Abril
+ OLD address : Pra<U+00E7>a 25 de Abril
+STS-00004
+: 
+ NEW address : Rua das Rãs
+ OLD address : Rua das R<U+00E3>s
+STS-00005
+: 
+ NEW address : Rua das Rãs
+ OLD address : Rua das R<U+00E3>s
+STS-00006
+: 
+ NEW address : Rua das Rãs
+ OLD address : Rua das R<U+00E3>s
+STS-00007
+: 
+ NEW address : Rua Comendador António Maria Lopes
+ OLD address : Rua Comendador Ant<U+00F3>nio Maria Lopes
+STS-00008
+: 
+ NEW address : Rua Comendador António Maria Lopes
+ OLD address : Rua Comendador Ant<U+00F3>nio Maria Lopes
+STS-00010
+: 
+ NEW address : Avenida Indústria Têxtil, Lugar da Ponte
+ OLD address : Avenida Ind<U+00FA>stria T<U+00EA>xtil, Lugar da Ponte
+STS-00012
+: 
+ NEW address : R. Bernardino Alves Barbosa Santarém 182
+ OLD address : R. Bernardino Alves Barbosa Santar<U+00E9>m 182
+STS-90001
+: 
+ NEW address : Travessa das Rãs
+ OLD address : Travessa das R<U+00E3>s
+SVC-00001
+: 
+ NEW city : São Vicente
+ OLD city : S<U+00E3>o Vicente
+SVC-00002
+: 
+ NEW city : São Vicente
+ OLD city : S<U+00E3>o Vicente
+SXL-00005
+: 
+ NEW address : Avenida dos Resistentes Antifascistas, Nº60
+ OLD address : Avenida dos Resistentes Antifascistas, N<U+00BA>60
+SXL-00006
+: 
+ NEW address : Av. 1º Maio - Estrada Nacional 10 Km 10.7
+ OLD address : Av. 1<U+00BA> Maio - Estrada Nacional 10 Km 10.7
+SXL-00007
+: 
+ NEW address : Praça 1º de Maio
+ OLD address : Pra<U+00E7>a 1<U+00BA> de Maio
+SXL-00008
+: 
+ NEW address : Largo Manuel António da Costa
+ OLD address : Largo Manuel Ant<U+00F3>nio da Costa
+SXL-00011
+: 
+ NEW address : Rua da República
+ OLD address : Rua da Rep<U+00FA>blica
+TBC-00001
+: 
+ NEW city : Tabuaço
+ OLD city : Tabua<U+00E7>o
+TBC-90002
+: 
+ NEW city : Tabuaço
+ OLD city : Tabua<U+00E7>o
+TBR-00002
+: 
+ NEW address : Pousada da Caniçada
+ OLD address : Pousada da Cani<U+00E7>ada
+TBR-00003
+: 
+ NEW address : Pousada da Caniçada
+ OLD address : Pousada da Cani<U+00E7>ada
+TBU-00003
+: 
+ NEW city : Tábua
+ OLD city : T<U+00E1>bua
+TBU-90002
+: 
+ NEW address : Rua Indústria
+ OLD address : Rua Ind<U+00FA>stria
+TBU-90002
+: 
+ NEW city : Tábua
+ OLD city : T<U+00E1>bua
+TCS-90001
+: 
+ NEW address : Avenida 1° de Dezembro
+ OLD address : Avenida 1<U+00B0> de Dezembro
+TMC-90001
+: 
+ NEW address : Rua Afonso Praça
+ OLD address : Rua Afonso Pra<U+00E7>a
+TMR-00002
+: 
+ NEW address : Hotel Templários
+ OLD address : Hotel Templ<U+00E1>rios
+TMR-00003
+: 
+ NEW address : Rua Dr. José Maria de Sousa
+ OLD address : Rua Dr. Jos<U+00E9> Maria de Sousa
+TMR-00004
+: 
+ NEW address : Rua Fábrica de Fiação
+ OLD address : Rua F<U+00E1>brica de Fia<U+00E7><U+00E3>o
+TMR-00010
+: 
+ NEW address : Rua Coronel Garcês Teixeira 49
+ OLD address : Rua Coronel Garc<U+00EA>s Teixeira 49
+TMR-90001
+: 
+ NEW address : Alameda Um de Março
+ OLD address : Alameda Um de Mar<U+00E7>o
+TND-90004
+: 
+ NEW address : Rua Cmte. João Matos Ferreira
+ OLD address : Rua Cmte. Jo<U+00E3>o Matos Ferreira
+TNV-00007
+: 
+ NEW address : Nó A1/A23 - Lameira Grande - Zona Industrial
+ OLD address : N<U+00F3> A1/A23 - Lameira Grande - Zona Industrial
+TNV-00008
+: 
+ NEW address : Nó A1/A23 - Lameira Grande - Zona Industrial
+ OLD address : N<U+00F3> A1/A23 - Lameira Grande - Zona Industrial
+TNV-90002
+: 
+ NEW address : Av. Dr. João Martins de Azevedo 
+ OLD address : Av. Dr. Jo<U+00E3>o Martins de Azevedo 
+TRF-00010
+: 
+ NEW address : Rua António Adão
+ OLD address : Rua Ant<U+00F3>nio Ad<U+00E3>o
+TVD-00003
+: 
+ NEW address : Rua Francisco Sá Carneiro
+ OLD address : Rua Francisco S<U+00E1> Carneiro
+TVD-00013
+: 
+ NEW address : R. António Gomes
+ OLD address : R. Ant<U+00F3>nio Gomes
+TVD-00015
+: 
+ NEW address : R. Leonel Trindade Nº14
+ OLD address : R. Leonel Trindade N<U+00BA>14
+TVD-00019
+: 
+ NEW address : Urbanização da Conquinha
+ OLD address : Urbaniza<U+00E7><U+00E3>o da Conquinha
+TVD-00022
+: 
+ NEW address : Rua António Augusto Cabral N17
+ OLD address : Rua Ant<U+00F3>nio Augusto Cabral N17
+TVD-00023
+: 
+ NEW address : Rua João Carlos Júnior, 5
+ OLD address : Rua Jo<U+00E3>o Carlos J<U+00FA>nior, 5
+TVD-90005
+: 
+ NEW address : Rua São Gonçalo de Lagos
+ OLD address : Rua S<U+00E3>o Gon<U+00E7>alo de Lagos
+TVR-00001
+: 
+ NEW address : Rua da Comunidade Lusíada (Rua Poço do Bispo)
+ OLD address : Rua da Comunidade Lus<U+00ED>ada (Rua Po<U+00E7>o do Bispo)
+TVR-00006
+: 
+ NEW address : Hotel Vila Galé - Albacora
+ OLD address : Hotel Vila Gal<U+00E9> - Albacora
+TVR-00007
+: 
+ NEW address : Hotel Vila Galé - Albacora
+ OLD address : Hotel Vila Gal<U+00E9> - Albacora
+TVR-00008
+: 
+ NEW address : Hotel Vila Galé Tavira
+ OLD address : Hotel Vila Gal<U+00E9> Tavira
+TVR-00009
+: 
+ NEW address : Hotel Vila Galé Tavira
+ OLD address : Hotel Vila Gal<U+00E9> Tavira
+TVR-00010
+: 
+ NEW address : Rua Almirante Cândido dos Reis, 247
+ OLD address : Rua Almirante C<U+00E2>ndido dos Reis, 247
+TVR-00011
+: 
+ NEW address : Largo de Santo Amaro Armazém Quimigal
+ OLD address : Largo de Santo Amaro Armaz<U+00E9>m Quimigal
+TVR-00013
+: 
+ NEW address : Rua Almirante Cândido dos Reis
+ OLD address : Rua Almirante C<U+00E2>ndido dos Reis
+VCD-00007
+: 
+ NEW address : Avenida Júlio Graça
+ OLD address : Avenida J<U+00FA>lio Gra<U+00E7>a
+VCD-90004
+: 
+ NEW address : Avenida Júlio Graça 403
+ OLD address : Avenida J<U+00FA>lio Gra<U+00E7>a 403
+VCT-00011
+: 
+ NEW address : Av. Capitão Gaspar Castro
+ OLD address : Av. Capit<U+00E3>o Gaspar Castro
+VCT-00014
+: 
+ NEW address : Rua Arriscado Queirós
+ OLD address : Rua Arriscado Queir<U+00F3>s
+VCT-00016
+: 
+ NEW address : Avenida 1º de Maio
+ OLD address : Avenida 1<U+00BA> de Maio
+VCT-00018
+: 
+ NEW address : Avenida do Atlântico
+ OLD address : Avenida do Atl<U+00E2>ntico
+VCT-00021
+: 
+ NEW address : Alameda António Alves Cunha
+ OLD address : Alameda Ant<U+00F3>nio Alves Cunha
+VCT-00026
+: 
+ NEW address : Escola Superior de Educação (ESE-IPVC)
+ OLD address : Escola Superior de Educa<U+00E7><U+00E3>o (ESE-IPVC)
+VCT-00027
+: 
+ NEW address : Avenida Capitão Gaspar de Castro
+ OLD address : Avenida Capit<U+00E3>o Gaspar de Castro
+VCT-90003
+: 
+ NEW address : Avenida do Atlântico
+ OLD address : Avenida do Atl<U+00E2>ntico
+VCT-90004
+: 
+ NEW address : Largo Cidade da Baía
+ OLD address : Largo Cidade da Ba<U+00ED>a
+VCT-90006
+: 
+ NEW address : Rua Diogo Cão
+ OLD address : Rua Diogo C<U+00E3>o
+VCT-90008
+: 
+ NEW address : Largo da Estação
+ OLD address : Largo da Esta<U+00E7><U+00E3>o
+VFC-00001
+: 
+ NEW address : Rua Teófilo Braga
+ OLD address : Rua Te<U+00F3>filo Braga
+VFR-00006
+: 
+ NEW address : Rua Vale de Santo André
+ OLD address : Rua Vale de Santo Andr<U+00E9>
+VFR-00007
+: 
+ NEW address : Rua Estr. Nacional Nº1
+ OLD address : Rua Estr. Nacional N<U+00BA>1
+VFR-00011
+: 
+ NEW address : Rua do Calvário
+ OLD address : Rua do Calv<U+00E1>rio
+VFX-00013
+: 
+ NEW address : Caminho Municipal 1237, Nº 2
+ OLD address : Caminho Municipal 1237, N<U+00BA> 2
+VFX-00025
+: 
+ NEW address : Rua Vasco da Gama, Nº 1
+ OLD address : Rua Vasco da Gama, N<U+00BA> 1
+VFX-00029
+: 
+ NEW address : Av das Nações Unidas 24
+ OLD address : Av das Na<U+00E7><U+00F5>es Unidas 24
+VFX-90001
+: 
+ NEW address : Praceta da Justiça
+ OLD address : Praceta da Justi<U+00E7>a
+VGS-00003
+: 
+ NEW address : Avenida Dr. Lúcio Vidal
+ OLD address : Avenida Dr. L<U+00FA>cio Vidal
+VGS-00004
+: 
+ NEW address : Rua Cândido dos Reis
+ OLD address : Rua C<U+00E2>ndido dos Reis
+VIS-00011
+: 
+ NEW address : Rua António Augusto Ferreira
+ OLD address : Rua Ant<U+00F3>nio Augusto Ferreira
+VIS-00012
+: 
+ NEW address : Avenida da Bélgica
+ OLD address : Avenida da B<U+00E9>lgica
+VIS-00013
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. Jos<U+00E9> da Cruz Moreira Pinto, 32
+VIS-00014
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. Jos<U+00E9> da Cruz Moreira Pinto, 32
+VIS-00015
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. Jos<U+00E9> da Cruz Moreira Pinto, 32
+VIS-00016
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. Jos<U+00E9> da Cruz Moreira Pinto, 32
+VIS-00056
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto
+ OLD address : Rua D. Jos<U+00E9> da Cruz Moreira Pinto
+VIZ-00003
+: 
+ NEW address : Lugar do Poço Quente
+ OLD address : Lugar do Po<U+00E7>o Quente
+VIZ-00004
+: 
+ NEW address : Ruela Ribeira, Santa Eulália
+ OLD address : Ruela Ribeira, Santa Eul<U+00E1>lia
+VLC-00003
+: 
+ NEW address : R. Dr. Domingos de Almeida Brandão
+ OLD address : R. Dr. Domingos de Almeida Brand<U+00E3>o
+VLF-90001
+: 
+ NEW city : Vila Nova de Foz Côa
+ OLD city : Vila Nova de Foz C<U+00F4>a
+VLG-00002
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. Trist<U+00E3>o Vaz Teixeira 260
+VLG-00003
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. Trist<U+00E3>o Vaz Teixeira 260
+VLG-00006
+: 
+ NEW address : Rua José Joaquim Ribeiro Teles
+ OLD address : Rua Jos<U+00E9> Joaquim Ribeiro Teles
+VLG-00007
+: 
+ NEW address : Rua José Joaquim Ribeiro Teles
+ OLD address : Rua Jos<U+00E9> Joaquim Ribeiro Teles
+VLG-00009
+: 
+ NEW address : Travessa António Augusto Castro Paupério
+ OLD address : Travessa Ant<U+00F3>nio Augusto Castro Paup<U+00E9>rio
+VLG-00011
+: 
+ NEW address : Av. José Joaquim Ribeiro Teles 280
+ OLD address : Av. Jos<U+00E9> Joaquim Ribeiro Teles 280
+VLG-00012
+: 
+ NEW address : Rua do Borbulhão
+ OLD address : Rua do Borbulh<U+00E3>o
+VLG-00015
+: 
+ NEW address : Lugar Campo Barreiro, Susão, R. Dom Pedro IV
+ OLD address : Lugar Campo Barreiro, Sus<U+00E3>o, R. Dom Pedro IV
+VLG-90001
+: 
+ NEW address : R. Emídio Navarro
+ OLD address : R. Em<U+00ED>dio Navarro
+VLN-00001
+: 
+ NEW address : Avenida do Colégio Português 
+ OLD address : Avenida do Col<U+00E9>gio Portugu<U+00EA>s 
+VLN-00001
+: 
+ NEW city : Valença
+ OLD city : Valen<U+00E7>a
+VLN-00003
+: 
+ NEW city : Valença
+ OLD city : Valen<U+00E7>a
+VLN-00004
+: 
+ NEW city : Valença
+ OLD city : Valen<U+00E7>a
+VLN-00005
+: 
+ NEW city : Valença
+ OLD city : Valen<U+00E7>a
+VLP-90002
+: 
+ NEW address : R. Misericórdia
+ OLD address : R. Miseric<U+00F3>rdia
+VLP-90002
+: 
+ NEW city : Valpaços
+ OLD city : Valpa<U+00E7>os
+VLS-00001
+: 
+ NEW address : Parque Industrial da Queimada – Velas
+ OLD address : Parque Industrial da Queimada <U+2013> Velas
+VMS-90001
+: 
+ NEW address : Largo de São Sebastião
+ OLD address : Largo de S<U+00E3>o Sebasti<U+00E3>o
+VND-00003
+: 
+ NEW address : Rua do Polígono
+ OLD address : Rua do Pol<U+00ED>gono
+VND-00005
+: 
+ NEW address : Rua São João de Deus nº 2
+ OLD address : Rua S<U+00E3>o Jo<U+00E3>o de Deus n<U+00BA> 2
+VND-90004
+: 
+ NEW address : Rua da Escola Prática de Artilharia
+ OLD address : Rua da Escola Pr<U+00E1>tica de Artilharia
+VNF-00003
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00004
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00008
+: 
+ NEW address : Rua Luís Barroso
+ OLD address : Rua Lu<U+00ED>s Barroso
+VNF-00008
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00009
+: 
+ NEW address : Rua Luís Barroso
+ OLD address : Rua Lu<U+00ED>s Barroso
+VNF-00009
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00010
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00013
+: 
+ NEW address : Rua Álvaro de Castelões
+ OLD address : Rua <U+00C1>lvaro de Castel<U+00F5>es
+VNF-00013
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00014
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00015
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00016
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00017
+: 
+ NEW address : Rua São João de Deus
+ OLD address : Rua S<U+00E3>o Jo<U+00E3>o de Deus
+VNF-00017
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00018
+: 
+ NEW address : Avenida de França
+ OLD address : Avenida de Fran<U+00E7>a
+VNF-00018
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00019
+: 
+ NEW address : Estrada Nacional n.º 14
+ OLD address : Estrada Nacional n.<U+00BA> 14
+VNF-00019
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-00020
+: 
+ NEW address : Rua António Ferreira Magalhães
+ OLD address : Rua Ant<U+00F3>nio Ferreira Magalh<U+00E3>es
+VNF-00020
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNF-90007
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de Famalic<U+00E3>o
+VNG-00025
+: 
+ NEW address : Arrábida Shopping - Vila Nova de Gaia
+ OLD address : Arr<U+00E1>bida Shopping - Vila Nova de Gaia
+VNG-00026
+: 
+ NEW address : Arrábida Shopping - Vila Nova de Gaia
+ OLD address : Arr<U+00E1>bida Shopping - Vila Nova de Gaia
+VNG-00041
+: 
+ NEW address : Rua Rocha Leão
+ OLD address : Rua Rocha Le<U+00E3>o
+VNG-00042
+: 
+ NEW address : Rua Rocha Leão
+ OLD address : Rua Rocha Le<U+00E3>o
+VNG-00043
+: 
+ NEW address : Avenida Poeta Eugénio de Andrade
+ OLD address : Avenida Poeta Eug<U+00E9>nio de Andrade
+VNG-00044
+: 
+ NEW address : Avenida João Paulo II
+ OLD address : Avenida Jo<U+00E3>o Paulo II
+VNG-00045
+: 
+ NEW address : Rua Rio do Paço
+ OLD address : Rua Rio do Pa<U+00E7>o
+VNG-00046
+: 
+ NEW address : Rua Heróis da Pátria
+ OLD address : Rua Her<U+00F3>is da P<U+00E1>tria
+VNG-00051
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua <U+00C1>lvares Cabral
+VNG-00052
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua <U+00C1>lvares Cabral
+VNG-00053
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua <U+00C1>lvares Cabral
+VNG-00060
+: 
+ NEW address : Rua da Bélgica
+ OLD address : Rua da B<U+00E9>lgica
+VNG-00062
+: 
+ NEW address : Rua Doutor Francisco Sá Carneiro
+ OLD address : Rua Doutor Francisco S<U+00E1> Carneiro
+VNG-00065
+: 
+ NEW address : Rua General Humberto Delgado, nº9899
+ OLD address : Rua General Humberto Delgado, n<U+00BA>9899
+VNG-00068
+: 
+ NEW address : McDonald´s - Gaia
+ OLD address : McDonald<U+00B4>s - Gaia
+VNG-00072
+: 
+ NEW address : Área de Serviço de V. N. de Gaia, A1 km 295,7
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de V. N. de Gaia, A1 km 295,7
+VNG-00073
+: 
+ NEW address : Área de Serviço de V. N. de Gaia, A1 km 295,7
+ OLD address : <U+00C1>rea de Servi<U+00E7>o de V. N. de Gaia, A1 km 295,7
+VNG-90001
+: 
+ NEW address : Rua das Camélias
+ OLD address : Rua das Cam<U+00E9>lias
+VNG-90003
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Rep<U+00FA>blica
+VNG-90005
+: 
+ NEW address : Rua Barão Corvo 
+ OLD address : Rua Bar<U+00E3>o Corvo 
+VNG-90007
+: 
+ NEW address : Rua dos Mourões
+ OLD address : Rua dos Mour<U+00F5>es
+VNG-90009
+: 
+ NEW address : Rua São Cristóvão Mafamude
+ OLD address : Rua S<U+00E3>o Crist<U+00F3>v<U+00E3>o Mafamude
+VPT-00001
+: 
+ NEW address : ER N 1 – 2 Pedras S. Pedro
+ OLD address : ER N 1 <U+2013> 2 Pedras S. Pedro
+VPT-00003
+: 
+ NEW address : Rua Dr. Luís Bettencourt
+ OLD address : Rua Dr. Lu<U+00ED>s Bettencourt
+VPV-00001
+: 
+ NEW address : Via Vitorino Nemésio km 17,75
+ OLD address : Via Vitorino Nem<U+00E9>sio km 17,75
+VPV-00001
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da Vit<U+00F3>ria
+VPV-00002
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da Vit<U+00F3>ria
+VRL-00007
+: 
+ NEW address : Rua Dom António Valente da Fonseca
+ OLD address : Rua Dom Ant<U+00F3>nio Valente da Fonseca
+VRL-00011
+: 
+ NEW address : Zona Industrial de Bóbeda, N2 Km 6.3
+ OLD address : Zona Industrial de B<U+00F3>beda, N2 Km 6.3
+VRL-90001
+: 
+ NEW address : Praça de Nossa Senhora da Conceição
+ OLD address : Pra<U+00E7>a de Nossa Senhora da Concei<U+00E7><U+00E3>o
+VRS-00003
+: 
+ NEW address : Rua das Comunidades Portuguesas, Nº332
+ OLD address : Rua das Comunidades Portuguesas, N<U+00BA>332
+VRS-00003
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo Ant<U+00F3>nio
+VRS-00004
+: 
+ NEW address : Rua do Norte nº 8 a 10
+ OLD address : Rua do Norte n<U+00BA> 8 a 10
+VRS-00004
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo Ant<U+00F3>nio
+VRS-90001
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo Ant<U+00F3>nio
+VVC-90001
+: 
+ NEW address : Rua D. João IV
+ OLD address : Rua D. Jo<U+00E3>o IV
+VVC-90001
+: 
+ NEW city : Vila Viçosa
+ OLD city : Vila Vi<U+00E7>osa
+VVD-00004
+: 
+ NEW address : Intermarché de Vila de Prado
+ OLD address : Intermarch<U+00E9> de Vila de Prado
+VVR-90001
+: 
+ NEW city : Vila Velha de Ródão
+ OLD city : Vila Velha de R<U+00F3>d<U+00E3>o
+VZL-90003
+: 
+ NEW address : R. Bombeiros Voluntários
+ OLD address : R. Bombeiros Volunt<U+00E1>rios
