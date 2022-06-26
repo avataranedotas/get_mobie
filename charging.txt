@@ -2860,3 +2860,6 @@ MCN-00004-01 evses -> 0: status : CHARGING
 
 2022-06-26 11:35:31
 STR-00026-01 evses -> 0: status : CHARGING
+
+2022-06-26 11:36:21
+STR-00026-01 evses -> 0: status : CHARGING
