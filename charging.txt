@@ -2963,3 +2963,10 @@ STS-90001-01 evses -> 0: status : CHARGING
 OER-00102-1 evses -> 0: status : CHARGING
 OER-00102-1 evses -> 0: status : CHARGING
 STS-90001-01 evses -> 0: status : CHARGING
+
+2022-06-27 09:41:00
+AVR-00034-02 evses -> 2: status : CHARGING
+OER-00102-1 evses -> 0: status : CHARGING
+OER-00102-1 evses -> 0: status : CHARGING
+OER-00124-01 evses -> 1: status : CHARGING
+STS-90001-01 evses -> 0: status : CHARGING
