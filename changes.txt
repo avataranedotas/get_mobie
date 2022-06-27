@@ -138,3 +138,25 @@ SRT-00003
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-06-27 15:46:10
+LSB-00440
+coordinates: 
+ NEW latitude : 38.7591798
+ OLD latitude : 38.7587447
+LSB-00440
+coordinates: 
+ NEW longitude : -9.115032
+ OLD longitude : -9.1135779
+LSB-00440
+: 
+ NEW coordinates : {'latitude': '38.7591798', 'longitude': '-9.115032'}
+ OLD coordinates : {'latitude': '38.7587447', 'longitude': '-9.1135779'}
+LSB-00440
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00440
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
