@@ -12,3 +12,15 @@ Adicionados:['PRT-00023']
 
 PRT-00023-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'PRT-00023', 'publish': True, 'address': 'Rua Dr. António Bernardino de Almeida', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4200-072', 'coordinates': {'latitude': '41.183058', 'longitude': '-8.606115'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00023-1', 'evse_id': 'PT*HRZ*E*PRT*00023*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00023-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-03T17:49:29.553Z'}], 'last_updated': '2022-06-27T10:03:54.204Z'}, {'uid': 'PRT-00023-2', 'evse_id': 'PT*HRZ*E*PRT*00023*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00023-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-03T17:49:29.553Z'}], 'last_updated': '2022-06-27T10:03:56.161Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-02-03T17:49:29.552Z'}
 Removidos:[]
+
+2022-06-27 11:16:25
+Adicionados:[]
+Removidos:['CLD-00013', 'NZR-00002']
+VNG-90010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+VNG-90010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
