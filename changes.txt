@@ -40,3 +40,101 @@ STB-00018-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'STB-00018', 'publis
 
 STB-00028-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'STB-00028', 'publish': True, 'address': 'Estrada de Algeruz, 2910-279 Setúbal', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2910-279', 'coordinates': {'latitude': '38.5395129', 'longitude': '-8.8675194'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00028-03', 'evse_id': 'PT*KLC*E*STB*00028*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'STB-00028-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-23T15:32:20.046Z'}], 'last_updated': '2022-06-27T14:05:53.861Z'}, {'uid': 'STB-00028-01', 'evse_id': 'PT*KLC*E*STB*00028*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'STB-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-06-23T15:32:20.045Z'}], 'last_updated': '2022-06-27T14:05:52.687Z'}, {'uid': 'STB-00028-02', 'evse_id': 'PT*KLC*E*STB*00028*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'STB-00028-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-23T15:32:20.046Z'}], 'last_updated': '2022-06-27T14:05:53.302Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-23T15:32:20.044Z'}
 Removidos:[]
+
+2022-06-27 15:21:03
+GDL-00009
+coordinates: 
+ NEW latitude : 38.16717
+ OLD latitude : 38.167018
+GDL-00009
+coordinates: 
+ NEW longitude : -8.49087
+ OLD longitude : -8.492748
+GDL-00009
+: 
+ NEW coordinates : {'latitude': '38.16717', 'longitude': '-8.49087'}
+ OLD coordinates : {'latitude': '38.167018', 'longitude': '-8.492748'}
+GDL-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GDL-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GDL-00009
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LGA-00015
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LGA-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
+LGA-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LGA-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
+LGA-00015
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00335
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00335
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-00335
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00335
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00335
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+MMN-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MMN-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MMN-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MMN-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+SRT-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SRT-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+SRT-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SRT-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
