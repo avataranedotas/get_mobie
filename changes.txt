@@ -24,3 +24,11 @@ VNG-90010
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2022-06-27 12:37:30
+Adicionados:['CRS-00002', 'TVD-00024']
+
+CRS-00002-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'CRS-00002', 'publish': True, 'address': 'Avenida Nossa senhora Febres 111B', 'city': 'Carregal do Sal', 'country': 'PRT', 'postal_code': '3430-039', 'coordinates': {'latitude': '40.426132', 'longitude': '-8.014286'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CRS-00002-1', 'evse_id': 'PT*REP*E*CRS*00002*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CRS-00002-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-24T08:41:49.607Z'}], 'last_updated': '2022-06-27T12:11:47.751Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T11:01:09.347809Z'}
+
+TVD-00024-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'TVD-00024', 'publish': True, 'address': 'Auto Estrada A8.(sentido Norte/Sul)', 'city': 'Torres Vedras', 'country': 'PRT', 'postal_code': '2565-646', 'coordinates': {'latitude': '39.157753', 'longitude': '-9.226828'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'TVD-00024-01', 'evse_id': 'PT*GLG*E*TVD*00024*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'TVD-00024-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 45000, 'last_updated': '2022-05-27T16:08:37.809Z'}], 'last_updated': '2022-06-27T12:19:30.34Z'}, {'uid': 'TVD-00024-02', 'evse_id': 'PT*GLG*E*TVD*00024*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'TVD-00024-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 45000, 'last_updated': '2022-05-27T16:08:37.809Z'}], 'last_updated': '2022-06-27T12:19:30.34Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-27T12:19:30.309Z'}
+Removidos:['MOBI-LSB-00088']
