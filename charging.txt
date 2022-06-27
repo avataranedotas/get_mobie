@@ -2995,3 +2995,7 @@ AVR-00034-02 evses -> 2: status : CHARGING
 
 2022-06-27 13:43:01
 AVR-00034-02 evses -> 2: status : CHARGING
+
+2022-06-27 14:19:03
+OER-00102-1 evses -> 0: status : CHARGING
+OER-00102-1 evses -> 0: status : CHARGING
