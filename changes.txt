@@ -160,3 +160,9 @@ LSB-00440
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-06-27 22:17:04
+Adicionados:['SSB-00005']
+
+SSB-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SSB-00005', 'publish': True, 'address': 'Urbanização Cova dos Vidros', 'city': 'Sesimbra', 'country': 'PRT', 'postal_code': '2975-312', 'coordinates': {'latitude': '38.5662185', 'longitude': '-9.040185'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SSB-00005-01', 'evse_id': 'PT*KLC*E*SSB*00005*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SSB-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-06-23T15:24:01.498Z'}], 'last_updated': '2022-06-27T22:11:48.543Z'}, {'uid': 'SSB-00005-03', 'evse_id': 'PT*KLC*E*SSB*00005*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SSB-00005-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-23T15:24:01.499Z'}], 'last_updated': '2022-06-27T22:11:49.877Z'}, {'uid': 'SSB-00005-02', 'evse_id': 'PT*KLC*E*SSB*00005*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SSB-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-23T15:24:01.498Z'}], 'last_updated': '2022-06-27T22:11:49.263Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-23T15:24:01.497Z'}
+Removidos:[]
