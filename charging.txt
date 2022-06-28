@@ -3111,3 +3111,9 @@ OER-00102-1 evses -> 0: status : CHARGING
 OER-00102-1 evses -> 0: status : CHARGING
 PRT-00110-1 evses -> 0: status : CHARGING
 STS-90001-02 evses -> 1: status : CHARGING
+
+2022-06-28 09:17:31
+OER-00102-1 evses -> 0: status : CHARGING
+OER-00102-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
+STS-90001-02 evses -> 1: status : CHARGING
