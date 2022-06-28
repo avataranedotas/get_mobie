@@ -214,3 +214,9 @@ GMR-90012
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 3700
+
+2022-06-28 15:44:37
+Adicionados:['ODM-00008']
+
+ODM-00008-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'ODM-00008', 'publish': True, 'address': 'Rua Capitão Salgueiro Maia', 'city': 'Odemira', 'country': 'PRT', 'postal_code': '7630-112', 'coordinates': {'latitude': '37.599544', 'longitude': '-8.631195'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ODM-00008-01', 'evse_id': 'PT*MLT*E*ODM*00008*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODM-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-07T20:50:25.769Z'}], 'last_updated': '2022-06-28T15:29:31.208Z'}, {'uid': 'ODM-00008-02', 'evse_id': 'PT*MLT*E*ODM*00008*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODM-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-07T20:50:25.769Z'}], 'last_updated': '2022-06-28T15:29:31.208Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-28T15:29:31.176Z'}
+Removidos:[]
