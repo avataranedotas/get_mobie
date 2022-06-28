@@ -3138,3 +3138,10 @@ PSR-00002-02 evses -> 1: status : CHARGING
 PSR-00002-02 evses -> 1: status : CHARGING
 STS-90001-02 evses -> 1: status : CHARGING
 SXL-00015-03 evses -> 0: status : CHARGING
+
+2022-06-28 11:15:05
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
+PSR-00002-02 evses -> 1: status : CHARGING
+PSR-00002-02 evses -> 1: status : CHARGING
