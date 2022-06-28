@@ -3243,3 +3243,10 @@ OER-00115-1 evses -> 0: status : CHARGING
 PRT-00110-1 evses -> 0: status : CHARGING
 STB-00018-03 evses -> 2: status : CHARGING
 STB-00024-02 evses -> 1: status : CHARGING
+
+2022-06-28 21:14:22
+OER-00107-1 evses -> 0: status : CHARGING
+OER-00107-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
