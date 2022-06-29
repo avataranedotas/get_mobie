@@ -3371,3 +3371,9 @@ SXL-00015-02 evses -> 1: status : CHARGING
 LSB-00471-02 evses -> 0: status : CHARGING
 PRT-00110-1 evses -> 0: status : CHARGING
 STS-90001-01 evses -> 0: status : CHARGING
+
+2022-06-29 12:38:03
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
+STB-00018-03 evses -> 2: status : CHARGING
