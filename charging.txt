@@ -3455,3 +3455,6 @@ SNT-00052-02 evses -> 2: status : CHARGING
 SSB-00005-01 evses -> 0: status : CHARGING
 STB-00018-01 evses -> 0: status : CHARGING
 STB-00024-01 evses -> 0: status : CHARGING
+
+2022-06-29 21:39:39
+OER-00115-1 evses -> 0: status : CHARGING
