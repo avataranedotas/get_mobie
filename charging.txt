@@ -3354,3 +3354,15 @@ PRT-00110-1 evses -> 0: status : CHARGING
 SNT-00052-02 evses -> 2: status : CHARGING
 STB-00024-02 evses -> 1: status : CHARGING
 STS-90001-01 evses -> 0: status : CHARGING
+
+2022-06-29 11:16:08
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
+PSR-00002-02 evses -> 1: status : CHARGING
+PSR-00002-02 evses -> 1: status : CHARGING
+SNT-00052-02 evses -> 2: status : CHARGING
+SSB-00005-01 evses -> 0: status : CHARGING
+STB-00024-01 evses -> 0: status : CHARGING
+STS-90001-01 evses -> 0: status : CHARGING
+SXL-00015-02 evses -> 1: status : CHARGING
