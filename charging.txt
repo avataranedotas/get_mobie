@@ -3402,3 +3402,8 @@ PRT-00110-1 evses -> 0: status : CHARGING
 SNT-00052-02 evses -> 2: status : CHARGING
 STB-00024-01 evses -> 0: status : CHARGING
 STB-00024-02 evses -> 1: status : CHARGING
+
+2022-06-29 17:42:18
+PRT-00110-1 evses -> 0: status : CHARGING
+SNT-00052-02 evses -> 2: status : CHARGING
+SXL-00015-02 evses -> 1: status : CHARGING
