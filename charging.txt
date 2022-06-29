@@ -3314,3 +3314,6 @@ PRT-00110-1 evses -> 0: status : CHARGING
 
 2022-06-29 08:26:21
 PRT-00110-1 evses -> 0: status : CHARGING
+
+2022-06-29 08:47:51
+PRT-00110-1 evses -> 0: status : CHARGING
