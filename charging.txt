@@ -3305,3 +3305,6 @@ SNT-00078-01 evses -> 2: status : CHARGING
 
 2022-06-29 06:47:41
 PRT-00110-1 evses -> 0: status : CHARGING
+
+2022-06-29 07:16:43
+PRT-00110-1 evses -> 0: status : CHARGING
