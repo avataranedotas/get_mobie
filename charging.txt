@@ -3337,3 +3337,11 @@ STB-00024-01 evses -> 0: status : CHARGING
 STB-00024-02 evses -> 1: status : CHARGING
 STS-90001-01 evses -> 0: status : CHARGING
 TVD-00020-01 evses -> 1: status : CHARGING
+
+2022-06-29 10:21:12
+OER-00115-1 evses -> 0: status : CHARGING
+OER-00115-1 evses -> 0: status : CHARGING
+PRT-00110-1 evses -> 0: status : CHARGING
+SNT-00052-02 evses -> 2: status : CHARGING
+STB-00024-02 evses -> 1: status : CHARGING
+STS-90001-01 evses -> 0: status : CHARGING
