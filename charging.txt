@@ -3286,3 +3286,6 @@ PRT-00110-1 evses -> 0: status : CHARGING
 OER-00115-1 evses -> 0: status : CHARGING
 OER-00115-1 evses -> 0: status : CHARGING
 PRT-00110-1 evses -> 0: status : CHARGING
+
+2022-06-29 03:48:30
+PRT-00110-1 evses -> 0: status : CHARGING
