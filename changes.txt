@@ -248,3 +248,17 @@ Adicionados:['GMR-00040']
 
 GMR-00040-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'GMR-00040', 'publish': True, 'address': 'E.N. 101 ao km 107+310 - Aguardilha', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4805-303', 'coordinates': {'latitude': '41.469265', 'longitude': '-8.327859'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00040-01', 'evse_id': 'PT*REP*E*GMR*00040*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00040-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-02-22T16:46:07.141Z'}], 'last_updated': '2022-06-29T08:43:54.295Z'}, {'uid': 'GMR-00040-02', 'evse_id': 'PT*REP*E*GMR*00040*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00040-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-02-22T16:46:07.142Z'}], 'last_updated': '2022-06-29T08:45:26.697Z'}, {'uid': 'GMR-00040-03', 'evse_id': 'PT*REP*E*GMR*00040*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00040-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-22T16:46:07.142Z'}], 'last_updated': '2022-06-29T08:43:55.58Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-02-22T16:46:07.14Z'}
 Removidos:[]
+
+2022-06-29 09:18:25
+SNT-00052
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00052
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00052
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
