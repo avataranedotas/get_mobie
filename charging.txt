@@ -3479,3 +3479,6 @@ PRD-00009-01 evses -> 0: status : CHARGING
 2022-06-30 12:37:58
 PRD-00009-01 evses -> 0: status : CHARGING
 PRD-00009-01 evses -> 0: status : CHARGING
+
+2022-06-30 13:37:27
+ODM-00008-01 evses -> 0: status : CHARGING

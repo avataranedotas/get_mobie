@@ -326,3 +326,9 @@ evses -> 2 -> connectors -> 0:
 2022-06-30 12:34:58
 Adicionados:[]
 Removidos:['AVR-00003']
+
+2022-06-30 13:37:25
+Adicionados:['BRR-00017']
+
+BRR-00017-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'BRR-00017', 'publish': True, 'address': 'Sitio Barreiro Retail Planet, nº 9995', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-411', 'coordinates': {'latitude': '38.5808805', 'longitude': '-9.0430382'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRR-00017-01', 'evse_id': 'PT*EDP*E*BRR*00017*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00017-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-05-31T09:49:23.076Z'}], 'last_updated': '2022-06-30T13:30:32.868Z'}, {'uid': 'BRR-00017-03', 'evse_id': 'PT*EDP*E*BRR*00017*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00017-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-31T09:49:23.077Z'}], 'last_updated': '2022-06-30T13:27:02.265Z'}, {'uid': 'BRR-00017-02', 'evse_id': 'PT*EDP*E*BRR*00017*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00017-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-05-31T09:49:23.076Z'}], 'last_updated': '2022-06-30T13:28:58.318Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T10:57:32.853765Z'}
+Removidos:[]
