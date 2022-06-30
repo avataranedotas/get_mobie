@@ -3467,3 +3467,7 @@ ABT-00004-03 evses -> 1: status : CHARGING
 
 2022-06-30 11:15:03
 MFR-00016-02 evses -> 1: status : CHARGING
+
+2022-06-30 11:37:16
+MFR-00016-02 evses -> 1: status : CHARGING
+TMR-00005-03 evses -> 2: status : CHARGING
