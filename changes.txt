@@ -338,3 +338,17 @@ Adicionados:['ASL-00010']
 
 ASL-00010-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'ASL-00010', 'publish': True, 'address': 'A.S. Alcacer (N/S) - A 2 - Km 68', 'city': 'Alcácer do Sal', 'country': 'PRT', 'postal_code': '7580-000', 'coordinates': {'latitude': '38.51558', 'longitude': '-8.5847999'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'ASL-00010-02', 'evse_id': 'PT*GLG*E*ASL*00010*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ASL-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 350, 'max_electric_power': 160000, 'last_updated': '2022-02-03T13:15:22.32Z'}], 'last_updated': '2022-06-30T14:04:26.535Z'}, {'uid': 'ASL-00010-01', 'evse_id': 'PT*GLG*E*ASL*00010*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ASL-00010-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 43000, 'last_updated': '2022-02-03T13:15:22.319Z'}], 'last_updated': '2022-06-30T14:06:24.695Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-02-03T13:15:22.319Z'}
 Removidos:[]
+
+2022-06-30 14:38:52
+ASL-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ASL-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ASL-00009
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
