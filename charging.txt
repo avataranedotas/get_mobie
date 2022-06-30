@@ -3475,3 +3475,7 @@ TMR-00005-03 evses -> 2: status : CHARGING
 2022-06-30 12:35:00
 PRD-00009-01 evses -> 0: status : CHARGING
 PRD-00009-01 evses -> 0: status : CHARGING
+
+2022-06-30 12:37:58
+PRD-00009-01 evses -> 0: status : CHARGING
+PRD-00009-01 evses -> 0: status : CHARGING
