@@ -322,3 +322,7 @@ ASL-00007
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-06-30 12:34:58
+Adicionados:[]
+Removidos:['AVR-00003']
