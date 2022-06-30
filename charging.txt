@@ -3498,3 +3498,8 @@ ODM-00008-01 evses -> 0: status : CHARGING
 
 2022-06-30 15:45:30
 ODM-00008-01 evses -> 0: status : CHARGING
+
+2022-06-30 16:29:13
+MDL-00003-02 evses -> 0: status : CHARGING
+ODM-00008-01 evses -> 0: status : CHARGING
+TVD-00024-02 evses -> 1: status : CHARGING
