@@ -3461,3 +3461,6 @@ OER-00115-1 evses -> 0: status : CHARGING
 
 2022-06-29 21:45:19
 OER-00115-1 evses -> 0: status : CHARGING
+
+2022-06-30 10:46:30
+ABT-00004-03 evses -> 1: status : CHARGING
