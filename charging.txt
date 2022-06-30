@@ -3539,3 +3539,6 @@ LSB-00467-02 evses -> 0: status : CHARGING
 ASL-00010-02 evses -> 0: status : CHARGING
 OER-00107-1 evses -> 0: status : CHARGING
 TVD-00024-02 evses -> 1: status : CHARGING
+
+2022-06-30 23:18:44
+ASL-00009-02 evses -> 1: status : CHARGING
