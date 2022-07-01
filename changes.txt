@@ -366,3 +366,21 @@ Adicionados:['MGR-00003']
 
 MGR-00003-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'MGR-00003', 'publish': True, 'address': 'Posto de Abastecimento BP Embra', 'city': 'Marinha Grande', 'country': 'PRT', 'postal_code': '2430-091', 'coordinates': {'latitude': '39.74796', 'longitude': '-8.90985'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MGR-00003-03', 'evse_id': 'PT*EDP*E*MGR*00003*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'MGR-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-15T20:35:49.161Z'}], 'last_updated': '2022-06-30T18:05:37.58Z'}, {'uid': 'MGR-00003-01', 'evse_id': 'PT*EDP*E*MGR*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'MGR-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-03-15T20:35:49.161Z'}], 'last_updated': '2022-06-30T18:05:37.58Z'}, {'uid': 'MGR-00003-02', 'evse_id': 'PT*EDP*E*MGR*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'MGR-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-03-15T20:35:49.161Z'}], 'last_updated': '2022-06-30T18:05:37.58Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-30T18:05:37.546Z'}
 Removidos:[]
+
+2022-07-01 09:17:58
+Adicionados:['CBR-00055']
+
+CBR-00055-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CBR-00055', 'publish': True, 'address': 'Av Ines de Castro', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3040-255', 'coordinates': {'latitude': '40.20121', 'longitude': '-8.43077'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CBR-00055-02', 'evse_id': 'PT*EDP*E*CBR*00055*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00055-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-03-30T23:43:12.18Z'}], 'last_updated': '2022-07-01T09:13:55.648Z'}, {'uid': 'CBR-00055-03', 'evse_id': 'PT*EDP*E*CBR*00055*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00055-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-03-30T23:43:12.181Z'}], 'last_updated': '2022-07-01T09:13:56.169Z'}, {'uid': 'CBR-00055-01', 'evse_id': 'PT*EDP*E*CBR*00055*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00055-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-03-30T23:43:12.179Z'}], 'last_updated': '2022-07-01T09:13:55.07Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-01T08:51:48.19Z'}
+Removidos:[]
+OER-00088
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00088
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+OER-00088
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
