@@ -3554,3 +3554,6 @@ CBR-00055-02 evses -> 0: status : CHARGING
 
 2022-07-01 13:38:00
 CBR-00055-02 evses -> 0: status : CHARGING
+
+2022-07-01 14:17:24
+CBR-00055-02 evses -> 0: status : CHARGING
