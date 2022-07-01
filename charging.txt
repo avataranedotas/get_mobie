@@ -3561,3 +3561,6 @@ CBR-00055-02 evses -> 0: status : CHARGING
 2022-07-01 14:39:11
 CBR-00055-01 evses -> 2: status : CHARGING
 LSB-00468-02 evses -> 0: status : CHARGING
+
+2022-07-01 17:03:41
+CBR-00055-02 evses -> 0: status : CHARGING
