@@ -3551,3 +3551,6 @@ ASL-00007-02 evses -> 1: status : CHARGING
 
 2022-07-01 12:39:18
 CBR-00055-02 evses -> 0: status : CHARGING
+
+2022-07-01 13:38:00
+CBR-00055-02 evses -> 0: status : CHARGING
