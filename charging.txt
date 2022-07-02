@@ -3574,3 +3574,6 @@ LLE-00085-01 evses -> 1: status : CHARGING
 2022-07-02 07:15:46
 CTX-00002-02 evses -> 0: status : CHARGING
 LSB-00468-02 evses -> 0: status : CHARGING
+
+2022-07-02 07:36:41
+CTX-00002-02 evses -> 0: status : CHARGING
