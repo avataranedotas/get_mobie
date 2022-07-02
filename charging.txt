@@ -3580,3 +3580,6 @@ CTX-00002-02 evses -> 0: status : CHARGING
 
 2022-07-02 09:38:46
 PRT-00076-03 evses -> 1: status : CHARGING
+
+2022-07-02 12:29:57
+LLE-00085-02 evses -> 0: status : CHARGING
