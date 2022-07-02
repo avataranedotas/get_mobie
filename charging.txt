@@ -3596,3 +3596,6 @@ LLE-00085-02 evses -> 0: status : CHARGING
 
 2022-07-02 14:37:20
 LLE-00085-02 evses -> 0: status : CHARGING
+
+2022-07-02 15:17:19
+LLE-00085-02 evses -> 0: status : CHARGING
