@@ -3627,3 +3627,6 @@ GRD-00014-02 evses -> 1: status : CHARGING
 
 2022-07-03 15:41:09
 CBR-00055-02 evses -> 0: status : CHARGING
+
+2022-07-03 16:12:13
+PRD-00009-01 evses -> 0: status : CHARGING
