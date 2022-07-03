@@ -3634,3 +3634,6 @@ PRD-00009-01 evses -> 0: status : CHARGING
 2022-07-03 16:23:24
 LSB-00466-01 evses -> 1: status : CHARGING
 PRD-00009-01 evses -> 0: status : CHARGING
+
+2022-07-03 16:24:24
+LSB-00466-01 evses -> 1: status : CHARGING
