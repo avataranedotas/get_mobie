@@ -416,3 +416,53 @@ Adicionados:['EVR-00024']
 
 EVR-00024-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'EVR-00024', 'publish': True, 'address': 'Rua Luís Adelino Fonseca nº 8', 'city': 'Évora', 'country': 'PRT', 'postal_code': '7005-345', 'coordinates': {'latitude': '38.549304', 'longitude': '-7.909996'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'EVR-00024-02', 'evse_id': 'PT*VEI*E*EVR*00024*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'EVR-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-25T14:53:24.355Z'}], 'last_updated': '2022-07-04T12:47:44.008Z'}, {'uid': 'EVR-00024-01', 'evse_id': 'PT*VEI*E*EVR*00024*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'EVR-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-25T14:53:24.354Z'}], 'last_updated': '2022-07-04T12:47:44.008Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-04T12:47:43.97Z'}
 Removidos:[]
+
+2022-07-04 14:15:56
+FAF-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FAF-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FAF-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MNC-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MNC-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MNC-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VIZ-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VIZ-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VIZ-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNC-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNC-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNC-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
