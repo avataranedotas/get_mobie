@@ -3643,3 +3643,6 @@ MGR-00003-02 evses -> 2: status : CHARGING
 
 2022-07-04 14:38:32
 MGR-00003-02 evses -> 2: status : CHARGING
+
+2022-07-04 15:43:36
+VLS-00001-03 evses -> 1: status : CHARGING
