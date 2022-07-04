@@ -466,3 +466,29 @@ VNC-00003
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-04 15:18:30
+TVR-00011
+coordinates: 
+ NEW latitude : 37.119326
+ OLD latitude : 40.648677
+TVR-00011
+coordinates: 
+ NEW longitude : -7.6561402
+ OLD longitude : -8.6189772
+TVR-00011
+: 
+ NEW coordinates : {'latitude': '37.119326', 'longitude': '-7.6561402'}
+ OLD coordinates : {'latitude': '40.648677', 'longitude': '-8.6189772'}
+TVR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
