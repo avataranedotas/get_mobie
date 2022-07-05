@@ -3677,3 +3677,7 @@ TVD-00025-01 evses -> 1: status : CHARGING
 LGA-00016-01 evses -> 0: status : CHARGING
 MCN-90001-1 evses -> 0: status : CHARGING
 MGR-00003-02 evses -> 2: status : CHARGING
+
+2022-07-05 14:26:35
+LGA-00016-01 evses -> 0: status : CHARGING
+MCN-90001-1 evses -> 0: status : CHARGING
