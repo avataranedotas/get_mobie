@@ -3667,3 +3667,8 @@ LGA-00016-01 evses -> 0: status : CHARGING
 
 2022-07-05 11:47:10
 LGA-00016-01 evses -> 0: status : CHARGING
+
+2022-07-05 12:37:38
+LGA-00016-01 evses -> 0: status : CHARGING
+MCN-90001-1 evses -> 0: status : CHARGING
+TVD-00025-01 evses -> 1: status : CHARGING
