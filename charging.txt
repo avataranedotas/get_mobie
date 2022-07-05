@@ -3691,3 +3691,6 @@ LGA-00016-01 evses -> 0: status : CHARGING
 
 2022-07-05 15:48:11
 LGA-00016-01 evses -> 0: status : CHARGING
+
+2022-07-05 16:30:32
+LGA-00016-01 evses -> 0: status : CHARGING
