@@ -858,3 +858,9 @@ LSB-00186
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 7200
+
+2022-07-05 17:24:49
+Adicionados:['LSB-00462']
+
+LSB-00462-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00462', 'publish': True, 'address': 'Rua do Bojador, 2', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1990-280', 'coordinates': {'latitude': '38.769571', 'longitude': '-9.09279'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'LSB-00462-02', 'evse_id': 'PT*GLP*E*LSB*00462*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00462-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-05T14:42:23.729Z'}], 'last_updated': '2022-07-05T16:34:24.312Z'}, {'uid': 'LSB-00462-01', 'evse_id': 'PT*GLP*E*LSB*00462*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00462-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-05T14:42:23.728Z'}], 'last_updated': '2022-07-05T16:34:24.312Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-05T16:34:24.258Z'}
+Removidos:[]
