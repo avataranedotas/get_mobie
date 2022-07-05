@@ -498,3 +498,7 @@ Adicionados:['AVR-00003']
 
 AVR-00003-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'AVR-00003', 'publish': True, 'address': 'Rua do Príncipe Perfeito', 'city': 'Aveiro', 'country': 'PRT', 'postal_code': '3810-164', 'coordinates': {'latitude': '40.6393237', 'longitude': '-8.6516806'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'AVR-00003-2', 'evse_id': 'PT*MOB*E*AVR*00003*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVR-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-03T18:05:01.813Z'}], 'last_updated': '2022-07-04T18:47:36.933Z'}, {'uid': 'AVR-00003-1', 'evse_id': 'PT*MOB*E*AVR*00003*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVR-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-03T18:05:01.813Z'}], 'last_updated': '2022-07-04T18:47:36.933Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-04T18:47:36.906Z'}
 Removidos:[]
+
+2022-07-05 08:44:29
+Adicionados:[]
+Removidos:['AVR-00003']
