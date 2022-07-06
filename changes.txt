@@ -882,3 +882,9 @@ LSB-00446
 : 
  NEW coordinates : {'latitude': '38.7138442', 'longitude': '-9.1443581'}
  OLD coordinates : {'latitude': '38.7138931', 'longitude': '-9.1466331'}
+
+2022-07-06 10:21:02
+Adicionados:['PRD-00008']
+
+PRD-00008-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'PRD-00008', 'publish': True, 'address': 'Via Rota dos Móveis, 50', 'city': 'Paredes', 'country': 'PRT', 'postal_code': '4585-325', 'coordinates': {'latitude': '41.196887', 'longitude': '-8.43421'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRD-00008-01', 'evse_id': 'PT*REP*E*PRD*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-04-11T15:26:34.071Z'}], 'last_updated': '2022-07-06T10:06:54.964Z'}, {'uid': 'PRD-00008-02', 'evse_id': 'PT*REP*E*PRD*00008*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-04-11T15:26:34.072Z'}], 'last_updated': '2022-07-06T10:06:57.308Z'}, {'uid': 'PRD-00008-03', 'evse_id': 'PT*REP*E*PRD*00008*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00008-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-11T15:26:34.074Z'}], 'last_updated': '2022-07-06T10:05:34.595Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T13:12:23.783084Z'}
+Removidos:[]
