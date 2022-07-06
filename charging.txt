@@ -3728,3 +3728,6 @@ LLE-00075-02 evses -> 0: status : CHARGING
 
 2022-07-06 11:40:13
 LLE-00075-02 evses -> 0: status : CHARGING
+
+2022-07-06 12:39:43
+LLE-00075-01 evses -> 1: status : CHARGING
