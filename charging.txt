@@ -3706,3 +3706,7 @@ LLE-00075-02 evses -> 0: status : CHARGING
 
 2022-07-06 08:45:55
 LLE-00075-02 evses -> 0: status : CHARGING
+
+2022-07-06 09:28:26
+GMR-90012-02 evses -> 0: status : CHARGING
+LLE-00075-02 evses -> 0: status : CHARGING
