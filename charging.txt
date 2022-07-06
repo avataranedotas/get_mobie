@@ -3753,3 +3753,6 @@ LLE-00075-01 evses -> 1: status : CHARGING
 
 2022-07-06 17:01:28
 LSB-00465-02 evses -> 0: status : CHARGING
+
+2022-07-06 21:15:56
+PRT-00140-03 evses -> 1: status : CHARGING
