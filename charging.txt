@@ -3734,3 +3734,6 @@ LLE-00075-01 evses -> 1: status : CHARGING
 
 2022-07-06 13:46:58
 LLE-00075-01 evses -> 1: status : CHARGING
+
+2022-07-06 14:27:09
+LLE-00075-01 evses -> 1: status : CHARGING
