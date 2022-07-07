@@ -3762,3 +3762,6 @@ PRT-00140-01 evses -> 0: status : CHARGING
 
 2022-07-07 07:38:42
 VIZ-00004-02 evses -> 0: status : CHARGING
+
+2022-07-07 09:40:27
+SRP-00004-01 evses -> 1: status : CHARGING
