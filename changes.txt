@@ -900,3 +900,13 @@ Adicionados:['RMR-00002']
 
 RMR-00002-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'RMR-00002', 'publish': True, 'address': 'POSTO PRIO - Rua Fonte Lagoa', 'city': 'Rio Maior', 'country': 'PRT', 'postal_code': '2040-000', 'coordinates': {'latitude': '39.328171', 'longitude': '-8.937228'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'RMR-00002-02', 'evse_id': 'PT*PRI*E*RMR*00002*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMR-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:55:42.405Z'}], 'last_updated': '2022-07-07T09:18:31.841Z'}, {'uid': 'RMR-00002-01', 'evse_id': 'PT*PRI*E*RMR*00002*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'RMR-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:55:42.405Z'}], 'last_updated': '2022-07-07T09:18:31.841Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-07T09:18:31.805Z'}
 Removidos:[]
+
+2022-07-07 10:21:32
+RMR-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+RMR-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
