@@ -3835,3 +3835,6 @@ ASL-00008-02 evses -> 1: status : CHARGING
 
 2022-07-07 23:18:49
 STR-00028-01 evses -> 1: status : CHARGING
+
+2022-07-07 23:40:40
+STR-00028-01 evses -> 1: status : CHARGING
