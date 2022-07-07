@@ -910,3 +910,9 @@ RMR-00002
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2022-07-07 14:17:23
+Adicionados:['SXL-00018']
+
+SXL-00018-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'SXL-00018', 'publish': True, 'address': 'Travessa Quinta da Galega n1 Lote A', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2840-579', 'coordinates': {'latitude': '38.609048', 'longitude': '-9.080172'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'SXL-00018-02', 'evse_id': 'PT*PRI*E*SXL*00018*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SXL-00018-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-07-07T09:48:13.189Z'}], 'last_updated': '2022-07-07T14:06:32.608Z'}, {'uid': 'SXL-00018-01', 'evse_id': 'PT*PRI*E*SXL*00018*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SXL-00018-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-07-07T09:48:13.189Z'}], 'last_updated': '2022-07-07T14:06:31.918Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-07T13:42:04.575Z'}
+Removidos:[]
