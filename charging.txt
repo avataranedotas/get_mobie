@@ -3800,3 +3800,6 @@ RMR-00002-02 evses -> 0: status : CHARGING
 
 2022-07-07 17:25:27
 PRT-00140-03 evses -> 1: status : CHARGING
+
+2022-07-07 17:46:22
+PRT-00140-03 evses -> 1: status : CHARGING
