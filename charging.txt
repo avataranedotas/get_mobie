@@ -3829,3 +3829,6 @@ PRT-00140-03 evses -> 1: status : CHARGING
 2022-07-07 22:18:19
 ASL-00008-02 evses -> 1: status : CHARGING
 PRT-00140-01 evses -> 0: status : CHARGING
+
+2022-07-07 22:40:22
+ASL-00008-02 evses -> 1: status : CHARGING
