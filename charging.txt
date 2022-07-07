@@ -3809,3 +3809,6 @@ PRT-00140-03 evses -> 1: status : CHARGING
 
 2022-07-07 18:48:25
 PRT-00140-03 evses -> 1: status : CHARGING
+
+2022-07-07 19:14:12
+PRT-00140-03 evses -> 1: status : CHARGING
