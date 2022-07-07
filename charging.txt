@@ -3832,3 +3832,6 @@ PRT-00140-01 evses -> 0: status : CHARGING
 
 2022-07-07 22:40:22
 ASL-00008-02 evses -> 1: status : CHARGING
+
+2022-07-07 23:18:49
+STR-00028-01 evses -> 1: status : CHARGING
