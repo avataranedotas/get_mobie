@@ -3768,3 +3768,6 @@ SRP-00004-01 evses -> 1: status : CHARGING
 
 2022-07-07 10:21:34
 RMR-00002-02 evses -> 0: status : CHARGING
+
+2022-07-07 10:43:14
+RMR-00002-02 evses -> 0: status : CHARGING
