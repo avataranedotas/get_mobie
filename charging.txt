@@ -3845,3 +3845,6 @@ SXL-00018-02 evses -> 0: status : CHARGING
 2022-07-08 10:43:07
 ASL-00008-02 evses -> 1: status : CHARGING
 PRT-00140-02 evses -> 2: status : CHARGING
+
+2022-07-08 11:38:12
+PRT-00140-03 evses -> 1: status : CHARGING
