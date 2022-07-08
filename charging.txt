@@ -3838,3 +3838,6 @@ STR-00028-01 evses -> 1: status : CHARGING
 
 2022-07-07 23:40:40
 STR-00028-01 evses -> 1: status : CHARGING
+
+2022-07-08 10:20:59
+SXL-00018-02 evses -> 0: status : CHARGING
