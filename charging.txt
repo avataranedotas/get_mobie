@@ -3860,3 +3860,6 @@ ALM-00017-02 evses -> 1: status : CHARGING
 
 2022-07-08 19:15:03
 VNG-00081-02 evses -> 0: status : CHARGING
+
+2022-07-08 19:36:45
+VNG-00081-02 evses -> 0: status : CHARGING
