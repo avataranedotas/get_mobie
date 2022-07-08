@@ -940,3 +940,9 @@ ABF-00005
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-08 14:23:34
+Adicionados:['ALM-00042']
+
+ALM-00042-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'ALM-00042', 'publish': True, 'address': 'Avenida 23 de Julho', 'city': 'Almada', 'country': 'PRT', 'postal_code': '2805-255', 'coordinates': {'latitude': '38.667851', 'longitude': '-9.159896'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALM-00042-03', 'evse_id': 'PT*REP*E*ALM*00042*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'ALM-00042-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-09T15:52:43.29Z'}], 'last_updated': '2022-07-08T14:21:17.062Z'}, {'uid': 'ALM-00042-02', 'evse_id': 'PT*REP*E*ALM*00042*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00042-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:52:43.289Z'}], 'last_updated': '2022-07-08T14:21:17.062Z'}, {'uid': 'ALM-00042-01', 'evse_id': 'PT*REP*E*ALM*00042*01', 'status': 'CHARGING', 'connectors': [{'id': 'ALM-00042-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:52:43.289Z'}], 'last_updated': '2022-07-08T14:21:17.132Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-08T14:21:17.025Z'}
+Removidos:[]
