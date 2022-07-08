@@ -926,3 +926,17 @@ Adicionados:['LSB-00186']
 
 LSB-00186-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00186', 'publish': True, 'address': 'Rua Carlos Alberto da Mota Pinto 9', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-096', 'coordinates': {'latitude': '38.72275', 'longitude': '-9.160968'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00186-1', 'evse_id': 'PT*GLP*E*LSB*00186*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00186-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-07-07T14:59:58.094Z'}], 'last_updated': '2022-07-07T16:20:00.737Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-07T16:20:00.684Z'}
 Removidos:[]
+
+2022-07-08 11:15:43
+Adicionados:['BTL-00004']
+
+BTL-00004-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'BTL-00004', 'publish': True, 'address': 'E.N. 1 ao km 110+000 - São Jorge', 'city': 'Batalha', 'country': 'PRT', 'postal_code': '2440-487', 'coordinates': {'latitude': '39.643329', 'longitude': '-8.843151'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BTL-00004-01', 'evse_id': 'PT*REP*E*BTL*00004*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BTL-00004-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-03-29T14:26:40.869Z'}], 'last_updated': '2022-07-08T11:09:28.817Z'}, {'uid': 'BTL-00004-03', 'evse_id': 'PT*REP*E*BTL*00004*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BTL-00004-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-03-29T14:26:40.871Z'}], 'last_updated': '2022-07-08T11:09:27.621Z'}, {'uid': 'BTL-00004-02', 'evse_id': 'PT*REP*E*BTL*00004*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BTL-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-03-29T14:26:40.87Z'}], 'last_updated': '2022-07-08T11:09:26.735Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-03-29T14:26:40.864Z'}
+Removidos:[]
+ABF-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ABF-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
