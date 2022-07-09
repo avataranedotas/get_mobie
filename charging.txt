@@ -3867,3 +3867,6 @@ VNG-00081-02 evses -> 0: status : CHARGING
 2022-07-09 12:31:27
 BTL-00004-03 evses -> 1: status : CHARGING
 MFT-90001-1 evses -> 1: status : CHARGING
+
+2022-07-09 13:27:04
+MFT-90001-1 evses -> 1: status : CHARGING
