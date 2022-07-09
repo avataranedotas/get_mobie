@@ -3888,3 +3888,6 @@ MFT-90001-1 evses -> 1: status : CHARGING
 
 2022-07-09 16:23:24
 MFT-90001-1 evses -> 1: status : CHARGING
+
+2022-07-09 17:16:37
+MFT-90001-1 evses -> 1: status : CHARGING
