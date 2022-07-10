@@ -3906,3 +3906,6 @@ STR-00027-02 evses -> 0: status : CHARGING
 
 2022-07-10 16:52:48
 PRD-00008-01 evses -> 0: status : CHARGING
+
+2022-07-10 19:13:51
+BTL-00004-02 evses -> 2: status : CHARGING
