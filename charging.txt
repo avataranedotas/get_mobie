@@ -3900,3 +3900,6 @@ VNG-00081-02 evses -> 0: status : CHARGING
 
 2022-07-10 09:16:12
 STR-00027-02 evses -> 0: status : CHARGING
+
+2022-07-10 09:39:20
+STR-00027-02 evses -> 0: status : CHARGING
