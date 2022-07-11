@@ -962,3 +962,13 @@ SCR-00006-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'SCR-00006', 'publis
 
 SCR-00007-->{'country_code': 'PT', 'party_id': 'SCR', 'id': 'SCR-00007', 'publish': True, 'address': 'Alameda', 'city': 'Santa Cruz', 'country': 'PRT', 'postal_code': '9100-105', 'coordinates': {'latitude': '32.687647', 'longitude': '-16.791241'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SCR-00007-1', 'evse_id': 'PT*SCR*E*SCR*00007*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'SCR-00007-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-08T17:13:30.84Z'}], 'last_updated': '2022-07-08T17:13:30.84Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-08T17:13:30.839Z'}
 Removidos:[]
+
+2022-07-11 11:37:33
+GMR-00052
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+GMR-00052
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
