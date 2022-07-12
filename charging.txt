@@ -3918,3 +3918,6 @@ LRA-00059-1 evses -> 0: status : CHARGING
 
 2022-07-12 15:29:25
 RGR-00004-01 evses -> 1: status : CHARGING
+
+2022-07-12 15:43:34
+RGR-00004-01 evses -> 1: status : CHARGING
