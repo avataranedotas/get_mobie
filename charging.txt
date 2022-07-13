@@ -3947,3 +3947,6 @@ ABT-00008-02 evses -> 0: status : CHARGING
 
 2022-07-13 18:45:18
 LRS-00073-02 evses -> 0: status : CHARGING
+
+2022-07-13 19:14:47
+LRS-00073-02 evses -> 0: status : CHARGING
