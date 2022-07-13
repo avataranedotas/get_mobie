@@ -3924,3 +3924,6 @@ RGR-00004-01 evses -> 1: status : CHARGING
 
 2022-07-12 16:27:03
 RGR-00004-01 evses -> 1: status : CHARGING
+
+2022-07-13 08:45:54
+LRS-00074-01 evses -> 0: status : CHARGING
