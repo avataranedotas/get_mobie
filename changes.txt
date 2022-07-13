@@ -2108,3 +2108,17 @@ Adicionados:['AGN-00001']
 
 AGN-00001-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'AGN-00001', 'publish': True, 'address': 'Avenida Irmãos Duarte', 'city': 'Arganil', 'country': 'PRT', 'postal_code': '-', 'coordinates': {'latitude': '40.2180573', 'longitude': '-8.05506'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'AGN-00001-01', 'evse_id': 'PT*MOB*E*AGN*00001*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AGN-00001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T13:31:55.48Z'}], 'last_updated': '2022-07-13T14:07:42.233Z'}, {'uid': 'AGN-00001-02', 'evse_id': 'PT*MOB*E*AGN*00001*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AGN-00001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-13T13:31:55.481Z'}], 'last_updated': '2022-07-13T14:07:42.233Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-13T14:07:42.199Z'}
 Removidos:[]
+
+2022-07-13 16:27:49
+LRS-00067
+coordinates: 
+ NEW latitude : 38.8048956
+ OLD latitude : 38.8045956
+LRS-00067
+coordinates: 
+ NEW longitude : -9.0995571
+ OLD longitude : -9.0994471
+LRS-00067
+: 
+ NEW coordinates : {'latitude': '38.8048956', 'longitude': '-9.0995571'}
+ OLD coordinates : {'latitude': '38.8045956', 'longitude': '-9.0994471'}
