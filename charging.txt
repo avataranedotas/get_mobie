@@ -4031,3 +4031,6 @@ MGR-00006-01 evses -> 1: status : CHARGING
 2022-07-14 22:41:12
 CSC-00101-03 evses -> 2: status : CHARGING
 MGR-00006-01 evses -> 1: status : CHARGING
+
+2022-07-14 23:19:49
+MGR-00006-01 evses -> 1: status : CHARGING
