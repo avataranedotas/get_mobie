@@ -2174,3 +2174,15 @@ GMR-00042-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GMR-00042', 'publis
 
 VCT-00028-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VCT-00028', 'publish': True, 'address': 'Estr. da Papanata', 'city': 'Viana do Castelo', 'country': 'PRT', 'postal_code': '4900-470', 'coordinates': {'latitude': '41.7021444', 'longitude': '-8.8190245'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VCT-00028-02', 'evse_id': 'PT*EDP*E*VCT*00028*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VCT-00028-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-04-28T11:43:58.563Z'}], 'last_updated': '2022-07-14T11:30:43.641Z'}, {'uid': 'VCT-00028-01', 'evse_id': 'PT*EDP*E*VCT*00028*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VCT-00028-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-04-28T11:43:58.562Z'}], 'last_updated': '2022-07-14T11:30:42.699Z'}, {'uid': 'VCT-00028-03', 'evse_id': 'PT*EDP*E*VCT*00028*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VCT-00028-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-28T11:43:58.564Z'}], 'last_updated': '2022-07-14T11:30:44.535Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T13:23:21.604236Z'}
 Removidos:[]
+
+2022-07-14 14:16:35
+Adicionados:[]
+Removidos:['LSB-00486']
+CTX-00003
+coordinates: 
+ NEW latitude : 39.169997
+ OLD latitude : 36.169997
+CTX-00003
+: 
+ NEW coordinates : {'latitude': '39.169997', 'longitude': '-8.777022'}
+ OLD coordinates : {'latitude': '36.169997', 'longitude': '-8.777022'}
