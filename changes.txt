@@ -2128,3 +2128,41 @@ Adicionados:['MTJ-00022']
 
 MTJ-00022-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'MTJ-00022', 'publish': True, 'address': 'Via Circular Externa - EN4 - Pau Queimado', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2870-803', 'coordinates': {'latitude': '38.693778', 'longitude': '-8.948389'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00022-01', 'evse_id': 'PT*IBD*E*MTJ*00022*01', 'status': 'CHARGING', 'connectors': [{'id': 'MTJ-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:33.69Z'}], 'last_updated': '2022-07-14T09:15:39.92Z'}, {'uid': 'MTJ-00022-02', 'evse_id': 'PT*IBD*E*MTJ*00022*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:33.691Z'}], 'last_updated': '2022-07-14T09:15:26.14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-03T10:51:33.69Z'}
 Removidos:[]
+
+2022-07-14 10:43:26
+CTX-00003
+coordinates: 
+ NEW latitude : 36.169997
+ OLD latitude : 38.7995605
+CTX-00003
+coordinates: 
+ NEW longitude : -8.777022
+ OLD longitude : -9.0977392
+CTX-00003
+: 
+ NEW coordinates : {'latitude': '36.169997', 'longitude': '-8.777022'}
+ OLD coordinates : {'latitude': '38.7995605', 'longitude': '-9.0977392'}
+LRS-00068
+coordinates: 
+ NEW latitude : 38.8047956
+ OLD latitude : 38.8045956
+LRS-00068
+coordinates: 
+ NEW longitude : -9.0995371
+ OLD longitude : -9.0994471
+LRS-00068
+: 
+ NEW coordinates : {'latitude': '38.8047956', 'longitude': '-9.0995371'}
+ OLD coordinates : {'latitude': '38.8045956', 'longitude': '-9.0994471'}
+LRS-00069
+coordinates: 
+ NEW latitude : 38.8046956
+ OLD latitude : 38.8045956
+LRS-00069
+coordinates: 
+ NEW longitude : -9.0995071
+ OLD longitude : -9.0994471
+LRS-00069
+: 
+ NEW coordinates : {'latitude': '38.8046956', 'longitude': '-9.0995071'}
+ OLD coordinates : {'latitude': '38.8045956', 'longitude': '-9.0994471'}
