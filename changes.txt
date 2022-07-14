@@ -2122,3 +2122,9 @@ LRS-00067
 : 
  NEW coordinates : {'latitude': '38.8048956', 'longitude': '-9.0995571'}
  OLD coordinates : {'latitude': '38.8045956', 'longitude': '-9.0994471'}
+
+2022-07-14 09:18:48
+Adicionados:['MTJ-00022']
+
+MTJ-00022-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'MTJ-00022', 'publish': True, 'address': 'Via Circular Externa - EN4 - Pau Queimado', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2870-803', 'coordinates': {'latitude': '38.693778', 'longitude': '-8.948389'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00022-01', 'evse_id': 'PT*IBD*E*MTJ*00022*01', 'status': 'CHARGING', 'connectors': [{'id': 'MTJ-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:33.69Z'}], 'last_updated': '2022-07-14T09:15:39.92Z'}, {'uid': 'MTJ-00022-02', 'evse_id': 'PT*IBD*E*MTJ*00022*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:33.691Z'}], 'last_updated': '2022-07-14T09:15:26.14Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-06-03T10:51:33.69Z'}
+Removidos:[]

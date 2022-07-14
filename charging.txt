@@ -3959,3 +3959,6 @@ LRS-00075-01 evses -> 0: status : CHARGING
 
 2022-07-14 08:23:01
 LRS-00075-01 evses -> 0: status : CHARGING
+
+2022-07-14 09:18:50
+LRS-00075-02 evses -> 1: status : CHARGING
