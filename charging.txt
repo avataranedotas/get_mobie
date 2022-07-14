@@ -4023,3 +4023,7 @@ BGC-00009-01 evses -> 2: status : CHARGING
 CSC-00101-03 evses -> 2: status : CHARGING
 GMR-00042-02 evses -> 1: status : CHARGING
 MGR-00006-01 evses -> 1: status : CHARGING
+
+2022-07-14 22:19:42
+CSC-00101-03 evses -> 2: status : CHARGING
+MGR-00006-01 evses -> 1: status : CHARGING
