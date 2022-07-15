@@ -4046,3 +4046,6 @@ MGR-00006-01 evses -> 1: status : CHARGING
 
 2022-07-15 05:26:05
 MGR-00006-01 evses -> 1: status : CHARGING
+
+2022-07-15 05:54:59
+MGR-00006-01 evses -> 1: status : CHARGING
