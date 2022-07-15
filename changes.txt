@@ -2224,3 +2224,17 @@ Adicionados:['STB-00030']
 
 STB-00030-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STB-00030', 'publish': True, 'address': 'R. Prof. Augusto Gomes 3', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2910-067', 'coordinates': {'latitude': '38.5240528', 'longitude': '-8.8774072'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00030-02', 'evse_id': 'PT*HRZ*E*STB*00030*02', 'status': 'CHARGING', 'connectors': [{'id': 'STB-00030-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-05-18T16:09:28.94Z'}], 'last_updated': '2022-07-15T14:11:53.168Z'}, {'uid': 'STB-00030-01', 'evse_id': 'PT*HRZ*E*STB*00030*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00030-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-05-18T16:09:28.94Z'}], 'last_updated': '2022-07-15T14:11:51.166Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-15T14:11:50.943Z'}
 Removidos:[]
+
+2022-07-15 14:41:55
+LSB-00441
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00442
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00443
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
