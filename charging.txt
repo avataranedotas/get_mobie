@@ -4064,3 +4064,8 @@ MGR-00006-01 evses -> 1: status : CHARGING
 
 2022-07-15 11:37:12
 LSB-00486-1 evses -> 0: status : CHARGING
+
+2022-07-15 12:37:56
+CSC-00101-02 evses -> 0: status : CHARGING
+LRS-00071-02 evses -> 1: status : CHARGING
+LSB-00486-1 evses -> 0: status : CHARGING
