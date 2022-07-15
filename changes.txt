@@ -2238,3 +2238,9 @@ LSB-00443
 evses -> 0 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-15 15:21:14
+Adicionados:['TVR-00014']
+
+TVR-00014-->{'country_code': 'PT', 'party_id': 'LUZ', 'id': 'TVR-00014', 'publish': True, 'address': 'Urbanização Golden Club, 51', 'city': 'Tavira', 'country': 'PRT', 'postal_code': '8800-591', 'coordinates': {'latitude': '37.13263', 'longitude': '-7.60818'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVR-00014-01', 'evse_id': 'PT*LUZ*E*TVR*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TVR-00014-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-19T11:26:12.45Z'}], 'last_updated': '2022-07-15T15:11:34.276Z'}, {'uid': 'TVR-00014-02', 'evse_id': 'PT*LUZ*E*TVR*00014*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TVR-00014-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-05-19T11:26:12.45Z'}], 'last_updated': '2022-07-15T15:11:29.335Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T13:23:20.42349Z'}
+Removidos:[]
