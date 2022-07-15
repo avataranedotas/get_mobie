@@ -4108,3 +4108,8 @@ SJM-00010-01 evses -> 1: status : CHARGING
 LRS-00072-01 evses -> 0: status : CHARGING
 OER-00082-01 evses -> 0: status : CHARGING
 OER-00082-02 evses -> 1: status : CHARGING
+
+2022-07-15 19:37:09
+LRS-00072-01 evses -> 0: status : CHARGING
+OER-00082-01 evses -> 0: status : CHARGING
+OER-00082-02 evses -> 1: status : CHARGING
