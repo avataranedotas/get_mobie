@@ -4069,3 +4069,8 @@ LSB-00486-1 evses -> 0: status : CHARGING
 CSC-00101-02 evses -> 0: status : CHARGING
 LRS-00071-02 evses -> 1: status : CHARGING
 LSB-00486-1 evses -> 0: status : CHARGING
+
+2022-07-15 13:47:09
+CSC-00101-02 evses -> 0: status : CHARGING
+GMR-00042-02 evses -> 1: status : CHARGING
+LSB-00486-1 evses -> 0: status : CHARGING
