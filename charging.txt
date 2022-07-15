@@ -4147,3 +4147,9 @@ LRS-00072-01 evses -> 0: status : CHARGING
 LSB-00486-1 evses -> 0: status : CHARGING
 OER-00082-01 evses -> 0: status : CHARGING
 OER-00082-02 evses -> 1: status : CHARGING
+
+2022-07-15 23:18:19
+LRS-00072-01 evses -> 0: status : CHARGING
+LSB-00486-1 evses -> 0: status : CHARGING
+OER-00082-01 evses -> 0: status : CHARGING
+OER-00082-02 evses -> 1: status : CHARGING
