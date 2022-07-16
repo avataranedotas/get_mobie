@@ -4261,3 +4261,8 @@ OER-00082-02 evses -> 1: status : CHARGING
 BGC-00009-01 evses -> 2: status : CHARGING
 OER-00082-01 evses -> 0: status : CHARGING
 OER-00082-02 evses -> 1: status : CHARGING
+
+2022-07-16 14:37:45
+BGC-00009-01 evses -> 2: status : CHARGING
+OER-00082-01 evses -> 0: status : CHARGING
+OER-00082-02 evses -> 1: status : CHARGING
