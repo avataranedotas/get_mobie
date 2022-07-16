@@ -4290,3 +4290,10 @@ OER-00082-02 evses -> 1: status : CHARGING
 2022-07-16 17:38:37
 OER-00082-01 evses -> 0: status : CHARGING
 OER-00082-02 evses -> 1: status : CHARGING
+
+2022-07-16 18:20:47
+CSC-00101-01 evses -> 1: status : CHARGING
+GMR-00052-01 evses -> 0: status : CHARGING
+LRS-00069-01 evses -> 1: status : CHARGING
+OER-00082-01 evses -> 0: status : CHARGING
+OER-00082-02 evses -> 1: status : CHARGING
