@@ -4307,3 +4307,8 @@ OER-00082-02 evses -> 1: status : CHARGING
 LRS-00069-01 evses -> 1: status : CHARGING
 OER-00082-01 evses -> 0: status : CHARGING
 OER-00082-02 evses -> 1: status : CHARGING
+
+2022-07-16 19:37:31
+LRS-00069-01 evses -> 1: status : CHARGING
+OER-00082-01 evses -> 0: status : CHARGING
+OER-00082-02 evses -> 1: status : CHARGING
