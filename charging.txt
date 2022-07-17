@@ -4451,3 +4451,6 @@ SJM-00010-03 evses -> 2: status : CHARGING
 
 2022-07-17 22:16:59
 VFX-00029-01 evses -> 0: status : CHARGING
+
+2022-07-17 22:39:47
+VFX-00029-01 evses -> 0: status : CHARGING
