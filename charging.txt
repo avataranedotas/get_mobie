@@ -4394,3 +4394,7 @@ LSB-00486-1 evses -> 0: status : CHARGING
 ABT-00008-02 evses -> 0: status : CHARGING
 LRS-00075-02 evses -> 1: status : CHARGING
 LSB-00486-1 evses -> 0: status : CHARGING
+
+2022-07-17 09:39:54
+ABT-00008-02 evses -> 0: status : CHARGING
+LSB-00486-1 evses -> 0: status : CHARGING
