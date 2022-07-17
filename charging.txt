@@ -4448,3 +4448,6 @@ CSC-00101-03 evses -> 2: status : CHARGING
 
 2022-07-17 21:15:34
 SJM-00010-03 evses -> 2: status : CHARGING
+
+2022-07-17 22:16:59
+VFX-00029-01 evses -> 0: status : CHARGING
