@@ -4442,3 +4442,6 @@ SJM-00010-03 evses -> 2: status : CHARGING
 
 2022-07-17 20:18:08
 CSC-00101-03 evses -> 2: status : CHARGING
+
+2022-07-17 20:39:58
+CSC-00101-03 evses -> 2: status : CHARGING
