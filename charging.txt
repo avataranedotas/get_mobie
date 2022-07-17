@@ -4430,3 +4430,6 @@ CSC-00101-03 evses -> 2: status : CHARGING
 
 2022-07-17 16:23:46
 CSC-00101-03 evses -> 2: status : CHARGING
+
+2022-07-17 16:52:55
+CSC-00101-01 evses -> 1: status : CHARGING
