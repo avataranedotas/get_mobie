@@ -4454,3 +4454,7 @@ VFX-00029-01 evses -> 0: status : CHARGING
 
 2022-07-17 22:39:47
 VFX-00029-01 evses -> 0: status : CHARGING
+
+2022-07-18 08:47:14
+CSC-00101-01 evses -> 1: status : CHARGING
+CSC-00101-03 evses -> 2: status : CHARGING
