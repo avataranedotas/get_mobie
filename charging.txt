@@ -4488,3 +4488,8 @@ TVR-00014-01 evses -> 0: status : CHARGING
 2022-07-18 15:46:12
 TVR-00014-01 evses -> 0: status : CHARGING
 TVR-00014-02 evses -> 1: status : CHARGING
+
+2022-07-18 16:27:40
+TVR-00014-01 evses -> 0: status : CHARGING
+TVR-00014-02 evses -> 1: status : CHARGING
+VCD-00010-02 evses -> 1: status : CHARGING
