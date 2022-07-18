@@ -2330,3 +2330,9 @@ GRD-00014
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-18 15:21:43
+Adicionados:['CLD-00018']
+
+CLD-00018-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CLD-00018', 'publish': True, 'address': 'Rua Prof. Abilio Moniz Barreto, 8', 'city': 'Caldas da Rainha', 'country': 'PRT', 'postal_code': '2500-241', 'coordinates': {'latitude': '39.412502', 'longitude': '-9.1345812'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CLD-00018-02', 'evse_id': 'PT*EDP*E*CLD*00018*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CLD-00018-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-07-05T13:43:51.215Z'}], 'last_updated': '2022-07-18T15:16:55.549Z'}, {'uid': 'CLD-00018-03', 'evse_id': 'PT*EDP*E*CLD*00018*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CLD-00018-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-05T13:43:51.215Z'}], 'last_updated': '2022-07-18T15:16:56.199Z'}, {'uid': 'CLD-00018-01', 'evse_id': 'PT*EDP*E*CLD*00018*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CLD-00018-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-07-05T13:43:51.213Z'}], 'last_updated': '2022-07-18T15:16:54.249Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-05T13:43:51.212Z'}
+Removidos:[]

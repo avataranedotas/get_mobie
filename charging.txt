@@ -4481,3 +4481,6 @@ TVR-00014-01 evses -> 0: status : CHARGING
 2022-07-18 14:40:59
 MTJ-00022-02 evses -> 1: status : CHARGING
 TVR-00014-01 evses -> 0: status : CHARGING
+
+2022-07-18 15:21:46
+TVR-00014-01 evses -> 0: status : CHARGING
