@@ -2304,3 +2304,29 @@ Adicionados:['LSB-00496']
 
 LSB-00496-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00496', 'publish': True, 'address': 'Av. José Malhoa 8', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1099-089', 'coordinates': {'latitude': '38.7370689', 'longitude': '-9.1623622'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00496-01', 'evse_id': 'PT*GLP*E*LSB*00496*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00496-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-07T10:36:44.374Z'}], 'last_updated': '2022-07-18T13:58:46.535Z'}, {'uid': 'LSB-00496-02', 'evse_id': 'PT*GLP*E*LSB*00496*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00496-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-07T10:36:44.374Z'}], 'last_updated': '2022-07-18T13:58:48.239Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-07T10:36:44.373Z'}
 Removidos:[]
+
+2022-07-18 14:40:57
+GRD-00014
+: 
+ NEW address : Rua do Repouso
+ OLD address : Rua Pombeira, 9605
+GRD-00014
+coordinates: 
+ NEW latitude : 40.565841
+ OLD latitude : 40.4969838
+GRD-00014
+coordinates: 
+ NEW longitude : -7.224364
+ OLD longitude : -7.8108314
+GRD-00014
+: 
+ NEW coordinates : {'latitude': '40.565841', 'longitude': '-7.224364'}
+ OLD coordinates : {'latitude': '40.4969838', 'longitude': '-7.8108314'}
+GRD-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GRD-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
