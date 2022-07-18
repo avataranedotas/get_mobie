@@ -4498,3 +4498,8 @@ VCD-00010-02 evses -> 1: status : CHARGING
 LSB-00478-01 evses -> 0: status : CHARGING
 TVR-00014-01 evses -> 0: status : CHARGING
 TVR-00014-02 evses -> 1: status : CHARGING
+
+2022-07-18 17:45:22
+MTJ-00022-02 evses -> 1: status : CHARGING
+VCD-00010-01 evses -> 0: status : CHARGING
+VCD-00010-02 evses -> 1: status : CHARGING
