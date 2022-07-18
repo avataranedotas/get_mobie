@@ -4503,3 +4503,6 @@ TVR-00014-02 evses -> 1: status : CHARGING
 MTJ-00022-02 evses -> 1: status : CHARGING
 VCD-00010-01 evses -> 0: status : CHARGING
 VCD-00010-02 evses -> 1: status : CHARGING
+
+2022-07-18 18:21:04
+MTJ-00022-02 evses -> 1: status : CHARGING
