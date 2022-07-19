@@ -4506,3 +4506,6 @@ VCD-00010-02 evses -> 1: status : CHARGING
 
 2022-07-18 18:21:04
 MTJ-00022-02 evses -> 1: status : CHARGING
+
+2022-07-19 09:41:51
+OER-00123-01 evses -> 0: status : CHARGING
