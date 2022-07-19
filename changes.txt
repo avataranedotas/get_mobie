@@ -2392,3 +2392,17 @@ Adicionados:['MGL-90004']
 
 MGL-90004-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MGL-90004', 'publish': True, 'address': 'Rua José Maria de Almeida', 'city': 'Mangualde', 'country': 'PRT', 'postal_code': '3530-125', 'coordinates': {'latitude': '40.60048', 'longitude': '-7.75272'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MGL-90004-01', 'evse_id': 'PT*KLC*E*MGL*90004*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MGL-90004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-16T11:01:15.292Z'}], 'last_updated': '2022-07-19T11:23:49.043Z'}, {'uid': 'MGL-90004-02', 'evse_id': 'PT*KLC*E*MGL*90004*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MGL-90004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-16T11:01:15.292Z'}], 'last_updated': '2022-07-19T11:23:50.066Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-02-16T11:01:15.292Z'}
 Removidos:[]
+
+2022-07-19 13:40:59
+Adicionados:['AVR-00037']
+
+AVR-00037-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'AVR-00037', 'publish': True, 'address': 'R. Nova de Vilar', 'city': 'Aveiro', 'country': 'PRT', 'postal_code': '3810-196', 'coordinates': {'latitude': '40.6315602', 'longitude': '-8.6388349'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AVR-00037-03', 'evse_id': 'PT*HRZ*E*AVR*00037*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVR-00037-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2022-06-15T14:51:18.589Z'}], 'last_updated': '2022-07-19T13:19:41.257Z'}, {'uid': 'AVR-00037-02', 'evse_id': 'PT*HRZ*E*AVR*00037*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVR-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-15T14:51:18.589Z'}], 'last_updated': '2022-07-19T13:19:41.257Z'}, {'uid': 'AVR-00037-01', 'evse_id': 'PT*HRZ*E*AVR*00037*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVR-00037-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2022-06-15T14:51:18.588Z'}], 'last_updated': '2022-07-19T13:19:41.257Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-19T13:19:41.214Z'}
+Removidos:[]
+MGL-90004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MGL-90004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
