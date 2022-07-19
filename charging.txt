@@ -4521,3 +4521,7 @@ NZR-00019-01 evses -> 2: status : CHARGING
 
 2022-07-19 17:06:13
 NZR-00019-01 evses -> 2: status : CHARGING
+
+2022-07-19 17:48:42
+LSB-00489-1 evses -> 0: status : CHARGING
+NZR-00019-01 evses -> 2: status : CHARGING
