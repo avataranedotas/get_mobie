@@ -4553,3 +4553,9 @@ AVR-00037-03 evses -> 0: status : CHARGING
 
 2022-07-20 10:43:22
 SNT-00079-03 evses -> 2: status : CHARGING
+
+2022-07-20 11:15:02
+LSB-00484-02 evses -> 1: status : CHARGING
+OLH-90002-02 evses -> 1: status : CHARGING
+SNT-00079-03 evses -> 2: status : CHARGING
+SNT-00082-03 evses -> 0: status : CHARGING
