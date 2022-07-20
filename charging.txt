@@ -4544,3 +4544,6 @@ CLD-00018-01 evses -> 2: status : CHARGING
 
 2022-07-20 09:44:46
 CLD-00018-01 evses -> 2: status : CHARGING
+
+2022-07-20 09:53:01
+CLD-00018-01 evses -> 2: status : CHARGING
