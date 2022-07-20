@@ -2406,3 +2406,7 @@ MGL-90004
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-20 09:18:27
+Adicionados:[]
+Removidos:['AVR-00019']
