@@ -4592,3 +4592,6 @@ SNT-00079-03 evses -> 2: status : CHARGING
 
 2022-07-20 18:52:57
 SNT-00079-03 evses -> 2: status : CHARGING
+
+2022-07-20 19:14:39
+SNT-00079-03 evses -> 2: status : CHARGING
