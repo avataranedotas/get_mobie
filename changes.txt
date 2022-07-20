@@ -2434,3 +2434,17 @@ Adicionados:['AVR-00014']
 
 AVR-00014-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'AVR-00014', 'publish': True, 'address': 'N109 km 3,25', 'city': 'Aveiro', 'country': 'PRT', 'postal_code': '3800-533', 'coordinates': {'latitude': '40.664868', 'longitude': '-8.610738'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'AVR-00014-01', 'evse_id': 'PT*GLG*E*AVR*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'AVR-00014-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T10:50:40.323Z'}], 'last_updated': '2022-07-20T13:33:27.577Z'}, {'uid': 'AVR-00014-02', 'evse_id': 'PT*GLG*E*AVR*00014*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'AVR-00014-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T10:50:40.324Z'}], 'last_updated': '2022-07-20T13:33:28.492Z'}, {'uid': 'AVR-00014-03', 'evse_id': 'PT*GLG*E*AVR*00014*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'AVR-00014-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-02-16T10:50:40.326Z'}], 'last_updated': '2022-07-20T13:33:26.329Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-20T13:33:25.926Z'}
 Removidos:[]
+
+2022-07-20 15:19:54
+AVR-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVR-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVR-00014
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
