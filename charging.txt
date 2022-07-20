@@ -4578,3 +4578,6 @@ SNT-00082-03 evses -> 0: status : CHARGING
 
 2022-07-20 16:27:41
 SNT-00082-01 evses -> 2: status : CHARGING
+
+2022-07-20 17:44:08
+OLH-90002-02 evses -> 1: status : CHARGING
