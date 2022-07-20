@@ -4541,3 +4541,6 @@ LSB-00489-1 evses -> 0: status : CHARGING
 
 2022-07-20 09:41:09
 CLD-00018-01 evses -> 2: status : CHARGING
+
+2022-07-20 09:44:46
+CLD-00018-01 evses -> 2: status : CHARGING
