@@ -4606,3 +4606,6 @@ SXL-00020-03 evses -> 1: status : CHARGING
 2022-07-21 12:39:06
 AVR-00014-02 evses -> 1: status : CHARGING
 LSB-00485-1 evses -> 0: status : CHARGING
+
+2022-07-21 13:40:47
+LSB-00485-1 evses -> 0: status : CHARGING
