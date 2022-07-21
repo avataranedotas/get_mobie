@@ -4627,3 +4627,7 @@ LSB-00485-1 evses -> 0: status : CHARGING
 AVR-90001-2 evses -> 0: status : CHARGING
 LSB-00485-1 evses -> 0: status : CHARGING
 SNT-00080-01 evses -> 2: status : CHARGING
+
+2022-07-21 16:56:52
+LSB-00485-1 evses -> 0: status : CHARGING
+SNT-00079-03 evses -> 2: status : CHARGING
