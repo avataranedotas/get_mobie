@@ -4612,3 +4612,6 @@ LSB-00485-1 evses -> 0: status : CHARGING
 
 2022-07-21 14:16:54
 LSB-00485-1 evses -> 0: status : CHARGING
+
+2022-07-21 14:39:37
+LSB-00485-1 evses -> 0: status : CHARGING
