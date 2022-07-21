@@ -2462,3 +2462,9 @@ PRT-00073
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-21 11:15:32
+Adicionados:['SXL-00020']
+
+SXL-00020-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'SXL-00020', 'publish': True, 'address': 'Sitio Estação Ferr F Amora, 9001', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2845-358', 'coordinates': {'latitude': '38.623748', 'longitude': '-9.1300229'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SXL-00020-02', 'evse_id': 'PT*HRZ*E*SXL*00020*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'SXL-00020-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-07-21T11:00:13.049Z'}], 'last_updated': '2022-07-21T11:11:36.755Z'}, {'uid': 'SXL-00020-03', 'evse_id': 'PT*HRZ*E*SXL*00020*03', 'status': 'CHARGING', 'connectors': [{'id': 'SXL-00020-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-21T11:00:13.05Z'}], 'last_updated': '2022-07-21T11:11:58.503Z'}, {'uid': 'SXL-00020-01', 'evse_id': 'PT*HRZ*E*SXL*00020*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SXL-00020-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-07-21T11:00:13.048Z'}], 'last_updated': '2022-07-21T11:11:34.805Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-21T11:00:13.047Z'}
+Removidos:[]
