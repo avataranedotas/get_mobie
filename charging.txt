@@ -4639,3 +4639,6 @@ SNT-00079-03 evses -> 2: status : CHARGING
 2022-07-21 17:43:24
 LSB-00485-1 evses -> 0: status : CHARGING
 SNT-00079-03 evses -> 2: status : CHARGING
+
+2022-07-21 18:23:39
+SNT-00079-03 evses -> 2: status : CHARGING
