@@ -4618,3 +4618,7 @@ LSB-00485-1 evses -> 0: status : CHARGING
 
 2022-07-21 15:20:16
 LSB-00485-1 evses -> 0: status : CHARGING
+
+2022-07-21 15:45:51
+AVR-90001-3 evses -> 3: status : CHARGING
+LSB-00485-1 evses -> 0: status : CHARGING
