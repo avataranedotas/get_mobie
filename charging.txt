@@ -4602,3 +4602,7 @@ OER-00120-02 evses -> 1: status : CHARGING
 2022-07-21 11:15:35
 SNT-00080-03 evses -> 1: status : CHARGING
 SXL-00020-03 evses -> 1: status : CHARGING
+
+2022-07-21 12:39:06
+AVR-00014-02 evses -> 1: status : CHARGING
+LSB-00485-1 evses -> 0: status : CHARGING
