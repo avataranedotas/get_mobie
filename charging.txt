@@ -4689,3 +4689,7 @@ ALM-00043-03 evses -> 1: status : CHARGING
 PBL-00007-02 evses -> 1: status : CHARGING
 PFR-00003-01 evses -> 0: status : CHARGING
 PRD-00010-02 evses -> 0: status : CHARGING
+
+2022-07-22 20:19:54
+ACH-90006-1 evses -> 1: status : CHARGING
+LSB-00490-1 evses -> 0: status : CHARGING
