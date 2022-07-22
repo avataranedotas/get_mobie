@@ -4693,3 +4693,7 @@ PRD-00010-02 evses -> 0: status : CHARGING
 2022-07-22 20:19:54
 ACH-90006-1 evses -> 1: status : CHARGING
 LSB-00490-1 evses -> 0: status : CHARGING
+
+2022-07-22 20:42:10
+ACH-90006-1 evses -> 1: status : CHARGING
+LSB-00490-1 evses -> 0: status : CHARGING
