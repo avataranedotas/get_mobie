@@ -4661,3 +4661,6 @@ ALM-00043-01 evses -> 0: status : CHARGING
 
 2022-07-22 12:36:18
 PFR-00003-02 evses -> 1: status : CHARGING
+
+2022-07-22 14:41:03
+PBL-00007-02 evses -> 1: status : CHARGING
