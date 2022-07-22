@@ -4676,3 +4676,9 @@ PBL-00007-02 evses -> 1: status : CHARGING
 2022-07-22 17:26:57
 PBL-00005-02 evses -> 2: status : CHARGING
 PBL-00007-02 evses -> 1: status : CHARGING
+
+2022-07-22 17:48:07
+ALM-00043-01 evses -> 0: status : CHARGING
+ALM-00043-03 evses -> 1: status : CHARGING
+ALM-00043-02 evses -> 2: status : CHARGING
+PBL-00006-02 evses -> 1: status : CHARGING
