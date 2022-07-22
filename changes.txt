@@ -2512,3 +2512,17 @@ Adicionados:['AMT-00008']
 
 AMT-00008-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'AMT-00008', 'publish': True, 'address': 'LUGAR DE RELAS SÃO GONÇALO', 'city': 'Amarante', 'country': 'PRT', 'postal_code': '4600-279', 'coordinates': {'latitude': '41.2731001', 'longitude': '-8.09158'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMT-00008-1', 'evse_id': 'PT*MOO*E*AMT*00008*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'AMT-00008-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-23T16:17:45.447Z'}], 'last_updated': '2022-07-22T10:10:47.061Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-06-23T16:17:45.446Z'}
 Removidos:[]
+
+2022-07-22 13:36:53
+PBL-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PBL-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
+PBL-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
