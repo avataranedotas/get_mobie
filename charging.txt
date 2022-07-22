@@ -4701,3 +4701,6 @@ LSB-00490-1 evses -> 0: status : CHARGING
 2022-07-22 21:16:23
 ACH-90006-1 evses -> 1: status : CHARGING
 LSB-00490-1 evses -> 0: status : CHARGING
+
+2022-07-22 21:40:19
+ACH-90006-1 evses -> 1: status : CHARGING
