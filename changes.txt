@@ -2544,3 +2544,37 @@ PBL-00007
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-22 15:19:40
+LSB-00413
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00414
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00415
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-00416
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00117
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00118
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00119
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00120
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
