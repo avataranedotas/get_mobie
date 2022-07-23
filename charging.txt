@@ -4716,3 +4716,6 @@ PRD-00010-02 evses -> 0: status : CHARGING
 
 2022-07-23 11:15:34
 ACH-90006-1 evses -> 1: status : CHARGING
+
+2022-07-23 11:37:42
+ACH-90006-1 evses -> 1: status : CHARGING
