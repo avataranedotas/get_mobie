@@ -2578,3 +2578,7 @@ PRT-00120
 evses -> 0 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-25 08:49:12
+Adicionados:[]
+Removidos:['LSB-00030', 'LSB-00186', 'LSB-00462', 'LSB-90059', 'OER-00087']
