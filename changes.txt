@@ -2582,3 +2582,9 @@ evses -> 0 -> connectors -> 0:
 2022-07-25 08:49:12
 Adicionados:[]
 Removidos:['LSB-00030', 'LSB-00186', 'LSB-00462', 'LSB-90059', 'OER-00087']
+
+2022-07-25 11:17:02
+Adicionados:['LSB-00497']
+
+LSB-00497-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00497', 'publish': True, 'address': 'Av. Duque de Ávila 195', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1050-082', 'coordinates': {'latitude': '38.7348383', 'longitude': '-9.1508991'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00497-01', 'evse_id': 'PT*GLP*E*LSB*00497*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00497-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-07T10:38:51.35Z'}], 'last_updated': '2022-07-25T11:04:34.212Z'}, {'uid': 'LSB-00497-02', 'evse_id': 'PT*GLP*E*LSB*00497*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00497-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-07T10:38:51.351Z'}], 'last_updated': '2022-07-25T11:04:34.873Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-07T10:38:51.349Z'}
+Removidos:[]
