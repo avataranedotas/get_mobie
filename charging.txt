@@ -4737,3 +4737,6 @@ SJM-90002-02 evses -> 0: status : CHARGING
 
 2022-07-25 19:18:15
 PVL-00003-1 evses -> 0: status : CHARGING
+
+2022-07-25 22:17:21
+PRT-00152-01 evses -> 1: status : CHARGING
