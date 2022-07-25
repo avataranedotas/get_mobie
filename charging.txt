@@ -4740,3 +4740,6 @@ PVL-00003-1 evses -> 0: status : CHARGING
 
 2022-07-25 22:17:21
 PRT-00152-01 evses -> 1: status : CHARGING
+
+2022-07-25 22:39:53
+PRT-00152-01 evses -> 1: status : CHARGING
