@@ -4725,3 +4725,6 @@ ACH-90006-1 evses -> 1: status : CHARGING
 
 2022-07-25 15:45:04
 SJM-90002-02 evses -> 0: status : CHARGING
+
+2022-07-25 16:26:37
+SJM-90002-02 evses -> 0: status : CHARGING
