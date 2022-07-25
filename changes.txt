@@ -2604,3 +2604,23 @@ PRT-00152-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'PRT-00152', 'publis
 
 PVL-00005-->{'country_code': 'PT', 'party_id': 'EVC', 'id': 'PVL-00005', 'publish': True, 'address': 'Rua da Misericórdia, 141', 'city': 'Póvoa de Lanhoso', 'country': 'PRT', 'postal_code': '4830-503', 'coordinates': {'latitude': '41.573753', 'longitude': '-8.264965'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PVL-00005-1', 'evse_id': 'PT*EVC*E*PVL*00005*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'PVL-00005-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-07-20T15:09:21.32Z'}], 'last_updated': '2022-07-25T12:35:51.629Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-25T12:35:51.586Z'}
 Removidos:[]
+
+2022-07-25 15:20:11
+Adicionados:[]
+Removidos:['PRT-00135']
+AVV-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVV-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVV-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVV-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
