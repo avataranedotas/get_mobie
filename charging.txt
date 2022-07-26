@@ -4764,3 +4764,7 @@ LSB-00495-02 evses -> 0: status : CHARGING
 
 2022-07-26 07:38:26
 LSB-00495-02 evses -> 0: status : CHARGING
+
+2022-07-26 08:22:36
+LSB-00495-02 evses -> 0: status : CHARGING
+PRT-00152-01 evses -> 1: status : CHARGING
