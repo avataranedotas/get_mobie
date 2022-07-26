@@ -2766,3 +2766,7 @@ PBL-00005
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-07-26 23:17:18
+Adicionados:[]
+Removidos:['OER-00044']
