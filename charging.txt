@@ -4784,3 +4784,6 @@ AGH-00005-01 evses -> 1: status : CHARGING
 
 2022-07-26 12:37:29
 VCT-90009-02 evses -> 1: status : CHARGING
+
+2022-07-26 20:41:24
+LSB-00505-01 evses -> 1: status : CHARGING
