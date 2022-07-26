@@ -2752,3 +2752,17 @@ Removidos:['LSB-00329']
 2022-07-26 16:26:39
 Adicionados:[]
 Removidos:['PBL-00001']
+
+2022-07-26 17:24:49
+PBL-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PBL-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PBL-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
