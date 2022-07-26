@@ -4790,3 +4790,6 @@ LSB-00505-01 evses -> 1: status : CHARGING
 
 2022-07-26 21:15:48
 LSB-00505-01 evses -> 1: status : CHARGING
+
+2022-07-26 21:38:55
+LSB-00505-01 evses -> 1: status : CHARGING
