@@ -4799,3 +4799,6 @@ CVL-00007-02 evses -> 1: status : CHARGING
 
 2022-07-27 09:40:40
 CVL-00007-02 evses -> 1: status : CHARGING
+
+2022-07-27 11:37:31
+RMZ-90002-02 evses -> 0: status : CHARGING
