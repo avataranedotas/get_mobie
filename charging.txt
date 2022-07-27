@@ -4818,3 +4818,6 @@ VIS-00024-02 evses -> 1: status : CHARGING
 
 2022-07-27 21:15:49
 VIS-00021-02 evses -> 2: status : CHARGING
+
+2022-07-27 21:38:48
+VIS-00021-02 evses -> 2: status : CHARGING
