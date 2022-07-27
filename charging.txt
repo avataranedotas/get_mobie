@@ -4796,3 +4796,6 @@ LSB-00505-01 evses -> 1: status : CHARGING
 
 2022-07-27 09:17:46
 CVL-00007-02 evses -> 1: status : CHARGING
+
+2022-07-27 09:40:40
+CVL-00007-02 evses -> 1: status : CHARGING
