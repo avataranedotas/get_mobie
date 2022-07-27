@@ -2786,3 +2786,7 @@ Adicionados:['VIS-00019']
 
 VIS-00019-->{'country_code': 'PT', 'party_id': 'VIS', 'id': 'VIS-00019', 'publish': True, 'address': 'Rua do Palácio do Gelo 1, Piso -2', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-606', 'coordinates': {'latitude': '40.643675', 'longitude': '-7.911604'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIS-00019-02', 'evse_id': 'PT*VIS*E*VIS*00019*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00019-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-27T09:32:40.217Z'}], 'last_updated': '2022-07-27T09:32:40.217Z'}, {'uid': 'VIS-00019-01', 'evse_id': 'PT*VIS*E*VIS*00019*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00019-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-27T09:32:40.217Z'}], 'last_updated': '2022-07-27T09:32:40.217Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-27T09:32:40.216Z'}
 Removidos:[]
+
+2022-07-27 10:22:37
+Adicionados:[]
+Removidos:['AGN-00001']
