@@ -4835,3 +4835,7 @@ PVL-00003-1 evses -> 0: status : CHARGING
 2022-07-28 11:37:44
 VIS-00021-02 evses -> 2: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2022-07-28 12:41:43
+VIS-00021-02 evses -> 2: status : CHARGING
+VIS-00023-02 evses -> 1: status : CHARGING
