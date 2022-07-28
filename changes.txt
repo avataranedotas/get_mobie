@@ -2914,3 +2914,27 @@ Adicionados:['PRT-00037']
 
 PRT-00037-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'PRT-00037', 'publish': True, 'address': 'Rua de 9 de Julho, Nr 40', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4050-433', 'coordinates': {'latitude': '41.163088', 'longitude': '-8.623606'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'PRT-00037-02', 'evse_id': 'PT*MLT*E*PRT*00037*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'PRT-00037-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T11:15:04.087Z'}], 'last_updated': '2022-07-28T13:36:44.756Z'}, {'uid': 'PRT-00037-01', 'evse_id': 'PT*MLT*E*PRT*00037*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'PRT-00037-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T11:15:04.086Z'}], 'last_updated': '2022-07-28T13:36:44.756Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T13:36:44.724Z'}
 Removidos:[]
+
+2022-07-28 14:19:55
+Adicionados:['OER-00125', 'OER-00126']
+
+OER-00125-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'OER-00125', 'publish': True, 'address': 'Av. José Gomes Ferreira 13', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '1495-139', 'coordinates': {'latitude': '38.7146829', 'longitude': '-9.231131'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00125-01', 'evse_id': 'PT*HRZ*E*OER*00125*01', 'status': 'CHARGING', 'connectors': [{'id': 'OER-00125-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-05T15:27:50.808Z'}], 'last_updated': '2022-07-28T14:07:44.362Z'}, {'uid': 'OER-00125-02', 'evse_id': 'PT*HRZ*E*OER*00125*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00125-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-05T15:27:50.808Z'}], 'last_updated': '2022-07-28T14:07:33.834Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-05T15:27:50.807Z'}
+
+OER-00126-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'OER-00126', 'publish': True, 'address': 'Av. José Gomes Ferreira 13', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '1495-139', 'coordinates': {'latitude': '38.7146829', 'longitude': '-9.231131'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00126-01', 'evse_id': 'PT*HRZ*E*OER*00126*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00126-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-05T15:28:10.842Z'}], 'last_updated': '2022-07-28T14:07:37.934Z'}, {'uid': 'OER-00126-02', 'evse_id': 'PT*HRZ*E*OER*00126*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00126-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-05T15:28:10.842Z'}], 'last_updated': '2022-07-28T14:07:39.043Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T14:03:32.49Z'}
+Removidos:[]
+PRT-00036
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00036
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00037
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00037
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
