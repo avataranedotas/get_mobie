@@ -4839,3 +4839,10 @@ VVR-00003-02 evses -> 0: status : CHARGING
 2022-07-28 12:41:43
 VIS-00021-02 evses -> 2: status : CHARGING
 VIS-00023-02 evses -> 1: status : CHARGING
+
+2022-07-28 13:42:06
+PRT-00036-02 evses -> 1: status : CHARGING
+VIS-00021-02 evses -> 2: status : CHARGING
+VIS-00022-02 evses -> 0: status : CHARGING
+VIS-00022-03 evses -> 1: status : CHARGING
+VIS-00023-02 evses -> 1: status : CHARGING
