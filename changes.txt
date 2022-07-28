@@ -2830,3 +2830,65 @@ Adicionados:['VVR-00002']
 
 VVR-00002-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'VVR-00002', 'publish': True, 'address': 'A23 Km 80 - Fratel (S/N)', 'city': 'Vila Velha de Ródão', 'country': 'PRT', 'postal_code': '6030-000', 'coordinates': {'latitude': '39.573654', 'longitude': '-7.782657'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VVR-00002-01', 'evse_id': 'PT*GLG*E*VVR*00002*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VVR-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-07-28T09:09:06.24Z'}], 'last_updated': '2022-07-28T09:09:45.003Z'}, {'uid': 'VVR-00002-02', 'evse_id': 'PT*GLG*E*VVR*00002*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VVR-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 180000, 'last_updated': '2022-07-28T09:09:06.241Z'}], 'last_updated': '2022-07-28T09:09:46.325Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T09:09:06.239Z'}
 Removidos:[]
+
+2022-07-28 10:21:32
+Adicionados:['BRG-00012', 'BRG-00014', 'VNG-00082']
+
+BRG-00012-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'BRG-00012', 'publish': True, 'address': 'Rua da Quintã', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4700-110', 'coordinates': {'latitude': '41.561766', 'longitude': '-8.444903'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRG-00012-01', 'evse_id': 'PT*MOB*E*BRG*00012*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-07-28T09:50:56.721Z'}], 'last_updated': '2022-07-28T10:04:46.882Z'}, {'uid': 'BRG-00012-02', 'evse_id': 'PT*MOB*E*BRG*00012*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRG-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-07-28T09:50:56.722Z'}], 'last_updated': '2022-07-28T10:04:13.925Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T10:04:13.882Z'}
+
+BRG-00014-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'BRG-00014', 'publish': True, 'address': 'Rua Quinta da Armada', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4710-340', 'coordinates': {'latitude': '41.566553', 'longitude': '-8.397965'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRG-00014-2', 'evse_id': 'PT*MOB*E*BRG*00014*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRG-00014-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-07-28T09:50:57.634Z'}], 'last_updated': '2022-07-28T10:04:14.597Z'}, {'uid': 'BRG-00014-1', 'evse_id': 'PT*MOB*E*BRG*00014*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRG-00014-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-07-28T09:50:57.633Z'}], 'last_updated': '2022-07-28T10:04:14.597Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T10:04:14.557Z'}
+
+VNG-00082-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'VNG-00082', 'publish': True, 'address': 'Lado Shopping, Via 8', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-290', 'coordinates': {'latitude': '41.140257', 'longitude': '-8.632957'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00082-02', 'evse_id': 'PT*GLG*E*VNG*00082*02', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00082-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-07-27T09:12:40.91Z'}], 'last_updated': '2022-07-28T10:06:18.881Z'}, {'uid': 'VNG-00082-01', 'evse_id': 'PT*GLG*E*VNG*00082*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00082-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 60, 'max_electric_power': 120000, 'last_updated': '2022-07-27T09:12:40.91Z'}], 'last_updated': '2022-07-28T10:06:18.881Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-07-28T10:06:18.816Z'}
+Removidos:[]
+ALQ-00003
+coordinates: 
+ NEW latitude : 39.028514
+ OLD latitude : 38.6179955
+ALQ-00003
+coordinates: 
+ NEW longitude : -8.967155
+ OLD longitude : -8.0819565
+ALQ-00003
+: 
+ NEW coordinates : {'latitude': '39.028514', 'longitude': '-8.967155'}
+ OLD coordinates : {'latitude': '38.6179955', 'longitude': '-8.0819565'}
+ALQ-00004
+coordinates: 
+ NEW latitude : 39.028514
+ OLD latitude : 38.6179955
+ALQ-00004
+coordinates: 
+ NEW longitude : -8.967155
+ OLD longitude : -8.0819565
+ALQ-00004
+: 
+ NEW coordinates : {'latitude': '39.028514', 'longitude': '-8.967155'}
+ OLD coordinates : {'latitude': '38.6179955', 'longitude': '-8.0819565'}
+ALQ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALQ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALQ-00005
+coordinates: 
+ NEW latitude : 39.028514
+ OLD latitude : 38.6179955
+ALQ-00005
+coordinates: 
+ NEW longitude : -8.967155
+ OLD longitude : -8.0819565
+ALQ-00005
+: 
+ NEW coordinates : {'latitude': '39.028514', 'longitude': '-8.967155'}
+ OLD coordinates : {'latitude': '38.6179955', 'longitude': '-8.0819565'}
+ALQ-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+ALQ-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
