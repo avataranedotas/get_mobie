@@ -4878,3 +4878,7 @@ VIS-00021-03 evses -> 0: status : CHARGING
 2022-07-28 18:49:37
 VIS-00021-03 evses -> 0: status : CHARGING
 VIS-00022-03 evses -> 1: status : CHARGING
+
+2022-07-28 19:14:24
+VIS-00021-03 evses -> 0: status : CHARGING
+VIS-00022-03 evses -> 1: status : CHARGING
