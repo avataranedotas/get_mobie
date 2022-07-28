@@ -4867,3 +4867,7 @@ VIS-00023-01 evses -> 0: status : CHARGING
 2022-07-28 16:30:14
 VCD-00009-01 evses -> 1: status : CHARGING
 VCT-00028-01 evses -> 1: status : CHARGING
+
+2022-07-28 17:47:07
+BCL-00011-1 evses -> 0: status : CHARGING
+VIS-00021-03 evses -> 0: status : CHARGING
