@@ -2892,3 +2892,7 @@ ALQ-00005
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_1_PHASE
  OLD power_type : DC
+
+2022-07-28 10:44:34
+Adicionados:[]
+Removidos:['BRG-00012']
