@@ -4852,3 +4852,7 @@ PRT-00037-01 evses -> 1: status : CHARGING
 VIS-00021-03 evses -> 0: status : CHARGING
 VIS-00022-02 evses -> 0: status : CHARGING
 VIS-00022-03 evses -> 1: status : CHARGING
+
+2022-07-28 14:42:03
+BCL-00010-1 evses -> 0: status : CHARGING
+VIS-00022-03 evses -> 1: status : CHARGING
