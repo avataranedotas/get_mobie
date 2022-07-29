@@ -4940,3 +4940,6 @@ STB-00030-01 evses -> 1: status : CHARGING
 
 2022-07-29 15:46:57
 STB-00030-01 evses -> 1: status : CHARGING
+
+2022-07-29 16:27:38
+STB-00030-01 evses -> 1: status : CHARGING
