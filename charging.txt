@@ -4909,3 +4909,6 @@ STB-00030-01 evses -> 1: status : CHARGING
 2022-07-29 09:41:51
 LSB-00507-02 evses -> 1: status : CHARGING
 STB-00030-01 evses -> 1: status : CHARGING
+
+2022-07-29 10:21:25
+STB-00030-01 evses -> 1: status : CHARGING
