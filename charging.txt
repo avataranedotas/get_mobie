@@ -4925,3 +4925,6 @@ STB-00030-01 evses -> 1: status : CHARGING
 2022-07-29 12:38:06
 OER-00125-01 evses -> 0: status : CHARGING
 STB-00030-01 evses -> 1: status : CHARGING
+
+2022-07-29 13:39:48
+STB-00030-01 evses -> 1: status : CHARGING
