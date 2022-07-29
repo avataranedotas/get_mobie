@@ -4889,3 +4889,6 @@ VIS-00021-03 evses -> 0: status : CHARGING
 
 2022-07-29 06:49:16
 OER-00126-02 evses -> 1: status : CHARGING
+
+2022-07-29 07:16:38
+OER-00126-02 evses -> 1: status : CHARGING
