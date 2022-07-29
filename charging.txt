@@ -4892,3 +4892,6 @@ OER-00126-02 evses -> 1: status : CHARGING
 
 2022-07-29 07:16:38
 OER-00126-02 evses -> 1: status : CHARGING
+
+2022-07-29 07:38:02
+OER-00126-02 evses -> 1: status : CHARGING
