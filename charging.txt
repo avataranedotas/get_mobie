@@ -4975,3 +4975,6 @@ EVR-00025-01 evses -> 1: status : CHARGING
 
 2022-07-30 08:22:03
 EVR-00025-01 evses -> 1: status : CHARGING
+
+2022-07-30 08:44:12
+EVR-00025-01 evses -> 1: status : CHARGING
