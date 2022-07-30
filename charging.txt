@@ -4998,3 +4998,6 @@ VIS-00020-02 evses -> 1: status : CHARGING
 
 2022-07-30 20:17:37
 VIS-00020-02 evses -> 1: status : CHARGING
+
+2022-07-30 20:39:26
+VIS-00020-02 evses -> 1: status : CHARGING
