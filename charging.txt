@@ -4966,3 +4966,6 @@ VIS-00019-02 evses -> 0: status : CHARGING
 
 2022-07-29 19:36:49
 VIS-00019-02 evses -> 0: status : CHARGING
+
+2022-07-30 07:16:16
+EVR-00025-01 evses -> 1: status : CHARGING
