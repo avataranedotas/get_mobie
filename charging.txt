@@ -4988,3 +4988,7 @@ EVR-00025-01 evses -> 1: status : CHARGING
 2022-07-30 11:36:12
 ABT-00009-01 evses -> 0: status : CHARGING
 PTG-00014-01 evses -> 1: status : CHARGING
+
+2022-07-30 11:37:45
+ABT-00009-01 evses -> 0: status : CHARGING
+PTG-00014-01 evses -> 1: status : CHARGING
