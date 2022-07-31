@@ -5001,3 +5001,6 @@ VIS-00020-02 evses -> 1: status : CHARGING
 
 2022-07-30 20:39:26
 VIS-00020-02 evses -> 1: status : CHARGING
+
+2022-07-31 09:16:33
+TVR-00014-01 evses -> 0: status : CHARGING
