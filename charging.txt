@@ -5010,3 +5010,6 @@ TVR-00014-01 evses -> 0: status : CHARGING
 
 2022-07-31 10:18:58
 TVR-00014-01 evses -> 0: status : CHARGING
+
+2022-07-31 10:41:10
+TVR-00014-01 evses -> 0: status : CHARGING
