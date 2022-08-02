@@ -3084,3 +3084,7 @@ Adicionados:['FAR-00028']
 
 FAR-00028-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'FAR-00028', 'publish': True, 'address': 'EN125', 'city': 'Faro', 'country': 'PRT', 'postal_code': '8365-023', 'coordinates': {'latitude': '37.1321077', 'longitude': '-8.3596268'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FAR-00028-02', 'evse_id': 'PT*HRZ*E*FAR*00028*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'FAR-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-15T14:52:18.967Z'}], 'last_updated': '2022-08-02T12:17:21.671Z'}, {'uid': 'FAR-00028-01', 'evse_id': 'PT*HRZ*E*FAR*00028*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'FAR-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-15T14:52:18.967Z'}], 'last_updated': '2022-08-02T12:17:21.671Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-02T12:17:21.246Z'}
 Removidos:[]
+
+2022-08-02 20:41:25
+Adicionados:[]
+Removidos:['BRG-00013']
