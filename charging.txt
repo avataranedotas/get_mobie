@@ -5122,3 +5122,6 @@ TRF-00011-01 evses -> 2: status : CHARGING
 
 2022-08-03 08:25:26
 FAR-00028-02 evses -> 0: status : CHARGING
+
+2022-08-03 08:49:21
+FAR-00028-02 evses -> 0: status : CHARGING
