@@ -3088,3 +3088,9 @@ Removidos:[]
 2022-08-02 20:41:25
 Adicionados:[]
 Removidos:['BRG-00013']
+
+2022-08-03 10:20:38
+Adicionados:['VVD-00011']
+
+VVD-00011-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VVD-00011', 'publish': True, 'address': 'Av. António Sérgio, 232', 'city': 'Vila Verde', 'country': 'PRT', 'postal_code': '4730-710', 'coordinates': {'latitude': '41.64216', 'longitude': '-8.434932'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VVD-00011-01', 'evse_id': 'PT*EDP*E*VVD*00011*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VVD-00011-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-05T14:52:49.071Z'}], 'last_updated': '2022-08-03T10:13:15.252Z'}, {'uid': 'VVD-00011-02', 'evse_id': 'PT*EDP*E*VVD*00011*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VVD-00011-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-05-05T14:52:49.072Z'}], 'last_updated': '2022-08-03T10:15:15.978Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-06-01T13:23:27.702949Z'}
+Removidos:[]
