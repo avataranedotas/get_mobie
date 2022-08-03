@@ -5151,3 +5151,6 @@ FLG-00005-03 evses -> 0: status : CHARGING
 
 2022-08-03 12:36:56
 FLG-00005-03 evses -> 0: status : CHARGING
+
+2022-08-03 13:40:22
+FLG-00005-03 evses -> 0: status : CHARGING
