@@ -5140,3 +5140,7 @@ FAR-00028-01 evses -> 1: status : CHARGING
 FLG-00005-03 evses -> 0: status : CHARGING
 FLG-00005-01 evses -> 1: status : CHARGING
 FLG-00005-02 evses -> 2: status : CHARGING
+
+2022-08-03 11:15:42
+FAR-00028-01 evses -> 1: status : CHARGING
+FLG-00005-03 evses -> 0: status : CHARGING
