@@ -5166,3 +5166,6 @@ PVL-00004-1 evses -> 0: status : CHARGING
 
 2022-08-05 06:23:20
 FAR-00028-01 evses -> 1: status : CHARGING
+
+2022-08-05 06:48:41
+FAR-00028-01 evses -> 1: status : CHARGING
