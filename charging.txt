@@ -5169,3 +5169,6 @@ FAR-00028-01 evses -> 1: status : CHARGING
 
 2022-08-05 06:48:41
 FAR-00028-01 evses -> 1: status : CHARGING
+
+2022-08-05 07:17:11
+FAR-00028-01 evses -> 1: status : CHARGING
