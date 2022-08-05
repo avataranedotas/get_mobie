@@ -5205,3 +5205,6 @@ GRD-80003-1 evses -> 1: status : CHARGING
 
 2022-08-05 21:39:34
 GRD-80003-1 evses -> 1: status : CHARGING
+
+2022-08-05 22:17:27
+GRD-80003-1 evses -> 1: status : CHARGING
