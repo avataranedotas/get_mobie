@@ -3368,3 +3368,41 @@ OAZ-90004-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'OAZ-90004', 'publis
 
 OER-00087-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'OER-00087', 'publish': True, 'address': 'Avenida Dr. Francisco Sá Carneiro', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2780-241', 'coordinates': {'latitude': '38.691553', 'longitude': '-9.305247'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00087-01', 'evse_id': 'PT*GLP*E*OER*00087*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00087-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 160000, 'last_updated': '2022-08-08T09:54:05.075Z'}], 'last_updated': '2022-08-08T09:54:05.075Z'}, {'uid': 'OER-00087-02', 'evse_id': 'PT*GLP*E*OER*00087*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00087-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 350, 'max_electric_power': 160000, 'last_updated': '2022-08-08T09:54:05.076Z'}], 'last_updated': '2022-08-08T09:54:05.076Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-08T09:54:05.073Z'}
 Removidos:[]
+
+2022-08-08 14:39:47
+Adicionados:['GMR-90012']
+
+GMR-90012-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-90012', 'publish': True, 'address': 'Alameda Mariano Felgueiras', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-075', 'coordinates': {'latitude': '41.4413001', 'longitude': '-8.3042667'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-90012-02', 'evse_id': 'PT*KLC*E*GMR*90012*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-90012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-08-08T14:11:14.285Z'}], 'last_updated': '2022-08-08T14:13:02.434Z'}, {'uid': 'GMR-90012-01', 'evse_id': 'PT*KLC*E*GMR*90012*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-90012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-08-08T14:11:14.284Z'}], 'last_updated': '2022-08-08T14:13:02.434Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-08-08T14:13:02.405Z'}
+Removidos:[]
+AMD-00049
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+AMD-00049
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AMD-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+AMD-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+AMD-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+AMD-00049
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AMD-00049
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+AMD-00049
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC

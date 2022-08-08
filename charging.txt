@@ -5233,3 +5233,6 @@ CTB-00017-03 evses -> 1: status : CHARGING
 2022-08-08 14:18:37
 CTB-00017-03 evses -> 1: status : CHARGING
 LSB-00508-01 evses -> 0: status : CHARGING
+
+2022-08-08 14:39:49
+CTB-00017-03 evses -> 1: status : CHARGING
