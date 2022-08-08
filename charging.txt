@@ -5223,3 +5223,6 @@ VVD-00011-01 evses -> 0: status : CHARGING
 
 2022-08-08 10:43:08
 VVD-00011-01 evses -> 0: status : CHARGING
+
+2022-08-08 12:36:56
+CTB-00017-03 evses -> 1: status : CHARGING
