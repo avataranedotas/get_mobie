@@ -3514,3 +3514,7 @@ Adicionados:['MDL-00005']
 
 MDL-00005-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'MDL-00005', 'publish': True, 'address': 'Vale de cerdeira - Golfeiras', 'city': 'Mirandela', 'country': 'PRT', 'postal_code': '5370-405', 'coordinates': {'latitude': '41.482991', 'longitude': '-7.1952941'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MDL-00005-02', 'evse_id': 'PT*GLP*E*MDL*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDL-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2022-07-12T14:28:08.47Z'}], 'last_updated': '2022-08-09T08:02:33.73Z'}, {'uid': 'MDL-00005-01', 'evse_id': 'PT*GLP*E*MDL*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDL-00005-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 90000, 'last_updated': '2022-07-12T14:28:08.469Z'}], 'last_updated': '2022-08-09T08:02:32.98Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-07-12T14:28:08.468Z'}
 Removidos:[]
+
+2022-08-09 11:15:20
+Adicionados:[]
+Removidos:['EVR-00020']
