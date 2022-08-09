@@ -3530,3 +3530,7 @@ Adicionados:['VLG-00017']
 
 VLG-00017-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'VLG-00017', 'publish': True, 'address': 'Av. dos Descobrimentos 34', 'city': 'Valongo', 'country': 'PRT', 'postal_code': '4440-575', 'coordinates': {'latitude': '41.194105', 'longitude': '-8.516548'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VLG-00017-01', 'evse_id': 'PT*GLG*E*VLG*00017*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00017-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 120000, 'last_updated': '2022-06-15T23:45:17.612Z'}], 'last_updated': '2022-08-09T14:06:42.977Z'}, {'uid': 'VLG-00017-02', 'evse_id': 'PT*GLG*E*VLG*00017*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00017-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-06-15T23:45:17.612Z'}], 'last_updated': '2022-08-09T14:06:43.81Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-09T13:53:06.146Z'}
 Removidos:[]
+
+2022-08-09 16:57:16
+Adicionados:[]
+Removidos:['PRT-00148']
