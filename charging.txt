@@ -5281,3 +5281,6 @@ MDL-00005-02 evses -> 0: status : CHARGING
 
 2022-08-09 11:15:22
 LSB-00503-02 evses -> 1: status : CHARGING
+
+2022-08-09 11:37:27
+LSB-00503-02 evses -> 1: status : CHARGING
