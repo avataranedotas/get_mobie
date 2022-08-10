@@ -3610,3 +3610,21 @@ CNS-00002
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-08-10 14:16:33
+Adicionados:['MGR-00005']
+
+MGR-00005-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'MGR-00005', 'publish': True, 'address': 'Av. Marginal', 'city': 'Marinha Grande', 'country': 'PRT', 'postal_code': '2430-696', 'coordinates': {'latitude': '39.8764047', 'longitude': '-8.9702928'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MGR-00005-02', 'evse_id': 'PT*HRZ*E*MGR*00005*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'MGR-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-05-18T16:08:46.365Z'}], 'last_updated': '2022-08-10T14:07:14.923Z'}, {'uid': 'MGR-00005-01', 'evse_id': 'PT*HRZ*E*MGR*00005*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'MGR-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2022-05-18T16:08:46.365Z'}], 'last_updated': '2022-08-10T14:07:14.923Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-08-10T14:07:14.873Z'}
+Removidos:[]
+ESP-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ESP-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ESP-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
