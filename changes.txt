@@ -3646,3 +3646,7 @@ CLD-00014
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-08-10 15:18:50
+Adicionados:[]
+Removidos:['ABT-00002', 'ABT-00003', 'AGN-00001', 'ALM-00022', 'FND-00002', 'FND-00003', 'GMR-90012', 'LRA-00012', 'LRA-00013', 'TVD-00003', 'TVD-00004']
