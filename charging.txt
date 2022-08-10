@@ -5327,3 +5327,6 @@ ALM-00017-02 evses -> 1: status : CHARGING
 
 2022-08-10 21:16:16
 MDL-00005-02 evses -> 0: status : CHARGING
+
+2022-08-10 21:39:29
+MDL-00005-02 evses -> 0: status : CHARGING
