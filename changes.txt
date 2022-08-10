@@ -3596,3 +3596,17 @@ Adicionados:['PVZ-00011']
 
 PVZ-00011-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'PVZ-00011', 'publish': True, 'address': 'Avenida do Mar', 'city': 'Póvoa de Varzim', 'country': 'PRT', 'postal_code': '4490-406', 'coordinates': {'latitude': '41.38893', 'longitude': '-8.76362'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'PVZ-00011-01', 'evse_id': 'PT*GLG*E*PVZ*00011*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PVZ-00011-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T10:52:19.377Z'}], 'last_updated': '2022-08-10T10:34:42.57Z'}, {'uid': 'PVZ-00011-03', 'evse_id': 'PT*GLG*E*PVZ*00011*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00011-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-02-16T10:52:19.379Z'}], 'last_updated': '2022-08-10T10:33:03.874Z'}, {'uid': 'PVZ-00011-02', 'evse_id': 'PT*GLG*E*PVZ*00011*02', 'status': 'CHARGING', 'connectors': [{'id': 'PVZ-00011-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-16T10:52:19.378Z'}], 'last_updated': '2022-08-10T10:34:42.016Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-02-16T10:52:19.376Z'}
 Removidos:[]
+
+2022-08-10 13:33:55
+CNS-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CNS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CNS-00002
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
