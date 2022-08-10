@@ -5306,3 +5306,6 @@ OER-00130-1 evses -> 0: status : CHARGING
 
 2022-08-10 13:33:57
 OER-00130-1 evses -> 0: status : CHARGING
+
+2022-08-10 14:39:31
+ALM-00017-02 evses -> 1: status : CHARGING
