@@ -3664,3 +3664,9 @@ MGR-00003
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-08-10 16:27:54
+Adicionados:['EVR-00022']
+
+EVR-00022-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'EVR-00022', 'publish': True, 'address': 'RUA DA BARBA RALA N1-A', 'city': 'Évora', 'country': 'PRT', 'postal_code': '7005-345', 'coordinates': {'latitude': '38.550605', 'longitude': '-7.91185'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'EVR-00022-01', 'evse_id': 'PT*MOO*E*EVR*00022*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00022-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2022-08-10T16:04:25.782Z'}], 'last_updated': '2022-08-10T16:15:05.311Z'}, {'uid': 'EVR-00022-03', 'evse_id': 'PT*MOO*E*EVR*00022*03', 'status': 'CHARGING', 'connectors': [{'id': 'EVR-00022-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-08-10T16:04:25.784Z'}], 'last_updated': '2022-08-10T16:16:10.831Z'}, {'uid': 'EVR-00022-02', 'evse_id': 'PT*MOO*E*EVR*00022*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00022-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2022-08-10T16:04:25.783Z'}], 'last_updated': '2022-08-10T16:15:05.872Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-08-10T16:04:25.781Z'}
+Removidos:[]
