@@ -5359,3 +5359,6 @@ OER-00130-1 evses -> 0: status : CHARGING
 
 2022-08-11 18:22:01
 OER-00130-1 evses -> 0: status : CHARGING
+
+2022-08-11 18:39:11
+PVZ-00011-03 evses -> 1: status : CHARGING
