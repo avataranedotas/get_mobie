@@ -5343,3 +5343,7 @@ MDL-00005-02 evses -> 0: status : CHARGING
 2022-08-11 15:43:42
 AVR-00038-02 evses -> 0: status : CHARGING
 GRD-80003-2 evses -> 0: status : CHARGING
+
+2022-08-11 16:25:23
+AVR-00038-01 evses -> 2: status : CHARGING
+OER-00130-1 evses -> 0: status : CHARGING
