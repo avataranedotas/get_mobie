@@ -5347,3 +5347,6 @@ GRD-80003-2 evses -> 0: status : CHARGING
 2022-08-11 16:25:23
 AVR-00038-01 evses -> 2: status : CHARGING
 OER-00130-1 evses -> 0: status : CHARGING
+
+2022-08-11 16:56:16
+OER-00130-1 evses -> 0: status : CHARGING
