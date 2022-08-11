@@ -5333,3 +5333,6 @@ MDL-00005-02 evses -> 0: status : CHARGING
 
 2022-08-11 08:44:37
 MDL-00005-02 evses -> 0: status : CHARGING
+
+2022-08-11 10:20:03
+AMD-00049-01 evses -> 0: status : CHARGING
