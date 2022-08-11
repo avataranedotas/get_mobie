@@ -5339,3 +5339,7 @@ AMD-00049-01 evses -> 0: status : CHARGING
 
 2022-08-11 12:39:26
 MDL-00005-02 evses -> 0: status : CHARGING
+
+2022-08-11 15:43:42
+AVR-00038-02 evses -> 0: status : CHARGING
+GRD-80003-2 evses -> 0: status : CHARGING
