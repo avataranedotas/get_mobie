@@ -3694,3 +3694,13 @@ Adicionados:['PTL-00008']
 
 PTL-00008-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'PTL-00008', 'publish': True, 'address': 'Rua da Vila Corneliana 1973', 'city': 'Ponte de Lima', 'country': 'PRT', 'postal_code': '4990-295', 'coordinates': {'latitude': '41.7447454', 'longitude': '-8.6102385'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'PTL-00008-03', 'evse_id': 'PT*HRZ*E*PTL*00008*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'PTL-00008-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-08-11T13:10:15.039Z'}], 'last_updated': '2022-08-11T13:27:40.965Z'}, {'uid': 'PTL-00008-01', 'evse_id': 'PT*HRZ*E*PTL*00008*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'PTL-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-08-11T13:10:15.035Z'}], 'last_updated': '2022-08-11T13:27:40.965Z'}, {'uid': 'PTL-00008-02', 'evse_id': 'PT*HRZ*E*PTL*00008*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'PTL-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-08-11T13:10:15.037Z'}], 'last_updated': '2022-08-11T13:27:40.965Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-11T13:27:40.927Z'}
 Removidos:[]
+
+2022-08-11 14:16:22
+AVR-00035
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVR-00035
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
