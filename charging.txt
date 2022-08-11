@@ -5330,3 +5330,6 @@ MDL-00005-02 evses -> 0: status : CHARGING
 
 2022-08-10 21:39:29
 MDL-00005-02 evses -> 0: status : CHARGING
+
+2022-08-11 08:44:37
+MDL-00005-02 evses -> 0: status : CHARGING
