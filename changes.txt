@@ -3728,3 +3728,9 @@ SJM-00009
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-08-12 10:45:22
+Adicionados:['BRG-00065']
+
+BRG-00065-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'BRG-00065', 'publish': True, 'address': 'Av. João XXI', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4715-036', 'coordinates': {'latitude': '41.5466021', 'longitude': '-8.4220587'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'BRG-00065-03', 'evse_id': 'PT*KLC*E*BRG*00065*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00065-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-21T14:36:28.988Z'}], 'last_updated': '2022-08-12T10:31:57.918Z'}, {'uid': 'BRG-00065-01', 'evse_id': 'PT*KLC*E*BRG*00065*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00065-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 100, 'max_electric_power': 30000, 'last_updated': '2022-06-21T14:36:28.987Z'}], 'last_updated': '2022-08-12T10:31:55.972Z'}, {'uid': 'BRG-00065-02', 'evse_id': 'PT*KLC*E*BRG*00065*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00065-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 100, 'max_electric_power': 30000, 'last_updated': '2022-06-21T14:36:28.987Z'}], 'last_updated': '2022-08-12T10:31:56.919Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-12T10:23:42.067Z'}
+Removidos:[]
