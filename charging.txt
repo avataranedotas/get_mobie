@@ -5411,3 +5411,7 @@ MTJ-00024-1 evses -> 0: status : CHARGING
 2022-08-12 21:39:40
 MTJ-00024-1 evses -> 0: status : CHARGING
 PDL-00001-02 evses -> 1: status : CHARGING
+
+2022-08-12 22:19:02
+AGH-00008-02 evses -> 1: status : CHARGING
+MTJ-00024-1 evses -> 0: status : CHARGING
