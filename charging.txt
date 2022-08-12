@@ -5372,3 +5372,6 @@ BNV-00006-02 evses -> 0: status : CHARGING
 2022-08-12 10:45:25
 BNV-00006-02 evses -> 0: status : CHARGING
 BNV-00006-01 evses -> 2: status : CHARGING
+
+2022-08-12 11:15:42
+BNV-00006-02 evses -> 0: status : CHARGING
