@@ -5382,3 +5382,6 @@ MTJ-00023-03 evses -> 1: status : CHARGING
 
 2022-08-12 12:34:29
 BNV-00006-02 evses -> 0: status : CHARGING
+
+2022-08-12 15:46:10
+BNV-00006-02 evses -> 0: status : CHARGING

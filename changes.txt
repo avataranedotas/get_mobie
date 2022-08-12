@@ -3742,3 +3742,25 @@ BRG-00064-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'BRG-00064', 'publis
 
 MTJ-00023-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'MTJ-00023', 'publish': True, 'address': 'E.N. 10, Km 80,810 (Lado Poente) - Taipadas', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2985-064', 'coordinates': {'latitude': '38.743484', 'longitude': '-8.66121'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00023-01', 'evse_id': 'PT*REP*E*MTJ*00023*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTJ-00023-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2022-07-12T14:08:29.879Z'}], 'last_updated': '2022-08-12T11:07:47.938Z'}, {'uid': 'MTJ-00023-03', 'evse_id': 'PT*REP*E*MTJ*00023*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00023-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-12T14:08:29.88Z'}], 'last_updated': '2022-08-12T11:10:05.949Z'}, {'uid': 'MTJ-00023-02', 'evse_id': 'PT*REP*E*MTJ*00023*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTJ-00023-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-07-12T14:08:29.88Z'}], 'last_updated': '2022-08-12T11:07:47.235Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-12T11:03:52.321Z'}
 Removidos:[]
+
+2022-08-12 15:46:08
+LRS-90018
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LRS-90018
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
