@@ -5395,3 +5395,6 @@ BRG-00065-02 evses -> 2: status : CHARGING
 
 2022-08-12 18:22:35
 BRG-00065-02 evses -> 2: status : CHARGING
+
+2022-08-12 19:14:36
+MTJ-00024-1 evses -> 0: status : CHARGING
