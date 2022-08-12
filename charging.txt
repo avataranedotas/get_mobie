@@ -5425,3 +5425,6 @@ MTJ-00024-1 evses -> 0: status : CHARGING
 AGH-00008-02 evses -> 1: status : CHARGING
 BNV-00006-02 evses -> 0: status : CHARGING
 MTJ-00024-1 evses -> 0: status : CHARGING
+
+2022-08-12 23:40:05
+AGH-00008-02 evses -> 1: status : CHARGING
