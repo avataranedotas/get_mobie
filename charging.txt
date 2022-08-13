@@ -5479,3 +5479,7 @@ LSB-90521-06 evses -> 5: status : CHARGING
 2022-08-13 20:17:57
 LSB-90521-01 evses -> 2: status : CHARGING
 LSB-90521-06 evses -> 5: status : CHARGING
+
+2022-08-13 20:18:35
+LSB-90521-01 evses -> 2: status : CHARGING
+LSB-90521-06 evses -> 5: status : CHARGING
