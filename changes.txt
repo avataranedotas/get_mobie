@@ -3792,3 +3792,7 @@ Removidos:[]
 2022-08-15 08:22:54
 Adicionados:[]
 Removidos:['BRG-00011', 'BRG-00013', 'BRG-00014']
+
+2022-08-15 12:38:04
+Adicionados:[]
+Removidos:['BRG-00012']
