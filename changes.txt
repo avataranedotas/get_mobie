@@ -3796,3 +3796,17 @@ Removidos:['BRG-00011', 'BRG-00013', 'BRG-00014']
 2022-08-15 12:38:04
 Adicionados:[]
 Removidos:['BRG-00012']
+
+2022-08-15 17:44:52
+PVZ-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PVZ-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PVZ-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
