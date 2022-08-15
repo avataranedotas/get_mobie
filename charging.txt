@@ -5495,3 +5495,6 @@ LGA-00014-01 evses -> 1: status : CHARGING
 
 2022-08-15 11:15:26
 LGA-00014-01 evses -> 1: status : CHARGING
+
+2022-08-15 11:37:36
+LGA-00014-01 evses -> 1: status : CHARGING
