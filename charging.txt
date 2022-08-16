@@ -5507,3 +5507,6 @@ LGA-00014-01 evses -> 1: status : CHARGING
 
 2022-08-16 09:15:45
 BRG-00065-02 evses -> 2: status : CHARGING
+
+2022-08-16 09:36:29
+VVD-00009-02 evses -> 1: status : CHARGING
