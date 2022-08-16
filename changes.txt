@@ -3826,3 +3826,9 @@ STS-00014-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'STS-00014', 'publis
 
 STS-00015-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'STS-00015', 'publish': True, 'address': 'R. José Narciso Machado Guimarães 637', 'city': 'Santo Tirso', 'country': 'PRT', 'postal_code': '4796-089', 'coordinates': {'latitude': '41.365112', 'longitude': '-8.4017057'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STS-00015-1', 'evse_id': 'PT*GLP*E*STS*00015*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'STS-00015-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-08-15T17:06:00.668Z'}], 'last_updated': '2022-08-15T17:06:00.668Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-08-15T17:06:00.667Z'}
 Removidos:[]
+
+2022-08-16 09:15:42
+VVD-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
