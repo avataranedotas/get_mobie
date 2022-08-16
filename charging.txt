@@ -5540,3 +5540,7 @@ FAR-00033-04 evses -> 0: status : CHARGING
 2022-08-16 16:26:53
 BJA-00012-02 evses -> 2: status : CHARGING
 FAR-00033-04 evses -> 0: status : CHARGING
+
+2022-08-16 16:58:06
+PNF-00017-01 evses -> 1: status : CHARGING
+PNF-00017-02 evses -> 2: status : CHARGING
