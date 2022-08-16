@@ -5526,3 +5526,6 @@ FAR-00033-04 evses -> 0: status : CHARGING
 
 2022-08-16 13:30:47
 BJA-00012-02 evses -> 2: status : CHARGING
+
+2022-08-16 14:38:27
+RMZ-00005-01 evses -> 0: status : CHARGING
