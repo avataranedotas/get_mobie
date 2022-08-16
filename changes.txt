@@ -3810,3 +3810,9 @@ PVZ-00011
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-08-16 06:48:00
+Adicionados:['PNF-00017']
+
+PNF-00017-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'PNF-00017', 'publish': True, 'address': 'LUGAR DO TAPADINHO Nº1 LJ', 'city': 'Penafiel', 'country': 'PRT', 'postal_code': '4560-162', 'coordinates': {'latitude': '41.19224', 'longitude': '-8.30543'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PNF-00017-03', 'evse_id': 'PT*MOO*E*PNF*00017*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PNF-00017-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-08-09T17:26:09.995Z'}], 'last_updated': '2022-08-16T06:35:49.905Z'}, {'uid': 'PNF-00017-01', 'evse_id': 'PT*MOO*E*PNF*00017*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PNF-00017-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2022-08-09T17:26:09.993Z'}], 'last_updated': '2022-08-16T06:35:48.906Z'}, {'uid': 'PNF-00017-02', 'evse_id': 'PT*MOO*E*PNF*00017*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PNF-00017-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 300000, 'last_updated': '2022-08-09T17:26:09.994Z'}], 'last_updated': '2022-08-16T06:35:49.417Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-09T17:26:09.991Z'}
+Removidos:[]
