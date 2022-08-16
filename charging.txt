@@ -5549,3 +5549,7 @@ PNF-00017-02 evses -> 2: status : CHARGING
 LLE-00088-02 evses -> 0: status : CHARGING
 PNF-00017-01 evses -> 1: status : CHARGING
 PNF-00017-02 evses -> 2: status : CHARGING
+
+2022-08-16 17:44:30
+LLE-00088-02 evses -> 0: status : CHARGING
+PNF-00017-02 evses -> 2: status : CHARGING
