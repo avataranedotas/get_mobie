@@ -3836,3 +3836,17 @@ evses -> 2 -> connectors -> 0:
 2022-08-16 09:36:26
 Adicionados:[]
 Removidos:['ADL-90001']
+
+2022-08-16 11:02:20
+GMR-00041
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GMR-00041
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GMR-00041
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
