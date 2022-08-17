@@ -5631,3 +5631,6 @@ FAR-00033-03 evses -> 2: status : CHARGING
 LLE-00089-02 evses -> 1: status : CHARGING
 PNF-00017-01 evses -> 1: status : CHARGING
 PNF-00017-02 evses -> 2: status : CHARGING
+
+2022-08-17 18:22:47
+STS-00015-1 evses -> 0: status : CHARGING
