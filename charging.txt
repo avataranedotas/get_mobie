@@ -5634,3 +5634,7 @@ PNF-00017-02 evses -> 2: status : CHARGING
 
 2022-08-17 18:22:47
 STS-00015-1 evses -> 0: status : CHARGING
+
+2022-08-17 18:49:35
+FAR-00033-02 evses -> 3: status : CHARGING
+STS-00015-1 evses -> 0: status : CHARGING
