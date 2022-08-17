@@ -5592,3 +5592,7 @@ PNF-00017-02 evses -> 2: status : CHARGING
 
 2022-08-17 09:42:15
 PNF-00017-01 evses -> 1: status : CHARGING
+
+2022-08-17 10:20:54
+MCN-00003-01 evses -> 1: status : CHARGING
+PNF-00017-01 evses -> 1: status : CHARGING
