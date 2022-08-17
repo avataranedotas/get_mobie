@@ -5617,3 +5617,6 @@ PTG-00011-02 evses -> 0: status : CHARGING
 2022-08-17 12:40:41
 AGH-00006-01 evses -> 1: status : CHARGING
 FAR-00033-02 evses -> 3: status : CHARGING
+
+2022-08-17 13:47:30
+FAR-00033-02 evses -> 3: status : CHARGING
