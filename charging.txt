@@ -5638,3 +5638,8 @@ STS-00015-1 evses -> 0: status : CHARGING
 2022-08-17 18:49:35
 FAR-00033-02 evses -> 3: status : CHARGING
 STS-00015-1 evses -> 0: status : CHARGING
+
+2022-08-17 19:14:38
+FAR-00033-03 evses -> 2: status : CHARGING
+PTG-00011-03 evses -> 2: status : CHARGING
+STS-00015-1 evses -> 0: status : CHARGING
