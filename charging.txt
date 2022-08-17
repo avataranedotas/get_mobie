@@ -5643,3 +5643,9 @@ STS-00015-1 evses -> 0: status : CHARGING
 FAR-00033-03 evses -> 2: status : CHARGING
 PTG-00011-03 evses -> 2: status : CHARGING
 STS-00015-1 evses -> 0: status : CHARGING
+
+2022-08-17 19:37:54
+FAR-00033-03 evses -> 2: status : CHARGING
+FAR-00033-02 evses -> 3: status : CHARGING
+MGR-00005-02 evses -> 0: status : CHARGING
+STS-00015-1 evses -> 0: status : CHARGING
