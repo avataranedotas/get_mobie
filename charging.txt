@@ -5599,3 +5599,10 @@ PNF-00017-01 evses -> 1: status : CHARGING
 
 2022-08-17 10:43:05
 PTG-00011-03 evses -> 2: status : CHARGING
+
+2022-08-17 11:15:39
+AGH-00006-01 evses -> 1: status : CHARGING
+FAR-00033-04 evses -> 0: status : CHARGING
+FAR-00033-02 evses -> 3: status : CHARGING
+MTJ-00025-1 evses -> 0: status : CHARGING
+PTG-00011-03 evses -> 2: status : CHARGING
