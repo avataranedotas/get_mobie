@@ -5578,3 +5578,6 @@ STS-00014-02 evses -> 1: status : CHARGING
 2022-08-16 22:42:28
 FAR-00033-02 evses -> 3: status : CHARGING
 STS-00014-02 evses -> 1: status : CHARGING
+
+2022-08-17 07:38:53
+FAR-00033-02 evses -> 3: status : CHARGING
