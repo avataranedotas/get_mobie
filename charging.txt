@@ -5673,3 +5673,7 @@ BRG-00064-02 evses -> 1: status : CHARGING
 
 2022-08-18 10:44:41
 BRG-00064-02 evses -> 1: status : CHARGING
+
+2022-08-18 11:16:12
+BRG-00064-02 evses -> 1: status : CHARGING
+STS-00013-02 evses -> 1: status : CHARGING

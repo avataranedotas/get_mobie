@@ -3992,3 +3992,21 @@ MTS-00048
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 90000
+
+2022-08-18 11:16:10
+VFX-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VFX-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+VFX-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VFX-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
