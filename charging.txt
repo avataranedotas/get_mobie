@@ -5705,3 +5705,9 @@ OHP-00005-01 evses -> 1: status : CHARGING
 VNG-00077-01 evses -> 1: status : CHARGING
 VNG-00080-02 evses -> 1: status : CHARGING
 VNG-00080-02 evses -> 1: status : CHARGING
+
+2022-08-18 17:35:13
+VNG-00077-02 evses -> 0: status : CHARGING
+VNG-00077-01 evses -> 1: status : CHARGING
+VNG-00080-02 evses -> 1: status : CHARGING
+VNG-00080-02 evses -> 1: status : CHARGING
