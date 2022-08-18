@@ -5727,3 +5727,6 @@ VNG-00080-02 evses -> 1: status : CHARGING
 VNG-00077-01 evses -> 1: status : CHARGING
 VNG-00080-02 evses -> 1: status : CHARGING
 VNG-00080-02 evses -> 1: status : CHARGING
+
+2022-08-18 19:37:26
+VNG-00077-01 evses -> 1: status : CHARGING
