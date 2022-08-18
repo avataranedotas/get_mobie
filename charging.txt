@@ -5664,3 +5664,6 @@ MGR-00005-02 evses -> 0: status : CHARGING
 
 2022-08-17 22:17:41
 MGR-00005-02 evses -> 0: status : CHARGING
+
+2022-08-18 08:22:35
+OHP-00005-02 evses -> 0: status : CHARGING
