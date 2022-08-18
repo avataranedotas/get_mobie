@@ -5670,3 +5670,6 @@ OHP-00005-02 evses -> 0: status : CHARGING
 
 2022-08-18 10:21:35
 BRG-00064-02 evses -> 1: status : CHARGING
+
+2022-08-18 10:44:41
+BRG-00064-02 evses -> 1: status : CHARGING
