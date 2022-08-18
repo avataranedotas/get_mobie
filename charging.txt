@@ -5686,3 +5686,7 @@ AGH-00007-02 evses -> 0: status : CHARGING
 
 2022-08-18 14:19:34
 STS-00013-02 evses -> 1: status : CHARGING
+
+2022-08-18 14:46:27
+STS-00013-02 evses -> 1: status : CHARGING
+VNG-00077-01 evses -> 1: status : CHARGING
