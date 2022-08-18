@@ -5694,3 +5694,8 @@ VNG-00077-01 evses -> 1: status : CHARGING
 2022-08-18 15:29:30
 OHP-00005-03 evses -> 2: status : CHARGING
 PRT-00126-02 evses -> 1: status : CHARGING
+
+2022-08-18 15:58:26
+ALM-90007-02 evses -> 0: status : CHARGING
+OHP-00005-03 evses -> 2: status : CHARGING
+PRT-00126-02 evses -> 1: status : CHARGING
