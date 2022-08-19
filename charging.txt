@@ -5817,3 +5817,7 @@ VNG-00078-02 evses -> 0: status : CHARGING
 2022-08-19 17:45:26
 SLV-90001-01 evses -> 1: status : CHARGING
 VNG-00078-02 evses -> 0: status : CHARGING
+
+2022-08-19 18:26:52
+SLV-90001-01 evses -> 1: status : CHARGING
+VNG-00078-02 evses -> 0: status : CHARGING
