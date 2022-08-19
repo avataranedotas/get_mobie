@@ -5748,3 +5748,6 @@ MTS-00047-02 evses -> 1: status : CHARGING
 
 2022-08-19 09:18:42
 MTS-00047-02 evses -> 1: status : CHARGING
+
+2022-08-19 09:42:24
+MTS-00047-02 evses -> 1: status : CHARGING
