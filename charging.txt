@@ -5781,3 +5781,9 @@ MTS-00047-02 evses -> 1: status : CHARGING
 MTS-00048-02 evses -> 0: status : CHARGING
 PRT-00126-01 evses -> 0: status : CHARGING
 VNG-00078-02 evses -> 0: status : CHARGING
+
+2022-08-19 14:17:26
+MTS-00047-02 evses -> 1: status : CHARGING
+PRT-00126-01 evses -> 0: status : CHARGING
+SNS-00010-01 evses -> 0: status : CHARGING
+VNG-00078-02 evses -> 0: status : CHARGING
