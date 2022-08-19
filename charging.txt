@@ -5805,3 +5805,7 @@ FAR-00028-02 evses -> 0: status : CHARGING
 MTS-00047-02 evses -> 1: status : CHARGING
 PRT-00126-01 evses -> 0: status : CHARGING
 VNG-00078-02 evses -> 0: status : CHARGING
+
+2022-08-19 16:28:50
+PRT-00126-01 evses -> 0: status : CHARGING
+VNG-00078-02 evses -> 0: status : CHARGING
