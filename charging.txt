@@ -5809,3 +5809,7 @@ VNG-00078-02 evses -> 0: status : CHARGING
 2022-08-19 16:28:50
 PRT-00126-01 evses -> 0: status : CHARGING
 VNG-00078-02 evses -> 0: status : CHARGING
+
+2022-08-19 17:03:05
+STS-00002-02 evses -> 0: status : CHARGING
+VNG-00078-02 evses -> 0: status : CHARGING
