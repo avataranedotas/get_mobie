@@ -5916,3 +5916,7 @@ VNG-00078-02 evses -> 0: status : CHARGING
 
 2022-08-20 16:23:51
 LLE-00087-01 evses -> 1: status : CHARGING
+
+2022-08-20 16:53:23
+LLE-00087-01 evses -> 1: status : CHARGING
+LRA-00046-01 evses -> 1: status : CHARGING
