@@ -5929,3 +5929,6 @@ LLE-00087-01 evses -> 1: status : CHARGING
 
 2022-08-20 18:05:09
 LLE-00087-01 evses -> 1: status : CHARGING
+
+2022-08-20 18:21:24
+LLE-00087-01 evses -> 1: status : CHARGING
