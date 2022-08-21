@@ -5968,3 +5968,6 @@ LSB-00503-02 evses -> 1: status : CHARGING
 
 2022-08-21 22:17:41
 LSB-00503-02 evses -> 1: status : CHARGING
+
+2022-08-21 22:40:28
+LSB-00503-02 evses -> 1: status : CHARGING
