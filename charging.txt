@@ -6018,3 +6018,6 @@ LSB-00503-01 evses -> 0: status : CHARGING
 
 2022-08-22 13:40:48
 PRG-00002-02 evses -> 0: status : CHARGING
+
+2022-08-22 20:18:40
+PRG-00002-02 evses -> 0: status : CHARGING
