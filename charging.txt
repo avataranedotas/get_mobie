@@ -6030,3 +6030,7 @@ LSB-00205-02 evses -> 1: status : CHARGING
 
 2022-08-23 14:17:23
 LSB-00447-02 evses -> 1: status : CHARGING
+
+2022-08-23 14:39:54
+LSB-00447-02 evses -> 1: status : CHARGING
+PTL-00008-01 evses -> 1: status : CHARGING
