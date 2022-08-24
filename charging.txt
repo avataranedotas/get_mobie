@@ -6082,3 +6082,7 @@ GRD-00015-02 evses -> 1: status : CHARGING
 
 2022-08-24 16:55:07
 GRD-00015-02 evses -> 1: status : CHARGING
+
+2022-08-24 17:19:30
+GRD-00015-01 evses -> 0: status : CHARGING
+GRD-00015-02 evses -> 1: status : CHARGING
