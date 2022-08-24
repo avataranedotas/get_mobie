@@ -6090,3 +6090,7 @@ GRD-00015-02 evses -> 1: status : CHARGING
 2022-08-24 17:41:58
 GRD-00015-02 evses -> 1: status : CHARGING
 LSB-00447-02 evses -> 1: status : CHARGING
+
+2022-08-24 18:31:57
+LSB-00205-02 evses -> 1: status : CHARGING
+LSB-00447-02 evses -> 1: status : CHARGING
