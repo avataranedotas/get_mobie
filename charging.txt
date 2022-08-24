@@ -6063,3 +6063,6 @@ PRG-00002-02 evses -> 0: status : CHARGING
 
 2022-08-24 10:43:40
 PRG-00002-02 evses -> 0: status : CHARGING
+
+2022-08-24 11:16:06
+PRG-00002-02 evses -> 0: status : CHARGING
