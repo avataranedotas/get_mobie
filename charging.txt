@@ -6069,3 +6069,6 @@ PRG-00002-02 evses -> 0: status : CHARGING
 
 2022-08-24 11:38:14
 PRG-00002-02 evses -> 0: status : CHARGING
+
+2022-08-24 13:36:26
+LSB-00205-02 evses -> 1: status : CHARGING
