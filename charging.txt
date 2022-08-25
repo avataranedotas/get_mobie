@@ -6101,3 +6101,7 @@ GMR-00002-02 evses -> 0: status : CHARGING
 2022-08-25 17:25:10
 LMG-00010-02 evses -> 0: status : CHARGING
 LMG-00010-01 evses -> 1: status : CHARGING
+
+2022-08-25 17:42:16
+LMG-00010-02 evses -> 0: status : CHARGING
+LMG-00010-01 evses -> 1: status : CHARGING
