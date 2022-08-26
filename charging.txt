@@ -6111,3 +6111,6 @@ VCD-00010-01 evses -> 0: status : CHARGING
 
 2022-08-26 09:18:19
 VCD-00010-01 evses -> 0: status : CHARGING
+
+2022-08-26 10:43:09
+SPS-90001-1 evses -> 1: status : CHARGING
