@@ -4066,3 +4066,13 @@ Adicionados:['LMG-00010']
 
 LMG-00010-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LMG-00010', 'publish': True, 'address': 'Burger King de Lamego - Rua das Amoreiras 1', 'city': 'Lamego', 'country': 'PRT', 'postal_code': '5100-152', 'coordinates': {'latitude': '41.1003897', 'longitude': '-7.8190057'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LMG-00010-02', 'evse_id': 'PT*EDP*E*LMG*00010*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LMG-00010-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2022-06-15T16:07:58.267Z'}], 'last_updated': '2022-08-25T12:02:53.903Z'}, {'uid': 'LMG-00010-01', 'evse_id': 'PT*EDP*E*LMG*00010*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LMG-00010-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-06-15T16:07:58.267Z'}], 'last_updated': '2022-08-25T12:02:53.903Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-08-25T12:02:53.87Z'}
 Removidos:[]
+
+2022-08-26 13:36:22
+LLE-00041
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LLE-00041
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
