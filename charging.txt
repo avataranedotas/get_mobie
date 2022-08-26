@@ -6105,3 +6105,6 @@ LMG-00010-01 evses -> 1: status : CHARGING
 2022-08-25 17:42:16
 LMG-00010-02 evses -> 0: status : CHARGING
 LMG-00010-01 evses -> 1: status : CHARGING
+
+2022-08-26 08:47:11
+VCD-00010-01 evses -> 0: status : CHARGING
