@@ -6117,3 +6117,6 @@ SPS-90001-1 evses -> 1: status : CHARGING
 
 2022-08-27 12:35:59
 SSB-00007-01 evses -> 1: status : CHARGING
+
+2022-08-27 13:29:39
+SSB-00007-01 evses -> 1: status : CHARGING
