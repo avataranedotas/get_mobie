@@ -6147,3 +6147,7 @@ VNG-00079-02 evses -> 1: status : CHARGING
 
 2022-08-27 19:14:33
 VNG-00079-02 evses -> 1: status : CHARGING
+
+2022-08-27 19:36:57
+PMZ-00005-02 evses -> 1: status : CHARGING
+VNG-00079-02 evses -> 1: status : CHARGING
