@@ -2,3 +2,9 @@
 2022-08-29 22:41:47
 Adicionados:[]
 Removidos:['PRT-00086']
+
+2022-08-30 10:20:22
+Adicionados:['SNT-00083']
+
+SNT-00083-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'SNT-00083', 'publish': True, 'address': 'Rua Elias Garcia, 201 B-C', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2735-682', 'coordinates': {'latitude': '38.767893', 'longitude': '-9.314253'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00083-01', 'evse_id': 'PT*GLP*E*SNT*00083*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00083-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 120000, 'last_updated': '2022-08-16T17:39:59.07Z'}], 'last_updated': '2022-08-30T10:13:53.72Z'}, {'uid': 'SNT-00083-02', 'evse_id': 'PT*GLP*E*SNT*00083*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00083-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-08-16T17:39:59.071Z'}], 'last_updated': '2022-08-30T10:13:54.749Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-08-30T10:13:54.749Z'}
+Removidos:[]
