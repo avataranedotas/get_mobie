@@ -10,3 +10,6 @@ SNT-00083-02 evses -> 1: status : CHARGING
 2022-08-30 14:40:58
 BRG-00066-02 evses -> 1: status : CHARGING
 SNT-00083-02 evses -> 1: status : CHARGING
+
+2022-08-30 15:19:27
+SNT-00083-02 evses -> 1: status : CHARGING
