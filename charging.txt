@@ -58,3 +58,6 @@ VCT-00031-02 evses -> 0: status : CHARGING
 
 2022-08-31 15:44:26
 VCT-00031-02 evses -> 0: status : CHARGING
+
+2022-08-31 17:27:56
+NZR-00006-02 evses -> 0: status : CHARGING
