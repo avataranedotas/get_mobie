@@ -68,3 +68,13 @@ Adicionados:['VRS-90002']
 
 VRS-90002-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VRS-90002', 'publish': True, 'address': 'Avenida da República', 'city': 'Vila Real de Santo António', 'country': 'PRT', 'postal_code': '8900-201', 'coordinates': {'latitude': '37.194392', 'longitude': '-7.4141999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VRS-90002-02', 'evse_id': 'PT*GLP*E*VRS*90002*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VRS-90002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-16T11:08:03.427Z'}], 'last_updated': '2022-08-31T15:59:00.536Z'}, {'uid': 'VRS-90002-01', 'evse_id': 'PT*GLP*E*VRS*90002*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VRS-90002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-02-16T11:08:03.426Z'}], 'last_updated': '2022-08-31T15:59:00.536Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-08-31T15:59:00.499Z'}
 Removidos:[]
+
+2022-08-31 17:44:36
+VRS-90002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VRS-90002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
