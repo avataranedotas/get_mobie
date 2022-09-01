@@ -76,3 +76,6 @@ LSB-00496-01 evses -> 0: status : CHARGING
 
 2022-09-01 04:09:51
 LSB-00496-01 evses -> 0: status : CHARGING
+
+2022-09-01 05:37:59
+LSB-00496-01 evses -> 0: status : CHARGING
