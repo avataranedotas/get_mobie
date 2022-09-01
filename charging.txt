@@ -113,3 +113,8 @@ SNT-00084-1 evses -> 0: status : CHARGING
 
 2022-09-01 15:45:44
 SNT-00084-1 evses -> 0: status : CHARGING
+
+2022-09-01 16:26:43
+LLE-00090-02 evses -> 0: status : CHARGING
+OER-00129-03 evses -> 0: status : CHARGING
+SNT-00084-1 evses -> 0: status : CHARGING
