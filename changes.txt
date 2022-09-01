@@ -78,3 +78,9 @@ VRS-90002
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-09-01 09:18:31
+Adicionados:['NZR-00013']
+
+NZR-00013-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'NZR-00013', 'publish': True, 'address': 'RUA ADRIAO BATALHA 9920 PC, NAZARE', 'city': 'Nazaré', 'country': 'PRT', 'postal_code': '2450-109', 'coordinates': {'latitude': '39.6014747', 'longitude': '-9.0686787'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'NZR-00013-02', 'evse_id': 'PT*EDP*E*NZR*00013*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'NZR-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-04T15:40:19.295Z'}], 'last_updated': '2022-09-01T09:11:03.665Z'}, {'uid': 'NZR-00013-01', 'evse_id': 'PT*EDP*E*NZR*00013*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'NZR-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-04T15:40:19.294Z'}], 'last_updated': '2022-09-01T09:10:55.43Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-09-01T09:11:03.665Z'}
+Removidos:[]
