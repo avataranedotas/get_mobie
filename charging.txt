@@ -150,3 +150,8 @@ BJA-00012-02 evses -> 2: status : CHARGING
 LLE-00094-02 evses -> 1: status : CHARGING
 NZR-00006-02 evses -> 0: status : CHARGING
 NZR-00013-01 evses -> 1: status : CHARGING
+
+2022-09-01 19:37:22
+BJA-00012-02 evses -> 2: status : CHARGING
+LLE-00094-02 evses -> 1: status : CHARGING
+NZR-00013-01 evses -> 1: status : CHARGING
