@@ -133,3 +133,9 @@ SNT-00084-1 evses -> 0: status : CHARGING
 LLE-00094-02 evses -> 1: status : CHARGING
 NZR-00006-02 evses -> 0: status : CHARGING
 SNT-00084-1 evses -> 0: status : CHARGING
+
+2022-09-01 18:24:59
+LLE-00094-01 evses -> 0: status : CHARGING
+LLE-00094-02 evses -> 1: status : CHARGING
+NZR-00006-02 evses -> 0: status : CHARGING
+SNT-00084-1 evses -> 0: status : CHARGING
