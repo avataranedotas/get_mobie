@@ -110,3 +110,6 @@ LLE-00096-02 evses -> 1: status : CHARGING
 
 2022-09-01 15:21:23
 SNT-00084-1 evses -> 0: status : CHARGING
+
+2022-09-01 15:45:44
+SNT-00084-1 evses -> 0: status : CHARGING
