@@ -275,3 +275,7 @@ LLE-00092-02 evses -> 0: status : CHARGING
 NZR-00015-03 evses -> 0: status : CHARGING
 NZR-00015-02 evses -> 2: status : CHARGING
 VRS-90002-02 evses -> 0: status : CHARGING
+
+2022-09-02 17:28:22
+LLE-00092-02 evses -> 0: status : CHARGING
+VRS-90002-02 evses -> 0: status : CHARGING
