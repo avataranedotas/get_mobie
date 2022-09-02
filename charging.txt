@@ -312,3 +312,6 @@ LLE-00097-01 evses -> 1: status : CHARGING
 
 2022-09-02 21:39:59
 LLE-00097-01 evses -> 1: status : CHARGING
+
+2022-09-02 22:18:57
+LLE-00097-01 evses -> 1: status : CHARGING
