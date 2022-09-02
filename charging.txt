@@ -253,3 +253,8 @@ VRS-90002-02 evses -> 0: status : CHARGING
 2022-09-02 14:39:56
 NZR-00013-02 evses -> 0: status : CHARGING
 VRS-90002-02 evses -> 0: status : CHARGING
+
+2022-09-02 15:19:52
+LSB-00499-01 evses -> 0: status : CHARGING
+NZR-00013-02 evses -> 0: status : CHARGING
+NZR-00015-03 evses -> 0: status : CHARGING
