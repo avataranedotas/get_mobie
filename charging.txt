@@ -335,3 +335,7 @@ NZR-00015-03 evses -> 0: status : CHARGING
 
 2022-09-03 10:20:16
 NZR-00015-02 evses -> 2: status : CHARGING
+
+2022-09-03 10:42:36
+NZR-00015-03 evses -> 0: status : CHARGING
+NZR-00015-02 evses -> 2: status : CHARGING
