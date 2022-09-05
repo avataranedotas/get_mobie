@@ -384,3 +384,6 @@ NZR-00013-02 evses -> 0: status : CHARGING
 
 2022-09-05 09:42:46
 LSB-00502-02 evses -> 1: status : CHARGING
+
+2022-09-05 13:42:41
+CHV-00009-02 evses -> 0: status : CHARGING
