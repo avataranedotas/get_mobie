@@ -457,3 +457,12 @@ CHV-00009-02 evses -> 0: status : CHARGING
 
 2022-09-06 10:44:47
 ORM-00004-02 evses -> 0: status : CHARGING
+
+2022-09-06 11:39:05
+LSB-00480-02 evses -> 0: status : CHARGING
+LSB-00480-01 evses -> 1: status : CHARGING
+LSB-00481-01 evses -> 0: status : CHARGING
+LSB-00482-02 evses -> 0: status : CHARGING
+LSB-00482-01 evses -> 1: status : CHARGING
+LSB-00483-01 evses -> 0: status : CHARGING
+LSB-00483-02 evses -> 1: status : CHARGING
