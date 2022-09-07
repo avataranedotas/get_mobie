@@ -486,3 +486,6 @@ CHV-00009-02 evses -> 0: status : CHARGING
 
 2022-09-06 16:27:40
 CHV-00009-02 evses -> 0: status : CHARGING
+
+2022-09-07 10:21:41
+LSB-00493-01 evses -> 0: status : CHARGING
