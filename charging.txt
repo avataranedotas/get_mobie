@@ -498,3 +498,6 @@ LLE-00095-02 evses -> 0: status : CHARGING
 
 2022-09-07 14:48:40
 LLE-00095-02 evses -> 0: status : CHARGING
+
+2022-09-07 15:20:32
+LLE-00095-02 evses -> 0: status : CHARGING
