@@ -190,3 +190,7 @@ Adicionados:['AMD-00027']
 
 AMD-00027-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'AMD-00027', 'publish': True, 'address': 'Avenida Cruzeiro Seixas, 5 e 7', 'city': 'Amadora', 'country': 'PRT', 'postal_code': '2650-505', 'coordinates': {'latitude': '38.776805', 'longitude': '-9.219795'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMD-00027-01', 'evse_id': 'PT*LOG*E*AMD*00027*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AMD-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-02-16T14:24:15.511Z'}], 'last_updated': '2022-09-08T11:36:32.498Z'}, {'uid': 'AMD-00027-02', 'evse_id': 'PT*LOG*E*AMD*00027*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AMD-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-02-16T14:24:15.512Z'}], 'last_updated': '2022-09-08T11:36:32.498Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-09-08T11:36:32.467Z'}
 Removidos:[]
+
+2022-09-08 14:19:22
+Adicionados:[]
+Removidos:['AVR-00003']
