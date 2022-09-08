@@ -194,3 +194,7 @@ Removidos:[]
 2022-09-08 14:19:22
 Adicionados:[]
 Removidos:['AVR-00003']
+
+2022-09-08 16:28:29
+Adicionados:[]
+Removidos:['AGN-00001', 'AMD-00027']
