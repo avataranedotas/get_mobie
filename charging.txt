@@ -513,3 +513,6 @@ LLE-00093-02 evses -> 0: status : CHARGING
 
 2022-09-07 18:50:40
 LLE-00093-02 evses -> 0: status : CHARGING
+
+2022-09-08 09:20:50
+NZR-00008-02 evses -> 1: status : CHARGING
