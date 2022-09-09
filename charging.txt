@@ -558,3 +558,6 @@ PVL-00005-1 evses -> 0: status : CHARGING
 
 2022-09-09 12:39:42
 PVL-00005-1 evses -> 0: status : CHARGING
+
+2022-09-09 13:49:07
+PVL-00005-1 evses -> 0: status : CHARGING
