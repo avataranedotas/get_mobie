@@ -573,3 +573,6 @@ EVR-00022-01 evses -> 0: status : CHARGING
 
 2022-09-10 11:39:30
 EVR-00022-01 evses -> 0: status : CHARGING
+
+2022-09-10 12:27:00
+CHV-00010-02 evses -> 0: status : CHARGING
