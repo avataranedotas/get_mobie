@@ -600,3 +600,6 @@ LLE-00096-02 evses -> 1: status : CHARGING
 
 2022-09-10 18:24:43
 LLE-00096-02 evses -> 1: status : CHARGING
+
+2022-09-10 18:49:51
+LLE-00096-02 evses -> 1: status : CHARGING
