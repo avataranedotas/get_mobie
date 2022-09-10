@@ -567,3 +567,6 @@ PVL-00005-1 evses -> 0: status : CHARGING
 
 2022-09-09 17:47:42
 LSB-00502-02 evses -> 1: status : CHARGING
+
+2022-09-10 11:16:44
+EVR-00022-01 evses -> 0: status : CHARGING
