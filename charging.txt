@@ -570,3 +570,6 @@ LSB-00502-02 evses -> 1: status : CHARGING
 
 2022-09-10 11:16:44
 EVR-00022-01 evses -> 0: status : CHARGING
+
+2022-09-10 11:39:30
+EVR-00022-01 evses -> 0: status : CHARGING
