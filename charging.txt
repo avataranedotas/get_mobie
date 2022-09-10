@@ -588,3 +588,6 @@ ABT-00006-02 evses -> 2: status : CHARGING
 
 2022-09-10 14:41:15
 ABT-00006-02 evses -> 2: status : CHARGING
+
+2022-09-10 16:59:20
+LLE-00096-02 evses -> 1: status : CHARGING
