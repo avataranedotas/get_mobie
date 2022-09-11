@@ -625,3 +625,7 @@ OER-00128-01 evses -> 1: status : CHARGING
 
 2022-09-11 11:16:41
 OER-00128-01 evses -> 1: status : CHARGING
+
+2022-09-11 11:39:23
+ABT-00006-02 evses -> 2: status : CHARGING
+OER-00128-01 evses -> 1: status : CHARGING
