@@ -683,3 +683,6 @@ OER-00128-01 evses -> 1: status : CHARGING
 
 2022-09-11 21:41:53
 OER-00128-01 evses -> 1: status : CHARGING
+
+2022-09-11 22:19:53
+OER-00128-01 evses -> 1: status : CHARGING
