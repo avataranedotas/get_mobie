@@ -240,3 +240,13 @@ Adicionados:['ADL-90001']
 
 ADL-90001-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ADL-90001', 'publish': True, 'address': 'Rua do Rodo', 'city': 'Alandroal', 'country': 'PRT', 'postal_code': '1600-233', 'coordinates': {'latitude': '38.702417', 'longitude': '-7.405611'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'ADL-90001-1', 'evse_id': 'PT*EDP*E*ADL*90001*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'ADL-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-09-12T08:51:54.553Z'}], 'last_updated': '2022-09-12T08:51:54.553Z'}, {'uid': 'ADL-90001-2', 'evse_id': 'PT*EDP*E*ADL*90001*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'ADL-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-09-12T08:51:54.554Z'}], 'last_updated': '2022-09-12T08:51:54.554Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-09-12T08:51:54.552Z'}
 Removidos:[]
+
+2022-09-12 10:23:18
+AMD-00047
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AMD-00047
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
