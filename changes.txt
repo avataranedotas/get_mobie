@@ -208,3 +208,29 @@ Adicionados:['ESP-00008']
 
 ESP-00008-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'ESP-00008', 'publish': True, 'address': 'Avenida 24, nº 316', 'city': 'Espinho', 'country': 'PRT', 'postal_code': '4500-203', 'coordinates': {'latitude': '41.010988', 'longitude': '-8.638267'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ESP-00008-01', 'evse_id': 'PT*REP*E*ESP*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 80, 'max_electric_power': 30000, 'last_updated': '2022-07-13T11:49:05.484Z'}], 'last_updated': '2022-09-09T12:16:26.864Z'}, {'uid': 'ESP-00008-03', 'evse_id': 'PT*REP*E*ESP*00008*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00008-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-07-13T11:49:05.485Z'}], 'last_updated': '2022-09-09T12:16:28.328Z'}, {'uid': 'ESP-00008-02', 'evse_id': 'PT*REP*E*ESP*00008*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ESP-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 80, 'max_electric_power': 30000, 'last_updated': '2022-07-13T11:49:05.485Z'}], 'last_updated': '2022-09-09T12:16:27.518Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-09-09T12:16:28.328Z'}
 Removidos:[]
+
+2022-09-12 08:57:32
+SNT-00065
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00065
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 11000
+SNT-00065
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00065
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 11000
+SNT-00066
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00066
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
