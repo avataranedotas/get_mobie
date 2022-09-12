@@ -737,3 +737,6 @@ OER-00128-02 evses -> 0: status : CHARGING
 2022-09-12 17:29:24
 CLD-00020-02 evses -> 1: status : CHARGING
 OER-00119-03 evses -> 0: status : CHARGING
+
+2022-09-12 17:50:26
+CLD-00020-02 evses -> 1: status : CHARGING
