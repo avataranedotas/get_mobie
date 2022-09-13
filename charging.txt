@@ -770,3 +770,6 @@ CLD-00020-02 evses -> 1: status : CHARGING
 2022-09-13 19:15:55
 CHV-00002-02 evses -> 1: status : CHARGING
 CLD-00020-01 evses -> 0: status : CHARGING
+
+2022-09-13 19:38:59
+CHV-00002-02 evses -> 1: status : CHARGING
