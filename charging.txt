@@ -812,3 +812,7 @@ TBU-90001-2 evses -> 0: status : CHARGING
 2022-09-14 10:46:35
 PRD-00011-02 evses -> 0: status : CHARGING
 PRD-00011-01 evses -> 1: status : CHARGING
+
+2022-09-14 11:17:38
+PRD-00011-02 evses -> 0: status : CHARGING
+PRD-00011-01 evses -> 1: status : CHARGING
