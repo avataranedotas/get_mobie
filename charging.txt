@@ -877,3 +877,6 @@ PRD-00011-01 evses -> 1: status : CHARGING
 
 2022-09-14 20:23:14
 ESP-00008-01 evses -> 0: status : CHARGING
+
+2022-09-15 07:49:04
+PRD-00011-02 evses -> 0: status : CHARGING
