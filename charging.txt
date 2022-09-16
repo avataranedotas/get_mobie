@@ -1011,3 +1011,6 @@ BRG-00059-01 evses -> 0: status : CHARGING
 
 2022-09-16 19:18:22
 BRG-00059-01 evses -> 0: status : CHARGING
+
+2022-09-16 19:39:31
+TBU-90001-2 evses -> 0: status : CHARGING
