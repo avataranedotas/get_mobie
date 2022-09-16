@@ -1037,3 +1037,6 @@ BRG-00060-01 evses -> 0: status : CHARGING
 
 2022-09-16 23:21:15
 BRG-00060-01 evses -> 0: status : CHARGING
+
+2022-09-16 23:46:30
+BRG-00060-01 evses -> 0: status : CHARGING
