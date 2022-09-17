@@ -1062,3 +1062,6 @@ CSC-00112-05 evses -> 0: status : CHARGING
 
 2022-09-17 10:25:14
 LSD-00004-01 evses -> 0: status : CHARGING
+
+2022-09-17 10:44:52
+LSD-00004-01 evses -> 0: status : CHARGING
