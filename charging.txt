@@ -1075,3 +1075,6 @@ LSD-00004-01 evses -> 0: status : CHARGING
 
 2022-09-17 12:35:26
 ETZ-00012-01 evses -> 1: status : CHARGING
+
+2022-09-17 17:45:29
+LSD-00004-01 evses -> 0: status : CHARGING
