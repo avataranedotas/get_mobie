@@ -1130,3 +1130,6 @@ LSD-00004-02 evses -> 1: status : CHARGING
 
 2022-09-19 14:48:36
 LSD-00004-02 evses -> 1: status : CHARGING
+
+2022-09-19 18:34:55
+ABF-00038-01 evses -> 1: status : CHARGING
