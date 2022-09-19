@@ -1161,3 +1161,6 @@ ABF-00038-01 evses -> 1: status : CHARGING
 
 2022-09-19 22:44:18
 ABF-00038-01 evses -> 1: status : CHARGING
+
+2022-09-19 23:24:24
+ABF-00038-01 evses -> 1: status : CHARGING
