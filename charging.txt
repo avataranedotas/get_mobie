@@ -1123,3 +1123,7 @@ LRA-00061-02 evses -> 1: status : CHARGING
 2022-09-19 13:51:09
 ETZ-00012-02 evses -> 0: status : CHARGING
 LSD-00004-02 evses -> 1: status : CHARGING
+
+2022-09-19 14:26:34
+ETZ-00012-02 evses -> 0: status : CHARGING
+LSD-00004-02 evses -> 1: status : CHARGING
