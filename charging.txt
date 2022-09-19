@@ -1149,3 +1149,6 @@ LRA-00061-03 evses -> 2: status : CHARGING
 2022-09-19 20:46:04
 ABF-00038-01 evses -> 1: status : CHARGING
 LRA-00061-03 evses -> 2: status : CHARGING
+
+2022-09-19 21:19:18
+ABF-00038-01 evses -> 1: status : CHARGING
