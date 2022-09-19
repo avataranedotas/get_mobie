@@ -790,3 +790,45 @@ PRG-90001
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-09-19 17:08:20
+GDM-00004
+coordinates: 
+ NEW longitude : -8.556581
+ OLD longitude : -8.556381
+GDM-00004
+: 
+ NEW coordinates : {'latitude': '41.175622', 'longitude': '-8.556581'}
+ OLD coordinates : {'latitude': '41.175622', 'longitude': '-8.556381'}
+GDM-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GDM-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GDM-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00096
+coordinates: 
+ NEW latitude : 41.1669203
+ OLD latitude : 41.1697203
+PRT-00096
+: 
+ NEW coordinates : {'latitude': '41.1669203', 'longitude': '-8.6119556'}
+ OLD coordinates : {'latitude': '41.1697203', 'longitude': '-8.6119556'}
+PRT-00096
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00096
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00096
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
