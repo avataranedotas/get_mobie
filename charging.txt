@@ -1200,3 +1200,6 @@ ABF-00038-01 evses -> 1: status : CHARGING
 
 2022-09-20 10:47:42
 ABF-00038-01 evses -> 1: status : CHARGING
+
+2022-09-20 13:52:58
+LSD-00004-01 evses -> 0: status : CHARGING
