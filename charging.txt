@@ -1218,3 +1218,6 @@ LLE-00084-01 evses -> 2: status : CHARGING
 2022-09-20 18:25:57
 LLE-00084-03 evses -> 0: status : CHARGING
 LSD-00004-01 evses -> 0: status : CHARGING
+
+2022-09-20 19:17:51
+OER-00131-02 evses -> 1: status : CHARGING
