@@ -1221,3 +1221,6 @@ LSD-00004-01 evses -> 0: status : CHARGING
 
 2022-09-20 19:17:51
 OER-00131-02 evses -> 1: status : CHARGING
+
+2022-09-20 19:39:53
+OER-00131-02 evses -> 1: status : CHARGING
