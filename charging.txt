@@ -1227,3 +1227,6 @@ OER-00131-02 evses -> 1: status : CHARGING
 
 2022-09-21 08:37:55
 SXL-90001-01 evses -> 1: status : CHARGING
+
+2022-09-21 09:22:56
+SXL-90001-01 evses -> 1: status : CHARGING
