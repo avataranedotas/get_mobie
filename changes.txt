@@ -848,3 +848,25 @@ Removidos:[]
 2022-09-21 11:41:14
 Adicionados:[]
 Removidos:['SXL-00004']
+
+2022-09-22 07:33:40
+PRT-00128
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00128
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00128
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00029
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+SNT-00029
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC

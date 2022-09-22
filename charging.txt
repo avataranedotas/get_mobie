@@ -1239,3 +1239,6 @@ ABF-00042-01 evses -> 1: status : CHARGING
 
 2022-09-22 06:51:52
 NZR-00009-02 evses -> 1: status : CHARGING
+
+2022-09-22 07:33:43
+NZR-00009-02 evses -> 1: status : CHARGING
