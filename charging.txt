@@ -1292,3 +1292,7 @@ SXL-90001-02 evses -> 0: status : CHARGING
 2022-09-22 15:22:14
 NZR-00009-02 evses -> 1: status : CHARGING
 SXL-90001-02 evses -> 0: status : CHARGING
+
+2022-09-22 15:48:31
+NZR-00009-02 evses -> 1: status : CHARGING
+SXL-90001-02 evses -> 0: status : CHARGING
