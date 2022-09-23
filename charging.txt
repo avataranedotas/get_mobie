@@ -1415,3 +1415,6 @@ SXL-90001-02 evses -> 0: status : CHARGING
 
 2022-09-23 19:40:26
 SXL-90001-02 evses -> 0: status : CHARGING
+
+2022-09-23 20:21:59
+SXL-90001-02 evses -> 0: status : CHARGING
