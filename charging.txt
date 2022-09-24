@@ -1461,3 +1461,6 @@ LSB-00498-02 evses -> 0: status : CHARGING
 
 2022-09-24 12:37:46
 ABF-00042-02 evses -> 0: status : CHARGING
+
+2022-09-24 13:35:34
+ABF-00042-02 evses -> 0: status : CHARGING
