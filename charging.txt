@@ -1470,3 +1470,6 @@ VCT-00030-02 evses -> 1: status : CHARGING
 
 2022-09-26 12:44:19
 VCT-00029-02 evses -> 1: status : CHARGING
+
+2022-09-26 22:21:40
+PDL-00004-01 evses -> 1: status : CHARGING
