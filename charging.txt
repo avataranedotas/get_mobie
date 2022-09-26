@@ -1467,3 +1467,6 @@ ABF-00042-02 evses -> 0: status : CHARGING
 
 2022-09-26 09:48:35
 VCT-00030-02 evses -> 1: status : CHARGING
+
+2022-09-26 12:44:19
+VCT-00029-02 evses -> 1: status : CHARGING
