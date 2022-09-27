@@ -1482,3 +1482,10 @@ SCR-00007-1 evses -> 0: status : CHARGING
 
 2022-09-27 11:43:08
 OER-00127-02 evses -> 0: status : CHARGING
+
+2022-09-27 16:34:26
+LSB-00232-1 evses -> 0: status : CHARGING
+LSB-00233-1 evses -> 0: status : CHARGING
+LSB-00235-1 evses -> 0: status : CHARGING
+LSB-00236-1 evses -> 0: status : CHARGING
+LSB-00237-1 evses -> 0: status : CHARGING
