@@ -954,3 +954,9 @@ CBR-00010
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_1_PHASE
  OLD power_type : DC
+
+2022-09-27 12:44:50
+Adicionados:['TVD-00026']
+
+TVD-00026-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'TVD-00026', 'publish': True, 'address': 'Travessa do Reguengo', 'city': 'Torres Vedras', 'country': 'PRT', 'postal_code': '2560-628', 'coordinates': {'latitude': '39.097603', 'longitude': '-9.254116'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVD-00026-01', 'evse_id': 'PT*GLP*E*TVD*00026*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'TVD-00026-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-07-29T16:44:00.329Z'}], 'last_updated': '2022-09-27T12:22:45.694Z'}, {'uid': 'TVD-00026-02', 'evse_id': 'PT*GLP*E*TVD*00026*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'TVD-00026-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-07-29T16:44:00.329Z'}], 'last_updated': '2022-09-27T12:22:51.712Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-09-27T12:22:51.712Z'}
+Removidos:[]
