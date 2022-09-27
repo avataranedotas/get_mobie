@@ -1489,3 +1489,10 @@ LSB-00233-1 evses -> 0: status : CHARGING
 LSB-00235-1 evses -> 0: status : CHARGING
 LSB-00236-1 evses -> 0: status : CHARGING
 LSB-00237-1 evses -> 0: status : CHARGING
+
+2022-09-27 17:36:10
+LSB-00232-1 evses -> 0: status : CHARGING
+LSB-00233-1 evses -> 0: status : CHARGING
+LSB-00235-1 evses -> 0: status : CHARGING
+LSB-00236-1 evses -> 0: status : CHARGING
+LSB-00237-1 evses -> 0: status : CHARGING
