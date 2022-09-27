@@ -1479,3 +1479,6 @@ PDL-00004-01 evses -> 1: status : CHARGING
 
 2022-09-27 09:29:59
 SCR-00007-1 evses -> 0: status : CHARGING
+
+2022-09-27 11:43:08
+OER-00127-02 evses -> 0: status : CHARGING
