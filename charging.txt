@@ -1527,3 +1527,6 @@ TVD-00027-02 evses -> 1: status : CHARGING
 
 2022-09-28 11:43:40
 LSB-00234-1 evses -> 0: status : CHARGING
+
+2022-09-28 12:41:54
+LSB-00234-1 evses -> 0: status : CHARGING
