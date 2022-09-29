@@ -1054,3 +1054,7 @@ CSC-00082-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'CSC-00082', 'publis
 
 ORM-00005-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'ORM-00005', 'publish': True, 'address': 'Rotunda dos Peregrinos, 101', 'city': 'Ourém', 'country': 'PRT', 'postal_code': '2495-412', 'coordinates': {'latitude': '39.6341117', 'longitude': '-8.6857492'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ORM-00005-01', 'evse_id': 'PT*IBD*E*ORM*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ORM-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-09-29T10:06:38.407Z'}], 'last_updated': '2022-09-29T10:06:38.407Z'}, {'uid': 'ORM-00005-02', 'evse_id': 'PT*IBD*E*ORM*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ORM-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-09-29T10:06:38.409Z'}], 'last_updated': '2022-09-29T10:06:38.409Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-09-29T10:06:38.406Z'}
 Removidos:[]
+
+2022-09-29 11:18:17
+Adicionados:[]
+Removidos:['FAR-00029']
