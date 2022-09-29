@@ -1564,3 +1564,6 @@ OER-00122-02 evses -> 1: status : CHARGING
 
 2022-09-29 12:42:06
 LSB-00234-1 evses -> 0: status : CHARGING
+
+2022-09-29 13:52:59
+LSB-00234-1 evses -> 0: status : CHARGING
