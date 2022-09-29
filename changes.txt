@@ -1064,3 +1064,17 @@ Adicionados:['ORM-00006']
 
 ORM-00006-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'ORM-00006', 'publish': True, 'address': 'Rua dos Namorados - C.C Vila Shopping loja 13', 'city': 'Ourém', 'country': 'PRT', 'postal_code': '2490-339', 'coordinates': {'latitude': '39.6535236', 'longitude': '-8.5902888'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ORM-00006-02', 'evse_id': 'PT*HRZ*E*ORM*00006*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ORM-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-30T15:10:53.472Z'}], 'last_updated': '2022-09-29T11:37:31.381Z'}, {'uid': 'ORM-00006-03', 'evse_id': 'PT*HRZ*E*ORM*00006*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ORM-00006-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-06-30T15:10:53.473Z'}], 'last_updated': '2022-09-29T11:37:30.821Z'}, {'uid': 'ORM-00006-01', 'evse_id': 'PT*HRZ*E*ORM*00006*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ORM-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-06-30T15:10:53.472Z'}], 'last_updated': '2022-09-29T11:37:32.028Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-09-29T11:37:32.028Z'}
 Removidos:[]
+
+2022-09-29 18:58:31
+BRG-00027
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRG-00027
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRG-00027
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
