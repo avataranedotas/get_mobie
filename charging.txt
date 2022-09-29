@@ -1536,3 +1536,6 @@ CSC-00103-01 evses -> 5: status : CHARGING
 
 2022-09-28 18:31:29
 ETZ-00012-02 evses -> 0: status : CHARGING
+
+2022-09-29 08:29:44
+LSB-00234-1 evses -> 0: status : CHARGING
