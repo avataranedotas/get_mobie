@@ -1623,3 +1623,7 @@ VCD-00015-01 evses -> 0: status : CHARGING
 
 2022-09-30 11:18:19
 FAR-00030-03 evses -> 1: status : CHARGING
+
+2022-09-30 13:55:22
+FAR-00030-03 evses -> 1: status : CHARGING
+VCD-00013-02 evses -> 0: status : CHARGING
