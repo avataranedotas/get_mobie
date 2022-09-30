@@ -1627,3 +1627,7 @@ FAR-00030-03 evses -> 1: status : CHARGING
 2022-09-30 13:55:22
 FAR-00030-03 evses -> 1: status : CHARGING
 VCD-00013-02 evses -> 0: status : CHARGING
+
+2022-09-30 14:35:32
+BRR-00022-02 evses -> 1: status : CHARGING
+FAR-00030-03 evses -> 1: status : CHARGING
