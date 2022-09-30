@@ -1654,3 +1654,7 @@ CMN-00007-02 evses -> 0: status : CHARGING
 
 2022-09-30 19:44:09
 CMN-00007-02 evses -> 0: status : CHARGING
+
+2022-09-30 20:23:38
+BRR-00021-01 evses -> 1: status : CHARGING
+CMN-00007-02 evses -> 0: status : CHARGING
