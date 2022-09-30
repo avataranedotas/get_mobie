@@ -1651,3 +1651,6 @@ AVR-00039-02 evses -> 0: status : CHARGING
 
 2022-09-30 19:27:05
 CMN-00007-02 evses -> 0: status : CHARGING
+
+2022-09-30 19:44:09
+CMN-00007-02 evses -> 0: status : CHARGING
