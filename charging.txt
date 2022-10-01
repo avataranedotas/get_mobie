@@ -1708,3 +1708,7 @@ AVR-00040-01 evses -> 0: status : CHARGING
 
 2022-10-01 15:48:25
 VCT-00030-02 evses -> 1: status : CHARGING
+
+2022-10-01 16:29:11
+BRG-00018-1 evses -> 1: status : CHARGING
+VCT-00030-02 evses -> 1: status : CHARGING
