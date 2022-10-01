@@ -1746,3 +1746,6 @@ BRG-00018-1 evses -> 1: status : CHARGING
 
 2022-10-01 22:45:52
 ABF-00039-02 evses -> 1: status : CHARGING
+
+2022-10-01 23:24:29
+ABF-00039-02 evses -> 1: status : CHARGING
