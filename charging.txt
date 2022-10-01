@@ -1702,3 +1702,6 @@ BRR-00021-02 evses -> 0: status : CHARGING
 
 2022-10-01 12:15:09
 RMZ-00004-02 evses -> 0: status : CHARGING
+
+2022-10-01 12:39:41
+AVR-00040-01 evses -> 0: status : CHARGING
