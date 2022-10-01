@@ -1695,3 +1695,7 @@ BRR-00021-02 evses -> 0: status : CHARGING
 2022-10-01 11:17:40
 AGD-00004-02 evses -> 1: status : CHARGING
 BRR-00021-02 evses -> 0: status : CHARGING
+
+2022-10-01 11:42:05
+AGD-00004-02 evses -> 1: status : CHARGING
+BRR-00021-02 evses -> 0: status : CHARGING
