@@ -1840,3 +1840,6 @@ VCT-00028-01 evses -> 1: status : CHARGING
 
 2022-10-02 18:53:33
 ABF-00039-02 evses -> 1: status : CHARGING
+
+2022-10-02 19:18:18
+ABF-00039-02 evses -> 1: status : CHARGING
