@@ -1783,3 +1783,6 @@ ABF-00039-02 evses -> 1: status : CHARGING
 2022-10-02 09:47:23
 ABF-00039-02 evses -> 1: status : CHARGING
 PLM-00014-01 evses -> 1: status : CHARGING
+
+2022-10-02 10:22:54
+ABF-00039-02 evses -> 1: status : CHARGING
