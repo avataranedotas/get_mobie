@@ -1770,3 +1770,6 @@ ABF-00039-02 evses -> 1: status : CHARGING
 
 2022-10-02 07:44:06
 ABF-00039-02 evses -> 1: status : CHARGING
+
+2022-10-02 08:26:39
+ABF-00039-02 evses -> 1: status : CHARGING
