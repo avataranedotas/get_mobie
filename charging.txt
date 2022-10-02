@@ -1819,3 +1819,7 @@ ABF-00039-02 evses -> 1: status : CHARGING
 2022-10-02 15:48:19
 ABF-00039-02 evses -> 1: status : CHARGING
 BRR-00019-01 evses -> 0: status : CHARGING
+
+2022-10-02 16:28:40
+ABF-00039-02 evses -> 1: status : CHARGING
+BRR-00019-01 evses -> 0: status : CHARGING
