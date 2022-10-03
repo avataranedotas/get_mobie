@@ -1172,3 +1172,13 @@ TVD-00007
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTE
+
+2022-10-03 19:42:43
+OLH-90002
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : NONE
+SXL-90001
+: 
+ NEW mobie_voltage_level : BTN
+ OLD mobie_voltage_level : NONE

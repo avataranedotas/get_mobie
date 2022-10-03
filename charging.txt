@@ -1940,3 +1940,6 @@ VCT-00030-02 evses -> 1: status : CHARGING
 
 2022-10-03 19:22:04
 VCT-00028-01 evses -> 1: status : CHARGING
+
+2022-10-03 19:42:46
+BRR-00023-01 evses -> 0: status : CHARGING
