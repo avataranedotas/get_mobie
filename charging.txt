@@ -1906,3 +1906,7 @@ VCT-00028-03 evses -> 2: status : CHARGING
 2022-10-03 10:49:53
 VCT-00028-03 evses -> 2: status : CHARGING
 VNG-90001-1 evses -> 0: status : CHARGING
+
+2022-10-03 11:18:51
+VCT-00028-03 evses -> 2: status : CHARGING
+VNG-90001-1 evses -> 0: status : CHARGING
