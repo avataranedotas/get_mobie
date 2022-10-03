@@ -1931,3 +1931,6 @@ VNG-90001-1 evses -> 0: status : CHARGING
 2022-10-03 15:26:07
 VLF-90002-01 evses -> 0: status : CHARGING
 VNG-90001-1 evses -> 0: status : CHARGING
+
+2022-10-03 16:36:48
+VLF-90002-02 evses -> 1: status : CHARGING
