@@ -1937,3 +1937,6 @@ VLF-90002-02 evses -> 1: status : CHARGING
 
 2022-10-03 18:31:03
 VCT-00030-02 evses -> 1: status : CHARGING
+
+2022-10-03 19:22:04
+VCT-00028-01 evses -> 1: status : CHARGING
