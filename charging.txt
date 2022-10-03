@@ -1895,3 +1895,10 @@ ABF-00039-02 evses -> 1: status : CHARGING
 
 2022-10-03 08:29:38
 ABF-00039-02 evses -> 1: status : CHARGING
+
+2022-10-03 10:24:40
+NZR-00018-01 evses -> 1: status : CHARGING
+PLM-00014-03 evses -> 0: status : CHARGING
+PLM-00014-01 evses -> 1: status : CHARGING
+PLM-00014-02 evses -> 2: status : CHARGING
+VCT-00028-03 evses -> 2: status : CHARGING
