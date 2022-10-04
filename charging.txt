@@ -1978,3 +1978,9 @@ VLF-90002-02 evses -> 1: status : CHARGING
 LLE-00060-01 evses -> 0: status : CHARGING
 VLF-90002-02 evses -> 1: status : CHARGING
 VNG-90001-4 evses -> 2: status : CHARGING
+
+2022-10-04 12:47:45
+LLE-00060-01 evses -> 0: status : CHARGING
+VCT-00028-01 evses -> 1: status : CHARGING
+VLF-90002-02 evses -> 1: status : CHARGING
+VNG-90001-4 evses -> 2: status : CHARGING
