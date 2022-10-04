@@ -1946,3 +1946,7 @@ BRR-00023-01 evses -> 0: status : CHARGING
 
 2022-10-03 20:24:24
 BRR-00023-01 evses -> 0: status : CHARGING
+
+2022-10-04 07:51:46
+BRR-00019-01 evses -> 0: status : CHARGING
+VLF-90002-02 evses -> 1: status : CHARGING
