@@ -1182,3 +1182,9 @@ SXL-90001
 : 
  NEW mobie_voltage_level : BTN
  OLD mobie_voltage_level : NONE
+
+2022-10-04 16:33:39
+Adicionados:['PVZ-00018']
+
+PVZ-00018-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'PVZ-00018', 'publish': True, 'address': 'Rua Gomes Amorim, 2939', 'city': 'Póvoa de Varzim', 'country': 'PRT', 'postal_code': '4490-091', 'coordinates': {'latitude': '41.4045277', 'longitude': '-8.7673229'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PVZ-00018-01', 'evse_id': 'PT*IBD*E*PVZ*00018*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:45.618Z'}], 'last_updated': '2022-10-04T16:09:15.84Z'}, {'uid': 'PVZ-00018-02', 'evse_id': 'PT*IBD*E*PVZ*00018*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:45.619Z'}], 'last_updated': '2022-10-04T16:09:16.997Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-04T16:09:16.997Z'}
+Removidos:[]

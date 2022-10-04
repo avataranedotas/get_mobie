@@ -1994,3 +1994,7 @@ BRR-00023-02 evses -> 1: status : CHARGING
 
 2022-10-04 15:53:30
 TVD-00026-02 evses -> 1: status : CHARGING
+
+2022-10-04 16:33:41
+NZR-00018-02 evses -> 0: status : CHARGING
+VNG-90001-3 evses -> 1: status : CHARGING
