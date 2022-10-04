@@ -1965,3 +1965,7 @@ VNG-90001-1 evses -> 0: status : CHARGING
 2022-10-04 10:23:47
 LLE-00060-01 evses -> 0: status : CHARGING
 VNG-90001-1 evses -> 0: status : CHARGING
+
+2022-10-04 10:49:52
+LLE-00060-01 evses -> 0: status : CHARGING
+VNG-90001-1 evses -> 0: status : CHARGING
