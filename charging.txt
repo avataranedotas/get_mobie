@@ -2021,3 +2021,6 @@ LLE-00098-01 evses -> 1: status : CHARGING
 
 2022-10-07 20:23:57
 SRT-90001-01 evses -> 0: status : CHARGING
+
+2022-10-07 20:48:01
+SRT-90001-01 evses -> 0: status : CHARGING
