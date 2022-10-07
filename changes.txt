@@ -1214,3 +1214,7 @@ Adicionados:['GMR-00054']
 
 GMR-00054-->{'country_code': 'PT', 'party_id': 'EVI', 'id': 'GMR-00054', 'publish': True, 'address': 'Rua Miradouro Baixo 9001', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-079', 'coordinates': {'latitude': '41.437256', 'longitude': '-8.312555'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00054-01', 'evse_id': 'PT*EVI*E*GMR*00054*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00054-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-09-15T08:21:55.784Z'}], 'last_updated': '2022-10-06T15:09:01.117Z'}, {'uid': 'GMR-00054-02', 'evse_id': 'PT*EVI*E*GMR*00054*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00054-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-09-15T08:21:55.785Z'}], 'last_updated': '2022-10-06T15:09:01.117Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-10-06T15:09:01.081Z'}
 Removidos:[]
+
+2022-10-07 11:21:42
+Adicionados:[]
+Removidos:['LSB-01534', 'LSB-01535']
