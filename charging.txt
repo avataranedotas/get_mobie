@@ -2012,3 +2012,6 @@ LLE-00098-01 evses -> 1: status : CHARGING
 
 2022-10-07 14:35:14
 LLE-00098-01 evses -> 1: status : CHARGING
+
+2022-10-07 15:24:58
+LLE-00098-01 evses -> 1: status : CHARGING
