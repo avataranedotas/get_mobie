@@ -2006,3 +2006,6 @@ LRS-00045-02 evses -> 1: status : CHARGING
 BRG-00018-1 evses -> 1: status : CHARGING
 LRS-00045-01 evses -> 0: status : CHARGING
 LRS-00045-02 evses -> 1: status : CHARGING
+
+2022-10-07 13:54:38
+LLE-00098-01 evses -> 1: status : CHARGING
