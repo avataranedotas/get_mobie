@@ -2033,3 +2033,6 @@ SRT-90001-01 evses -> 0: status : CHARGING
 
 2022-10-07 22:22:55
 SRT-90001-01 evses -> 0: status : CHARGING
+
+2022-10-07 22:48:54
+SRT-90001-01 evses -> 0: status : CHARGING
