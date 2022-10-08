@@ -2076,3 +2076,8 @@ NZR-00010-02 evses -> 1: status : CHARGING
 LLE-00098-01 evses -> 1: status : CHARGING
 NZR-00010-02 evses -> 1: status : CHARGING
 SRT-90001-01 evses -> 0: status : CHARGING
+
+2022-10-08 18:52:41
+LLE-00098-01 evses -> 1: status : CHARGING
+NZR-00010-02 evses -> 1: status : CHARGING
+SRT-90001-01 evses -> 0: status : CHARGING
