@@ -2045,3 +2045,6 @@ SRT-90001-01 evses -> 0: status : CHARGING
 
 2022-10-08 06:58:18
 PVZ-00018-02 evses -> 1: status : CHARGING
+
+2022-10-08 10:22:54
+SRT-90001-01 evses -> 0: status : CHARGING
