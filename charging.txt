@@ -2060,3 +2060,6 @@ NZR-00010-02 evses -> 1: status : CHARGING
 
 2022-10-08 15:47:55
 NZR-00010-02 evses -> 1: status : CHARGING
+
+2022-10-08 16:28:49
+NZR-00010-02 evses -> 1: status : CHARGING
