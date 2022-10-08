@@ -2091,3 +2091,7 @@ NZR-00010-02 evses -> 1: status : CHARGING
 2022-10-08 20:22:47
 NZR-00010-02 evses -> 1: status : CHARGING
 SRT-90001-02 evses -> 1: status : CHARGING
+
+2022-10-08 20:46:19
+NZR-00010-02 evses -> 1: status : CHARGING
+SRT-90001-02 evses -> 1: status : CHARGING
