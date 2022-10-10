@@ -2280,3 +2280,7 @@ GMR-00054-02 evses -> 1: status : CHARGING
 
 2022-10-10 07:38:36
 GMR-00054-02 evses -> 1: status : CHARGING
+
+2022-10-10 08:33:36
+LSB-00516-01 evses -> 1: status : CHARGING
+LSB-00517-02 evses -> 1: status : CHARGING
