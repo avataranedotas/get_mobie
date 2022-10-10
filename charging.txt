@@ -2373,3 +2373,7 @@ LSB-00517-01 evses -> 0: status : CHARGING
 LSB-00515-01 evses -> 0: status : CHARGING
 LSB-00516-01 evses -> 1: status : CHARGING
 LSB-00517-01 evses -> 0: status : CHARGING
+
+2022-10-10 21:19:36
+LSB-00515-01 evses -> 0: status : CHARGING
+LSB-00516-01 evses -> 1: status : CHARGING
