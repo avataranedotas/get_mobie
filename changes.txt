@@ -1224,3 +1224,9 @@ Adicionados:['CSC-00115']
 
 CSC-00115-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CSC-00115', 'publish': True, 'address': 'Estrada de Manique', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2645-019', 'coordinates': {'latitude': '38.737083', 'longitude': '-9.383528'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00115-02', 'evse_id': 'PT*KLC*E*CSC*00115*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00115-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-07T11:23:29.709Z'}], 'last_updated': '2022-10-11T09:21:05.91Z'}, {'uid': 'CSC-00115-01', 'evse_id': 'PT*KLC*E*CSC*00115*01', 'status': 'CHARGING', 'connectors': [{'id': 'CSC-00115-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-07T11:23:29.707Z'}], 'last_updated': '2022-10-11T09:21:04.909Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-11T09:21:05.91Z'}
 Removidos:[]
+
+2022-10-11 13:56:43
+LRS-00058
+: 
+ NEW address : A9 km 22,1 Loures-Bucelas - CREL Norte
+ OLD address : CREL Norte, A9 km 22,1 sentido Bucelas-Loures
