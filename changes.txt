@@ -1230,3 +1230,7 @@ LRS-00058
 : 
  NEW address : A9 km 22,1 Loures-Bucelas - CREL Norte
  OLD address : CREL Norte, A9 km 22,1 sentido Bucelas-Loures
+
+2022-10-13 10:24:54
+Adicionados:[]
+Removidos:['AVR-00020', 'CNT-00002']
