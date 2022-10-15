@@ -2596,3 +2596,6 @@ MTS-00052-02 evses -> 2: status : CHARGING
 
 2022-10-15 16:29:49
 AMD-00051-1 evses -> 0: status : CHARGING
+
+2022-10-15 17:05:16
+AMD-00051-1 evses -> 0: status : CHARGING
