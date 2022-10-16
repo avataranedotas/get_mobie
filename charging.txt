@@ -2693,3 +2693,6 @@ AMD-00051-1 evses -> 0: status : CHARGING
 2022-10-16 14:45:15
 AMD-00051-1 evses -> 0: status : CHARGING
 NZR-00011-02 evses -> 0: status : CHARGING
+
+2022-10-16 15:22:33
+AMD-00051-1 evses -> 0: status : CHARGING
