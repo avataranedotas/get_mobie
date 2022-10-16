@@ -2741,3 +2741,6 @@ AMD-00051-1 evses -> 0: status : CHARGING
 
 2022-10-16 23:25:19
 AMD-00051-1 evses -> 0: status : CHARGING
+
+2022-10-16 23:50:32
+AMD-00051-1 evses -> 0: status : CHARGING
