@@ -2779,3 +2779,6 @@ PVZ-00019-01 evses -> 1: status : CHARGING
 
 2022-10-17 12:49:56
 AMD-00051-1 evses -> 0: status : CHARGING
+
+2022-10-17 14:02:42
+AMD-00051-1 evses -> 0: status : CHARGING
