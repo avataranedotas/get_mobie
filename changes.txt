@@ -1266,3 +1266,7 @@ LSB-00455-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00455', 'publis
 
 LSB-00456-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00456', 'publish': True, 'address': 'Avenida Machado Santos', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1500-374', 'coordinates': {'latitude': '38.753683', 'longitude': '-9.181896'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00456-02', 'evse_id': 'PT*EML*E*LSB*00456*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00456-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-03-09T19:21:29.674Z'}], 'last_updated': '2022-10-14T11:03:55.071Z'}, {'uid': 'LSB-00456-01', 'evse_id': 'PT*EML*E*LSB*00456*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00456-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-03-09T19:21:29.673Z'}], 'last_updated': '2022-10-14T11:03:55.071Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-14T11:03:55.041Z'}
 Removidos:[]
+
+2022-10-17 16:39:40
+Adicionados:[]
+Removidos:['ESP-00005']
