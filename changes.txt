@@ -1294,3 +1294,29 @@ CMN-00008-->{'country_code': 'PT', 'party_id': 'EVC', 'id': 'CMN-00008', 'publis
 
 SXL-00030-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'SXL-00030', 'publish': True, 'address': 'R. Tomás de Almeida, Amora', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2845-368', 'coordinates': {'latitude': '38.620451', 'longitude': '-9.115146'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SXL-00030-02', 'evse_id': 'PT*GLP*E*SXL*00030*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SXL-00030-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-09-12T10:29:05.637Z'}], 'last_updated': '2022-10-18T11:36:48.779Z'}, {'uid': 'SXL-00030-01', 'evse_id': 'PT*GLP*E*SXL*00030*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SXL-00030-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 100, 'max_electric_power': 90000, 'last_updated': '2022-09-12T10:29:05.636Z'}], 'last_updated': '2022-10-18T11:36:48.016Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-18T11:36:48.779Z'}
 Removidos:[]
+
+2022-10-18 15:27:48
+GMR-00043
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 350
+GMR-00043
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 160000
+GMR-00043
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 160000
+GMR-00044
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+GMR-00045
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+GMR-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
