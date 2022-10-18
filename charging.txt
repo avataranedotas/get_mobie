@@ -2825,3 +2825,6 @@ SXL-00030-01 evses -> 1: status : CHARGING
 
 2022-10-18 16:46:52
 LSB-00304-1 evses -> 0: status : CHARGING
+
+2022-10-18 17:38:37
+LSB-00199-1 evses -> 0: status : CHARGING
