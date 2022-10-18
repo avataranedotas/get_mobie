@@ -1270,3 +1270,9 @@ Removidos:[]
 2022-10-17 16:39:40
 Adicionados:[]
 Removidos:['ESP-00005']
+
+2022-10-18 09:31:02
+Adicionados:['MTJ-00019']
+
+MTJ-00019-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'MTJ-00019', 'publish': True, 'address': 'POSTO PRIO - Rua do Operário', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2780-000', 'coordinates': {'latitude': '38.688128', 'longitude': '-8.945276'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'MTJ-00019-01', 'evse_id': 'PT*PRI*E*MTJ*00019*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTJ-00019-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:55:09.768Z'}], 'last_updated': '2022-10-18T08:49:15.45Z'}, {'uid': 'MTJ-00019-02', 'evse_id': 'PT*PRI*E*MTJ*00019*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTJ-00019-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-06-09T15:55:09.769Z'}], 'last_updated': '2022-10-18T08:49:16.464Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-18T08:49:16.464Z'}
+Removidos:[]
