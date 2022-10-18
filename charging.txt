@@ -2794,3 +2794,6 @@ AMD-00051-1 evses -> 0: status : CHARGING
 
 2022-10-18 10:26:19
 NZR-00017-02 evses -> 0: status : CHARGING
+
+2022-10-18 10:55:01
+MTJ-00019-01 evses -> 0: status : CHARGING
