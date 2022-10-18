@@ -2804,3 +2804,6 @@ MTJ-00019-01 evses -> 0: status : CHARGING
 
 2022-10-18 11:43:46
 LSB-00304-1 evses -> 0: status : CHARGING
+
+2022-10-18 12:48:06
+LSB-00304-1 evses -> 0: status : CHARGING
