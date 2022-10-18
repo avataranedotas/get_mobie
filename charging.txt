@@ -2811,3 +2811,7 @@ LSB-00304-1 evses -> 0: status : CHARGING
 2022-10-18 13:59:29
 LSB-00199-1 evses -> 0: status : CHARGING
 LSB-00304-1 evses -> 0: status : CHARGING
+
+2022-10-18 14:37:34
+LSB-00199-1 evses -> 0: status : CHARGING
+LSB-00304-1 evses -> 0: status : CHARGING
