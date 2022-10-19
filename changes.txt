@@ -1320,3 +1320,21 @@ GMR-00046
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 60000
+
+2022-10-19 09:02:21
+NZR-00017
+: 
+ NEW address : AVENIDA MANUEL REMIGIO 9970
+ OLD address : AVENIDA MANUEL REMIGIO 9970 PC, NAZARE
+NZR-00017
+coordinates: 
+ NEW latitude : 39.5923254
+ OLD latitude : 39.592244
+NZR-00017
+coordinates: 
+ NEW longitude : -9.0730001
+ OLD longitude : -9.0774337
+NZR-00017
+: 
+ NEW coordinates : {'latitude': '39.5923254', 'longitude': '-9.0730001'}
+ OLD coordinates : {'latitude': '39.592244', 'longitude': '-9.0774337'}
