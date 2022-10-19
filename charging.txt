@@ -2863,3 +2863,6 @@ SXL-00031-02 evses -> 1: status : CHARGING
 2022-10-19 22:25:05
 NZR-00017-02 evses -> 0: status : CHARGING
 SXL-00031-02 evses -> 1: status : CHARGING
+
+2022-10-19 22:51:07
+SXL-00031-02 evses -> 1: status : CHARGING
