@@ -1338,3 +1338,13 @@ NZR-00017
 : 
  NEW coordinates : {'latitude': '39.5923254', 'longitude': '-9.0730001'}
  OLD coordinates : {'latitude': '39.592244', 'longitude': '-9.0774337'}
+
+2022-10-19 14:37:54
+BAO-90001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BAO-90001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
