@@ -2837,3 +2837,6 @@ LSB-00304-1 evses -> 0: status : CHARGING
 
 2022-10-18 19:45:26
 LSB-00304-1 evses -> 0: status : CHARGING
+
+2022-10-19 11:44:32
+PDL-00002-02 evses -> 1: status : CHARGING
