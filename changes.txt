@@ -1354,3 +1354,9 @@ Adicionados:['FND-00010']
 
 FND-00010-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'FND-00010', 'publish': True, 'address': 'Quinta da Areeira, Travessa do Passal 8', 'city': 'Fundão', 'country': 'PRT', 'postal_code': '6230-005', 'coordinates': {'latitude': '40.1626071', 'longitude': '-7.5005714'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FND-00010-02', 'evse_id': 'PT*KLC*E*FND*00010*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'FND-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-09-26T10:38:39.578Z'}], 'last_updated': '2022-10-19T16:15:09.879Z'}, {'uid': 'FND-00010-03', 'evse_id': 'PT*KLC*E*FND*00010*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'FND-00010-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-09-26T10:38:39.58Z'}], 'last_updated': '2022-10-19T16:15:10.945Z'}, {'uid': 'FND-00010-01', 'evse_id': 'PT*KLC*E*FND*00010*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'FND-00010-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-09-26T10:38:39.577Z'}], 'last_updated': '2022-10-19T16:15:10.416Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-19T16:15:10.945Z'}
 Removidos:[]
+
+2022-10-19 17:44:23
+RMZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
