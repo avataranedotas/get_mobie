@@ -2840,3 +2840,6 @@ LSB-00304-1 evses -> 0: status : CHARGING
 
 2022-10-19 11:44:32
 PDL-00002-02 evses -> 1: status : CHARGING
+
+2022-10-19 18:37:32
+SXL-00031-01 evses -> 0: status : CHARGING
