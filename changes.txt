@@ -1364,3 +1364,9 @@ evses -> 0 -> connectors -> 0:
 2022-10-20 09:00:15
 Adicionados:[]
 Removidos:['LSB-00241']
+
+2022-10-20 09:52:47
+Adicionados:['VIS-00018']
+
+VIS-00018-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'VIS-00018', 'publish': True, 'address': 'Avenida Dr. Alexandre Alves', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-631', 'coordinates': {'latitude': '40.632859', 'longitude': '-7.909161'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIS-00018-02', 'evse_id': 'PT*IBD*E*VIS*00018*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VIS-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-08-16T18:18:55.002Z'}], 'last_updated': '2022-10-20T09:42:28.057Z'}, {'uid': 'VIS-00018-01', 'evse_id': 'PT*IBD*E*VIS*00018*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VIS-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-08-16T18:18:55.0Z'}], 'last_updated': '2022-10-20T09:42:26.291Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-20T09:42:28.057Z'}
+Removidos:[]
