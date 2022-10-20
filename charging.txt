@@ -2904,3 +2904,6 @@ LRS-00076-02 evses -> 0: status : CHARGING
 
 2022-10-20 17:42:15
 LRS-00076-02 evses -> 0: status : CHARGING
+
+2022-10-20 18:38:40
+LRS-00076-02 evses -> 0: status : CHARGING
