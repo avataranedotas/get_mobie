@@ -1360,3 +1360,7 @@ RMZ-00004
 evses -> 0 -> connectors -> 0: 
  NEW standard : IEC_62196_T2
  OLD standard : IEC_62196_T2_COMBO
+
+2022-10-20 09:00:15
+Adicionados:[]
+Removidos:['LSB-00241']
