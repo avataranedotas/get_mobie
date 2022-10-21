@@ -2975,3 +2975,6 @@ SXL-00031-01 evses -> 0: status : CHARGING
 2022-10-21 15:30:51
 MTJ-00019-01 evses -> 0: status : CHARGING
 PRT-00127-03 evses -> 0: status : CHARGING
+
+2022-10-21 16:34:50
+PRT-00127-03 evses -> 0: status : CHARGING
