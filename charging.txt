@@ -2957,3 +2957,6 @@ SXL-00031-01 evses -> 0: status : CHARGING
 2022-10-21 11:44:23
 RGR-00007-02 evses -> 1: status : CHARGING
 SXL-00031-01 evses -> 0: status : CHARGING
+
+2022-10-21 12:47:02
+LRS-00076-02 evses -> 0: status : CHARGING
