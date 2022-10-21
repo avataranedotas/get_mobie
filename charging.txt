@@ -3004,3 +3004,6 @@ NZR-00017-02 evses -> 0: status : CHARGING
 
 2022-10-21 21:45:47
 NZR-00017-02 evses -> 0: status : CHARGING
+
+2022-10-21 22:22:41
+NZR-00017-02 evses -> 0: status : CHARGING
