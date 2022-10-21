@@ -2982,3 +2982,6 @@ PRT-00127-03 evses -> 0: status : CHARGING
 2022-10-21 17:33:31
 MLD-00007-01 evses -> 0: status : CHARGING
 NZR-00017-02 evses -> 0: status : CHARGING
+
+2022-10-21 18:30:37
+NZR-00017-02 evses -> 0: status : CHARGING
