@@ -1414,3 +1414,13 @@ Adicionados:['MTJ-00027']
 
 MTJ-00027-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'MTJ-00027', 'publish': True, 'address': 'Rua Joaquim de Almeida 2870-343, Montijo', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2870-343', 'coordinates': {'latitude': '38.7073416', 'longitude': '-8.9630014'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00027-02', 'evse_id': 'PT*GLP*E*MTJ*00027*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'MTJ-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-04T11:06:18.026Z'}], 'last_updated': '2022-10-21T15:03:59.883Z'}, {'uid': 'MTJ-00027-01', 'evse_id': 'PT*GLP*E*MTJ*00027*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'MTJ-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-04T11:06:18.024Z'}], 'last_updated': '2022-10-21T15:03:59.883Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-21T15:03:59.851Z'}
 Removidos:[]
+
+2022-10-22 19:18:56
+LLE-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LLE-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
