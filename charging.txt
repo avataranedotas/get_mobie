@@ -3039,3 +3039,6 @@ MLD-00005-02 evses -> 0: status : CHARGING
 
 2022-10-23 17:28:51
 ORM-00006-03 evses -> 1: status : CHARGING
+
+2022-10-23 19:19:24
+GMR-00042-03 evses -> 2: status : CHARGING
