@@ -1424,3 +1424,11 @@ LLE-00012
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-10-24 12:48:54
+Adicionados:['LSB-00519', 'LSB-00522']
+
+LSB-00519-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00519', 'publish': True, 'address': 'AVENIDA DA LIBERDADE 180', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-146', 'coordinates': {'latitude': '38.720793', 'longitude': '-9.144855'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00519-01', 'evse_id': 'PT*GLP*E*LSB*00519*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00519-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-11T16:21:39.888Z'}], 'last_updated': '2022-10-24T12:33:59.54Z'}, {'uid': 'LSB-00519-02', 'evse_id': 'PT*GLP*E*LSB*00519*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00519-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-11T16:21:39.889Z'}], 'last_updated': '2022-10-24T12:33:59.54Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-10-24T12:33:59.508Z'}
+
+LSB-00522-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00522', 'publish': True, 'address': 'AVENIDA DA LIBERDADE 180', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-146', 'coordinates': {'latitude': '38.720793', 'longitude': '-9.144855'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00522-1', 'evse_id': 'PT*GLP*E*LSB*00522*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00522-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-11T16:21:54.386Z'}], 'last_updated': '2022-10-24T12:35:58.388Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-10-24T12:35:58.33Z'}
+Removidos:[]
