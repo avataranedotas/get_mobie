@@ -3065,3 +3065,11 @@ GMR-00042-03 evses -> 2: status : CHARGING
 
 2022-10-25 14:02:13
 LSB-00440-02 evses -> 1: status : CHARGING
+
+2022-10-25 14:57:51
+BCL-00005-02 evses -> 2: status : CHARGING
+GMR-00042-01 evses -> 0: status : CHARGING
+GMR-00042-02 evses -> 1: status : CHARGING
+GMR-00042-03 evses -> 2: status : CHARGING
+LSB-00440-02 evses -> 1: status : CHARGING
+ORM-00006-03 evses -> 1: status : CHARGING
