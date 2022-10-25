@@ -3080,3 +3080,7 @@ LSB-00440-02 evses -> 1: status : CHARGING
 2022-10-25 16:40:24
 BRG-00027-01 evses -> 2: status : CHARGING
 VIS-00018-02 evses -> 0: status : CHARGING
+
+2022-10-25 17:54:47
+BCL-00005-01 evses -> 1: status : CHARGING
+VIS-00018-02 evses -> 0: status : CHARGING
