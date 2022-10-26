@@ -3094,3 +3094,7 @@ BCL-00005-03 evses -> 0: status : CHARGING
 
 2022-10-26 09:43:34
 BCL-00005-01 evses -> 1: status : CHARGING
+
+2022-10-26 12:46:51
+BRG-00027-02 evses -> 0: status : CHARGING
+ORM-00006-03 evses -> 1: status : CHARGING
