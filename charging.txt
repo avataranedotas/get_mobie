@@ -3104,3 +3104,6 @@ BRG-00027-02 evses -> 0: status : CHARGING
 
 2022-10-26 19:15:36
 VIS-00018-02 evses -> 0: status : CHARGING
+
+2022-10-26 19:37:58
+VIS-00018-02 evses -> 0: status : CHARGING
