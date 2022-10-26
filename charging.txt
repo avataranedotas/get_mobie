@@ -3088,3 +3088,6 @@ VIS-00018-02 evses -> 0: status : CHARGING
 2022-10-25 19:39:32
 GMR-00042-01 evses -> 0: status : CHARGING
 VIS-00018-02 evses -> 0: status : CHARGING
+
+2022-10-26 09:19:29
+BCL-00005-03 evses -> 0: status : CHARGING
