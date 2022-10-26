@@ -3101,3 +3101,6 @@ ORM-00006-03 evses -> 1: status : CHARGING
 
 2022-10-26 18:49:49
 BRG-00027-02 evses -> 0: status : CHARGING
+
+2022-10-26 19:15:36
+VIS-00018-02 evses -> 0: status : CHARGING
