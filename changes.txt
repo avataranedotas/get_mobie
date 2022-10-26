@@ -1516,3 +1516,17 @@ Adicionados:['EVR-00024']
 
 EVR-00024-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'EVR-00024', 'publish': True, 'address': 'Everybody Fitness - Rua Luís Adelino Fonseca', 'city': 'Évora', 'country': 'PRT', 'postal_code': '7005-345', 'coordinates': {'latitude': '38.549304', 'longitude': '-7.909996'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'EVR-00024-02', 'evse_id': 'PT*VEI*E*EVR*00024*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T14:33:29.41Z'}], 'last_updated': '2022-10-26T14:36:03.24Z'}, {'uid': 'EVR-00024-01', 'evse_id': 'PT*VEI*E*EVR*00024*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T14:33:29.409Z'}], 'last_updated': '2022-10-26T14:36:01.632Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-26T14:36:03.24Z'}
 Removidos:[]
+
+2022-10-26 15:46:02
+SXL-00037
+coordinates: 
+ NEW latitude : 38.6393698
+ OLD latitude : 38.38195
+SXL-00037
+coordinates: 
+ NEW longitude : -9.150997
+ OLD longitude : -9.09021
+SXL-00037
+: 
+ NEW coordinates : {'latitude': '38.6393698', 'longitude': '-9.150997'}
+ OLD coordinates : {'latitude': '38.38195', 'longitude': '-9.09021'}
