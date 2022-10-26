@@ -1488,3 +1488,25 @@ Adicionados:['TRF-00012']
 
 TRF-00012-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'TRF-00012', 'publish': True, 'address': 'RUA D. PEDRO V', 'city': 'Trofa', 'country': 'PRT', 'postal_code': '4910-430', 'coordinates': {'latitude': '41.343158', 'longitude': '-8.556993'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TRF-00012-02', 'evse_id': 'PT*GLG*E*TRF*00012*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TRF-00012-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-09-15T08:43:40.031Z'}], 'last_updated': '2022-10-26T10:48:43.265Z'}, {'uid': 'TRF-00012-03', 'evse_id': 'PT*GLG*E*TRF*00012*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'TRF-00012-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-09-15T08:43:40.032Z'}], 'last_updated': '2022-10-26T10:49:57.027Z'}, {'uid': 'TRF-00012-01', 'evse_id': 'PT*GLG*E*TRF*00012*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TRF-00012-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-09-15T08:43:40.029Z'}], 'last_updated': '2022-10-26T10:48:42.455Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-26T10:49:57.027Z'}
 Removidos:[]
+
+2022-10-26 14:24:41
+Adicionados:['EVR-00023']
+
+EVR-00023-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'EVR-00023', 'publish': True, 'address': 'Évora Hotel - Av. Túlio Espanca', 'city': 'Évora', 'country': 'PRT', 'postal_code': '7002-502', 'coordinates': {'latitude': '38.563338', 'longitude': '-7.93275'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'EVR-00023-02', 'evse_id': 'PT*VEI*E*EVR*00023*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:59:11.108Z'}], 'last_updated': '2022-10-26T13:59:11.108Z'}, {'uid': 'EVR-00023-01', 'evse_id': 'PT*VEI*E*EVR*00023*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:59:11.107Z'}], 'last_updated': '2022-10-26T13:59:11.107Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-26T13:59:11.106Z'}
+Removidos:['LLE-00010', 'LLE-00012', 'LLE-00013', 'LLE-00014', 'LLE-00015']
+PRT-90085
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+PRT-90085
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+PRT-90085
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+PRT-90085
+evses -> 3 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
