@@ -3137,3 +3137,8 @@ EVR-00023-02 evses -> 0: status : CHARGING
 2022-10-27 15:20:57
 BGC-00006-03 evses -> 1: status : CHARGING
 EVR-00023-02 evses -> 0: status : CHARGING
+
+2022-10-27 15:45:35
+BCL-00005-01 evses -> 1: status : CHARGING
+EVR-00023-01 evses -> 1: status : CHARGING
+LSB-00537-01 evses -> 0: status : CHARGING
