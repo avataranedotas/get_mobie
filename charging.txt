@@ -3149,3 +3149,6 @@ EVR-00023-01 evses -> 1: status : CHARGING
 2022-10-27 17:04:19
 EVR-00023-02 evses -> 0: status : CHARGING
 EVR-00023-01 evses -> 1: status : CHARGING
+
+2022-10-27 17:46:30
+EVR-00023-02 evses -> 0: status : CHARGING
