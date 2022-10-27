@@ -1608,3 +1608,21 @@ Adicionados:['BGC-00006']
 
 BGC-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'BGC-00006', 'publish': True, 'address': 'Rua Coronel Teófilo de Morais', 'city': 'Bragança', 'country': 'PRT', 'postal_code': '5300-427', 'coordinates': {'latitude': '41.7881042', 'longitude': '-6.7809081'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BGC-00006-02', 'evse_id': 'PT*KLC*E*BGC*00006*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'BGC-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-09-14T09:13:29.436Z'}], 'last_updated': '2022-10-27T13:32:11.987Z'}, {'uid': 'BGC-00006-03', 'evse_id': 'PT*KLC*E*BGC*00006*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'BGC-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-09-14T09:13:29.437Z'}], 'last_updated': '2022-10-27T13:32:11.987Z'}, {'uid': 'BGC-00006-01', 'evse_id': 'PT*KLC*E*BGC*00006*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'BGC-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-09-14T09:13:29.434Z'}], 'last_updated': '2022-10-27T13:32:11.987Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-10-27T13:32:11.915Z'}
 Removidos:[]
+
+2022-10-27 15:20:55
+LSB-00536
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : AC_1_PHASE
+LSB-00536
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+LSB-00536
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00536
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
