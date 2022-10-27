@@ -3116,3 +3116,6 @@ MLD-00005-01 evses -> 1: status : CHARGING
 
 2022-10-27 09:21:59
 STB-00023-03 evses -> 0: status : CHARGING
+
+2022-10-27 11:16:47
+BRG-00027-02 evses -> 0: status : CHARGING
