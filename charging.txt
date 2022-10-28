@@ -3158,3 +3158,7 @@ EVR-00023-02 evses -> 0: status : CHARGING
 
 2022-10-28 09:43:52
 LSB-00305-1 evses -> 0: status : CHARGING
+
+2022-10-28 10:21:57
+LSB-00305-1 evses -> 0: status : CHARGING
+PRT-00155-02 evses -> 0: status : CHARGING
