@@ -3169,3 +3169,8 @@ LSB-00305-1 evses -> 0: status : CHARGING
 2022-10-28 11:17:33
 MTA-00002-01 evses -> 1: status : CHARGING
 PRT-00155-02 evses -> 0: status : CHARGING
+
+2022-10-28 11:39:58
+LSB-00305-1 evses -> 0: status : CHARGING
+MAI-00027-02 evses -> 0: status : CHARGING
+MTA-00002-01 evses -> 1: status : CHARGING
