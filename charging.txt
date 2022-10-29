@@ -3285,3 +3285,6 @@ CSC-00113-01 evses -> 2: status : CHARGING
 
 2022-10-29 06:49:07
 CSC-00113-01 evses -> 2: status : CHARGING
+
+2022-10-29 07:17:19
+CSC-00113-01 evses -> 2: status : CHARGING
