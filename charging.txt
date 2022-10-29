@@ -3327,3 +3327,7 @@ MAI-00026-02 evses -> 2: status : CHARGING
 2022-10-29 12:35:09
 CSC-00113-01 evses -> 2: status : CHARGING
 LSB-00305-1 evses -> 0: status : CHARGING
+
+2022-10-29 13:31:58
+CSC-00113-01 evses -> 2: status : CHARGING
+LSB-00305-1 evses -> 0: status : CHARGING
