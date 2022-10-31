@@ -3439,3 +3439,6 @@ TRF-00012-03 evses -> 1: status : CHARGING
 
 2022-10-31 19:15:50
 SXL-00037-02 evses -> 1: status : CHARGING
+
+2022-10-31 21:18:23
+SXL-00037-02 evses -> 1: status : CHARGING
