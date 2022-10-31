@@ -3436,3 +3436,6 @@ CSC-00113-01 evses -> 2: status : CHARGING
 
 2022-10-31 18:52:26
 TRF-00012-03 evses -> 1: status : CHARGING
+
+2022-10-31 19:15:50
+SXL-00037-02 evses -> 1: status : CHARGING
