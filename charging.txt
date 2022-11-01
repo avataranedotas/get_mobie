@@ -3445,3 +3445,6 @@ SXL-00037-02 evses -> 1: status : CHARGING
 
 2022-10-31 21:41:40
 SXL-00037-02 evses -> 1: status : CHARGING
+
+2022-11-01 09:47:31
+RMZ-00003-02 evses -> 1: status : CHARGING
