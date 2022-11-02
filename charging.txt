@@ -3478,3 +3478,6 @@ SXL-00037-02 evses -> 1: status : CHARGING
 
 2022-11-01 23:45:30
 SXL-00037-02 evses -> 1: status : CHARGING
+
+2022-11-02 10:46:17
+FUN-00037-03 evses -> 0: status : CHARGING
