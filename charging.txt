@@ -3551,3 +3551,6 @@ RBR-00003-02 evses -> 0: status : CHARGING
 
 2022-11-03 04:39:29
 RBR-00003-02 evses -> 0: status : CHARGING
+
+2022-11-03 05:23:25
+RBR-00003-02 evses -> 0: status : CHARGING
