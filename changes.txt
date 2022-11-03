@@ -1864,3 +1864,13 @@ Removidos:[]
 2022-11-03 17:43:02
 Adicionados:[]
 Removidos:['LSB-01050', 'LSB-01060', 'LSB-01062', 'LSB-01070', 'LSB-01071', 'LSB-01120']
+
+2022-11-03 18:29:49
+SNT-00084
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+SNT-00084
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 950
