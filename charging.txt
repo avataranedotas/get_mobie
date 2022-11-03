@@ -3582,3 +3582,6 @@ SXL-00037-03 evses -> 2: status : CHARGING
 
 2022-11-03 09:41:23
 SXL-00037-03 evses -> 2: status : CHARGING
+
+2022-11-03 10:20:39
+SXL-00037-03 evses -> 2: status : CHARGING
