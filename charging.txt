@@ -3622,3 +3622,6 @@ FUN-00039-02 evses -> 1: status : CHARGING
 
 2022-11-04 08:51:31
 FUN-00038-02 evses -> 2: status : CHARGING
+
+2022-11-04 13:40:27
+CSC-00113-01 evses -> 2: status : CHARGING
