@@ -3650,3 +3650,7 @@ STB-00032-01 evses -> 1: status : CHARGING
 2022-11-04 17:26:40
 CSC-00113-01 evses -> 2: status : CHARGING
 STB-00032-01 evses -> 1: status : CHARGING
+
+2022-11-04 17:43:41
+CSC-00113-01 evses -> 2: status : CHARGING
+STB-00032-01 evses -> 1: status : CHARGING
