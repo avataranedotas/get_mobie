@@ -3634,3 +3634,8 @@ CSC-00113-01 evses -> 2: status : CHARGING
 
 2022-11-04 15:20:43
 STB-00032-01 evses -> 1: status : CHARGING
+
+2022-11-04 15:45:14
+CSC-00113-03 evses -> 1: status : CHARGING
+OBD-00008-01 evses -> 0: status : CHARGING
+STB-00032-01 evses -> 1: status : CHARGING
