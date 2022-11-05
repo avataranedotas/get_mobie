@@ -3673,3 +3673,7 @@ STB-00023-02 evses -> 1: status : CHARGING
 
 2022-11-05 11:36:50
 OBD-00008-01 evses -> 0: status : CHARGING
+
+2022-11-05 15:18:03
+OBD-00008-01 evses -> 0: status : CHARGING
+STB-00023-03 evses -> 0: status : CHARGING
