@@ -3736,3 +3736,6 @@ STB-00023-02 evses -> 1: status : CHARGING
 
 2022-11-07 18:23:38
 STB-00023-02 evses -> 1: status : CHARGING
+
+2022-11-07 18:46:28
+STB-00023-02 evses -> 1: status : CHARGING
