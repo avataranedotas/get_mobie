@@ -3724,3 +3724,6 @@ STB-00023-03 evses -> 0: status : CHARGING
 
 2022-11-07 09:42:18
 STB-00023-03 evses -> 0: status : CHARGING
+
+2022-11-07 15:19:47
+BRR-00014-01 evses -> 0: status : CHARGING
