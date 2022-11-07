@@ -3730,3 +3730,6 @@ BRR-00014-01 evses -> 0: status : CHARGING
 
 2022-11-07 15:43:21
 BRR-00014-01 evses -> 0: status : CHARGING
+
+2022-11-07 16:26:29
+STB-00023-02 evses -> 1: status : CHARGING
