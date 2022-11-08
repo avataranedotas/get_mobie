@@ -3757,3 +3757,6 @@ FUN-00039-02 evses -> 1: status : CHARGING
 
 2022-11-08 14:22:26
 STB-00023-02 evses -> 1: status : CHARGING
+
+2022-11-08 14:43:56
+OBD-00008-02 evses -> 1: status : CHARGING
