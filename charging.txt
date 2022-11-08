@@ -3748,3 +3748,6 @@ FUN-00036-02 evses -> 0: status : CHARGING
 
 2022-11-08 11:37:55
 STB-00023-03 evses -> 0: status : CHARGING
+
+2022-11-08 12:42:34
+STB-00023-03 evses -> 0: status : CHARGING
