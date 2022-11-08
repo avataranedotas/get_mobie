@@ -3765,3 +3765,7 @@ OBD-00008-02 evses -> 1: status : CHARGING
 FUN-00039-02 evses -> 1: status : CHARGING
 MTS-00051-06 evses -> 4: status : CHARGING
 OBD-00008-02 evses -> 1: status : CHARGING
+
+2022-11-08 17:45:20
+SNT-00083-02 evses -> 1: status : CHARGING
+VLG-00019-01 evses -> 0: status : CHARGING
