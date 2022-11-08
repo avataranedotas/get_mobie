@@ -1940,3 +1940,9 @@ PGR-90001
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-11-08 15:43:41
+Adicionados:['OBD-00018']
+
+OBD-00018-->{'country_code': 'PT', 'party_id': 'HLX', 'id': 'OBD-00018', 'publish': True, 'address': 'Av. Dona Inês de Castro N1 ,Vale De Janelas', 'city': 'Óbidos', 'country': 'PRT', 'postal_code': '2510-451', 'coordinates': {'latitude': '39.39028', 'longitude': '-9.2878999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OBD-00018-1', 'evse_id': 'PT*HLX*E*OBD*00018*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'OBD-00018-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T10:35:22.079Z'}], 'last_updated': '2022-11-08T15:33:33.156Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-08T15:33:33.115Z'}
+Removidos:[]
