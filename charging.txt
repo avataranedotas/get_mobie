@@ -3772,3 +3772,6 @@ VLG-00019-01 evses -> 0: status : CHARGING
 
 2022-11-09 09:19:01
 NZR-00011-01 evses -> 1: status : CHARGING
+
+2022-11-09 09:41:49
+NZR-00011-01 evses -> 1: status : CHARGING
