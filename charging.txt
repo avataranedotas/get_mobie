@@ -3769,3 +3769,6 @@ OBD-00008-02 evses -> 1: status : CHARGING
 2022-11-08 17:45:20
 SNT-00083-02 evses -> 1: status : CHARGING
 VLG-00019-01 evses -> 0: status : CHARGING
+
+2022-11-09 09:19:01
+NZR-00011-01 evses -> 1: status : CHARGING
