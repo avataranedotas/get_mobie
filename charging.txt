@@ -3922,3 +3922,6 @@ CSC-00102-01 evses -> 0: status : CHARGING
 
 2022-11-10 17:26:29
 VLG-00016-01 evses -> 0: status : CHARGING
+
+2022-11-10 18:23:40
+ALM-00045-02 evses -> 0: status : CHARGING
