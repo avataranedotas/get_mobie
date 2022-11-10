@@ -3877,3 +3877,6 @@ NZR-00011-01 evses -> 1: status : CHARGING
 
 2022-11-10 07:38:37
 NZR-00011-01 evses -> 1: status : CHARGING
+
+2022-11-10 08:30:40
+NZR-00011-01 evses -> 1: status : CHARGING
