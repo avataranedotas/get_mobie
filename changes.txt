@@ -1972,3 +1972,41 @@ Adicionados:['OBD-00012']
 
 OBD-00012-->{'country_code': 'PT', 'party_id': 'HLX', 'id': 'OBD-00012', 'publish': True, 'address': 'Av. Dom Pedro Primeiro', 'city': 'Óbidos', 'country': 'PRT', 'postal_code': '2510-453', 'coordinates': {'latitude': '39.38561', 'longitude': '-9.28251'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OBD-00012-1', 'evse_id': 'PT*HLX*E*OBD*00012*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'OBD-00012-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T10:32:12.864Z'}], 'last_updated': '2022-11-08T18:13:33.177Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-08T18:13:33.109Z'}
 Removidos:[]
+
+2022-11-10 09:19:37
+Adicionados:['ALM-00045', 'CSC-00102', 'OBD-00014', 'OBD-00015', 'VLG-00016']
+
+ALM-00045-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ALM-00045', 'publish': True, 'address': 'Rua Quinta do Salgado, n.º 14', 'city': 'Almada', 'country': 'PRT', 'postal_code': '2815-756', 'coordinates': {'latitude': '38.646583', 'longitude': '-9.180244'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALM-00045-02', 'evse_id': 'PT*KLC*E*ALM*00045*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00045-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-10-31T15:51:51.516Z'}], 'last_updated': '2022-11-09T17:36:53.289Z'}, {'uid': 'ALM-00045-03', 'evse_id': 'PT*KLC*E*ALM*00045*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00045-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-10-31T15:51:51.517Z'}], 'last_updated': '2022-11-09T21:06:16.378Z'}, {'uid': 'ALM-00045-01', 'evse_id': 'PT*KLC*E*ALM*00045*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00045-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T15:51:51.515Z'}], 'last_updated': '2022-11-09T17:37:03.428Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-11-09T21:06:16.378Z'}
+
+CSC-00102-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CSC-00102', 'publish': True, 'address': 'Rua da Torre, n.º 831 – Guia', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-269', 'coordinates': {'latitude': '38.703056', 'longitude': '-9.442778'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00102-01', 'evse_id': 'PT*KLC*E*CSC*00102*01', 'status': 'CHARGING', 'connectors': [{'id': 'CSC-00102-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-09T15:34:42.829Z'}], 'last_updated': '2022-11-10T08:58:58.686Z'}, {'uid': 'CSC-00102-02', 'evse_id': 'PT*KLC*E*CSC*00102*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00102-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-09T15:34:42.829Z'}], 'last_updated': '2022-11-10T04:05:19.722Z'}, {'uid': 'CSC-00102-03', 'evse_id': 'PT*KLC*E*CSC*00102*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00102-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-09T15:34:42.83Z'}], 'last_updated': '2022-11-10T04:05:20.439Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-11-10T08:58:58.686Z'}
+
+OBD-00014-->{'country_code': 'PT', 'party_id': 'HLX', 'id': 'OBD-00014', 'publish': True, 'address': 'Estrada do Rio Cortiço 4', 'city': 'Óbidos', 'country': 'PRT', 'postal_code': '2510-665', 'coordinates': {'latitude': '39.41557', 'longitude': '-9.24383'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OBD-00014-1', 'evse_id': 'PT*HLX*E*OBD*00014*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'OBD-00014-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T10:33:17.499Z'}], 'last_updated': '2022-11-09T15:21:32.55Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-09T15:21:32.446Z'}
+
+OBD-00015-->{'country_code': 'PT', 'party_id': 'HLX', 'id': 'OBD-00015', 'publish': True, 'address': 'Estrada do Rio Cortiço 4', 'city': 'Óbidos', 'country': 'PRT', 'postal_code': '2510-665', 'coordinates': {'latitude': '39.41557', 'longitude': '-9.24383'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OBD-00015-1', 'evse_id': 'PT*HLX*E*OBD*00015*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'OBD-00015-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T10:34:05.155Z'}], 'last_updated': '2022-11-09T15:19:35.792Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-09T15:19:35.757Z'}
+
+VLG-00016-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VLG-00016', 'publish': True, 'address': 'Rua Professor Joaquim Teixeira, n.º 41/71', 'city': 'Valongo', 'country': 'PRT', 'postal_code': '4445-288', 'coordinates': {'latitude': '41.212886', 'longitude': '-8.550475'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VLG-00016-01', 'evse_id': 'PT*KLC*E*VLG*00016*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VLG-00016-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-09T17:06:51.545Z'}], 'last_updated': '2022-11-09T17:53:31.906Z'}, {'uid': 'VLG-00016-02', 'evse_id': 'PT*KLC*E*VLG*00016*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VLG-00016-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-09T17:06:51.546Z'}], 'last_updated': '2022-11-09T17:53:31.906Z'}, {'uid': 'VLG-00016-03', 'evse_id': 'PT*KLC*E*VLG*00016*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'VLG-00016-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-09T17:06:51.547Z'}], 'last_updated': '2022-11-09T17:53:31.906Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-11-09T17:53:31.851Z'}
+Removidos:['PRT-00149']
+MCD-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+MCD-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+MCD-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+MCD-00002
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+MCD-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+MCD-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
