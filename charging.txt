@@ -4043,3 +4043,6 @@ SBA-90001-01 evses -> 1: status : CHARGING
 
 2022-11-11 20:41:49
 SBA-90001-01 evses -> 1: status : CHARGING
+
+2022-11-11 21:17:18
+SBA-90001-01 evses -> 1: status : CHARGING
