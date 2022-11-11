@@ -4052,3 +4052,6 @@ STB-00031-02 evses -> 0: status : CHARGING
 
 2022-11-11 22:42:40
 STB-00031-02 evses -> 0: status : CHARGING
+
+2022-11-11 23:42:00
+ALM-00045-01 evses -> 2: status : CHARGING
