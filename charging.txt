@@ -4022,3 +4022,9 @@ CSC-00102-01 evses -> 0: status : CHARGING
 LSB-00206-02 evses -> 1: status : CHARGING
 LSB-00331-02 evses -> 1: status : CHARGING
 STB-00031-01 evses -> 1: status : CHARGING
+
+2022-11-11 18:24:59
+CSC-00102-03 evses -> 2: status : CHARGING
+LSB-00331-02 evses -> 1: status : CHARGING
+MTS-00049-1 evses -> 0: status : CHARGING
+STB-00031-01 evses -> 1: status : CHARGING
