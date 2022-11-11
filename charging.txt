@@ -4001,3 +4001,8 @@ MCD-00002-01 evses -> 2: status : CHARGING
 ALM-00045-02 evses -> 0: status : CHARGING
 MCD-00002-01 evses -> 2: status : CHARGING
 MTS-00053-02 evses -> 1: status : CHARGING
+
+2022-11-11 16:26:51
+CSC-00102-02 evses -> 1: status : CHARGING
+LSB-00331-02 evses -> 1: status : CHARGING
+MCD-00002-01 evses -> 2: status : CHARGING
