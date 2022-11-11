@@ -3949,3 +3949,6 @@ STB-00031-01 evses -> 1: status : CHARGING
 
 2022-11-10 23:42:21
 STB-00031-01 evses -> 1: status : CHARGING
+
+2022-11-11 08:26:53
+MCD-00002-02 evses -> 1: status : CHARGING
