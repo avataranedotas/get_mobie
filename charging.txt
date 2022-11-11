@@ -4015,3 +4015,10 @@ STB-00031-01 evses -> 1: status : CHARGING
 ALM-00045-03 evses -> 1: status : CHARGING
 LSB-00331-02 evses -> 1: status : CHARGING
 STB-00031-01 evses -> 1: status : CHARGING
+
+2022-11-11 17:42:47
+ALM-00045-03 evses -> 1: status : CHARGING
+CSC-00102-01 evses -> 0: status : CHARGING
+LSB-00206-02 evses -> 1: status : CHARGING
+LSB-00331-02 evses -> 1: status : CHARGING
+STB-00031-01 evses -> 1: status : CHARGING
