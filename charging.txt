@@ -4040,3 +4040,6 @@ CSC-00102-02 evses -> 1: status : CHARGING
 LSB-00206-02 evses -> 1: status : CHARGING
 MCD-00002-01 evses -> 2: status : CHARGING
 SBA-90001-01 evses -> 1: status : CHARGING
+
+2022-11-11 20:41:49
+SBA-90001-01 evses -> 1: status : CHARGING
