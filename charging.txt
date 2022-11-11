@@ -4010,3 +4010,8 @@ MCD-00002-01 evses -> 2: status : CHARGING
 2022-11-11 16:57:00
 LSB-00331-02 evses -> 1: status : CHARGING
 STB-00031-01 evses -> 1: status : CHARGING
+
+2022-11-11 17:23:49
+ALM-00045-03 evses -> 1: status : CHARGING
+LSB-00331-02 evses -> 1: status : CHARGING
+STB-00031-01 evses -> 1: status : CHARGING
