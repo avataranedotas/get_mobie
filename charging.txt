@@ -4046,3 +4046,6 @@ SBA-90001-01 evses -> 1: status : CHARGING
 
 2022-11-11 21:17:18
 SBA-90001-01 evses -> 1: status : CHARGING
+
+2022-11-11 22:19:08
+STB-00031-02 evses -> 0: status : CHARGING
