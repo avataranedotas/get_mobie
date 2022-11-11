@@ -3978,3 +3978,6 @@ CSC-00102-02 evses -> 1: status : CHARGING
 2022-11-11 11:38:35
 CSC-00102-01 evses -> 0: status : CHARGING
 CSC-00102-02 evses -> 1: status : CHARGING
+
+2022-11-11 12:41:07
+ALM-00045-03 evses -> 1: status : CHARGING
