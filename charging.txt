@@ -4082,3 +4082,8 @@ LSB-00528-1 evses -> 0: status : CHARGING
 2022-11-12 11:37:07
 BGC-00006-03 evses -> 1: status : CHARGING
 LSB-00528-1 evses -> 0: status : CHARGING
+
+2022-11-12 12:33:23
+ALM-00045-03 evses -> 1: status : CHARGING
+BGC-00006-03 evses -> 1: status : CHARGING
+CSC-00102-02 evses -> 1: status : CHARGING
