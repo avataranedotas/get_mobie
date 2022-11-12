@@ -4101,3 +4101,7 @@ MCD-00002-02 evses -> 1: status : CHARGING
 
 2022-11-12 15:42:10
 CSC-00102-03 evses -> 2: status : CHARGING
+
+2022-11-12 16:25:31
+CSC-00102-03 evses -> 2: status : CHARGING
+MTS-00049-1 evses -> 0: status : CHARGING
