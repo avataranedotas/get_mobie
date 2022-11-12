@@ -4075,3 +4075,6 @@ ALM-00045-02 evses -> 0: status : CHARGING
 
 2022-11-12 10:41:58
 LSB-00528-1 evses -> 0: status : CHARGING
+
+2022-11-12 11:15:22
+LSB-00528-1 evses -> 0: status : CHARGING
