@@ -4108,3 +4108,7 @@ MTS-00049-1 evses -> 0: status : CHARGING
 
 2022-11-12 16:53:47
 MTS-00049-1 evses -> 0: status : CHARGING
+
+2022-11-12 17:17:49
+LSB-00526-1 evses -> 0: status : CHARGING
+MTS-00049-1 evses -> 0: status : CHARGING
