@@ -2224,3 +2224,17 @@ SXL-90001
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 3700
+
+2022-11-14 15:43:34
+EVR-00022
+coordinates: 
+ NEW latitude : 38.549793
+ OLD latitude : 38.550605
+EVR-00022
+coordinates: 
+ NEW longitude : -7.913101
+ OLD longitude : -7.91185
+EVR-00022
+: 
+ NEW coordinates : {'latitude': '38.549793', 'longitude': '-7.913101'}
+ OLD coordinates : {'latitude': '38.550605', 'longitude': '-7.91185'}
