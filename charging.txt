@@ -4480,3 +4480,9 @@ LSB-00523-1 evses -> 0: status : CHARGING
 MAI-00023-1 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 PRT-00159-02 evses -> 1: status : CHARGING
+
+2022-11-14 17:04:01
+LSB-00523-1 evses -> 0: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+PRT-00159-02 evses -> 1: status : CHARGING
