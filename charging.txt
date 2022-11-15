@@ -4673,3 +4673,8 @@ SNT-00093-01 evses -> 0: status : CHARGING
 BCL-00019-01 evses -> 1: status : CHARGING
 LSB-00523-1 evses -> 0: status : CHARGING
 MAI-00023-1 evses -> 0: status : CHARGING
+
+2022-11-15 16:55:06
+BCL-00019-01 evses -> 1: status : CHARGING
+LSB-00523-1 evses -> 0: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
