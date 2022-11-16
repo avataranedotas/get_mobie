@@ -4835,3 +4835,11 @@ MAI-00023-1 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 SNT-00093-01 evses -> 0: status : CHARGING
+
+2022-11-16 14:16:22
+BCL-00019-01 evses -> 1: status : CHARGING
+CLD-00019-02 evses -> 0: status : CHARGING
+CLD-00019-01 evses -> 1: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+SNT-00093-01 evses -> 0: status : CHARGING
