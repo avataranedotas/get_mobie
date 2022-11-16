@@ -4789,3 +4789,8 @@ MAI-00023-1 evses -> 0: status : CHARGING
 2022-11-16 08:26:00
 LSB-00523-1 evses -> 0: status : CHARGING
 MAI-00023-1 evses -> 0: status : CHARGING
+
+2022-11-16 08:47:21
+BCL-00019-01 evses -> 1: status : CHARGING
+LSB-00523-1 evses -> 0: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
