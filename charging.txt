@@ -4948,3 +4948,6 @@ MAI-00023-1 evses -> 0: status : CHARGING
 
 2022-11-17 07:16:13
 MAI-00023-1 evses -> 0: status : CHARGING
+
+2022-11-17 07:36:32
+MAI-00023-1 evses -> 0: status : CHARGING
