@@ -5034,3 +5034,10 @@ CLD-00019-02 evses -> 0: status : CHARGING
 MAI-00023-1 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 NZR-00014-01 evses -> 1: status : CHARGING
+
+2022-11-17 17:40:15
+CLD-00019-02 evses -> 0: status : CHARGING
+CLD-00019-01 evses -> 1: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+NZR-00014-01 evses -> 1: status : CHARGING
