@@ -4960,3 +4960,7 @@ MAI-00023-1 evses -> 0: status : CHARGING
 
 2022-11-17 09:17:31
 MAI-00023-1 evses -> 0: status : CHARGING
+
+2022-11-17 09:39:42
+BCL-00019-01 evses -> 1: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
