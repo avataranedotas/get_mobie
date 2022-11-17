@@ -5102,3 +5102,8 @@ NZR-00014-01 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 NZR-00014-01 evses -> 1: status : CHARGING
+
+2022-11-17 23:19:17
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+NZR-00014-01 evses -> 1: status : CHARGING
