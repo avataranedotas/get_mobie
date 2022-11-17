@@ -5002,3 +5002,10 @@ FUN-00037-01 evses -> 2: status : CHARGING
 MAI-00023-1 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 NZR-00014-01 evses -> 1: status : CHARGING
+
+2022-11-17 15:19:09
+MAI-00023-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+NZR-00014-01 evses -> 1: status : CHARGING
+VVC-00002-02 evses -> 0: status : CHARGING
