@@ -5185,3 +5185,8 @@ MTS-00054-01 evses -> 1: status : CHARGING
 CLD-00019-02 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-18 11:36:45
+CLD-00019-02 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
