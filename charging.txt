@@ -5334,3 +5334,9 @@ LSB-90101-1 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 SNT-00083-02 evses -> 1: status : CHARGING
+
+2022-11-18 23:39:44
+LSB-90101-2 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00083-02 evses -> 1: status : CHARGING
