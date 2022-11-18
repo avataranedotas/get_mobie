@@ -5176,3 +5176,7 @@ MTS-00054-01 evses -> 1: status : CHARGING
 2022-11-18 10:19:30
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-18 10:42:11
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
