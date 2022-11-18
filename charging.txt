@@ -5222,3 +5222,10 @@ FAR-90004-1 evses -> 1: status : CHARGING
 LSB-90101-1 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-18 15:18:33
+FAR-90004-2 evses -> 0: status : CHARGING
+FAR-90004-1 evses -> 1: status : CHARGING
+LSB-90101-1 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
