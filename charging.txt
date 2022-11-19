@@ -5439,3 +5439,9 @@ MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 NZR-00011-01 evses -> 1: status : CHARGING
 SXL-00035-02 evses -> 1: status : CHARGING
+
+2022-11-19 13:26:10
+LSB-90101-1 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+NZR-00011-01 evses -> 1: status : CHARGING
