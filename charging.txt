@@ -5552,3 +5552,10 @@ RMZ-00004-02 evses -> 0: status : CHARGING
 RMZ-00004-02 evses -> 0: status : CHARGING
 SXL-00036-02 evses -> 0: status : CHARGING
 VFR-00042-01 evses -> 1: status : CHARGING
+
+2022-11-19 19:13:36
+FAR-90004-2 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+RMZ-00004-01 evses -> 1: status : CHARGING
+RMZ-00004-01 evses -> 1: status : CHARGING
