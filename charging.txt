@@ -5543,3 +5543,12 @@ SXL-00035-01 evses -> 0: status : CHARGING
 FAR-90004-2 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-19 18:43:04
+FAR-90004-2 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+RMZ-00004-02 evses -> 0: status : CHARGING
+RMZ-00004-02 evses -> 0: status : CHARGING
+SXL-00036-02 evses -> 0: status : CHARGING
+VFR-00042-01 evses -> 1: status : CHARGING
