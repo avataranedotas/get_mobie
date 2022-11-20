@@ -5699,3 +5699,10 @@ MAI-00023-1 evses -> 0: status : CHARGING
 MAI-00025-02 evses -> 5: status : CHARGING
 MAI-00025-06 evses -> 6: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-11-20 18:20:41
+AMT-00009-01 evses -> 0: status : CHARGING
+MAI-00023-1 evses -> 0: status : CHARGING
+MAI-00025-03 evses -> 2: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
