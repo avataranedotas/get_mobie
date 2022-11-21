@@ -5754,3 +5754,6 @@ MAI-00023-1 evses -> 0: status : CHARGING
 
 2022-11-21 04:00:52
 MAI-00023-1 evses -> 0: status : CHARGING
+
+2022-11-21 04:49:02
+MAI-00023-1 evses -> 0: status : CHARGING
