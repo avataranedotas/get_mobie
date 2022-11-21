@@ -2332,3 +2332,37 @@ BRG-00073-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'BRG-00073', 'publis
 
 CMN-00005-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'CMN-00005', 'publish': True, 'address': 'Praça Pontaut Combault, Caminha', 'city': 'Caminha', 'country': 'PRT', 'postal_code': '4910-124', 'coordinates': {'latitude': '41.876119', 'longitude': '-8.840067'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CMN-00005-01', 'evse_id': 'PT*GLP*E*CMN*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CMN-00005-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-10-31T17:38:08.272Z'}], 'last_updated': '2022-11-21T12:01:13.373Z'}, {'uid': 'CMN-00005-03', 'evse_id': 'PT*GLP*E*CMN*00005*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CMN-00005-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-10-31T17:38:08.274Z'}], 'last_updated': '2022-11-21T12:03:54.848Z'}, {'uid': 'CMN-00005-02', 'evse_id': 'PT*GLP*E*CMN*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CMN-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-10-31T17:38:08.273Z'}], 'last_updated': '2022-11-21T12:01:14.179Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-21T12:03:54.848Z'}
 Removidos:[]
+
+2022-11-21 15:19:06
+VFR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VFR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VFR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+VFR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VFR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VFR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 50000

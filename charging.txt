@@ -5805,3 +5805,8 @@ MTS-00054-02 evses -> 0: status : CHARGING
 2022-11-21 14:39:25
 AMT-00010-01 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-11-21 15:19:09
+AMT-00010-01 evses -> 0: status : CHARGING
+LSB-00455-02 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
