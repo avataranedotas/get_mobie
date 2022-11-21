@@ -2366,3 +2366,9 @@ VFR-00042
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 50000
+
+2022-11-21 15:41:50
+Adicionados:['BRG-00074']
+
+BRG-00074-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'BRG-00074', 'publish': True, 'address': 'Bairro da Quinta dos Congregados', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4710-427', 'coordinates': {'latitude': '41.5577566', 'longitude': '-8.4061121'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00074-02', 'evse_id': 'PT*HRZ*E*BRG*00074*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00074-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2022-11-15T11:08:56.751Z'}], 'last_updated': '2022-11-21T15:25:33.695Z'}, {'uid': 'BRG-00074-01', 'evse_id': 'PT*HRZ*E*BRG*00074*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00074-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2022-11-15T11:08:56.75Z'}], 'last_updated': '2022-11-21T15:25:29.832Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-11-21T15:25:33.695Z'}
+Removidos:[]
