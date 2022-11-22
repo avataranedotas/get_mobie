@@ -2420,3 +2420,37 @@ LLE-00110-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00110', 'publis
 
 LLE-00111-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00111', 'publish': True, 'address': 'Av. Algarve', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-182', 'coordinates': {'latitude': '37.096962', 'longitude': '-7.996249'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00111-01', 'evse_id': 'PT*GLP*E*LLE*00111*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00111-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T17:07:36.314Z'}], 'last_updated': '2022-11-22T11:39:23.61Z'}, {'uid': 'LLE-00111-02', 'evse_id': 'PT*GLP*E*LLE*00111*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00111-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-10-31T17:07:36.315Z'}], 'last_updated': '2022-11-22T11:39:24.324Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-22T11:39:24.324Z'}
 Removidos:[]
+
+2022-11-22 14:16:47
+Adicionados:['ACH-00009']
+
+ACH-00009-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ACH-00009', 'publish': True, 'address': 'Avenida Euro 2004 - Sítio da Quebrada', 'city': 'Alcochete', 'country': 'PRT', 'postal_code': '2890-154', 'coordinates': {'latitude': '38.7517808', 'longitude': '-8.9454778'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ACH-00009-02', 'evse_id': 'PT*KLC*E*ACH*00009*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ACH-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-10-25T09:11:09.85Z'}], 'last_updated': '2022-11-22T13:27:28.752Z'}, {'uid': 'ACH-00009-03', 'evse_id': 'PT*KLC*E*ACH*00009*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ACH-00009-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-25T09:11:09.851Z'}], 'last_updated': '2022-11-22T13:27:29.72Z'}, {'uid': 'ACH-00009-01', 'evse_id': 'PT*KLC*E*ACH*00009*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ACH-00009-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-10-25T09:11:09.849Z'}], 'last_updated': '2022-11-22T14:03:57.207Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-11-22T14:03:57.207Z'}
+Removidos:[]
+LRA-00060
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LRA-00060
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00060
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LRA-00060
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LRA-00060
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+LRA-00060
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+LRA-00060
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
