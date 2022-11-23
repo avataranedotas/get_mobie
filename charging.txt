@@ -6059,3 +6059,8 @@ VNF-00024-01 evses -> 1: status : CHARGING
 2022-11-23 17:14:38
 BRR-00025-01 evses -> 0: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-23 17:36:45
+BRR-00025-01 evses -> 0: status : CHARGING
+MAI-00025-01 evses -> 4: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
