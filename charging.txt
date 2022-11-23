@@ -5995,3 +5995,8 @@ LLE-00107-02 evses -> 0: status : CHARGING
 LLE-00111-01 evses -> 0: status : CHARGING
 LLE-00112-01 evses -> 0: status : CHARGING
 LLE-00113-01 evses -> 0: status : CHARGING
+
+2022-11-23 10:18:24
+BRR-00025-01 evses -> 0: status : CHARGING
+MAI-00025-03 evses -> 2: status : CHARGING
+MAI-00025-06 evses -> 6: status : CHARGING
