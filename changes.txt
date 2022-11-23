@@ -2516,3 +2516,13 @@ RMZ-00003
 2022-11-23 16:23:37
 Adicionados:[]
 Removidos:['TVR-00001', 'TVR-00005']
+
+2022-11-23 18:20:20
+GVA-90001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+GVA-90001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
