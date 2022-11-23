@@ -6023,3 +6023,8 @@ MTS-00054-02 evses -> 0: status : CHARGING
 
 2022-11-23 13:30:45
 BRR-00025-01 evses -> 0: status : CHARGING
+
+2022-11-23 14:15:46
+BRR-00025-01 evses -> 0: status : CHARGING
+LRA-00060-02 evses -> 2: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
