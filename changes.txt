@@ -2512,3 +2512,7 @@ RMZ-00003
 : 
  NEW coordinates : {'latitude': '38.4243547', 'longitude': '-7.5444293'}
  OLD coordinates : {'latitude': '38.4241378', 'longitude': '-7.5449347'}
+
+2022-11-23 16:23:37
+Adicionados:[]
+Removidos:['TVR-00001', 'TVR-00005']
