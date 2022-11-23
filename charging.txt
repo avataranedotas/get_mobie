@@ -6082,3 +6082,8 @@ ACH-00009-02 evses -> 0: status : CHARGING
 BRR-00025-01 evses -> 0: status : CHARGING
 LLE-00100-02 evses -> 0: status : CHARGING
 MAI-00025-02 evses -> 5: status : CHARGING
+
+2022-11-23 19:36:39
+BRR-00025-01 evses -> 0: status : CHARGING
+MAI-00025-06 evses -> 6: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
