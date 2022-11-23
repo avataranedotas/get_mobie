@@ -6006,3 +6006,8 @@ BRR-00025-01 evses -> 0: status : CHARGING
 LLE-00106-01 evses -> 1: status : CHARGING
 MAI-00025-01 evses -> 4: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-23 11:13:40
+BRR-00025-01 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
