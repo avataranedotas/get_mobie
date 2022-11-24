@@ -6144,3 +6144,6 @@ BRR-00025-01 evses -> 0: status : CHARGING
 
 2022-11-24 04:43:24
 BRR-00025-01 evses -> 0: status : CHARGING
+
+2022-11-24 05:15:18
+BRR-00025-01 evses -> 0: status : CHARGING
