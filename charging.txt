@@ -6188,3 +6188,10 @@ LLE-00100-01 evses -> 1: status : CHARGING
 MAI-00025-01 evses -> 4: status : CHARGING
 MAI-00025-02 evses -> 5: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-24 11:14:01
+LLE-00100-01 evses -> 1: status : CHARGING
+MAI-00025-04 evses -> 1: status : CHARGING
+MAI-00025-01 evses -> 4: status : CHARGING
+MAI-00025-02 evses -> 5: status : CHARGING
+VNF-00023-02 evses -> 0: status : CHARGING
