@@ -6288,3 +6288,10 @@ LRA-00060-03 evses -> 0: status : CHARGING
 MAI-00025-06 evses -> 6: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-24 18:21:09
+LLE-00101-02 evses -> 1: status : CHARGING
+LRA-00060-03 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00074-02 evses -> 1: status : CHARGING
+VNF-00023-02 evses -> 0: status : CHARGING
