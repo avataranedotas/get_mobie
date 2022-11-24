@@ -6177,3 +6177,8 @@ LLE-00101-01 evses -> 0: status : CHARGING
 LLE-00100-01 evses -> 1: status : CHARGING
 LLE-00101-01 evses -> 0: status : CHARGING
 MAI-00025-02 evses -> 5: status : CHARGING
+
+2022-11-24 10:17:56
+LLE-00100-01 evses -> 1: status : CHARGING
+MAI-00025-01 evses -> 4: status : CHARGING
+MAI-00025-02 evses -> 5: status : CHARGING
