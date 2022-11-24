@@ -6227,3 +6227,14 @@ MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 SXL-00029-02 evses -> 1: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-24 14:15:01
+LLE-00100-02 evses -> 0: status : CHARGING
+LLE-00100-01 evses -> 1: status : CHARGING
+LLE-00101-01 evses -> 0: status : CHARGING
+LLE-00101-02 evses -> 1: status : CHARGING
+LRA-00060-02 evses -> 2: status : CHARGING
+SXL-00023-01 evses -> 1: status : CHARGING
+SXL-00024-02 evses -> 0: status : CHARGING
+SXL-00029-02 evses -> 1: status : CHARGING
+VNF-00023-02 evses -> 0: status : CHARGING
