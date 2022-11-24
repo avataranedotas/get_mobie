@@ -6199,3 +6199,11 @@ VNF-00023-02 evses -> 0: status : CHARGING
 2022-11-24 11:36:46
 LLE-00100-01 evses -> 1: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-24 12:34:18
+LLE-00100-02 evses -> 0: status : CHARGING
+LLE-00100-01 evses -> 1: status : CHARGING
+LLE-00101-02 evses -> 1: status : CHARGING
+LRA-00060-02 evses -> 2: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+VNF-00023-02 evses -> 0: status : CHARGING
