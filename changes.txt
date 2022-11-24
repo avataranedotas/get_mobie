@@ -2572,3 +2572,21 @@ MTS-00075-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'MTS-00075', 'publis
 
 MTS-00081-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'MTS-00081', 'publish': True, 'address': 'Av. Dr. Óscar Lopes', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-337', 'coordinates': {'latitude': '41.20918', 'longitude': '-8.687993'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTS-00081-01', 'evse_id': 'PT*GLP*E*MTS*00081*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00081-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-11-02T16:51:11.024Z'}], 'last_updated': '2022-11-24T15:57:06.893Z'}, {'uid': 'MTS-00081-02', 'evse_id': 'PT*GLP*E*MTS*00081*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00081-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-11-02T16:51:11.025Z'}], 'last_updated': '2022-11-24T15:57:07.802Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-24T15:57:07.802Z'}
 Removidos:[]
+
+2022-11-24 17:15:05
+OER-00095
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00096
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00096
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
