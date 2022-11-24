@@ -13,3 +13,6 @@ SXL-00029-02 evses -> 1: status : CHARGING
 
 2022-11-24 22:33:21
 SXL-00029-02 evses -> 1: status : CHARGING
+
+2022-11-24 22:37:52
+SXL-00029-02 evses -> 1: status : CHARGING
