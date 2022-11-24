@@ -6312,3 +6312,9 @@ VNF-00023-02 evses -> 0: status : CHARGING
 ACH-00009-01 evses -> 2: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 VNF-00024-02 evses -> 0: status : CHARGING
+
+2022-11-24 20:17:18
+ACH-00009-01 evses -> 2: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SXL-00023-01 evses -> 1: status : CHARGING
+VNF-00024-02 evses -> 0: status : CHARGING
