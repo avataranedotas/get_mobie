@@ -6253,3 +6253,11 @@ LLE-00101-01 evses -> 0: status : CHARGING
 LLE-00101-02 evses -> 1: status : CHARGING
 LRA-00060-03 evses -> 0: status : CHARGING
 VNF-00023-02 evses -> 0: status : CHARGING
+
+2022-11-24 15:39:40
+LLE-00100-02 evses -> 0: status : CHARGING
+LLE-00100-01 evses -> 1: status : CHARGING
+LLE-00101-01 evses -> 0: status : CHARGING
+LLE-00101-02 evses -> 1: status : CHARGING
+MAI-00025-05 evses -> 3: status : CHARGING
+VNF-00023-02 evses -> 0: status : CHARGING
