@@ -2526,3 +2526,9 @@ GVA-90001
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-11-24 09:16:24
+Adicionados:['SXL-00029']
+
+SXL-00029-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'SXL-00029', 'publish': True, 'address': 'R. Pinho Leal', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2845-358', 'coordinates': {'latitude': '38.618486', 'longitude': '-9.115282'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SXL-00029-01', 'evse_id': 'PT*GLP*E*SXL*00029*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SXL-00029-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 100, 'max_electric_power': 90000, 'last_updated': '2022-07-19T10:42:23.698Z'}], 'last_updated': '2022-11-24T09:11:10.512Z'}, {'uid': 'SXL-00029-02', 'evse_id': 'PT*GLP*E*SXL*00029*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'SXL-00029-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-07-19T10:42:23.698Z'}], 'last_updated': '2022-11-24T09:11:11.204Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-24T09:11:11.204Z'}
+Removidos:[]
