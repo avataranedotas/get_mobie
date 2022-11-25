@@ -117,3 +117,8 @@ AMT-00010-02 evses -> 1: status : CHARGING
 CMN-00005-03 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-11-25 20:17:29
+AMT-00010-02 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
