@@ -25,3 +25,8 @@ BRG-00072-01 evses -> 0: status : CHARGING
 
 2022-11-25 10:40:11
 BRG-00072-02 evses -> 1: status : CHARGING
+
+2022-11-25 11:14:26
+ABT-00012-02 evses -> 0: status : CHARGING
+BRG-00072-02 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
