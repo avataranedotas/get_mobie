@@ -182,3 +182,9 @@ LSB-00456-02 evses -> 0: status : CHARGING
 BRR-00025-02 evses -> 1: status : CHARGING
 LSB-00455-01 evses -> 1: status : CHARGING
 LSB-00456-02 evses -> 0: status : CHARGING
+
+2022-11-26 20:16:37
+LSB-00455-02 evses -> 0: status : CHARGING
+LSB-00455-01 evses -> 1: status : CHARGING
+LSB-00456-02 evses -> 0: status : CHARGING
+LSB-00457-02 evses -> 0: status : CHARGING
