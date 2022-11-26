@@ -148,3 +148,6 @@ CMN-00005-02 evses -> 2: status : CHARGING
 
 2022-11-26 15:16:02
 BRG-00075-03 evses -> 0: status : CHARGING
+
+2022-11-26 16:22:15
+AGD-00008-01 evses -> 1: status : CHARGING
