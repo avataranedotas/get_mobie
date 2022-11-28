@@ -241,3 +241,6 @@ ODV-00004-1 evses -> 1: status : CHARGING
 
 2022-11-28 21:15:04
 ODV-00004-1 evses -> 1: status : CHARGING
+
+2022-11-28 21:24:28
+ODV-00004-1 evses -> 1: status : CHARGING
