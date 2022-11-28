@@ -209,3 +209,6 @@ SXL-00029-02 evses -> 1: status : CHARGING
 
 2022-11-28 08:22:27
 SXL-00029-02 evses -> 1: status : CHARGING
+
+2022-11-28 10:41:04
+OBD-00017-1 evses -> 0: status : CHARGING
