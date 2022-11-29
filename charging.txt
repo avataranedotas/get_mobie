@@ -252,3 +252,8 @@ VNC-00005-01 evses -> 1: status : CHARGING
 2022-11-29 11:36:48
 VNC-00005-02 evses -> 0: status : CHARGING
 VNC-00005-01 evses -> 1: status : CHARGING
+
+2022-11-29 13:27:32
+BRG-00070-03 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
