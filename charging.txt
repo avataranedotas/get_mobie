@@ -284,3 +284,7 @@ ODV-00004-1 evses -> 1: status : CHARGING
 2022-11-29 17:14:13
 MTS-00054-02 evses -> 0: status : CHARGING
 ODV-00004-1 evses -> 1: status : CHARGING
+
+2022-11-29 17:37:16
+FUN-00037-02 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
