@@ -382,3 +382,7 @@ PRT-00128-03 evses -> 1: status : CHARGING
 2022-12-01 14:15:52
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-01 14:38:10
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
