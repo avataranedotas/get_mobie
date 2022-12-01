@@ -411,3 +411,6 @@ ODV-00004-2 evses -> 0: status : CHARGING
 
 2022-12-01 18:21:25
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-01 19:37:21
+VFR-00014-01 evses -> 0: status : CHARGING
