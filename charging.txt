@@ -462,3 +462,7 @@ LLE-00059-02 evses -> 1: status : CHARGING
 LSB-00539-02 evses -> 1: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 ODV-00004-1 evses -> 1: status : CHARGING
+
+2022-12-02 15:14:30
+LSB-00539-02 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
