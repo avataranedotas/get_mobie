@@ -82,3 +82,33 @@ evses -> 1 -> connectors -> 0:
 2022-12-02 11:35:57
 Adicionados:[]
 Removidos:['ALM-90005', 'ALM-90006']
+
+2022-12-02 12:30:22
+Adicionados:['CVL-00009']
+
+CVL-00009-->{'country_code': 'PT', 'party_id': 'CAP', 'id': 'CVL-00009', 'publish': True, 'address': 'Av Europa, lote 7, Sta Maria, Covilhã', 'city': 'Covilhã', 'country': 'PRT', 'postal_code': '6200-546', 'coordinates': {'latitude': '40.271011', 'longitude': '-7.5025791'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CVL-00009-04', 'evse_id': 'PT*CAP*E*CVL*00009*04', 'status': 'AVAILABLE', 'connectors': [{'id': 'CVL-00009-04-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:31.442Z'}], 'last_updated': '2022-12-02T12:22:40.426Z'}, {'uid': 'CVL-00009-01', 'evse_id': 'PT*CAP*E*CVL*00009*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CVL-00009-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:31.438Z'}], 'last_updated': '2022-12-02T12:22:59.335Z'}, {'uid': 'CVL-00009-03', 'evse_id': 'PT*CAP*E*CVL*00009*03', 'status': 'CHARGING', 'connectors': [{'id': 'CVL-00009-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:31.441Z'}], 'last_updated': '2022-12-02T12:22:55.432Z'}, {'uid': 'CVL-00009-02', 'evse_id': 'PT*CAP*E*CVL*00009*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CVL-00009-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:31.44Z'}], 'last_updated': '2022-12-02T12:22:51.166Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-02T12:22:59.335Z'}
+Removidos:[]
+MAI-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00017
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00017
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00049
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00049
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00049
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
