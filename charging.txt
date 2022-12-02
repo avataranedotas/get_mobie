@@ -498,3 +498,6 @@ ALM-00044-01 evses -> 1: status : CHARGING
 
 2022-12-02 20:16:29
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-02 20:36:44
+MTS-00054-01 evses -> 1: status : CHARGING
