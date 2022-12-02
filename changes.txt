@@ -78,3 +78,7 @@ CSC-00016
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-12-02 11:35:57
+Adicionados:[]
+Removidos:['ALM-90005', 'ALM-90006']
