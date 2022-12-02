@@ -64,3 +64,17 @@ Adicionados:['ALB-00007']
 
 ALB-00007-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ALB-00007', 'publish': True, 'address': 'BK Albergaria-a-Velha, IC 2, nº3 LT', 'city': 'Albergaria-a-Velha', 'country': 'PRT', 'postal_code': '3850-297', 'coordinates': {'latitude': '40.7128522', 'longitude': '-8.4819682'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALB-00007-02', 'evse_id': 'PT*EDP*E*ALB*00007*02', 'status': 'CHARGING', 'connectors': [{'id': 'ALB-00007-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-10-31T15:51:25.211Z'}], 'last_updated': '2022-11-30T12:12:32.888Z'}, {'uid': 'ALB-00007-01', 'evse_id': 'PT*EDP*E*ALB*00007*01', 'status': 'CHARGING', 'connectors': [{'id': 'ALB-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-10-31T15:51:25.21Z'}], 'last_updated': '2022-11-30T12:15:38.736Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-11-30T12:15:38.736Z'}
 Removidos:[]
+
+2022-12-02 10:17:42
+Adicionados:['ALM-00044']
+
+ALM-00044-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ALM-00044', 'publish': True, 'address': 'E.N. 377-1 – Monte da CaparIca (UNL)', 'city': 'Almada', 'country': 'PRT', 'postal_code': '2825-871', 'coordinates': {'latitude': '38.658889', 'longitude': '-9.203611'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALM-00044-02', 'evse_id': 'PT*KLC*E*ALM*00044*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00044-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-12-02T09:25:30.639Z'}], 'last_updated': '2022-12-02T09:59:20.794Z'}, {'uid': 'ALM-00044-01', 'evse_id': 'PT*KLC*E*ALM*00044*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00044-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-02T09:25:30.637Z'}], 'last_updated': '2022-12-02T09:59:20.101Z'}, {'uid': 'ALM-00044-03', 'evse_id': 'PT*KLC*E*ALM*00044*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'ALM-00044-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-12-02T09:25:30.641Z'}], 'last_updated': '2022-12-02T09:59:21.391Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-02T09:59:21.391Z'}
+Removidos:[]
+CSC-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CSC-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
