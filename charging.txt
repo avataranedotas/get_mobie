@@ -522,3 +522,6 @@ ALM-00044-03 evses -> 2: status : CHARGING
 
 2022-12-03 10:15:54
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-03 10:37:09
+MTS-00054-01 evses -> 1: status : CHARGING
