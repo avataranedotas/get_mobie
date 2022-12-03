@@ -570,3 +570,7 @@ VCT-00032-04 evses -> 1: status : CHARGING
 2022-12-03 16:20:43
 MTS-00054-01 evses -> 1: status : CHARGING
 VCT-00032-04 evses -> 1: status : CHARGING
+
+2022-12-03 16:44:55
+MTS-00054-01 evses -> 1: status : CHARGING
+ODV-00004-1 evses -> 1: status : CHARGING
