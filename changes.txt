@@ -198,3 +198,13 @@ Adicionados:['GMR-00072']
 
 GMR-00072-->{'country_code': 'PT', 'party_id': 'CAP', 'id': 'GMR-00072', 'publish': True, 'address': 'Alameda Doutor Mariano Felgueiras - Creixomil', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-075', 'coordinates': {'latitude': '41.4408888', 'longitude': '-8.3065351'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'GMR-00072-01', 'evse_id': 'PT*CAP*E*GMR*00072*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00072-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:50.408Z'}], 'last_updated': '2022-12-05T14:17:41.984Z'}, {'uid': 'GMR-00072-02', 'evse_id': 'PT*CAP*E*GMR*00072*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00072-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:50.409Z'}], 'last_updated': '2022-12-05T14:17:44.985Z'}, {'uid': 'GMR-00072-03', 'evse_id': 'PT*CAP*E*GMR*00072*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00072-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:50.41Z'}], 'last_updated': '2022-12-05T14:17:43.607Z'}, {'uid': 'GMR-00072-04', 'evse_id': 'PT*CAP*E*GMR*00072*04', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00072-04-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-14T17:34:50.411Z'}], 'last_updated': '2022-12-05T14:17:46.76Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-05T14:17:46.76Z'}
 Removidos:[]
+
+2022-12-05 15:16:49
+CVL-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CVL-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
