@@ -208,3 +208,9 @@ CVL-00010
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 120000
+
+2022-12-05 15:38:36
+Adicionados:['CSC-00099']
+
+CSC-00099-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CSC-00099', 'publish': True, 'address': 'Praceta José António Beja 25', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2785-027', 'coordinates': {'latitude': '38.7247555', 'longitude': '-9.3365882'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00099-02', 'evse_id': 'PT*EDP*E*CSC*00099*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CSC-00099-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2022-08-16T10:42:53.847Z'}], 'last_updated': '2022-12-05T15:20:27.166Z'}, {'uid': 'CSC-00099-01', 'evse_id': 'PT*EDP*E*CSC*00099*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CSC-00099-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-08-16T10:42:53.845Z'}], 'last_updated': '2022-12-05T15:20:26.491Z'}, {'uid': 'CSC-00099-03', 'evse_id': 'PT*EDP*E*CSC*00099*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CSC-00099-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-08-16T10:42:53.848Z'}], 'last_updated': '2022-12-05T15:20:54.51Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-05T15:20:54.51Z'}
+Removidos:[]
