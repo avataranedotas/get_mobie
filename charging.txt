@@ -842,3 +842,10 @@ PRT-00154-01 evses -> 0: status : CHARGING
 PRT-00154-02 evses -> 1: status : CHARGING
 SNT-00094-01 evses -> 1: status : CHARGING
 SNT-00094-02 evses -> 2: status : CHARGING
+
+2022-12-06 17:36:29
+LSB-00545-03 evses -> 1: status : CHARGING
+PRT-00154-01 evses -> 0: status : CHARGING
+PRT-00154-02 evses -> 1: status : CHARGING
+SNT-00094-01 evses -> 1: status : CHARGING
+SNT-00094-02 evses -> 2: status : CHARGING
