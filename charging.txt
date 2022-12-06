@@ -760,3 +760,8 @@ LSB-00538-02 evses -> 0: status : CHARGING
 
 2022-12-06 10:38:27
 LSB-00538-02 evses -> 0: status : CHARGING
+
+2022-12-06 11:13:06
+LSB-00538-02 evses -> 0: status : CHARGING
+SNT-00094-01 evses -> 1: status : CHARGING
+SNT-00094-02 evses -> 2: status : CHARGING
