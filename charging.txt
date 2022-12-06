@@ -874,3 +874,8 @@ SNT-00094-02 evses -> 2: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 PRT-00154-02 evses -> 1: status : CHARGING
 SNT-00094-02 evses -> 2: status : CHARGING
+
+2022-12-06 20:36:55
+MTS-00054-01 evses -> 1: status : CHARGING
+PRT-00154-02 evses -> 1: status : CHARGING
+SNT-00094-02 evses -> 2: status : CHARGING
