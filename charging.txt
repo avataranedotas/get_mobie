@@ -1007,3 +1007,7 @@ PRT-00147-03 evses -> 1: status : CHARGING
 2022-12-07 21:36:51
 CSC-00111-02 evses -> 1: status : CHARGING
 PRT-00147-03 evses -> 1: status : CHARGING
+
+2022-12-07 22:15:27
+CSC-00111-02 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
