@@ -901,3 +901,8 @@ PRT-00128-01 evses -> 2: status : CHARGING
 
 2022-12-07 09:15:27
 PBL-00012-01 evses -> 0: status : CHARGING
+
+2022-12-07 10:17:30
+CSC-00099-03 evses -> 2: status : CHARGING
+PRT-00128-02 evses -> 0: status : CHARGING
+SNT-00089-01 evses -> 0: status : CHARGING
