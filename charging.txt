@@ -898,3 +898,6 @@ PRT-00128-01 evses -> 2: status : CHARGING
 
 2022-12-07 08:40:24
 PRT-00128-01 evses -> 2: status : CHARGING
+
+2022-12-07 09:15:27
+PBL-00012-01 evses -> 0: status : CHARGING
