@@ -1000,3 +1000,6 @@ CSC-00099-03 evses -> 2: status : CHARGING
 CSC-00105-02 evses -> 0: status : CHARGING
 CSC-00111-02 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-12-07 21:14:28
+PRT-00147-03 evses -> 1: status : CHARGING
