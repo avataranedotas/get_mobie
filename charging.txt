@@ -971,3 +971,9 @@ CSC-00111-01 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 OBD-00013-01 evses -> 1: status : CHARGING
 VLG-00018-02 evses -> 0: status : CHARGING
+
+2022-12-07 18:41:07
+CSC-00111-01 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+PRT-00147-03 evses -> 1: status : CHARGING
+VLG-00018-02 evses -> 0: status : CHARGING
