@@ -960,3 +960,8 @@ MTS-00054-01 evses -> 1: status : CHARGING
 2022-12-07 17:14:47
 LLE-00123-03 evses -> 2: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-07 17:36:31
+CSC-00099-03 evses -> 2: status : CHARGING
+OBD-00010-01 evses -> 1: status : CHARGING
+VLG-00018-01 evses -> 2: status : CHARGING
