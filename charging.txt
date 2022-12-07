@@ -952,3 +952,7 @@ SLV-00008-02 evses -> 1: status : CHARGING
 2022-12-07 16:22:38
 GMR-00072-02 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-12-07 16:48:08
+GMR-00072-02 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING

@@ -266,3 +266,49 @@ Adicionados:['VFR-00027']
 
 VFR-00027-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00027', 'publish': True, 'address': 'Rua Dr. Francisco Sá Carneiro, Sanguedo', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4505-640', 'coordinates': {'latitude': '41.009399', 'longitude': '-8.512906'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00027-02', 'evse_id': 'PT*GLP*E*VFR*00027*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:16:27.32Z'}], 'last_updated': '2022-12-07T11:49:59.662Z'}, {'uid': 'VFR-00027-01', 'evse_id': 'PT*GLP*E*VFR*00027*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:16:27.319Z'}], 'last_updated': '2022-12-07T11:49:59.662Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-07T11:49:59.621Z'}
 Removidos:[]
+
+2022-12-07 16:48:05
+LSB-00549
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00549
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00549
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+LSB-00549
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+LSB-00549
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00549
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00549
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+SNT-00094
+coordinates: 
+ NEW latitude : 38.7756928
+ OLD latitude : 38.7700165
+SNT-00094
+coordinates: 
+ NEW longitude : -9.2849302
+ OLD longitude : -9.296872
+SNT-00094
+: 
+ NEW coordinates : {'latitude': '38.7756928', 'longitude': '-9.2849302'}
+ OLD coordinates : {'latitude': '38.7700165', 'longitude': '-9.296872'}
+VFR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
