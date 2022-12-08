@@ -1058,3 +1058,11 @@ LLE-00123-01 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 VLG-00018-02 evses -> 0: status : CHARGING
+
+2022-12-08 11:36:41
+CSC-00105-02 evses -> 0: status : CHARGING
+GMR-00072-01 evses -> 0: status : CHARGING
+LLE-00123-01 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+PRT-00147-02 evses -> 2: status : CHARGING
