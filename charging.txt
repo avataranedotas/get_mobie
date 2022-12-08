@@ -1040,3 +1040,6 @@ PRT-00147-01 evses -> 0: status : CHARGING
 
 2022-12-08 07:36:34
 PRT-00147-02 evses -> 2: status : CHARGING
+
+2022-12-08 09:15:21
+VLG-00018-02 evses -> 0: status : CHARGING
