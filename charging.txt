@@ -1031,3 +1031,6 @@ VLG-00018-02 evses -> 0: status : CHARGING
 
 2022-12-08 03:39:19
 PRT-00147-02 evses -> 2: status : CHARGING
+
+2022-12-08 06:20:44
+PRT-00147-02 evses -> 2: status : CHARGING
