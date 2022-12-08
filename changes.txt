@@ -940,3 +940,9 @@ VNG-00053
 evses -> 0 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-12-08 13:20:03
+Adicionados:['CLD-00022']
+
+CLD-00022-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'CLD-00022', 'publish': True, 'address': 'QUINTA DOS PINHEIROS, LOTE 1', 'city': 'Caldas da Rainha', 'country': 'PRT', 'postal_code': '2500-297', 'coordinates': {'latitude': '39.405019', 'longitude': '-9.152001'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CLD-00022-01', 'evse_id': 'PT*GLP*E*CLD*00022*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-00022-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-12-07T20:59:37.255Z'}], 'last_updated': '2022-12-08T12:52:53.959Z'}, {'uid': 'CLD-00022-02', 'evse_id': 'PT*GLP*E*CLD*00022*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-00022-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2022-12-07T20:59:37.256Z'}], 'last_updated': '2022-12-08T04:24:28.955Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-08T12:52:53.959Z'}
+Removidos:[]
