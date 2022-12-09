@@ -952,3 +952,7 @@ Adicionados:['VFR-00035']
 
 VFR-00035-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00035', 'publish': True, 'address': 'Rua da Mó, Paços de Brandão', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4535-290', 'coordinates': {'latitude': '40.975413', 'longitude': '-8.590461'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00035-01', 'evse_id': 'PT*GLP*E*VFR*00035*01', 'status': 'CHARGING', 'connectors': [{'id': 'VFR-00035-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:41:16.75Z'}], 'last_updated': '2022-12-09T10:11:21.576Z'}, {'uid': 'VFR-00035-02', 'evse_id': 'PT*GLP*E*VFR*00035*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00035-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:41:16.751Z'}], 'last_updated': '2022-12-09T10:09:30.176Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-09T10:11:21.576Z'}
 Removidos:[]
+
+2022-12-09 10:38:53
+Adicionados:[]
+Removidos:['VFR-00035']
