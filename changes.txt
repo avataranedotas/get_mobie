@@ -956,3 +956,11 @@ Removidos:[]
 2022-12-09 10:38:53
 Adicionados:[]
 Removidos:['VFR-00035']
+
+2022-12-09 11:13:17
+Adicionados:['BRG-00067', 'VFR-00036']
+
+BRG-00067-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'BRG-00067', 'publish': True, 'address': 'Av. Dom Eurico Dias Nogueira', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4700-441', 'coordinates': {'latitude': '41.5699382', 'longitude': '-8.4279213'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00067-1', 'evse_id': 'PT*HRZ*E*BRG*00067*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00067-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-31T16:32:56.699Z'}], 'last_updated': '2022-12-09T11:00:17.306Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-09T11:00:17.306Z'}
+
+VFR-00036-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00036', 'publish': True, 'address': 'Largo Santo António, Rio Meão', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4520-473', 'coordinates': {'latitude': '40.958118', 'longitude': '-8.580741'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00036-01', 'evse_id': 'PT*GLP*E*VFR*00036*01', 'status': 'CHARGING', 'connectors': [{'id': 'VFR-00036-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:41:31.486Z'}], 'last_updated': '2022-12-09T10:59:41.669Z'}, {'uid': 'VFR-00036-02', 'evse_id': 'PT*GLP*E*VFR*00036*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00036-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:41:31.487Z'}], 'last_updated': '2022-12-09T10:59:03.004Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-09T10:59:41.669Z'}
+Removidos:[]
