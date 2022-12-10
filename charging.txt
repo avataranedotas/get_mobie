@@ -1420,3 +1420,7 @@ VLG-00022-03 evses -> 0: status : CHARGING
 
 2022-12-10 22:36:17
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-10 23:15:37
+SLV-00008-02 evses -> 1: status : CHARGING
+VCT-00027-01 evses -> 0: status : CHARGING
