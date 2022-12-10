@@ -1284,3 +1284,6 @@ STB-00035-02 evses -> 1: status : CHARGING
 
 2022-12-10 03:16:31
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-12-10 03:37:40
+MTS-00054-02 evses -> 0: status : CHARGING
