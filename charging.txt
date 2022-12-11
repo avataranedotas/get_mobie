@@ -1472,3 +1472,6 @@ PBL-00012-03 evses -> 2: status : CHARGING
 
 2022-12-11 08:19:12
 PBL-00012-03 evses -> 2: status : CHARGING
+
+2022-12-11 08:39:21
+PBL-00012-03 evses -> 2: status : CHARGING
