@@ -1431,3 +1431,6 @@ VCT-00027-01 evses -> 0: status : CHARGING
 
 2022-12-11 01:25:13
 SLV-00008-02 evses -> 1: status : CHARGING
+
+2022-12-11 02:40:07
+SLV-00008-02 evses -> 1: status : CHARGING
