@@ -1442,3 +1442,7 @@ SLV-00008-02 evses -> 1: status : CHARGING
 2022-12-11 03:40:00
 PBL-00012-03 evses -> 2: status : CHARGING
 SLV-00008-02 evses -> 1: status : CHARGING
+
+2022-12-11 04:19:49
+PBL-00012-03 evses -> 2: status : CHARGING
+SLV-00008-02 evses -> 1: status : CHARGING
