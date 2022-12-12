@@ -1585,3 +1585,6 @@ CVL-00009-04 evses -> 0: status : CHARGING
 SSB-00009-01 evses -> 0: status : CHARGING
 SSB-00009-03 evses -> 1: status : CHARGING
 SSB-00009-02 evses -> 2: status : CHARGING
+
+2022-12-12 11:36:45
+CVL-00009-04 evses -> 0: status : CHARGING
