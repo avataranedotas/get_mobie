@@ -1620,3 +1620,6 @@ SNT-00089-01 evses -> 0: status : CHARGING
 
 2022-12-12 16:50:01
 SNT-00089-01 evses -> 0: status : CHARGING
+
+2022-12-12 17:14:33
+SNT-00089-01 evses -> 0: status : CHARGING
