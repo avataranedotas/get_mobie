@@ -996,3 +996,21 @@ Adicionados:['VFR-00041']
 
 VFR-00041-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00041', 'publish': True, 'address': 'Rua Dr. Ferreira Pinto, Vila Maior', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4525-522', 'coordinates': {'latitude': '41.008919', 'longitude': '-8.483073'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00041-01', 'evse_id': 'PT*GLP*E*VFR*00041*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00041-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:42:44.88Z'}], 'last_updated': '2022-12-12T14:05:32.718Z'}, {'uid': 'VFR-00041-02', 'evse_id': 'PT*GLP*E*VFR*00041*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00041-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:42:44.881Z'}], 'last_updated': '2022-12-12T14:07:21.054Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-12T14:07:21.054Z'}
 Removidos:[]
+
+2022-12-12 15:17:10
+Adicionados:['VFR-00033']
+
+VFR-00033-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00033', 'publish': True, 'address': 'Rua Central, Louredo', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4525-353', 'coordinates': {'latitude': '40.979046', 'longitude': '-8.4568999'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00033-02', 'evse_id': 'PT*GLP*E*VFR*00033*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00033-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:40:46.964Z'}], 'last_updated': '2022-12-12T14:55:53.062Z'}, {'uid': 'VFR-00033-01', 'evse_id': 'PT*GLP*E*VFR*00033*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00033-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T17:40:46.963Z'}], 'last_updated': '2022-12-12T14:55:53.062Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-12T14:55:52.992Z'}
+Removidos:[]
+LSB-00537
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
