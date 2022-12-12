@@ -1014,3 +1014,13 @@ OER-00095
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2022-12-12 15:38:45
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 100000
