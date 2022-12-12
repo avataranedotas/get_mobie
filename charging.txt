@@ -1579,3 +1579,9 @@ SNT-00089-02 evses -> 1: status : CHARGING
 2022-12-12 10:39:25
 CVL-00009-04 evses -> 0: status : CHARGING
 SSB-00009-03 evses -> 1: status : CHARGING
+
+2022-12-12 11:13:12
+CVL-00009-04 evses -> 0: status : CHARGING
+SSB-00009-01 evses -> 0: status : CHARGING
+SSB-00009-03 evses -> 1: status : CHARGING
+SSB-00009-02 evses -> 2: status : CHARGING
