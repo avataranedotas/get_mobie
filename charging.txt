@@ -1729,3 +1729,6 @@ CVL-00009-04 evses -> 0: status : CHARGING
 
 2022-12-13 19:36:13
 CVL-00009-04 evses -> 0: status : CHARGING
+
+2022-12-13 20:37:10
+CVL-00009-01 evses -> 1: status : CHARGING
