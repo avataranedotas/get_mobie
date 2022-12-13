@@ -1726,3 +1726,6 @@ LRA-00074-02 evses -> 2: status : CHARGING
 
 2022-12-13 19:12:38
 CVL-00009-04 evses -> 0: status : CHARGING
+
+2022-12-13 19:36:13
+CVL-00009-04 evses -> 0: status : CHARGING
