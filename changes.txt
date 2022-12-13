@@ -1082,3 +1082,9 @@ LSB-00537
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 60000
+
+2022-12-13 15:20:08
+Adicionados:['MTS-00094']
+
+MTS-00094-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'MTS-00094', 'publish': True, 'address': 'ESTRADA EXT. DA CIRCUNVALAÇÃO', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-000', 'coordinates': {'latitude': '41.172072', 'longitude': '-8.678419'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTS-00094-02', 'evse_id': 'PT*GLG*E*MTS*00094*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00094-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-12-07T20:59:16.291Z'}], 'last_updated': '2022-12-13T15:11:12.3Z'}, {'uid': 'MTS-00094-01', 'evse_id': 'PT*GLG*E*MTS*00094*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00094-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2022-12-07T20:59:16.289Z'}], 'last_updated': '2022-12-13T15:03:40.956Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-13T15:11:12.3Z'}
+Removidos:[]
