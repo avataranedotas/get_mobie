@@ -1639,3 +1639,8 @@ MTS-00054-01 evses -> 1: status : CHARGING
 2022-12-13 09:16:11
 MTJ-00027-01 evses -> 1: status : CHARGING
 SNT-00089-02 evses -> 1: status : CHARGING
+
+2022-12-13 09:36:58
+MTJ-00027-01 evses -> 1: status : CHARGING
+MTJ-00028-02 evses -> 1: status : CHARGING
+SNT-00089-02 evses -> 1: status : CHARGING
