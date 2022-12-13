@@ -1062,3 +1062,9 @@ LRA-00068-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'LRA-00068', 'publis
 
 LRA-00069-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'LRA-00069', 'publish': True, 'address': 'Área de Serviço CEPSA A1 Leiria S-N, PK. 11', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2420-020', 'coordinates': {'latitude': '39.712752', 'longitude': '-8.711447'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LRA-00069-1', 'evse_id': 'PT*ION*E*LRA*00069*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LRA-00069-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2022-12-13T11:25:25.363Z'}], 'last_updated': '2022-12-13T12:16:43.131Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-13T12:16:43.131Z'}
 Removidos:[]
+
+2022-12-13 13:39:19
+Adicionados:['LRA-00070']
+
+LRA-00070-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'LRA-00070', 'publish': True, 'address': 'Área de Serviço CEPSA A1 Leiria S-N, PK. 11', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2420-020', 'coordinates': {'latitude': '39.712752', 'longitude': '-8.711447'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LRA-00070-1', 'evse_id': 'PT*ION*E*LRA*00070*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LRA-00070-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2022-12-13T11:26:05.756Z'}], 'last_updated': '2022-12-13T13:28:59.26Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-13T13:28:59.26Z'}
+Removidos:[]
