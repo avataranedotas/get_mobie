@@ -1800,3 +1800,7 @@ MAI-00029-01 evses -> 3: status : CHARGING
 2022-12-14 13:23:35
 MAI-00019-01 evses -> 1: status : CHARGING
 MAI-00029-01 evses -> 3: status : CHARGING
+
+2022-12-14 13:39:05
+MAI-00019-01 evses -> 1: status : CHARGING
+MAI-00029-01 evses -> 3: status : CHARGING
