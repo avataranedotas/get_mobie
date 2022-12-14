@@ -1785,3 +1785,8 @@ MAI-00029-01 evses -> 3: status : CHARGING
 MAI-00018-02 evses -> 1: status : CHARGING
 MAI-00029-01 evses -> 3: status : CHARGING
 VCT-00027-02 evses -> 2: status : CHARGING
+
+2022-12-14 11:36:43
+LRA-00064-1 evses -> 0: status : CHARGING
+MAI-00019-01 evses -> 1: status : CHARGING
+MAI-00029-01 evses -> 3: status : CHARGING
