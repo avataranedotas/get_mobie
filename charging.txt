@@ -1809,3 +1809,8 @@ MAI-00029-01 evses -> 3: status : CHARGING
 LRA-00068-1 evses -> 0: status : CHARGING
 MAI-00019-03 evses -> 2: status : CHARGING
 MAI-00029-01 evses -> 3: status : CHARGING
+
+2022-12-14 14:36:56
+AMD-00052-1 evses -> 0: status : CHARGING
+LRA-00068-1 evses -> 0: status : CHARGING
+MAI-00019-03 evses -> 2: status : CHARGING
