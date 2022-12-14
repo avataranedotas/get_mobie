@@ -1156,3 +1156,45 @@ Adicionados:['AMD-00052']
 
 AMD-00052-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'AMD-00052', 'publish': True, 'address': 'Estr. do Monte da Cabreira 1 1A', 'city': 'Amadora', 'country': 'PRT', 'postal_code': '2610-017', 'coordinates': {'latitude': '38.7275814', 'longitude': '-9.2113054'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMD-00052-1', 'evse_id': 'PT*HRZ*E*AMD*00052*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'AMD-00052-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-25T09:35:41.804Z'}], 'last_updated': '2022-12-14T13:58:40.942Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-14T13:58:40.942Z'}
 Removidos:[]
+
+2022-12-14 18:40:14
+OER-00046
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00047
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00048
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00049
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00052
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00053
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00054
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00119
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00119
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00119
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
