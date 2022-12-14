@@ -1124,3 +1124,17 @@ LRA-00070
 : 
  NEW address : Área de Serviço CEPSA A1 Leiria N-S
  OLD address : Área de Serviço CEPSA A1 Leiria S-N, PK. 11
+
+2022-12-14 10:17:16
+Adicionados:['MAI-00019']
+
+MAI-00019-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MAI-00019', 'publish': True, 'address': 'Rua Senhora da Hora, n,º 108,', 'city': 'Maia', 'country': 'PRT', 'postal_code': '4475-525', 'coordinates': {'latitude': '41.2289298', 'longitude': '-8.5880992'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MAI-00019-02', 'evse_id': 'PT*KLC*E*MAI*00019*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00019-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:44:59.293Z'}], 'last_updated': '2022-12-14T09:56:21.413Z'}, {'uid': 'MAI-00019-01', 'evse_id': 'PT*KLC*E*MAI*00019*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00019-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:44:59.291Z'}], 'last_updated': '2022-12-14T09:56:21.922Z'}, {'uid': 'MAI-00019-03', 'evse_id': 'PT*KLC*E*MAI*00019*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00019-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-08-16T12:44:59.294Z'}], 'last_updated': '2022-12-14T09:49:26.205Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-14T09:56:21.922Z'}
+Removidos:[]
+MTS-00092
+: 
+ NEW address : A4 IP4 Km3
+ OLD address : AE do Grande Porto IP4, Km3, 2e4, 1-SCUT
+MTS-00093
+: 
+ NEW address : A4 IP4 Km3
+ OLD address : A4 IP4 Km3,2e4,1-SCUT
