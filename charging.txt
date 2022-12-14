@@ -1758,3 +1758,6 @@ VLG-00022-03 evses -> 0: status : CHARGING
 
 2022-12-13 23:37:14
 LRA-00069-1 evses -> 0: status : CHARGING
+
+2022-12-14 08:20:49
+LRA-00064-1 evses -> 0: status : CHARGING
