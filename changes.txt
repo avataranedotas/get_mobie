@@ -1138,3 +1138,9 @@ MTS-00093
 : 
  NEW address : A4 IP4 Km3
  OLD address : A4 IP4 Km3,2e4,1-SCUT
+
+2022-12-14 10:38:55
+Adicionados:['MAI-00020']
+
+MAI-00020-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MAI-00020', 'publish': True, 'address': 'Rua Avelino Francisco Pereira, nº 55', 'city': 'Maia', 'country': 'PRT', 'postal_code': '4470-289', 'coordinates': {'latitude': '41.2263529', 'longitude': '-8.6132964'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MAI-00020-03', 'evse_id': 'PT*KLC*E*MAI*00020*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00020-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-08-16T12:52:45.355Z'}], 'last_updated': '2022-12-14T10:29:58.225Z'}, {'uid': 'MAI-00020-01', 'evse_id': 'PT*KLC*E*MAI*00020*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MAI-00020-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:52:45.352Z'}], 'last_updated': '2022-12-14T10:29:59.245Z'}, {'uid': 'MAI-00020-02', 'evse_id': 'PT*KLC*E*MAI*00020*02', 'status': 'CHARGING', 'connectors': [{'id': 'MAI-00020-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:52:45.353Z'}], 'last_updated': '2022-12-14T10:29:58.747Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-14T10:29:59.245Z'}
+Removidos:[]
