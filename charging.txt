@@ -1907,3 +1907,10 @@ LSB-00052-02 evses -> 1: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
 MAI-00018-02 evses -> 1: status : CHARGING
 MAI-00019-02 evses -> 0: status : CHARGING
+
+2022-12-14 22:37:25
+LSB-00052-02 evses -> 1: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00018-02 evses -> 1: status : CHARGING
+MAI-00019-02 evses -> 0: status : CHARGING
