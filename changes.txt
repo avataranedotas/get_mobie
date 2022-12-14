@@ -1106,3 +1106,21 @@ Adicionados:['MAI-00018']
 
 MAI-00018-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MAI-00018', 'publish': True, 'address': 'Rua Quinta da Palmeira,', 'city': 'Maia', 'country': 'PRT', 'postal_code': '4475-457', 'coordinates': {'latitude': '41.1974977', 'longitude': '-8.5769482'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MAI-00018-03', 'evse_id': 'PT*KLC*E*MAI*00018*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00018-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-08-16T12:44:10.562Z'}], 'last_updated': '2022-12-14T09:02:39.81Z'}, {'uid': 'MAI-00018-02', 'evse_id': 'PT*KLC*E*MAI*00018*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00018-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:44:10.56Z'}], 'last_updated': '2022-12-14T09:02:39.14Z'}, {'uid': 'MAI-00018-01', 'evse_id': 'PT*KLC*E*MAI*00018*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00018-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T12:44:10.559Z'}], 'last_updated': '2022-12-14T09:02:38.273Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-14T09:02:39.81Z'}
 Removidos:[]
+
+2022-12-14 09:36:41
+LRA-00067
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : Área de Serviço CEPSA A1 Leiria S-N, PK. 11
+LRA-00068
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : Área de Serviço CEPSA A1 Leiria S-N, PK. 11
+LRA-00069
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : Área de Serviço CEPSA A1 Leiria S-N, PK. 11
+LRA-00070
+: 
+ NEW address : Área de Serviço CEPSA A1 Leiria N-S
+ OLD address : Área de Serviço CEPSA A1 Leiria S-N, PK. 11
