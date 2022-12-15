@@ -2053,3 +2053,14 @@ OBD-00010-01 evses -> 1: status : CHARGING
 OBD-00018-1 evses -> 0: status : CHARGING
 OER-00132-02 evses -> 0: status : CHARGING
 OER-00132-01 evses -> 1: status : CHARGING
+
+2022-12-15 15:38:25
+CSC-00117-03 evses -> 1: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00018-02 evses -> 1: status : CHARGING
+MAI-00019-01 evses -> 1: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+MAI-00029-04 evses -> 0: status : CHARGING
+OBD-00018-1 evses -> 0: status : CHARGING
+OER-00132-02 evses -> 0: status : CHARGING
+OER-00132-01 evses -> 1: status : CHARGING
