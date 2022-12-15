@@ -1228,3 +1228,19 @@ OBD-00013
 evses -> 0 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2022-12-15 12:31:03
+Adicionados:['CBR-00070', 'SNT-00091']
+
+CBR-00070-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'CBR-00070', 'publish': True, 'address': 'Praceta Professor Robalo Cordeiro', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3020-479', 'coordinates': {'latitude': '40.224369', 'longitude': '-8.424163'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'CBR-00070-01', 'evse_id': 'PT*EDP*E*CBR*00070*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'CBR-00070-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-05T12:57:23.399Z'}], 'last_updated': '2022-12-15T12:21:16.459Z'}, {'uid': 'CBR-00070-02', 'evse_id': 'PT*EDP*E*CBR*00070*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'CBR-00070-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-05T12:57:23.399Z'}], 'last_updated': '2022-12-15T12:21:16.459Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-15T12:21:16.418Z'}
+
+SNT-00091-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'SNT-00091', 'publish': True, 'address': 'Av. Alfredo Coelho 28', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2705-329', 'coordinates': {'latitude': '38.8170922', 'longitude': '-9.475406'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00091-01', 'evse_id': 'PT*HRZ*E*SNT*00091*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00091-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-10-31T11:46:45.391Z'}], 'last_updated': '2022-12-15T12:11:39.903Z'}, {'uid': 'SNT-00091-02', 'evse_id': 'PT*HRZ*E*SNT*00091*02', 'status': 'CHARGING', 'connectors': [{'id': 'SNT-00091-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T11:46:45.392Z'}], 'last_updated': '2022-12-15T12:20:13.233Z'}, {'uid': 'SNT-00091-03', 'evse_id': 'PT*HRZ*E*SNT*00091*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00091-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2022-10-31T11:46:45.393Z'}], 'last_updated': '2022-12-15T12:11:38.948Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-15T12:20:13.233Z'}
+Removidos:[]
+LOU-90002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LOU-90002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
