@@ -1981,3 +1981,6 @@ LRA-00068-1 evses -> 0: status : CHARGING
 LRA-00069-1 evses -> 0: status : CHARGING
 LRA-00070-1 evses -> 0: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
+
+2022-12-15 10:17:37
+MAI-00020-02 evses -> 2: status : CHARGING
