@@ -1975,3 +1975,9 @@ LRA-00067-1 evses -> 0: status : CHARGING
 LRA-00069-1 evses -> 0: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
+
+2022-12-15 09:37:02
+LRA-00068-1 evses -> 0: status : CHARGING
+LRA-00069-1 evses -> 0: status : CHARGING
+LRA-00070-1 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
