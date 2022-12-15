@@ -2149,3 +2149,11 @@ MAI-00019-02 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
 OBD-00018-1 evses -> 0: status : CHARGING
 OER-00132-02 evses -> 0: status : CHARGING
+
+2022-12-15 21:12:56
+LRA-00063-1 evses -> 0: status : CHARGING
+LRA-00064-1 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+OER-00132-02 evses -> 0: status : CHARGING
