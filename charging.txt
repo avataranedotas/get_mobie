@@ -1937,3 +1937,6 @@ LSB-00432-1 evses -> 0: status : CHARGING
 
 2022-12-15 03:40:22
 LSB-00432-1 evses -> 0: status : CHARGING
+
+2022-12-15 04:20:04
+LSB-00432-1 evses -> 0: status : CHARGING
