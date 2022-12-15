@@ -2013,3 +2013,8 @@ LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 OBD-00016-02 evses -> 1: status : CHARGING
 SNT-00092-1 evses -> 0: status : CHARGING
+
+2022-12-15 13:39:30
+LSB-00430-1 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
