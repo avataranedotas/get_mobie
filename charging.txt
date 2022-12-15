@@ -2095,3 +2095,10 @@ LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00019-01 evses -> 1: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
 OBD-00016-01 evses -> 0: status : CHARGING
+
+2022-12-15 18:18:07
+LRA-00067-1 evses -> 0: status : CHARGING
+LRA-00070-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00019-01 evses -> 1: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
