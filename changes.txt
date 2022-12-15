@@ -1244,3 +1244,9 @@ LOU-90002
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-12-15 13:23:59
+Adicionados:['SNT-00092']
+
+SNT-00092-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'SNT-00092', 'publish': True, 'address': 'Av. Alfredo Coelho 28', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2705-329', 'coordinates': {'latitude': '38.8170922', 'longitude': '-9.475406'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00092-1', 'evse_id': 'PT*HRZ*E*SNT*00092*1', 'status': 'CHARGING', 'connectors': [{'id': 'SNT-00092-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T11:47:22.634Z'}], 'last_updated': '2022-12-15T13:04:22.694Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-15T13:04:22.694Z'}
+Removidos:[]
