@@ -1990,3 +1990,12 @@ PNF-00016-03 evses -> 2: status : CHARGING
 
 2022-12-15 11:13:15
 MAI-00020-02 evses -> 2: status : CHARGING
+
+2022-12-15 11:36:30
+AZB-00009-02 evses -> 1: status : CHARGING
+CBR-00071-01 evses -> 1: status : CHARGING
+LSB-00430-1 evses -> 0: status : CHARGING
+MAI-00018-03 evses -> 0: status : CHARGING
+MAI-00018-02 evses -> 1: status : CHARGING
+MAI-00018-01 evses -> 2: status : CHARGING
+MAI-00019-02 evses -> 0: status : CHARGING
