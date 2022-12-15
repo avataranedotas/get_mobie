@@ -1198,3 +1198,9 @@ OER-00119
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-12-15 10:39:21
+Adicionados:['PNF-00016']
+
+PNF-00016-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PNF-00016', 'publish': True, 'address': 'Rua do Sameiro – Circular Sul de Penafiel', 'city': 'Penafiel', 'country': 'PRT', 'postal_code': '4560-232', 'coordinates': {'latitude': '41.2116023', 'longitude': '-8.2736629'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PNF-00016-01', 'evse_id': 'PT*KLC*E*PNF*00016*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PNF-00016-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T17:32:31.551Z'}], 'last_updated': '2022-12-15T10:25:55.419Z'}, {'uid': 'PNF-00016-02', 'evse_id': 'PT*KLC*E*PNF*00016*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PNF-00016-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-08-16T17:32:31.553Z'}], 'last_updated': '2022-12-15T10:25:56.059Z'}, {'uid': 'PNF-00016-03', 'evse_id': 'PT*KLC*E*PNF*00016*03', 'status': 'CHARGING', 'connectors': [{'id': 'PNF-00016-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2022-08-16T17:32:31.554Z'}], 'last_updated': '2022-12-15T10:25:56.561Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-15T10:25:56.561Z'}
+Removidos:[]

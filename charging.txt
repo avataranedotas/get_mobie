@@ -1984,3 +1984,6 @@ LSB-00431-1 evses -> 0: status : CHARGING
 
 2022-12-15 10:17:37
 MAI-00020-02 evses -> 2: status : CHARGING
+
+2022-12-15 10:39:24
+PNF-00016-03 evses -> 2: status : CHARGING
