@@ -2163,3 +2163,9 @@ LRA-00063-1 evses -> 0: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
+
+2022-12-15 22:14:23
+LRA-00063-1 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
