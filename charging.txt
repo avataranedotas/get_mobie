@@ -2364,3 +2364,9 @@ PNF-00016-03 evses -> 2: status : CHARGING
 SNT-00091-02 evses -> 1: status : CHARGING
 VLG-00021-01 evses -> 0: status : CHARGING
 VNG-00071-01 evses -> 0: status : CHARGING
+
+2022-12-16 16:20:56
+LRA-00063-1 evses -> 0: status : CHARGING
+PNF-00016-03 evses -> 2: status : CHARGING
+SNT-00091-02 evses -> 1: status : CHARGING
+VCT-00027-02 evses -> 2: status : CHARGING
