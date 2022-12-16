@@ -2458,3 +2458,11 @@ CSC-00068-03 evses -> 0: status : CHARGING
 LSB-00431-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-16 22:36:30
+AMD-00051-1 evses -> 0: status : CHARGING
+CSC-00068-03 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
