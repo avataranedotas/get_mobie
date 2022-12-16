@@ -2290,3 +2290,12 @@ MTS-00054-02 evses -> 0: status : CHARGING
 PNF-00016-01 evses -> 0: status : CHARGING
 PNF-00016-03 evses -> 2: status : CHARGING
 SNT-00091-02 evses -> 1: status : CHARGING
+
+2022-12-16 12:55:02
+LSB-00430-1 evses -> 0: status : CHARGING
+LSB-00433-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+OBD-00016-01 evses -> 0: status : CHARGING
+OER-00132-02 evses -> 0: status : CHARGING
+PNF-00016-03 evses -> 2: status : CHARGING
+SNT-00091-02 evses -> 1: status : CHARGING
