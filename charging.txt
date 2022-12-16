@@ -2342,3 +2342,14 @@ MAI-00020-02 evses -> 2: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 PNF-00016-03 evses -> 2: status : CHARGING
 SNT-00091-02 evses -> 1: status : CHARGING
+
+2022-12-16 15:17:16
+LSB-00430-1 evses -> 0: status : CHARGING
+MAI-00018-02 evses -> 1: status : CHARGING
+MAI-00019-03 evses -> 2: status : CHARGING
+MAI-00020-03 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+PNF-00016-03 evses -> 2: status : CHARGING
+SNT-00091-02 evses -> 1: status : CHARGING
+VFR-00025-01 evses -> 0: status : CHARGING
+VNG-00071-01 evses -> 0: status : CHARGING
