@@ -2466,3 +2466,11 @@ LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
+
+2022-12-16 23:14:52
+AMD-00051-1 evses -> 0: status : CHARGING
+LSB-00431-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+VLG-00021-01 evses -> 0: status : CHARGING
