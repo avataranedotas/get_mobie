@@ -2273,3 +2273,10 @@ OER-00132-02 evses -> 0: status : CHARGING
 PNF-00016-01 evses -> 0: status : CHARGING
 PNF-00016-03 evses -> 2: status : CHARGING
 VCT-00027-02 evses -> 2: status : CHARGING
+
+2022-12-16 11:35:59
+LRA-00063-1 evses -> 0: status : CHARGING
+LRA-00065-1 evses -> 0: status : CHARGING
+MAI-00029-02 evses -> 2: status : CHARGING
+PNF-00016-03 evses -> 2: status : CHARGING
+SNT-00091-02 evses -> 1: status : CHARGING
