@@ -2221,3 +2221,7 @@ MAI-00020-01 evses -> 1: status : CHARGING
 
 2022-12-16 08:18:57
 MAI-00020-01 evses -> 1: status : CHARGING
+
+2022-12-16 08:38:12
+MAI-00020-01 evses -> 1: status : CHARGING
+OBD-00016-02 evses -> 1: status : CHARGING
