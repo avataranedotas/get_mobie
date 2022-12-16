@@ -2225,3 +2225,11 @@ MAI-00020-01 evses -> 1: status : CHARGING
 2022-12-16 08:38:12
 MAI-00020-01 evses -> 1: status : CHARGING
 OBD-00016-02 evses -> 1: status : CHARGING
+
+2022-12-16 09:14:15
+CBR-00070-01 evses -> 0: status : CHARGING
+LRA-00067-1 evses -> 0: status : CHARGING
+LRA-00069-1 evses -> 0: status : CHARGING
+LSB-00433-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+VCT-00027-02 evses -> 2: status : CHARGING
