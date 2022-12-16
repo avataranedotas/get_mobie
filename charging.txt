@@ -2203,3 +2203,6 @@ LRA-00063-1 evses -> 0: status : CHARGING
 
 2022-12-16 05:14:00
 LRA-00063-1 evses -> 0: status : CHARGING
+
+2022-12-16 05:36:17
+LRA-00063-1 evses -> 0: status : CHARGING
