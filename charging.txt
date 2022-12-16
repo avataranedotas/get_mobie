@@ -2197,3 +2197,6 @@ MAI-00019-01 evses -> 1: status : CHARGING
 
 2022-12-16 03:16:23
 LRA-00063-1 evses -> 0: status : CHARGING
+
+2022-12-16 04:39:12
+LRA-00063-1 evses -> 0: status : CHARGING
