@@ -2438,3 +2438,10 @@ OER-00132-02 evses -> 0: status : CHARGING
 AMD-00051-1 evses -> 0: status : CHARGING
 LSB-00433-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
+
+2022-12-16 21:13:05
+AMD-00051-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OER-00132-01 evses -> 1: status : CHARGING
