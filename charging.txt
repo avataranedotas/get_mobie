@@ -2395,3 +2395,10 @@ MAI-00020-02 evses -> 2: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 OER-00132-02 evses -> 0: status : CHARGING
 SNT-00091-02 evses -> 1: status : CHARGING
+
+2022-12-16 18:18:26
+AMD-00051-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+OER-00132-02 evses -> 0: status : CHARGING
+OER-00132-01 evses -> 1: status : CHARGING
