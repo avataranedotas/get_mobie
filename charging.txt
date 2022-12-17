@@ -2604,3 +2604,17 @@ MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 OER-00132-01 evses -> 1: status : CHARGING
 VCT-00027-02 evses -> 2: status : CHARGING
+
+2022-12-17 12:26:15
+CSC-00068-02 evses -> 1: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CVL-00011-02 evses -> 3: status : CHARGING
+LRA-00064-1 evses -> 0: status : CHARGING
+LRA-00069-1 evses -> 0: status : CHARGING
+MAI-00020-03 evses -> 0: status : CHARGING
+MAI-00029-02 evses -> 2: status : CHARGING
+MAI-00029-01 evses -> 3: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OER-00132-01 evses -> 1: status : CHARGING
