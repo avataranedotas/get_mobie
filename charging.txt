@@ -2487,3 +2487,9 @@ PNF-00016-02 evses -> 1: status : CHARGING
 AMD-00051-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
+
+2022-12-17 02:21:38
+AMD-00051-1 evses -> 0: status : CHARGING
+LRA-00064-1 evses -> 0: status : CHARGING
+LRA-00070-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
