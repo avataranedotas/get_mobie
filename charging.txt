@@ -2555,3 +2555,11 @@ CBR-00070-01 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 OER-00132-02 evses -> 0: status : CHARGING
+
+2022-12-17 10:14:35
+AMD-00051-1 evses -> 0: status : CHARGING
+CBR-00070-01 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-03 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OBD-00010-01 evses -> 1: status : CHARGING
