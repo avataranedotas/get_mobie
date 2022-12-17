@@ -2482,3 +2482,8 @@ LSB-00431-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00020-01 evses -> 1: status : CHARGING
 PNF-00016-02 evses -> 1: status : CHARGING
+
+2022-12-17 01:12:48
+AMD-00051-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
+MAI-00020-01 evses -> 1: status : CHARGING
