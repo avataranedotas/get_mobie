@@ -2522,3 +2522,7 @@ LSB-00432-1 evses -> 0: status : CHARGING
 2022-12-17 06:18:00
 AMD-00051-1 evses -> 0: status : CHARGING
 LSB-00432-1 evses -> 0: status : CHARGING
+
+2022-12-17 06:37:56
+AMD-00051-1 evses -> 0: status : CHARGING
+LSB-00432-1 evses -> 0: status : CHARGING
