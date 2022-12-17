@@ -2500,3 +2500,6 @@ MAI-00020-01 evses -> 1: status : CHARGING
 
 2022-12-17 03:15:44
 AMD-00051-1 evses -> 0: status : CHARGING
+
+2022-12-17 03:36:19
+AMD-00051-1 evses -> 0: status : CHARGING
