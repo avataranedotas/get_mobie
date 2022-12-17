@@ -2563,3 +2563,10 @@ LSB-00432-1 evses -> 0: status : CHARGING
 MAI-00020-03 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 OBD-00010-01 evses -> 1: status : CHARGING
+
+2022-12-17 10:35:59
+AMD-00051-1 evses -> 0: status : CHARGING
+CBR-00070-01 evses -> 0: status : CHARGING
+CSC-00068-01 evses -> 2: status : CHARGING
+OBD-00010-01 evses -> 1: status : CHARGING
+VCT-00027-02 evses -> 2: status : CHARGING
