@@ -2692,3 +2692,7 @@ OER-00132-01 evses -> 1: status : CHARGING
 2022-12-17 16:29:15
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-17 16:42:20
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
