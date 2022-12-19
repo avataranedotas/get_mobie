@@ -2814,3 +2814,6 @@ VFR-00016-02 evses -> 1: status : CHARGING
 GMR-00041-02 evses -> 2: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-19 13:25:14
+MTS-00054-02 evses -> 0: status : CHARGING
