@@ -1294,3 +1294,23 @@ Adicionados:['VFR-00018']
 
 VFR-00018-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00018', 'publish': True, 'address': 'Praça de São Jorge, Caldas de São Jorge', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4505-679', 'coordinates': {'latitude': '40.96833', 'longitude': '-8.500821'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00018-01', 'evse_id': 'PT*GLP*E*VFR*00018*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:11:59.6Z'}], 'last_updated': '2022-12-19T10:09:54.602Z'}, {'uid': 'VFR-00018-02', 'evse_id': 'PT*GLP*E*VFR*00018*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VFR-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:11:59.601Z'}], 'last_updated': '2022-12-19T10:09:54.602Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-19T10:09:54.568Z'}
 Removidos:[]
+
+2022-12-19 12:29:45
+Adicionados:['PLM-00015', 'VFR-00016']
+
+PLM-00015-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PLM-00015', 'publish': True, 'address': 'Vila Amélia, Lugar Quinta da Torre', 'city': 'Palmela', 'country': 'PRT', 'postal_code': '2950-037', 'coordinates': {'latitude': '38.575556', 'longitude': '-9.023333'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PLM-00015-02', 'evse_id': 'PT*KLC*E*PLM*00015*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PLM-00015-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T16:59:35.319Z'}], 'last_updated': '2022-12-19T12:11:36.924Z'}, {'uid': 'PLM-00015-01', 'evse_id': 'PT*KLC*E*PLM*00015*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PLM-00015-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T16:59:35.318Z'}], 'last_updated': '2022-12-19T12:11:36.022Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-19T12:11:36.924Z'}
+
+VFR-00016-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VFR-00016', 'publish': True, 'address': 'R. São Paulo da Cruz 9220', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4520-249', 'coordinates': {'latitude': '40.9261399', 'longitude': '-8.5597844'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VFR-00016-01', 'evse_id': 'PT*EDP*E*VFR*00016*01', 'status': 'CHARGING', 'connectors': [{'id': 'VFR-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2022-11-02T17:11:10.895Z'}], 'last_updated': '2022-12-19T12:17:00.831Z'}, {'uid': 'VFR-00016-02', 'evse_id': 'PT*EDP*E*VFR*00016*02', 'status': 'CHARGING', 'connectors': [{'id': 'VFR-00016-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-02T17:11:10.896Z'}], 'last_updated': '2022-12-19T12:15:22.646Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-19T12:17:00.831Z'}
+Removidos:[]
+PNF-00016
+coordinates: 
+ NEW latitude : 41.2111845
+ OLD latitude : 41.2116023
+PNF-00016
+coordinates: 
+ NEW longitude : -8.2708463
+ OLD longitude : -8.2736629
+PNF-00016
+: 
+ NEW coordinates : {'latitude': '41.2111845', 'longitude': '-8.2708463'}
+ OLD coordinates : {'latitude': '41.2116023', 'longitude': '-8.2736629'}
