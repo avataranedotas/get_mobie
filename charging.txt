@@ -2858,3 +2858,12 @@ PLM-00015-01 evses -> 1: status : CHARGING
 2022-12-19 17:36:19
 MTS-00054-02 evses -> 0: status : CHARGING
 PLM-00015-01 evses -> 1: status : CHARGING
+
+2022-12-19 18:19:17
+MGR-00007-02 evses -> 2: status : CHARGING
+MGR-00007-02 evses -> 2: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+PBL-00012-01 evses -> 0: status : CHARGING
+PLM-00015-01 evses -> 1: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
