@@ -3169,3 +3169,12 @@ GMR-00041-03 evses -> 1: status : CHARGING
 LSB-00519-01 evses -> 0: status : CHARGING
 LSB-00522-1 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-20 18:18:29
+CVL-00011-02 evses -> 3: status : CHARGING
+GMR-00041-03 evses -> 1: status : CHARGING
+LRS-00084-01 evses -> 1: status : CHARGING
+LRS-00086-02 evses -> 1: status : CHARGING
+LSB-00519-01 evses -> 0: status : CHARGING
+LSB-00522-1 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
