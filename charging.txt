@@ -3060,3 +3060,12 @@ LSB-00519-01 evses -> 0: status : CHARGING
 LSB-00519-02 evses -> 1: status : CHARGING
 MGR-00007-02 evses -> 2: status : CHARGING
 MGR-00007-02 evses -> 2: status : CHARGING
+
+2022-12-20 11:12:39
+CVL-00011-02 evses -> 3: status : CHARGING
+LSB-00519-01 evses -> 0: status : CHARGING
+LSB-00519-02 evses -> 1: status : CHARGING
+LSB-00522-1 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+PBL-00012-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
