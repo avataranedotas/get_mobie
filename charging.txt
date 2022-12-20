@@ -3039,3 +3039,10 @@ MGR-00007-02 evses -> 2: status : CHARGING
 MGR-00007-02 evses -> 2: status : CHARGING
 PLM-00015-02 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-20 09:36:38
+GMR-00041-02 evses -> 2: status : CHARGING
+LRS-00079-01 evses -> 1: status : CHARGING
+LSB-00522-1 evses -> 0: status : CHARGING
+MGR-00007-02 evses -> 2: status : CHARGING
+MGR-00007-02 evses -> 2: status : CHARGING
