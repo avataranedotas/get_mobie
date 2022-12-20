@@ -3126,3 +3126,11 @@ LSB-00522-1 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 OBD-00014-1 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-20 15:17:30
+GMR-00041-03 evses -> 1: status : CHARGING
+LSB-00522-1 evses -> 0: status : CHARGING
+LSB-00551-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
