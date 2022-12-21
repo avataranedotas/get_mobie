@@ -3321,3 +3321,7 @@ SNT-00090-02 evses -> 0: status : CHARGING
 2022-12-21 07:36:22
 GMR-00041-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-21 08:19:52
+GMR-00041-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
