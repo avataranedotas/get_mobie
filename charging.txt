@@ -3464,3 +3464,12 @@ LSB-00522-1 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 PLM-00015-02 evses -> 0: status : CHARGING
 VNG-00071-01 evses -> 0: status : CHARGING
+
+2022-12-21 15:38:49
+CSC-00117-03 evses -> 1: status : CHARGING
+CSC-00117-03 evses -> 1: status : CHARGING
+GMR-00041-01 evses -> 0: status : CHARGING
+LSB-00522-1 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
+VNG-00071-01 evses -> 0: status : CHARGING
