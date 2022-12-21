@@ -3347,3 +3347,11 @@ MGR-00007-02 evses -> 2: status : CHARGING
 MGR-00007-02 evses -> 2: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-21 10:17:12
+CSC-00117-02 evses -> 0: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CVL-00011-02 evses -> 3: status : CHARGING
+GMR-00041-01 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
