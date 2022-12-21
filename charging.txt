@@ -3329,3 +3329,11 @@ SNT-00090-02 evses -> 0: status : CHARGING
 2022-12-21 08:39:29
 GMR-00041-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-21 09:14:57
+AMD-00058-02 evses -> 0: status : CHARGING
+AMD-00058-01 evses -> 1: status : CHARGING
+GMR-00041-01 evses -> 0: status : CHARGING
+MGR-00007-02 evses -> 2: status : CHARGING
+MGR-00007-02 evses -> 2: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
