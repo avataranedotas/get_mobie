@@ -3743,3 +3743,13 @@ CSC-00117-03 evses -> 1: status : CHARGING
 SNT-00087-1 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
 SNT-00092-1 evses -> 0: status : CHARGING
+
+2022-12-22 11:12:47
+BRR-00024-01 evses -> 0: status : CHARGING
+CSC-00117-03 evses -> 1: status : CHARGING
+CSC-00117-03 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
+SNT-00092-1 evses -> 0: status : CHARGING
