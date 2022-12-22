@@ -3785,3 +3785,11 @@ GMR-00041-02 evses -> 2: status : CHARGING
 PVZ-00020-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
 SNT-00092-1 evses -> 0: status : CHARGING
+
+2022-12-22 13:25:43
+AMD-00052-1 evses -> 0: status : CHARGING
+BRR-00024-01 evses -> 0: status : CHARGING
+CSC-00115-01 evses -> 1: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
