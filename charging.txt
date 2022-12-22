@@ -3896,3 +3896,9 @@ BRR-00024-01 evses -> 0: status : CHARGING
 CSC-00117-02 evses -> 0: status : CHARGING
 CSC-00117-02 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-22 20:16:02
+AMD-00060-01 evses -> 1: status : CHARGING
+AMD-00061-01 evses -> 0: status : CHARGING
+BRR-00024-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
