@@ -3845,3 +3845,13 @@ CSC-00117-02 evses -> 0: status : CHARGING
 CSC-00117-02 evses -> 0: status : CHARGING
 GMR-00041-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-22 16:45:42
+AMD-00067-02 evses -> 0: status : CHARGING
+CSC-00115-01 evses -> 1: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CSC-00117-02 evses -> 0: status : CHARGING
+CVL-00011-02 evses -> 3: status : CHARGING
+GMR-00041-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
+VNG-00071-02 evses -> 2: status : CHARGING
