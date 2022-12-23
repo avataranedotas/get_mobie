@@ -4084,3 +4084,26 @@ LSB-00557-1 evses -> 0: status : CHARGING
 OER-00041-02 evses -> 0: status : CHARGING
 OER-00041-02 evses -> 0: status : CHARGING
 SNT-00087-1 evses -> 0: status : CHARGING
+
+2022-12-23 14:13:30
+AMD-00062-02 evses -> 1: status : CHARGING
+AMD-00063-01 evses -> 1: status : CHARGING
+AMT-00009-01 evses -> 0: status : CHARGING
+BRR-00024-01 evses -> 0: status : CHARGING
+CVL-00011-01 evses -> 1: status : CHARGING
+GMR-00041-02 evses -> 2: status : CHARGING
+LSB-00549-01 evses -> 0: status : CHARGING
+LSB-00549-02 evses -> 1: status : CHARGING
+LSB-00554-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+MGR-00007-01 evses -> 1: status : CHARGING
+MGR-00007-01 evses -> 1: status : CHARGING
+OER-00041-02 evses -> 0: status : CHARGING
+OER-00041-02 evses -> 0: status : CHARGING
+OER-00041-03 evses -> 1: status : CHARGING
+OER-00041-03 evses -> 1: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+VNG-00096-1 evses -> 0: status : CHARGING
+VNG-00098-1 evses -> 0: status : CHARGING
+VNG-00099-1 evses -> 0: status : CHARGING

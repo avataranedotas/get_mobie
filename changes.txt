@@ -1588,3 +1588,9 @@ Adicionados:['PRT-00157']
 
 PRT-00157-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PRT-00157', 'publish': True, 'address': 'Estr. da Circunvalação 12 843', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4100-178', 'coordinates': {'latitude': '41.1780567', 'longitude': '-8.6575029'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'PRT-00157-01', 'evse_id': 'PT*KLC*E*PRT*00157*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00157-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 100, 'max_electric_power': 30000, 'last_updated': '2022-09-16T11:22:17.522Z'}], 'last_updated': '2022-12-23T10:37:20.648Z'}, {'uid': 'PRT-00157-02', 'evse_id': 'PT*KLC*E*PRT*00157*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00157-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 100, 'max_electric_power': 30000, 'last_updated': '2022-09-16T11:22:17.524Z'}], 'last_updated': '2022-12-23T10:37:20.648Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-23T10:37:20.582Z'}
 Removidos:[]
+
+2022-12-23 14:13:27
+STS-90001
+: 
+ NEW party_id : HRZ
+ OLD party_id : MOB
