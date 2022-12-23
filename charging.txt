@@ -4328,3 +4328,8 @@ LLE-00102-01 evses -> 1: status : CHARGING
 LSB-00556-1 evses -> 0: status : CHARGING
 LSB-00557-1 evses -> 0: status : CHARGING
 LSB-00558-1 evses -> 0: status : CHARGING
+
+2022-12-23 22:14:03
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+LSB-00558-1 evses -> 0: status : CHARGING
