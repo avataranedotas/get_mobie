@@ -4305,3 +4305,10 @@ LLE-00102-01 evses -> 1: status : CHARGING
 LSB-00556-1 evses -> 0: status : CHARGING
 PTL-00012-01 evses -> 0: status : CHARGING
 VNG-00095-1 evses -> 0: status : CHARGING
+
+2022-12-23 20:36:21
+AMD-00062-01 evses -> 0: status : CHARGING
+AMD-00062-02 evses -> 1: status : CHARGING
+LLE-00102-01 evses -> 1: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+VNG-00098-1 evses -> 0: status : CHARGING
