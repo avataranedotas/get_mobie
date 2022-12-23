@@ -3989,3 +3989,8 @@ SNT-00090-02 evses -> 0: status : CHARGING
 BRR-00024-01 evses -> 0: status : CHARGING
 PBL-00012-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-23 08:38:45
+BRR-00024-01 evses -> 0: status : CHARGING
+PBL-00012-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
