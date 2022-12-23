@@ -4036,3 +4036,12 @@ OER-00041-02 evses -> 0: status : CHARGING
 OER-00041-02 evses -> 0: status : CHARGING
 OER-00041-03 evses -> 1: status : CHARGING
 OER-00041-03 evses -> 1: status : CHARGING
+
+2022-12-23 12:56:10
+AMD-00062-01 evses -> 0: status : CHARGING
+AMD-00062-02 evses -> 1: status : CHARGING
+BRR-00020-02 evses -> 1: status : CHARGING
+BRR-00024-01 evses -> 0: status : CHARGING
+OER-00041-01 evses -> 2: status : CHARGING
+OER-00041-01 evses -> 2: status : CHARGING
+PBL-00012-01 evses -> 0: status : CHARGING
