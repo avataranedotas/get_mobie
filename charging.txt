@@ -3960,3 +3960,7 @@ SNT-00090-02 evses -> 0: status : CHARGING
 2022-12-23 04:39:37
 BRR-00024-01 evses -> 0: status : CHARGING
 SNT-00090-02 evses -> 0: status : CHARGING
+
+2022-12-23 05:13:54
+BRR-00024-01 evses -> 0: status : CHARGING
+SNT-00090-02 evses -> 0: status : CHARGING
