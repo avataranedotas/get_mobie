@@ -1594,3 +1594,9 @@ STS-90001
 : 
  NEW party_id : HRZ
  OLD party_id : MOB
+
+2022-12-23 14:36:26
+Adicionados:['PRT-00171']
+
+PRT-00171-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'PRT-00171', 'publish': True, 'address': 'RUA DO GÓLGOTA', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4150-755', 'coordinates': {'latitude': '41.151309', 'longitude': '-8.634359'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00171-02', 'evse_id': 'PT*GLG*E*PRT*00171*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PRT-00171-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-12-14T18:37:48.232Z'}], 'last_updated': '2022-12-23T14:32:56.145Z'}, {'uid': 'PRT-00171-01', 'evse_id': 'PT*GLG*E*PRT*00171*01', 'status': 'CHARGING', 'connectors': [{'id': 'PRT-00171-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2022-12-14T18:37:48.231Z'}], 'last_updated': '2022-12-23T14:32:55.191Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-12-23T14:32:56.145Z'}
+Removidos:[]
