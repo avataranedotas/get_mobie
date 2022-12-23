@@ -4205,3 +4205,18 @@ LSB-00557-1 evses -> 0: status : CHARGING
 OER-00041-03 evses -> 1: status : CHARGING
 OER-00041-03 evses -> 1: status : CHARGING
 VNG-00098-1 evses -> 0: status : CHARGING
+
+2022-12-23 16:44:05
+AMT-00009-02 evses -> 1: status : CHARGING
+BRR-00020-02 evses -> 1: status : CHARGING
+BRR-00024-01 evses -> 0: status : CHARGING
+CVL-00011-02 evses -> 3: status : CHARGING
+LSB-00549-01 evses -> 0: status : CHARGING
+LSB-00549-02 evses -> 1: status : CHARGING
+LSB-00554-1 evses -> 0: status : CHARGING
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+OER-00041-03 evses -> 1: status : CHARGING
+OER-00041-03 evses -> 1: status : CHARGING
+VNG-00098-1 evses -> 0: status : CHARGING
