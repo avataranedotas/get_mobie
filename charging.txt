@@ -4347,3 +4347,6 @@ VNG-00098-1 evses -> 0: status : CHARGING
 ACB-00005-01 evses -> 1: status : CHARGING
 LSB-00556-1 evses -> 0: status : CHARGING
 PTL-00012-01 evses -> 0: status : CHARGING
+
+2022-12-24 01:08:52
+ACB-00005-01 evses -> 1: status : CHARGING
