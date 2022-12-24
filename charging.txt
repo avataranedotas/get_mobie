@@ -4398,3 +4398,10 @@ LSB-00558-1 evses -> 0: status : CHARGING
 VNG-00097-1 evses -> 0: status : CHARGING
 VNG-00098-1 evses -> 0: status : CHARGING
 VNG-00100-02 evses -> 1: status : CHARGING
+
+2022-12-24 13:17:35
+LSB-00554-1 evses -> 0: status : CHARGING
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+VNG-00098-1 evses -> 0: status : CHARGING
