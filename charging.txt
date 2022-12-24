@@ -4368,3 +4368,13 @@ SNT-00086-1 evses -> 0: status : CHARGING
 VNG-00095-1 evses -> 0: status : CHARGING
 VNG-00097-1 evses -> 0: status : CHARGING
 VNG-00099-1 evses -> 0: status : CHARGING
+
+2022-12-24 11:35:59
+LSB-00554-1 evses -> 0: status : CHARGING
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+PTL-00012-01 evses -> 0: status : CHARGING
+VNG-00095-1 evses -> 0: status : CHARGING
+VNG-00097-1 evses -> 0: status : CHARGING
+VNG-00099-1 evses -> 0: status : CHARGING
