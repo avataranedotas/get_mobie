@@ -4359,3 +4359,12 @@ AMD-00062-01 evses -> 0: status : CHARGING
 LSB-00557-1 evses -> 0: status : CHARGING
 SNT-00086-1 evses -> 0: status : CHARGING
 VNG-00097-1 evses -> 0: status : CHARGING
+
+2022-12-24 11:11:41
+AMD-00062-01 evses -> 0: status : CHARGING
+LSB-00554-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+SNT-00086-1 evses -> 0: status : CHARGING
+VNG-00095-1 evses -> 0: status : CHARGING
+VNG-00097-1 evses -> 0: status : CHARGING
+VNG-00099-1 evses -> 0: status : CHARGING
