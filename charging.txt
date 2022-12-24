@@ -4350,3 +4350,6 @@ PTL-00012-01 evses -> 0: status : CHARGING
 
 2022-12-24 01:08:52
 ACB-00005-01 evses -> 1: status : CHARGING
+
+2022-12-24 10:14:53
+SNT-00086-1 evses -> 0: status : CHARGING
