@@ -4438,3 +4438,7 @@ VNG-00099-1 evses -> 0: status : CHARGING
 LSB-00554-1 evses -> 0: status : CHARGING
 LSB-00555-1 evses -> 0: status : CHARGING
 OBD-00017-1 evses -> 0: status : CHARGING
+
+2022-12-24 16:43:07
+LSB-00555-1 evses -> 0: status : CHARGING
+OBD-00017-1 evses -> 0: status : CHARGING
