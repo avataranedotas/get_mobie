@@ -4481,3 +4481,6 @@ OBD-00017-1 evses -> 0: status : CHARGING
 
 2022-12-24 23:14:24
 OBD-00017-1 evses -> 0: status : CHARGING
+
+2022-12-25 13:36:05
+OBD-00011-1 evses -> 0: status : CHARGING
