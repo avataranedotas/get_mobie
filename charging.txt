@@ -4491,3 +4491,6 @@ OBD-00011-1 evses -> 0: status : CHARGING
 
 2022-12-25 14:36:10
 CBR-00057-02 evses -> 0: status : CHARGING
+
+2022-12-25 15:14:23
+CBR-00057-02 evses -> 0: status : CHARGING
