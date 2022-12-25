@@ -1644,3 +1644,29 @@ MAI-00025
 evses -> 7 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 50000
+
+2022-12-25 22:13:44
+MTS-00051
+evses -> 4 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MTS-00051
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MTS-00051
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
+MTS-00051
+evses -> 6 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MTS-00051
+evses -> 6 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MTS-00051
+evses -> 6 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
