@@ -1606,3 +1606,41 @@ Adicionados:['VLG-00020']
 
 VLG-00020-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VLG-00020', 'publish': True, 'address': 'Rua 1.º de Maio – São Vicente de Alfena', 'city': 'Valongo', 'country': 'PRT', 'postal_code': '4445-242', 'coordinates': {'latitude': '41.2400001', 'longitude': '-8.529028'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VLG-00020-01', 'evse_id': 'PT*KLC*E*VLG*00020*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-02T09:23:20.109Z'}], 'last_updated': '2022-12-23T15:16:36.646Z'}, {'uid': 'VLG-00020-03', 'evse_id': 'PT*KLC*E*VLG*00020*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00020-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-12-02T09:23:20.113Z'}], 'last_updated': '2022-12-23T15:16:38.975Z'}, {'uid': 'VLG-00020-02', 'evse_id': 'PT*KLC*E*VLG*00020*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VLG-00020-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-12-02T09:23:20.111Z'}], 'last_updated': '2022-12-23T15:16:37.648Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-23T15:16:38.975Z'}
 Removidos:[]
+
+2022-12-25 21:36:09
+BRG-00075
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BRG-00075
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+BRG-00075
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
