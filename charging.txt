@@ -4504,3 +4504,6 @@ VNC-00005-02 evses -> 0: status : CHARGING
 
 2022-12-25 18:17:27
 LRA-00033-1 evses -> 0: status : CHARGING
+
+2022-12-26 09:36:19
+VNG-00096-1 evses -> 0: status : CHARGING
