@@ -1726,3 +1726,21 @@ LLE-00129-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00129', 'publis
 
 LLE-00130-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00130', 'publish': True, 'address': 'R. da Torre dÁgua 4.11 1.B', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-615', 'coordinates': {'latitude': '37.0932093', 'longitude': '-8.1116401'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LLE-00130-1', 'evse_id': 'PT*GLP*E*LLE*00130*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00130-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-12-22T11:29:45.728Z'}], 'last_updated': '2022-12-26T16:05:45.239Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-26T16:05:45.239Z'}
 Removidos:[]
+
+2022-12-26 20:15:19
+LSB-00519
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+LSB-00522
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+PRD-00011
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+PRD-00012
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
