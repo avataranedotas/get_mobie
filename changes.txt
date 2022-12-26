@@ -1696,3 +1696,9 @@ SCR-00007
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2022-12-26 12:28:09
+LSB-00515
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
