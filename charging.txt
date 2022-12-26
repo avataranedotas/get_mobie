@@ -4668,3 +4668,15 @@ MTS-00054-01 evses -> 1: status : CHARGING
 VNG-00095-1 evses -> 0: status : CHARGING
 VNG-00096-1 evses -> 0: status : CHARGING
 VNG-00099-1 evses -> 0: status : CHARGING
+
+2022-12-26 17:36:12
+ACB-00005-02 evses -> 0: status : CHARGING
+AMD-00062-02 evses -> 1: status : CHARGING
+LLE-00102-01 evses -> 1: status : CHARGING
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+LSB-00557-1 evses -> 0: status : CHARGING
+LSB-00558-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+VNG-00099-1 evses -> 0: status : CHARGING
