@@ -4773,3 +4773,7 @@ AMD-00062-01 evses -> 0: status : CHARGING
 AMD-00062-02 evses -> 1: status : CHARGING
 LSB-00555-1 evses -> 0: status : CHARGING
 OBD-00011-1 evses -> 0: status : CHARGING
+
+2022-12-26 22:36:09
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00558-1 evses -> 0: status : CHARGING
