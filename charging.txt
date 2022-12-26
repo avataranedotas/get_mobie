@@ -4750,3 +4750,13 @@ MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 OBD-00011-1 evses -> 0: status : CHARGING
 VNC-00005-01 evses -> 1: status : CHARGING
+
+2022-12-26 21:12:43
+AMD-00062-01 evses -> 0: status : CHARGING
+LSB-00555-1 evses -> 0: status : CHARGING
+LSB-00556-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OBD-00011-1 evses -> 0: status : CHARGING
+VNC-00005-01 evses -> 1: status : CHARGING
+VNG-00100-02 evses -> 1: status : CHARGING
