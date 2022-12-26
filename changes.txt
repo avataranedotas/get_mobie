@@ -1702,3 +1702,13 @@ LSB-00515
 : 
  NEW mobie_voltage_level : BTE
  OLD mobie_voltage_level : BTN
+
+2022-12-26 15:36:03
+Adicionados:['LGS-00015', 'LGS-00016', 'LGS-00017']
+
+LGS-00015-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LGS-00015', 'publish': True, 'address': 'R. das Ilhas, 8600-513 Lagos', 'city': 'Lagos', 'country': 'PRT', 'postal_code': '8600-513', 'coordinates': {'latitude': '37.0862971', 'longitude': '-8.678719'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LGS-00015-1', 'evse_id': 'PT*GLP*E*LGS*00015*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGS-00015-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-12-20T16:26:07.561Z'}], 'last_updated': '2022-12-26T15:29:21.491Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-26T15:29:21.491Z'}
+
+LGS-00016-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LGS-00016', 'publish': True, 'address': 'R. das Ilhas, 8600-513 Lagos', 'city': 'Lagos', 'country': 'PRT', 'postal_code': '8600-513', 'coordinates': {'latitude': '37.0862971', 'longitude': '-8.678719'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LGS-00016-1', 'evse_id': 'PT*GLP*E*LGS*00016*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGS-00016-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-12-20T16:26:33.315Z'}], 'last_updated': '2022-12-26T15:26:41.796Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-26T15:26:41.796Z'}
+
+LGS-00017-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LGS-00017', 'publish': True, 'address': 'R. das Ilhas, 8600-513 Lagos', 'city': 'Lagos', 'country': 'PRT', 'postal_code': '8600-513', 'coordinates': {'latitude': '37.0862971', 'longitude': '-8.678719'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LGS-00017-1', 'evse_id': 'PT*GLP*E*LGS*00017*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGS-00017-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-12-20T16:26:55.048Z'}], 'last_updated': '2022-12-26T15:27:42.938Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-26T15:27:42.938Z'}
+Removidos:[]
