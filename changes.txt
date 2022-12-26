@@ -1670,3 +1670,29 @@ MTS-00051
 evses -> 6 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 50000
+
+2022-12-26 11:12:10
+CLT-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+MCH-00002
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PMZ-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00006
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+SCR-00007
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
