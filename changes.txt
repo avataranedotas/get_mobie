@@ -1744,3 +1744,9 @@ PRD-00012
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTN
+
+2022-12-27 09:14:27
+Adicionados:['ABF-00041']
+
+ABF-00041-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'ABF-00041', 'publish': True, 'address': 'R. da Correeira', 'city': 'Albufeira', 'country': 'PRT', 'postal_code': '8200-112', 'coordinates': {'latitude': '37.103328', 'longitude': '-8.233533'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABF-00041-01', 'evse_id': 'PT*GLP*E*ABF*00041*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABF-00041-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-31T15:48:33.674Z'}], 'last_updated': '2022-10-31T15:48:33.674Z'}, {'uid': 'ABF-00041-02', 'evse_id': 'PT*GLP*E*ABF*00041*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABF-00041-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-31T15:48:33.675Z'}], 'last_updated': '2022-10-31T15:48:33.675Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-31T15:48:33.673Z'}
+Removidos:[]
