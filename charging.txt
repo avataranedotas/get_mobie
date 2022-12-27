@@ -4789,3 +4789,8 @@ AMD-00052-1 evses -> 0: status : CHARGING
 AMD-00071-01 evses -> 0: status : CHARGING
 AMD-00071-02 evses -> 1: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-27 12:55:53
+AMD-00052-1 evses -> 0: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
