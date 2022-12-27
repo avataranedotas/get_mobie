@@ -1750,3 +1750,17 @@ Adicionados:['ABF-00041']
 
 ABF-00041-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'ABF-00041', 'publish': True, 'address': 'R. da Correeira', 'city': 'Albufeira', 'country': 'PRT', 'postal_code': '8200-112', 'coordinates': {'latitude': '37.103328', 'longitude': '-8.233533'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABF-00041-01', 'evse_id': 'PT*GLP*E*ABF*00041*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABF-00041-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-31T15:48:33.674Z'}], 'last_updated': '2022-10-31T15:48:33.674Z'}, {'uid': 'ABF-00041-02', 'evse_id': 'PT*GLP*E*ABF*00041*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABF-00041-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-10-31T15:48:33.675Z'}], 'last_updated': '2022-10-31T15:48:33.675Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2022-10-31T15:48:33.673Z'}
 Removidos:[]
+
+2022-12-27 10:36:59
+Adicionados:['CSC-00121']
+
+CSC-00121-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'CSC-00121', 'publish': True, 'address': 'Rua Miguel Bombarda 344, 2775-247 Parede', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2775-247', 'coordinates': {'latitude': '38.6891492', 'longitude': '-9.3542997'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00121-01', 'evse_id': 'PT*GLP*E*CSC*00121*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00121-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-06T09:46:15.693Z'}], 'last_updated': '2022-12-27T10:22:16.961Z'}, {'uid': 'CSC-00121-02', 'evse_id': 'PT*GLP*E*CSC*00121*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00121-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-06T09:46:15.694Z'}], 'last_updated': '2022-12-27T10:22:17.499Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-27T10:22:17.499Z'}
+Removidos:[]
+GRD-00014
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+GRD-00014
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
