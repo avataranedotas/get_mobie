@@ -4973,3 +4973,10 @@ OBD-00012-1 evses -> 0: status : CHARGING
 LLE-00105-01 evses -> 1: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 OBD-00012-1 evses -> 0: status : CHARGING
+
+2022-12-28 14:36:24
+AMD-00052-1 evses -> 0: status : CHARGING
+LLE-00105-01 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
