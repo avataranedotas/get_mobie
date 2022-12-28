@@ -4909,3 +4909,7 @@ OBD-00012-1 evses -> 0: status : CHARGING
 2022-12-28 03:36:57
 LRS-00064-02 evses -> 1: status : CHARGING
 OBD-00012-1 evses -> 0: status : CHARGING
+
+2022-12-28 04:18:21
+LRS-00064-02 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
