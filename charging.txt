@@ -4961,3 +4961,10 @@ MTS-00054-01 evses -> 1: status : CHARGING
 2022-12-28 13:19:51
 LLE-00105-01 evses -> 1: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-28 13:36:20
+LLE-00103-01 evses -> 1: status : CHARGING
+LLE-00105-01 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
