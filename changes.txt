@@ -1824,3 +1824,17 @@ PRT-00052
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2022-12-28 11:36:04
+Adicionados:['VFR-00029']
+
+VFR-00029-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VFR-00029', 'publish': True, 'address': 'Avenida Dr. Domingos Caetano de Sousa', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4520-212', 'coordinates': {'latitude': '40.92443', 'longitude': '-8.552087'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VFR-00029-02', 'evse_id': 'PT*GLP*E*VFR*00029*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00029-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:18:19.581Z'}], 'last_updated': '2022-12-28T11:21:44.238Z'}, {'uid': 'VFR-00029-01', 'evse_id': 'PT*GLP*E*VFR*00029*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VFR-00029-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-02T17:18:19.58Z'}], 'last_updated': '2022-12-28T11:21:00.737Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-28T11:21:44.238Z'}
+Removidos:[]
+VCT-90006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+VCT-90006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
