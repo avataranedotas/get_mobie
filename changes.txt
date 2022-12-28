@@ -1774,3 +1774,53 @@ LGS-00013-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LGS-00013', 'publis
 
 LGS-00014-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LGS-00014', 'publish': True, 'address': 'R. das Ilhas, 8600-513 Lagos', 'city': 'Lagos', 'country': 'PRT', 'postal_code': '8600-513', 'coordinates': {'latitude': '37.0862971', 'longitude': '-8.678719'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LGS-00014-01', 'evse_id': 'PT*GLP*E*LGS*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGS-00014-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-20T16:25:46.1Z'}], 'last_updated': '2022-12-27T10:57:33.929Z'}, {'uid': 'LGS-00014-02', 'evse_id': 'PT*GLP*E*LGS*00014*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGS-00014-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-20T16:25:46.103Z'}], 'last_updated': '2022-12-27T10:58:17.952Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2022-12-27T10:58:17.952Z'}
 Removidos:[]
+
+2022-12-28 11:12:17
+LSB-90500
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+LSB-90500
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+LSB-90500
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+LSB-90500
+evses -> 3 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+LSB-90500
+evses -> 4 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+LSB-90500
+evses -> 5 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+OVR-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OVR-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OVR-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00052
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00052
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00052
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
