@@ -4889,3 +4889,7 @@ LRS-00064-02 evses -> 1: status : CHARGING
 
 2022-12-27 23:36:38
 LRS-00064-02 evses -> 1: status : CHARGING
+
+2022-12-28 01:14:00
+LRS-00064-02 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
