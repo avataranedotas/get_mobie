@@ -5136,3 +5136,10 @@ LRS-00064-02 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 SXL-00034-02 evses -> 1: status : CHARGING
+
+2022-12-29 11:36:15
+LLE-00099-02 evses -> 1: status : CHARGING
+LLE-00106-02 evses -> 0: status : CHARGING
+LRS-00064-02 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
