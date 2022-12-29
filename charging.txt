@@ -5217,3 +5217,8 @@ LLE-00103-01 evses -> 1: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
+
+2022-12-29 18:38:55
+CSC-00117-03 evses -> 1: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
+SXL-00034-02 evses -> 1: status : CHARGING
