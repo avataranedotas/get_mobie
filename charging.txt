@@ -5181,3 +5181,8 @@ BRG-00069-07 evses -> 2: status : CHARGING
 LLE-00104-01 evses -> 0: status : CHARGING
 MTS-00054-02 evses -> 0: status : CHARGING
 MTS-00054-01 evses -> 1: status : CHARGING
+
+2022-12-29 15:36:18
+BRG-00069-08 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
