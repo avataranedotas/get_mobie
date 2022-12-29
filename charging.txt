@@ -5086,3 +5086,6 @@ LRS-00064-02 evses -> 1: status : CHARGING
 
 2022-12-29 04:18:59
 LRS-00064-02 evses -> 1: status : CHARGING
+
+2022-12-29 04:39:42
+LRS-00064-02 evses -> 1: status : CHARGING
