@@ -5405,3 +5405,11 @@ MTS-00054-01 evses -> 1: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
 SXL-00033-01 evses -> 0: status : CHARGING
 SXL-00033-02 evses -> 1: status : CHARGING
+
+2022-12-30 13:19:04
+LLE-00105-01 evses -> 1: status : CHARGING
+LRS-00064-02 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
+VLG-00020-01 evses -> 0: status : CHARGING
