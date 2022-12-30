@@ -5285,3 +5285,8 @@ SXL-00033-02 evses -> 1: status : CHARGING
 LLE-00105-01 evses -> 1: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
 SXL-00033-02 evses -> 1: status : CHARGING
+
+2022-12-30 02:51:55
+LLE-00105-01 evses -> 1: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
+SXL-00033-02 evses -> 1: status : CHARGING
