@@ -1916,3 +1916,13 @@ Adicionados:['ALM-90023']
 
 ALM-90023-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ALM-90023', 'publish': True, 'address': 'Avenida Antonio Jose Gomes', 'city': 'Almada', 'country': 'PRT', 'postal_code': '2805-086', 'coordinates': {'latitude': '38.67221', 'longitude': '-9.15604'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'ALM-90023-01', 'evse_id': 'PT*EDP*E*ALM*90023*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALM-90023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-12-29T18:55:24.629Z'}], 'last_updated': '2022-12-29T18:55:24.629Z'}, {'uid': 'ALM-90023-02', 'evse_id': 'PT*EDP*E*ALM*90023*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALM-90023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-12-29T18:55:24.631Z'}], 'last_updated': '2022-12-29T18:55:24.631Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2022-12-29T18:55:24.628Z'}
 Removidos:[]
+
+2022-12-30 10:36:43
+ALM-00023
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+ALM-00023
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
