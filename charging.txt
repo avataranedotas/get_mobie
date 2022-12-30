@@ -5444,3 +5444,12 @@ SNT-00088-1 evses -> 0: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
 SXL-00033-02 evses -> 1: status : CHARGING
 VLG-00020-01 evses -> 0: status : CHARGING
+
+2022-12-30 15:15:11
+LLE-00099-02 evses -> 1: status : CHARGING
+LLE-00105-01 evses -> 1: status : CHARGING
+MTS-00054-02 evses -> 0: status : CHARGING
+MTS-00054-01 evses -> 1: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+SNT-00088-1 evses -> 0: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
