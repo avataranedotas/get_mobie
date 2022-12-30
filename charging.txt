@@ -5597,3 +5597,10 @@ LLE-00105-01 evses -> 1: status : CHARGING
 OBD-00012-1 evses -> 0: status : CHARGING
 SNT-00087-1 evses -> 0: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
+
+2022-12-30 23:36:31
+BRG-00069-06 evses -> 7: status : CHARGING
+LLE-00105-01 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
