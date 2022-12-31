@@ -5634,3 +5634,11 @@ LRS-00064-02 evses -> 1: status : CHARGING
 LSB-00552-1 evses -> 0: status : CHARGING
 SNT-00087-1 evses -> 0: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
+
+2022-12-31 03:36:27
+CSC-00118-01 evses -> 0: status : CHARGING
+LLE-00105-01 evses -> 1: status : CHARGING
+LRS-00064-02 evses -> 1: status : CHARGING
+LSB-00552-1 evses -> 0: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
