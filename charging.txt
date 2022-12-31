@@ -5858,3 +5858,9 @@ SNT-00095-02 evses -> 0: status : CHARGING
 SXL-00033-01 evses -> 0: status : CHARGING
 SXL-00034-01 evses -> 0: status : CHARGING
 VCT-00028-01 evses -> 1: status : CHARGING
+
+2022-12-31 18:17:21
+LRS-00064-02 evses -> 1: status : CHARGING
+OBD-00012-1 evses -> 0: status : CHARGING
+OBD-00013-02 evses -> 0: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
