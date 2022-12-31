@@ -5903,3 +5903,8 @@ SNT-00095-02 evses -> 0: status : CHARGING
 OBD-00015-1 evses -> 0: status : CHARGING
 SNT-00087-1 evses -> 0: status : CHARGING
 SNT-00095-02 evses -> 0: status : CHARGING
+
+2022-12-31 22:13:32
+OBD-00015-1 evses -> 0: status : CHARGING
+SNT-00087-1 evses -> 0: status : CHARGING
+SNT-00095-02 evses -> 0: status : CHARGING
