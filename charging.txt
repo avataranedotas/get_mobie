@@ -5938,3 +5938,6 @@ BRG-00069-02 evses -> 5: status : CHARGING
 
 2023-01-01 19:36:13
 BRG-00069-02 evses -> 5: status : CHARGING
+
+2023-01-01 20:15:18
+BRG-00069-02 evses -> 5: status : CHARGING
