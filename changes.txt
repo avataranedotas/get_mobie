@@ -2580,3 +2580,37 @@ VNG-00065
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-01-01 08:38:02
+GDM-00013
+evses -> 1: 
+ NEW uid : GDM-00013-01
+ OLD uid : GDM-00013-02
+GDM-00013
+evses -> 1: 
+ NEW evse_id : PT*REP*E*GDM*00013*01
+ OLD evse_id : PT*REP*E*GDM*00013*02
+GDM-00013
+evses -> 1 -> connectors -> 0: 
+ NEW id : GDM-00013-01-01
+ OLD id : GDM-00013-02-01
+GDM-00013
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+GDM-00013
+evses -> 2: 
+ NEW uid : GDM-00013-02
+ OLD uid : GDM-00013-01
+GDM-00013
+evses -> 2: 
+ NEW evse_id : PT*REP*E*GDM*00013*02
+ OLD evse_id : PT*REP*E*GDM*00013*01
+GDM-00013
+evses -> 2 -> connectors -> 0: 
+ NEW id : GDM-00013-02-01
+ OLD id : GDM-00013-01-01
+GDM-00013
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
