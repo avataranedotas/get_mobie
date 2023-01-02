@@ -5950,3 +5950,6 @@ CLD-00022-02 evses -> 1: status : CHARGING
 
 2023-01-02 07:36:06
 CLD-00022-02 evses -> 1: status : CHARGING
+
+2023-01-02 15:15:48
+VRL-00010-02 evses -> 1: status : CHARGING
