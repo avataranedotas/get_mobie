@@ -2614,3 +2614,13 @@ GDM-00013
 evses -> 2 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : CHADEMO
+
+2023-01-02 12:07:01
+ALB-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALB-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
