@@ -5941,3 +5941,6 @@ BRG-00069-02 evses -> 5: status : CHARGING
 
 2023-01-01 20:15:18
 BRG-00069-02 evses -> 5: status : CHARGING
+
+2023-01-02 06:39:35
+CLD-00022-02 evses -> 1: status : CHARGING
