@@ -5985,3 +5985,6 @@ VRL-00010-02 evses -> 1: status : CHARGING
 2023-01-02 19:11:42
 PMS-00006-03 evses -> 2: status : CHARGING
 VRL-00010-02 evses -> 1: status : CHARGING
+
+2023-01-02 19:36:08
+PMS-00006-03 evses -> 2: status : CHARGING
