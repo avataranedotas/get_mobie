@@ -6033,3 +6033,6 @@ PMS-00006-03 evses -> 2: status : CHARGING
 
 2023-01-03 21:13:52
 PMS-00006-03 evses -> 2: status : CHARGING
+
+2023-01-03 21:36:57
+LSB-00572-02 evses -> 0: status : CHARGING
