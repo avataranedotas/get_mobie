@@ -6020,3 +6020,6 @@ PRT-00157-02 evses -> 1: status : CHARGING
 
 2023-01-03 19:12:11
 PMS-00006-03 evses -> 2: status : CHARGING
+
+2023-01-03 19:36:13
+PMS-00006-03 evses -> 2: status : CHARGING
