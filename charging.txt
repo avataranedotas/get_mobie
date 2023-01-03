@@ -6043,3 +6043,6 @@ LSB-00572-02 evses -> 0: status : CHARGING
 2023-01-03 22:36:24
 CSC-00119-01 evses -> 0: status : CHARGING
 LSB-00572-02 evses -> 0: status : CHARGING
+
+2023-01-03 23:15:49
+CSC-00119-01 evses -> 0: status : CHARGING
