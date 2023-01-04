@@ -6174,3 +6174,6 @@ SNT-00096-01 evses -> 0: status : CHARGING
 2023-01-04 19:14:33
 LSB-00573-01 evses -> 0: status : CHARGING
 PRT-00171-01 evses -> 1: status : CHARGING
+
+2023-01-04 19:36:35
+PRT-00171-01 evses -> 1: status : CHARGING
