@@ -6107,3 +6107,9 @@ CSC-00119-01 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
 SNT-00096-01 evses -> 0: status : CHARGING
+
+2023-01-04 13:37:35
+CSC-00119-01 evses -> 0: status : CHARGING
+LSB-00575-01 evses -> 0: status : CHARGING
+LSB-00575-01 evses -> 0: status : CHARGING
+SNT-00096-01 evses -> 0: status : CHARGING
