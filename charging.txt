@@ -6146,3 +6146,10 @@ SNT-00096-01 evses -> 0: status : CHARGING
 LGS-00008-01 evses -> 0: status : CHARGING
 PRT-00171-01 evses -> 1: status : CHARGING
 SNT-00096-01 evses -> 0: status : CHARGING
+
+2023-01-04 17:16:28
+LGS-00008-01 evses -> 0: status : CHARGING
+LSB-00575-01 evses -> 0: status : CHARGING
+LSB-00575-01 evses -> 0: status : CHARGING
+PRT-00171-01 evses -> 1: status : CHARGING
+SNT-00096-01 evses -> 0: status : CHARGING
