@@ -6091,3 +6091,6 @@ CSC-00119-01 evses -> 0: status : CHARGING
 
 2023-01-04 08:19:54
 CSC-00119-01 evses -> 0: status : CHARGING
+
+2023-01-04 10:36:22
+PRT-00158-01 evses -> 1: status : CHARGING
