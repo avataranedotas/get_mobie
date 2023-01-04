@@ -6113,3 +6113,8 @@ CSC-00119-01 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
 SNT-00096-01 evses -> 0: status : CHARGING
+
+2023-01-04 14:15:53
+PMS-00006-02 evses -> 1: status : CHARGING
+PRT-00171-02 evses -> 0: status : CHARGING
+SNT-00096-01 evses -> 0: status : CHARGING
