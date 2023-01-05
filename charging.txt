@@ -6275,3 +6275,10 @@ LGS-00016-1 evses -> 0: status : CHARGING
 2023-01-05 10:38:24
 LSB-00574-02 evses -> 1: status : CHARGING
 LSB-00574-02 evses -> 1: status : CHARGING
+
+2023-01-05 11:13:15
+CSC-00116-02 evses -> 2: status : CHARGING
+LSB-00547-03 evses -> 0: status : CHARGING
+LSB-00547-03 evses -> 0: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
