@@ -6229,3 +6229,6 @@ PRT-00171-01 evses -> 1: status : CHARGING
 
 2023-01-05 03:16:23
 LGS-00016-1 evses -> 0: status : CHARGING
+
+2023-01-05 03:36:49
+LGS-00016-1 evses -> 0: status : CHARGING
