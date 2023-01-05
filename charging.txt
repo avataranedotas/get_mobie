@@ -6247,3 +6247,6 @@ LGS-00016-1 evses -> 0: status : CHARGING
 
 2023-01-05 06:18:09
 LGS-00016-1 evses -> 0: status : CHARGING
+
+2023-01-05 06:39:16
+LGS-00016-1 evses -> 0: status : CHARGING
