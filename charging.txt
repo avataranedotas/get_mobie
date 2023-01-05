@@ -6282,3 +6282,6 @@ LSB-00547-03 evses -> 0: status : CHARGING
 LSB-00547-03 evses -> 0: status : CHARGING
 LSB-00574-02 evses -> 1: status : CHARGING
 LSB-00574-02 evses -> 1: status : CHARGING
+
+2023-01-05 11:36:08
+BRR-00014-02 evses -> 1: status : CHARGING
