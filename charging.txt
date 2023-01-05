@@ -6354,3 +6354,7 @@ LSB-90100-2 evses -> 1: status : CHARGING
 LGS-00008-02 evses -> 1: status : CHARGING
 LGS-00016-1 evses -> 0: status : CHARGING
 LSB-90100-2 evses -> 1: status : CHARGING
+
+2023-01-05 18:40:31
+LGS-00016-1 evses -> 0: status : CHARGING
+LSB-90100-1 evses -> 0: status : CHARGING
