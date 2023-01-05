@@ -6307,3 +6307,12 @@ LSB-00574-02 evses -> 1: status : CHARGING
 LSB-00574-02 evses -> 1: status : CHARGING
 PMS-00006-02 evses -> 1: status : CHARGING
 PRT-00165-03 evses -> 0: status : CHARGING
+
+2023-01-05 14:37:07
+BRR-00014-02 evses -> 1: status : CHARGING
+LSB-00543-01 evses -> 0: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+PRT-00165-03 evses -> 0: status : CHARGING
