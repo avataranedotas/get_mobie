@@ -6375,3 +6375,8 @@ PRT-00169-03 evses -> 2: status : CHARGING
 LGS-00016-1 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
 LSB-00575-01 evses -> 0: status : CHARGING
+
+2023-01-05 20:36:47
+LGS-00016-1 evses -> 0: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
