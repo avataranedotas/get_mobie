@@ -6358,3 +6358,10 @@ LSB-90100-2 evses -> 1: status : CHARGING
 2023-01-05 18:40:31
 LGS-00016-1 evses -> 0: status : CHARGING
 LSB-90100-1 evses -> 0: status : CHARGING
+
+2023-01-05 19:12:30
+LGS-00016-1 evses -> 0: status : CHARGING
+LSB-00547-02 evses -> 2: status : CHARGING
+LSB-00547-02 evses -> 2: status : CHARGING
+PRT-00169-03 evses -> 2: status : CHARGING
+PRT-00169-03 evses -> 2: status : CHARGING
