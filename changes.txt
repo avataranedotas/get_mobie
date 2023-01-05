@@ -2812,3 +2812,93 @@ CBR-00064-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'CBR-00064', 'publis
 
 CBR-00065-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'CBR-00065', 'publish': True, 'address': 'Parque de Estacionamento Teatrão - Coimbra', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3300-193', 'coordinates': {'latitude': '40.1937706', 'longitude': '-8.4120419'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CBR-00065-01', 'evse_id': 'PT*PRI*E*CBR*00065*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T16:47:30.616Z'}], 'last_updated': '2023-01-05T14:12:53.875Z'}, {'uid': 'CBR-00065-02', 'evse_id': 'PT*PRI*E*CBR*00065*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T16:47:30.617Z'}], 'last_updated': '2023-01-05T14:12:59.832Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-05T14:12:59.832Z'}
 Removidos:[]
+
+2023-01-05 15:17:47
+Adicionados:['CBR-00066']
+
+CBR-00066-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'CBR-00066', 'publish': True, 'address': 'Parque de Estacionamento Teatrão - Coimbra', 'city': 'Coimbra', 'country': 'PRT', 'postal_code': '3300-193', 'coordinates': {'latitude': '40.1937706', 'longitude': '-8.4120419'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CBR-00066-01', 'evse_id': 'PT*PRI*E*CBR*00066*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00066-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T16:47:50.632Z'}], 'last_updated': '2023-01-05T14:35:36.551Z'}, {'uid': 'CBR-00066-02', 'evse_id': 'PT*PRI*E*CBR*00066*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CBR-00066-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T16:47:50.633Z'}], 'last_updated': '2023-01-05T14:37:30.414Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-05T14:37:30.414Z'}
+Removidos:[]
+ALM-00036
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALM-00036
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALM-00037
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALM-00037
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CBR-00025
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CBR-00025
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CBR-00045
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FAR-00019
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FAR-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTJ-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00041
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00041
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00042
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00042
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00068
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNT-00069
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
