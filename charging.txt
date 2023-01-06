@@ -6527,3 +6527,14 @@ PRT-00165-03 evses -> 0: status : CHARGING
 PRT-00166-03 evses -> 2: status : CHARGING
 SNT-00096-02 evses -> 1: status : CHARGING
 SSB-00009-03 evses -> 1: status : CHARGING
+
+2023-01-06 13:25:52
+CSC-00116-01 evses -> 1: status : CHARGING
+CSC-00119-01 evses -> 0: status : CHARGING
+LGS-00008-01 evses -> 0: status : CHARGING
+LSB-00536-1 evses -> 0: status : CHARGING
+LSB-00572-02 evses -> 0: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+PRT-00165-03 evses -> 0: status : CHARGING
+SNT-00096-02 evses -> 1: status : CHARGING
