@@ -2934,3 +2934,37 @@ Adicionados:['VNG-00094']
 
 VNG-00094-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VNG-00094', 'publish': True, 'address': 'R. Heróis da Pátria 956', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4410-001', 'coordinates': {'latitude': '41.0595873', 'longitude': '-8.6456016'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00094-02', 'evse_id': 'PT*HRZ*E*VNG*00094*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-17T10:49:35.957Z'}], 'last_updated': '2023-01-06T10:25:39.676Z'}, {'uid': 'VNG-00094-01', 'evse_id': 'PT*HRZ*E*VNG*00094*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2022-11-17T10:49:35.956Z'}], 'last_updated': '2023-01-06T10:25:39.214Z'}, {'uid': 'VNG-00094-03', 'evse_id': 'PT*HRZ*E*VNG*00094*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-17T10:49:35.958Z'}], 'last_updated': '2023-01-06T10:25:40.227Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-06T10:25:40.227Z'}
 Removidos:[]
+
+2023-01-06 11:36:18
+Adicionados:['VNG-80012']
+
+VNG-80012-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNG-80012', 'publish': True, 'address': 'Alameda Senhor da Pedra', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4405-029', 'coordinates': {'latitude': '41.0694659', 'longitude': '-8.6554745'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VNG-80012-01', 'evse_id': 'PT*EDP*E*VNG*80012*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-80012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-06T11:08:08.542Z'}], 'last_updated': '2023-01-06T11:24:57.346Z'}, {'uid': 'VNG-80012-02', 'evse_id': 'PT*EDP*E*VNG*80012*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-80012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-06T11:08:08.543Z'}], 'last_updated': '2023-01-06T11:25:08.184Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-06T11:25:08.184Z'}
+Removidos:[]
+VNG-00094
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+VNG-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+VNG-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+VNG-00094
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+VNG-00094
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+VNG-00094
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+VNG-00094
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
