@@ -6593,3 +6593,10 @@ PRT-00166-02 evses -> 1: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
 SNT-00096-02 evses -> 1: status : CHARGING
+
+2023-01-06 16:46:09
+PRT-00164-03 evses -> 0: status : CHARGING
+PRT-00166-02 evses -> 1: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
+SNT-00096-02 evses -> 1: status : CHARGING
