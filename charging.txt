@@ -6651,3 +6651,11 @@ PRT-00164-03 evses -> 0: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
 VNG-00094-03 evses -> 2: status : CHARGING
+
+2023-01-06 20:16:29
+AMD-00054-02 evses -> 6: status : CHARGING
+LSB-00575-03 evses -> 2: status : CHARGING
+LSB-00575-03 evses -> 2: status : CHARGING
+PRT-00164-03 evses -> 0: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
