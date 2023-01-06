@@ -6442,3 +6442,6 @@ LGS-00016-1 evses -> 0: status : CHARGING
 
 2023-01-06 05:36:16
 LGS-00016-1 evses -> 0: status : CHARGING
+
+2023-01-06 06:19:41
+LGS-00016-1 evses -> 0: status : CHARGING
