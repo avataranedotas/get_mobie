@@ -2928,3 +2928,9 @@ TVD-00024
 : 
  NEW mobie_voltage_level : BTE
  OLD mobie_voltage_level : MT
+
+2023-01-06 10:37:36
+Adicionados:['VNG-00094']
+
+VNG-00094-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VNG-00094', 'publish': True, 'address': 'R. Heróis da Pátria 956', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4410-001', 'coordinates': {'latitude': '41.0595873', 'longitude': '-8.6456016'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00094-02', 'evse_id': 'PT*HRZ*E*VNG*00094*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-17T10:49:35.957Z'}], 'last_updated': '2023-01-06T10:25:39.676Z'}, {'uid': 'VNG-00094-01', 'evse_id': 'PT*HRZ*E*VNG*00094*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2022-11-17T10:49:35.956Z'}], 'last_updated': '2023-01-06T10:25:39.214Z'}, {'uid': 'VNG-00094-03', 'evse_id': 'PT*HRZ*E*VNG*00094*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00094-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-17T10:49:35.958Z'}], 'last_updated': '2023-01-06T10:25:40.227Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-06T10:25:40.227Z'}
+Removidos:[]
