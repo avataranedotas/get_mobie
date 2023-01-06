@@ -6411,3 +6411,10 @@ LSB-00574-03 evses -> 2: status : CHARGING
 2023-01-05 23:36:06
 LSB-00574-03 evses -> 2: status : CHARGING
 LSB-00574-03 evses -> 2: status : CHARGING
+
+2023-01-06 01:19:03
+LGS-00016-1 evses -> 0: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00575-02 evses -> 1: status : CHARGING
+LSB-00575-02 evses -> 1: status : CHARGING
