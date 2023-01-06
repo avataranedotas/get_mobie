@@ -6474,3 +6474,10 @@ SNT-00096-02 evses -> 1: status : CHARGING
 2023-01-06 09:36:37
 LGS-00016-1 evses -> 0: status : CHARGING
 SNT-00096-02 evses -> 1: status : CHARGING
+
+2023-01-06 10:16:50
+GMR-00087-02 evses -> 0: status : CHARGING
+LGS-00016-1 evses -> 0: status : CHARGING
+PRT-00168-02 evses -> 2: status : CHARGING
+PRT-00168-02 evses -> 2: status : CHARGING
+SNT-00096-02 evses -> 1: status : CHARGING
