@@ -6489,3 +6489,13 @@ PRT-00168-02 evses -> 2: status : CHARGING
 SNT-00096-02 evses -> 1: status : CHARGING
 VNG-00051-1 evses -> 0: status : CHARGING
 VNG-00051-1 evses -> 0: status : CHARGING
+
+2023-01-06 11:13:21
+GMR-00087-02 evses -> 0: status : CHARGING
+PRT-00165-02 evses -> 1: status : CHARGING
+PRT-00166-01 evses -> 0: status : CHARGING
+PRT-00168-02 evses -> 2: status : CHARGING
+PRT-00168-02 evses -> 2: status : CHARGING
+SNT-00096-02 evses -> 1: status : CHARGING
+VNG-00051-1 evses -> 0: status : CHARGING
+VNG-00051-1 evses -> 0: status : CHARGING
