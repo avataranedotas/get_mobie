@@ -2972,3 +2972,9 @@ evses -> 2 -> connectors -> 0:
 2023-01-06 15:16:41
 Adicionados:[]
 Removidos:['OER-00039', 'OER-00065', 'VFR-00017', 'VFR-00018', 'VFR-00019', 'VFR-00020', 'VFR-00021', 'VFR-00023', 'VFR-00024', 'VFR-00025', 'VFR-00026', 'VFR-00027', 'VFR-00028', 'VFR-00029', 'VFR-00030', 'VFR-00031', 'VFR-00032', 'VFR-00033', 'VFR-00034', 'VFR-00037', 'VFR-00038', 'VFR-00039', 'VFR-00040', 'VFR-00041']
+
+2023-01-06 16:22:09
+Adicionados:['ODM-00002']
+
+ODM-00002-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'ODM-00002', 'publish': True, 'address': 'Beco do Elias', 'city': 'Odemira', 'country': 'PRT', 'postal_code': '7630-174', 'coordinates': {'latitude': '37.52515', 'longitude': '-8.7868972'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ODM-00002-01', 'evse_id': 'PT*MOB*E*ODM*00002*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODM-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-02-03T19:02:09.497Z'}], 'last_updated': '2023-01-06T15:54:45.816Z'}, {'uid': 'ODM-00002-02', 'evse_id': 'PT*MOB*E*ODM*00002*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ODM-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2022-02-03T19:02:09.498Z'}], 'last_updated': '2023-01-06T15:54:45.816Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-01-06T15:54:45.783Z'}
+Removidos:[]
