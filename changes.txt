@@ -2968,3 +2968,7 @@ VNG-00094
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-01-06 15:16:41
+Adicionados:[]
+Removidos:['OER-00039', 'OER-00065', 'VFR-00017', 'VFR-00018', 'VFR-00019', 'VFR-00020', 'VFR-00021', 'VFR-00023', 'VFR-00024', 'VFR-00025', 'VFR-00026', 'VFR-00027', 'VFR-00028', 'VFR-00029', 'VFR-00030', 'VFR-00031', 'VFR-00032', 'VFR-00033', 'VFR-00034', 'VFR-00037', 'VFR-00038', 'VFR-00039', 'VFR-00040', 'VFR-00041']
