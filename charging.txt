@@ -6763,3 +6763,6 @@ PRT-00166-03 evses -> 2: status : CHARGING
 2023-01-07 07:13:22
 PRT-00169-02 evses -> 0: status : CHARGING
 PRT-00169-02 evses -> 0: status : CHARGING
+
+2023-01-07 09:13:39
+PRT-00163-02 evses -> 1: status : CHARGING
