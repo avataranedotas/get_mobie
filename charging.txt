@@ -6877,3 +6877,7 @@ LSB-00547-02 evses -> 2: status : CHARGING
 2023-01-07 20:36:27
 AMD-00054-02 evses -> 6: status : CHARGING
 PRT-00164-02 evses -> 2: status : CHARGING
+
+2023-01-07 21:12:32
+AMD-00054-01 evses -> 1: status : CHARGING
+PRT-00164-02 evses -> 2: status : CHARGING
