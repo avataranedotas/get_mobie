@@ -6804,3 +6804,10 @@ AMD-00054-01 evses -> 1: status : CHARGING
 CSC-00116-01 evses -> 1: status : CHARGING
 LSB-00547-03 evses -> 0: status : CHARGING
 LSB-00547-03 evses -> 0: status : CHARGING
+
+2023-01-07 15:14:30
+LSB-00547-02 evses -> 2: status : CHARGING
+LSB-00547-02 evses -> 2: status : CHARGING
+LSB-00572-01 evses -> 2: status : CHARGING
+PRT-00162-02 evses -> 2: status : CHARGING
+PRT-00165-02 evses -> 1: status : CHARGING
