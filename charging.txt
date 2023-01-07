@@ -6794,3 +6794,7 @@ VFR-00016-01 evses -> 0: status : CHARGING
 LSB-00543-02 evses -> 1: status : CHARGING
 PRT-00166-03 evses -> 2: status : CHARGING
 VFR-00016-01 evses -> 0: status : CHARGING
+
+2023-01-07 13:36:14
+LSB-00543-02 evses -> 1: status : CHARGING
+VFR-00016-01 evses -> 0: status : CHARGING
