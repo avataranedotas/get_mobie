@@ -6798,3 +6798,9 @@ VFR-00016-01 evses -> 0: status : CHARGING
 2023-01-07 13:36:14
 LSB-00543-02 evses -> 1: status : CHARGING
 VFR-00016-01 evses -> 0: status : CHARGING
+
+2023-01-07 14:36:09
+AMD-00054-01 evses -> 1: status : CHARGING
+CSC-00116-01 evses -> 1: status : CHARGING
+LSB-00547-03 evses -> 0: status : CHARGING
+LSB-00547-03 evses -> 0: status : CHARGING
