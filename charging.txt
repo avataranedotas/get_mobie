@@ -6704,3 +6704,9 @@ PRT-00169-01 evses -> 1: status : CHARGING
 PRT-00166-03 evses -> 2: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
 PRT-00169-01 evses -> 1: status : CHARGING
+
+2023-01-07 01:15:55
+PRT-00168-02 evses -> 2: status : CHARGING
+PRT-00168-02 evses -> 2: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
+PRT-00169-01 evses -> 1: status : CHARGING
