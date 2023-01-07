@@ -6832,3 +6832,6 @@ LSB-00574-01 evses -> 0: status : CHARGING
 LSB-00574-01 evses -> 0: status : CHARGING
 PRT-00166-03 evses -> 2: status : CHARGING
 VRL-00010-01 evses -> 0: status : CHARGING
+
+2023-01-07 17:36:17
+VRL-00010-01 evses -> 0: status : CHARGING
