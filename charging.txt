@@ -6785,3 +6785,7 @@ VFR-00016-01 evses -> 0: status : CHARGING
 2023-01-07 12:26:43
 GMR-00087-01 evses -> 1: status : CHARGING
 PRT-00166-03 evses -> 2: status : CHARGING
+
+2023-01-07 12:52:58
+PRT-00166-03 evses -> 2: status : CHARGING
+VFR-00016-01 evses -> 0: status : CHARGING
