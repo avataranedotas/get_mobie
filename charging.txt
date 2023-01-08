@@ -6985,3 +6985,8 @@ AMD-00054-08 evses -> 0: status : CHARGING
 CBR-00063-02 evses -> 0: status : CHARGING
 CBR-00064-02 evses -> 0: status : CHARGING
 PRT-00169-02 evses -> 0: status : CHARGING
+
+2023-01-08 17:12:29
+AMD-00054-04 evses -> 5: status : CHARGING
+CBR-00063-02 evses -> 0: status : CHARGING
+CBR-00064-02 evses -> 0: status : CHARGING
