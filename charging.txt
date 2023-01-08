@@ -6999,3 +6999,6 @@ CBR-00064-02 evses -> 0: status : CHARGING
 AMD-00054-01 evses -> 1: status : CHARGING
 CBR-00064-02 evses -> 0: status : CHARGING
 LSB-00543-02 evses -> 1: status : CHARGING
+
+2023-01-08 18:37:51
+AMD-00054-01 evses -> 1: status : CHARGING
