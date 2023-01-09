@@ -7059,3 +7059,7 @@ PRT-00164-03 evses -> 0: status : CHARGING
 2023-01-09 10:39:05
 PRT-00164-03 evses -> 0: status : CHARGING
 VNG-00051-1 evses -> 0: status : CHARGING
+
+2023-01-09 11:13:21
+PRT-00164-03 evses -> 0: status : CHARGING
+VNG-00051-1 evses -> 0: status : CHARGING
