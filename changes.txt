@@ -3006,3 +3006,17 @@ GDL-00010-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GDL-00010', 'publis
 
 GDL-00011-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GDL-00011', 'publish': True, 'address': 'Via Longitudinal de Tróia, Estrada Nacional 2', 'city': 'Grândola', 'country': 'PRT', 'postal_code': '7570-789', 'coordinates': {'latitude': '38.463574', 'longitude': '-8.8688236'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'GDL-00011-01', 'evse_id': 'PT*EDP*E*GDL*00011*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDL-00011-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-22T16:29:32.73Z'}], 'last_updated': '2023-01-09T13:24:56.623Z'}, {'uid': 'GDL-00011-02', 'evse_id': 'PT*EDP*E*GDL*00011*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDL-00011-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-22T16:29:32.731Z'}], 'last_updated': '2023-01-09T13:24:57.452Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-09T13:24:57.452Z'}
 Removidos:[]
+
+2023-01-09 15:22:49
+MAI-00019
+coordinates: 
+ NEW latitude : 41.2299484
+ OLD latitude : 41.2289298
+MAI-00019
+coordinates: 
+ NEW longitude : -8.5854801
+ OLD longitude : -8.5880992
+MAI-00019
+: 
+ NEW coordinates : {'latitude': '41.2299484', 'longitude': '-8.5854801'}
+ OLD coordinates : {'latitude': '41.2289298', 'longitude': '-8.5880992'}

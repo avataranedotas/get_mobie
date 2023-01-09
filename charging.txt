@@ -7101,3 +7101,10 @@ AMD-00054-02 evses -> 6: status : CHARGING
 LLE-00110-02 evses -> 1: status : CHARGING
 MTJ-00026-02 evses -> 1: status : CHARGING
 VNG-00051-1 evses -> 0: status : CHARGING
+
+2023-01-09 15:22:52
+LLE-00110-02 evses -> 1: status : CHARGING
+LSB-00574-02 evses -> 1: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+MTJ-00026-02 evses -> 1: status : CHARGING
+PRT-00164-02 evses -> 2: status : CHARGING
