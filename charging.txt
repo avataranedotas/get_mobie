@@ -7055,3 +7055,7 @@ CBR-00064-02 evses -> 0: status : CHARGING
 2023-01-09 10:18:06
 CBR-00064-02 evses -> 0: status : CHARGING
 PRT-00164-03 evses -> 0: status : CHARGING
+
+2023-01-09 10:39:05
+PRT-00164-03 evses -> 0: status : CHARGING
+VNG-00051-1 evses -> 0: status : CHARGING
