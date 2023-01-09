@@ -7128,3 +7128,7 @@ PRT-00162-03 evses -> 0: status : CHARGING
 2023-01-09 17:16:31
 LLE-00110-02 evses -> 1: status : CHARGING
 LSB-00574-03 evses -> 2: status : CHARGING
+
+2023-01-09 17:39:57
+LLE-00110-02 evses -> 1: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
