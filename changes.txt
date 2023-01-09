@@ -3020,3 +3020,21 @@ MAI-00019
 : 
  NEW coordinates : {'latitude': '41.2299484', 'longitude': '-8.5854801'}
  OLD coordinates : {'latitude': '41.2289298', 'longitude': '-8.5880992'}
+
+2023-01-09 16:28:21
+MAI-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MAI-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ODM-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
+ODM-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_1_PHASE
+ OLD power_type : DC
