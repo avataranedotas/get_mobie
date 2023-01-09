@@ -7073,3 +7073,11 @@ VNG-00051-1 evses -> 0: status : CHARGING
 LLE-00110-02 evses -> 1: status : CHARGING
 LSB-00574-03 evses -> 2: status : CHARGING
 VNG-00051-1 evses -> 0: status : CHARGING
+
+2023-01-09 13:23:29
+AMD-00054-04 evses -> 5: status : CHARGING
+CBR-00062-02 evses -> 1: status : CHARGING
+CBR-00063-02 evses -> 0: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
+LSB-00574-03 evses -> 2: status : CHARGING
+VNG-00051-1 evses -> 0: status : CHARGING
