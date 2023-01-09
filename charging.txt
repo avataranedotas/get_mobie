@@ -7132,3 +7132,7 @@ LSB-00574-03 evses -> 2: status : CHARGING
 2023-01-09 17:39:57
 LLE-00110-02 evses -> 1: status : CHARGING
 LSB-00574-03 evses -> 2: status : CHARGING
+
+2023-01-09 18:20:01
+AMD-00047-01 evses -> 1: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
