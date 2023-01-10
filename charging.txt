@@ -7384,3 +7384,6 @@ MTJ-00026-02 evses -> 1: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 SSB-00009-03 evses -> 1: status : CHARGING
+
+2023-01-10 20:36:35
+CBR-00068-02 evses -> 1: status : CHARGING
