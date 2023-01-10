@@ -7290,3 +7290,9 @@ LSB-00574-01 evses -> 0: status : CHARGING
 PRT-00164-03 evses -> 0: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
+
+2023-01-10 12:31:13
+AMD-00047-02 evses -> 0: status : CHARGING
+PRT-00164-03 evses -> 0: status : CHARGING
+PRT-00167-02 evses -> 2: status : CHARGING
+PRT-00167-02 evses -> 2: status : CHARGING
