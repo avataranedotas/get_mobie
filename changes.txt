@@ -3038,3 +3038,9 @@ ODM-00002
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_1_PHASE
  OLD power_type : DC
+
+2023-01-10 13:23:21
+Adicionados:['OER-00137']
+
+OER-00137-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'OER-00137', 'publish': True, 'address': 'Rua Fernando Almeida nº22', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2790-229', 'coordinates': {'latitude': '38.718489', 'longitude': '-9.229577'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00137-03', 'evse_id': 'PT*KLC*E*OER*00137*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00137-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-22T12:43:52.704Z'}], 'last_updated': '2023-01-10T13:02:15.469Z'}, {'uid': 'OER-00137-02', 'evse_id': 'PT*KLC*E*OER*00137*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00137-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-22T12:43:52.703Z'}], 'last_updated': '2023-01-10T13:02:14.494Z'}, {'uid': 'OER-00137-01', 'evse_id': 'PT*KLC*E*OER*00137*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00137-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-22T12:43:52.701Z'}], 'last_updated': '2023-01-10T13:02:13.438Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-10T13:02:15.469Z'}
+Removidos:[]

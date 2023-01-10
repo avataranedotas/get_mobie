@@ -7296,3 +7296,8 @@ AMD-00047-02 evses -> 0: status : CHARGING
 PRT-00164-03 evses -> 0: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
+
+2023-01-10 13:23:24
+AMD-00047-02 evses -> 0: status : CHARGING
+AMD-00054-01 evses -> 1: status : CHARGING
+PRT-00164-03 evses -> 0: status : CHARGING
