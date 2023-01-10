@@ -7311,3 +7311,10 @@ PRT-00164-03 evses -> 0: status : CHARGING
 
 2023-01-10 14:41:56
 PRT-00164-03 evses -> 0: status : CHARGING
+
+2023-01-10 15:23:01
+AMD-00047-02 evses -> 0: status : CHARGING
+CBR-00066-01 evses -> 0: status : CHARGING
+LRA-00016-03 evses -> 2: status : CHARGING
+MFR-00025-02 evses -> 1: status : CHARGING
+PRT-00164-03 evses -> 0: status : CHARGING
