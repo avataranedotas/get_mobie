@@ -7263,3 +7263,7 @@ LLE-00110-02 evses -> 1: status : CHARGING
 CBR-00063-02 evses -> 0: status : CHARGING
 LLE-00110-02 evses -> 1: status : CHARGING
 SSB-00009-03 evses -> 1: status : CHARGING
+
+2023-01-10 10:17:12
+AMD-00047-02 evses -> 0: status : CHARGING
+CBR-00068-02 evses -> 1: status : CHARGING
