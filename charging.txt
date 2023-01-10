@@ -7400,3 +7400,6 @@ LSB-00543-02 evses -> 1: status : CHARGING
 
 2023-01-10 22:37:00
 LSB-00543-02 evses -> 1: status : CHARGING
+
+2023-01-10 23:15:42
+LSB-00543-02 evses -> 1: status : CHARGING
