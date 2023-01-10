@@ -7390,3 +7390,6 @@ CBR-00068-02 evses -> 1: status : CHARGING
 
 2023-01-10 21:14:10
 CBR-00068-02 evses -> 1: status : CHARGING
+
+2023-01-10 21:36:39
+CBR-00068-02 evses -> 1: status : CHARGING
