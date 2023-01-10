@@ -7330,3 +7330,8 @@ PRT-00164-03 evses -> 0: status : CHARGING
 CBR-00066-01 evses -> 0: status : CHARGING
 LRA-00016-03 evses -> 2: status : CHARGING
 PRT-00164-03 evses -> 0: status : CHARGING
+
+2023-01-10 16:51:06
+CBR-00066-01 evses -> 0: status : CHARGING
+LRA-00016-03 evses -> 2: status : CHARGING
+PRT-00164-03 evses -> 0: status : CHARGING
