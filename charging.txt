@@ -7238,3 +7238,6 @@ LLE-00110-02 evses -> 1: status : CHARGING
 
 2023-01-10 06:20:51
 LLE-00110-02 evses -> 1: status : CHARGING
+
+2023-01-10 06:40:38
+LLE-00110-02 evses -> 1: status : CHARGING
