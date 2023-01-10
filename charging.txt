@@ -7213,3 +7213,7 @@ LSB-00550-1 evses -> 0: status : CHARGING
 
 2023-01-10 01:20:21
 LLE-00110-02 evses -> 1: status : CHARGING
+
+2023-01-10 02:36:05
+LLE-00110-02 evses -> 1: status : CHARGING
+PRT-00164-02 evses -> 2: status : CHARGING
