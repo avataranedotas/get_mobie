@@ -7513,3 +7513,10 @@ LRA-00016-02 evses -> 1: status : CHARGING
 LSB-00550-1 evses -> 0: status : CHARGING
 OER-00138-03 evses -> 0: status : CHARGING
 OER-00138-03 evses -> 0: status : CHARGING
+
+2023-01-11 19:36:43
+CSC-00109-01 evses -> 1: status : CHARGING
+LRA-00016-02 evses -> 1: status : CHARGING
+LSB-00550-1 evses -> 0: status : CHARGING
+OER-00138-03 evses -> 0: status : CHARGING
+OER-00138-03 evses -> 0: status : CHARGING
