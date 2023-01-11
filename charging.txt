@@ -7420,3 +7420,10 @@ AMD-00047-02 evses -> 0: status : CHARGING
 AMD-00054-06 evses -> 2: status : CHARGING
 OER-00138-02 evses -> 2: status : CHARGING
 OER-00138-02 evses -> 2: status : CHARGING
+
+2023-01-11 10:41:27
+OER-00138-02 evses -> 2: status : CHARGING
+OER-00138-02 evses -> 2: status : CHARGING
+PRT-00163-02 evses -> 1: status : CHARGING
+PRT-00163-02 evses -> 1: status : CHARGING
+SXL-00028-02 evses -> 0: status : CHARGING
