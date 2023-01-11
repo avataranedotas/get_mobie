@@ -7490,3 +7490,7 @@ VCT-00024-03 evses -> 1: status : CHARGING
 CBR-00061-02 evses -> 1: status : CHARGING
 MTJ-00026-02 evses -> 1: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-11 17:39:51
+CBR-00061-02 evses -> 1: status : CHARGING
+MTJ-00026-02 evses -> 1: status : CHARGING
