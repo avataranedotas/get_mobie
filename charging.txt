@@ -7494,3 +7494,8 @@ VCT-00024-03 evses -> 1: status : CHARGING
 2023-01-11 17:39:51
 CBR-00061-02 evses -> 1: status : CHARGING
 MTJ-00026-02 evses -> 1: status : CHARGING
+
+2023-01-11 18:23:16
+AMD-00054-01 evses -> 1: status : CHARGING
+LRA-00016-02 evses -> 1: status : CHARGING
+MTJ-00026-02 evses -> 1: status : CHARGING
