@@ -7480,3 +7480,8 @@ CSC-00109-02 evses -> 0: status : CHARGING
 MTJ-00026-02 evses -> 1: status : CHARGING
 PRT-00162-01 evses -> 1: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-11 16:33:40
+LRA-00016-01 evses -> 0: status : CHARGING
+MTJ-00026-02 evses -> 1: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
