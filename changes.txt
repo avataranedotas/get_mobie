@@ -3050,3 +3050,61 @@ Adicionados:['MFR-00025']
 
 MFR-00025-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'MFR-00025', 'publish': True, 'address': 'Av. Dr. Francisco Sá Carneiro', 'city': 'Mafra', 'country': 'PRT', 'postal_code': '2640-486', 'coordinates': {'latitude': '38.94373', 'longitude': '-9.337538'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MFR-00025-01', 'evse_id': 'PT*EVP*E*MFR*00025*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MFR-00025-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-08-16T12:55:12.641Z'}], 'last_updated': '2023-01-10T15:09:25.01Z'}, {'uid': 'MFR-00025-02', 'evse_id': 'PT*EVP*E*MFR*00025*02', 'status': 'CHARGING', 'connectors': [{'id': 'MFR-00025-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2022-08-16T12:55:12.642Z'}], 'last_updated': '2023-01-10T15:09:29.519Z'}, {'uid': 'MFR-00025-03', 'evse_id': 'PT*EVP*E*MFR*00025*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MFR-00025-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-08-16T12:55:12.643Z'}], 'last_updated': '2023-01-10T15:09:35.004Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-10T15:09:35.004Z'}
 Removidos:[]
+
+2023-01-11 03:37:01
+ABF-00035
+evses -> 1: 
+ NEW uid : ABF-00035-01
+ OLD uid : ABF-00035-03
+ABF-00035
+evses -> 1: 
+ NEW evse_id : PT*REP*E*ABF*00035*01
+ OLD evse_id : PT*REP*E*ABF*00035*03
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW id : ABF-00035-01-01
+ OLD id : ABF-00035-03-01
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+ABF-00035
+evses -> 2: 
+ NEW uid : ABF-00035-03
+ OLD uid : ABF-00035-01
+ABF-00035
+evses -> 2: 
+ NEW evse_id : PT*REP*E*ABF*00035*03
+ OLD evse_id : PT*REP*E*ABF*00035*01
+ABF-00035
+evses -> 2 -> connectors -> 0: 
+ NEW id : ABF-00035-03-01
+ OLD id : ABF-00035-01-01
+ABF-00035
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+ABF-00035
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ABF-00035
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+ABF-00035
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
