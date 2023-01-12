@@ -7549,3 +7549,6 @@ AMD-00047-02 evses -> 0: status : CHARGING
 CBR-00066-01 evses -> 0: status : CHARGING
 LRA-00016-02 evses -> 1: status : CHARGING
 LSB-00550-1 evses -> 0: status : CHARGING
+
+2023-01-12 08:42:16
+OER-00138-02 evses -> 2: status : CHARGING
