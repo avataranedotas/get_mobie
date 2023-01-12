@@ -7627,3 +7627,9 @@ CSC-00110-02 evses -> 1: status : CHARGING
 OER-00043-02 evses -> 0: status : CHARGING
 PRT-00167-03 evses -> 1: status : CHARGING
 PRT-00167-03 evses -> 1: status : CHARGING
+
+2023-01-12 19:36:14
+CSC-00107-02 evses -> 1: status : CHARGING
+CSC-00110-02 evses -> 1: status : CHARGING
+PRT-00167-03 evses -> 1: status : CHARGING
+PRT-00167-03 evses -> 1: status : CHARGING
