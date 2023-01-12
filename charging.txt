@@ -7584,3 +7584,11 @@ CSC-00107-02 evses -> 1: status : CHARGING
 2023-01-12 15:54:57
 VNG-00034-2 evses -> 0: status : CHARGING
 VNG-00034-1 evses -> 1: status : CHARGING
+
+2023-01-12 16:37:11
+CSC-00107-02 evses -> 1: status : CHARGING
+CSC-00110-01 evses -> 0: status : CHARGING
+STB-00038-01 evses -> 1: status : CHARGING
+STB-00038-01 evses -> 1: status : CHARGING
+VNG-00034-2 evses -> 0: status : CHARGING
+VNG-00034-1 evses -> 1: status : CHARGING
