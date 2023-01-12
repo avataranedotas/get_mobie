@@ -7555,3 +7555,6 @@ OER-00138-02 evses -> 2: status : CHARGING
 
 2023-01-12 09:17:21
 OER-00138-02 evses -> 2: status : CHARGING
+
+2023-01-12 09:38:01
+OER-00138-02 evses -> 2: status : CHARGING
