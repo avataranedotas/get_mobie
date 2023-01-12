@@ -3146,3 +3146,9 @@ OER-00137
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-01-12 12:33:06
+Adicionados:['STB-00039']
+
+STB-00039-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'STB-00039', 'publish': True, 'address': 'Avenida Luisa Todi nº 149', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2900-461', 'coordinates': {'latitude': '38.522804', 'longitude': '-8.893194'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00039-02', 'evse_id': 'PT*KLC*E*STB*00039*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'STB-00039-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2022-11-22T12:44:40.137Z'}], 'last_updated': '2023-01-12T12:15:27.554Z'}, {'uid': 'STB-00039-01', 'evse_id': 'PT*KLC*E*STB*00039*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'STB-00039-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-11-22T12:44:40.135Z'}], 'last_updated': '2023-01-12T12:15:27.554Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-12T12:15:27.508Z'}
+Removidos:[]
