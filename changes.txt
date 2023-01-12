@@ -3124,3 +3124,25 @@ CSC-00109-->{'country_code': 'PT', 'party_id': 'CSC', 'id': 'CSC-00109', 'publis
 
 CSC-00110-->{'country_code': 'PT', 'party_id': 'CSC', 'id': 'CSC-00110', 'publish': True, 'address': 'Rua Dom. Francisco de Avilez', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-506', 'coordinates': {'latitude': '38.699446', 'longitude': '-9.423017'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00110-01', 'evse_id': 'PT*CSC*E*CSC*00110*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'CSC-00110-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-11T14:59:42.43Z'}], 'last_updated': '2023-01-11T15:07:26.144Z'}, {'uid': 'CSC-00110-02', 'evse_id': 'PT*CSC*E*CSC*00110*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'CSC-00110-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-11T14:59:42.431Z'}], 'last_updated': '2023-01-11T15:07:26.144Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-11T15:07:26.11Z'}
 Removidos:[]
+
+2023-01-12 10:18:51
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+OER-00137
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+OER-00137
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
