@@ -7552,3 +7552,6 @@ LSB-00550-1 evses -> 0: status : CHARGING
 
 2023-01-12 08:42:16
 OER-00138-02 evses -> 2: status : CHARGING
+
+2023-01-12 09:17:21
+OER-00138-02 evses -> 2: status : CHARGING
