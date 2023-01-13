@@ -7750,3 +7750,10 @@ CSC-00109-02 evses -> 0: status : CHARGING
 OER-00137-01 evses -> 2: status : CHARGING
 OER-00137-01 evses -> 2: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-13 15:16:57
+CHT-00001-01 evses -> 0: status : CHARGING
+CHT-00001-02 evses -> 1: status : CHARGING
+CHT-00001-03 evses -> 2: status : CHARGING
+CSC-00109-02 evses -> 0: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
