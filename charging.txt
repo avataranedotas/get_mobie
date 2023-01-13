@@ -7719,3 +7719,10 @@ VCT-00024-03 evses -> 1: status : CHARGING
 2023-01-13 12:30:03
 CSC-00109-01 evses -> 1: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-13 12:59:14
+CSC-00109-01 evses -> 1: status : CHARGING
+OER-00138-02 evses -> 2: status : CHARGING
+PRT-00167-02 evses -> 2: status : CHARGING
+PRT-00167-02 evses -> 2: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
