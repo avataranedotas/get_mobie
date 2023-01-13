@@ -7775,3 +7775,6 @@ VCT-00024-03 evses -> 1: status : CHARGING
 SLV-90002-02 evses -> 1: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
 VNG-00034-1 evses -> 1: status : CHARGING
+
+2023-01-13 17:36:09
+VCT-00024-03 evses -> 1: status : CHARGING
