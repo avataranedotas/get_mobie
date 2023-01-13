@@ -7762,3 +7762,6 @@ VCT-00024-03 evses -> 1: status : CHARGING
 CHT-00001-03 evses -> 2: status : CHARGING
 CSC-00109-02 evses -> 0: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-13 16:25:42
+VCT-00024-03 evses -> 1: status : CHARGING
