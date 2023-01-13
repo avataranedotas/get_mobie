@@ -7799,3 +7799,6 @@ VNG-00034-1 evses -> 1: status : CHARGING
 2023-01-13 20:16:30
 CSC-00109-01 evses -> 1: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-13 20:36:35
+VCT-00024-03 evses -> 1: status : CHARGING
