@@ -7734,3 +7734,8 @@ OER-00138-02 evses -> 2: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 PRT-00167-02 evses -> 2: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-13 13:39:45
+CSC-00109-02 evses -> 0: status : CHARGING
+OER-00138-02 evses -> 2: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
