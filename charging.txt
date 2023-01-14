@@ -7886,3 +7886,6 @@ VCT-00024-03 evses -> 1: status : CHARGING
 
 2023-01-14 18:37:34
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-14 19:11:25
+VCT-00024-03 evses -> 1: status : CHARGING
