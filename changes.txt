@@ -5770,3 +5770,149 @@ BRG-00039
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-01-14 13:36:13
+BRG-00059
+coordinates: 
+ NEW latitude : 41.5413206
+ OLD latitude : 41.5413295
+BRG-00059
+coordinates: 
+ NEW longitude : -8.4249637
+ OLD longitude : -8.4256756
+BRG-00059
+: 
+ NEW coordinates : {'latitude': '41.5413206', 'longitude': '-8.4249637'}
+ OLD coordinates : {'latitude': '41.5413295', 'longitude': '-8.4256756'}
+BRG-00059
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRG-00059
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRG-00060
+coordinates: 
+ NEW latitude : 41.5413206
+ OLD latitude : 41.5413295
+BRG-00060
+coordinates: 
+ NEW longitude : -8.4249637
+ OLD longitude : -8.4256756
+BRG-00060
+: 
+ NEW coordinates : {'latitude': '41.5413206', 'longitude': '-8.4249637'}
+ OLD coordinates : {'latitude': '41.5413295', 'longitude': '-8.4256756'}
+BRG-00060
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRG-00060
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CLD-00018
+: 
+ NEW address : McDonalds - Av. Engenheiro Luís Paiva e Sousa
+ OLD address : Rua Prof. Abilio Moniz Barreto, 8
+CLD-00018
+coordinates: 
+ NEW latitude : 39.4059029
+ OLD latitude : 39.412502
+CLD-00018
+coordinates: 
+ NEW longitude : -9.1464137
+ OLD longitude : -9.1345812
+CLD-00018
+: 
+ NEW coordinates : {'latitude': '39.4059029', 'longitude': '-9.1464137'}
+ OLD coordinates : {'latitude': '39.412502', 'longitude': '-9.1345812'}
+LRA-00061
+: 
+ NEW address : Rua da Serrada Nova
+ OLD address : Estrada da Maceira, 10
+LRA-00061
+coordinates: 
+ NEW latitude : 39.7152007
+ OLD latitude : 39.71511
+LRA-00061
+coordinates: 
+ NEW longitude : -8.832613
+ OLD longitude : -8.833017
+LRA-00061
+: 
+ NEW coordinates : {'latitude': '39.7152007', 'longitude': '-8.832613'}
+ OLD coordinates : {'latitude': '39.71511', 'longitude': '-8.833017'}
+MAI-00019
+coordinates: 
+ NEW latitude : 41.2292384
+ OLD latitude : 41.2299484
+MAI-00019
+coordinates: 
+ NEW longitude : -8.5853783
+ OLD longitude : -8.5854801
+MAI-00019
+: 
+ NEW coordinates : {'latitude': '41.2292384', 'longitude': '-8.5853783'}
+ OLD coordinates : {'latitude': '41.2299484', 'longitude': '-8.5854801'}
+PRT-00091
+coordinates: 
+ NEW latitude : 41.1800862
+ OLD latitude : 41.1800231
+PRT-00091
+coordinates: 
+ NEW longitude : -8.5814651
+ OLD longitude : -8.5836978
+PRT-00091
+: 
+ NEW coordinates : {'latitude': '41.1800862', 'longitude': '-8.5814651'}
+ OLD coordinates : {'latitude': '41.1800231', 'longitude': '-8.5836978'}
+PRT-00091
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00091
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00091
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRT-00096
+coordinates: 
+ NEW latitude : 41.1694051
+ OLD latitude : 41.1669203
+PRT-00096
+coordinates: 
+ NEW longitude : -8.6105419
+ OLD longitude : -8.6119556
+PRT-00096
+: 
+ NEW coordinates : {'latitude': '41.1694051', 'longitude': '-8.6105419'}
+ OLD coordinates : {'latitude': '41.1669203', 'longitude': '-8.6119556'}
+PRT-00158
+coordinates: 
+ NEW latitude : 41.1782586
+ OLD latitude : 41.1780567
+PRT-00158
+coordinates: 
+ NEW longitude : -8.6543969
+ OLD longitude : -8.6575029
+PRT-00158
+: 
+ NEW coordinates : {'latitude': '41.1782586', 'longitude': '-8.6543969'}
+ OLD coordinates : {'latitude': '41.1780567', 'longitude': '-8.6575029'}
+VNG-00071
+coordinates: 
+ NEW latitude : 41.1276151
+ OLD latitude : 41.1277944
+VNG-00071
+coordinates: 
+ NEW longitude : -8.6509323
+ OLD longitude : -8.6535789
+VNG-00071
+: 
+ NEW coordinates : {'latitude': '41.1276151', 'longitude': '-8.6509323'}
+ OLD coordinates : {'latitude': '41.1277944', 'longitude': '-8.6535789'}
