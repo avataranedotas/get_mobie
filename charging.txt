@@ -7955,3 +7955,6 @@ VNG-80012-02 evses -> 1: status : CHARGING
 
 2023-01-16 10:38:37
 CBR-00042-02 evses -> 0: status : CHARGING
+
+2023-01-16 11:13:05
+CBR-00042-02 evses -> 0: status : CHARGING
