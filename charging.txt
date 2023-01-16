@@ -7997,3 +7997,7 @@ LLE-00127-1 evses -> 0: status : CHARGING
 MTS-00053-02 evses -> 1: status : CHARGING
 MTS-00055-02 evses -> 0: status : CHARGING
 MTS-00056-02 evses -> 1: status : CHARGING
+
+2023-01-16 14:36:21
+LLE-00127-1 evses -> 0: status : CHARGING
+MTS-00056-02 evses -> 1: status : CHARGING
