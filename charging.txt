@@ -8057,3 +8057,8 @@ OER-00137-03 evses -> 0: status : CHARGING
 MTS-00053-02 evses -> 1: status : CHARGING
 OER-00137-03 evses -> 0: status : CHARGING
 OER-00137-03 evses -> 0: status : CHARGING
+
+2023-01-16 20:36:27
+MTS-00053-02 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
