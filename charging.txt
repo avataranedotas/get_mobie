@@ -7961,3 +7961,11 @@ CBR-00042-02 evses -> 0: status : CHARGING
 
 2023-01-16 11:36:33
 CBR-00042-02 evses -> 0: status : CHARGING
+
+2023-01-16 12:31:33
+CBR-00042-02 evses -> 0: status : CHARGING
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00056-01 evses -> 0: status : CHARGING
+MTS-00073-01 evses -> 1: status : CHARGING
+OER-00137-01 evses -> 2: status : CHARGING
+OER-00137-01 evses -> 2: status : CHARGING
