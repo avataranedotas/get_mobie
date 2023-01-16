@@ -7958,3 +7958,6 @@ CBR-00042-02 evses -> 0: status : CHARGING
 
 2023-01-16 11:13:05
 CBR-00042-02 evses -> 0: status : CHARGING
+
+2023-01-16 11:36:33
+CBR-00042-02 evses -> 0: status : CHARGING
