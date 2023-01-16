@@ -5944,3 +5944,7 @@ LRA-00077-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LRA-00077', 'publis
 
 LRA-00080-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LRA-00080', 'publish': True, 'address': 'Rua Santo André, Leiria', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2410-196', 'coordinates': {'latitude': '39.741146', 'longitude': '-8.7963458'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRA-00080-01', 'evse_id': 'PT*EDP*E*LRA*00080*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRA-00080-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-12-28T16:36:38.237Z'}], 'last_updated': '2023-01-16T12:41:12.126Z'}, {'uid': 'LRA-00080-02', 'evse_id': 'PT*EDP*E*LRA*00080*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRA-00080-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-12-28T16:36:38.239Z'}], 'last_updated': '2023-01-16T12:41:12.589Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-16T12:41:12.589Z'}
 Removidos:[]
+
+2023-01-16 15:16:24
+Adicionados:[]
+Removidos:['AGD-00004']
