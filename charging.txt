@@ -8013,3 +8013,8 @@ CBR-00041-02 evses -> 0: status : CHARGING
 MTS-00053-02 evses -> 1: status : CHARGING
 MTS-00055-02 evses -> 0: status : CHARGING
 MTS-00056-02 evses -> 1: status : CHARGING
+
+2023-01-16 16:21:14
+CBR-00041-02 evses -> 0: status : CHARGING
+MTS-00053-02 evses -> 1: status : CHARGING
+MTS-00055-01 evses -> 1: status : CHARGING
