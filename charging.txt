@@ -8043,3 +8043,8 @@ TVD-80006-02 evses -> 1: status : CHARGING
 
 2023-01-16 18:39:23
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-16 19:12:11
+OER-00137-03 evses -> 0: status : CHARGING
+OER-00137-03 evses -> 0: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
