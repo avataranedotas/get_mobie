@@ -8092,3 +8092,8 @@ LSB-90100-1 evses -> 0: status : CHARGING
 
 2023-01-17 08:39:56
 LSB-90100-1 evses -> 0: status : CHARGING
+
+2023-01-17 09:15:19
+LSB-90100-1 evses -> 0: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
