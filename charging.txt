@@ -8154,3 +8154,11 @@ MTS-00056-02 evses -> 1: status : CHARGING
 OER-00137-01 evses -> 2: status : CHARGING
 OER-00137-01 evses -> 2: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-17 14:14:15
+LSB-90100-1 evses -> 0: status : CHARGING
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00055-01 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
