@@ -8361,3 +8361,6 @@ STS-00010-02 evses -> 2: status : CHARGING
 2023-01-18 16:21:43
 MTS-00055-02 evses -> 0: status : CHARGING
 MTS-00056-01 evses -> 0: status : CHARGING
+
+2023-01-18 16:45:57
+MTS-00056-01 evses -> 0: status : CHARGING
