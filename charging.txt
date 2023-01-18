@@ -8368,3 +8368,7 @@ MTS-00056-01 evses -> 0: status : CHARGING
 2023-01-18 17:14:09
 MTS-00056-01 evses -> 0: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-18 17:36:06
+MTS-00056-01 evses -> 0: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
