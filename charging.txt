@@ -8357,3 +8357,7 @@ LSB-00544-03 evses -> 0: status : CHARGING
 MTS-00053-02 evses -> 1: status : CHARGING
 MTS-00055-02 evses -> 0: status : CHARGING
 STS-00010-02 evses -> 2: status : CHARGING
+
+2023-01-18 16:21:43
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00056-01 evses -> 0: status : CHARGING
