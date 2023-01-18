@@ -8304,3 +8304,10 @@ OER-00137-03 evses -> 0: status : CHARGING
 2023-01-18 10:38:46
 LSB-90100-1 evses -> 0: status : CHARGING
 LSB-90100-2 evses -> 1: status : CHARGING
+
+2023-01-18 11:12:46
+LSB-00544-02 evses -> 1: status : CHARGING
+LSB-90100-1 evses -> 0: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
+OER-00137-02 evses -> 1: status : CHARGING
