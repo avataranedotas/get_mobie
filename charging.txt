@@ -8658,3 +8658,8 @@ LSB-00578-01 evses -> 0: status : CHARGING
 LSB-00579-01 evses -> 1: status : CHARGING
 MTS-00055-02 evses -> 0: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-19 22:36:42
+LSB-00578-01 evses -> 0: status : CHARGING
+LSB-00579-01 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
