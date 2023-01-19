@@ -8476,3 +8476,13 @@ VNG-80012-01 evses -> 0: status : CHARGING
 2023-01-19 11:36:31
 LSB-90100-1 evses -> 0: status : CHARGING
 VNG-80012-01 evses -> 0: status : CHARGING
+
+2023-01-19 12:31:17
+LSB-90100-1 evses -> 0: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+MTS-00053-02 evses -> 1: status : CHARGING
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00055-01 evses -> 1: status : CHARGING
+MTS-00056-01 evses -> 0: status : CHARGING
+MTS-00057-01 evses -> 0: status : CHARGING
+VNG-80012-01 evses -> 0: status : CHARGING
