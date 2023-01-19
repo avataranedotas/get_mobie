@@ -8451,3 +8451,6 @@ VCT-00024-02 evses -> 2: status : CHARGING
 
 2023-01-19 08:39:18
 LSB-90100-1 evses -> 0: status : CHARGING
+
+2023-01-19 09:15:35
+LSB-90100-1 evses -> 0: status : CHARGING
