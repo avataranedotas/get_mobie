@@ -8555,3 +8555,10 @@ LSB-90100-2 evses -> 1: status : CHARGING
 MTS-00085-02 evses -> 0: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
 VNG-80012-01 evses -> 0: status : CHARGING
+
+2023-01-19 16:46:46
+LSB-00544-01 evses -> 2: status : CHARGING
+LSB-90100-1 evses -> 0: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+MTS-00082-02 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
