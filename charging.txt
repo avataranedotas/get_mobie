@@ -8608,3 +8608,11 @@ MTS-00056-02 evses -> 1: status : CHARGING
 MTS-00087-02 evses -> 0: status : CHARGING
 TVD-80006-01 evses -> 0: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-19 19:36:28
+FUN-00012-01 evses -> 0: status : CHARGING
+LSB-00544-03 evses -> 0: status : CHARGING
+LSB-00548-02 evses -> 0: status : CHARGING
+LSB-00548-02 evses -> 0: status : CHARGING
+MTS-00056-02 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
