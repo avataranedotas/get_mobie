@@ -8448,3 +8448,6 @@ TVD-80006-01 evses -> 0: status : CHARGING
 LSB-90100-1 evses -> 0: status : CHARGING
 TVD-80006-01 evses -> 0: status : CHARGING
 VCT-00024-02 evses -> 2: status : CHARGING
+
+2023-01-19 08:39:18
+LSB-90100-1 evses -> 0: status : CHARGING
