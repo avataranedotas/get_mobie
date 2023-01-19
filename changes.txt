@@ -6058,3 +6058,43 @@ MTS-00083-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MTS-00083', 'publis
 
 MTS-00084-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'MTS-00084', 'publish': True, 'address': 'R. Dr. Manuel Rodrigues de Sousa 92', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-208', 'coordinates': {'latitude': '41.174655', 'longitude': '-8.687623'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'MTS-00084-02', 'evse_id': 'PT*KLC*E*MTS*00084*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTS-00084-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-01-19T12:51:45.4Z'}], 'last_updated': '2023-01-19T13:51:27.469Z'}, {'uid': 'MTS-00084-01', 'evse_id': 'PT*KLC*E*MTS*00084*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00084-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-19T12:51:45.398Z'}], 'last_updated': '2023-01-19T13:51:34.994Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-19T13:51:34.994Z'}
 Removidos:[]
+
+2023-01-19 15:39:22
+Adicionados:[]
+Removidos:['LRA-00019', 'LRA-00020']
+MTS-00082
+coordinates: 
+ NEW latitude : 41.174653
+ OLD latitude : 41.174655
+MTS-00082
+coordinates: 
+ NEW longitude : -8.687745
+ OLD longitude : -8.687623
+MTS-00082
+: 
+ NEW coordinates : {'latitude': '41.174653', 'longitude': '-8.687745'}
+ OLD coordinates : {'latitude': '41.174655', 'longitude': '-8.687623'}
+MTS-00083
+coordinates: 
+ NEW latitude : 41.174658
+ OLD latitude : 41.174655
+MTS-00083
+coordinates: 
+ NEW longitude : -8.687685
+ OLD longitude : -8.687623
+MTS-00083
+: 
+ NEW coordinates : {'latitude': '41.174658', 'longitude': '-8.687685'}
+ OLD coordinates : {'latitude': '41.174655', 'longitude': '-8.687623'}
+MTS-00084
+coordinates: 
+ NEW latitude : 41.174666
+ OLD latitude : 41.174655
+MTS-00084
+coordinates: 
+ NEW longitude : -8.68758
+ OLD longitude : -8.687623
+MTS-00084
+: 
+ NEW coordinates : {'latitude': '41.174666', 'longitude': '-8.68758'}
+ OLD coordinates : {'latitude': '41.174655', 'longitude': '-8.687623'}
