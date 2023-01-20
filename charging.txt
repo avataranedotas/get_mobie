@@ -8800,3 +8800,16 @@ MTS-00069-01 evses -> 0: status : CHARGING
 MTS-00070-01 evses -> 1: status : CHARGING
 MTS-00089-01 evses -> 0: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-20 14:36:24
+LSB-00544-01 evses -> 2: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00055-01 evses -> 1: status : CHARGING
+MTS-00056-02 evses -> 1: status : CHARGING
+MTS-00069-01 evses -> 0: status : CHARGING
+MTS-00070-01 evses -> 1: status : CHARGING
+MTS-00073-02 evses -> 0: status : CHARGING
+OER-00137-01 evses -> 2: status : CHARGING
+OER-00137-01 evses -> 2: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
