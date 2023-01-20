@@ -8707,3 +8707,7 @@ TVD-80006-02 evses -> 1: status : CHARGING
 
 2023-01-20 06:40:55
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-20 07:14:07
+LSB-00577-02 evses -> 0: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
