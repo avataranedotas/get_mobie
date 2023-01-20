@@ -8821,3 +8821,10 @@ MTS-00055-01 evses -> 1: status : CHARGING
 MTS-00069-01 evses -> 0: status : CHARGING
 MTS-00073-02 evses -> 0: status : CHARGING
 VCT-00024-03 evses -> 1: status : CHARGING
+
+2023-01-20 15:38:01
+LSB-90100-2 evses -> 1: status : CHARGING
+MTS-00053-02 evses -> 1: status : CHARGING
+MTS-00069-01 evses -> 0: status : CHARGING
+MTS-00073-02 evses -> 0: status : CHARGING
+VCT-00024-03 evses -> 1: status : CHARGING
