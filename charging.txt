@@ -8957,3 +8957,16 @@ MTS-00070-01 evses -> 1: status : CHARGING
 MTS-00084-02 evses -> 0: status : CHARGING
 OER-00066-03 evses -> 1: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-20 21:36:37
+LLE-00107-02 evses -> 0: status : CHARGING
+LLE-00108-02 evses -> 1: status : CHARGING
+LLE-00113-01 evses -> 0: status : CHARGING
+LSB-00579-01 evses -> 1: status : CHARGING
+LSB-90100-1 evses -> 0: status : CHARGING
+MTS-00055-02 evses -> 0: status : CHARGING
+MTS-00056-01 evses -> 0: status : CHARGING
+MTS-00056-02 evses -> 1: status : CHARGING
+MTS-00070-01 evses -> 1: status : CHARGING
+OER-00066-03 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
