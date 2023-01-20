@@ -6172,3 +6172,9 @@ MTS-00090
 : 
  NEW coordinates : {'latitude': '41.174686', 'longitude': '-8.687362'}
  OLD coordinates : {'latitude': '41.1780005', 'longitude': '-8.6866251'}
+
+2023-01-20 15:16:49
+Adicionados:['LNH-00005']
+
+LNH-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LNH-00005', 'publish': True, 'address': 'R. Eng. Adelino Amaro da Costa,', 'city': 'Lourinhã', 'country': 'PRT', 'postal_code': '2530-104', 'coordinates': {'latitude': '39.239295', 'longitude': '-9.309598'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LNH-00005-02', 'evse_id': 'PT*KLC*E*LNH*00005*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LNH-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:02:32.802Z'}], 'last_updated': '2023-01-20T14:56:11.314Z'}, {'uid': 'LNH-00005-01', 'evse_id': 'PT*KLC*E*LNH*00005*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LNH-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:02:32.801Z'}], 'last_updated': '2023-01-20T14:56:11.314Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-01-20T14:56:11.279Z'}
+Removidos:['NZR-00004']
