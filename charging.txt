@@ -9038,3 +9038,12 @@ LSB-90100-1 evses -> 0: status : CHARGING
 LSB-90100-2 evses -> 1: status : CHARGING
 MTS-00083-02 evses -> 1: status : CHARGING
 TVD-80006-02 evses -> 1: status : CHARGING
+
+2023-01-20 23:36:29
+CSC-00104-01 evses -> 0: status : CHARGING
+CSC-00104-02 evses -> 1: status : CHARGING
+LLE-00108-02 evses -> 1: status : CHARGING
+LRA-00082-02 evses -> 1: status : CHARGING
+LSB-90100-1 evses -> 0: status : CHARGING
+LSB-90100-2 evses -> 1: status : CHARGING
+TVD-80006-02 evses -> 1: status : CHARGING
