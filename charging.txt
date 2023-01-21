@@ -9080,3 +9080,7 @@ MTS-00061-02 evses -> 0: status : CHARGING
 2023-01-21 12:53:53
 LLE-00112-02 evses -> 1: status : CHARGING
 SVC-00003-01 evses -> 0: status : CHARGING
+
+2023-01-21 13:06:05
+LLE-00112-02 evses -> 1: status : CHARGING
+SVC-00003-01 evses -> 0: status : CHARGING
