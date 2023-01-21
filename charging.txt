@@ -9151,3 +9151,7 @@ SVC-00003-01 evses -> 0: status : CHARGING
 
 2023-01-21 18:17:28
 SVC-00003-01 evses -> 0: status : CHARGING
+
+2023-01-21 18:37:40
+MTS-00061-02 evses -> 0: status : CHARGING
+SVC-00003-01 evses -> 0: status : CHARGING
