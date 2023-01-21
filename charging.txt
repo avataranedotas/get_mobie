@@ -9144,3 +9144,7 @@ LRA-00079-01 evses -> 1: status : CHARGING
 LRA-00077-02 evses -> 0: status : CHARGING
 LRA-00078-02 evses -> 1: status : CHARGING
 LRA-00079-01 evses -> 1: status : CHARGING
+
+2023-01-21 17:36:17
+LRA-00079-01 evses -> 1: status : CHARGING
+SVC-00003-01 evses -> 0: status : CHARGING
