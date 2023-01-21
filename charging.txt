@@ -9051,3 +9051,6 @@ TVD-80006-02 evses -> 1: status : CHARGING
 2023-01-21 00:00:30
 CSC-00104-01 evses -> 0: status : CHARGING
 CSC-00104-02 evses -> 1: status : CHARGING
+
+2023-01-21 01:17:36
+LRA-00079-02 evses -> 0: status : CHARGING
