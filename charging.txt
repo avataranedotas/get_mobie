@@ -9072,3 +9072,7 @@ PRT-00161-06 evses -> 3: status : CHARGING
 
 2023-01-21 11:55:56
 MTS-00061-02 evses -> 0: status : CHARGING
+
+2023-01-21 12:27:06
+LRA-00079-02 evses -> 0: status : CHARGING
+MTS-00061-02 evses -> 0: status : CHARGING
