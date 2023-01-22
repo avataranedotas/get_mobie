@@ -9214,3 +9214,9 @@ LLE-00112-02 evses -> 1: status : CHARGING
 LRA-00079-01 evses -> 1: status : CHARGING
 MTS-00072-02 evses -> 0: status : CHARGING
 MTS-00086-02 evses -> 1: status : CHARGING
+
+2023-01-22 13:36:07
+LLE-00111-01 evses -> 0: status : CHARGING
+LLE-00112-02 evses -> 1: status : CHARGING
+MTS-00072-02 evses -> 0: status : CHARGING
+MTS-00086-02 evses -> 1: status : CHARGING
