@@ -9197,3 +9197,8 @@ ODM-00002-01 evses -> 0: status : CHARGING
 
 2023-01-22 11:36:10
 LRA-00082-01 evses -> 0: status : CHARGING
+
+2023-01-22 12:27:29
+LRA-00082-01 evses -> 0: status : CHARGING
+MTS-00072-02 evses -> 0: status : CHARGING
+MTS-00086-02 evses -> 1: status : CHARGING
