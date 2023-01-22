@@ -9261,3 +9261,9 @@ LLE-00112-02 evses -> 1: status : CHARGING
 LRA-00077-02 evses -> 0: status : CHARGING
 LRA-00079-02 evses -> 0: status : CHARGING
 LSB-80149-01 evses -> 0: status : CHARGING
+
+2023-01-22 17:12:50
+LLE-00111-02 evses -> 1: status : CHARGING
+LRA-00077-02 evses -> 0: status : CHARGING
+LRA-00079-02 evses -> 0: status : CHARGING
+LSB-80149-01 evses -> 0: status : CHARGING
