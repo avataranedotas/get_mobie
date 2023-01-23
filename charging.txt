@@ -9303,3 +9303,6 @@ LRA-00078-02 evses -> 1: status : CHARGING
 2023-01-23 11:36:17
 LLE-00110-02 evses -> 1: status : CHARGING
 LRA-00078-02 evses -> 1: status : CHARGING
+
+2023-01-23 12:29:40
+LLE-00110-02 evses -> 1: status : CHARGING
