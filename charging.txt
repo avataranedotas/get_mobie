@@ -9434,3 +9434,6 @@ VNG-00104-02 evses -> 1: status : CHARGING
 GMR-00057-02 evses -> 0: status : CHARGING
 GMR-00069-01 evses -> 0: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
+
+2023-01-23 22:14:30
+GMR-00057-02 evses -> 0: status : CHARGING
