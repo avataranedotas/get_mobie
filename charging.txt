@@ -9400,3 +9400,13 @@ MTS-00097-01 evses -> 1: status : CHARGING
 MTS-00098-02 evses -> 1: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-23 19:36:27
+GMR-00057-02 evses -> 0: status : CHARGING
+GMR-00066-01 evses -> 0: status : CHARGING
+MTS-00086-02 evses -> 1: status : CHARGING
+MTS-00097-02 evses -> 0: status : CHARGING
+MTS-00097-01 evses -> 1: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
