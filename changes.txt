@@ -6212,3 +6212,9 @@ Removidos:[]
 2023-01-23 15:37:34
 Adicionados:[]
 Removidos:['MTS-00008', 'MTS-00009', 'VNG-00025', 'VNG-00026']
+
+2023-01-23 17:14:59
+Adicionados:['GMR-00064']
+
+GMR-00064-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00064', 'publish': True, 'address': 'Av. Conde Margaride,face ao Hotel Ibis', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-072', 'coordinates': {'latitude': '41.441793', 'longitude': '-8.302246'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00064-01', 'evse_id': 'PT*HEX*E*GMR*00064*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00064-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:07:04.823Z'}], 'last_updated': '2023-01-23T16:53:15.067Z'}, {'uid': 'GMR-00064-02', 'evse_id': 'PT*HEX*E*GMR*00064*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00064-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:07:04.825Z'}], 'last_updated': '2023-01-23T16:55:53.229Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-01-23T16:55:53.229Z'}
+Removidos:[]
