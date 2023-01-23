@@ -6184,3 +6184,7 @@ Adicionados:['SEI-90001']
 
 SEI-90001-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'SEI-90001', 'publish': True, 'address': 'Rua Luis Vaz de Camões', 'city': 'Seia', 'country': 'PRT', 'postal_code': '-', 'coordinates': {'latitude': '40.421747', 'longitude': '-7.703764'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SEI-90001-01', 'evse_id': 'PT*HRZ*E*SEI*90001*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SEI-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-01-21T00:17:59.392Z'}], 'last_updated': '2023-01-21T00:24:13.088Z'}, {'uid': 'SEI-90001-02', 'evse_id': 'PT*HRZ*E*SEI*90001*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'SEI-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-01-21T00:17:59.394Z'}], 'last_updated': '2023-01-21T00:24:11.95Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'NONE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-21T00:24:13.088Z'}
 Removidos:[]
+
+2023-01-23 10:17:02
+Adicionados:[]
+Removidos:['MTS-00002', 'MTS-00003', 'MTS-00014', 'MTS-00015']
