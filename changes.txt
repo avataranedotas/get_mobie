@@ -6188,3 +6188,9 @@ Removidos:[]
 2023-01-23 10:17:02
 Adicionados:[]
 Removidos:['MTS-00002', 'MTS-00003', 'MTS-00014', 'MTS-00015']
+
+2023-01-23 13:00:28
+Adicionados:['GMR-00059']
+
+GMR-00059-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00059', 'publish': True, 'address': 'Rua do Miral, frente ao nº 84', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-318', 'coordinates': {'latitude': '41.427048', 'longitude': '-8.357135'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00059-02', 'evse_id': 'PT*HEX*E*GMR*00059*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00059-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2022-10-18T18:05:49.302Z'}], 'last_updated': '2023-01-23T12:45:57.869Z'}, {'uid': 'GMR-00059-01', 'evse_id': 'PT*HEX*E*GMR*00059*01', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00059-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2022-10-18T18:05:49.3Z'}], 'last_updated': '2023-01-23T12:46:42.471Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-01-23T12:46:42.471Z'}
+Removidos:[]
