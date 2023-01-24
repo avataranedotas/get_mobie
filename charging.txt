@@ -9672,3 +9672,7 @@ VNG-00104-02 evses -> 1: status : CHARGING
 LRA-00077-02 evses -> 0: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-24 23:36:34
+LRA-00077-02 evses -> 0: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
