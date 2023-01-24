@@ -6274,3 +6274,25 @@ Removidos:[]
 2023-01-24 16:21:26
 Adicionados:[]
 Removidos:['PRD-00014']
+
+2023-01-24 16:45:09
+PLM-00025
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PLM-00025
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 200
+PLM-00025
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+PLM-00025
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PLM-00025
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 180000
