@@ -6264,3 +6264,9 @@ BRG-00004
 evses -> 2 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-01-24 12:31:41
+Adicionados:['PRD-00014']
+
+PRD-00014-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PRD-00014', 'publish': True, 'address': 'BK Paredes R. da Igreja Velha', 'city': 'Paredes', 'country': 'PRT', 'postal_code': '4580-113', 'coordinates': {'latitude': '41.2049663', 'longitude': '-8.3257573'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRD-00014-01', 'evse_id': 'PT*EDP*E*PRD*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-16T12:25:42.6Z'}], 'last_updated': '2023-01-24T12:26:28.243Z'}, {'uid': 'PRD-00014-02', 'evse_id': 'PT*EDP*E*PRD*00014*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00014-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-01-16T12:25:42.602Z'}], 'last_updated': '2023-01-24T12:26:34.786Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-01-24T12:26:34.786Z'}
+Removidos:[]
