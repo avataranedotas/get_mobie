@@ -9457,3 +9457,8 @@ VNG-00104-01 evses -> 0: status : CHARGING
 
 2023-01-24 09:14:57
 LLE-00110-02 evses -> 1: status : CHARGING
+
+2023-01-24 09:36:28
+LLE-00110-02 evses -> 1: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
