@@ -9964,3 +9964,11 @@ LRA-00078-01 evses -> 0: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-25 20:36:35
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00110-01 evses -> 0: status : CHARGING
+LRA-00077-02 evses -> 0: status : CHARGING
+LRA-00078-01 evses -> 0: status : CHARGING
+LRA-00079-01 evses -> 1: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
