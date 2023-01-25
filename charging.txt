@@ -9744,3 +9744,16 @@ GMR-00070-02 evses -> 0: status : CHARGING
 LLE-00110-02 evses -> 1: status : CHARGING
 LRA-00079-02 evses -> 0: status : CHARGING
 MTS-00098-01 evses -> 0: status : CHARGING
+
+2023-01-25 11:12:46
+AVR-00022-01 evses -> 0: status : CHARGING
+BRR-00014-02 evses -> 1: status : CHARGING
+GMR-00064-01 evses -> 0: status : CHARGING
+GMR-00070-02 evses -> 0: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
+LRA-00077-02 evses -> 0: status : CHARGING
+LRA-00079-02 evses -> 0: status : CHARGING
+MTS-00097-01 evses -> 1: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
