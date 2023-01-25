@@ -9719,3 +9719,9 @@ GMR-00064-01 evses -> 0: status : CHARGING
 GMR-00070-02 evses -> 0: status : CHARGING
 LLE-00110-02 evses -> 1: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-25 09:36:27
+AVR-00022-01 evses -> 0: status : CHARGING
+GMR-00064-01 evses -> 0: status : CHARGING
+GMR-00070-02 evses -> 0: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
