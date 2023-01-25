@@ -9957,3 +9957,10 @@ VNG-00103-02 evses -> 0: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-25 20:16:05
+LLE-00110-01 evses -> 0: status : CHARGING
+LRA-00078-01 evses -> 0: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
