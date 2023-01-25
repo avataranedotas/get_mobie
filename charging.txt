@@ -9831,3 +9831,20 @@ VNG-00103-02 evses -> 0: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-25 14:36:36
+ABT-00013-01 evses -> 0: status : CHARGING
+AVR-00022-01 evses -> 0: status : CHARGING
+GMR-00070-01 evses -> 1: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
+LSB-80149-01 evses -> 0: status : CHARGING
+MTS-00063-02 evses -> 0: status : CHARGING
+MTS-00086-01 evses -> 0: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
+VNG-00103-02 evses -> 0: status : CHARGING
+VNG-00103-01 evses -> 1: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
