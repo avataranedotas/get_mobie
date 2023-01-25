@@ -9947,3 +9947,13 @@ MTS-00097-02 evses -> 0: status : CHARGING
 VNG-00103-02 evses -> 0: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
+
+2023-01-25 19:36:09
+LLE-00110-01 evses -> 0: status : CHARGING
+LRA-00079-02 evses -> 0: status : CHARGING
+LSB-00551-1 evses -> 0: status : CHARGING
+MTS-00097-02 evses -> 0: status : CHARGING
+VNG-00103-02 evses -> 0: status : CHARGING
+VNG-00103-01 evses -> 1: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
