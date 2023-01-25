@@ -9972,3 +9972,11 @@ LRA-00077-02 evses -> 0: status : CHARGING
 LRA-00078-01 evses -> 0: status : CHARGING
 LRA-00079-01 evses -> 1: status : CHARGING
 MTS-00098-02 evses -> 1: status : CHARGING
+
+2023-01-25 21:12:00
+GMR-00066-02 evses -> 1: status : CHARGING
+LRA-00077-02 evses -> 0: status : CHARGING
+LRA-00078-02 evses -> 1: status : CHARGING
+MTS-00097-02 evses -> 0: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
