@@ -10057,3 +10057,7 @@ VNG-00103-01 evses -> 1: status : CHARGING
 2023-01-26 07:36:18
 CSC-00106-01 evses -> 0: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
+
+2023-01-26 08:19:19
+CSC-00106-01 evses -> 0: status : CHARGING
+GMR-00070-02 evses -> 0: status : CHARGING
