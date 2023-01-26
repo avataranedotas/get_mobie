@@ -6334,3 +6334,77 @@ Removidos:[]
 2023-01-26 15:15:43
 Adicionados:[]
 Removidos:['AMD-00014', 'AMD-00024']
+
+2023-01-26 16:20:03
+CSC-00122
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+CSC-00122
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+CSC-00123
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+CSC-00123
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LLE-00107
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+LLE-00108
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+LLE-00109
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+LLE-00110
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+LLE-00111
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+MTS-00056
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MTS-00056
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MTS-00097
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MTS-00098
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MTS-00098
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+VNG-00103
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+VNG-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+VNG-00104
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+VNG-00104
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
