@@ -6408,3 +6408,13 @@ VNG-00104
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2023-01-26 17:13:53
+LLE-00112
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
+LLE-00113
+: 
+ NEW address : MAR Shopping Algarve – Av. Algarve
+ OLD address : Av. Algarve
