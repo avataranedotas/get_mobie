@@ -10387,3 +10387,6 @@ MTS-00098-02 evses -> 1: status : CHARGING
 2023-01-26 22:36:13
 CSC-00106-01 evses -> 0: status : CHARGING
 MTS-00098-02 evses -> 1: status : CHARGING
+
+2023-01-26 23:16:06
+CSC-00106-02 evses -> 1: status : CHARGING
