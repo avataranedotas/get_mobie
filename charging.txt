@@ -10187,3 +10187,18 @@ MTS-00097-02 evses -> 0: status : CHARGING
 MTS-00098-02 evses -> 1: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-26 14:13:57
+AVR-00022-02 evses -> 1: status : CHARGING
+GMR-00070-01 evses -> 1: status : CHARGING
+GMR-00071-02 evses -> 0: status : CHARGING
+LLE-00110-02 evses -> 1: status : CHARGING
+LLE-00111-02 evses -> 1: status : CHARGING
+LRA-00077-01 evses -> 1: status : CHARGING
+LRA-00079-01 evses -> 1: status : CHARGING
+MTS-00097-02 evses -> 0: status : CHARGING
+MTS-00097-01 evses -> 1: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
