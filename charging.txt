@@ -10373,3 +10373,7 @@ BRR-00008-1 evses -> 0: status : CHARGING
 CSC-00106-01 evses -> 0: status : CHARGING
 GMR-00066-02 evses -> 1: status : CHARGING
 MTS-00098-01 evses -> 0: status : CHARGING
+
+2023-01-26 21:36:34
+BRR-00008-1 evses -> 0: status : CHARGING
+CSC-00106-01 evses -> 0: status : CHARGING
