@@ -10022,3 +10022,6 @@ MTS-00098-02 evses -> 1: status : CHARGING
 
 2023-01-26 02:30:46
 VNG-00103-01 evses -> 1: status : CHARGING
+
+2023-01-26 03:16:56
+VNG-00103-01 evses -> 1: status : CHARGING
