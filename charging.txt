@@ -10333,3 +10333,15 @@ PNF-00018-02 evses -> 0: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
 VNG-00104-02 evses -> 1: status : CHARGING
+
+2023-01-26 19:36:15
+AVR-00022-02 evses -> 1: status : CHARGING
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00111-01 evses -> 0: status : CHARGING
+LRS-00077-02 evses -> 1: status : CHARGING
+MTS-00063-02 evses -> 0: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
+VNG-00104-02 evses -> 1: status : CHARGING
