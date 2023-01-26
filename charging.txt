@@ -10028,3 +10028,6 @@ VNG-00103-01 evses -> 1: status : CHARGING
 
 2023-01-26 03:36:51
 VNG-00103-01 evses -> 1: status : CHARGING
+
+2023-01-26 04:18:43
+VNG-00103-01 evses -> 1: status : CHARGING
