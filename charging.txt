@@ -10757,3 +10757,15 @@ PNF-00018-02 evses -> 0: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 VNG-00103-02 evses -> 0: status : CHARGING
 VNG-00104-01 evses -> 0: status : CHARGING
+
+2023-01-27 19:12:16
+CSC-00122-02 evses -> 0: status : CHARGING
+CSC-00123-02 evses -> 0: status : CHARGING
+CSC-00123-01 evses -> 1: status : CHARGING
+GMR-00058-02 evses -> 0: status : CHARGING
+LRA-00083-01 evses -> 0: status : CHARGING
+LRS-00077-02 evses -> 1: status : CHARGING
+MTS-00097-02 evses -> 0: status : CHARGING
+MTS-00098-01 evses -> 0: status : CHARGING
+MTS-00098-02 evses -> 1: status : CHARGING
+VNG-00104-01 evses -> 0: status : CHARGING
