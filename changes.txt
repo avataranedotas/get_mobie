@@ -6450,3 +6450,2489 @@ VIS-00046
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 50000
+
+2023-01-27 20:36:28
+ABF-00024
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ABF-00024
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ABF-00035
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ABF-00035
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ABT-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ABT-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ACB-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ACB-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ACH-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ACH-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ADV-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AGH-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+AJT-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+AJT-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+AJT-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AJT-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALB-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALB-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALM-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALM-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALM-00040
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ALQ-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALQ-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ALR-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AMD-00032
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AMD-00032
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ARC-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ARC-00002
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ASL-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ASL-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+AVR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVR-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVR-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVR-00031
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVR-00031
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVZ-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AVZ-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AZB-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+AZB-00006
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BGC-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BGC-00006
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BGC-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BGC-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BJA-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BJA-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+BRG-00027
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00027
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00044
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00044
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00045
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+BRG-00045
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00010
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CBR-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00017
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00043
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00043
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00044
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CBR-00044
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CHM-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CHM-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CHT-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CLB-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CLB-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CLB-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CLB-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00015
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CSC-00046
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CSC-00047
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+CSC-00059
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00059
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00068
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00068
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00070
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00070
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00076
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00076
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00077
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00077
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00078
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00078
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00082
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CSC-00082
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTB-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTB-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTX-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTX-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTX-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CTX-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CVR-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CVR-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ENT-00002
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ETR-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ETR-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ETR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ETR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ETZ-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ETZ-00010
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAF-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAF-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FAR-00021
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+FEUP-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FEUP-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FEUP-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FEUP-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FIG-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+FLG-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FLG-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FND-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FND-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FUN-00023
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FUN-00023
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FUN-00025
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+FUN-00025
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GDM-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GDM-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GDM-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GDM-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00009
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00016
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+GMR-00052
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GMR-00052
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GRD-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+GRD-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GRD-00012
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GRD-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+GRD-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+HRT-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ILH-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ILH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LGA-00015
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LGA-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LGF-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LLE-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LLE-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LLE-00028
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LLE-00054
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LLE-00054
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00018
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00018
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRA-00038
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00034
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LRS-00044
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LRS-00055
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00055
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00056
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00056
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00057
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00057
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00058
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00058
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00059
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00059
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00060
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LRS-00060
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00019
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00030
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00030
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00090
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00090
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00201
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00205
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00205
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00206
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00206
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00265
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00270
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00272
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00272
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00277
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00278
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00279
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00280
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00281
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00282
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00301
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+LSB-00310
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00310
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00316
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00316
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00318
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00318
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00328
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00328
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00331
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00331
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00332
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00332
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00335
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00335
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00344
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00344
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00350
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00350
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00352
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00352
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00377
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00377
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00378
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00378
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00398
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00398
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00400
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00400
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00401
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00401
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00408
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-00408
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MAD-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MAI-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MAI-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MAI-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MAI-00017
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MCH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MFR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00018
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MFR-00018
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MMN-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MMN-00002
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MMN-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MMN-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MMV-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MMV-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00015
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTJ-00017
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MTS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MTS-00024
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+MTS-00029
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00029
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00030
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00030
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00031
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00031
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00032
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00032
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00037
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00037
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00038
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00038
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+NRD-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ODM-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ODM-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ODV-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+ODV-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ODV-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00031
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00031
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00032
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00032
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00033
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00033
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00034
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00034
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00035
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00035
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00036
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00036
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00037
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00037
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00038
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00038
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00044
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00044
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00045
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00045
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00056
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00056
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00057
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00057
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00059
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00059
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00062
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00062
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00064
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00064
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00066
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00066
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00068
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00068
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00069
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00069
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00070
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00070
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00071
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00071
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00072
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00072
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00073
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00073
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00074
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00074
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00075
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00075
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00076
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00076
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00077
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00077
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00078
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00078
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00079
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00079
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00080
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00080
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00081
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00081
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00082
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00082
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00084
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00084
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00085
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00085
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00086
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00086
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00087
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00087
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00090
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00090
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00095
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00095
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00096
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00096
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00099
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00099
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00117
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00117
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ORM-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ORM-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ORQ-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+ORQ-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OVR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PDL-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PDL-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PDL-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PDL-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PFR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PFR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PLM-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PNF-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PNF-00010
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PNF-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PNF-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PNF-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PNF-00015
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PRT-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00014
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00014
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00015
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PRT-00020
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PRT-00030
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00030
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00036
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00036
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00037
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00037
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00049
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00049
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00052
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00052
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00072
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00073
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00073
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00091
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00091
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00096
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00096
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00097
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00097
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00098
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00098
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00099
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00099
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00106
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00106
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00127
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00127
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00128
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00128
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00132
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00132
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00133
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00133
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00136
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00136
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00137
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00137
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00138
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PRT-00138
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTG-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTG-00009
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTL-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTL-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTL-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PTL-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVC-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+PVZ-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PVZ-00012
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+RGR-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+SBG-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SBG-00002
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SCD-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SCD-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SCG-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+SMG-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SMG-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00019
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00022
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00022
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00044
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00044
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00046
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00046
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00053
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNT-00053
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SPS-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SPS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SRT-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SRT-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SSB-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SSB-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SSB-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STB-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STB-00016
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STR-00024
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STR-00024
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STS-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STS-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STS-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SXL-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+SXL-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+SXL-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SXL-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SXL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SXL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TND-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TND-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TNV-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+TNV-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TNV-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TRF-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TRF-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+TVD-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+TVD-00015
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00015
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00016
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00016
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00019
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVD-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVR-00012
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCD-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCD-00006
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00020
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00020
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00022
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00022
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00024
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VCT-00024
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00006
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VFX-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VFX-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00017
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00021
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00021
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00022
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VFX-00022
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VGS-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VGS-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VIS-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VIS-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00008
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00012
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00013
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIS-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIZ-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VIZ-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VLG-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VLG-00004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VLG-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VLG-00017
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VLS-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VND-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VND-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VND-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VND-00008
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VND-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VND-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNF-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VNF-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VNF-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VNF-00013
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNF-00013
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNF-00018
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNF-00018
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00016
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VNG-00019
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00043
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00043
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00044
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00044
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00054
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00054
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00060
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00060
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00065
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00065
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00066
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00066
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00067
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00067
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00068
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNG-00068
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VPT-00001
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VPV-00001
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VRL-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VRL-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VRL-00009
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VRL-00012
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VRL-00012
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VRS-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VRS-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VVD-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VVD-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VVD-00005
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VVD-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VVD-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VZL-00001
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
+VZL-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_1_PHASE
