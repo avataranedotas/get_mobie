@@ -10402,3 +10402,9 @@ CSC-00106-01 evses -> 0: status : CHARGING
 
 2023-01-27 07:13:42
 CSC-00106-01 evses -> 0: status : CHARGING
+
+2023-01-27 08:39:09
+BRR-00008-1 evses -> 0: status : CHARGING
+GMR-00070-01 evses -> 1: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
