@@ -11424,3 +11424,11 @@ LRA-00083-02 evses -> 1: status : CHARGING
 LRA-00084-02 evses -> 0: status : CHARGING
 LRS-00085-02 evses -> 1: status : CHARGING
 PRT-00173-01 evses -> 0: status : CHARGING
+
+2023-01-28 19:36:17
+CBR-00057-02 evses -> 0: status : CHARGING
+LRA-00083-02 evses -> 1: status : CHARGING
+LRA-00084-02 evses -> 0: status : CHARGING
+LRS-00085-01 evses -> 0: status : CHARGING
+LRS-00085-02 evses -> 1: status : CHARGING
+PRT-00173-01 evses -> 0: status : CHARGING
