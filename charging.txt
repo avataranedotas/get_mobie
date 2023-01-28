@@ -10,3 +10,6 @@ CBR-00057-02 evses -> 0: status : CHARGING
 2023-01-28 20:36:26
 AMD-00055-01 evses -> 1: status : CHARGING
 CBR-00057-02 evses -> 0: status : CHARGING
+
+2023-01-28 21:12:33
+CBR-00057-02 evses -> 0: status : CHARGING
