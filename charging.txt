@@ -10895,3 +10895,9 @@ GMR-00070-02 evses -> 0: status : CHARGING
 LSB-80149-01 evses -> 0: status : CHARGING
 LSB-80149-02 evses -> 1: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
+
+2023-01-28 02:32:25
+GMR-00064-01 evses -> 0: status : CHARGING
+LSB-80149-01 evses -> 0: status : CHARGING
+LSB-80149-02 evses -> 1: status : CHARGING
+VNG-00103-01 evses -> 1: status : CHARGING
