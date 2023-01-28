@@ -11399,3 +11399,14 @@ CSC-00123-01 evses -> 1: status : CHARGING
 LLE-00109-02 evses -> 0: status : CHARGING
 LRA-00083-02 evses -> 1: status : CHARGING
 LRA-00084-02 evses -> 0: status : CHARGING
+
+2023-01-28 18:37:27
+AMD-00070-02 evses -> 1: status : CHARGING
+CBR-00057-02 evses -> 0: status : CHARGING
+CSC-00106-02 evses -> 1: status : CHARGING
+CSC-00122-01 evses -> 1: status : CHARGING
+CSC-00123-02 evses -> 0: status : CHARGING
+CSC-00123-01 evses -> 1: status : CHARGING
+LLE-00109-02 evses -> 0: status : CHARGING
+LRA-00083-02 evses -> 1: status : CHARGING
+LRA-00084-02 evses -> 0: status : CHARGING
