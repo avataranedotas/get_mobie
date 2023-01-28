@@ -10931,3 +10931,7 @@ VNG-00103-01 evses -> 1: status : CHARGING
 2023-01-28 06:18:24
 LSB-80149-02 evses -> 1: status : CHARGING
 VNG-00103-01 evses -> 1: status : CHARGING
+
+2023-01-28 06:38:38
+LSB-80149-02 evses -> 1: status : CHARGING
+VNG-00103-01 evses -> 1: status : CHARGING
