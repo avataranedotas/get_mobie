@@ -19,3 +19,6 @@ CBR-00057-02 evses -> 0: status : CHARGING
 
 2023-01-29 02:36:27
 GMR-00064-01 evses -> 0: status : CHARGING
+
+2023-01-29 04:18:13
+GMR-00064-01 evses -> 0: status : CHARGING
