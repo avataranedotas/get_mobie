@@ -120,3 +120,8 @@ SVC-00003-02 evses -> 1: status : CHARGING
 GMR-00059-02 evses -> 0: status : CHARGING
 GMR-00059-02 evses -> 0: status : CHARGING
 GMR-00066-02 evses -> 1: status : CHARGING
+
+2023-01-29 20:36:35
+GMR-00059-02 evses -> 0: status : CHARGING
+GMR-00059-02 evses -> 0: status : CHARGING
+GMR-00066-02 evses -> 1: status : CHARGING
