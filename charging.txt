@@ -231,3 +231,6 @@ SXL-00028-02 evses -> 0: status : CHARGING
 AMD-00075-02 evses -> 0: status : CHARGING
 LLE-00092-02 evses -> 0: status : CHARGING
 SXL-00028-02 evses -> 0: status : CHARGING
+
+2023-01-30 16:21:33
+AMD-00075-02 evses -> 0: status : CHARGING
