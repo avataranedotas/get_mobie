@@ -254,3 +254,8 @@ PNF-00018-01 evses -> 1: status : CHARGING
 
 2023-01-30 19:12:22
 LMG-00009-02 evses -> 0: status : CHARGING
+
+2023-01-30 19:36:07
+FAR-00034-02 evses -> 1: status : CHARGING
+LMG-00009-02 evses -> 0: status : CHARGING
+SXL-00028-01 evses -> 1: status : CHARGING
