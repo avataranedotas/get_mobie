@@ -169,3 +169,7 @@ LLE-00064-02 evses -> 1: status : CHARGING
 2023-01-30 03:17:07
 GMR-00066-02 evses -> 1: status : CHARGING
 LLE-00064-02 evses -> 1: status : CHARGING
+
+2023-01-30 03:36:57
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00064-02 evses -> 1: status : CHARGING
