@@ -1,0 +1,6 @@
+
+2023-01-30 12:31:26
+Adicionados:['VCT-00035']
+
+VCT-00035-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VCT-00035', 'publish': True, 'address': 'Estrada Nacional Nº13', 'city': 'Viana do Castelo', 'country': 'PRT', 'postal_code': '4920-140', 'coordinates': {'latitude': '41.9779927', 'longitude': '-8.683745'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VCT-00035-01', 'evse_id': 'PT*EDP*E*VCT*00035*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'VCT-00035-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-30T12:20:40.263Z'}], 'last_updated': '2023-01-30T12:20:40.263Z'}, {'uid': 'VCT-00035-02', 'evse_id': 'PT*EDP*E*VCT*00035*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'VCT-00035-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-30T12:20:40.263Z'}], 'last_updated': '2023-01-30T12:20:40.263Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-01-30T12:20:40.263Z'}
+Removidos:[]
