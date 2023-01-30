@@ -208,3 +208,8 @@ LLE-00064-02 evses -> 1: status : CHARGING
 
 2023-01-30 08:39:57
 LLE-00064-02 evses -> 1: status : CHARGING
+
+2023-01-30 14:14:13
+ABF-00043-01 evses -> 0: status : CHARGING
+AMD-00075-02 evses -> 0: status : CHARGING
+GMR-00064-01 evses -> 0: status : CHARGING
