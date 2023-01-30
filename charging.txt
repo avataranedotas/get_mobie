@@ -271,3 +271,8 @@ GMR-00057-01 evses -> 1: status : CHARGING
 LMG-00009-02 evses -> 0: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 SXL-00028-01 evses -> 1: status : CHARGING
+
+2023-01-30 21:13:19
+GMR-00057-01 evses -> 1: status : CHARGING
+LMG-00009-02 evses -> 0: status : CHARGING
+SXL-00028-01 evses -> 1: status : CHARGING
