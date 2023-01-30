@@ -243,3 +243,7 @@ LMG-00009-02 evses -> 0: status : CHARGING
 
 2023-01-30 17:36:12
 LMG-00009-02 evses -> 0: status : CHARGING
+
+2023-01-30 18:19:13
+LMG-00009-02 evses -> 0: status : CHARGING
+PLM-00025-02 evses -> 1: status : CHARGING
