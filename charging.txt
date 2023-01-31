@@ -423,3 +423,6 @@ ALM-00057-02 evses -> 0: status : CHARGING
 ALM-00057-01 evses -> 1: status : CHARGING
 BRR-00014-02 evses -> 1: status : CHARGING
 LLE-00064-02 evses -> 1: status : CHARGING
+
+2023-01-31 17:36:16
+ABF-00043-01 evses -> 0: status : CHARGING
