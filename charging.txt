@@ -300,3 +300,7 @@ LMG-00009-02 evses -> 0: status : CHARGING
 2023-01-30 23:36:19
 GMR-00066-02 evses -> 1: status : CHARGING
 LMG-00009-02 evses -> 0: status : CHARGING
+
+2023-01-31 01:20:44
+GMR-00066-02 evses -> 1: status : CHARGING
+LMG-00009-02 evses -> 0: status : CHARGING
