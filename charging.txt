@@ -403,3 +403,6 @@ LLE-00064-02 evses -> 1: status : CHARGING
 2023-01-31 15:16:21
 LLE-00064-02 evses -> 1: status : CHARGING
 VCD-00015-02 evses -> 1: status : CHARGING
+
+2023-01-31 15:37:15
+LLE-00064-02 evses -> 1: status : CHARGING
