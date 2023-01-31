@@ -406,3 +406,9 @@ VCD-00015-02 evses -> 1: status : CHARGING
 
 2023-01-31 15:37:15
 LLE-00064-02 evses -> 1: status : CHARGING
+
+2023-01-31 16:21:50
+BRR-00014-02 evses -> 1: status : CHARGING
+LLE-00064-02 evses -> 1: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+SNT-00091-03 evses -> 2: status : CHARGING
