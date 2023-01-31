@@ -379,3 +379,7 @@ VVD-00012-03 evses -> 0: status : CHARGING
 LLE-00092-02 evses -> 0: status : CHARGING
 MTA-00006-01 evses -> 0: status : CHARGING
 PNF-00018-01 evses -> 1: status : CHARGING
+
+2023-01-31 12:30:15
+PLM-00025-02 evses -> 1: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
