@@ -374,3 +374,8 @@ MTA-00006-01 evses -> 0: status : CHARGING
 PNF-00018-01 evses -> 1: status : CHARGING
 VVD-00012-03 evses -> 0: status : CHARGING
 VVD-00012-03 evses -> 0: status : CHARGING
+
+2023-01-31 11:36:28
+LLE-00092-02 evses -> 0: status : CHARGING
+MTA-00006-01 evses -> 0: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
