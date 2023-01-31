@@ -391,3 +391,7 @@ PLM-00025-02 evses -> 1: status : CHARGING
 GMR-00057-01 evses -> 1: status : CHARGING
 PLM-00025-02 evses -> 1: status : CHARGING
 PRT-00158-02 evses -> 0: status : CHARGING
+
+2023-01-31 14:13:58
+GMR-00057-01 evses -> 1: status : CHARGING
+PRT-00158-02 evses -> 0: status : CHARGING
