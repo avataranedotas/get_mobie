@@ -386,3 +386,8 @@ PNF-00018-02 evses -> 0: status : CHARGING
 
 2023-01-31 13:04:14
 PLM-00025-02 evses -> 1: status : CHARGING
+
+2023-01-31 13:39:37
+GMR-00057-01 evses -> 1: status : CHARGING
+PLM-00025-02 evses -> 1: status : CHARGING
+PRT-00158-02 evses -> 0: status : CHARGING
