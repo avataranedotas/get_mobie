@@ -364,3 +364,7 @@ LMG-00009-02 evses -> 0: status : CHARGING
 
 2023-01-31 10:16:47
 MTA-00006-01 evses -> 0: status : CHARGING
+
+2023-01-31 10:37:45
+MTA-00006-01 evses -> 0: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
