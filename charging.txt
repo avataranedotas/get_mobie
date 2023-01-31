@@ -457,3 +457,6 @@ MTA-00006-02 evses -> 1: status : CHARGING
 2023-01-31 22:14:40
 GMR-00064-01 evses -> 0: status : CHARGING
 MTA-00006-02 evses -> 1: status : CHARGING
+
+2023-01-31 22:36:19
+GMR-00064-01 evses -> 0: status : CHARGING
