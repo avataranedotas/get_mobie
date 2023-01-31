@@ -361,3 +361,6 @@ LMG-00009-02 evses -> 0: status : CHARGING
 
 2023-01-31 09:36:40
 LMG-00009-02 evses -> 0: status : CHARGING
+
+2023-01-31 10:16:47
+MTA-00006-01 evses -> 0: status : CHARGING
