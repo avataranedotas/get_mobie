@@ -496,3 +496,6 @@ GMR-00064-01 evses -> 0: status : CHARGING
 
 2023-02-01 06:40:31
 GMR-00064-01 evses -> 0: status : CHARGING
+
+2023-02-01 07:14:34
+GMR-00064-01 evses -> 0: status : CHARGING
