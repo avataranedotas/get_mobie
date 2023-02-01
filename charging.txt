@@ -618,3 +618,12 @@ MTA-00006-02 evses -> 1: status : CHARGING
 PNF-00018-02 evses -> 0: status : CHARGING
 SVC-00003-02 evses -> 1: status : CHARGING
 SXL-00027-01 evses -> 1: status : CHARGING
+
+2023-02-01 20:16:33
+ABF-00044-02 evses -> 1: status : CHARGING
+GMR-00066-01 evses -> 0: status : CHARGING
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00092-02 evses -> 0: status : CHARGING
+LRS-00091-02 evses -> 0: status : CHARGING
+LRS-00091-01 evses -> 1: status : CHARGING
+SVC-00003-02 evses -> 1: status : CHARGING
