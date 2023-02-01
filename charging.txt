@@ -654,3 +654,9 @@ SVC-00003-02 evses -> 1: status : CHARGING
 ABF-00044-02 evses -> 1: status : CHARGING
 GMR-00066-02 evses -> 1: status : CHARGING
 SVC-00003-02 evses -> 1: status : CHARGING
+
+2023-02-01 22:37:00
+ABF-00044-02 evses -> 1: status : CHARGING
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00064-02 evses -> 1: status : CHARGING
+SVC-00003-02 evses -> 1: status : CHARGING
