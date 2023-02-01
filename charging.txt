@@ -562,3 +562,7 @@ LNH-00005-01 evses -> 1: status : CHARGING
 GMR-00069-02 evses -> 1: status : CHARGING
 GMR-00069-02 evses -> 1: status : CHARGING
 SXL-00003-1 evses -> 0: status : CHARGING
+
+2023-02-01 15:37:32
+GMR-00069-02 evses -> 1: status : CHARGING
+GMR-00069-02 evses -> 1: status : CHARGING
