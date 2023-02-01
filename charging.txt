@@ -546,3 +546,6 @@ OER-00139-01 evses -> 2: status : CHARGING
 
 2023-02-01 13:22:54
 LRS-00086-02 evses -> 1: status : CHARGING
+
+2023-02-01 13:38:11
+LRS-00086-02 evses -> 1: status : CHARGING
