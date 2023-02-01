@@ -222,3 +222,9 @@ Removidos:[]
 2023-02-01 14:36:09
 Adicionados:[]
 Removidos:['GMR-00097']
+
+2023-02-01 15:16:17
+Adicionados:['SXL-00003']
+
+SXL-00003-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'SXL-00003', 'publish': True, 'address': 'R. Marcos Portugal - Quinta da Medideira', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2845-437', 'coordinates': {'latitude': '38.6313001', 'longitude': '-9.118531'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SXL-00003-1', 'evse_id': 'PT*PRI*E*SXL*00003*1', 'status': 'CHARGING', 'connectors': [{'id': 'SXL-00003-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:44:10.894Z'}], 'last_updated': '2023-02-01T14:59:58.929Z'}, {'uid': 'SXL-00003-2', 'evse_id': 'PT*PRI*E*SXL*00003*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'SXL-00003-2-1', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:44:10.896Z'}], 'last_updated': '2023-02-01T14:58:54.222Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-02-01T14:59:58.929Z'}
+Removidos:[]
