@@ -525,3 +525,10 @@ PNF-00018-01 evses -> 1: status : CHARGING
 GMR-00064-01 evses -> 0: status : CHARGING
 LLE-00064-02 evses -> 1: status : CHARGING
 PNF-00018-01 evses -> 1: status : CHARGING
+
+2023-02-01 11:13:24
+FAR-00034-01 evses -> 0: status : CHARGING
+GMR-00064-01 evses -> 0: status : CHARGING
+GMR-00064-02 evses -> 1: status : CHARGING
+LLE-00092-02 evses -> 0: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
