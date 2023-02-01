@@ -566,3 +566,12 @@ SXL-00003-1 evses -> 0: status : CHARGING
 2023-02-01 15:37:32
 GMR-00069-02 evses -> 1: status : CHARGING
 GMR-00069-02 evses -> 1: status : CHARGING
+
+2023-02-01 16:20:51
+ALM-00057-02 evses -> 0: status : CHARGING
+ALM-00057-01 evses -> 1: status : CHARGING
+GMR-00069-02 evses -> 1: status : CHARGING
+GMR-00069-02 evses -> 1: status : CHARGING
+LLE-00092-02 evses -> 0: status : CHARGING
+STB-00034-02 evses -> 2: status : CHARGING
+SVC-00004-01 evses -> 0: status : CHARGING
