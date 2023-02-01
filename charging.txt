@@ -588,3 +588,9 @@ SVC-00004-01 evses -> 0: status : CHARGING
 
 2023-02-01 17:36:46
 SVC-00004-01 evses -> 0: status : CHARGING
+
+2023-02-01 18:19:29
+GMR-00066-02 evses -> 1: status : CHARGING
+MTA-00006-02 evses -> 1: status : CHARGING
+PNF-00018-02 evses -> 0: status : CHARGING
+SVC-00004-01 evses -> 0: status : CHARGING
