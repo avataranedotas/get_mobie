@@ -627,3 +627,12 @@ LLE-00092-02 evses -> 0: status : CHARGING
 LRS-00091-02 evses -> 0: status : CHARGING
 LRS-00091-01 evses -> 1: status : CHARGING
 SVC-00003-02 evses -> 1: status : CHARGING
+
+2023-02-01 20:36:35
+ABF-00044-02 evses -> 1: status : CHARGING
+GMR-00066-01 evses -> 0: status : CHARGING
+GMR-00066-02 evses -> 1: status : CHARGING
+LLE-00092-02 evses -> 0: status : CHARGING
+LRS-00091-02 evses -> 0: status : CHARGING
+LRS-00091-01 evses -> 1: status : CHARGING
+SVC-00003-02 evses -> 1: status : CHARGING
