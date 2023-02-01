@@ -549,3 +549,6 @@ LRS-00086-02 evses -> 1: status : CHARGING
 
 2023-02-01 13:38:11
 LRS-00086-02 evses -> 1: status : CHARGING
+
+2023-02-01 14:14:32
+LNH-00005-01 evses -> 1: status : CHARGING
