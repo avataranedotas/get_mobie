@@ -515,3 +515,8 @@ GMR-00064-01 evses -> 0: status : CHARGING
 2023-02-01 09:36:39
 GMR-00064-01 evses -> 0: status : CHARGING
 PNF-00018-01 evses -> 1: status : CHARGING
+
+2023-02-01 10:17:19
+GMR-00064-01 evses -> 0: status : CHARGING
+LLE-00092-02 evses -> 0: status : CHARGING
+PNF-00018-01 evses -> 1: status : CHARGING
