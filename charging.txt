@@ -538,3 +538,8 @@ FAR-00034-01 evses -> 0: status : CHARGING
 GMR-00064-01 evses -> 0: status : CHARGING
 LLE-00092-02 evses -> 0: status : CHARGING
 PNF-00018-01 evses -> 1: status : CHARGING
+
+2023-02-01 12:32:02
+LLE-00092-02 evses -> 0: status : CHARGING
+LRS-00086-02 evses -> 1: status : CHARGING
+OER-00139-01 evses -> 2: status : CHARGING
