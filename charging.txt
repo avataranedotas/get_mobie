@@ -683,3 +683,7 @@ SXL-00003-1 evses -> 0: status : CHARGING
 2023-02-02 14:14:18
 CVL-00010-02 evses -> 1: status : CHARGING
 PRT-00157-02 evses -> 1: status : CHARGING
+
+2023-02-02 14:36:22
+CVL-00010-02 evses -> 1: status : CHARGING
+LRA-00080-02 evses -> 1: status : CHARGING
