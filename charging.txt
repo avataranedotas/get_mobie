@@ -776,3 +776,6 @@ MTS-00106-01 evses -> 2: status : CHARGING
 2023-02-03 19:35:59
 LRA-00080-02 evses -> 1: status : CHARGING
 MTS-00106-01 evses -> 2: status : CHARGING
+
+2023-02-03 20:02:29
+MTS-00106-01 evses -> 2: status : CHARGING
