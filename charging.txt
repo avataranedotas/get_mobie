@@ -766,3 +766,9 @@ SXL-00027-02 evses -> 0: status : CHARGING
 LSB-00580-02 evses -> 0: status : CHARGING
 LSB-00580-01 evses -> 1: status : CHARGING
 SXL-00027-02 evses -> 0: status : CHARGING
+
+2023-02-03 19:12:20
+LRA-00080-02 evses -> 1: status : CHARGING
+LSB-00580-02 evses -> 0: status : CHARGING
+LSB-00580-01 evses -> 1: status : CHARGING
+MTS-00106-01 evses -> 2: status : CHARGING
