@@ -755,3 +755,6 @@ LSB-00580-01 evses -> 1: status : CHARGING
 2023-02-03 17:14:11
 AMD-00077-01 evses -> 1: status : CHARGING
 LRA-00080-02 evses -> 1: status : CHARGING
+
+2023-02-03 17:36:10
+AMD-00077-01 evses -> 1: status : CHARGING
