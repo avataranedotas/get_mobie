@@ -789,3 +789,7 @@ MTS-00106-01 evses -> 2: status : CHARGING
 ABF-00046-01 evses -> 0: status : CHARGING
 MAI-00028-02 evses -> 1: status : CHARGING
 MTS-00106-01 evses -> 2: status : CHARGING
+
+2023-02-03 21:12:58
+ABF-00046-01 evses -> 0: status : CHARGING
+MTS-00106-01 evses -> 2: status : CHARGING
