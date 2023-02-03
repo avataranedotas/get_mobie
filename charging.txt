@@ -726,3 +726,8 @@ LRA-00080-02 evses -> 1: status : CHARGING
 
 2023-02-03 12:29:48
 AMD-00077-02 evses -> 0: status : CHARGING
+
+2023-02-03 13:26:33
+AVR-00042-01 evses -> 0: status : CHARGING
+AVR-00042-02 evses -> 1: status : CHARGING
+VFX-00032-03 evses -> 2: status : CHARGING
