@@ -742,3 +742,6 @@ LRA-00080-02 evses -> 1: status : CHARGING
 ETR-00012-01 evses -> 0: status : CHARGING
 ETR-00012-02 evses -> 1: status : CHARGING
 LRA-00080-02 evses -> 1: status : CHARGING
+
+2023-02-03 16:21:19
+LLE-00065-01 evses -> 0: status : CHARGING
