@@ -708,3 +708,7 @@ SXL-00003-1 evses -> 0: status : CHARGING
 2023-02-03 10:16:50
 BRR-00013-02 evses -> 0: status : CHARGING
 LRA-00080-02 evses -> 1: status : CHARGING
+
+2023-02-03 10:36:51
+BRR-00013-02 evses -> 0: status : CHARGING
+LRA-00080-02 evses -> 1: status : CHARGING
