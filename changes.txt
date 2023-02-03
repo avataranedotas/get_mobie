@@ -374,3 +374,9 @@ Removidos:[]
 2023-02-03 08:39:18
 Adicionados:[]
 Removidos:['GMR-00097']
+
+2023-02-03 09:15:23
+Adicionados:['GMR-00097']
+
+GMR-00097-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00097', 'publish': True, 'address': 'R. de Vila Verde 64,', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4810-225', 'coordinates': {'latitude': '41.437961', 'longitude': '-8.294555'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'GMR-00097-02', 'evse_id': 'PT*KLC*E*GMR*00097*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00097-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-01T09:58:37.999Z'}], 'last_updated': '2023-02-03T08:59:34.848Z'}, {'uid': 'GMR-00097-03', 'evse_id': 'PT*KLC*E*GMR*00097*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00097-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-01T09:58:38.001Z'}], 'last_updated': '2023-02-03T08:59:34.848Z'}, {'uid': 'GMR-00097-01', 'evse_id': 'PT*KLC*E*GMR*00097*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00097-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-02-01T09:58:37.998Z'}], 'last_updated': '2023-02-03T08:59:34.848Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-03T08:59:34.811Z'}
+Removidos:[]
