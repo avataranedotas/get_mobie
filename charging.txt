@@ -850,3 +850,7 @@ MAI-00028-02 evses -> 1: status : CHARGING
 2023-02-04 16:20:02
 AMD-00072-02 evses -> 0: status : CHARGING
 AMD-00073-02 evses -> 1: status : CHARGING
+
+2023-02-04 16:42:44
+AMD-00072-02 evses -> 0: status : CHARGING
+AMD-00073-02 evses -> 1: status : CHARGING
