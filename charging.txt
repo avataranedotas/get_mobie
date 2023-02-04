@@ -815,3 +815,6 @@ MTS-00106-01 evses -> 2: status : CHARGING
 2023-02-03 22:36:16
 ABF-00046-01 evses -> 0: status : CHARGING
 MTS-00106-01 evses -> 2: status : CHARGING
+
+2023-02-04 10:15:26
+PTM-00027-02 evses -> 0: status : CHARGING
