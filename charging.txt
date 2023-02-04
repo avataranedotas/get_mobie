@@ -877,3 +877,7 @@ AMD-00072-01 evses -> 1: status : CHARGING
 ELV-90001-01 evses -> 1: status : CHARGING
 MAI-00028-03 evses -> 0: status : CHARGING
 SXL-00003-1 evses -> 0: status : CHARGING
+
+2023-02-04 19:11:31
+ELV-90001-01 evses -> 1: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
