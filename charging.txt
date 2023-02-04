@@ -885,3 +885,7 @@ MAI-00028-03 evses -> 0: status : CHARGING
 2023-02-04 19:36:07
 ELV-90001-01 evses -> 1: status : CHARGING
 MAI-00028-03 evses -> 0: status : CHARGING
+
+2023-02-04 20:15:11
+ELV-90001-01 evses -> 1: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
