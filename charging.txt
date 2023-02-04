@@ -828,3 +828,6 @@ VIS-00046-03 evses -> 2: status : CHARGING
 
 2023-02-04 12:54:02
 VIS-00046-03 evses -> 2: status : CHARGING
+
+2023-02-04 13:18:12
+VIS-00046-03 evses -> 2: status : CHARGING
