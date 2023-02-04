@@ -837,3 +837,6 @@ VIS-00046-03 evses -> 2: status : CHARGING
 
 2023-02-04 14:12:50
 VIS-00046-03 evses -> 2: status : CHARGING
+
+2023-02-04 14:36:40
+VIS-00046-03 evses -> 2: status : CHARGING
