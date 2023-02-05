@@ -906,3 +906,6 @@ LLE-00091-02 evses -> 1: status : CHARGING
 2023-02-05 18:17:27
 LNH-00004-01 evses -> 0: status : CHARGING
 LRA-00081-02 evses -> 0: status : CHARGING
+
+2023-02-05 18:37:31
+LRA-00081-02 evses -> 0: status : CHARGING
