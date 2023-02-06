@@ -960,3 +960,6 @@ LNH-00005-01 evses -> 1: status : CHARGING
 
 2023-02-06 20:16:59
 LRS-00063-01 evses -> 1: status : CHARGING
+
+2023-02-06 22:14:32
+OER-00084-02 evses -> 0: status : CHARGING
