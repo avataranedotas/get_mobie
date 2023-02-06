@@ -930,3 +930,7 @@ SXL-00003-2 evses -> 1: status : CHARGING
 
 2023-02-06 10:38:26
 SXL-00003-2 evses -> 1: status : CHARGING
+
+2023-02-06 13:28:56
+VVD-00012-03 evses -> 0: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
