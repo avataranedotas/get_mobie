@@ -937,3 +937,6 @@ VVD-00012-03 evses -> 0: status : CHARGING
 
 2023-02-06 16:21:19
 PRD-00016-01 evses -> 0: status : CHARGING
+
+2023-02-06 17:13:13
+ELV-90001-02 evses -> 0: status : CHARGING
