@@ -940,3 +940,7 @@ PRD-00016-01 evses -> 0: status : CHARGING
 
 2023-02-06 17:13:13
 ELV-90001-02 evses -> 0: status : CHARGING
+
+2023-02-06 17:36:05
+ELV-90001-02 evses -> 0: status : CHARGING
+LNH-00005-01 evses -> 1: status : CHARGING
