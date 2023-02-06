@@ -924,3 +924,6 @@ MAI-00028-03 evses -> 0: status : CHARGING
 
 2023-02-05 21:36:13
 MAI-00028-03 evses -> 0: status : CHARGING
+
+2023-02-06 10:17:22
+SXL-00003-2 evses -> 1: status : CHARGING
