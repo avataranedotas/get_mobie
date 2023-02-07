@@ -1043,3 +1043,6 @@ PRD-00016-02 evses -> 1: status : CHARGING
 
 2023-02-07 23:15:25
 PRD-00016-02 evses -> 1: status : CHARGING
+
+2023-02-07 23:37:18
+PRD-00016-02 evses -> 1: status : CHARGING
