@@ -634,3 +634,9 @@ Removidos:[]
 2023-02-07 10:16:44
 Adicionados:[]
 Removidos:['ALM-00023']
+
+2023-02-07 10:37:57
+Adicionados:['PTM-00031']
+
+PTM-00031-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PTM-00031', 'publish': True, 'address': 'R. de São Pedro 72', 'city': 'Portimão', 'country': 'PRT', 'postal_code': '8500-448', 'coordinates': {'latitude': '37.1474203', 'longitude': '-8.5434114'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTM-00031-03', 'evse_id': 'PT*EDP*E*PTM*00031*03', 'status': 'CHARGING', 'connectors': [{'id': 'PTM-00031-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:46:46.308Z'}], 'last_updated': '2023-02-07T10:33:00.988Z'}, {'uid': 'PTM-00031-02', 'evse_id': 'PT*EDP*E*PTM*00031*02', 'status': 'CHARGING', 'connectors': [{'id': 'PTM-00031-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:46.306Z'}], 'last_updated': '2023-02-07T10:33:00.391Z'}, {'uid': 'PTM-00031-01', 'evse_id': 'PT*EDP*E*PTM*00031*01', 'status': 'CHARGING', 'connectors': [{'id': 'PTM-00031-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:46.305Z'}], 'last_updated': '2023-02-07T10:32:59.937Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-07T10:33:00.988Z'}
+Removidos:[]

@@ -966,3 +966,9 @@ OER-00084-02 evses -> 0: status : CHARGING
 
 2023-02-06 22:36:12
 OER-00084-02 evses -> 0: status : CHARGING
+
+2023-02-07 10:38:01
+PTM-00031-03 evses -> 0: status : CHARGING
+PTM-00031-02 evses -> 1: status : CHARGING
+PTM-00031-01 evses -> 2: status : CHARGING
+VFR-00049-03 evses -> 0: status : CHARGING
