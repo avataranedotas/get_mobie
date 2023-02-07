@@ -630,3 +630,7 @@ Adicionados:['BRR-00030']
 
 BRR-00030-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'BRR-00030', 'publish': True, 'address': 'Praceta António Gedeão 3', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2835-516', 'coordinates': {'latitude': '38.6339694', 'longitude': '-9.0423083'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRR-00030-01', 'evse_id': 'PT*TRK*E*BRR*00030*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00030-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:48:51.028Z'}], 'last_updated': '2023-02-06T14:30:00.91Z'}, {'uid': 'BRR-00030-02', 'evse_id': 'PT*TRK*E*BRR*00030*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00030-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:48:51.03Z'}], 'last_updated': '2023-02-06T14:18:52.702Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-02-06T14:30:00.91Z'}
 Removidos:[]
+
+2023-02-07 10:16:44
+Adicionados:[]
+Removidos:['ALM-00023']
