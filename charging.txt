@@ -990,3 +990,7 @@ VVD-00012-03 evses -> 0: status : CHARGING
 2023-02-07 14:14:13
 ELV-90001-01 evses -> 1: status : CHARGING
 OER-00084-02 evses -> 0: status : CHARGING
+
+2023-02-07 14:36:10
+ELV-90001-01 evses -> 1: status : CHARGING
+LRS-00063-01 evses -> 1: status : CHARGING
