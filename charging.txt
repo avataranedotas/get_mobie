@@ -982,3 +982,7 @@ OER-00084-01 evses -> 1: status : CHARGING
 PRD-00016-02 evses -> 1: status : CHARGING
 VVD-00012-03 evses -> 0: status : CHARGING
 VVD-00012-03 evses -> 0: status : CHARGING
+
+2023-02-07 12:31:16
+VVD-00012-03 evses -> 0: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
