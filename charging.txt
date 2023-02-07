@@ -976,3 +976,9 @@ VFR-00049-03 evses -> 0: status : CHARGING
 2023-02-07 11:12:44
 LLE-00091-01 evses -> 0: status : CHARGING
 VFR-00049-03 evses -> 0: status : CHARGING
+
+2023-02-07 11:36:24
+OER-00084-01 evses -> 1: status : CHARGING
+PRD-00016-02 evses -> 1: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING

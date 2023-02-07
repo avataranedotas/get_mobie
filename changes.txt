@@ -648,3 +648,7 @@ PTM-00032-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PTM-00032', 'publis
 
 PTM-00033-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PTM-00033', 'publish': True, 'address': 'R. de São Pedro 72', 'city': 'Portimão', 'country': 'PRT', 'postal_code': '8500-448', 'coordinates': {'latitude': '37.1474203', 'longitude': '-8.5434114'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTM-00033-02', 'evse_id': 'PT*EDP*E*PTM*00033*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTM-00033-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-27T11:26:08.884Z'}], 'last_updated': '2023-02-07T11:02:25.787Z'}, {'uid': 'PTM-00033-01', 'evse_id': 'PT*EDP*E*PTM*00033*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTM-00033-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-27T11:26:08.882Z'}], 'last_updated': '2023-02-07T11:02:25.219Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-07T11:02:25.787Z'}
 Removidos:[]
+
+2023-02-07 11:36:21
+Adicionados:[]
+Removidos:['PTM-00031', 'PTM-00032', 'PTM-00033']
