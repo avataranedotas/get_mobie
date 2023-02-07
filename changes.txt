@@ -652,3 +652,9 @@ Removidos:[]
 2023-02-07 11:36:21
 Adicionados:[]
 Removidos:['PTM-00031', 'PTM-00032', 'PTM-00033']
+
+2023-02-07 14:14:10
+Adicionados:['TMR-00013']
+
+TMR-00013-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'TMR-00013', 'publish': True, 'address': 'Rua de Santa Iria, 1', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-475', 'coordinates': {'latitude': '39.60303', 'longitude': '-8.40921'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TMR-00013-02', 'evse_id': 'PT*TRK*E*TMR*00013*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:17.763Z'}], 'last_updated': '2023-02-07T13:48:57.776Z'}, {'uid': 'TMR-00013-01', 'evse_id': 'PT*TRK*E*TMR*00013*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:17.762Z'}], 'last_updated': '2023-02-07T13:48:55.906Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-02-07T13:48:57.776Z'}
+Removidos:[]
