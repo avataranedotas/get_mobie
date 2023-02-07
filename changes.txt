@@ -668,3 +668,45 @@ TMR-00011-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'TMR-00011', 'publis
 
 TMR-00012-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'TMR-00012', 'publish': True, 'address': 'Rua João Santos Simões, 57', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-502', 'coordinates': {'latitude': '39.60535', 'longitude': '-8.4077999'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TMR-00012-01', 'evse_id': 'PT*TRK*E*TMR*00012*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:08.018Z'}], 'last_updated': '2023-02-07T14:47:37.062Z'}, {'uid': 'TMR-00012-02', 'evse_id': 'PT*TRK*E*TMR*00012*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:08.019Z'}], 'last_updated': '2023-02-07T14:47:37.062Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-02-07T14:47:37.019Z'}
 Removidos:[]
+
+2023-02-07 16:21:55
+PNF-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+PNF-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 80000
+PNF-00019
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PNF-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+PNF-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+PNF-00019
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+PNF-00019
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 80000
+PNF-00019
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PNF-00019
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+PNF-00019
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000

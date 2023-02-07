@@ -1008,3 +1008,8 @@ ELV-90001-01 evses -> 1: status : CHARGING
 LRS-00063-01 evses -> 1: status : CHARGING
 MAI-00028-02 evses -> 1: status : CHARGING
 PRD-00016-01 evses -> 0: status : CHARGING
+
+2023-02-07 16:21:58
+CSC-00121-02 evses -> 1: status : CHARGING
+ELV-90001-01 evses -> 1: status : CHARGING
+PRD-00016-01 evses -> 0: status : CHARGING
