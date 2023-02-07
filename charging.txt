@@ -1031,3 +1031,6 @@ SXL-00003-1 evses -> 0: status : CHARGING
 
 2023-02-07 21:13:43
 PRD-00016-02 evses -> 1: status : CHARGING
+
+2023-02-07 21:36:39
+PRD-00016-02 evses -> 1: status : CHARGING
