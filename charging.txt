@@ -994,3 +994,10 @@ OER-00084-02 evses -> 0: status : CHARGING
 2023-02-07 14:36:10
 ELV-90001-01 evses -> 1: status : CHARGING
 LRS-00063-01 evses -> 1: status : CHARGING
+
+2023-02-07 15:16:21
+ELV-90001-02 evses -> 0: status : CHARGING
+ELV-90001-01 evses -> 1: status : CHARGING
+LRS-00063-01 evses -> 1: status : CHARGING
+PRD-00016-01 evses -> 0: status : CHARGING
+PRD-00016-02 evses -> 1: status : CHARGING
