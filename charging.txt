@@ -1109,3 +1109,9 @@ VVD-00012-02 evses -> 2: status : CHARGING
 MAI-00028-03 evses -> 0: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-08 21:36:21
+LLE-00091-02 evses -> 1: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
