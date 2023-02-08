@@ -730,3 +730,9 @@ LSA-90002
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-02-08 11:13:21
+Adicionados:['FND-00011']
+
+FND-00011-->{'country_code': 'PT', 'party_id': 'CPS', 'id': 'FND-00011', 'publish': True, 'address': 'A23, 3 Teixoso Alqueria, Apt. 370', 'city': 'Fundão', 'country': 'PRT', 'postal_code': '6230-022', 'coordinates': {'latitude': '40.1901322', 'longitude': '-7.4879722'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'FND-00011-1', 'evse_id': 'PT*CPS*E*FND*00011*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'FND-00011-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:34:59.154Z'}], 'last_updated': '2023-02-08T10:43:28.139Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-08T10:43:28.139Z'}
+Removidos:[]
