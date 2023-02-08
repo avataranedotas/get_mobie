@@ -1090,3 +1090,7 @@ OER-00084-01 evses -> 1: status : CHARGING
 2023-02-08 19:12:53
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-08 19:36:09
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
