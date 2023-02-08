@@ -1063,3 +1063,7 @@ OER-00084-01 evses -> 1: status : CHARGING
 
 2023-02-08 14:37:01
 OER-00084-01 evses -> 1: status : CHARGING
+
+2023-02-08 15:16:45
+AMD-00073-02 evses -> 1: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
