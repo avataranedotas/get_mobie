@@ -1083,3 +1083,6 @@ SXL-00003-2 evses -> 1: status : CHARGING
 2023-02-08 17:14:39
 LRS-00063-01 evses -> 1: status : CHARGING
 PRD-00016-01 evses -> 0: status : CHARGING
+
+2023-02-08 18:20:03
+OER-00084-01 evses -> 1: status : CHARGING
