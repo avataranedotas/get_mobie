@@ -1055,3 +1055,8 @@ SXL-00003-2 evses -> 1: status : CHARGING
 
 2023-02-08 12:30:48
 MAI-00028-01 evses -> 2: status : CHARGING
+
+2023-02-08 14:14:42
+LRA-00081-01 evses -> 1: status : CHARGING
+LRS-00063-03 evses -> 2: status : CHARGING
+OER-00084-01 evses -> 1: status : CHARGING
