@@ -1074,3 +1074,8 @@ MAI-00028-03 evses -> 0: status : CHARGING
 
 2023-02-08 16:22:26
 PRD-00016-01 evses -> 0: status : CHARGING
+
+2023-02-08 16:46:50
+LRS-00063-01 evses -> 1: status : CHARGING
+PRD-00016-01 evses -> 0: status : CHARGING
+SXL-00003-2 evses -> 1: status : CHARGING
