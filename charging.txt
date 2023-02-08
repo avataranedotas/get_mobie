@@ -1127,3 +1127,7 @@ VVD-00012-02 evses -> 2: status : CHARGING
 2023-02-08 23:15:43
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-08 23:36:45
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
