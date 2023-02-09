@@ -1316,3 +1316,12 @@ LLE-00131-02 evses -> 0: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-09 18:20:05
+GDM-00009-01 evses -> 1: status : CHARGING
+LRA-00089-02 evses -> 0: status : CHARGING
+LRA-00089-03 evses -> 1: status : CHARGING
+VNF-00022-01 evses -> 0: status : CHARGING
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
