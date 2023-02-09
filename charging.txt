@@ -1261,3 +1261,14 @@ VNF-00022-02 evses -> 1: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-09 14:37:24
+CBR-00025-01 evses -> 1: status : CHARGING
+LNH-00005-02 evses -> 0: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
+OER-00084-02 evses -> 0: status : CHARGING
+SXL-00003-2 evses -> 1: status : CHARGING
+VNF-00022-02 evses -> 1: status : CHARGING
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
