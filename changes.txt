@@ -790,3 +790,9 @@ Removidos:[]
 2023-02-09 16:22:37
 Adicionados:[]
 Removidos:['CLT-00003']
+
+2023-02-09 17:14:46
+Adicionados:['LLE-00131']
+
+LLE-00131-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LLE-00131', 'publish': True, 'address': 'R. Maria Campina 4-6,', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-159', 'coordinates': {'latitude': '37.0900268', 'longitude': '-8.0340257'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00131-02', 'evse_id': 'PT*KLC*E*LLE*00131*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00131-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-02-09T11:10:56.923Z'}], 'last_updated': '2023-02-09T16:50:51.556Z'}, {'uid': 'LLE-00131-01', 'evse_id': 'PT*KLC*E*LLE*00131*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00131-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-09T11:10:56.922Z'}], 'last_updated': '2023-02-09T16:50:49.966Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-09T16:50:51.556Z'}
+Removidos:['GMR-00038']
