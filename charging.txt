@@ -1228,3 +1228,13 @@ SXL-00003-2 evses -> 1: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-09 13:29:38
+LNH-00005-02 evses -> 0: status : CHARGING
+LRS-00063-01 evses -> 1: status : CHARGING
+MAI-00028-03 evses -> 0: status : CHARGING
+OER-00084-02 evses -> 0: status : CHARGING
+TVR-00015-01 evses -> 2: status : CHARGING
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
