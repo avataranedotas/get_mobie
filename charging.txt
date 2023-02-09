@@ -1338,3 +1338,8 @@ VFR-00049-01 evses -> 1: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-09 19:36:29
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
