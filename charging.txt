@@ -1673,3 +1673,10 @@ PRD-00016-02 evses -> 1: status : CHARGING
 VFR-00049-03 evses -> 0: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-10 23:15:49
+CBR-00025-02 evses -> 0: status : CHARGING
+CBR-00025-01 evses -> 1: status : CHARGING
+PRD-00016-02 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
