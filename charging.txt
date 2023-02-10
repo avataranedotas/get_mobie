@@ -1593,3 +1593,11 @@ LRS-00063-02 evses -> 0: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-10 16:46:22
+CBR-00025-01 evses -> 1: status : CHARGING
+CSC-00121-02 evses -> 1: status : CHARGING
+ELV-90001-01 evses -> 1: status : CHARGING
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
