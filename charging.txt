@@ -1648,3 +1648,10 @@ PRD-00016-01 evses -> 0: status : CHARGING
 SXL-00025-01 evses -> 0: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-10 21:13:46
+PRD-00016-01 evses -> 0: status : CHARGING
+PRD-00016-02 evses -> 1: status : CHARGING
+SXL-00025-01 evses -> 0: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
