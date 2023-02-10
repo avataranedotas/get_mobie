@@ -1536,3 +1536,10 @@ MUR-90001-2 evses -> 0: status : CHARGING
 VRL-00011-01 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-10 13:23:15
+ELV-90001-02 evses -> 0: status : CHARGING
+MUR-90001-2 evses -> 0: status : CHARGING
+VRL-00011-01 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
