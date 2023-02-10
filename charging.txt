@@ -1660,3 +1660,8 @@ VVD-00012-02 evses -> 2: status : CHARGING
 PRD-00016-02 evses -> 1: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-10 22:15:16
+PRD-00016-02 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
