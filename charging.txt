@@ -1752,3 +1752,8 @@ VVD-00012-02 evses -> 2: status : CHARGING
 2023-02-11 10:36:29
 GMR-00096-02 evses -> 0: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-11 11:11:59
+BRG-00076-02 evses -> 1: status : CHARGING
+GMR-00096-02 evses -> 0: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
