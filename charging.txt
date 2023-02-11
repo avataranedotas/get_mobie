@@ -80,3 +80,10 @@ VVD-00012-02 evses -> 2: status : CHARGING
 BRG-00077-01 evses -> 1: status : CHARGING
 FAR-00035-01 evses -> 2: status : CHARGING
 VVD-00012-02 evses -> 2: status : CHARGING
+
+2023-02-11 21:12:46
+BRG-00077-01 evses -> 1: status : CHARGING
+FAR-00035-01 evses -> 2: status : CHARGING
+LRA-00089-01 evses -> 2: status : CHARGING
+SBA-00005-03 evses -> 1: status : CHARGING
+VVD-00012-02 evses -> 2: status : CHARGING
