@@ -206,3 +206,7 @@ SBA-00005-01 evses -> 0: status : CHARGING
 BRG-00077-01 evses -> 1: status : CHARGING
 MTS-00067-02 evses -> 1: status : CHARGING
 SBA-00005-01 evses -> 0: status : CHARGING
+
+2023-02-12 15:15:00
+BRG-00077-01 evses -> 1: status : CHARGING
+MTS-00067-02 evses -> 1: status : CHARGING
