@@ -242,3 +242,7 @@ VRM-00004-01 evses -> 1: status : CHARGING
 2023-02-12 18:18:19
 BRG-00077-01 evses -> 1: status : CHARGING
 VRM-00004-01 evses -> 1: status : CHARGING
+
+2023-02-12 18:38:34
+BRG-00077-01 evses -> 1: status : CHARGING
+VRM-00004-01 evses -> 1: status : CHARGING
