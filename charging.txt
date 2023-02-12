@@ -151,3 +151,7 @@ BRG-00077-01 evses -> 1: status : CHARGING
 
 2023-02-12 08:18:55
 BRG-00077-01 evses -> 1: status : CHARGING
+
+2023-02-12 08:38:57
+BRG-00077-01 evses -> 1: status : CHARGING
+LRA-00089-02 evses -> 0: status : CHARGING
