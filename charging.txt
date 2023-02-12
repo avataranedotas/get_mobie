@@ -118,3 +118,6 @@ VVD-00012-02 evses -> 2: status : CHARGING
 
 2023-02-12 02:37:49
 BRG-00077-01 evses -> 1: status : CHARGING
+
+2023-02-12 03:18:49
+BRG-00077-01 evses -> 1: status : CHARGING
