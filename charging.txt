@@ -331,3 +331,8 @@ BRG-00077-02 evses -> 2: status : CHARGING
 CSC-00061-1 evses -> 0: status : CHARGING
 CSC-00062-1 evses -> 0: status : CHARGING
 CSC-00064-1 evses -> 0: status : CHARGING
+
+2023-02-13 16:47:12
+BRG-00077-01 evses -> 1: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
