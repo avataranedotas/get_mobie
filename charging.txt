@@ -366,3 +366,8 @@ VVD-00012-01 evses -> 1: status : CHARGING
 AMD-00059-01 evses -> 1: status : CHARGING
 CSC-00064-1 evses -> 0: status : CHARGING
 LRA-00089-03 evses -> 1: status : CHARGING
+
+2023-02-13 20:37:26
+AMD-00059-01 evses -> 1: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+LRA-00089-03 evses -> 1: status : CHARGING
