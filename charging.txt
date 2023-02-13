@@ -314,3 +314,8 @@ MTS-00067-02 evses -> 1: status : CHARGING
 CSC-00062-1 evses -> 0: status : CHARGING
 CSC-00064-1 evses -> 0: status : CHARGING
 CSC-00066-1 evses -> 0: status : CHARGING
+
+2023-02-13 15:17:24
+CSC-00061-1 evses -> 0: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
