@@ -271,3 +271,7 @@ LRA-00089-03 evses -> 1: status : CHARGING
 
 2023-02-12 23:36:45
 LRA-00089-03 evses -> 1: status : CHARGING
+
+2023-02-13 11:13:32
+FAR-00035-02 evses -> 0: status : CHARGING
+SSB-00010-01 evses -> 1: status : CHARGING
