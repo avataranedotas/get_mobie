@@ -280,3 +280,9 @@ SSB-00010-01 evses -> 1: status : CHARGING
 FAR-00035-02 evses -> 0: status : CHARGING
 FAR-00035-01 evses -> 2: status : CHARGING
 PNF-00019-04 evses -> 3: status : CHARGING
+
+2023-02-13 12:31:47
+BRG-00077-01 evses -> 1: status : CHARGING
+BRG-00077-02 evses -> 2: status : CHARGING
+LRA-00089-01 evses -> 2: status : CHARGING
+PNF-00019-04 evses -> 3: status : CHARGING
