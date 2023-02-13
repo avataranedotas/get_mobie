@@ -347,3 +347,7 @@ PNF-00019-04 evses -> 3: status : CHARGING
 BRG-00077-01 evses -> 1: status : CHARGING
 CSC-00062-1 evses -> 0: status : CHARGING
 CSC-00066-1 evses -> 0: status : CHARGING
+
+2023-02-13 18:20:10
+CSC-00066-1 evses -> 0: status : CHARGING
+LRA-00089-02 evses -> 0: status : CHARGING
