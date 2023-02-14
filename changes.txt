@@ -70,3 +70,21 @@ Adicionados:['LSB-00491']
 
 LSB-00491-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LSB-00491', 'publish': True, 'address': 'Rua Guine. 18-18B', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '2685-334', 'coordinates': {'latitude': '38.7859807', 'longitude': '-9.1224787'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00491-03', 'evse_id': 'PT*HRZ*E*LSB*00491*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00491-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:42:13.043Z'}], 'last_updated': '2023-02-14T17:04:37.256Z'}, {'uid': 'LSB-00491-01', 'evse_id': 'PT*HRZ*E*LSB*00491*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00491-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:42:13.04Z'}], 'last_updated': '2023-02-14T17:04:36.387Z'}, {'uid': 'LSB-00491-04', 'evse_id': 'PT*HRZ*E*LSB*00491*04', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00491-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:42:13.044Z'}], 'last_updated': '2023-02-14T17:04:37.679Z'}, {'uid': 'LSB-00491-05', 'evse_id': 'PT*HRZ*E*LSB*00491*05', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00491-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:42:13.045Z'}], 'last_updated': '2023-02-14T17:04:38.12Z'}, {'uid': 'LSB-00491-02', 'evse_id': 'PT*HRZ*E*LSB*00491*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00491-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:42:13.041Z'}], 'last_updated': '2023-02-14T17:04:36.781Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-14T17:04:38.12Z'}
 Removidos:[]
+
+2023-02-14 17:36:43
+LSB-00491
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LSB-00491
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+LSB-00491
+evses -> 4 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LSB-00491
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
