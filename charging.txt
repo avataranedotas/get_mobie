@@ -493,3 +493,6 @@ LRA-00089-03 evses -> 1: status : CHARGING
 
 2023-02-14 18:40:40
 AMD-00059-01 evses -> 1: status : CHARGING
+
+2023-02-14 19:36:20
+VNG-00106-02 evses -> 2: status : CHARGING

@@ -88,3 +88,13 @@ LSB-00491
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 50000
+
+2023-02-14 19:36:17
+LSB-00491
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+LSB-00491
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
