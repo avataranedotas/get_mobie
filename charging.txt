@@ -455,3 +455,10 @@ CSC-00061-1 evses -> 0: status : CHARGING
 CSC-00064-1 evses -> 0: status : CHARGING
 CSC-00066-1 evses -> 0: status : CHARGING
 PMS-00007-03 evses -> 2: status : CHARGING
+
+2023-02-14 14:37:23
+AMD-00057-02 evses -> 1: status : CHARGING
+CSC-00061-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+PMS-00007-03 evses -> 2: status : CHARGING
