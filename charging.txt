@@ -496,3 +496,9 @@ AMD-00059-01 evses -> 1: status : CHARGING
 
 2023-02-14 19:36:20
 VNG-00106-02 evses -> 2: status : CHARGING
+
+2023-02-14 20:17:00
+CSC-00062-1 evses -> 0: status : CHARGING
+VNG-00106-01 evses -> 0: status : CHARGING
+VNG-00106-02 evses -> 2: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
