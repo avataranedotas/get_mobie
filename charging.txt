@@ -421,3 +421,11 @@ CSC-00066-1 evses -> 0: status : CHARGING
 PMS-00007-03 evses -> 2: status : CHARGING
 VRM-00004-02 evses -> 0: status : CHARGING
 VVD-00012-01 evses -> 1: status : CHARGING
+
+2023-02-14 12:33:32
+AMD-00059-02 evses -> 0: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+PMS-00007-03 evses -> 2: status : CHARGING
+STB-00039-01 evses -> 1: status : CHARGING
