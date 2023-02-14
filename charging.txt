@@ -502,3 +502,7 @@ CSC-00062-1 evses -> 0: status : CHARGING
 VNG-00106-01 evses -> 0: status : CHARGING
 VNG-00106-02 evses -> 2: status : CHARGING
 VVD-00012-03 evses -> 0: status : CHARGING
+
+2023-02-14 20:37:11
+VLG-00012-01 evses -> 2: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
