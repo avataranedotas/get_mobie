@@ -395,3 +395,9 @@ CSC-00064-1 evses -> 0: status : CHARGING
 2023-02-14 09:37:14
 CSC-00061-1 evses -> 0: status : CHARGING
 PMS-00007-03 evses -> 2: status : CHARGING
+
+2023-02-14 10:18:15
+CSC-00061-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+PMS-00007-03 evses -> 2: status : CHARGING
+VVD-00012-03 evses -> 0: status : CHARGING
