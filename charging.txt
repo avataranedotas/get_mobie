@@ -549,3 +549,16 @@ CSC-00062-1 evses -> 0: status : CHARGING
 CSC-00066-1 evses -> 0: status : CHARGING
 FAR-00035-02 evses -> 0: status : CHARGING
 VLG-00012-01 evses -> 2: status : CHARGING
+
+2023-02-15 11:13:41
+AMD-00061-02 evses -> 1: status : CHARGING
+BRG-00077-02 evses -> 2: status : CHARGING
+CSC-00061-1 evses -> 0: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00063-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+FAR-00035-03 evses -> 1: status : CHARGING
+LSB-00491-04 evses -> 2: status : CHARGING
+VLG-00012-01 evses -> 2: status : CHARGING
+VVD-00012-01 evses -> 1: status : CHARGING
