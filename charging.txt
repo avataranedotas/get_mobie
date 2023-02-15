@@ -650,3 +650,11 @@ PMS-00007-01 evses -> 0: status : CHARGING
 PNF-00019-02 evses -> 2: status : CHARGING
 SBA-00005-02 evses -> 2: status : CHARGING
 STB-00039-01 evses -> 1: status : CHARGING
+
+2023-02-15 16:23:07
+AMD-00058-01 evses -> 1: status : CHARGING
+AMD-00061-01 evses -> 0: status : CHARGING
+AMD-00067-02 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+PNF-00019-02 evses -> 2: status : CHARGING
+STB-00039-01 evses -> 1: status : CHARGING
