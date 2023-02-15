@@ -519,3 +519,10 @@ CSC-00062-1 evses -> 0: status : CHARGING
 
 2023-02-15 08:41:33
 CSC-00062-1 evses -> 0: status : CHARGING
+
+2023-02-15 09:16:35
+CSC-00062-1 evses -> 0: status : CHARGING
+LRA-00089-02 evses -> 0: status : CHARGING
+TVR-00015-02 evses -> 1: status : CHARGING
+TVR-00015-02 evses -> 1: status : CHARGING
+VLG-00012-01 evses -> 2: status : CHARGING
