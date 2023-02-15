@@ -608,3 +608,14 @@ CSC-00064-1 evses -> 0: status : CHARGING
 CSC-00066-1 evses -> 0: status : CHARGING
 PNF-00019-04 evses -> 3: status : CHARGING
 STB-00039-01 evses -> 1: status : CHARGING
+
+2023-02-15 14:15:19
+BRG-00077-01 evses -> 1: status : CHARGING
+BRG-00077-02 evses -> 2: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00063-1 evses -> 0: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+PNF-00019-02 evses -> 2: status : CHARGING
+PNF-00019-04 evses -> 3: status : CHARGING
+STB-00039-01 evses -> 1: status : CHARGING
