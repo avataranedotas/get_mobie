@@ -707,3 +707,13 @@ FAR-00035-01 evses -> 2: status : CHARGING
 LRA-00089-03 evses -> 1: status : CHARGING
 PNF-00019-02 evses -> 2: status : CHARGING
 STB-00039-01 evses -> 1: status : CHARGING
+
+2023-02-15 20:16:59
+AMD-00059-02 evses -> 0: status : CHARGING
+BRG-00077-02 evses -> 2: status : CHARGING
+CSC-00064-1 evses -> 0: status : CHARGING
+FAR-00035-01 evses -> 2: status : CHARGING
+FAR-00035-01 evses -> 2: status : CHARGING
+LRA-00089-03 evses -> 1: status : CHARGING
+PNF-00019-02 evses -> 2: status : CHARGING
+STB-00039-01 evses -> 1: status : CHARGING
