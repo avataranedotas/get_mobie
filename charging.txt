@@ -513,3 +513,6 @@ VLG-00012-01 evses -> 2: status : CHARGING
 
 2023-02-14 21:36:42
 AMD-00057-01 evses -> 0: status : CHARGING
+
+2023-02-15 08:21:09
+CSC-00062-1 evses -> 0: status : CHARGING
