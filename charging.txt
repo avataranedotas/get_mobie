@@ -740,3 +740,8 @@ CSC-00061-1 evses -> 0: status : CHARGING
 FAR-00035-01 evses -> 2: status : CHARGING
 FAR-00035-01 evses -> 2: status : CHARGING
 PNF-00019-02 evses -> 2: status : CHARGING
+
+2023-02-15 22:16:06
+CSC-00061-1 evses -> 0: status : CHARGING
+LRA-00089-02 evses -> 0: status : CHARGING
+PNF-00019-02 evses -> 2: status : CHARGING
