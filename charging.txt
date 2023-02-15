@@ -680,3 +680,7 @@ LRA-00089-02 evses -> 0: status : CHARGING
 LSA-00003-01 evses -> 0: status : CHARGING
 PNF-00019-02 evses -> 2: status : CHARGING
 STB-00039-01 evses -> 1: status : CHARGING
+
+2023-02-15 18:20:11
+PNF-00019-02 evses -> 2: status : CHARGING
+STB-00039-01 evses -> 1: status : CHARGING
