@@ -534,3 +534,10 @@ LRA-00089-02 evses -> 0: status : CHARGING
 TVR-00015-01 evses -> 2: status : CHARGING
 TVR-00015-01 evses -> 2: status : CHARGING
 VLG-00012-01 evses -> 2: status : CHARGING
+
+2023-02-15 10:17:57
+AMD-00059-02 evses -> 0: status : CHARGING
+CSC-00061-1 evses -> 0: status : CHARGING
+CSC-00062-1 evses -> 0: status : CHARGING
+CSC-00066-1 evses -> 0: status : CHARGING
+VLG-00012-01 evses -> 2: status : CHARGING
