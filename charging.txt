@@ -817,3 +817,7 @@ TVR-00015-03 evses -> 0: status : CHARGING
 LGS-00015-1 evses -> 0: status : CHARGING
 TVR-00015-03 evses -> 0: status : CHARGING
 TVR-00015-03 evses -> 0: status : CHARGING
+
+2023-02-16 19:36:16
+TVR-00015-03 evses -> 0: status : CHARGING
+TVR-00015-03 evses -> 0: status : CHARGING
