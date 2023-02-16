@@ -789,3 +789,6 @@ PRT-00153-02 evses -> 1: status : CHARGING
 2023-02-16 15:16:39
 ABT-00015-1 evses -> 0: status : CHARGING
 ABT-00015-1 evses -> 0: status : CHARGING
+
+2023-02-16 16:22:42
+CTB-00018-03 evses -> 1: status : CHARGING
