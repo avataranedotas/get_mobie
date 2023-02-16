@@ -745,3 +745,9 @@ PNF-00019-02 evses -> 2: status : CHARGING
 CSC-00061-1 evses -> 0: status : CHARGING
 LRA-00089-02 evses -> 0: status : CHARGING
 PNF-00019-02 evses -> 2: status : CHARGING
+
+2023-02-16 09:36:52
+MIR-00003-03 evses -> 0: status : CHARGING
+MIR-00003-03 evses -> 0: status : CHARGING
+TVR-00015-03 evses -> 0: status : CHARGING
+TVR-00015-03 evses -> 0: status : CHARGING
