@@ -800,3 +800,6 @@ LGS-00015-1 evses -> 0: status : CHARGING
 2023-02-16 17:13:42
 LGS-00015-1 evses -> 0: status : CHARGING
 LSA-00003-01 evses -> 0: status : CHARGING
+
+2023-02-16 17:36:23
+LGS-00015-1 evses -> 0: status : CHARGING
