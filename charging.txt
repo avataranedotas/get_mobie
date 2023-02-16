@@ -755,3 +755,7 @@ TVR-00015-03 evses -> 0: status : CHARGING
 2023-02-16 10:17:35
 MIR-00003-03 evses -> 0: status : CHARGING
 MIR-00003-03 evses -> 0: status : CHARGING
+
+2023-02-16 11:13:40
+MIR-00003-03 evses -> 0: status : CHARGING
+MIR-00003-03 evses -> 0: status : CHARGING
