@@ -775,3 +775,6 @@ MIR-00003-03 evses -> 0: status : CHARGING
 
 2023-02-16 13:29:37
 PRT-00153-02 evses -> 1: status : CHARGING
+
+2023-02-16 13:44:50
+PRT-00153-02 evses -> 1: status : CHARGING
