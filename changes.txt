@@ -9270,3 +9270,109 @@ VLR-90001
 evses -> 1 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-02-16 17:13:39
+Adicionados:['PTM-00030']
+
+PTM-00030-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PTM-00030', 'publish': True, 'address': 'Av. Dr. Francisco Sá Carneiro,', 'city': 'Portimão', 'country': 'PRT', 'postal_code': '8500-506', 'coordinates': {'latitude': '37.141976', 'longitude': '-8.542546'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTM-00030-03', 'evse_id': 'PT*KLC*E*PTM*00030*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTM-00030-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:42.792Z'}], 'last_updated': '2023-02-16T16:46:42.199Z'}, {'uid': 'PTM-00030-02', 'evse_id': 'PT*KLC*E*PTM*00030*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTM-00030-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:42.791Z'}], 'last_updated': '2023-02-16T16:46:32.116Z'}, {'uid': 'PTM-00030-01', 'evse_id': 'PT*KLC*E*PTM*00030*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PTM-00030-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-01-27T20:46:42.789Z'}], 'last_updated': '2023-02-16T16:46:42.113Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-16T16:46:42.199Z'}
+Removidos:[]
+ADV-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ADV-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ADV-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALD-00002
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+ALD-00002
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AMD-00048
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AMT-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVR-00032
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+AVR-00032
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BCL-00008
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BCL-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+BRR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CBR-00054
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CHV-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CHV-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LRA-00059
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRD-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PRD-00007
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SXL-00019
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SXL-00019
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+VNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+VNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
