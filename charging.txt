@@ -765,3 +765,10 @@ FND-00012-1 evses -> 0: status : CHARGING
 MIR-00003-03 evses -> 0: status : CHARGING
 MIR-00003-03 evses -> 0: status : CHARGING
 PRT-00153-01 evses -> 2: status : CHARGING
+
+2023-02-16 12:31:49
+FAR-00035-02 evses -> 0: status : CHARGING
+FAR-00035-02 evses -> 0: status : CHARGING
+FND-00011-1 evses -> 0: status : CHARGING
+MIR-00003-03 evses -> 0: status : CHARGING
+MIR-00003-03 evses -> 0: status : CHARGING
