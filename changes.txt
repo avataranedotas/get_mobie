@@ -9678,3 +9678,7 @@ VNG-00034
 evses -> 0 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-02-17 10:17:35
+Adicionados:[]
+Removidos:['ABT-00015', 'ABT-00016', 'FND-00011', 'FND-00012']
