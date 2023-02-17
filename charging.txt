@@ -936,3 +936,7 @@ BRR-00030-01 evses -> 0: status : CHARGING
 AMD-00030-01 evses -> 0: status : CHARGING
 BRR-00030-01 evses -> 0: status : CHARGING
 PRT-00153-02 evses -> 1: status : CHARGING
+
+2023-02-17 19:12:47
+AMD-00030-01 evses -> 0: status : CHARGING
+BRR-00030-01 evses -> 0: status : CHARGING
