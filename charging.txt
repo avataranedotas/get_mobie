@@ -916,3 +916,6 @@ FAR-00035-02 evses -> 0: status : CHARGING
 
 2023-02-17 16:21:38
 AMD-00030-02 evses -> 1: status : CHARGING
+
+2023-02-17 16:46:09
+AMD-00030-02 evses -> 1: status : CHARGING
