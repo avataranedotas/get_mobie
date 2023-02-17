@@ -861,3 +861,6 @@ LSA-00003-02 evses -> 1: status : CHARGING
 
 2023-02-17 07:14:43
 LSA-00003-02 evses -> 1: status : CHARGING
+
+2023-02-17 07:36:39
+LSA-00003-02 evses -> 1: status : CHARGING
