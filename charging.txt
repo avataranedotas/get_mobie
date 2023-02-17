@@ -919,3 +919,7 @@ AMD-00030-02 evses -> 1: status : CHARGING
 
 2023-02-17 16:46:09
 AMD-00030-02 evses -> 1: status : CHARGING
+
+2023-02-17 17:14:21
+TVR-00015-03 evses -> 0: status : CHARGING
+TVR-00015-03 evses -> 0: status : CHARGING
