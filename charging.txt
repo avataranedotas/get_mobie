@@ -1040,3 +1040,6 @@ SEI-90001-01 evses -> 0: status : CHARGING
 
 2023-02-18 21:36:29
 SEI-90001-01 evses -> 0: status : CHARGING
+
+2023-02-18 22:14:14
+SEI-90001-01 evses -> 0: status : CHARGING
