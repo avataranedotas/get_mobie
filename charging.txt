@@ -1012,3 +1012,6 @@ SSB-00010-01 evses -> 1: status : CHARGING
 
 2023-02-18 17:13:43
 TVR-00015-01 evses -> 2: status : CHARGING
+
+2023-02-18 17:36:09
+TVR-00015-01 evses -> 2: status : CHARGING
