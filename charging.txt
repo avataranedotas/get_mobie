@@ -1009,3 +1009,6 @@ TVR-00015-01 evses -> 2: status : CHARGING
 PTM-00030-02 evses -> 1: status : CHARGING
 PTM-00030-02 evses -> 1: status : CHARGING
 SSB-00010-01 evses -> 1: status : CHARGING
+
+2023-02-18 17:13:43
+TVR-00015-01 evses -> 2: status : CHARGING
