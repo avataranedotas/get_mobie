@@ -1015,3 +1015,7 @@ TVR-00015-01 evses -> 2: status : CHARGING
 
 2023-02-18 17:36:09
 TVR-00015-01 evses -> 2: status : CHARGING
+
+2023-02-18 18:18:19
+PTM-00029-01 evses -> 1: status : CHARGING
+PTM-00029-01 evses -> 1: status : CHARGING
