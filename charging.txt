@@ -1028,3 +1028,6 @@ MIR-00003-01 evses -> 1: status : CHARGING
 MIR-00003-01 evses -> 1: status : CHARGING
 MIR-00003-01 evses -> 1: status : CHARGING
 TVD-00036-02 evses -> 1: status : CHARGING
+
+2023-02-18 19:36:07
+TVD-00036-02 evses -> 1: status : CHARGING
