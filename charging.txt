@@ -1104,3 +1104,8 @@ PTM-00030-02 evses -> 1: status : CHARGING
 2023-02-19 16:20:06
 MIR-00003-01 evses -> 1: status : CHARGING
 MIR-00003-01 evses -> 1: status : CHARGING
+
+2023-02-19 17:13:27
+MIR-00003-01 evses -> 1: status : CHARGING
+MIR-00003-01 evses -> 1: status : CHARGING
+VNG-00106-02 evses -> 2: status : CHARGING
