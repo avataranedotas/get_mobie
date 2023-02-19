@@ -1073,3 +1073,6 @@ TVD-00036-01 evses -> 0: status : CHARGING
 
 2023-02-19 06:39:48
 TVD-00036-01 evses -> 0: status : CHARGING
+
+2023-02-19 07:13:46
+TVD-00036-01 evses -> 0: status : CHARGING
