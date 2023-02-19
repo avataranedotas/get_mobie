@@ -1131,3 +1131,7 @@ VNG-00106-03 evses -> 1: status : CHARGING
 2023-02-19 19:12:03
 PTM-00029-02 evses -> 0: status : CHARGING
 PTM-00029-02 evses -> 0: status : CHARGING
+
+2023-02-19 19:36:11
+PTM-00029-02 evses -> 0: status : CHARGING
+PTM-00029-02 evses -> 0: status : CHARGING
