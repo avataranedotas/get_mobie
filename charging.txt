@@ -1153,3 +1153,7 @@ VRL-00014-01 evses -> 1: status : CHARGING
 PTM-00029-02 evses -> 0: status : CHARGING
 PTM-00029-02 evses -> 0: status : CHARGING
 VRL-00014-01 evses -> 1: status : CHARGING
+
+2023-02-20 11:13:38
+PTM-00029-02 evses -> 0: status : CHARGING
+PTM-00029-02 evses -> 0: status : CHARGING
