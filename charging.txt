@@ -1191,3 +1191,6 @@ TVR-00015-01 evses -> 2: status : CHARGING
 2023-02-20 17:36:13
 SEI-90001-02 evses -> 1: status : CHARGING
 VNG-00106-02 evses -> 2: status : CHARGING
+
+2023-02-20 18:19:47
+SEI-90001-02 evses -> 1: status : CHARGING
