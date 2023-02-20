@@ -1184,3 +1184,6 @@ VNG-00106-02 evses -> 2: status : CHARGING
 
 2023-02-20 16:46:16
 TVR-00015-01 evses -> 2: status : CHARGING
+
+2023-02-20 17:14:32
+TVR-00015-01 evses -> 2: status : CHARGING
