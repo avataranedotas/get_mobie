@@ -1233,3 +1233,7 @@ MIR-00003-03 evses -> 0: status : CHARGING
 2023-02-21 11:36:46
 MIR-00003-03 evses -> 0: status : CHARGING
 MIR-00003-03 evses -> 0: status : CHARGING
+
+2023-02-21 12:31:33
+MIR-00003-03 evses -> 0: status : CHARGING
+MIR-00003-03 evses -> 0: status : CHARGING
