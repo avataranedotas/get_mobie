@@ -9788,3 +9788,9 @@ PRT-00172
 : 
  NEW coordinates : {'latitude': '41.1783086', 'longitude': '-8.6550969'}
  OLD coordinates : {'latitude': '41.1780567', 'longitude': '-8.6575029'}
+
+2023-02-22 17:14:57
+Adicionados:['BJA-00016']
+
+BJA-00016-->{'country_code': 'PT', 'party_id': 'LUZ', 'id': 'BJA-00016', 'publish': True, 'address': 'Herdade da Malhadinha Nova 7800-601 Albernoa', 'city': 'Beja', 'country': 'PRT', 'postal_code': '7800-601', 'coordinates': {'latitude': '37.820809', 'longitude': '-7.977802'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BJA-00016-01', 'evse_id': 'PT*LUZ*E*BJA*00016*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BJA-00016-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-26T16:14:27.763Z'}], 'last_updated': '2023-02-22T16:59:32.96Z'}, {'uid': 'BJA-00016-02', 'evse_id': 'PT*LUZ*E*BJA*00016*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BJA-00016-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-26T16:14:27.765Z'}], 'last_updated': '2023-02-22T16:59:33.531Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-22T16:59:33.531Z'}
+Removidos:[]
