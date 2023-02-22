@@ -9774,3 +9774,17 @@ CVL-00012
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 4600
  OLD max_electric_power : 7400
+
+2023-02-22 16:47:18
+PRT-00172
+coordinates: 
+ NEW latitude : 41.1783086
+ OLD latitude : 41.1780567
+PRT-00172
+coordinates: 
+ NEW longitude : -8.6550969
+ OLD longitude : -8.6575029
+PRT-00172
+: 
+ NEW coordinates : {'latitude': '41.1783086', 'longitude': '-8.6550969'}
+ OLD coordinates : {'latitude': '41.1780567', 'longitude': '-8.6575029'}
