@@ -9740,3 +9740,21 @@ FND-00013-->{'country_code': 'PT', 'party_id': 'CPS', 'id': 'FND-00013', 'publis
 
 FND-00014-->{'country_code': 'PT', 'party_id': 'CPS', 'id': 'FND-00014', 'publish': True, 'address': 'A23 Km 162 Teixoso Alqueria S/N', 'city': 'Fundão', 'country': 'PRT', 'postal_code': '6230-022', 'coordinates': {'latitude': '40.1908652', 'longitude': '-7.486648'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'FND-00014-02', 'evse_id': 'PT*CPS*E*FND*00014*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'FND-00014-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 100000, 'last_updated': '2023-02-20T09:39:16.815Z'}], 'last_updated': '2023-02-20T16:05:25.094Z'}, {'uid': 'FND-00014-01', 'evse_id': 'PT*CPS*E*FND*00014*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'FND-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 100000, 'last_updated': '2023-02-20T09:39:16.813Z'}], 'last_updated': '2023-02-20T16:05:24.469Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-02-20T16:05:25.094Z'}
 Removidos:[]
+
+2023-02-22 13:24:43
+PRT-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+PRT-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 3700
+ OLD max_electric_power : 7400
+PRT-00095
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+PRT-00095
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 3700
+ OLD max_electric_power : 7400
