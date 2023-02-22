@@ -9758,3 +9758,9 @@ PRT-00095
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 3700
  OLD max_electric_power : 7400
+
+2023-02-22 14:14:50
+Adicionados:['CVL-00012']
+
+CVL-00012-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CVL-00012', 'publish': True, 'address': 'Travesse de Santiago', 'city': 'Covilhã', 'country': 'PRT', 'postal_code': '6200-540', 'coordinates': {'latitude': '40.2194687', 'longitude': '-7.525413'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CVL-00012-02', 'evse_id': 'PT*HRZ*E*CVL*00012*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'CVL-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-12-05T10:51:56.949Z'}], 'last_updated': '2023-02-22T13:57:44.717Z'}, {'uid': 'CVL-00012-01', 'evse_id': 'PT*HRZ*E*CVL*00012*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'CVL-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-12-05T10:51:56.948Z'}], 'last_updated': '2023-02-22T13:57:44.717Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-02-22T13:57:43.079Z'}
+Removidos:[]
