@@ -1310,3 +1310,10 @@ OER-00150-1 evses -> 0: status : CHARGING
 BRG-00052-01 evses -> 1: status : CHARGING
 MTS-00076-01 evses -> 0: status : CHARGING
 OER-00150-1 evses -> 0: status : CHARGING
+
+2023-02-23 12:33:17
+BRG-00052-01 evses -> 1: status : CHARGING
+LRS-00080-02 evses -> 0: status : CHARGING
+LRS-00083-02 evses -> 1: status : CHARGING
+LRS-00084-02 evses -> 0: status : CHARGING
+LRS-00084-01 evses -> 1: status : CHARGING
