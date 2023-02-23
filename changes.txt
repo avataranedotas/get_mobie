@@ -9806,3 +9806,13 @@ Adicionados:['OER-00146']
 
 OER-00146-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00146', 'publish': True, 'address': 'Largo Marquês de Pombal, Oeiras', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2784-501', 'coordinates': {'latitude': '38.6926797', 'longitude': '-9.3144221'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00146-1', 'evse_id': 'PT*GRN*E*OER*00146*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00146-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-19T11:49:28.022Z'}], 'last_updated': '2023-02-23T11:19:44.254Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-02-23T11:19:44.22Z'}
 Removidos:[]
+
+2023-02-23 13:30:08
+CVL-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 32
+CVL-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 4600
+ OLD max_electric_power : 7400
