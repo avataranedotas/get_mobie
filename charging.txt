@@ -1300,3 +1300,8 @@ BRG-00052-01 evses -> 1: status : CHARGING
 
 2023-02-23 09:16:13
 BRG-00052-01 evses -> 1: status : CHARGING
+
+2023-02-23 09:36:35
+BRG-00052-01 evses -> 1: status : CHARGING
+MTS-00076-01 evses -> 0: status : CHARGING
+OER-00150-1 evses -> 0: status : CHARGING
