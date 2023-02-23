@@ -1388,3 +1388,7 @@ VRL-00014-01 evses -> 1: status : CHARGING
 2023-02-23 18:20:53
 MTS-00076-01 evses -> 0: status : CHARGING
 VRL-00014-01 evses -> 1: status : CHARGING
+
+2023-02-23 18:42:04
+MTS-00076-01 evses -> 0: status : CHARGING
+VRL-00014-01 evses -> 1: status : CHARGING
