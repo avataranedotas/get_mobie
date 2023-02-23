@@ -9816,3 +9816,7 @@ CVL-00012
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 4600
  OLD max_electric_power : 7400
+
+2023-02-23 15:17:11
+Adicionados:[]
+Removidos:['FIG-00009', 'MTJ-00005']
