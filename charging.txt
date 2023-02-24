@@ -1547,3 +1547,10 @@ PTM-00029-01 evses -> 1: status : CHARGING
 2023-02-24 16:22:22
 MTS-00076-01 evses -> 0: status : CHARGING
 MTS-00076-02 evses -> 1: status : CHARGING
+
+2023-02-24 16:47:17
+MTS-00074-02 evses -> 1: status : CHARGING
+MTS-00076-01 evses -> 0: status : CHARGING
+MTS-00076-02 evses -> 1: status : CHARGING
+STB-00038-03 evses -> 2: status : CHARGING
+STB-00038-03 evses -> 2: status : CHARGING
