@@ -1525,3 +1525,13 @@ MTS-00074-02 evses -> 1: status : CHARGING
 MTS-00076-01 evses -> 0: status : CHARGING
 OER-00151-1 evses -> 0: status : CHARGING
 PTM-00029-02 evses -> 0: status : CHARGING
+
+2023-02-24 15:15:27
+LRS-00079-01 evses -> 1: status : CHARGING
+LRS-00082-02 evses -> 0: status : CHARGING
+LRS-00083-02 evses -> 1: status : CHARGING
+MTS-00074-01 evses -> 0: status : CHARGING
+MTS-00074-02 evses -> 1: status : CHARGING
+MTS-00076-01 evses -> 0: status : CHARGING
+OER-00151-1 evses -> 0: status : CHARGING
+PTM-00029-02 evses -> 0: status : CHARGING
