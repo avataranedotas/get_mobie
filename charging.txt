@@ -1588,3 +1588,9 @@ MTS-00076-02 evses -> 1: status : CHARGING
 LRS-00079-02 evses -> 0: status : CHARGING
 LRS-00082-02 evses -> 0: status : CHARGING
 MTS-00076-01 evses -> 0: status : CHARGING
+
+2023-02-24 20:17:31
+LRS-00079-02 evses -> 0: status : CHARGING
+LRS-00083-02 evses -> 1: status : CHARGING
+MTS-00076-01 evses -> 0: status : CHARGING
+MTS-00076-02 evses -> 1: status : CHARGING
