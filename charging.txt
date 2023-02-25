@@ -1656,3 +1656,6 @@ LRS-00081-02 evses -> 0: status : CHARGING
 
 2023-02-25 13:36:24
 LRS-00081-02 evses -> 0: status : CHARGING
+
+2023-02-25 14:36:26
+AMD-00066-02 evses -> 0: status : CHARGING
