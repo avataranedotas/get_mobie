@@ -1693,3 +1693,6 @@ SXL-00021-01 evses -> 0: status : CHARGING
 
 2023-02-25 20:36:37
 SXL-00021-01 evses -> 0: status : CHARGING
+
+2023-02-25 21:13:25
+SXL-00021-01 evses -> 0: status : CHARGING
