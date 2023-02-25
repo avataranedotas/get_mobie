@@ -12030,3 +12030,77 @@ VNG-00059
 evses -> 2 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2023-02-25 19:12:13
+BRR-00026
+: 
+ NEW address : KFC Barreiro Retail Planet, Estrada Nacional 
+ OLD address : Estrada Nacional 10, KM 18,5
+ENT-00005
+: 
+ NEW address : BURGUER KING Entroncamento - Rua Calouste Gul
+ OLD address : Rua Calouste Gulbenkian 8
+ENT-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FLG-00007
+: 
+ NEW address : BURGUER KING Felgueiras - R. Prof. Joaquim Ba
+ OLD address : R. Prof. Joaquim Barros Leite
+FLG-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FUN-00031
+: 
+ NEW address : Rua Nova do Engenho Velho - McDonald´s - Func
+ OLD address : McDonald´s - Funchal (drive)
+FUN-00031
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+FUN-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 60000
+FUN-00031
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+LRS-00063
+: 
+ NEW address : BURGUER KING Loures - Rua Almirante Gago Cout
+ OLD address : Rua Almirante Gago Coutinho
+LRS-00063
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MGL-00005
+: 
+ NEW address : BURGUER KING Mangualde - Av. dos Combatentes 
+ OLD address : Av. dos Combatentes da Grande Guerra 44
+MGL-00005
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MGL-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+RMR-00003
+: 
+ NEW address : BURGUER KING Rio Maior - Avenida Dr. Mário So
+ OLD address : Avenida Dr. Mário Soares
+RMR-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+TVD-00022
+: 
+ NEW address : BURGUER KING Torres Vedras - Rua António Augu
+ OLD address : Rua António Augusto Cabral N17
+TVD-00022
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
