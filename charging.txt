@@ -1653,3 +1653,6 @@ FND-00014-01 evses -> 1: status : CHARGING
 
 2023-02-25 13:22:43
 LRS-00081-02 evses -> 0: status : CHARGING
+
+2023-02-25 13:36:24
+LRS-00081-02 evses -> 0: status : CHARGING
