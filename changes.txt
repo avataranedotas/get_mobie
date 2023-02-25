@@ -9864,3 +9864,17 @@ ABF-00041
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTE
+
+2023-02-25 17:36:12
+PTL-00012
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+TVD-00007
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
+TVD-00025
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
