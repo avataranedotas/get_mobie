@@ -1662,3 +1662,6 @@ AMD-00066-02 evses -> 0: status : CHARGING
 
 2023-02-25 15:14:45
 AMD-00066-02 evses -> 0: status : CHARGING
+
+2023-02-25 15:36:24
+AMD-00066-02 evses -> 0: status : CHARGING
