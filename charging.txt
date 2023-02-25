@@ -1684,3 +1684,6 @@ SXL-00021-01 evses -> 0: status : CHARGING
 ABT-00017-01 evses -> 0: status : CHARGING
 AMD-00066-02 evses -> 0: status : CHARGING
 SXL-00021-01 evses -> 0: status : CHARGING
+
+2023-02-25 19:36:07
+SXL-00021-01 evses -> 0: status : CHARGING
