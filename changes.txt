@@ -12114,3 +12114,13 @@ GRD-00015
 evses -> 1 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2023-02-25 20:16:19
+BRG-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
+BRG-00069
+evses -> 7 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
