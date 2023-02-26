@@ -1717,3 +1717,6 @@ CSC-00065-1 evses -> 0: status : CHARGING
 
 2023-02-26 15:15:18
 CSC-00065-1 evses -> 0: status : CHARGING
+
+2023-02-26 15:36:21
+CSC-00065-1 evses -> 0: status : CHARGING
