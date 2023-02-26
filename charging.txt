@@ -1738,3 +1738,7 @@ CSC-00065-1 evses -> 0: status : CHARGING
 2023-02-26 18:18:47
 ABT-00017-02 evses -> 1: status : CHARGING
 FND-00013-01 evses -> 0: status : CHARGING
+
+2023-02-26 18:39:01
+ABT-00018-01 evses -> 1: status : CHARGING
+FND-00013-01 evses -> 0: status : CHARGING
