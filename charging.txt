@@ -1758,3 +1758,6 @@ BJA-00015-02 evses -> 0: status : CHARGING
 
 2023-02-26 22:14:25
 BJA-00015-02 evses -> 0: status : CHARGING
+
+2023-02-26 22:36:56
+BJA-00015-02 evses -> 0: status : CHARGING
