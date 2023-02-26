@@ -1742,3 +1742,6 @@ FND-00013-01 evses -> 0: status : CHARGING
 2023-02-26 18:39:01
 ABT-00018-01 evses -> 1: status : CHARGING
 FND-00013-01 evses -> 0: status : CHARGING
+
+2023-02-26 19:12:23
+ABT-00018-02 evses -> 0: status : CHARGING
