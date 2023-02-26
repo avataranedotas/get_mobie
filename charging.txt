@@ -1705,3 +1705,6 @@ FND-00014-02 evses -> 0: status : CHARGING
 
 2023-02-26 11:12:45
 AMD-00066-02 evses -> 0: status : CHARGING
+
+2023-02-26 13:37:34
+CSC-00065-1 evses -> 0: status : CHARGING
