@@ -1708,3 +1708,6 @@ AMD-00066-02 evses -> 0: status : CHARGING
 
 2023-02-26 13:37:34
 CSC-00065-1 evses -> 0: status : CHARGING
+
+2023-02-26 14:13:44
+CSC-00065-1 evses -> 0: status : CHARGING
