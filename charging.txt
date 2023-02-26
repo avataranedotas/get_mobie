@@ -1702,3 +1702,6 @@ SXL-00021-01 evses -> 0: status : CHARGING
 
 2023-02-26 08:19:32
 FND-00014-02 evses -> 0: status : CHARGING
+
+2023-02-26 11:12:45
+AMD-00066-02 evses -> 0: status : CHARGING
