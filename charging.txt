@@ -1791,3 +1791,6 @@ LRS-00081-01 evses -> 1: status : CHARGING
 CSC-00065-1 evses -> 0: status : CHARGING
 FAR-90007-1 evses -> 3: status : CHARGING
 LRS-00081-01 evses -> 1: status : CHARGING
+
+2023-02-27 16:48:22
+ABT-00017-02 evses -> 1: status : CHARGING
