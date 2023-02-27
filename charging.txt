@@ -1770,3 +1770,6 @@ ABT-00018-02 evses -> 0: status : CHARGING
 
 2023-02-27 09:37:38
 FND-00014-02 evses -> 0: status : CHARGING
+
+2023-02-27 12:33:19
+PTM-00031-02 evses -> 1: status : CHARGING
