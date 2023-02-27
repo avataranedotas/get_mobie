@@ -1781,3 +1781,8 @@ PTM-00031-02 evses -> 1: status : CHARGING
 2023-02-27 14:38:09
 CSC-00065-1 evses -> 0: status : CHARGING
 FAR-90007-2 evses -> 0: status : CHARGING
+
+2023-02-27 15:17:21
+CSC-00065-1 evses -> 0: status : CHARGING
+FAR-90007-1 evses -> 3: status : CHARGING
+LRS-00081-01 evses -> 1: status : CHARGING
