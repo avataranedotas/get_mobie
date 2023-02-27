@@ -1794,3 +1794,6 @@ LRS-00081-01 evses -> 1: status : CHARGING
 
 2023-02-27 16:48:22
 ABT-00017-02 evses -> 1: status : CHARGING
+
+2023-02-27 19:36:46
+ABT-00018-02 evses -> 0: status : CHARGING
