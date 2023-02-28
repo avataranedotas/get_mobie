@@ -1862,3 +1862,7 @@ BJA-00015-01 evses -> 1: status : CHARGING
 ABT-00017-01 evses -> 0: status : CHARGING
 BJA-00015-01 evses -> 1: status : CHARGING
 CBR-00059-02 evses -> 2: status : CHARGING
+
+2023-02-28 19:36:25
+ABT-00017-01 evses -> 0: status : CHARGING
+BJA-00015-01 evses -> 1: status : CHARGING
