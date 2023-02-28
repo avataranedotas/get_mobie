@@ -12216,3 +12216,29 @@ STN-00002
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-02-28 18:20:45
+BRG-00069
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BRG-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+BRG-00069
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BRG-00069
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+BRG-00069
+evses -> 7 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BRG-00069
+evses -> 7 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
