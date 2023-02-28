@@ -1819,3 +1819,8 @@ TNV-00011-02 evses -> 1: status : CHARGING
 2023-02-28 13:25:31
 BJA-00016-02 evses -> 1: status : CHARGING
 FND-00013-01 evses -> 0: status : CHARGING
+
+2023-02-28 13:40:29
+AMD-00066-02 evses -> 0: status : CHARGING
+BJA-00016-02 evses -> 1: status : CHARGING
+FND-00013-01 evses -> 0: status : CHARGING
