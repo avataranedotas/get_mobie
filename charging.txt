@@ -1843,3 +1843,8 @@ LRS-00081-02 evses -> 0: status : CHARGING
 BJA-00015-01 evses -> 1: status : CHARGING
 CLD-00023-01 evses -> 0: status : CHARGING
 CLD-00023-02 evses -> 1: status : CHARGING
+
+2023-02-28 17:15:27
+BJA-00015-01 evses -> 1: status : CHARGING
+CLD-00023-01 evses -> 0: status : CHARGING
+CLD-00023-02 evses -> 1: status : CHARGING
