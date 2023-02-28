@@ -1834,3 +1834,7 @@ CBR-00059-02 evses -> 2: status : CHARGING
 2023-02-28 15:38:55
 BJA-00015-01 evses -> 1: status : CHARGING
 CBR-00059-02 evses -> 2: status : CHARGING
+
+2023-02-28 16:23:12
+BJA-00015-01 evses -> 1: status : CHARGING
+LRS-00081-02 evses -> 0: status : CHARGING
