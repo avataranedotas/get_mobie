@@ -1800,3 +1800,6 @@ ABT-00018-02 evses -> 0: status : CHARGING
 
 2023-02-27 20:37:55
 ABT-00017-02 evses -> 1: status : CHARGING
+
+2023-02-28 07:15:15
+ABT-00018-02 evses -> 0: status : CHARGING
