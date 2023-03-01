@@ -13,3 +13,6 @@ OER-00149-1 evses -> 0: status : CHARGING
 
 2023-03-01 10:18:20
 OER-00149-1 evses -> 0: status : CHARGING
+
+2023-03-01 10:40:31
+OER-00149-1 evses -> 0: status : CHARGING
