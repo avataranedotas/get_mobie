@@ -92,3 +92,7 @@ LGS-00002-02 evses -> 1: status : CHARGING
 GMR-00071-01 evses -> 1: status : CHARGING
 GMR-00071-01 evses -> 1: status : CHARGING
 LGS-00002-02 evses -> 1: status : CHARGING
+
+2023-03-01 21:14:53
+GMR-00071-02 evses -> 0: status : CHARGING
+GMR-00071-02 evses -> 0: status : CHARGING
