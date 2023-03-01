@@ -30,3 +30,9 @@ SNT-90003
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2023-03-01 16:49:09
+Adicionados:['GMR-00067']
+
+GMR-00067-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00067', 'publish': True, 'address': 'Praça Heróis da Fundação', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4810-242', 'coordinates': {'latitude': '41.443541', 'longitude': '-8.300146'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00067-01', 'evse_id': 'PT*HEX*E*GMR*00067*01', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00067-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:07:50.587Z'}], 'last_updated': '2023-03-01T16:27:37.803Z'}, {'uid': 'GMR-00067-02', 'evse_id': 'PT*HEX*E*GMR*00067*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00067-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:07:50.588Z'}], 'last_updated': '2023-03-01T16:27:02.203Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-03-01T16:27:37.803Z'}
+Removidos:[]
