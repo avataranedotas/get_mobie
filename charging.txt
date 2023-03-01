@@ -59,3 +59,8 @@ VIS-00046-03 evses -> 2: status : CHARGING
 
 2023-03-01 17:15:25
 LSB-90073-2 evses -> 0: status : CHARGING
+
+2023-03-01 17:38:21
+LSB-90073-2 evses -> 0: status : CHARGING
+OER-00149-1 evses -> 0: status : CHARGING
+PRT-00176-02 evses -> 1: status : CHARGING
