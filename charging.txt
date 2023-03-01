@@ -56,3 +56,6 @@ LSB-90073-2 evses -> 0: status : CHARGING
 GMR-00067-01 evses -> 0: status : CHARGING
 LSB-90073-2 evses -> 0: status : CHARGING
 VIS-00046-03 evses -> 2: status : CHARGING
+
+2023-03-01 17:15:25
+LSB-90073-2 evses -> 0: status : CHARGING
