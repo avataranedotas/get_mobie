@@ -32,3 +32,7 @@ LSB-90073-1 evses -> 1: status : CHARGING
 
 2023-03-01 13:40:48
 LSB-90073-1 evses -> 1: status : CHARGING
+
+2023-03-01 14:15:22
+LSB-90073-1 evses -> 1: status : CHARGING
+OER-00149-1 evses -> 0: status : CHARGING
