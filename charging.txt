@@ -64,3 +64,8 @@ LSB-90073-2 evses -> 0: status : CHARGING
 LSB-90073-2 evses -> 0: status : CHARGING
 OER-00149-1 evses -> 0: status : CHARGING
 PRT-00176-02 evses -> 1: status : CHARGING
+
+2023-03-01 18:20:45
+LSB-90073-1 evses -> 1: status : CHARGING
+OER-00149-1 evses -> 0: status : CHARGING
+PRT-00176-02 evses -> 1: status : CHARGING
