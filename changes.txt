@@ -2,3 +2,9 @@
 2023-03-01 10:40:28
 Adicionados:[]
 Removidos:['ABF-00041']
+
+2023-03-01 13:25:31
+Adicionados:['GMR-00056']
+
+GMR-00056-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00056', 'publish': True, 'address': 'Alameda Prof. Abel Salazar', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4805-375', 'coordinates': {'latitude': '41.442772', 'longitude': '-8.3803999'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00056-01', 'evse_id': 'PT*HEX*E*GMR*00056*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00056-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2022-10-18T18:04:52.322Z'}], 'last_updated': '2023-03-01T13:00:21.683Z'}, {'uid': 'GMR-00056-02', 'evse_id': 'PT*HEX*E*GMR*00056*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00056-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2022-10-18T18:04:52.323Z'}], 'last_updated': '2023-03-01T13:05:18.983Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-03-01T13:05:18.983Z'}
+Removidos:[]
