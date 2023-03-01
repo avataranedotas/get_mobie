@@ -75,3 +75,6 @@ ABT-00017-02 evses -> 1: status : CHARGING
 LSB-90073-1 evses -> 1: status : CHARGING
 OER-00149-1 evses -> 0: status : CHARGING
 PRT-00176-02 evses -> 1: status : CHARGING
+
+2023-03-01 19:05:23
+PRT-00176-02 evses -> 1: status : CHARGING
