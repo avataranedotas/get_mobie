@@ -239,3 +239,6 @@ LGS-00002-02 evses -> 1: status : CHARGING
 
 2023-03-02 19:12:12
 LGS-00002-02 evses -> 1: status : CHARGING
+
+2023-03-02 20:17:52
+TMR-00012-01 evses -> 0: status : CHARGING
