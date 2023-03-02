@@ -86,3 +86,9 @@ Adicionados:['GMR-00084']
 
 GMR-00084-->{'country_code': 'PT', 'party_id': 'GEN', 'id': 'GMR-00084', 'publish': True, 'address': 'Rua Arqueólogo Mário Cardoso', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-076', 'coordinates': {'latitude': '41.448086', 'longitude': '-8.306102'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00084-01', 'evse_id': 'PT*GEN*E*GMR*00084*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00084-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-12-23T15:39:20.633Z'}], 'last_updated': '2023-03-02T15:56:06.973Z'}, {'uid': 'GMR-00084-02', 'evse_id': 'PT*GEN*E*GMR*00084*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00084-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2022-12-23T15:39:20.634Z'}], 'last_updated': '2023-03-02T15:56:07.37Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-03-02T15:56:07.37Z'}
 Removidos:[]
+
+2023-03-02 16:48:23
+ABF-00034
+: 
+ NEW address : Estrada Nacional 125 KM 73
+ OLD address : Estrada Naiconal 125 KM 73
