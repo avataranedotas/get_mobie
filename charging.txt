@@ -225,3 +225,7 @@ TMR-00012-02 evses -> 1: status : CHARGING
 FAR-90007-1 evses -> 3: status : CHARGING
 GMR-00058-02 evses -> 0: status : CHARGING
 GMR-00058-02 evses -> 0: status : CHARGING
+
+2023-03-02 17:15:09
+GMR-00058-02 evses -> 0: status : CHARGING
+GMR-00058-02 evses -> 0: status : CHARGING
