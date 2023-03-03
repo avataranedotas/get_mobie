@@ -144,3 +144,9 @@ VNG-00035
 evses -> 1 -> connectors -> 0: 
  NEW id : VNG-00035-1-1
  OLD id : VNG-00035-2-1
+
+2023-03-03 12:30:31
+Adicionados:['MTS-00099']
+
+MTS-00099-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'MTS-00099', 'publish': True, 'address': 'Rua de Goa, 2', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-023', 'coordinates': {'latitude': '41.1843231', 'longitude': '-8.6817213'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTS-00099-02', 'evse_id': 'PT*IBD*E*MTS*00099*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00099-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-12T11:33:30.985Z'}], 'last_updated': '2023-03-03T12:00:48.433Z'}, {'uid': 'MTS-00099-01', 'evse_id': 'PT*IBD*E*MTS*00099*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00099-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-12T11:33:30.984Z'}], 'last_updated': '2023-03-03T12:00:46.689Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-03T12:00:48.433Z'}
+Removidos:[]
