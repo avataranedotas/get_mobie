@@ -363,3 +363,7 @@ ODV-00013-01 evses -> 0: status : CHARGING
 FAR-90007-3 evses -> 1: status : CHARGING
 FAR-90007-4 evses -> 2: status : CHARGING
 ODV-00013-01 evses -> 0: status : CHARGING
+
+2023-03-03 17:36:07
+FAR-90007-3 evses -> 1: status : CHARGING
+FAR-90007-4 evses -> 2: status : CHARGING
