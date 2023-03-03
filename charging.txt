@@ -398,3 +398,7 @@ GMR-00071-02 evses -> 0: status : CHARGING
 GMR-00071-02 evses -> 0: status : CHARGING
 GMR-00071-02 evses -> 0: status : CHARGING
 ODV-00013-03 evses -> 2: status : CHARGING
+
+2023-03-03 22:15:42
+GMR-00071-02 evses -> 0: status : CHARGING
+GMR-00071-02 evses -> 0: status : CHARGING
