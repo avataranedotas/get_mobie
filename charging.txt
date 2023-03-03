@@ -381,3 +381,8 @@ ODV-00013-02 evses -> 1: status : CHARGING
 
 2023-03-03 19:36:20
 ODV-00013-02 evses -> 1: status : CHARGING
+
+2023-03-03 20:17:13
+MTS-00101-01 evses -> 0: status : CHARGING
+MTS-00101-02 evses -> 1: status : CHARGING
+ODV-00013-02 evses -> 1: status : CHARGING
