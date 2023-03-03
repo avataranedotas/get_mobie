@@ -118,3 +118,29 @@ Adicionados:['STB-00022']
 
 STB-00022-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STB-00022', 'publish': True, 'address': 'Avenida Rui Grácio 9005', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2855-707', 'coordinates': {'latitude': '38.640396', 'longitude': '-9.1538849'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'STB-00022-03', 'evse_id': 'PT*HRZ*E*STB*00022*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00022-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T18:08:35.296Z'}], 'last_updated': '2023-03-03T10:48:00.506Z'}, {'uid': 'STB-00022-02', 'evse_id': 'PT*HRZ*E*STB*00022*02', 'status': 'CHARGING', 'connectors': [{'id': 'STB-00022-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:35.291Z'}], 'last_updated': '2023-03-03T10:48:25.023Z'}, {'uid': 'STB-00022-01', 'evse_id': 'PT*HRZ*E*STB*00022*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'STB-00022-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:35.289Z'}], 'last_updated': '2023-03-03T10:48:25.616Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-03-03T10:48:25.616Z'}
 Removidos:[]
+
+2023-03-03 11:36:37
+VNG-00035
+evses -> 0: 
+ NEW uid : VNG-00035-2
+ OLD uid : VNG-00035-1
+VNG-00035
+evses -> 0: 
+ NEW evse_id : PT*KLC*E*VNG*00035*2
+ OLD evse_id : PT*KLC*E*VNG*00035*1
+VNG-00035
+evses -> 0 -> connectors -> 0: 
+ NEW id : VNG-00035-2-1
+ OLD id : VNG-00035-1-1
+VNG-00035
+evses -> 1: 
+ NEW uid : VNG-00035-1
+ OLD uid : VNG-00035-2
+VNG-00035
+evses -> 1: 
+ NEW evse_id : PT*KLC*E*VNG*00035*1
+ OLD evse_id : PT*KLC*E*VNG*00035*2
+VNG-00035
+evses -> 1 -> connectors -> 0: 
+ NEW id : VNG-00035-1-1
+ OLD id : VNG-00035-2-1
