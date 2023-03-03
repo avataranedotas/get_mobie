@@ -289,3 +289,6 @@ PRT-00137-01 evses -> 0: status : CHARGING
 
 2023-03-03 08:20:23
 PRT-00137-01 evses -> 0: status : CHARGING
+
+2023-03-03 08:40:45
+PRT-00137-01 evses -> 0: status : CHARGING
