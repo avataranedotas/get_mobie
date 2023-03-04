@@ -458,3 +458,12 @@ PRT-00172-02 evses -> 1: status : CHARGING
 LRA-00088-03 evses -> 0: status : CHARGING
 LRA-00088-01 evses -> 2: status : CHARGING
 PRT-00172-02 evses -> 1: status : CHARGING
+
+2023-03-04 14:36:09
+LRA-00088-03 evses -> 0: status : CHARGING
+LRA-00088-01 evses -> 2: status : CHARGING
+MTS-00101-01 evses -> 0: status : CHARGING
+MTS-00101-02 evses -> 1: status : CHARGING
+MTS-00104-02 evses -> 0: status : CHARGING
+MTS-00104-02 evses -> 0: status : CHARGING
+PRT-00172-02 evses -> 1: status : CHARGING
