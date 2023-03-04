@@ -477,3 +477,8 @@ PRT-00172-02 evses -> 1: status : CHARGING
 MTS-00104-02 evses -> 0: status : CHARGING
 MTS-00104-02 evses -> 0: status : CHARGING
 PRT-00172-02 evses -> 1: status : CHARGING
+
+2023-03-04 16:20:16
+MTS-00104-02 evses -> 0: status : CHARGING
+MTS-00104-02 evses -> 0: status : CHARGING
+PRT-00172-02 evses -> 1: status : CHARGING
