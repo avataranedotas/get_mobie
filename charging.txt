@@ -555,3 +555,6 @@ PRT-00172-02 evses -> 1: status : CHARGING
 
 2023-03-05 05:14:26
 PRT-00172-02 evses -> 1: status : CHARGING
+
+2023-03-05 05:36:15
+PRT-00172-02 evses -> 1: status : CHARGING
