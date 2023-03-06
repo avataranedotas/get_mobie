@@ -623,3 +623,6 @@ VNH-90001-2 evses -> 0: status : CHARGING
 
 2023-03-06 12:32:40
 VNH-90001-2 evses -> 0: status : CHARGING
+
+2023-03-06 13:40:17
+SNT-00074-02 evses -> 0: status : CHARGING
