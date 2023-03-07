@@ -635,3 +635,6 @@ MTS-00104-02 evses -> 0: status : CHARGING
 
 2023-03-07 09:17:16
 MTS-00104-02 evses -> 0: status : CHARGING
+
+2023-03-07 09:37:52
+MTS-00104-02 evses -> 0: status : CHARGING
