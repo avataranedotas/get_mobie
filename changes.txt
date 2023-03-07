@@ -390,3 +390,9 @@ PNF-00017
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 75000
  OLD max_electric_power : 300000
+
+2023-03-07 11:36:24
+Adicionados:['PBL-00015']
+
+PBL-00015-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PBL-00015', 'publish': True, 'address': 'Rua 31 de Agosto, nº 7', 'city': 'Pombal', 'country': 'PRT', 'postal_code': '3100-346', 'coordinates': {'latitude': '39.9060923', 'longitude': '-8.6337278'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PBL-00015-02', 'evse_id': 'PT*EDP*E*PBL*00015*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PBL-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-02-15T13:39:25.853Z'}], 'last_updated': '2023-03-07T11:24:20.494Z'}, {'uid': 'PBL-00015-03', 'evse_id': 'PT*EDP*E*PBL*00015*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PBL-00015-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-15T13:39:25.854Z'}], 'last_updated': '2023-03-07T11:23:15.951Z'}, {'uid': 'PBL-00015-01', 'evse_id': 'PT*EDP*E*PBL*00015*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PBL-00015-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-02-15T13:39:25.851Z'}], 'last_updated': '2023-03-07T11:24:20.04Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-03-07T11:24:20.494Z'}
+Removidos:[]
