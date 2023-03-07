@@ -718,3 +718,6 @@ PLM-00013-01 evses -> 2: status : CHARGING
 2023-03-07 19:36:37
 OER-00147-1 evses -> 0: status : CHARGING
 PLM-00013-02 evses -> 0: status : CHARGING
+
+2023-03-07 21:14:45
+STB-00029-01 evses -> 0: status : CHARGING
