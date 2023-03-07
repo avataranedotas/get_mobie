@@ -701,3 +701,9 @@ SXL-00021-01 evses -> 0: status : CHARGING
 2023-03-07 17:37:21
 MCN-90001-1 evses -> 0: status : CHARGING
 PLM-00013-01 evses -> 2: status : CHARGING
+
+2023-03-07 18:20:30
+MCN-90001-1 evses -> 0: status : CHARGING
+PLM-00012-03 evses -> 1: status : CHARGING
+PLM-00013-02 evses -> 0: status : CHARGING
+PLM-00013-01 evses -> 2: status : CHARGING
