@@ -426,3 +426,9 @@ ARV-00007
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-03-08 11:36:37
+Adicionados:['PTM-00035']
+
+PTM-00035-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PTM-00035', 'publish': True, 'address': 'Rua da Esperança Lugar Dos Craveiros', 'city': 'Portimão', 'country': 'PRT', 'postal_code': '8500-420', 'coordinates': {'latitude': '37.146475', 'longitude': '-8.5516243'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTM-00035-03', 'evse_id': 'PT*KLC*E*PTM*00035*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTM-00035-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-14T18:58:19.526Z'}], 'last_updated': '2023-03-08T11:23:32.433Z'}, {'uid': 'PTM-00035-01', 'evse_id': 'PT*KLC*E*PTM*00035*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTM-00035-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-14T18:58:19.523Z'}], 'last_updated': '2023-03-08T11:23:31.737Z'}, {'uid': 'PTM-00035-02', 'evse_id': 'PT*KLC*E*PTM*00035*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTM-00035-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-14T18:58:19.524Z'}], 'last_updated': '2023-03-08T11:23:32.126Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-08T11:23:32.433Z'}
+Removidos:[]
