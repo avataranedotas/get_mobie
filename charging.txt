@@ -789,3 +789,10 @@ PTM-00032-01 evses -> 0: status : CHARGING
 SSB-00011-02 evses -> 2: status : CHARGING
 SSB-00011-02 evses -> 2: status : CHARGING
 STB-00029-02 evses -> 2: status : CHARGING
+
+2023-03-08 13:25:00
+CTB-00018-01 evses -> 0: status : CHARGING
+PTM-00032-01 evses -> 0: status : CHARGING
+SSB-00011-02 evses -> 2: status : CHARGING
+SSB-00011-02 evses -> 2: status : CHARGING
+STB-00029-02 evses -> 2: status : CHARGING
