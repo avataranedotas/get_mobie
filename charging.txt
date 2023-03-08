@@ -760,3 +760,6 @@ PRT-00178-01 evses -> 0: status : CHARGING
 
 2023-03-08 06:41:37
 PRT-00178-01 evses -> 0: status : CHARGING
+
+2023-03-08 07:14:54
+PRT-00178-01 evses -> 0: status : CHARGING
