@@ -780,3 +780,12 @@ PRT-00178-01 evses -> 0: status : CHARGING
 SSB-00011-02 evses -> 2: status : CHARGING
 SSB-00011-02 evses -> 2: status : CHARGING
 STB-00029-02 evses -> 2: status : CHARGING
+
+2023-03-08 12:32:06
+CTB-00018-01 evses -> 0: status : CHARGING
+LRS-00065-02 evses -> 1: status : CHARGING
+MFR-00023-02 evses -> 2: status : CHARGING
+PTM-00032-01 evses -> 0: status : CHARGING
+SSB-00011-02 evses -> 2: status : CHARGING
+SSB-00011-02 evses -> 2: status : CHARGING
+STB-00029-02 evses -> 2: status : CHARGING
