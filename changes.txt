@@ -450,3 +450,17 @@ Adicionados:['STB-00051']
 
 STB-00051-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'STB-00051', 'publish': True, 'address': 'Avenida Baía de Setúbal', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2845-415', 'coordinates': {'latitude': '38.522116', 'longitude': '-8.8861435'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00051-02', 'evse_id': 'PT*EDP*E*STB*00051*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00051-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-02-25T15:24:09.24Z'}], 'last_updated': '2023-03-08T15:00:41.184Z'}, {'uid': 'STB-00051-01', 'evse_id': 'PT*EDP*E*STB*00051*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00051-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-02-25T15:24:09.238Z'}], 'last_updated': '2023-03-08T15:00:40.384Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-03-08T15:00:41.184Z'}
 Removidos:[]
+
+2023-03-09 12:33:50
+BRG-00038
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 11000
+BRG-00038
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 11000
+BRG-00039
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 11000
