@@ -855,3 +855,7 @@ PTM-00032-02 evses -> 1: status : CHARGING
 
 2023-03-09 12:33:53
 PSR-00006-01 evses -> 0: status : CHARGING
+
+2023-03-09 13:31:26
+FLG-00009-04 evses -> 3: status : CHARGING
+PSR-00006-01 evses -> 0: status : CHARGING
