@@ -915,3 +915,7 @@ PTM-00035-02 evses -> 2: status : CHARGING
 2023-03-10 19:12:15
 LNH-00003-02 evses -> 0: status : CHARGING
 LNH-00003-01 evses -> 1: status : CHARGING
+
+2023-03-10 19:36:15
+LNH-00003-02 evses -> 0: status : CHARGING
+LNH-00003-01 evses -> 1: status : CHARGING
