@@ -883,3 +883,6 @@ ABF-00030-02 evses -> 0: status : CHARGING
 2023-03-10 11:13:53
 PRT-00136-01 evses -> 0: status : CHARGING
 PTM-00035-02 evses -> 2: status : CHARGING
+
+2023-03-10 11:36:48
+PTM-00035-02 evses -> 2: status : CHARGING
