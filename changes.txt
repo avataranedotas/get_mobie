@@ -494,3 +494,9 @@ ARV-00007
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 43000
+
+2023-03-10 02:46:17
+ARV-00007
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
