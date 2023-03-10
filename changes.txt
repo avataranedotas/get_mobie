@@ -500,3 +500,7 @@ ARV-00007
 evses -> 2 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2023-03-10 15:38:12
+Adicionados:[]
+Removidos:['LRA-00072', 'LRA-00073']
