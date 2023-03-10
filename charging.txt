@@ -908,3 +908,6 @@ PTM-00028-02 evses -> 1: status : CHARGING
 2023-03-10 18:18:38
 FLG-00009-01 evses -> 2: status : CHARGING
 LNH-00003-02 evses -> 0: status : CHARGING
+
+2023-03-10 18:39:21
+PTM-00035-02 evses -> 2: status : CHARGING
