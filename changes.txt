@@ -504,3 +504,9 @@ evses -> 2 -> connectors -> 0:
 2023-03-10 15:38:12
 Adicionados:[]
 Removidos:['LRA-00072', 'LRA-00073']
+
+2023-03-11 17:35:57
+Adicionados:['PTL-00004']
+
+PTL-00004-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'PTL-00004', 'publish': True, 'address': 'Intermarché Ponte De Lima', 'city': 'Ponte de Lima', 'country': 'PRT', 'postal_code': '4990-348', 'coordinates': {'latitude': '41.754989', 'longitude': '-8.585428'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PTL-00004-1', 'evse_id': 'PT*HRZ*E*PTL*00004*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'PTL-00004-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-12T15:11:04.438Z'}], 'last_updated': '2023-03-11T17:15:53.413Z'}, {'uid': 'PTL-00004-2', 'evse_id': 'PT*HRZ*E*PTL*00004*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'PTL-00004-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-12T15:11:04.439Z'}], 'last_updated': '2023-03-11T17:15:53.413Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-11T17:15:53.366Z'}
+Removidos:[]
