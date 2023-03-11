@@ -929,3 +929,7 @@ LLE-00128-1 evses -> 0: status : CHARGING
 2023-03-11 08:38:16
 PTM-00028-02 evses -> 1: status : CHARGING
 PTM-00028-02 evses -> 1: status : CHARGING
+
+2023-03-11 09:13:48
+PTM-00028-02 evses -> 1: status : CHARGING
+PTM-00028-02 evses -> 1: status : CHARGING
