@@ -788,3 +788,45 @@ TNV-00009
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-03-13 19:12:33
+VND-90004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : AC_1_PHASE
+VND-90004
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+VND-90004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 7400
+VND-90004
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : AC_1_PHASE
+VND-90004
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+VND-90004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 7400
+VNF-00023
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+VNF-00024
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTN
+VNG-00106
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VNG-00106
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
