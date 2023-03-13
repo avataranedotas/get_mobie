@@ -830,3 +830,13 @@ VNG-00106
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-03-13 20:16:57
+FUN-00013
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+FUN-00029
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
