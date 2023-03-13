@@ -1029,3 +1029,8 @@ SXL-00038-01 evses -> 0: status : CHARGING
 BRR-00027-02 evses -> 0: status : CHARGING
 SXL-00038-01 evses -> 0: status : CHARGING
 SXL-00038-01 evses -> 0: status : CHARGING
+
+2023-03-13 19:36:20
+BRR-00027-02 evses -> 0: status : CHARGING
+SXL-00038-01 evses -> 0: status : CHARGING
+SXL-00038-01 evses -> 0: status : CHARGING
