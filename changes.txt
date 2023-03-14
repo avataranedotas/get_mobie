@@ -902,3 +902,9 @@ SCR-00002
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2023-03-14 14:17:07
+Adicionados:['TMR-00015']
+
+TMR-00015-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'TMR-00015', 'publish': True, 'address': 'Rua António Duarte Faustino, 12', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-454', 'coordinates': {'latitude': '39.61568', 'longitude': '-8.4003999'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TMR-00015-01', 'evse_id': 'PT*TRK*E*TMR*00015*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00015-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:35.652Z'}], 'last_updated': '2023-03-14T14:05:49.118Z'}, {'uid': 'TMR-00015-02', 'evse_id': 'PT*TRK*E*TMR*00015*02', 'status': 'CHARGING', 'connectors': [{'id': 'TMR-00015-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2022-12-19T10:49:35.653Z'}], 'last_updated': '2023-03-14T14:09:00.465Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-03-14T14:09:00.465Z'}
+Removidos:[]
