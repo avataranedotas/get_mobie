@@ -1065,3 +1065,6 @@ CSC-00097-01 evses -> 2: status : CHARGING
 
 2023-03-14 17:43:35
 CSC-00097-01 evses -> 2: status : CHARGING
+
+2023-03-14 18:24:03
+CSC-00097-01 evses -> 2: status : CHARGING
