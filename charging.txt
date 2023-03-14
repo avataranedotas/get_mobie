@@ -1082,3 +1082,6 @@ GMR-00055-01 evses -> 1: status : CHARGING
 2023-03-14 20:40:18
 ALQ-00010-01 evses -> 0: status : CHARGING
 GMR-00055-01 evses -> 1: status : CHARGING
+
+2023-03-14 21:13:39
+GMR-00055-01 evses -> 1: status : CHARGING
