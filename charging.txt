@@ -1062,3 +1062,6 @@ ENT-00003-01 evses -> 0: status : CHARGING
 
 2023-03-14 17:22:28
 CSC-00097-01 evses -> 2: status : CHARGING
+
+2023-03-14 17:43:35
+CSC-00097-01 evses -> 2: status : CHARGING
