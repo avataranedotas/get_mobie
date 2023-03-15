@@ -1109,3 +1109,6 @@ SXL-00040-03 evses -> 0: status : CHARGING
 
 2023-03-15 13:22:44
 SXL-00040-03 evses -> 0: status : CHARGING
+
+2023-03-15 14:36:56
+VCT-00038-02 evses -> 2: status : CHARGING
