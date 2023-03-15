@@ -1132,3 +1132,7 @@ LLE-00129-1 evses -> 0: status : CHARGING
 
 2023-03-15 18:19:57
 LLE-00129-1 evses -> 0: status : CHARGING
+
+2023-03-15 19:12:52
+PDL-00002-01 evses -> 0: status : CHARGING
+STB-00034-02 evses -> 2: status : CHARGING
