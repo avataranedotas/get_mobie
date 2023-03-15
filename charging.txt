@@ -1103,3 +1103,6 @@ SXL-00040-03 evses -> 0: status : CHARGING
 
 2023-03-15 11:36:26
 SXL-00040-03 evses -> 0: status : CHARGING
+
+2023-03-15 12:30:57
+SXL-00040-03 evses -> 0: status : CHARGING
