@@ -962,3 +962,39 @@ VLN-90002
 : 
  NEW coordinates : {'latitude': '42.031565', 'longitude': '-8.632902'}
  OLD coordinates : {'latitude': '42.026954', 'longitude': '-8.641034'}
+
+2023-03-16 11:13:15
+Adicionados:[]
+Removidos:['ALQ-00002', 'PRT-00020', 'PTL-00004', 'STB-00022', 'VNG-00046']
+MTS-00106
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+MTS-00106
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+MTS-00106
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 32
+MTS-00106
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+MTS-00106
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+MTS-00106
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+MTS-00106
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 150
+MTS-00106
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000
