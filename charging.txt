@@ -1166,3 +1166,7 @@ BGC-00010-01 evses -> 1: status : CHARGING
 2023-03-16 16:48:52
 BGC-00010-02 evses -> 0: status : CHARGING
 PDL-00002-01 evses -> 0: status : CHARGING
+
+2023-03-16 17:14:52
+BGC-00010-02 evses -> 0: status : CHARGING
+PDL-00002-01 evses -> 0: status : CHARGING
