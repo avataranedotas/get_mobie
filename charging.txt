@@ -1158,3 +1158,7 @@ RMR-00004-02 evses -> 2: status : CHARGING
 
 2023-03-16 15:38:58
 RMR-00004-02 evses -> 2: status : CHARGING
+
+2023-03-16 16:25:01
+BGC-00010-02 evses -> 0: status : CHARGING
+BGC-00010-01 evses -> 1: status : CHARGING
