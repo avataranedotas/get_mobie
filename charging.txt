@@ -1155,3 +1155,6 @@ SXL-00040-02 evses -> 2: status : CHARGING
 
 2023-03-16 15:17:23
 RMR-00004-02 evses -> 2: status : CHARGING
+
+2023-03-16 15:38:58
+RMR-00004-02 evses -> 2: status : CHARGING
