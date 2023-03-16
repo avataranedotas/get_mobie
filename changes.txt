@@ -940,3 +940,25 @@ SNT-00101-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SNT-00101', 'publis
 
 VFX-00031-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VFX-00031', 'publish': True, 'address': 'Rua de Santa Maria, 2-2A', 'city': 'Vila Franca de Xira', 'country': 'PRT', 'postal_code': '2615-129', 'coordinates': {'latitude': '38.894722', 'longitude': '-9.041111'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VFX-00031-01', 'evse_id': 'PT*KLC*E*VFX*00031*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VFX-00031-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:43:24.557Z'}], 'last_updated': '2023-03-15T22:34:06.545Z'}, {'uid': 'VFX-00031-02', 'evse_id': 'PT*KLC*E*VFX*00031*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VFX-00031-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:43:24.558Z'}], 'last_updated': '2023-03-15T22:34:07.043Z'}, {'uid': 'VFX-00031-03', 'evse_id': 'PT*KLC*E*VFX*00031*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VFX-00031-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:43:24.56Z'}], 'last_updated': '2023-03-15T22:34:07.468Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-15T22:34:07.468Z'}
 Removidos:[]
+
+2023-03-16 10:38:36
+VLN-90002
+: 
+ NEW address : Avenida Pinto da Mota, 420
+ OLD address : -
+VLN-90002
+: 
+ NEW postal_code : 4930-600
+ OLD postal_code : -
+VLN-90002
+coordinates: 
+ NEW latitude : 42.031565
+ OLD latitude : 42.026954
+VLN-90002
+coordinates: 
+ NEW longitude : -8.632902
+ OLD longitude : -8.641034
+VLN-90002
+: 
+ NEW coordinates : {'latitude': '42.031565', 'longitude': '-8.632902'}
+ OLD coordinates : {'latitude': '42.026954', 'longitude': '-8.641034'}
