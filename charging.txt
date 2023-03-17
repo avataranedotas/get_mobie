@@ -1218,3 +1218,8 @@ MTS-00105-01 evses -> 0: status : CHARGING
 MTS-00105-01 evses -> 0: status : CHARGING
 SMG-00006-01 evses -> 2: status : CHARGING
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-17 14:36:35
+MTS-00105-01 evses -> 0: status : CHARGING
+MTS-00105-01 evses -> 0: status : CHARGING
+VRL-00016-01 evses -> 1: status : CHARGING
