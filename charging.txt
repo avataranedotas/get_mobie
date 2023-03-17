@@ -1202,3 +1202,8 @@ PRT-00179-02 evses -> 1: status : CHARGING
 PRT-00179-01 evses -> 0: status : CHARGING
 PRT-00179-02 evses -> 1: status : CHARGING
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-17 13:21:52
+PRT-00179-01 evses -> 0: status : CHARGING
+PRT-00179-02 evses -> 1: status : CHARGING
+VRL-00016-01 evses -> 1: status : CHARGING
