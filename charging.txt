@@ -1236,3 +1236,7 @@ LGA-00017-02 evses -> 0: status : CHARGING
 2023-03-17 18:18:16
 ARV-00007-02 evses -> 1: status : CHARGING
 LGA-00017-02 evses -> 0: status : CHARGING
+
+2023-03-17 18:39:10
+ARV-00007-02 evses -> 1: status : CHARGING
+LGA-00017-02 evses -> 0: status : CHARGING
