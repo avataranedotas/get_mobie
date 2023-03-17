@@ -1244,3 +1244,7 @@ LGA-00017-02 evses -> 0: status : CHARGING
 2023-03-17 20:16:40
 MTS-00105-02 evses -> 2: status : CHARGING
 MTS-00105-02 evses -> 2: status : CHARGING
+
+2023-03-17 20:36:35
+MTS-00105-02 evses -> 2: status : CHARGING
+MTS-00105-02 evses -> 2: status : CHARGING
