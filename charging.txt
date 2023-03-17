@@ -1187,3 +1187,6 @@ SXL-00040-03 evses -> 0: status : CHARGING
 2023-03-16 20:16:44
 PRD-00014-01 evses -> 0: status : CHARGING
 PRD-00014-02 evses -> 1: status : CHARGING
+
+2023-03-17 10:38:44
+ABF-00050-01 evses -> 0: status : CHARGING
