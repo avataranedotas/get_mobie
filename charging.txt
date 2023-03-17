@@ -1190,3 +1190,6 @@ PRD-00014-02 evses -> 1: status : CHARGING
 
 2023-03-17 10:38:44
 ABF-00050-01 evses -> 0: status : CHARGING
+
+2023-03-17 11:13:12
+PRT-00179-01 evses -> 0: status : CHARGING
