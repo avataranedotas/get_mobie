@@ -1064,3 +1064,9 @@ Removidos:[]
 2023-03-17 17:36:14
 Adicionados:[]
 Removidos:['VRS-00006']
+
+2023-03-17 18:18:13
+Adicionados:['VRS-00006']
+
+VRS-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VRS-00006', 'publish': True, 'address': 'Avenida Salgueiro Maia, Lugar De Hortas,', 'city': 'Vila Real de Santo António', 'country': 'PRT', 'postal_code': '8900-258', 'coordinates': {'latitude': '37.191276', 'longitude': '-7.430549'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VRS-00006-01', 'evse_id': 'PT*KLC*E*VRS*00006*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VRS-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:46:42.244Z'}], 'last_updated': '2023-03-17T17:32:22.461Z'}, {'uid': 'VRS-00006-02', 'evse_id': 'PT*KLC*E*VRS*00006*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VRS-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:42.245Z'}], 'last_updated': '2023-03-17T18:05:08.638Z'}, {'uid': 'VRS-00006-03', 'evse_id': 'PT*KLC*E*VRS*00006*03', 'status': 'CHARGING', 'connectors': [{'id': 'VRS-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:46:42.246Z'}], 'last_updated': '2023-03-17T18:04:31.897Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-17T18:05:08.638Z'}
+Removidos:[]
