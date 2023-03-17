@@ -1229,3 +1229,6 @@ SMG-00006-01 evses -> 2: status : CHARGING
 
 2023-03-17 15:37:01
 SMG-00006-01 evses -> 2: status : CHARGING
+
+2023-03-17 17:36:17
+LGA-00017-02 evses -> 0: status : CHARGING
