@@ -1254,3 +1254,6 @@ ACN-00005-02 evses -> 0: status : CHARGING
 
 2023-03-18 10:36:09
 ARV-00007-01 evses -> 0: status : CHARGING
+
+2023-03-18 11:36:23
+PVZ-00023-02 evses -> 0: status : CHARGING
