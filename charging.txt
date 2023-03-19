@@ -1350,3 +1350,6 @@ ORQ-00004-01 evses -> 1: status : CHARGING
 
 2023-03-19 18:18:09
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-19 21:12:44
+GMR-00074-02 evses -> 1: status : CHARGING
