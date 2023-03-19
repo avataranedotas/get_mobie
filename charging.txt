@@ -1340,3 +1340,6 @@ ORQ-00004-01 evses -> 1: status : CHARGING
 
 2023-03-19 16:42:14
 ORQ-00004-01 evses -> 1: status : CHARGING
+
+2023-03-19 17:13:04
+ORQ-00004-01 evses -> 1: status : CHARGING
