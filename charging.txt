@@ -1317,3 +1317,7 @@ TMR-00015-02 evses -> 1: status : CHARGING
 
 2023-03-19 11:36:12
 BJA-00014-02 evses -> 2: status : CHARGING
+
+2023-03-19 12:28:39
+TMR-00011-02 evses -> 1: status : CHARGING
+VRL-00016-01 evses -> 1: status : CHARGING
