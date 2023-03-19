@@ -1328,3 +1328,6 @@ ORQ-00004-01 evses -> 1: status : CHARGING
 2023-03-19 14:36:14
 BJA-00014-02 evses -> 2: status : CHARGING
 ORQ-00004-01 evses -> 1: status : CHARGING
+
+2023-03-19 15:14:51
+ORQ-00004-01 evses -> 1: status : CHARGING
