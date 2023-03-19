@@ -1296,3 +1296,6 @@ TMR-00015-02 evses -> 1: status : CHARGING
 
 2023-03-19 05:13:58
 TMR-00015-02 evses -> 1: status : CHARGING
+
+2023-03-19 05:36:07
+TMR-00015-02 evses -> 1: status : CHARGING
