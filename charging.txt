@@ -1413,3 +1413,6 @@ GMR-00074-02 evses -> 1: status : CHARGING
 PVZ-00021-02 evses -> 2: status : CHARGING
 PVZ-00023-02 evses -> 0: status : CHARGING
 PVZ-00023-01 evses -> 2: status : CHARGING
+
+2023-03-20 19:12:27
+PVZ-00023-01 evses -> 2: status : CHARGING
