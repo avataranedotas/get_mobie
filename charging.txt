@@ -1392,3 +1392,8 @@ PVZ-00021-01 evses -> 1: status : CHARGING
 NZR-00015-03 evses -> 0: status : CHARGING
 NZR-00015-02 evses -> 2: status : CHARGING
 PVZ-00021-01 evses -> 1: status : CHARGING
+
+2023-03-20 15:40:07
+NZR-00015-03 evses -> 0: status : CHARGING
+NZR-00015-02 evses -> 2: status : CHARGING
+TNV-00009-01 evses -> 2: status : CHARGING
