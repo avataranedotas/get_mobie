@@ -1368,3 +1368,8 @@ VNG-00109-02 evses -> 1: status : CHARGING
 2023-03-20 11:17:01
 VNG-00109-02 evses -> 1: status : CHARGING
 VNG-00109-02 evses -> 1: status : CHARGING
+
+2023-03-20 11:36:25
+PRT-00170-01 evses -> 0: status : CHARGING
+VNG-00109-02 evses -> 1: status : CHARGING
+VNG-00109-02 evses -> 1: status : CHARGING
