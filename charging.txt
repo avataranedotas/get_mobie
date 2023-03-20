@@ -1380,3 +1380,7 @@ PRT-00170-01 evses -> 0: status : CHARGING
 2023-03-20 13:39:26
 GDM-00028-03 evses -> 0: status : CHARGING
 VRS-00005-01 evses -> 1: status : CHARGING
+
+2023-03-20 14:16:02
+PVZ-00021-02 evses -> 2: status : CHARGING
+VRS-00005-01 evses -> 1: status : CHARGING
