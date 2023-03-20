@@ -1416,3 +1416,8 @@ PVZ-00023-01 evses -> 2: status : CHARGING
 
 2023-03-20 19:12:27
 PVZ-00023-01 evses -> 2: status : CHARGING
+
+2023-03-20 19:36:12
+PVZ-00023-01 evses -> 2: status : CHARGING
+VNG-00109-03 evses -> 2: status : CHARGING
+VNG-00109-03 evses -> 2: status : CHARGING

@@ -1082,3 +1082,29 @@ CVL-00010
 evses -> 0 -> connectors -> 0: 
  NEW standard : CHADEMO
  OLD standard : IEC_62196_T2_COMBO
+
+2023-03-20 19:36:08
+TVD-90002
+evses -> 0: 
+ NEW uid : TVD-90002-02
+ OLD uid : TVD-90002-01
+TVD-90002
+evses -> 0: 
+ NEW evse_id : PT*KLC*E*TVD*90002*02
+ OLD evse_id : PT*KLC*E*TVD*90002*01
+TVD-90002
+evses -> 0 -> connectors -> 0: 
+ NEW id : TVD-90002-02-01
+ OLD id : TVD-90002-01-01
+TVD-90002
+evses -> 1: 
+ NEW uid : TVD-90002-01
+ OLD uid : TVD-90002-02
+TVD-90002
+evses -> 1: 
+ NEW evse_id : PT*KLC*E*TVD*90002*01
+ OLD evse_id : PT*KLC*E*TVD*90002*02
+TVD-90002
+evses -> 1 -> connectors -> 0: 
+ NEW id : TVD-90002-01-01
+ OLD id : TVD-90002-02-01
