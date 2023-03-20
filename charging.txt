@@ -1384,3 +1384,6 @@ VRS-00005-01 evses -> 1: status : CHARGING
 2023-03-20 14:16:02
 PVZ-00021-02 evses -> 2: status : CHARGING
 VRS-00005-01 evses -> 1: status : CHARGING
+
+2023-03-20 14:39:34
+PVZ-00021-01 evses -> 1: status : CHARGING
