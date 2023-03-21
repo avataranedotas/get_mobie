@@ -1515,3 +1515,6 @@ PBL-00014-02 evses -> 2: status : CHARGING
 
 2023-03-21 21:36:17
 VNG-00109-02 evses -> 1: status : CHARGING
+
+2023-03-21 22:12:43
+VNG-00109-02 evses -> 1: status : CHARGING
