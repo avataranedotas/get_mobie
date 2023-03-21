@@ -1120,3 +1120,37 @@ Adicionados:['LRA-00071']
 
 LRA-00071-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LRA-00071', 'publish': True, 'address': 'Rua da Baquelite Carregal', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2415-615', 'coordinates': {'latitude': '39.765558', 'longitude': '-8.8177042'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRA-00071-02', 'evse_id': 'PT*HRZ*E*LRA*00071*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRA-00071-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:12.138Z'}], 'last_updated': '2023-03-21T10:19:22.758Z'}, {'uid': 'LRA-00071-01', 'evse_id': 'PT*HRZ*E*LRA*00071*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRA-00071-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:12.136Z'}], 'last_updated': '2023-03-21T10:19:22.175Z'}, {'uid': 'LRA-00071-03', 'evse_id': 'PT*HRZ*E*LRA*00071*03', 'status': 'CHARGING', 'connectors': [{'id': 'LRA-00071-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:34:12.139Z'}], 'last_updated': '2023-03-21T10:22:30.144Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-21T10:22:30.144Z'}
 Removidos:[]
+
+2023-03-21 11:11:59
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+OER-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+OER-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+OER-00137
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+OER-00137
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+OER-00137
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000

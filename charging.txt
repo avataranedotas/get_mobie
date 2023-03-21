@@ -1446,3 +1446,8 @@ VNG-00109-03 evses -> 2: status : CHARGING
 
 2023-03-21 10:37:03
 LRA-00071-03 evses -> 2: status : CHARGING
+
+2023-03-21 11:12:03
+LRA-00071-03 evses -> 2: status : CHARGING
+PBL-00014-02 evses -> 2: status : CHARGING
+PBL-00014-02 evses -> 2: status : CHARGING
