@@ -1508,3 +1508,7 @@ VRL-00016-01 evses -> 1: status : CHARGING
 MTS-00079-02 evses -> 0: status : CHARGING
 PBL-00014-02 evses -> 2: status : CHARGING
 PBL-00014-02 evses -> 2: status : CHARGING
+
+2023-03-21 20:36:22
+PBL-00014-02 evses -> 2: status : CHARGING
+PBL-00014-02 evses -> 2: status : CHARGING
