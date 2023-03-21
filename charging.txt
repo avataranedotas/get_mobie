@@ -1455,3 +1455,6 @@ PBL-00014-02 evses -> 2: status : CHARGING
 2023-03-21 12:28:02
 CBR-00074-02 evses -> 1: status : CHARGING
 CBR-00074-02 evses -> 1: status : CHARGING
+
+2023-03-21 13:14:23
+TNV-00011-01 evses -> 0: status : CHARGING
