@@ -1154,3 +1154,9 @@ OER-00137
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-03-21 11:36:06
+Adicionados:['LRA-00076']
+
+LRA-00076-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LRA-00076', 'publish': True, 'address': 'R. Virgílio Vieira da Cunha', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2400-447', 'coordinates': {'latitude': '39.7466321', 'longitude': '-8.8212229'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRA-00076-1', 'evse_id': 'PT*HRZ*E*LRA*00076*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'LRA-00076-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2022-11-14T15:33:23.792Z'}], 'last_updated': '2023-03-21T11:24:37.35Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-21T11:24:37.314Z'}
+Removidos:['SNT-00085', 'SNT-00086', 'SNT-00087', 'SNT-00088']
