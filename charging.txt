@@ -1465,3 +1465,6 @@ TNV-00011-01 evses -> 0: status : CHARGING
 
 2023-03-21 14:11:52
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-21 16:17:07
+LRA-00075-02 evses -> 1: status : CHARGING
