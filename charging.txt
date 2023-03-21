@@ -1473,3 +1473,8 @@ LRA-00075-02 evses -> 1: status : CHARGING
 LRA-00075-02 evses -> 1: status : CHARGING
 VNG-00109-03 evses -> 2: status : CHARGING
 VNG-00109-03 evses -> 2: status : CHARGING
+
+2023-03-21 17:36:25
+MTS-00075-01 evses -> 0: status : CHARGING
+VNG-00109-03 evses -> 2: status : CHARGING
+VNG-00109-03 evses -> 2: status : CHARGING
