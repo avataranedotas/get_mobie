@@ -1612,3 +1612,8 @@ MTS-00077-01 evses -> 0: status : CHARGING
 
 2023-03-22 20:36:51
 LSB-00280-01 evses -> 2: status : CHARGING
+
+2023-03-22 21:12:29
+LSB-00280-01 evses -> 2: status : CHARGING
+MTS-00077-02 evses -> 1: status : CHARGING
+MTS-00081-02 evses -> 1: status : CHARGING
