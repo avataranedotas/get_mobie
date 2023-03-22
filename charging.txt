@@ -1535,3 +1535,7 @@ VNG-00109-02 evses -> 1: status : CHARGING
 2023-03-22 10:15:44
 GMR-00058-01 evses -> 1: status : CHARGING
 VNG-00109-02 evses -> 1: status : CHARGING
+
+2023-03-22 10:36:39
+GMR-00058-01 evses -> 1: status : CHARGING
+VNG-00109-02 evses -> 1: status : CHARGING
