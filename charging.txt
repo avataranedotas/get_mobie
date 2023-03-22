@@ -1546,3 +1546,7 @@ MTS-00077-01 evses -> 0: status : CHARGING
 2023-03-22 12:29:17
 VNG-00109-03 evses -> 2: status : CHARGING
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-22 12:57:01
+MTS-00077-01 evses -> 0: status : CHARGING
+MTS-00077-02 evses -> 1: status : CHARGING
