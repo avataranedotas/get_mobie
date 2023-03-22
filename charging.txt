@@ -1621,3 +1621,6 @@ MTS-00081-02 evses -> 1: status : CHARGING
 2023-03-22 21:36:15
 LSB-00280-01 evses -> 2: status : CHARGING
 MTS-00081-02 evses -> 1: status : CHARGING
+
+2023-03-22 22:11:39
+LSB-00280-01 evses -> 2: status : CHARGING
