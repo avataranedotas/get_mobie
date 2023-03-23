@@ -1721,3 +1721,8 @@ TMR-00014-02 evses -> 1: status : CHARGING
 GMR-00058-01 evses -> 1: status : CHARGING
 LSB-00280-02 evses -> 1: status : CHARGING
 VNG-00109-01 evses -> 0: status : CHARGING
+
+2023-03-23 16:43:59
+GMR-00058-01 evses -> 1: status : CHARGING
+LSB-00280-02 evses -> 1: status : CHARGING
+VNG-00109-01 evses -> 0: status : CHARGING
