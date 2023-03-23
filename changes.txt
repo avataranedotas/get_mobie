@@ -1286,3 +1286,19 @@ CTB-00023
 : 
  NEW coordinates : {'latitude': '39.887959', 'longitude': '-7.488116'}
  OLD coordinates : {'latitude': '39.887759', 'longitude': '-7.488116'}
+
+2023-03-23 15:15:10
+Adicionados:['CTB-00025', 'CTB-00026']
+
+CTB-00025-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00025', 'publish': True, 'address': 'Área de Serviço CEPSA A23 Castelo Branco S-N', 'city': 'Castelo Branco', 'country': 'PRT', 'postal_code': '6005-999', 'coordinates': {'latitude': '39.887559', 'longitude': '-7.488116'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTB-00025-1', 'evse_id': 'PT*ION*E*CTB*00025*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CTB-00025-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-03-23T14:28:18.5Z'}], 'last_updated': '2023-03-23T14:51:59.967Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-23T14:51:59.967Z'}
+
+CTB-00026-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00026', 'publish': True, 'address': 'Área de Serviço CEPSA A23 Castelo Branco S-N', 'city': 'Castelo Branco', 'country': 'PRT', 'postal_code': '6005-999', 'coordinates': {'latitude': '39.887759', 'longitude': '-7.488116'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTB-00026-1', 'evse_id': 'PT*ION*E*CTB*00026*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'CTB-00026-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-03-23T14:09:28.343Z'}], 'last_updated': '2023-03-23T14:52:22.605Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-23T14:52:22.605Z'}
+Removidos:[]
+CTB-00024
+coordinates: 
+ NEW latitude : 39.888159
+ OLD latitude : 39.887759
+CTB-00024
+: 
+ NEW coordinates : {'latitude': '39.888159', 'longitude': '-7.488116'}
+ OLD coordinates : {'latitude': '39.887759', 'longitude': '-7.488116'}
