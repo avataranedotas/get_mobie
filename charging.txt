@@ -1738,3 +1738,8 @@ LSB-00280-01 evses -> 2: status : CHARGING
 VFX-00031-02 evses -> 1: status : CHARGING
 VNG-00107-02 evses -> 1: status : CHARGING
 VRL-00016-01 evses -> 1: status : CHARGING
+
+2023-03-23 18:18:45
+ETZ-00011-01 evses -> 1: status : CHARGING
+LSB-00280-01 evses -> 2: status : CHARGING
+VNG-00109-01 evses -> 0: status : CHARGING
