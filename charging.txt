@@ -1645,3 +1645,6 @@ LSB-00280-01 evses -> 2: status : CHARGING
 
 2023-03-23 02:44:53
 LSB-00280-01 evses -> 2: status : CHARGING
+
+2023-03-23 08:19:10
+VNG-00109-03 evses -> 2: status : CHARGING
