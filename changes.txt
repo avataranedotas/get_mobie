@@ -1232,3 +1232,9 @@ Removidos:[]
 2023-03-23 11:36:08
 Adicionados:[]
 Removidos:['CTB-00020', 'CTB-00021', 'CTB-00022']
+
+2023-03-23 12:30:43
+Adicionados:['CTB-00021']
+
+CTB-00021-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00021', 'publish': True, 'address': 'Área de Serviço CEPSA A23 Castelo Branco S-N', 'city': 'Castelo Branco', 'country': 'PRT', 'postal_code': '6005-999', 'coordinates': {'latitude': '39.888322', 'longitude': '-7.486825'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTB-00021-1', 'evse_id': 'PT*ION*E*CTB*00021*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'CTB-00021-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-01-27T20:34:15.683Z'}], 'last_updated': '2023-03-23T12:18:01.372Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-23T12:18:01.341Z'}
+Removidos:[]
