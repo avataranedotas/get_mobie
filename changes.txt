@@ -1252,3 +1252,37 @@ CTB-00020-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00020', 'publis
 
 CTB-00022-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00022', 'publish': True, 'address': 'Área de Serviço CEPSA A23 Castelo Branco S-N', 'city': 'Castelo Branco', 'country': 'PRT', 'postal_code': '6005-999', 'coordinates': {'latitude': '39.888322', 'longitude': '-7.486825'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTB-00022-1', 'evse_id': 'PT*ION*E*CTB*00022*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'CTB-00022-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-01-27T20:34:37.61Z'}], 'last_updated': '2023-03-23T13:24:37.629Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-23T13:24:37.599Z'}
 Removidos:[]
+
+2023-03-23 14:37:05
+CTB-00020
+coordinates: 
+ NEW latitude : 39.888222
+ OLD latitude : 39.888322
+CTB-00020
+: 
+ NEW coordinates : {'latitude': '39.888222', 'longitude': '-7.486825'}
+ OLD coordinates : {'latitude': '39.888322', 'longitude': '-7.486825'}
+CTB-00021
+coordinates: 
+ NEW latitude : 39.888022
+ OLD latitude : 39.888322
+CTB-00021
+: 
+ NEW coordinates : {'latitude': '39.888022', 'longitude': '-7.486825'}
+ OLD coordinates : {'latitude': '39.888322', 'longitude': '-7.486825'}
+CTB-00022
+coordinates: 
+ NEW latitude : 39.887822
+ OLD latitude : 39.888322
+CTB-00022
+: 
+ NEW coordinates : {'latitude': '39.887822', 'longitude': '-7.486825'}
+ OLD coordinates : {'latitude': '39.888322', 'longitude': '-7.486825'}
+CTB-00023
+coordinates: 
+ NEW latitude : 39.887959
+ OLD latitude : 39.887759
+CTB-00023
+: 
+ NEW coordinates : {'latitude': '39.887959', 'longitude': '-7.488116'}
+ OLD coordinates : {'latitude': '39.887759', 'longitude': '-7.488116'}
