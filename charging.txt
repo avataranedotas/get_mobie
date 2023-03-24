@@ -1806,3 +1806,9 @@ ALQ-00006-02 evses -> 2: status : CHARGING
 GMR-00058-02 evses -> 0: status : CHARGING
 LSA-90001-2 evses -> 0: status : CHARGING
 VNG-00109-02 evses -> 1: status : CHARGING
+
+2023-03-24 11:12:29
+CLD-00015-03 evses -> 1: status : CHARGING
+GMR-00058-02 evses -> 0: status : CHARGING
+LSA-90001-2 evses -> 0: status : CHARGING
+LSB-00280-03 evses -> 0: status : CHARGING
