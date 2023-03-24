@@ -1800,3 +1800,9 @@ GMR-00058-02 evses -> 0: status : CHARGING
 2023-03-24 10:15:48
 GMR-00058-02 evses -> 0: status : CHARGING
 VNG-00109-03 evses -> 2: status : CHARGING
+
+2023-03-24 10:36:36
+ALQ-00006-02 evses -> 2: status : CHARGING
+GMR-00058-02 evses -> 0: status : CHARGING
+LSA-90001-2 evses -> 0: status : CHARGING
+VNG-00109-02 evses -> 1: status : CHARGING
