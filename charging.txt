@@ -1944,3 +1944,6 @@ VNG-00109-02 evses -> 1: status : CHARGING
 
 2023-03-24 23:14:08
 LLE-00133-02 evses -> 1: status : CHARGING
+
+2023-03-24 23:36:25
+LLE-00133-02 evses -> 1: status : CHARGING
