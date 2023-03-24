@@ -1921,3 +1921,11 @@ LSA-90001-1 evses -> 1: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 MTS-00080-02 evses -> 1: status : CHARGING
 VNG-00109-02 evses -> 1: status : CHARGING
+
+2023-03-24 19:12:30
+GMR-00058-02 evses -> 0: status : CHARGING
+LSA-90001-1 evses -> 1: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+MTS-00080-02 evses -> 1: status : CHARGING
+PTM-00037-01 evses -> 2: status : CHARGING
+VNG-00109-02 evses -> 1: status : CHARGING
