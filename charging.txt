@@ -1790,3 +1790,6 @@ LSB-00280-01 evses -> 2: status : CHARGING
 2023-03-23 23:36:36
 GMR-00058-01 evses -> 1: status : CHARGING
 LSB-00280-01 evses -> 2: status : CHARGING
+
+2023-03-24 01:13:12
+LSB-00280-01 evses -> 2: status : CHARGING
