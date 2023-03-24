@@ -1874,3 +1874,10 @@ GMR-00058-02 evses -> 0: status : CHARGING
 GMR-00058-01 evses -> 1: status : CHARGING
 LSB-00280-03 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
+
+2023-03-24 16:43:17
+GMR-00058-02 evses -> 0: status : CHARGING
+GMR-00058-01 evses -> 1: status : CHARGING
+LSB-00280-03 evses -> 0: status : CHARGING
+LSB-00280-02 evses -> 1: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
