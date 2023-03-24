@@ -1848,3 +1848,8 @@ MTS-00077-01 evses -> 0: status : CHARGING
 GMR-00058-02 evses -> 0: status : CHARGING
 LSB-00453-1 evses -> 0: status : CHARGING
 MTS-00077-01 evses -> 0: status : CHARGING
+
+2023-03-24 14:36:14
+GMR-00058-02 evses -> 0: status : CHARGING
+LSB-00453-1 evses -> 0: status : CHARGING
+MTS-00077-01 evses -> 0: status : CHARGING
