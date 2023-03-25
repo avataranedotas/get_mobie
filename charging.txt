@@ -1953,3 +1953,6 @@ OER-00146-1 evses -> 0: status : CHARGING
 
 2023-03-25 03:15:07
 OER-00146-1 evses -> 0: status : CHARGING
+
+2023-03-25 03:36:12
+OER-00146-1 evses -> 0: status : CHARGING
