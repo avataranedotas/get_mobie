@@ -1986,3 +1986,6 @@ OER-00146-1 evses -> 0: status : CHARGING
 
 2023-03-25 08:36:43
 OER-00146-1 evses -> 0: status : CHARGING
+
+2023-03-25 13:36:08
+LSB-90110-01 evses -> 0: status : CHARGING
