@@ -2143,3 +2143,7 @@ OER-00146-1 evses -> 0: status : CHARGING
 GMR-00073-01 evses -> 0: status : CHARGING
 LSB-90110-01 evses -> 0: status : CHARGING
 OER-00146-1 evses -> 0: status : CHARGING
+
+2023-03-26 16:18:29
+LSB-90110-02 evses -> 1: status : CHARGING
+OER-00146-1 evses -> 0: status : CHARGING
