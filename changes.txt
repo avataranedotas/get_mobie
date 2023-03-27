@@ -1334,3 +1334,21 @@ Adicionados:['CLD-00015']
 
 CLD-00015-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CLD-00015', 'publish': True, 'address': 'Rua São João de Deus', 'city': 'Caldas da Rainha', 'country': 'PRT', 'postal_code': '2500-855', 'coordinates': {'latitude': '39.398867', 'longitude': '-9.137544'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CLD-00015-02', 'evse_id': 'PT*KLC*E*CLD*00015*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-14T17:45:34.264Z'}], 'last_updated': '2023-03-24T11:00:39.031Z'}, {'uid': 'CLD-00015-03', 'evse_id': 'PT*KLC*E*CLD*00015*03', 'status': 'CHARGING', 'connectors': [{'id': 'CLD-00015-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-03-14T17:45:34.265Z'}], 'last_updated': '2023-03-24T11:01:14.902Z'}, {'uid': 'CLD-00015-01', 'evse_id': 'PT*KLC*E*CLD*00015*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CLD-00015-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-14T17:45:34.262Z'}], 'last_updated': '2023-03-24T11:00:38.064Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-24T11:01:14.902Z'}
 Removidos:[]
+
+2023-03-27 09:15:55
+MCN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+MCN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+RMZ-00005
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+RMZ-00005
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
