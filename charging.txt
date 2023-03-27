@@ -2239,3 +2239,7 @@ SNT-00099-01 evses -> 0: status : CHARGING
 
 2023-03-27 19:36:21
 LSB-90110-01 evses -> 0: status : CHARGING
+
+2023-03-27 20:17:34
+LSB-90110-01 evses -> 0: status : CHARGING
+OER-00146-1 evses -> 0: status : CHARGING
