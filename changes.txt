@@ -1352,3 +1352,7 @@ RMZ-00005
 evses -> 1 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2023-03-27 13:34:55
+Adicionados:[]
+Removidos:['SNT-00082']
