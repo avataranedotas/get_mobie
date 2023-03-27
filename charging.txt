@@ -2262,3 +2262,6 @@ LSB-90110-01 evses -> 0: status : CHARGING
 
 2023-03-27 23:15:51
 LSB-90110-02 evses -> 1: status : CHARGING
+
+2023-03-27 23:36:34
+LSB-90110-02 evses -> 1: status : CHARGING
