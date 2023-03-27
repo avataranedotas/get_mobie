@@ -2207,3 +2207,6 @@ SNT-00099-02 evses -> 2: status : CHARGING
 
 2023-03-27 15:16:47
 SNT-00065-01 evses -> 1: status : CHARGING
+
+2023-03-27 15:37:16
+SNT-00065-02 evses -> 0: status : CHARGING
