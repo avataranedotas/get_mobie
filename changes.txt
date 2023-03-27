@@ -1356,3 +1356,9 @@ evses -> 1 -> connectors -> 0:
 2023-03-27 13:34:55
 Adicionados:[]
 Removidos:['SNT-00082']
+
+2023-03-27 17:36:21
+Adicionados:['LLE-00114']
+
+LLE-00114-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00114', 'publish': True, 'address': 'Rua da Lusotur', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-468', 'coordinates': {'latitude': '37.080415', 'longitude': '-8.114305'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00114-02', 'evse_id': 'PT*GLP*E*LLE*00114*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LLE-00114-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:34:08.505Z'}], 'last_updated': '2023-03-27T17:13:31.074Z'}, {'uid': 'LLE-00114-01', 'evse_id': 'PT*GLP*E*LLE*00114*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LLE-00114-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:34:08.504Z'}], 'last_updated': '2023-03-27T17:13:29.781Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-03-27T17:13:31.074Z'}
+Removidos:[]
