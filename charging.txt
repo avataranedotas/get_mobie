@@ -2183,3 +2183,6 @@ GMR-00073-01 evses -> 0: status : CHARGING
 
 2023-03-27 08:20:28
 OER-00146-1 evses -> 0: status : CHARGING
+
+2023-03-27 10:37:41
+LSB-90110-02 evses -> 1: status : CHARGING
