@@ -1374,3 +1374,9 @@ FUN-00032
 : 
  NEW address : Rua Artur de Sousa Pinga
  OLD address : R. Artur de Sousa Pinga
+
+2023-03-28 07:13:50
+Adicionados:['LLE-00122']
+
+LLE-00122-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00122', 'publish': True, 'address': 'Largo dos Três Caminhos', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-439', 'coordinates': {'latitude': '37.081741', 'longitude': '-8.106861'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00122-01', 'evse_id': 'PT*GLP*E*LLE*00122*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00122-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:33:00.942Z'}], 'last_updated': '2023-03-28T07:06:35.479Z'}, {'uid': 'LLE-00122-02', 'evse_id': 'PT*GLP*E*LLE*00122*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00122-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:33:00.948Z'}], 'last_updated': '2023-03-28T07:06:31.679Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-03-28T07:06:35.479Z'}
+Removidos:[]
