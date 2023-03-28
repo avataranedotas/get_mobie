@@ -2404,3 +2404,8 @@ LLE-00114-01 evses -> 1: status : CHARGING
 LSB-90110-01 evses -> 0: status : CHARGING
 LSB-90110-02 evses -> 1: status : CHARGING
 MMN-00009-02 evses -> 1: status : CHARGING
+
+2023-03-28 17:13:47
+BRR-00033-03 evses -> 1: status : CHARGING
+BRR-00033-03 evses -> 1: status : CHARGING
+LSB-90110-01 evses -> 0: status : CHARGING
