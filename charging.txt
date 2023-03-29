@@ -2563,3 +2563,8 @@ BRR-00033-02 evses -> 0: status : CHARGING
 BRR-00033-02 evses -> 0: status : CHARGING
 OER-00146-1 evses -> 0: status : CHARGING
 SNT-00065-01 evses -> 1: status : CHARGING
+
+2023-03-29 20:15:56
+LSB-90110-02 evses -> 1: status : CHARGING
+OER-00146-1 evses -> 0: status : CHARGING
+SNT-00100-03 evses -> 0: status : CHARGING
