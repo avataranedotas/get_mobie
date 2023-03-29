@@ -2578,3 +2578,6 @@ LSB-90110-02 evses -> 1: status : CHARGING
 BRR-00033-02 evses -> 0: status : CHARGING
 BRR-00033-02 evses -> 0: status : CHARGING
 LSB-90110-02 evses -> 1: status : CHARGING
+
+2023-03-29 21:36:27
+LSB-90110-02 evses -> 1: status : CHARGING
