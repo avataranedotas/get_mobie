@@ -2513,3 +2513,10 @@ PRT-00176-02 evses -> 1: status : CHARGING
 SNT-00100-02 evses -> 2: status : CHARGING
 STB-00051-02 evses -> 0: status : CHARGING
 STB-00051-01 evses -> 1: status : CHARGING
+
+2023-03-29 10:37:34
+LLE-00120-01 evses -> 1: status : CHARGING
+LSB-90110-02 evses -> 1: status : CHARGING
+PRT-00176-02 evses -> 1: status : CHARGING
+SNT-00100-02 evses -> 2: status : CHARGING
+STB-00051-01 evses -> 1: status : CHARGING
