@@ -2546,3 +2546,10 @@ SNT-00100-01 evses -> 1: status : CHARGING
 2023-03-29 18:05:54
 OER-00146-1 evses -> 0: status : CHARGING
 SNT-00099-01 evses -> 0: status : CHARGING
+
+2023-03-29 18:41:52
+LLE-00120-01 evses -> 1: status : CHARGING
+LSB-90110-02 evses -> 1: status : CHARGING
+SNT-00065-01 evses -> 1: status : CHARGING
+SNT-00099-02 evses -> 2: status : CHARGING
+VFX-00007-03 evses -> 1: status : CHARGING
