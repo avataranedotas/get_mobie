@@ -1426,3 +1426,9 @@ Removidos:[]
 2023-03-29 09:36:42
 Adicionados:[]
 Removidos:['LSB-00461']
+
+2023-03-30 10:16:15
+Adicionados:['TVR-00016']
+
+TVR-00016-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'TVR-00016', 'publish': True, 'address': 'M514 Rua Silva Domingues,', 'city': 'Tavira', 'country': 'PRT', 'postal_code': '8800-328', 'coordinates': {'latitude': '37.12652', 'longitude': '-7.644986'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVR-00016-02', 'evse_id': 'PT*KLC*E*TVR*00016*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TVR-00016-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:41.033Z'}], 'last_updated': '2023-03-30T09:53:58.927Z'}, {'uid': 'TVR-00016-03', 'evse_id': 'PT*KLC*E*TVR*00016*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'TVR-00016-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:46:41.034Z'}], 'last_updated': '2023-03-30T09:54:00.397Z'}, {'uid': 'TVR-00016-01', 'evse_id': 'PT*KLC*E*TVR*00016*01', 'status': 'CHARGING', 'connectors': [{'id': 'TVR-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:46:41.031Z'}], 'last_updated': '2023-03-30T10:04:23.957Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-03-30T10:04:23.957Z'}
+Removidos:[]
