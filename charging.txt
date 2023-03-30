@@ -2678,3 +2678,9 @@ ENT-00006-01 evses -> 0: status : CHARGING
 LSB-90110-02 evses -> 1: status : CHARGING
 MMN-00009-02 evses -> 1: status : CHARGING
 STB-00051-02 evses -> 0: status : CHARGING
+
+2023-03-30 11:35:58
+LLE-00119-01 evses -> 0: status : CHARGING
+LSB-90110-02 evses -> 1: status : CHARGING
+MMN-00009-02 evses -> 1: status : CHARGING
+STB-00051-02 evses -> 0: status : CHARGING
