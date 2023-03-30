@@ -2662,3 +2662,13 @@ SNT-00065-01 evses -> 1: status : CHARGING
 STB-00051-02 evses -> 0: status : CHARGING
 TVR-00016-01 evses -> 2: status : CHARGING
 VNG-00110-01 evses -> 2: status : CHARGING
+
+2023-03-30 10:37:03
+ENT-00006-02 evses -> 1: status : CHARGING
+LLE-00114-01 evses -> 1: status : CHARGING
+LLE-00117-01 evses -> 1: status : CHARGING
+LSB-90110-02 evses -> 1: status : CHARGING
+MMN-00009-02 evses -> 1: status : CHARGING
+SNT-00065-01 evses -> 1: status : CHARGING
+STB-00051-02 evses -> 0: status : CHARGING
+TVR-00016-01 evses -> 2: status : CHARGING
