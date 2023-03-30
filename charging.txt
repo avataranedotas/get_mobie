@@ -2784,3 +2784,6 @@ RBR-00003-02 evses -> 0: status : CHARGING
 2023-03-30 21:12:20
 GMR-00073-02 evses -> 1: status : CHARGING
 LSB-90110-02 evses -> 1: status : CHARGING
+
+2023-03-30 21:36:11
+GMR-00073-02 evses -> 1: status : CHARGING
