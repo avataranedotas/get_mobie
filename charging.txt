@@ -2865,3 +2865,6 @@ PVZ-00019-01 evses -> 1: status : CHARGING
 
 2023-03-31 16:40:14
 OER-00133-02 evses -> 2: status : CHARGING
+
+2023-03-31 17:13:03
+FUN-00019-1 evses -> 0: status : CHARGING
