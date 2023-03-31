@@ -2803,3 +2803,8 @@ GMR-00073-02 evses -> 1: status : CHARGING
 
 2023-03-31 05:13:32
 GMR-00073-02 evses -> 1: status : CHARGING
+
+2023-03-31 10:16:09
+ALQ-00011-1 evses -> 0: status : CHARGING
+OER-00133-02 evses -> 2: status : CHARGING
+PRT-00180-02 evses -> 0: status : CHARGING
