@@ -2797,3 +2797,6 @@ GMR-00073-02 evses -> 1: status : CHARGING
 2023-03-30 23:36:16
 GMR-00073-02 evses -> 1: status : CHARGING
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-03-31 02:47:47
+GMR-00073-02 evses -> 1: status : CHARGING
