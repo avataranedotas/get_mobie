@@ -2837,3 +2837,10 @@ VCT-90001-2 evses -> 1: status : CHARGING
 TMR-00011-02 evses -> 1: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
 VCT-90001-2 evses -> 1: status : CHARGING
+
+2023-03-31 14:13:23
+FUN-00019-2 evses -> 1: status : CHARGING
+OER-00133-03 evses -> 0: status : CHARGING
+SSL-90001-1 evses -> 0: status : CHARGING
+TMR-00011-02 evses -> 1: status : CHARGING
+VCT-90001-2 evses -> 1: status : CHARGING
