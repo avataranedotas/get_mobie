@@ -2875,3 +2875,9 @@ FUN-00019-1 evses -> 0: status : CHARGING
 2023-03-31 18:17:10
 FUN-00019-1 evses -> 0: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
+
+2023-03-31 18:36:36
+FUN-00019-1 evses -> 0: status : CHARGING
+FUN-00019-2 evses -> 1: status : CHARGING
+MFR-00010-02 evses -> 0: status : CHARGING
+VCT-90001-1 evses -> 0: status : CHARGING
