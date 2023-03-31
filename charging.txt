@@ -2849,3 +2849,7 @@ VCT-90001-2 evses -> 1: status : CHARGING
 FUN-00019-2 evses -> 1: status : CHARGING
 OER-00133-03 evses -> 0: status : CHARGING
 TMR-00011-02 evses -> 1: status : CHARGING
+
+2023-03-31 15:15:34
+PVZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00019-01 evses -> 1: status : CHARGING
