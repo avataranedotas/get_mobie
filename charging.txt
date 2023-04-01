@@ -2998,3 +2998,10 @@ LLE-00122-01 evses -> 0: status : CHARGING
 OER-00133-01 evses -> 1: status : CHARGING
 PRT-00180-03 evses -> 1: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
+
+2023-04-01 11:10:40
+MAI-00032-01 evses -> 0: status : CHARGING
+OER-00133-01 evses -> 1: status : CHARGING
+OER-00133-02 evses -> 2: status : CHARGING
+PRT-00180-03 evses -> 1: status : CHARGING
+VCT-90001-1 evses -> 0: status : CHARGING
