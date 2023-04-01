@@ -3020,3 +3020,6 @@ SNT-00075-02 evses -> 0: status : CHARGING
 
 2023-04-01 15:13:06
 SNT-00075-01 evses -> 1: status : CHARGING
+
+2023-04-01 15:36:17
+SNT-00075-01 evses -> 1: status : CHARGING
