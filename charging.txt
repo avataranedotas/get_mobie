@@ -3005,3 +3005,9 @@ OER-00133-01 evses -> 1: status : CHARGING
 OER-00133-02 evses -> 2: status : CHARGING
 PRT-00180-03 evses -> 1: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
+
+2023-04-01 11:36:09
+MFR-00010-02 evses -> 0: status : CHARGING
+OER-00133-01 evses -> 1: status : CHARGING
+SNT-00075-02 evses -> 0: status : CHARGING
+VCT-90001-1 evses -> 0: status : CHARGING
