@@ -2974,3 +2974,6 @@ VCT-90001-1 evses -> 0: status : CHARGING
 2023-04-01 07:36:04
 FUN-00019-2 evses -> 1: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
+
+2023-04-01 08:36:17
+VCT-90001-1 evses -> 0: status : CHARGING
