@@ -3011,3 +3011,6 @@ MFR-00010-02 evses -> 0: status : CHARGING
 OER-00133-01 evses -> 1: status : CHARGING
 SNT-00075-02 evses -> 0: status : CHARGING
 VCT-90001-1 evses -> 0: status : CHARGING
+
+2023-04-01 12:01:11
+SNT-00075-02 evses -> 0: status : CHARGING
