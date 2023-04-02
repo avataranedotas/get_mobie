@@ -3074,3 +3074,7 @@ STB-00049-01 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 GMR-00073-02 evses -> 1: status : CHARGING
 STB-00049-01 evses -> 1: status : CHARGING
+
+2023-04-02 14:11:33
+CSC-00127-02 evses -> 1: status : CHARGING
+STB-00049-01 evses -> 1: status : CHARGING
