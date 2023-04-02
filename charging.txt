@@ -3130,3 +3130,7 @@ PRT-00177-02 evses -> 0: status : CHARGING
 2023-04-02 20:13:48
 CSC-00127-02 evses -> 1: status : CHARGING
 PRT-00177-02 evses -> 0: status : CHARGING
+
+2023-04-02 20:36:00
+CSC-00127-02 evses -> 1: status : CHARGING
+PRT-00177-02 evses -> 0: status : CHARGING
