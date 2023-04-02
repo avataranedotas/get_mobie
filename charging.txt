@@ -3032,3 +3032,6 @@ GMR-00075-01 evses -> 0: status : CHARGING
 
 2023-04-01 18:36:14
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-04-02 08:16:35
+SNT-00075-02 evses -> 0: status : CHARGING

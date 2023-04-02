@@ -1462,3 +1462,101 @@ LLE-00139-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LLE-00139', 'publis
 
 PRT-00187-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'PRT-00187', 'publish': True, 'address': 'RUA D MANUEL II', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4050-345', 'coordinates': {'latitude': '41.147353', 'longitude': '-8.620892'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00187-1', 'evse_id': 'PT*LOG*E*PRT*00187*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00187-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-03-27T15:27:36.096Z'}], 'last_updated': '2023-04-01T03:12:38.957Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-01T03:12:38.931Z'}
 Removidos:[]
+
+2023-04-02 08:16:32
+CNT-00009
+coordinates: 
+ NEW latitude : 40.3481093
+ OLD latitude : 40.3478069
+CNT-00009
+coordinates: 
+ NEW longitude : -8.5842977
+ OLD longitude : -8.5861225
+CNT-00009
+: 
+ NEW coordinates : {'latitude': '40.3481093', 'longitude': '-8.5842977'}
+ OLD coordinates : {'latitude': '40.3478069', 'longitude': '-8.5861225'}
+LSB-00493
+coordinates: 
+ NEW latitude : 38.7322223
+ OLD latitude : 38.7321634
+LSB-00493
+coordinates: 
+ NEW longitude : -9.1507914
+ OLD longitude : -9.152972
+LSB-00493
+: 
+ NEW coordinates : {'latitude': '38.7322223', 'longitude': '-9.1507914'}
+ OLD coordinates : {'latitude': '38.7321634', 'longitude': '-9.152972'}
+MAI-00016
+coordinates: 
+ NEW latitude : 41.2322971
+ OLD latitude : 41.2320577
+MAI-00016
+coordinates: 
+ NEW longitude : -8.6065402
+ OLD longitude : -8.6104794
+MAI-00016
+: 
+ NEW coordinates : {'latitude': '41.2322971', 'longitude': '-8.6065402'}
+ OLD coordinates : {'latitude': '41.2320577', 'longitude': '-8.6104794'}
+ODV-00014
+coordinates: 
+ NEW latitude : 38.813959
+ OLD latitude : 38.8139925
+ODV-00014
+coordinates: 
+ NEW longitude : -9.1885584
+ OLD longitude : -9.1904008
+ODV-00014
+: 
+ NEW coordinates : {'latitude': '38.813959', 'longitude': '-9.1885584'}
+ OLD coordinates : {'latitude': '38.8139925', 'longitude': '-9.1904008'}
+PRT-00179
+coordinates: 
+ NEW latitude : 41.1622844
+ OLD latitude : 41.1623261
+PRT-00179
+coordinates: 
+ NEW longitude : -8.6538635
+ OLD longitude : -6.7739525
+PRT-00179
+: 
+ NEW coordinates : {'latitude': '41.1622844', 'longitude': '-8.6538635'}
+ OLD coordinates : {'latitude': '41.1623261', 'longitude': '-6.7739525'}
+STB-00034
+coordinates: 
+ NEW latitude : 38.5383649
+ OLD latitude : 38.5384203
+STB-00034
+coordinates: 
+ NEW longitude : -8.8381136
+ OLD longitude : -8.8387247
+STB-00034
+: 
+ NEW coordinates : {'latitude': '38.5383649', 'longitude': '-8.8381136'}
+ OLD coordinates : {'latitude': '38.5384203', 'longitude': '-8.8387247'}
+STB-00034
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+STB-00034
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+STB-00034
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 60000
+STB-00034
+evses -> 4 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STB-00034
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+STB-00034
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
