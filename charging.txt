@@ -3065,3 +3065,7 @@ SNT-00075-02 evses -> 0: status : CHARGING
 2023-04-02 12:49:21
 CSC-00127-02 evses -> 1: status : CHARGING
 SNT-00075-02 evses -> 0: status : CHARGING
+
+2023-04-02 13:15:09
+CSC-00127-02 evses -> 1: status : CHARGING
+STB-00049-01 evses -> 1: status : CHARGING
