@@ -1604,3 +1604,9 @@ Removidos:[]
 2023-04-03 16:18:55
 Adicionados:[]
 Removidos:['MFR-00027']
+
+2023-04-03 17:12:54
+VNG-00045
+: 
+ NEW address : Rua Rio do Paço
+ OLD address : Rua Rio do PaÃÂ§o
