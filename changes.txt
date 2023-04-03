@@ -1594,3 +1594,9 @@ VNG-00045
 : 
  NEW address : Rua Rio do PaÃÂ§o
  OLD address : Rua Rio do PaÃ§o
+
+2023-04-03 15:36:01
+Adicionados:['MFR-00027']
+
+MFR-00027-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'MFR-00027', 'publish': True, 'address': 'Estrada Nacional 8', 'city': 'Mafra', 'country': 'PRT', 'postal_code': '2665-218', 'coordinates': {'latitude': '38.930212', 'longitude': '-9.2519183'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MFR-00027-02', 'evse_id': 'PT*EDP*E*MFR*00027*02', 'status': 'CHARGING', 'connectors': [{'id': 'MFR-00027-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:45:59.372Z'}], 'last_updated': '2023-04-03T15:29:10.174Z'}, {'uid': 'MFR-00027-01', 'evse_id': 'PT*EDP*E*MFR*00027*01', 'status': 'CHARGING', 'connectors': [{'id': 'MFR-00027-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:45:59.371Z'}], 'last_updated': '2023-04-03T15:28:18.109Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-03T15:29:10.174Z'}
+Removidos:[]
