@@ -3249,3 +3249,6 @@ CSC-00127-02 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 MFR-00027-02 evses -> 0: status : CHARGING
 MFR-00027-01 evses -> 1: status : CHARGING
+
+2023-04-03 16:18:58
+CSC-00127-02 evses -> 1: status : CHARGING
