@@ -1566,3 +1566,7 @@ Adicionados:['LRS-00092']
 
 LRS-00092-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LRS-00092', 'publish': True, 'address': 'Avenida do Ralis LT 2 - Quinta da Vitória', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2685-252', 'coordinates': {'latitude': '38.782407', 'longitude': '-9.1178676'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRS-00092-02', 'evse_id': 'PT*EDP*E*LRS*00092*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00092-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:45:59.851Z'}], 'last_updated': '2023-04-03T11:03:49.944Z'}, {'uid': 'LRS-00092-01', 'evse_id': 'PT*EDP*E*LRS*00092*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-00092-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:45:59.849Z'}], 'last_updated': '2023-04-03T11:03:48.543Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-03T11:03:49.944Z'}
 Removidos:[]
+
+2023-04-03 11:36:03
+Adicionados:[]
+Removidos:['LRS-00092']
