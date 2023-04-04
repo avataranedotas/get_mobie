@@ -1658,3 +1658,9 @@ VRS-90002
 : 
  NEW coordinates : {'latitude': '37.190654', 'longitude': '-7.4141999'}
  OLD coordinates : {'latitude': '37.194392', 'longitude': '-7.4141999'}
+
+2023-04-04 14:14:29
+Adicionados:['VNG-00112']
+
+VNG-00112-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNG-00112', 'publish': True, 'address': 'Rua da Palmeira, 425', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4430-163', 'coordinates': {'latitude': '41.1027718', 'longitude': '-8.5998825'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00112-02', 'evse_id': 'PT*EDP*E*VNG*00112*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00112-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:54:36.755Z'}], 'last_updated': '2023-04-04T13:51:17.251Z'}, {'uid': 'VNG-00112-01', 'evse_id': 'PT*EDP*E*VNG*00112*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00112-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:54:36.754Z'}], 'last_updated': '2023-04-04T13:57:07.786Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-04T13:57:07.786Z'}
+Removidos:[]
