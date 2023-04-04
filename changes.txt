@@ -1640,3 +1640,21 @@ GDM-00024-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GDM-00024', 'publis
 
 GDM-00025-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GDM-00025', 'publish': True, 'address': 'Praceta Parque Nascente, 35', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4435-182', 'coordinates': {'latitude': '41.174557', 'longitude': '-8.566103'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'GDM-00025-01', 'evse_id': 'PT*EDP*E*GDM*00025*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GDM-00025-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-10T17:04:28.27Z'}], 'last_updated': '2023-04-04T11:56:43.135Z'}, {'uid': 'GDM-00025-02', 'evse_id': 'PT*EDP*E*GDM*00025*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GDM-00025-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-10T17:04:28.272Z'}], 'last_updated': '2023-04-04T11:56:43.135Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-04T11:56:43.091Z'}
 Removidos:[]
+
+2023-04-04 12:54:28
+VIS-00046
+: 
+ NEW address : EN16 com a RUA AMOR DE PERDICAO 2 3 REDONDA
+ OLD address : RUA AMOR DE PERDICAO 2 3 REDONDA
+VRS-90002
+: 
+ NEW address : Av. Ministro Duarte Pacheco, 46 
+ OLD address : Avenida da República
+VRS-90002
+coordinates: 
+ NEW latitude : 37.190654
+ OLD latitude : 37.194392
+VRS-90002
+: 
+ NEW coordinates : {'latitude': '37.190654', 'longitude': '-7.4141999'}
+ OLD coordinates : {'latitude': '37.194392', 'longitude': '-7.4141999'}
