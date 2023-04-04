@@ -3408,3 +3408,6 @@ AMD-00080-02 evses -> 0: status : CHARGING
 
 2023-04-04 18:36:06
 AMD-00080-02 evses -> 0: status : CHARGING
+
+2023-04-04 20:15:14
+BRR-00034-01 evses -> 2: status : CHARGING
