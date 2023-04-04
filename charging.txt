@@ -3399,3 +3399,6 @@ LLE-00120-01 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 GMR-00073-02 evses -> 1: status : CHARGING
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-04-04 17:11:01
+GMR-00073-02 evses -> 1: status : CHARGING
