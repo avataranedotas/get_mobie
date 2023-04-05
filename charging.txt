@@ -3434,3 +3434,6 @@ OER-00166-02 evses -> 1: status : CHARGING
 2023-04-05 13:41:30
 LLE-00120-01 evses -> 1: status : CHARGING
 OER-00166-02 evses -> 1: status : CHARGING
+
+2023-04-05 14:15:10
+LLE-00120-01 evses -> 1: status : CHARGING
