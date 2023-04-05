@@ -3430,3 +3430,7 @@ VIS-00044-02 evses -> 0: status : CHARGING
 2023-04-05 13:26:50
 LLE-00120-01 evses -> 1: status : CHARGING
 OER-00166-02 evses -> 1: status : CHARGING
+
+2023-04-05 13:41:30
+LLE-00120-01 evses -> 1: status : CHARGING
+OER-00166-02 evses -> 1: status : CHARGING
