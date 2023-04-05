@@ -1676,3 +1676,21 @@ VNG-00045
 : 
  NEW address : Rua Rio do PaÃ§o
  OLD address : Rua Rio do Paço
+
+2023-04-05 10:37:47
+SXL-00032
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 180000
+SXL-00032
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 60000
