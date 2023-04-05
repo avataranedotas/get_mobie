@@ -1708,3 +1708,9 @@ ALM-90027
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2023-04-05 11:36:09
+VNG-00045
+: 
+ NEW address : Rua Rio do Paço
+ OLD address : Rua Rio do PaÃ§o
