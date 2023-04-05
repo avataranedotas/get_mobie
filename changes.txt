@@ -1714,3 +1714,9 @@ VNG-00045
 : 
  NEW address : Rua Rio do Paço
  OLD address : Rua Rio do PaÃ§o
+
+2023-04-05 14:36:44
+Adicionados:['PRT-00185']
+
+PRT-00185-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'PRT-00185', 'publish': True, 'address': 'PRAÇA DOUTOR FRANCISCO SÁ CARNEIRO, PORTO', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4350-042', 'coordinates': {'latitude': '41.161842', 'longitude': '-8.592546'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00185-02', 'evse_id': 'PT*GLP*E*PRT*00185*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00185-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-03-27T14:33:24.429Z'}], 'last_updated': '2023-04-05T14:02:53.241Z'}, {'uid': 'PRT-00185-01', 'evse_id': 'PT*GLP*E*PRT*00185*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00185-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-03-27T14:33:24.428Z'}], 'last_updated': '2023-04-05T14:02:52.744Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-05T14:02:53.241Z'}
+Removidos:[]
