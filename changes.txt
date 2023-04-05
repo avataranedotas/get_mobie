@@ -1694,3 +1694,17 @@ SXL-00032
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 180000
  OLD max_electric_power : 60000
+
+2023-04-05 11:12:32
+Adicionados:['CSC-00114']
+
+CSC-00114-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CSC-00114', 'publish': True, 'address': 'Estrada Nacional 294-4', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2785-015', 'coordinates': {'latitude': '38.7287868', 'longitude': '-9.3350831'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00114-01', 'evse_id': 'PT*HRZ*E*CSC*00114*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'CSC-00114-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-01-27T20:35:32.225Z'}], 'last_updated': '2023-04-05T10:54:55.542Z'}, {'uid': 'CSC-00114-02', 'evse_id': 'PT*HRZ*E*CSC*00114*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'CSC-00114-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-01-27T20:35:32.227Z'}], 'last_updated': '2023-04-05T10:54:55.542Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-05T10:54:43.227Z'}
+Removidos:[]
+ALM-90027
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+ALM-90027
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
