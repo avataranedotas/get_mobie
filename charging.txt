@@ -3561,3 +3561,8 @@ GDM-00009-01 evses -> 1: status : CHARGING
 LLE-00120-01 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
+
+2023-04-06 10:36:14
+GDM-00009-01 evses -> 1: status : CHARGING
+LLE-00120-01 evses -> 1: status : CHARGING
+PRT-00186-01 evses -> 1: status : CHARGING
