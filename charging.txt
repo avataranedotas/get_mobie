@@ -3551,3 +3551,7 @@ LLE-00120-01 evses -> 1: status : CHARGING
 2023-04-06 09:13:44
 GDM-00009-01 evses -> 1: status : CHARGING
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-04-06 09:36:21
+GDM-00009-01 evses -> 1: status : CHARGING
+LLE-00120-01 evses -> 1: status : CHARGING
