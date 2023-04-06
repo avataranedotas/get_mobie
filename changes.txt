@@ -1770,3 +1770,9 @@ LNH-00006
 : 
  NEW address : Avenida de Angola 40
  OLD address : Avenida de Angola, n.º 40; 2530-114 Lourinhã
+
+2023-04-06 18:36:20
+Adicionados:['MTA-00007']
+
+MTA-00007-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'MTA-00007', 'publish': True, 'address': 'Rua do Povo Unido, 2860-707 Moita', 'city': 'Moita', 'country': 'PRT', 'postal_code': '2860-707', 'coordinates': {'latitude': '38.645555', 'longitude': '-8.978056'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTA-00007-01', 'evse_id': 'PT*KLS*E*MTA*00007*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTA-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-04T13:07:56.924Z'}], 'last_updated': '2023-04-06T18:21:21.452Z'}, {'uid': 'MTA-00007-02', 'evse_id': 'PT*KLS*E*MTA*00007*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MTA-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-04T13:07:56.925Z'}], 'last_updated': '2023-04-06T18:21:22.444Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-06T18:21:22.444Z'}
+Removidos:[]
