@@ -3606,3 +3606,9 @@ PRT-00186-01 evses -> 1: status : CHARGING
 2023-04-06 14:36:16
 LLE-00120-01 evses -> 1: status : CHARGING
 PRT-00186-01 evses -> 1: status : CHARGING
+
+2023-04-06 15:13:04
+GDM-00009-01 evses -> 1: status : CHARGING
+LLE-00120-01 evses -> 1: status : CHARGING
+PRT-00186-01 evses -> 1: status : CHARGING
+VRL-00015-04 evses -> 1: status : CHARGING
