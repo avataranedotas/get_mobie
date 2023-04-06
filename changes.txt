@@ -1760,3 +1760,13 @@ LNH-00006-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'LNH-00006', 'publis
 
 VNG-00115-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'VNG-00115', 'publish': True, 'address': 'R. Rechousa 706-710, 4410-222 Canelas', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4410-222', 'coordinates': {'latitude': '41.09501', 'longitude': '-8.59862'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00115-01', 'evse_id': 'PT*GLG*E*VNG*00115*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00115-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-03-27T16:28:48.41Z'}], 'last_updated': '2023-04-06T14:07:23.128Z'}, {'uid': 'VNG-00115-02', 'evse_id': 'PT*GLG*E*VNG*00115*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00115-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-03-27T16:28:48.411Z'}], 'last_updated': '2023-04-06T14:07:23.91Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-06T14:07:23.91Z'}
 Removidos:[]
+
+2023-04-06 17:12:11
+LNH-00005
+: 
+ NEW address : R. Eng. Adelino Amaro da Costa
+ OLD address : R. Eng. Adelino Amaro da Costa,
+LNH-00006
+: 
+ NEW address : Avenida de Angola 40
+ OLD address : Avenida de Angola, n.º 40; 2530-114 Lourinhã
