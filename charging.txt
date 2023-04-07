@@ -3735,3 +3735,7 @@ MTS-00111-02 evses -> 1: status : CHARGING
 2023-04-07 09:13:28
 LLE-00120-01 evses -> 1: status : CHARGING
 MTS-00111-01 evses -> 0: status : CHARGING
+
+2023-04-07 09:27:40
+LLE-00120-01 evses -> 1: status : CHARGING
+MTS-00111-01 evses -> 0: status : CHARGING
