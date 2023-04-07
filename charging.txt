@@ -3760,3 +3760,7 @@ LLE-00120-01 evses -> 1: status : CHARGING
 2023-04-07 12:27:04
 LLE-00120-01 evses -> 1: status : CHARGING
 STB-00050-01 evses -> 0: status : CHARGING
+
+2023-04-07 12:51:57
+LLE-00120-01 evses -> 1: status : CHARGING
+STB-00050-01 evses -> 0: status : CHARGING
