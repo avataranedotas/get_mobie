@@ -3721,3 +3721,6 @@ LLE-00120-01 evses -> 1: status : CHARGING
 
 2023-04-07 07:36:11
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-04-07 08:17:39
+LLE-00120-01 evses -> 1: status : CHARGING
