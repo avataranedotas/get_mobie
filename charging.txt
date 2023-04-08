@@ -3813,3 +3813,6 @@ AMD-00079-02 evses -> 2: status : CHARGING
 
 2023-04-08 02:08:59
 AMD-00079-02 evses -> 2: status : CHARGING
+
+2023-04-08 02:39:22
+AMD-00079-02 evses -> 2: status : CHARGING
