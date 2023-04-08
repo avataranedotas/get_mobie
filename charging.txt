@@ -3807,3 +3807,6 @@ LLE-00120-01 evses -> 1: status : CHARGING
 
 2023-04-07 18:36:13
 LLE-00120-01 evses -> 1: status : CHARGING
+
+2023-04-08 01:08:48
+AMD-00079-02 evses -> 2: status : CHARGING
