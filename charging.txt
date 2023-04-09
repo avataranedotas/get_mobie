@@ -3912,3 +3912,6 @@ PRT-00187-1 evses -> 0: status : CHARGING
 
 2023-04-08 16:38:17
 AMD-00079-02 evses -> 2: status : CHARGING
+
+2023-04-09 12:25:49
+LLE-00120-01 evses -> 1: status : CHARGING
