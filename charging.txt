@@ -3924,3 +3924,6 @@ MAI-00033-02 evses -> 0: status : CHARGING
 
 2023-04-09 18:16:19
 MAI-00033-02 evses -> 0: status : CHARGING
+
+2023-04-09 18:36:09
+MAI-00033-02 evses -> 0: status : CHARGING
