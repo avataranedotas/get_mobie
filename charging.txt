@@ -3921,3 +3921,6 @@ LLE-00120-01 evses -> 1: status : CHARGING
 
 2023-04-09 17:36:02
 MAI-00033-02 evses -> 0: status : CHARGING
+
+2023-04-09 18:16:19
+MAI-00033-02 evses -> 0: status : CHARGING
