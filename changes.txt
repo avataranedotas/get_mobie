@@ -1796,3 +1796,9 @@ PRT-00158
 : 
  NEW address : Estr. da CircunvalaÃ§Ã£o 12 843
  OLD address : Estr. da Circunvalação 12 843
+
+2023-04-10 15:13:30
+PRT-00172
+: 
+ NEW address : Estr. da CircunvalaÃ§Ã£o 12 843,
+ OLD address : Estr. da Circunvalação 12 843,
