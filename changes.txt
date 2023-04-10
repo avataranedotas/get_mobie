@@ -1802,3 +1802,13 @@ PRT-00172
 : 
  NEW address : Estr. da CircunvalaÃ§Ã£o 12 843,
  OLD address : Estr. da Circunvalação 12 843,
+
+2023-04-10 16:18:36
+Adicionados:['MDB-00003']
+
+MDB-00003-->{'country_code': 'PT', 'party_id': 'CIR', 'id': 'MDB-00003', 'publish': True, 'address': 'Monte da Paradela, S/N', 'city': 'Mondim de Basto', 'country': 'PRT', 'postal_code': '4880-162', 'coordinates': {'latitude': '41.39593', 'longitude': '-7.97059'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MDB-00003-1', 'evse_id': 'PT*CIR*E*MDB*00003*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDB-00003-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 72, 'max_electric_power': 24000, 'last_updated': '2023-04-10T14:29:15.601Z'}], 'last_updated': '2023-04-10T16:00:53.813Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-10T16:00:53.813Z'}
+Removidos:[]
+VNG-00045
+: 
+ NEW address : Rua Rio do PaÃ§o
+ OLD address : Rua Rio do Paço
