@@ -1786,3 +1786,13 @@ LLE-00139
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 50000
+
+2023-04-10 14:35:57
+Adicionados:['MDB-00002']
+
+MDB-00002-->{'country_code': 'PT', 'party_id': 'CIR', 'id': 'MDB-00002', 'publish': True, 'address': 'Monte da Paradela, S/N', 'city': 'Mondim de Basto', 'country': 'PRT', 'postal_code': '4880-162', 'coordinates': {'latitude': '41.39593', 'longitude': '-7.97059'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MDB-00002-01', 'evse_id': 'PT*CIR*E*MDB*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDB-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-09T12:42:50.906Z'}], 'last_updated': '2023-04-10T14:23:48.318Z'}, {'uid': 'MDB-00002-02', 'evse_id': 'PT*CIR*E*MDB*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MDB-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-09T12:42:50.91Z'}], 'last_updated': '2023-04-10T14:24:36.713Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-10T14:24:36.713Z'}
+Removidos:[]
+PRT-00158
+: 
+ NEW address : Estr. da CircunvalaÃ§Ã£o 12 843
+ OLD address : Estr. da Circunvalação 12 843
