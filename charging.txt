@@ -3930,3 +3930,6 @@ MAI-00033-02 evses -> 0: status : CHARGING
 
 2023-04-09 19:10:35
 MAI-00033-02 evses -> 0: status : CHARGING
+
+2023-04-10 17:12:32
+MDB-00003-1 evses -> 0: status : CHARGING
