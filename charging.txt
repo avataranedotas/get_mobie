@@ -3958,3 +3958,6 @@ MDB-00003-1 evses -> 0: status : CHARGING
 
 2023-04-10 21:12:32
 MDB-00003-1 evses -> 0: status : CHARGING
+
+2023-04-10 21:36:12
+MDB-00003-1 evses -> 0: status : CHARGING
