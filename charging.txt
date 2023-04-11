@@ -4041,3 +4041,8 @@ LSB-00479-01 evses -> 0: status : CHARGING
 BRR-00014-02 evses -> 1: status : CHARGING
 LSB-00479-01 evses -> 0: status : CHARGING
 MFR-00028-01 evses -> 1: status : CHARGING
+
+2023-04-11 13:36:12
+BRR-00012-02 evses -> 0: status : CHARGING
+LSB-00479-01 evses -> 0: status : CHARGING
+MFR-00028-02 evses -> 2: status : CHARGING
