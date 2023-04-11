@@ -4070,3 +4070,7 @@ LSB-00479-01 evses -> 0: status : CHARGING
 2023-04-11 21:12:19
 CSC-00114-01 evses -> 0: status : CHARGING
 LSB-00479-01 evses -> 0: status : CHARGING
+
+2023-04-11 21:36:16
+CSC-00114-01 evses -> 0: status : CHARGING
+LSB-00479-01 evses -> 0: status : CHARGING
