@@ -1812,3 +1812,9 @@ VNG-00045
 : 
  NEW address : Rua Rio do PaÃ§o
  OLD address : Rua Rio do Paço
+
+2023-04-11 09:36:26
+Adicionados:['GDM-00026']
+
+GDM-00026-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'GDM-00026', 'publish': True, 'address': 'Praceta Parque Nascente, 35', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4435-182', 'coordinates': {'latitude': '41.174557', 'longitude': '-8.566103'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'GDM-00026-01', 'evse_id': 'PT*EDP*E*GDM*00026*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-10T17:04:40.159Z'}], 'last_updated': '2023-04-11T09:15:33.917Z'}, {'uid': 'GDM-00026-02', 'evse_id': 'PT*EDP*E*GDM*00026*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-01-10T17:04:40.16Z'}], 'last_updated': '2023-04-11T09:15:34.89Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-11T09:15:34.89Z'}
+Removidos:[]
