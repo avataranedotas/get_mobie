@@ -1864,3 +1864,7 @@ AVR-00042
 : 
  NEW address : Â Estrada de Vilar, Estr. de SÃ£o Bernardo,
  OLD address :  Estrada de Vilar, Estr. de São Bernardo,
+
+2023-04-11 16:40:29
+Adicionados:[]
+Removidos:['ETR-00012']
