@@ -1858,3 +1858,9 @@ Adicionados:['ALM-00059']
 
 ALM-00059-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ALM-00059', 'publish': True, 'address': 'R. Artur Semedo 2,', 'city': 'Almada', 'country': 'PRT', 'postal_code': '2810-278', 'coordinates': {'latitude': '38.6483629', 'longitude': '-9.1538686'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALM-00059-03', 'evse_id': 'PT*KLC*E*ALM*00059*03', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALM-00059-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-03T17:24:46.255Z'}], 'last_updated': '2023-04-11T14:24:46.86Z'}, {'uid': 'ALM-00059-01', 'evse_id': 'PT*KLC*E*ALM*00059*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALM-00059-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-03T17:24:46.253Z'}], 'last_updated': '2023-04-11T14:24:46.86Z'}, {'uid': 'ALM-00059-02', 'evse_id': 'PT*KLC*E*ALM*00059*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ALM-00059-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-03T17:24:46.254Z'}], 'last_updated': '2023-04-11T14:24:46.86Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-11T14:24:46.831Z'}
 Removidos:[]
+
+2023-04-11 15:36:15
+AVR-00042
+: 
+ NEW address : Â Estrada de Vilar, Estr. de SÃ£o Bernardo,
+ OLD address :  Estrada de Vilar, Estr. de São Bernardo,
