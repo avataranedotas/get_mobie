@@ -4159,3 +4159,8 @@ LSB-00479-01 evses -> 0: status : CHARGING
 
 2023-04-12 13:36:27
 LSB-00479-01 evses -> 0: status : CHARGING
+
+2023-04-12 14:13:30
+LRA-00075-04 evses -> 1: status : CHARGING
+LSB-00206-02 evses -> 1: status : CHARGING
+LSB-00479-01 evses -> 0: status : CHARGING
