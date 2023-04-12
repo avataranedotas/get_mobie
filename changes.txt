@@ -1882,3 +1882,29 @@ VLG-00015
 : 
  NEW address : Lugar Campo Barreiro, SusÃ£o, R. Dom Pedro IV
  OLD address : Lugar Campo Barreiro, Susão, R. Dom Pedro IV
+
+2023-04-12 16:19:10
+LRA-00075
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+LRA-00075
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LRA-00075
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+LRA-00075
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LRA-00075
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+LRA-00075
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
