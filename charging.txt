@@ -4190,3 +4190,6 @@ MAI-00033-01 evses -> 1: status : CHARGING
 
 2023-04-12 17:36:17
 MAI-00033-01 evses -> 1: status : CHARGING
+
+2023-04-12 19:36:21
+LSB-00206-02 evses -> 1: status : CHARGING
