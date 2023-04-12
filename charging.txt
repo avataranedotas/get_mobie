@@ -4202,3 +4202,6 @@ LSB-00206-02 evses -> 1: status : CHARGING
 
 2023-04-12 21:12:26
 LSB-00206-02 evses -> 1: status : CHARGING
+
+2023-04-12 21:36:12
+LSB-00206-02 evses -> 1: status : CHARGING
