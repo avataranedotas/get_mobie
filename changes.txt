@@ -1876,3 +1876,9 @@ ETR-00012-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ETR-00012', 'publis
 
 PVZ-00007-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PVZ-00007', 'publish': True, 'address': 'Rua do Bocal da GÃ¢ndara', 'city': 'PÃ³voa de Varzim', 'country': 'PRT', 'postal_code': '4490-228', 'coordinates': {'latitude': '41.379412', 'longitude': '-8.739001'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PVZ-00007-03', 'evse_id': 'PT*KLC*E*PVZ*00007*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00007-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-02-25T18:04:31.52Z'}], 'last_updated': '2023-04-11T18:40:33.315Z'}, {'uid': 'PVZ-00007-01', 'evse_id': 'PT*KLC*E*PVZ*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00007-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:04:31.517Z'}], 'last_updated': '2023-04-11T18:40:33.091Z'}, {'uid': 'PVZ-00007-02', 'evse_id': 'PT*KLC*E*PVZ*00007*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:04:31.518Z'}], 'last_updated': '2023-04-11T18:40:33.204Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-11T18:40:33.315Z'}
 Removidos:[]
+
+2023-04-12 12:28:21
+VLG-00015
+: 
+ NEW address : Lugar Campo Barreiro, SusÃ£o, R. Dom Pedro IV
+ OLD address : Lugar Campo Barreiro, Susão, R. Dom Pedro IV
