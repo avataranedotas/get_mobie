@@ -4230,3 +4230,6 @@ LSB-00206-02 evses -> 1: status : CHARGING
 2023-04-13 12:29:38
 CSC-00114-01 evses -> 0: status : CHARGING
 CSC-00114-02 evses -> 1: status : CHARGING
+
+2023-04-13 12:56:15
+CSC-00114-01 evses -> 0: status : CHARGING
