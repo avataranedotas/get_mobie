@@ -4212,3 +4212,7 @@ LSB-00206-02 evses -> 1: status : CHARGING
 2023-04-13 09:14:25
 ALM-00059-01 evses -> 1: status : CHARGING
 ALM-00059-02 evses -> 2: status : CHARGING
+
+2023-04-13 09:36:09
+ALM-00059-03 evses -> 0: status : CHARGING
+LSB-00206-01 evses -> 0: status : CHARGING
