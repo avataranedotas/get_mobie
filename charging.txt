@@ -4223,3 +4223,6 @@ SXL-00041-02 evses -> 2: status : CHARGING
 
 2023-04-13 10:36:15
 LSB-00206-02 evses -> 1: status : CHARGING
+
+2023-04-13 11:36:17
+LSB-00206-02 evses -> 1: status : CHARGING

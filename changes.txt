@@ -1914,3 +1914,13 @@ Adicionados:['STR-00033']
 
 STR-00033-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'STR-00033', 'publish': True, 'address': 'R. Escola Regentes Agricolas', 'city': 'Santarém', 'country': 'PRT', 'postal_code': '2005-474', 'coordinates': {'latitude': '39.2479731', 'longitude': '-8.6928151'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STR-00033-03', 'evse_id': 'PT*KLC*E*STR*00033*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'STR-00033-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-30T09:48:24.875Z'}], 'last_updated': '2023-04-13T09:03:39.504Z'}, {'uid': 'STR-00033-02', 'evse_id': 'PT*KLC*E*STR*00033*02', 'status': 'CHARGING', 'connectors': [{'id': 'STR-00033-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-30T09:48:24.873Z'}], 'last_updated': '2023-04-13T09:03:38.55Z'}, {'uid': 'STR-00033-01', 'evse_id': 'PT*KLC*E*STR*00033*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'STR-00033-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-30T09:48:24.871Z'}], 'last_updated': '2023-04-13T09:03:37.524Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-13T09:03:39.504Z'}
 Removidos:[]
+
+2023-04-13 11:36:13
+PTM-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+PTM-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
