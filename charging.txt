@@ -4263,3 +4263,8 @@ BRR-00014-02 evses -> 1: status : CHARGING
 GMR-00075-01 evses -> 0: status : CHARGING
 GMR-00091-01 evses -> 1: status : CHARGING
 LSB-00206-02 evses -> 1: status : CHARGING
+
+2023-04-13 16:18:14
+BRR-00014-02 evses -> 1: status : CHARGING
+GMR-00075-01 evses -> 0: status : CHARGING
+LSB-00206-02 evses -> 1: status : CHARGING
