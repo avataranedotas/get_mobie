@@ -4245,3 +4245,7 @@ LSB-00206-02 evses -> 1: status : CHARGING
 2023-04-13 14:13:17
 BRR-00028-01 evses -> 0: status : CHARGING
 GMR-00075-01 evses -> 0: status : CHARGING
+
+2023-04-13 14:36:00
+AMD-00079-02 evses -> 2: status : CHARGING
+GMR-00075-01 evses -> 0: status : CHARGING
