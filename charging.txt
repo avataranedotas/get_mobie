@@ -4304,3 +4304,6 @@ MDB-00002-02 evses -> 1: status : CHARGING
 BRR-00028-02 evses -> 1: status : CHARGING
 MAI-00033-02 evses -> 0: status : CHARGING
 MDB-00002-02 evses -> 1: status : CHARGING
+
+2023-04-13 23:14:07
+MDB-00002-02 evses -> 1: status : CHARGING
