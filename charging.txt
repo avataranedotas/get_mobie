@@ -4233,3 +4233,7 @@ CSC-00114-02 evses -> 1: status : CHARGING
 
 2023-04-13 12:56:15
 CSC-00114-01 evses -> 0: status : CHARGING
+
+2023-04-13 13:19:49
+GMR-00075-01 evses -> 0: status : CHARGING
+LSB-00206-02 evses -> 1: status : CHARGING
