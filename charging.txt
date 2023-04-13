@@ -4272,3 +4272,11 @@ LSB-00206-02 evses -> 1: status : CHARGING
 2023-04-13 16:40:02
 LSB-00206-02 evses -> 1: status : CHARGING
 VNF-00025-02 evses -> 1: status : CHARGING
+
+2023-04-13 16:45:20
+AMD-00038-02 evses -> 0: status : CHARGING
+LSB-00206-02 evses -> 1: status : CHARGING
+MAI-00033-02 evses -> 0: status : CHARGING
+MDB-00002-02 evses -> 1: status : CHARGING
+VNF-00025-01 evses -> 0: status : CHARGING
+VNF-00025-02 evses -> 1: status : CHARGING
