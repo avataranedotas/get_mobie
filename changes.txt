@@ -1970,3 +1970,9 @@ MAI-00025
 evses -> 7 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 80000
+
+2023-04-14 16:40:05
+Adicionados:['ARV-00004']
+
+ARV-00004-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'ARV-00004', 'publish': True, 'address': 'Casal da Cruz', 'city': 'Arruda dos Vinhos', 'country': 'PRT', 'postal_code': '2630-310', 'coordinates': {'latitude': '38.998045', 'longitude': '-9.084937'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ARV-00004-02', 'evse_id': 'PT*EVP*E*ARV*00004*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ARV-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:38:45.622Z'}], 'last_updated': '2023-04-14T16:24:49.921Z'}, {'uid': 'ARV-00004-01', 'evse_id': 'PT*EVP*E*ARV*00004*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ARV-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:38:45.62Z'}], 'last_updated': '2023-04-14T16:24:48.369Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-14T16:24:49.921Z'}
+Removidos:[]

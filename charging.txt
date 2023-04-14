@@ -4409,3 +4409,6 @@ MDB-00003-1 evses -> 0: status : CHARGING
 2023-04-14 16:18:55
 MDB-00003-1 evses -> 0: status : CHARGING
 MFR-00028-01 evses -> 1: status : CHARGING
+
+2023-04-14 16:40:10
+MDB-00003-1 evses -> 0: status : CHARGING
