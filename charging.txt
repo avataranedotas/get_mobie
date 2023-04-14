@@ -4440,3 +4440,6 @@ MDB-00003-1 evses -> 0: status : CHARGING
 BGC-00010-01 evses -> 1: status : CHARGING
 MDB-00003-1 evses -> 0: status : CHARGING
 VNF-00025-01 evses -> 0: status : CHARGING
+
+2023-04-14 21:12:21
+VNF-00025-01 evses -> 0: status : CHARGING
