@@ -4366,3 +4366,6 @@ MDB-00002-02 evses -> 1: status : CHARGING
 GDM-00025-01 evses -> 0: status : CHARGING
 GDM-00026-01 evses -> 0: status : CHARGING
 MDB-00002-02 evses -> 1: status : CHARGING
+
+2023-04-14 10:15:04
+MDB-00002-02 evses -> 1: status : CHARGING
