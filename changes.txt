@@ -1944,3 +1944,29 @@ CSC-00128-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CSC-00128', 'publis
 
 VNF-00025-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNF-00025', 'publish': True, 'address': 'Av. Mal. Humberto Delgado 91', 'city': 'Vila Nova de Famalicão', 'country': 'PRT', 'postal_code': '4760-012', 'coordinates': {'latitude': '41.4030667', 'longitude': '-8.5151757'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNF-00025-01', 'evse_id': 'PT*EDP*E*VNF*00025*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNF-00025-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:44:34.432Z'}], 'last_updated': '2023-04-13T16:06:49.946Z'}, {'uid': 'VNF-00025-02', 'evse_id': 'PT*EDP*E*VNF*00025*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNF-00025-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:44:34.433Z'}], 'last_updated': '2023-04-13T16:06:51.451Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-13T16:06:51.451Z'}
 Removidos:[]
+
+2023-04-14 11:12:11
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
