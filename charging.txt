@@ -4357,3 +4357,7 @@ VNF-00025-01 evses -> 0: status : CHARGING
 2023-04-14 08:36:53
 MDB-00002-02 evses -> 1: status : CHARGING
 VNF-00025-01 evses -> 0: status : CHARGING
+
+2023-04-14 09:14:13
+GDM-00023-02 evses -> 0: status : CHARGING
+MDB-00002-02 evses -> 1: status : CHARGING
