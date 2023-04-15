@@ -4484,3 +4484,6 @@ STB-00050-01 evses -> 0: status : CHARGING
 
 2023-04-15 19:10:46
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-15 19:36:11
+VNF-00031-04 evses -> 2: status : CHARGING
