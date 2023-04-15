@@ -4462,3 +4462,6 @@ STB-00050-01 evses -> 0: status : CHARGING
 
 2023-04-15 11:35:59
 STB-00050-01 evses -> 0: status : CHARGING
+
+2023-04-15 12:25:52
+STB-00050-01 evses -> 0: status : CHARGING
