@@ -4452,3 +4452,7 @@ MFR-00028-01 evses -> 1: status : CHARGING
 
 2023-04-15 09:12:54
 STR-00033-01 evses -> 2: status : CHARGING
+
+2023-04-15 09:36:01
+BGC-00010-01 evses -> 1: status : CHARGING
+STR-00033-01 evses -> 2: status : CHARGING
