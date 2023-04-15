@@ -4459,3 +4459,6 @@ STR-00033-01 evses -> 2: status : CHARGING
 
 2023-04-15 11:11:19
 STB-00050-01 evses -> 0: status : CHARGING
+
+2023-04-15 11:35:59
+STB-00050-01 evses -> 0: status : CHARGING
