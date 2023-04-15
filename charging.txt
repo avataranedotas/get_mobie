@@ -4446,3 +4446,6 @@ VNF-00025-01 evses -> 0: status : CHARGING
 
 2023-04-15 07:12:14
 MFR-00028-01 evses -> 1: status : CHARGING
+
+2023-04-15 07:36:07
+MFR-00028-01 evses -> 1: status : CHARGING
