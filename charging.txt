@@ -4477,3 +4477,7 @@ STB-00050-01 evses -> 0: status : CHARGING
 
 2023-04-15 14:11:54
 STB-00050-01 evses -> 0: status : CHARGING
+
+2023-04-15 14:36:02
+MFR-00028-02 evses -> 2: status : CHARGING
+STB-00050-01 evses -> 0: status : CHARGING
