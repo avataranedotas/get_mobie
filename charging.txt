@@ -4503,3 +4503,6 @@ GDM-00027-02 evses -> 2: status : CHARGING
 
 2023-04-17 12:55:11
 CSC-00114-01 evses -> 0: status : CHARGING
+
+2023-04-17 13:18:27
+CSC-00114-01 evses -> 0: status : CHARGING
