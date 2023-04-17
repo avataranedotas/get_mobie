@@ -4527,3 +4527,6 @@ VNF-00031-04 evses -> 2: status : CHARGING
 
 2023-04-17 21:36:20
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-17 22:13:21
+VNF-00031-04 evses -> 2: status : CHARGING
