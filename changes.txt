@@ -1982,3 +1982,7 @@ Adicionados:['ABT-00022']
 
 ABT-00022-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'ABT-00022', 'publish': True, 'address': 'Avenida Dom João I, 2200-233 Abrantes', 'city': 'Abrantes', 'country': 'PRT', 'postal_code': '2200-233', 'coordinates': {'latitude': '39.471666', 'longitude': '-8.195278'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABT-00022-02', 'evse_id': 'PT*KLS*E*ABT*00022*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABT-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-13T15:27:22.67Z'}], 'last_updated': '2023-04-17T14:24:49.087Z'}, {'uid': 'ABT-00022-01', 'evse_id': 'PT*KLS*E*ABT*00022*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'ABT-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-13T15:27:22.67Z'}], 'last_updated': '2023-04-17T14:24:49.087Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-17T14:24:49.025Z'}
 Removidos:[]
+
+2023-04-17 15:15:23
+Adicionados:[]
+Removidos:['MTS-00030', 'VNG-00054']
