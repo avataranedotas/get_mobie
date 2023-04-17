@@ -4509,3 +4509,6 @@ CSC-00114-01 evses -> 0: status : CHARGING
 
 2023-04-17 18:37:13
 CSC-00114-01 evses -> 0: status : CHARGING
+
+2023-04-17 19:10:34
+CSC-00114-01 evses -> 0: status : CHARGING
