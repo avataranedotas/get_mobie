@@ -4518,3 +4518,6 @@ CSC-00114-01 evses -> 0: status : CHARGING
 
 2023-04-17 20:15:03
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-17 20:36:10
+VNF-00031-04 evses -> 2: status : CHARGING
