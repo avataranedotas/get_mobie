@@ -2000,3 +2000,9 @@ Removidos:['MAI-00022', 'PVZ-00010', 'VLG-00010']
 2023-04-18 09:39:33
 Adicionados:[]
 Removidos:['BRG-00064', 'BRG-00065', 'VFR-00042']
+
+2023-04-18 10:15:00
+Adicionados:['SNT-00097']
+
+SNT-00097-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'SNT-00097', 'publish': True, 'address': 'Avenida Aviação Portuguesa', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2710-538', 'coordinates': {'latitude': '38.8075618', 'longitude': '-9.3777327'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00097-02', 'evse_id': 'PT*HRZ*E*SNT*00097*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00097-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:43:49.971Z'}], 'last_updated': '2023-04-18T10:06:32.503Z'}, {'uid': 'SNT-00097-03', 'evse_id': 'PT*HRZ*E*SNT*00097*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00097-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:43:49.972Z'}], 'last_updated': '2023-04-18T10:03:39.718Z'}, {'uid': 'SNT-00097-01', 'evse_id': 'PT*HRZ*E*SNT*00097*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SNT-00097-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:43:49.969Z'}], 'last_updated': '2023-04-18T10:03:42.488Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-18T10:06:32.503Z'}
+Removidos:[]
