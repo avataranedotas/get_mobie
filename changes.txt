@@ -1996,3 +1996,7 @@ Removidos:[]
 2023-04-18 09:14:18
 Adicionados:[]
 Removidos:['MAI-00022', 'PVZ-00010', 'VLG-00010']
+
+2023-04-18 09:39:33
+Adicionados:[]
+Removidos:['BRG-00064', 'BRG-00065', 'VFR-00042']
