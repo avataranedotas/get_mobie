@@ -4551,3 +4551,6 @@ SNT-00097-03 evses -> 1: status : CHARGING
 
 2023-04-18 15:37:17
 SNT-00097-03 evses -> 1: status : CHARGING
+
+2023-04-18 18:36:27
+PRT-00181-02 evses -> 2: status : CHARGING
