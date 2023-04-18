@@ -4545,3 +4545,6 @@ SNT-00097-01 evses -> 2: status : CHARGING
 
 2023-04-18 14:16:59
 VNF-00031-01 evses -> 1: status : CHARGING
+
+2023-04-18 15:16:55
+SNT-00097-03 evses -> 1: status : CHARGING
