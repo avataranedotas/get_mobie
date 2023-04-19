@@ -4557,3 +4557,6 @@ PRT-00181-02 evses -> 2: status : CHARGING
 
 2023-04-18 20:36:33
 PRT-00181-02 evses -> 2: status : CHARGING
+
+2023-04-19 01:13:14
+VNF-00031-04 evses -> 2: status : CHARGING
