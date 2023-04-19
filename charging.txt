@@ -4606,3 +4606,6 @@ GLG-00002-04 evses -> 4: status : CHARGING
 
 2023-04-19 18:18:04
 SNT-00097-01 evses -> 2: status : CHARGING
+
+2023-04-19 18:36:14
+SNT-00097-01 evses -> 2: status : CHARGING
