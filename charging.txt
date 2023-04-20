@@ -4637,3 +4637,11 @@ GDM-00027-03 evses -> 0: status : CHARGING
 GDM-00027-03 evses -> 0: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
+
+2023-04-20 15:15:06
+ALM-00059-01 evses -> 1: status : CHARGING
+GDM-00027-03 evses -> 0: status : CHARGING
+GDM-00027-03 evses -> 0: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+GLG-00002-01 evses -> 1: status : CHARGING
