@@ -4652,3 +4652,8 @@ GLG-00002-01 evses -> 1: status : CHARGING
 
 2023-04-20 16:40:07
 LLE-00137-01 evses -> 1: status : CHARGING
+
+2023-04-20 18:17:47
+GDM-00027-02 evses -> 2: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+VNF-00031-04 evses -> 2: status : CHARGING
