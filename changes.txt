@@ -2340,3 +2340,49 @@ LGA-00017
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-04-20 10:15:09
+Adicionados:['LLE-00136']
+
+LLE-00136-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LLE-00136', 'publish': True, 'address': 'VOLTA FLORBELA ESPANCA S/N MORGADINHO', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-307', 'coordinates': {'latitude': '37.0924202', 'longitude': '-8.0935292'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00136-02', 'evse_id': 'PT*KLC*E*LLE*00136*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LLE-00136-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-02-28T09:40:03.315Z'}], 'last_updated': '2023-04-20T09:53:46.374Z'}, {'uid': 'LLE-00136-01', 'evse_id': 'PT*KLC*E*LLE*00136*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LLE-00136-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-28T09:40:03.314Z'}], 'last_updated': '2023-04-20T09:53:45.513Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-20T09:53:46.374Z'}
+Removidos:[]
+GLG-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
+GLG-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+GLG-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+GLG-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 250
+GLG-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+GLG-00002
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+GLG-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+GLG-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+GLG-00002
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
+GLG-00002
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
