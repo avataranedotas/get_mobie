@@ -4631,3 +4631,9 @@ MGR-00010-02 evses -> 0: status : CHARGING
 
 2023-04-20 14:13:25
 VFR-90002-1 evses -> 0: status : CHARGING
+
+2023-04-20 14:36:07
+GDM-00027-03 evses -> 0: status : CHARGING
+GDM-00027-03 evses -> 0: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
