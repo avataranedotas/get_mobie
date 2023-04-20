@@ -4662,3 +4662,8 @@ VNF-00031-04 evses -> 2: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-20 19:12:58
+GDM-00027-02 evses -> 2: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+VNF-00031-04 evses -> 2: status : CHARGING
