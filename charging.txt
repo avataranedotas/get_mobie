@@ -4678,3 +4678,9 @@ GDM-00027-02 evses -> 2: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
 LLE-00135-01 evses -> 1: status : CHARGING
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-20 20:15:02
+GDM-00027-02 evses -> 2: status : CHARGING
+GDM-00027-02 evses -> 2: status : CHARGING
+LLE-00135-01 evses -> 1: status : CHARGING
+VNF-00031-04 evses -> 2: status : CHARGING
