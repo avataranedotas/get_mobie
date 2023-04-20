@@ -4628,3 +4628,6 @@ CSC-00114-01 evses -> 0: status : CHARGING
 
 2023-04-20 13:37:02
 MGR-00010-02 evses -> 0: status : CHARGING
+
+2023-04-20 14:13:25
+VFR-90002-1 evses -> 0: status : CHARGING
