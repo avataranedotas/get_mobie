@@ -4693,3 +4693,6 @@ VNF-00031-04 evses -> 2: status : CHARGING
 
 2023-04-20 21:12:18
 VNF-00031-04 evses -> 2: status : CHARGING
+
+2023-04-20 22:13:09
+PRT-00181-05 evses -> 1: status : CHARGING
