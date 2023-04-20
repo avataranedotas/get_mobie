@@ -2330,3 +2330,13 @@ Adicionados:['OER-00169']
 
 OER-00169-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'OER-00169', 'publish': True, 'address': 'GALP - Rua Infanta Dona Isabel', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2780-064', 'coordinates': {'latitude': '38.6839563', 'longitude': '-9.3164042'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00169-01', 'evse_id': 'PT*GLP*E*OER*00169*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00169-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-03-15T12:17:10.941Z'}], 'last_updated': '2023-04-19T16:22:49.613Z'}, {'uid': 'OER-00169-02', 'evse_id': 'PT*GLP*E*OER*00169*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00169-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-03-15T12:17:10.943Z'}], 'last_updated': '2023-04-19T16:22:49.613Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-19T16:22:49.578Z'}
 Removidos:[]
+
+2023-04-20 09:36:08
+LGA-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+LGA-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
