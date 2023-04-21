@@ -4734,3 +4734,7 @@ LLE-00139-02 evses -> 2: status : CHARGING
 2023-04-21 11:36:04
 GDM-00027-03 evses -> 0: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
+
+2023-04-21 12:27:34
+GDM-00027-03 evses -> 0: status : CHARGING
+LLE-00139-03 evses -> 0: status : CHARGING
