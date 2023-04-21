@@ -4743,3 +4743,7 @@ LLE-00139-03 evses -> 0: status : CHARGING
 GDM-00027-03 evses -> 0: status : CHARGING
 GDM-00027-02 evses -> 2: status : CHARGING
 VFR-00051-02 evses -> 1: status : CHARGING
+
+2023-04-21 13:17:22
+GDM-00027-02 evses -> 2: status : CHARGING
+VFR-00051-02 evses -> 1: status : CHARGING
