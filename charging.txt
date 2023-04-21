@@ -4720,3 +4720,6 @@ VFR-90002-2 evses -> 1: status : CHARGING
 
 2023-04-21 08:36:42
 VFR-90002-2 evses -> 1: status : CHARGING
+
+2023-04-21 09:14:10
+VFR-90002-2 evses -> 1: status : CHARGING
