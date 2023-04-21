@@ -4767,3 +4767,7 @@ GDM-00027-02 evses -> 2: status : CHARGING
 
 2023-04-21 15:36:13
 GDM-00027-02 evses -> 2: status : CHARGING
+
+2023-04-21 16:19:00
+GDM-00027-02 evses -> 2: status : CHARGING
+VFR-00051-02 evses -> 1: status : CHARGING
