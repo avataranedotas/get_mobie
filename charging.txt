@@ -4803,3 +4803,6 @@ GDM-00027-02 evses -> 2: status : CHARGING
 
 2023-04-21 21:12:17
 PRT-00181-01 evses -> 0: status : CHARGING
+
+2023-04-22 06:36:44
+PRT-00181-02 evses -> 2: status : CHARGING
