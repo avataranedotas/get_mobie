@@ -4849,3 +4849,8 @@ VCT-00036-01 evses -> 1: status : CHARGING
 
 2023-04-22 17:36:23
 OER-00169-02 evses -> 1: status : CHARGING
+
+2023-04-22 18:17:01
+OER-00169-02 evses -> 1: status : CHARGING
+PVZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00019-01 evses -> 1: status : CHARGING
