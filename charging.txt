@@ -4854,3 +4854,7 @@ OER-00169-02 evses -> 1: status : CHARGING
 OER-00169-02 evses -> 1: status : CHARGING
 PVZ-00019-02 evses -> 0: status : CHARGING
 PVZ-00019-01 evses -> 1: status : CHARGING
+
+2023-04-22 19:11:14
+PVZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00019-01 evses -> 1: status : CHARGING
