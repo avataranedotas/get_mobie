@@ -4842,3 +4842,7 @@ VFR-00051-02 evses -> 1: status : CHARGING
 
 2023-04-22 16:39:09
 VCT-00036-01 evses -> 1: status : CHARGING
+
+2023-04-22 17:12:38
+OER-00169-02 evses -> 1: status : CHARGING
+VCT-00036-01 evses -> 1: status : CHARGING
