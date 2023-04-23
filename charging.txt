@@ -4874,3 +4874,6 @@ ABF-00051-01 evses -> 0: status : CHARGING
 
 2023-04-23 10:36:17
 ABF-00051-01 evses -> 0: status : CHARGING
+
+2023-04-23 11:11:18
+MGR-00010-01 evses -> 1: status : CHARGING
