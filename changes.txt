@@ -2450,3 +2450,9 @@ Adicionados:['OER-00162']
 
 OER-00162-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00162', 'publish': True, 'address': 'Tagus Parque', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2740-122', 'coordinates': {'latitude': '38.7398858', 'longitude': '-9.3031978'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00162-1', 'evse_id': 'PT*GRN*E*OER*00162*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'OER-00162-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:45:44.091Z'}], 'last_updated': '2023-04-24T12:04:19.731Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T12:04:19.731Z'}
 Removidos:[]
+
+2023-04-24 12:55:47
+Adicionados:['OER-00163']
+
+OER-00163-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00163', 'publish': True, 'address': 'Rua São Salvador da Baía', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2780-039', 'coordinates': {'latitude': '38.7016467', 'longitude': '-9.3020074'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00163-1', 'evse_id': 'PT*GRN*E*OER*00163*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'OER-00163-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:45:58.322Z'}], 'last_updated': '2023-04-24T12:43:04.128Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T12:43:04.128Z'}
+Removidos:[]
