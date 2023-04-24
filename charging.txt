@@ -5050,3 +5050,11 @@ PVZ-00018-02 evses -> 1: status : CHARGING
 PVZ-00019-02 evses -> 0: status : CHARGING
 PVZ-00019-01 evses -> 1: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-24 13:36:00
+ALQ-00009-03 evses -> 2: status : CHARGING
+CSC-00127-02 evses -> 1: status : CHARGING
+PVZ-00018-02 evses -> 1: status : CHARGING
+PVZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00019-01 evses -> 1: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
