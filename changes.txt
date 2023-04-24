@@ -2474,3 +2474,17 @@ Adicionados:['LSB-00588']
 
 LSB-00588-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LSB-00588', 'publish': True, 'address': 'Av. Grão Vasco 56,', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1500-339', 'coordinates': {'latitude': '38.7497968', 'longitude': '-9.2037139'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00588-01', 'evse_id': 'PT*KLC*E*LSB*00588*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00588-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-03T13:35:20.429Z'}], 'last_updated': '2023-04-24T15:12:42.693Z'}, {'uid': 'LSB-00588-02', 'evse_id': 'PT*KLC*E*LSB*00588*02', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00588-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-03T13:35:20.431Z'}], 'last_updated': '2023-04-24T15:12:43.688Z'}, {'uid': 'LSB-00588-03', 'evse_id': 'PT*KLC*E*LSB*00588*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00588-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-03T13:35:20.432Z'}], 'last_updated': '2023-04-24T15:12:44.684Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T15:12:44.684Z'}
 Removidos:[]
+
+2023-04-24 16:19:06
+ABF-00050
+coordinates: 
+ NEW latitude : 37.12675
+ OLD latitude : 37.12623
+ABF-00050
+coordinates: 
+ NEW longitude : -8.23719
+ OLD longitude : -8.23143
+ABF-00050
+: 
+ NEW coordinates : {'latitude': '37.12675', 'longitude': '-8.23719'}
+ OLD coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
