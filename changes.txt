@@ -2418,3 +2418,9 @@ Adicionados:['OER-00160']
 
 OER-00160-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00160', 'publish': True, 'address': 'Quinta da Fonte', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2770-071', 'coordinates': {'latitude': '38.7119061', 'longitude': '-9.2974588'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00160-1', 'evse_id': 'PT*GRN*E*OER*00160*1', 'status': 'CHARGING', 'connectors': [{'id': 'OER-00160-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:45:14.278Z'}], 'last_updated': '2023-04-24T08:26:37.109Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T08:26:37.109Z'}
 Removidos:[]
+
+2023-04-24 09:14:54
+Adicionados:['OER-00153']
+
+OER-00153-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00153', 'publish': True, 'address': 'Jardim de Paço de Arcos, Oeiras', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2770-066', 'coordinates': {'latitude': '38.6925546', 'longitude': '-9.3117242'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00153-1', 'evse_id': 'PT*GRN*E*OER*00153*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00153-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:44:56.74Z'}], 'last_updated': '2023-04-24T09:05:54.241Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T09:05:54.241Z'}
+Removidos:[]
