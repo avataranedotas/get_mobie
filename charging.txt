@@ -5118,3 +5118,8 @@ MGR-00010-02 evses -> 0: status : CHARGING
 NZR-00012-01 evses -> 0: status : CHARGING
 VFR-00051-02 evses -> 1: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-24 19:11:16
+MGR-00010-02 evses -> 0: status : CHARGING
+NZR-00012-01 evses -> 0: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
