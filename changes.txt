@@ -2424,3 +2424,9 @@ Adicionados:['OER-00153']
 
 OER-00153-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00153', 'publish': True, 'address': 'Jardim de Paço de Arcos, Oeiras', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2770-066', 'coordinates': {'latitude': '38.6925546', 'longitude': '-9.3117242'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00153-1', 'evse_id': 'PT*GRN*E*OER*00153*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00153-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:44:56.74Z'}], 'last_updated': '2023-04-24T09:05:54.241Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T09:05:54.241Z'}
 Removidos:[]
+
+2023-04-24 09:36:08
+Adicionados:['OER-00152']
+
+OER-00152-->{'country_code': 'PT', 'party_id': 'GRN', 'id': 'OER-00152', 'publish': True, 'address': 'Largo 5 de Outubro, Oeiras', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2780-225', 'coordinates': {'latitude': '38.6925546', 'longitude': '-9.3117242'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'OER-00152-1', 'evse_id': 'PT*GRN*E*OER*00152*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00152-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:44:14.292Z'}], 'last_updated': '2023-04-24T09:26:57.606Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T09:26:57.606Z'}
+Removidos:[]
