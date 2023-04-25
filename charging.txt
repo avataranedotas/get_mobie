@@ -5325,3 +5325,6 @@ CSC-00127-02 evses -> 1: status : CHARGING
 
 2023-04-25 21:12:51
 CSC-00127-02 evses -> 1: status : CHARGING
+
+2023-04-25 21:36:05
+CSC-00127-02 evses -> 1: status : CHARGING
