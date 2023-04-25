@@ -2488,3 +2488,9 @@ ABF-00050
 : 
  NEW coordinates : {'latitude': '37.12675', 'longitude': '-8.23719'}
  OLD coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
+
+2023-04-25 09:14:29
+Adicionados:['OER-00173']
+
+OER-00173-->{'country_code': 'PT', 'party_id': 'BLU', 'id': 'OER-00173', 'publish': True, 'address': 'Rua do Abrunheiro', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2780-363', 'coordinates': {'latitude': '38.704446', 'longitude': '-9.304354'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OER-00173-01', 'evse_id': 'PT*BLU*E*OER*00173*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00173-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-18T13:59:27.638Z'}], 'last_updated': '2023-04-24T14:04:24.691Z'}, {'uid': 'OER-00173-02', 'evse_id': 'PT*BLU*E*OER*00173*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00173-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-18T13:59:27.639Z'}], 'last_updated': '2023-04-24T14:04:25.265Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-24T14:04:25.265Z'}
+Removidos:[]
