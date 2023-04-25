@@ -5224,3 +5224,8 @@ VNG-00112-01 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 VFR-00051-02 evses -> 1: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-25 08:37:31
+ABF-00050-01 evses -> 0: status : CHARGING
+CSC-00127-02 evses -> 1: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
