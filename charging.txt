@@ -5202,3 +5202,7 @@ VNG-00112-01 evses -> 1: status : CHARGING
 2023-04-25 05:36:07
 CSC-00127-02 evses -> 1: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-25 06:18:42
+CSC-00127-02 evses -> 1: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
