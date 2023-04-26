@@ -5445,3 +5445,6 @@ CSC-00015-02 evses -> 1: status : CHARGING
 
 2023-04-26 21:36:04
 ALQ-00009-03 evses -> 2: status : CHARGING
+
+2023-04-26 22:36:11
+ABF-00050-01 evses -> 0: status : CHARGING
