@@ -2508,3 +2508,57 @@ MOBI-CSC-00055-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'MOBI-CSC-00055
 
 MOBI-LSB-00100-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'MOBI-LSB-00100', 'publish': True, 'address': 'Rua Tomás da Fonseca', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1600-209', 'coordinates': {'latitude': '38.757204', 'longitude': '-9.176067'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MOBI-LSB-00100-1', 'evse_id': 'PT*GLP*E*MOBI*LSB*00100*1', 'status': 'CHARGING', 'connectors': [{'id': 'MOBI-LSB-00100-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-04-26T09:22:05.144Z'}], 'last_updated': '2023-04-26T09:22:05.144Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-04-26T09:22:05.142Z'}
 Removidos:[]
+
+2023-04-26 11:36:11
+VNF-00031
+: 
+ NEW address : Av. de Santiago da Cruz 101
+ OLD address : Av. Conde de Arnoso 311
+VNF-00031
+: 
+ NEW postal_code : 4770-157
+ OLD postal_code : 4770-539
+VNF-00031
+coordinates: 
+ NEW latitude : 41.4428015
+ OLD latitude : 41.4596741
+VNF-00031
+coordinates: 
+ NEW longitude : -8.4955752
+ OLD longitude : -8.4945801
+VNF-00031
+: 
+ NEW coordinates : {'latitude': '41.4428015', 'longitude': '-8.4955752'}
+ OLD coordinates : {'latitude': '41.4596741', 'longitude': '-8.4945801'}
+VNF-00031
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+VNF-00031
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+VNF-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+VNF-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 100000
+VNF-00031
+evses -> 3 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+VNF-00031
+evses -> 3 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+VNF-00031
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+VNF-00031
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000

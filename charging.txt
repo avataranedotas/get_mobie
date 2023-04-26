@@ -5403,3 +5403,8 @@ CSC-00127-02 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 OER-00169-01 evses -> 0: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-26 11:36:15
+CSC-00127-02 evses -> 1: status : CHARGING
+OER-00169-01 evses -> 0: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
