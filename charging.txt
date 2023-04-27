@@ -5528,3 +5528,6 @@ CSC-00127-02 evses -> 1: status : CHARGING
 2023-04-27 14:13:02
 AMD-00067-01 evses -> 1: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
+
+2023-04-27 14:36:19
+CSC-00127-02 evses -> 1: status : CHARGING
