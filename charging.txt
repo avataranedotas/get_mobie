@@ -5562,3 +5562,8 @@ GDM-00021-01 evses -> 0: status : CHARGING
 2023-04-27 18:36:13
 CSC-00127-02 evses -> 1: status : CHARGING
 GDM-00021-01 evses -> 0: status : CHARGING
+
+2023-04-27 19:11:16
+CSC-00127-01 evses -> 0: status : CHARGING
+GDM-00021-01 evses -> 0: status : CHARGING
+VFR-00051-01 evses -> 0: status : CHARGING
