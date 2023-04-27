@@ -2682,3 +2682,9 @@ LLE-00138
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2023-04-27 10:36:06
+Adicionados:['LSB-00594']
+
+LSB-00594-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'LSB-00594', 'publish': True, 'address': 'Rua Hermínio da Palma Inácio', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1750-114', 'coordinates': {'latitude': '38.7882751', 'longitude': '-9.14614'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LSB-00594-02', 'evse_id': 'PT*PRI*E*LSB*00594*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00594-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:59:04.841Z'}], 'last_updated': '2023-04-27T10:24:14.659Z'}, {'uid': 'LSB-00594-01', 'evse_id': 'PT*PRI*E*LSB*00594*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00594-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:59:04.84Z'}], 'last_updated': '2023-04-27T10:24:13.967Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-27T10:24:14.659Z'}
+Removidos:[]
