@@ -5554,3 +5554,7 @@ CSC-00127-02 evses -> 1: status : CHARGING
 2023-04-27 17:36:07
 CSC-00127-02 evses -> 1: status : CHARGING
 GMR-00081-01 evses -> 0: status : CHARGING
+
+2023-04-27 18:17:39
+CSC-00127-02 evses -> 1: status : CHARGING
+GDM-00021-01 evses -> 0: status : CHARGING
