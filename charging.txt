@@ -5541,3 +5541,6 @@ LLE-00138-02 evses -> 0: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 GMR-00079-01 evses -> 0: status : CHARGING
 OER-00169-01 evses -> 0: status : CHARGING
+
+2023-04-27 16:17:14
+CSC-00127-02 evses -> 1: status : CHARGING
