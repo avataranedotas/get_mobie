@@ -5721,3 +5721,10 @@ CSC-00127-02 evses -> 1: status : CHARGING
 OER-00169-02 evses -> 1: status : CHARGING
 PVZ-00019-02 evses -> 0: status : CHARGING
 PVZ-00019-01 evses -> 1: status : CHARGING
+
+2023-04-28 13:36:14
+ABF-00050-01 evses -> 0: status : CHARGING
+ABF-00051-01 evses -> 0: status : CHARGING
+ABF-00051-02 evses -> 1: status : CHARGING
+CSC-00127-02 evses -> 1: status : CHARGING
+OER-00169-02 evses -> 1: status : CHARGING
