@@ -5749,3 +5749,7 @@ ABF-00050-01 evses -> 0: status : CHARGING
 ALQ-00009-03 evses -> 2: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 GDM-00021-02 evses -> 1: status : CHARGING
+
+2023-04-28 16:17:41
+CSC-00127-02 evses -> 1: status : CHARGING
+GDM-00021-02 evses -> 1: status : CHARGING
