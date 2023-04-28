@@ -5679,3 +5679,7 @@ OER-00169-02 evses -> 1: status : CHARGING
 CSC-00015-03 evses -> 2: status : CHARGING
 CSC-00127-02 evses -> 1: status : CHARGING
 OER-00169-02 evses -> 1: status : CHARGING
+
+2023-04-28 10:15:25
+ABF-00051-01 evses -> 0: status : CHARGING
+CSC-00127-02 evses -> 1: status : CHARGING
