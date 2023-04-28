@@ -2742,3 +2742,29 @@ Adicionados:['GMR-00076']
 
 GMR-00076-->{'country_code': 'PT', 'party_id': 'GEN', 'id': 'GMR-00076', 'publish': True, 'address': 'Rua Miguel Torga', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4835-077', 'coordinates': {'latitude': '41.434154', 'longitude': '-8.304277'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00076-01', 'evse_id': 'PT*GEN*E*GMR*00076*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00076-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-19T14:50:18.547Z'}], 'last_updated': '2023-04-27T18:08:48.913Z'}, {'uid': 'GMR-00076-02', 'evse_id': 'PT*GEN*E*GMR*00076*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00076-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-19T14:50:18.548Z'}], 'last_updated': '2023-04-27T18:10:53.754Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-04-27T18:10:53.754Z'}
 Removidos:[]
+
+2023-04-28 08:36:27
+VLF-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+VLF-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VLF-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 20000
+ OLD max_electric_power : 3700
+VLF-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+VLF-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VLF-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 20000
+ OLD max_electric_power : 3700
