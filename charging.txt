@@ -5707,3 +5707,10 @@ CSC-00127-02 evses -> 1: status : CHARGING
 PVZ-00019-02 evses -> 0: status : CHARGING
 PVZ-00019-01 evses -> 1: status : CHARGING
 VNG-00112-01 evses -> 1: status : CHARGING
+
+2023-04-28 12:50:58
+CSC-00015-02 evses -> 1: status : CHARGING
+CSC-00127-02 evses -> 1: status : CHARGING
+PVZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00019-01 evses -> 1: status : CHARGING
+VNG-00112-01 evses -> 1: status : CHARGING
