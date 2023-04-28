@@ -2774,3 +2774,13 @@ Adicionados:['PRD-00013']
 
 PRD-00013-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'PRD-00013', 'publish': True, 'address': 'Rua São Sebastião 300', 'city': 'Paredes', 'country': 'PRT', 'postal_code': '4585-211', 'coordinates': {'latitude': '41.1830716', 'longitude': '-8.4421629'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRD-00013-01', 'evse_id': 'PT*IBD*E*PRD*00013*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'PRD-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-03T15:21:38.504Z'}], 'last_updated': '2023-04-28T08:38:52.592Z'}, {'uid': 'PRD-00013-02', 'evse_id': 'PT*IBD*E*PRD*00013*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'PRD-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-03T15:21:38.505Z'}], 'last_updated': '2023-04-28T08:38:52.592Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-28T08:38:52.56Z'}
 Removidos:[]
+
+2023-04-28 10:36:08
+ABT-00017
+: 
+ NEW address : CEPSA ABRANTES - A23 KM 44 MOURISCAS N/S
+ OLD address : A23 Km 44 Mouriscas N/S
+ABT-00018
+: 
+ NEW address : CEPSA ABRANTES - A23 KM 44 MOURISCAS S/N
+ OLD address : A23 Km 44 Mouriscas S/N
