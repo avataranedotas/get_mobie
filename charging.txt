@@ -5764,3 +5764,7 @@ MGR-00010-02 evses -> 0: status : CHARGING
 
 2023-04-28 17:36:09
 CSC-00127-02 evses -> 1: status : CHARGING
+
+2023-04-28 18:17:06
+CSC-00127-02 evses -> 1: status : CHARGING
+GDM-00021-02 evses -> 1: status : CHARGING
