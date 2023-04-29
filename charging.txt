@@ -5894,3 +5894,9 @@ GMR-00077-01 evses -> 1: status : CHARGING
 LLE-00136-01 evses -> 1: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
+
+2023-04-29 15:36:21
+GMR-00077-01 evses -> 1: status : CHARGING
+LLE-00136-01 evses -> 1: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
