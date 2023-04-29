@@ -5841,3 +5841,7 @@ OER-00159-1 evses -> 0: status : CHARGING
 2023-04-29 10:14:00
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
+
+2023-04-29 11:11:04
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
