@@ -5864,3 +5864,9 @@ LSB-00594-02 evses -> 0: status : CHARGING
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 VLN-90002-02 evses -> 0: status : CHARGING
+
+2023-04-29 13:15:05
+LSB-00587-01 evses -> 0: status : CHARGING
+LSB-00587-02 evses -> 1: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
