@@ -2814,3 +2814,9 @@ ODM-00007
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-04-29 19:10:39
+Adicionados:['TMR-00020']
+
+TMR-00020-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'TMR-00020', 'publish': True, 'address': 'A13 Avelar Norte / Lanço Tomar', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '3250-275', 'coordinates': {'latitude': '39.8791439', 'longitude': '-8.3431866'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'TMR-00020-02', 'evse_id': 'PT*PRI*E*TMR*00020*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00020-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-21T10:12:02.957Z'}], 'last_updated': '2023-04-29T18:26:49.135Z'}, {'uid': 'TMR-00020-01', 'evse_id': 'PT*PRI*E*TMR*00020*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'TMR-00020-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-21T10:12:02.956Z'}], 'last_updated': '2023-04-29T18:26:48.686Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-04-29T18:26:49.135Z'}
+Removidos:[]
