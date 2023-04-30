@@ -6007,3 +6007,7 @@ OER-00163-1 evses -> 0: status : CHARGING
 EVR-00029-02 evses -> 0: status : CHARGING
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
+
+2023-04-30 15:13:13
+EVR-00029-02 evses -> 0: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
