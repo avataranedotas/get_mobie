@@ -5982,3 +5982,10 @@ LSB-00594-01 evses -> 1: status : CHARGING
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 TMR-00020-01 evses -> 1: status : CHARGING
+
+2023-04-30 13:15:00
+ABT-00022-02 evses -> 0: status : CHARGING
+LSB-00594-01 evses -> 1: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
