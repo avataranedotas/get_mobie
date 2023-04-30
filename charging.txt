@@ -6041,3 +6041,8 @@ TMR-00020-01 evses -> 1: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
 PVZ-00026-02 evses -> 0: status : CHARGING
+
+2023-04-30 20:13:53
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
+PVZ-00026-02 evses -> 0: status : CHARGING
