@@ -6030,3 +6030,9 @@ OER-00159-1 evses -> 0: status : CHARGING
 
 2023-04-30 18:36:50
 OER-00159-1 evses -> 0: status : CHARGING
+
+2023-04-30 19:10:53
+OER-00159-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
+PVZ-00026-02 evses -> 0: status : CHARGING
+TMR-00020-01 evses -> 1: status : CHARGING
