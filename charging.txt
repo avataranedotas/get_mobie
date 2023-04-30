@@ -6023,3 +6023,7 @@ OER-00159-1 evses -> 0: status : CHARGING
 2023-04-30 17:36:10
 LSB-00594-02 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
+
+2023-04-30 18:16:09
+CSC-00128-03 evses -> 1: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
