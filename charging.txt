@@ -6106,3 +6106,6 @@ PVZ-00026-02 evses -> 0: status : CHARGING
 
 2023-05-01 06:18:52
 PVZ-00026-02 evses -> 0: status : CHARGING
+
+2023-05-01 06:37:22
+PVZ-00026-02 evses -> 0: status : CHARGING
