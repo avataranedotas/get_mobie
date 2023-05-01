@@ -6230,3 +6230,7 @@ PVZ-00026-02 evses -> 0: status : CHARGING
 AMT-00007-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
 PVZ-00026-02 evses -> 0: status : CHARGING
+
+2023-05-01 22:13:20
+AMT-00007-1 evses -> 0: status : CHARGING
+PVZ-00026-02 evses -> 0: status : CHARGING
