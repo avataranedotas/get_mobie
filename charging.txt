@@ -6380,3 +6380,6 @@ PVZ-00026-02 evses -> 0: status : CHARGING
 
 2023-05-02 18:17:19
 LSB-00594-02 evses -> 0: status : CHARGING
+
+2023-05-02 18:36:05
+GDM-00022-02 evses -> 0: status : CHARGING
