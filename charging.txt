@@ -6377,3 +6377,6 @@ CVL-00006-02 evses -> 0: status : CHARGING
 LSB-00594-02 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 PVZ-00026-02 evses -> 0: status : CHARGING
+
+2023-05-02 18:17:19
+LSB-00594-02 evses -> 0: status : CHARGING
