@@ -6364,3 +6364,10 @@ OER-00154-1 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 PVZ-00026-02 evses -> 0: status : CHARGING
 VNG-00105-02 evses -> 1: status : CHARGING
+
+2023-05-02 17:13:09
+CVL-00006-01 evses -> 1: status : CHARGING
+GDM-00032-02 evses -> 1: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
+PVZ-00026-02 evses -> 0: status : CHARGING
