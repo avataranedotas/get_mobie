@@ -6390,3 +6390,6 @@ LSB-00594-02 evses -> 0: status : CHARGING
 2023-05-02 20:14:52
 OER-00160-1 evses -> 0: status : CHARGING
 VNG-00102-02 evses -> 0: status : CHARGING
+
+2023-05-02 20:36:15
+OER-00160-1 evses -> 0: status : CHARGING
