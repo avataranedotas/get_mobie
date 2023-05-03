@@ -6555,3 +6555,6 @@ PDL-00008-01 evses -> 1: status : CHARGING
 
 2023-05-03 23:13:56
 PDL-00008-01 evses -> 1: status : CHARGING
+
+2023-05-03 23:36:20
+PDL-00008-01 evses -> 1: status : CHARGING
