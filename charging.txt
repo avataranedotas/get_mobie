@@ -6421,3 +6421,7 @@ OER-00163-1 evses -> 0: status : CHARGING
 LSB-00594-02 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
+
+2023-05-03 01:13:07
+OER-00154-1 evses -> 0: status : CHARGING
+VNG-00105-02 evses -> 1: status : CHARGING
