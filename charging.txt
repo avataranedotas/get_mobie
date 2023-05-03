@@ -6496,3 +6496,9 @@ OER-00163-1 evses -> 0: status : CHARGING
 PDL-00008-01 evses -> 1: status : CHARGING
 VNG-00111-02 evses -> 0: status : CHARGING
 VNG-00111-01 evses -> 1: status : CHARGING
+
+2023-05-03 17:36:09
+ODV-00015-02 evses -> 1: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
+PDL-00008-01 evses -> 1: status : CHARGING
