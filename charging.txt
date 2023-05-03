@@ -6457,3 +6457,8 @@ OER-00154-1 evses -> 0: status : CHARGING
 GDM-00022-02 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 TMR-00020-01 evses -> 1: status : CHARGING
+
+2023-05-03 13:36:15
+GDM-00022-02 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+TMR-00020-01 evses -> 1: status : CHARGING
