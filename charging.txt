@@ -6473,3 +6473,8 @@ ODM-00007-03 evses -> 0: status : CHARGING
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
+
+2023-05-03 15:36:22
+LSB-00594-02 evses -> 0: status : CHARGING
+ODV-00015-02 evses -> 1: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
