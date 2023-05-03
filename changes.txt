@@ -2924,3 +2924,9 @@ Removidos:[]
 2023-05-03 12:28:27
 Adicionados:[]
 Removidos:['PVL-00002']
+
+2023-05-03 13:16:59
+Adicionados:['CVD-00003']
+
+CVD-00003-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'CVD-00003', 'publish': True, 'address': 'Volta de Santa Maria', 'city': 'Castelo de Vide', 'country': 'PRT', 'postal_code': '7320-196', 'coordinates': {'latitude': '39.415917', 'longitude': '-7.455917'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CVD-00003-02', 'evse_id': 'PT*EVP*E*CVD*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'CVD-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-14T18:05:48.277Z'}], 'last_updated': '2023-05-03T12:48:55.205Z'}, {'uid': 'CVD-00003-01', 'evse_id': 'PT*EVP*E*CVD*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'CVD-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-14T18:05:48.275Z'}], 'last_updated': '2023-05-03T12:48:55.205Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-03T12:48:54.077Z'}
+Removidos:[]
