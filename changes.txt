@@ -2970,3 +2970,17 @@ PVZ-00007
 : 
  NEW city : PÃ³voa de Varzim
  OLD city : Póvoa de Varzim
+
+2023-05-03 17:12:27
+Adicionados:['VNG-00111']
+
+VNG-00111-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VNG-00111', 'publish': True, 'address': 'Av. Dr. Moreira Sousa 2238,', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4415-082', 'coordinates': {'latitude': '41.0570658', 'longitude': '-8.5679177'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00111-02', 'evse_id': 'PT*KLC*E*VNG*00111*02', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00111-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-22T10:56:57.486Z'}], 'last_updated': '2023-05-03T17:02:20.687Z'}, {'uid': 'VNG-00111-01', 'evse_id': 'PT*KLC*E*VNG*00111*01', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00111-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 160, 'max_electric_power': 60000, 'last_updated': '2023-03-22T10:56:57.485Z'}], 'last_updated': '2023-05-03T17:02:19.802Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-03T17:02:19.802Z'}
+Removidos:[]
+LLE-00072
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+TVR-00014
+: 
+ NEW address : UrbanizaÃ§Ã£o Golden Club, 51
+ OLD address : Urbanização Golden Club, 51
