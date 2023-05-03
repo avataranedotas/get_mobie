@@ -6482,3 +6482,8 @@ OER-00159-1 evses -> 0: status : CHARGING
 2023-05-03 16:18:31
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
+
+2023-05-03 16:39:22
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING

@@ -2960,3 +2960,13 @@ PVZ-00007
 : 
  NEW city : Póvoa de Varzim
  OLD city : PÃ³voa de Varzim
+
+2023-05-03 16:39:19
+PVZ-00007
+: 
+ NEW address : Rua do Bocal da GÃ¢ndara
+ OLD address : Rua do Bocal da Gândara
+PVZ-00007
+: 
+ NEW city : PÃ³voa de Varzim
+ OLD city : Póvoa de Varzim
