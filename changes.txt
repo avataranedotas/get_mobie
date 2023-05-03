@@ -2910,3 +2910,7 @@ VNG-00102
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 80000
+
+2023-05-03 09:13:35
+Adicionados:[]
+Removidos:['MOBI-CSC-00055']
