@@ -2920,3 +2920,7 @@ Adicionados:['MOBI-CSC-00055']
 
 MOBI-CSC-00055-->{'country_code': 'PT', 'party_id': 'MOB', 'id': 'MOBI-CSC-00055', 'publish': True, 'address': 'Rua Eduardo Maria Rodrigues', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2775-566', 'coordinates': {'latitude': '38.688547', 'longitude': '-9.327903'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'MOBI-CSC-00055-1', 'evse_id': 'PT*MOB*E*MOBI*CSC*00055*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'MOBI-CSC-00055-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-03T09:08:57.089Z'}], 'last_updated': '2023-05-03T09:08:57.089Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-03T09:08:57.087Z'}
 Removidos:[]
+
+2023-05-03 12:28:27
+Adicionados:[]
+Removidos:['PVL-00002']
