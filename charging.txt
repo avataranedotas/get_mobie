@@ -6638,3 +6638,10 @@ OER-00154-1 evses -> 0: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
 OLH-00004-02 evses -> 1: status : CHARGING
 OLH-00004-02 evses -> 1: status : CHARGING
+
+2023-05-04 15:15:12
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
+VNG-00111-02 evses -> 0: status : CHARGING
+VNG-00111-01 evses -> 1: status : CHARGING
