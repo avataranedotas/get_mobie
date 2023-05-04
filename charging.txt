@@ -6693,3 +6693,7 @@ VNG-00102-01 evses -> 2: status : CHARGING
 
 2023-05-04 20:36:23
 OER-00154-1 evses -> 0: status : CHARGING
+
+2023-05-04 21:12:22
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
