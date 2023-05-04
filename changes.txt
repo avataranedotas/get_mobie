@@ -3068,3 +3068,17 @@ MAI-00029-->{'country_code': 'PT', 'party_id': 'CAP', 'id': 'MAI-00029', 'publis
 
 VCT-00032-->{'country_code': 'PT', 'party_id': 'CAP', 'id': 'VCT-00032', 'publish': True, 'address': 'Avenida General Humberto Delgado, 101', 'city': 'Viana do Castelo', 'country': 'PRT', 'postal_code': '4900-317', 'coordinates': {'latitude': '41.6947111', 'longitude': '-8.8328785'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VCT-00032-01', 'evse_id': 'PT*CAP*E*VCT*00032*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCT-00032-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:51:24.818Z'}], 'last_updated': '2023-05-04T16:17:52.369Z'}, {'uid': 'VCT-00032-04', 'evse_id': 'PT*CAP*E*VCT*00032*04', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCT-00032-04-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:51:24.822Z'}], 'last_updated': '2023-05-04T16:17:52.369Z'}, {'uid': 'VCT-00032-02', 'evse_id': 'PT*CAP*E*VCT*00032*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCT-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:51:24.819Z'}], 'last_updated': '2023-05-04T16:17:52.369Z'}, {'uid': 'VCT-00032-03', 'evse_id': 'PT*CAP*E*VCT*00032*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VCT-00032-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:51:24.82Z'}], 'last_updated': '2023-05-04T16:17:52.369Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-04T16:17:52.315Z'}
 Removidos:[]
+
+2023-05-04 22:13:25
+ABF-00050
+coordinates: 
+ NEW latitude : 37.12623
+ OLD latitude : 37.12675
+ABF-00050
+coordinates: 
+ NEW longitude : -8.23143
+ OLD longitude : -8.23719
+ABF-00050
+: 
+ NEW coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
+ OLD coordinates : {'latitude': '37.12675', 'longitude': '-8.23719'}
