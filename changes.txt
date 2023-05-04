@@ -2984,3 +2984,65 @@ TVR-00014
 : 
  NEW address : UrbanizaÃ§Ã£o Golden Club, 51
  OLD address : Urbanização Golden Club, 51
+
+2023-05-04 13:36:07
+Adicionados:['BRG-00071', 'LSB-00589', 'LSB-00590']
+
+BRG-00071-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'BRG-00071', 'publish': True, 'address': 'Rua do Feital nº 4700', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4700-287', 'coordinates': {'latitude': '41.5603961', 'longitude': '-8.4468745'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00071-01', 'evse_id': 'PT*EDP*E*BRG*00071*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00071-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:30:32.124Z'}], 'last_updated': '2023-05-04T13:03:53.65Z'}, {'uid': 'BRG-00071-02', 'evse_id': 'PT*EDP*E*BRG*00071*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00071-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:30:32.125Z'}], 'last_updated': '2023-05-04T13:03:53.65Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-04T13:03:53.616Z'}
+
+LSB-00589-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LSB-00589', 'publish': True, 'address': 'Praça Marquês de Pombal 8, Lisboa', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1269-133', 'coordinates': {'latitude': '38.7250668', 'longitude': '-9.1511377'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00589-01', 'evse_id': 'PT*EDP*E*LSB*00589*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00589-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-13T15:31:12.684Z'}], 'last_updated': '2023-05-04T11:06:56.822Z'}, {'uid': 'LSB-00589-02', 'evse_id': 'PT*EDP*E*LSB*00589*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00589-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-13T15:31:12.684Z'}], 'last_updated': '2023-05-04T11:06:56.822Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-04T11:06:56.785Z'}
+
+LSB-00590-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LSB-00590', 'publish': True, 'address': 'Praça Marquês de Pombal 8, Lisboa', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1269-133', 'coordinates': {'latitude': '38.7250668', 'longitude': '-9.1511377'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00590-02', 'evse_id': 'PT*EDP*E*LSB*00590*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00590-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-13T15:32:29.597Z'}], 'last_updated': '2023-05-04T11:14:54.856Z'}, {'uid': 'LSB-00590-01', 'evse_id': 'PT*EDP*E*LSB*00590*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-00590-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-13T15:32:29.597Z'}], 'last_updated': '2023-05-04T11:14:54.856Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-04T11:14:54.817Z'}
+Removidos:['ABF-00053', 'GMR-00072', 'MAI-00029', 'VCT-00032', 'VIS-00024']
+GMR-00073
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00075
+: 
+ NEW address : Rua JoÃ£o de Oliveira Salgado
+ OLD address : Rua João de Oliveira Salgado
+GMR-00075
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00077
+: 
+ NEW address : Avenida da RepÃºblica
+ OLD address : Avenida da República
+GMR-00077
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00084
+: 
+ NEW address : Rua ArqueÃ³logo MÃ¡rio Cardoso
+ OLD address : Rua Arqueólogo Mário Cardoso
+GMR-00084
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00085
+: 
+ NEW address : Rua dos MÃ¡rtires
+ OLD address : Rua dos Mártires
+GMR-00085
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00091
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+VIS-00021
+: 
+ NEW address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+ OLD address : Rua do Palácio do Gelo 1, Piso -1
+VIS-00022
+: 
+ NEW address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+ OLD address : Rua do Palácio do Gelo 1, Piso -1
+VIS-00023
+: 
+ NEW address : Rua do PalÃ¡cio do Gelo 1, Piso P0
+ OLD address : Rua do Palácio do Gelo 1, Piso P0
