@@ -6655,3 +6655,6 @@ SNT-00082-03 evses -> 0: status : CHARGING
 2023-05-04 16:28:23
 OER-00159-1 evses -> 0: status : CHARGING
 OVR-00014-03 evses -> 0: status : CHARGING
+
+2023-05-04 16:48:14
+OER-00159-1 evses -> 0: status : CHARGING
