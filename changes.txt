@@ -3082,3 +3082,13 @@ ABF-00050
 : 
  NEW coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
  OLD coordinates : {'latitude': '37.12675', 'longitude': '-8.23719'}
+
+2023-05-04 22:36:13
+GRD-00021
+: 
+ NEW address : R. da DireÃ§Ã£o Geral de ViaÃ§Ã£o, Guarda
+ OLD address : R. da Direção Geral de Viação, Guarda
+LGS-00009
+: 
+ NEW address : Rua Pedra AlÃ§ada
+ OLD address : Rua Pedra Alçada
