@@ -6615,3 +6615,7 @@ LSB-00594-02 evses -> 0: status : CHARGING
 ODV-00015-01 evses -> 2: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 PDL-00008-01 evses -> 1: status : CHARGING
+
+2023-05-04 08:18:23
+LSB-00594-02 evses -> 0: status : CHARGING
+OVR-00014-02 evses -> 1: status : CHARGING
