@@ -6709,3 +6709,8 @@ VFX-00033-02 evses -> 1: status : CHARGING
 OER-00163-1 evses -> 0: status : CHARGING
 VFX-00033-01 evses -> 0: status : CHARGING
 VFX-00033-02 evses -> 1: status : CHARGING
+
+2023-05-04 23:15:04
+OER-00163-1 evses -> 0: status : CHARGING
+VFX-00033-01 evses -> 0: status : CHARGING
+VFX-00033-02 evses -> 1: status : CHARGING
