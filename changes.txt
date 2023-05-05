@@ -3092,3 +3092,9 @@ LGS-00009
 : 
  NEW address : Rua Pedra AlÃ§ada
  OLD address : Rua Pedra Alçada
+
+2023-05-05 06:36:54
+BRR-00022
+: 
+ NEW address : Rua JoÃ£o Azevedo do Carmo
+ OLD address : Rua João Azevedo do Carmo
