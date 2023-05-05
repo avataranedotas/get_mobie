@@ -6790,3 +6790,10 @@ CVL-00006-01 evses -> 1: status : CHARGING
 OER-00152-1 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 VLC-00006-01 evses -> 0: status : CHARGING
+
+2023-05-05 09:36:04
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+OVR-00014-02 evses -> 1: status : CHARGING
+PTM-00019-1 evses -> 0: status : CHARGING
+VLC-00006-01 evses -> 0: status : CHARGING
