@@ -6754,3 +6754,8 @@ VFX-00033-02 evses -> 1: status : CHARGING
 
 2023-05-05 05:36:17
 VFX-00033-02 evses -> 1: status : CHARGING
+
+2023-05-05 06:18:23
+LSB-00594-02 evses -> 0: status : CHARGING
+VFX-00033-02 evses -> 1: status : CHARGING
+VLC-00006-01 evses -> 0: status : CHARGING
