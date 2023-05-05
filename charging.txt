@@ -6843,3 +6843,6 @@ PDL-00010-02 evses -> 0: status : CHARGING
 2023-05-05 14:12:42
 ABF-00053-05 evses -> 5: status : CHARGING
 PDL-00010-02 evses -> 0: status : CHARGING
+
+2023-05-05 14:36:08
+PDL-00010-02 evses -> 0: status : CHARGING
