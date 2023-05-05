@@ -6804,3 +6804,10 @@ OER-00154-1 evses -> 0: status : CHARGING
 OVR-00014-02 evses -> 1: status : CHARGING
 PTM-00019-1 evses -> 0: status : CHARGING
 VLC-00006-01 evses -> 0: status : CHARGING
+
+2023-05-05 10:36:05
+LSB-00594-02 evses -> 0: status : CHARGING
+OER-00154-1 evses -> 0: status : CHARGING
+OER-00163-1 evses -> 0: status : CHARGING
+PTM-00019-1 evses -> 0: status : CHARGING
+VLC-00006-01 evses -> 0: status : CHARGING
