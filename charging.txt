@@ -6824,3 +6824,8 @@ VNG-00102-04 evses -> 1: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 VLC-00006-01 evses -> 0: status : CHARGING
+
+2023-05-05 11:41:23
+OER-00154-1 evses -> 0: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
+VLC-00006-01 evses -> 0: status : CHARGING
