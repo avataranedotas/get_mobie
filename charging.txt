@@ -6882,3 +6882,6 @@ ABF-00053-01 evses -> 2: status : CHARGING
 2023-05-05 19:36:05
 ABF-00053-01 evses -> 2: status : CHARGING
 CTB-00026-1 evses -> 0: status : CHARGING
+
+2023-05-05 20:36:15
+ABF-00053-06 evses -> 1: status : CHARGING
