@@ -6875,3 +6875,6 @@ ABF-00053-01 evses -> 2: status : CHARGING
 
 2023-05-05 18:36:14
 ABF-00053-01 evses -> 2: status : CHARGING
+
+2023-05-05 19:11:12
+ABF-00053-01 evses -> 2: status : CHARGING
