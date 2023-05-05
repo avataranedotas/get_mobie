@@ -3098,3 +3098,23 @@ BRR-00022
 : 
  NEW address : Rua JoÃ£o Azevedo do Carmo
  OLD address : Rua João Azevedo do Carmo
+
+2023-05-05 08:17:10
+Adicionados:['BRG-00062', 'BRG-00063']
+
+BRG-00062-->{'country_code': 'PT', 'party_id': 'CEV', 'id': 'BRG-00062', 'publish': True, 'address': 'Rua Professor Henrique de Barros, s/n', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4705-319', 'coordinates': {'latitude': '41.526581', 'longitude': '-8.448767'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00062-01', 'evse_id': 'PT*CEV*E*BRG*00062*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00062-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-19T14:48:54.752Z'}], 'last_updated': '2023-05-05T08:09:05.841Z'}, {'uid': 'BRG-00062-02', 'evse_id': 'PT*CEV*E*BRG*00062*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00062-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-19T14:48:54.753Z'}], 'last_updated': '2023-04-24T08:07:26.973Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-05T08:09:05.841Z'}
+
+BRG-00063-->{'country_code': 'PT', 'party_id': 'CEV', 'id': 'BRG-00063', 'publish': True, 'address': 'Rua Professor Henrique de Barros, s/n', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4705-319', 'coordinates': {'latitude': '41.526581', 'longitude': '-8.448767'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00063-02', 'evse_id': 'PT*CEV*E*BRG*00063*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00063-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-04-19T14:48:56.113Z'}], 'last_updated': '2023-05-05T07:47:41.451Z'}, {'uid': 'BRG-00063-01', 'evse_id': 'PT*CEV*E*BRG*00063*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00063-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-04-19T14:48:56.112Z'}], 'last_updated': '2023-05-05T07:47:40.448Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-05T07:47:41.451Z'}
+Removidos:[]
+BRR-00020
+: 
+ NEW address : Av. Movimento das ForÃ§as Armadas, 79
+ OLD address : Av. Movimento das Forças Armadas, 79
+BRR-00025
+: 
+ NEW address : Rua EÃ§a de Queiroz, 24
+ OLD address : Rua Eça de Queiroz, 24
+CSC-00073
+: 
+ NEW address : Rua JosÃ© Carlos Ary dos Santos
+ OLD address : Rua José Carlos Ary dos Santos
