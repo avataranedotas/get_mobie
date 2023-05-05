@@ -6829,3 +6829,9 @@ VLC-00006-01 evses -> 0: status : CHARGING
 OER-00154-1 evses -> 0: status : CHARGING
 OER-00159-1 evses -> 0: status : CHARGING
 VLC-00006-01 evses -> 0: status : CHARGING
+
+2023-05-05 12:26:50
+OER-00152-1 evses -> 0: status : CHARGING
+OER-00159-1 evses -> 0: status : CHARGING
+PTM-00019-1 evses -> 0: status : CHARGING
+VLC-00006-01 evses -> 0: status : CHARGING
