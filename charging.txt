@@ -6959,3 +6959,6 @@ PRT-00160-01 evses -> 1: status : CHARGING
 ABF-00053-04 evses -> 0: status : CHARGING
 ABF-00053-03 evses -> 4: status : CHARGING
 PRT-00160-01 evses -> 1: status : CHARGING
+
+2023-05-06 15:12:56
+PRT-00160-01 evses -> 1: status : CHARGING
