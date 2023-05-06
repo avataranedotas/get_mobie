@@ -6970,3 +6970,6 @@ CTB-00026-1 evses -> 0: status : CHARGING
 
 2023-05-06 16:17:08
 ABF-00053-01 evses -> 2: status : CHARGING
+
+2023-05-06 16:23:53
+VFX-00035-02 evses -> 0: status : CHARGING
