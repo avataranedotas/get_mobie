@@ -6962,3 +6962,8 @@ PRT-00160-01 evses -> 1: status : CHARGING
 
 2023-05-06 15:12:56
 PRT-00160-01 evses -> 1: status : CHARGING
+
+2023-05-06 15:36:13
+ABF-00053-01 evses -> 2: status : CHARGING
+CTB-00024-1 evses -> 0: status : CHARGING
+CTB-00026-1 evses -> 0: status : CHARGING
