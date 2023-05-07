@@ -7150,3 +7150,6 @@ PRT-00185-01 evses -> 1: status : CHARGING
 CTB-00019-1 evses -> 0: status : CHARGING
 PRT-00185-01 evses -> 1: status : CHARGING
 STR-00033-02 evses -> 1: status : CHARGING
+
+2023-05-07 21:36:11
+PRT-00185-01 evses -> 1: status : CHARGING
