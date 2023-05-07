@@ -7022,3 +7022,7 @@ PRT-00186-01 evses -> 1: status : CHARGING
 
 2023-05-07 06:36:07
 PRT-00186-01 evses -> 1: status : CHARGING
+
+2023-05-07 07:11:58
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-01 evses -> 1: status : CHARGING
