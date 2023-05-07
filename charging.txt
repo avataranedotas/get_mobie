@@ -7052,3 +7052,6 @@ PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
 STR-00033-03 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-07 10:36:06
+VFX-00035-02 evses -> 0: status : CHARGING
