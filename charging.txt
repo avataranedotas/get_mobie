@@ -7060,3 +7060,8 @@ VFX-00035-02 evses -> 0: status : CHARGING
 AMD-00080-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-07 11:36:14
+AMD-00080-02 evses -> 0: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
