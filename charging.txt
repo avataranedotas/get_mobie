@@ -7093,3 +7093,8 @@ GMR-00091-01 evses -> 1: status : CHARGING
 
 2023-05-07 15:13:39
 GMR-00091-01 evses -> 1: status : CHARGING
+
+2023-05-07 15:36:24
+GMR-00091-01 evses -> 1: status : CHARGING
+LSB-00588-02 evses -> 1: status : CHARGING
+PRT-00185-01 evses -> 1: status : CHARGING
