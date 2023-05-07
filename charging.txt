@@ -7111,3 +7111,8 @@ VFX-00035-02 evses -> 0: status : CHARGING
 2023-05-07 16:37:28
 GMR-00091-01 evses -> 1: status : CHARGING
 PRT-00185-01 evses -> 1: status : CHARGING
+
+2023-05-07 17:11:41
+CSC-00128-02 evses -> 2: status : CHARGING
+CSC-00128-02 evses -> 2: status : CHARGING
+PRT-00185-01 evses -> 1: status : CHARGING
