@@ -7153,3 +7153,6 @@ STR-00033-02 evses -> 1: status : CHARGING
 
 2023-05-07 21:36:11
 PRT-00185-01 evses -> 1: status : CHARGING
+
+2023-05-07 22:12:35
+PRT-00185-01 evses -> 1: status : CHARGING
