@@ -7081,3 +7081,9 @@ STR-00033-02 evses -> 1: status : CHARGING
 PRD-00013-01 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
 STR-00033-02 evses -> 1: status : CHARGING
+
+2023-05-07 14:11:38
+CSC-00128-01 evses -> 0: status : CHARGING
+CSC-00128-01 evses -> 0: status : CHARGING
+GMR-00091-01 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
