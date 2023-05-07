@@ -7098,3 +7098,12 @@ GMR-00091-01 evses -> 1: status : CHARGING
 GMR-00091-01 evses -> 1: status : CHARGING
 LSB-00588-02 evses -> 1: status : CHARGING
 PRT-00185-01 evses -> 1: status : CHARGING
+
+2023-05-07 16:17:18
+ABF-00058-02 evses -> 1: status : CHARGING
+CSC-00128-02 evses -> 2: status : CHARGING
+CSC-00128-02 evses -> 2: status : CHARGING
+GMR-00091-01 evses -> 1: status : CHARGING
+PRT-00185-01 evses -> 1: status : CHARGING
+STR-00033-02 evses -> 1: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
