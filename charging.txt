@@ -7248,3 +7248,6 @@ AMD-00079-03 evses -> 1: status : CHARGING
 MTS-00111-02 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-08 16:19:15
+AMD-00079-03 evses -> 1: status : CHARGING
