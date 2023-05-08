@@ -7179,3 +7179,8 @@ PRT-00185-02 evses -> 0: status : CHARGING
 MTS-00111-02 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
+
+2023-05-08 08:18:34
+AMD-00079-02 evses -> 2: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
