@@ -7259,3 +7259,7 @@ GMR-00086-02 evses -> 0: status : CHARGING
 2023-05-08 17:12:27
 LSB-00588-01 evses -> 0: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
+
+2023-05-08 17:36:14
+LSB-00588-01 evses -> 0: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
