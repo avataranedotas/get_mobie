@@ -3212,3 +3212,7 @@ Adicionados:['BJA-00018']
 
 BJA-00018-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'BJA-00018', 'publish': True, 'address': 'Av. Fialho de Almeida, 7800-395 Beja', 'city': 'Beja', 'country': 'PRT', 'postal_code': '7800-395', 'coordinates': {'latitude': '38.004278', 'longitude': '-7.865361'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BJA-00018-02', 'evse_id': 'PT*KLS*E*BJA*00018*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BJA-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-04T12:01:51.165Z'}], 'last_updated': '2023-05-08T12:09:28.255Z'}, {'uid': 'BJA-00018-01', 'evse_id': 'PT*KLS*E*BJA*00018*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BJA-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-04T12:01:51.163Z'}], 'last_updated': '2023-05-08T12:09:27.337Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-08T12:09:28.255Z'}
 Removidos:[]
+
+2023-05-08 13:17:40
+Adicionados:[]
+Removidos:['EVR-00024', 'LGA-00005', 'LGA-00006']
