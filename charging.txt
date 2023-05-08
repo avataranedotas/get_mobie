@@ -7303,3 +7303,9 @@ MTS-00111-02 evses -> 1: status : CHARGING
 PRD-00013-02 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-08 21:36:24
+MTS-00111-02 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
