@@ -7279,3 +7279,11 @@ GMR-00083-01 evses -> 1: status : CHARGING
 2023-05-08 19:36:13
 GMR-00083-01 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
+
+2023-05-08 20:13:58
+GMR-00083-01 evses -> 1: status : CHARGING
+MTS-00111-02 evses -> 1: status : CHARGING
+PRD-00013-02 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
+STR-00033-02 evses -> 1: status : CHARGING
