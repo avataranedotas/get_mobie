@@ -7174,3 +7174,8 @@ PRT-00186-02 evses -> 0: status : CHARGING
 
 2023-05-08 07:13:37
 PRT-00185-02 evses -> 0: status : CHARGING
+
+2023-05-08 07:36:01
+MTS-00111-02 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
