@@ -7227,3 +7227,7 @@ VFX-00035-02 evses -> 0: status : CHARGING
 2023-05-08 13:36:08
 AMD-00079-02 evses -> 2: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-08 14:13:06
+PRT-00185-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
