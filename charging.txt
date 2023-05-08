@@ -7197,3 +7197,8 @@ CTB-00025-1 evses -> 0: status : CHARGING
 GMR-00095-02 evses -> 2: status : CHARGING
 LRS-00092-01 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
+
+2023-05-08 10:15:17
+AMD-00079-03 evses -> 1: status : CHARGING
+LRS-00092-01 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
