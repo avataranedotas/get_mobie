@@ -7524,3 +7524,6 @@ MTS-00111-02 evses -> 1: status : CHARGING
 
 2023-05-09 23:13:37
 GMR-00094-01 evses -> 1: status : CHARGING
+
+2023-05-09 23:36:01
+GMR-00094-01 evses -> 1: status : CHARGING
