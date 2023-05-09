@@ -7513,3 +7513,7 @@ PRT-00186-02 evses -> 0: status : CHARGING
 GMR-00094-01 evses -> 1: status : CHARGING
 MTA-00007-02 evses -> 1: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
+
+2023-05-09 22:12:50
+GMR-00094-01 evses -> 1: status : CHARGING
+MTS-00111-02 evses -> 1: status : CHARGING
