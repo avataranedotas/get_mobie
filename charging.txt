@@ -7415,3 +7415,12 @@ CSC-00128-03 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-01 evses -> 1: status : CHARGING
 TMR-00008-01 evses -> 1: status : CHARGING
+
+2023-05-09 14:35:59
+AMD-00080-02 evses -> 0: status : CHARGING
+CSC-00128-01 evses -> 0: status : CHARGING
+CSC-00128-01 evses -> 0: status : CHARGING
+GMR-00081-01 evses -> 0: status : CHARGING
+GMR-00094-01 evses -> 1: status : CHARGING
+ODV-00015-02 evses -> 1: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
