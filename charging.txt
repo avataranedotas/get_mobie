@@ -7356,3 +7356,9 @@ VFX-00035-02 evses -> 0: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-01 evses -> 1: status : CHARGING
 TMR-00008-01 evses -> 1: status : CHARGING
+
+2023-05-09 07:36:10
+ARV-00011-01 evses -> 0: status : CHARGING
+ARV-00011-02 evses -> 1: status : CHARGING
+LSB-00588-03 evses -> 2: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
