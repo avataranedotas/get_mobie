@@ -7433,3 +7433,8 @@ PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
 SSB-00004-02 evses -> 0: status : CHARGING
 TMR-00008-01 evses -> 1: status : CHARGING
+
+2023-05-09 15:36:17
+GMR-00094-01 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
