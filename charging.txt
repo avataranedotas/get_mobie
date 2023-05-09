@@ -7483,3 +7483,11 @@ AMD-00080-02 evses -> 0: status : CHARGING
 GMR-00083-02 evses -> 0: status : CHARGING
 GMR-00094-01 evses -> 1: status : CHARGING
 STR-00033-03 evses -> 0: status : CHARGING
+
+2023-05-09 19:36:18
+AMD-00079-02 evses -> 2: status : CHARGING
+AMD-00080-02 evses -> 0: status : CHARGING
+GMR-00083-02 evses -> 0: status : CHARGING
+GMR-00094-01 evses -> 1: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
+STR-00033-03 evses -> 0: status : CHARGING
