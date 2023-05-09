@@ -3310,3 +3310,7 @@ Removidos:['LSB-00390', 'LSB-00391', 'LSB-00392']
 2023-05-09 15:36:12
 Adicionados:[]
 Removidos:['LSB-00259', 'LSB-00260', 'LSB-00295']
+
+2023-05-09 16:18:22
+Adicionados:[]
+Removidos:['SCG-00002']
