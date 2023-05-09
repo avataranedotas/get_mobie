@@ -7389,3 +7389,9 @@ TMR-00008-01 evses -> 1: status : CHARGING
 
 2023-05-09 11:11:46
 TMR-00008-01 evses -> 1: status : CHARGING
+
+2023-05-09 12:45:14
+CSC-00128-03 evses -> 1: status : CHARGING
+CSC-00128-03 evses -> 1: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
