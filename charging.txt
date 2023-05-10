@@ -7563,3 +7563,6 @@ GMR-00094-01 evses -> 1: status : CHARGING
 GMR-00094-01 evses -> 1: status : CHARGING
 PRT-00185-01 evses -> 1: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
+
+2023-05-10 06:36:26
+GMR-00094-01 evses -> 1: status : CHARGING
