@@ -7569,3 +7569,6 @@ GMR-00094-01 evses -> 1: status : CHARGING
 
 2023-05-10 07:12:56
 GMR-00094-01 evses -> 1: status : CHARGING
+
+2023-05-10 07:36:05
+GMR-00094-01 evses -> 1: status : CHARGING
