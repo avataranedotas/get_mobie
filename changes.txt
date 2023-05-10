@@ -3430,3 +3430,179 @@ Adicionados:['MCH-00007']
 
 MCH-00007-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'MCH-00007', 'publish': True, 'address': 'Rua do Leiria', 'city': 'Machico', 'country': 'PRT', 'postal_code': '9200-085', 'coordinates': {'latitude': '32.7188833', 'longitude': '-16.7624588'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MCH-00007-02', 'evse_id': 'PT*FAC*E*MCH*00007*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MCH-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-10T13:35:49.847Z'}], 'last_updated': '2023-05-10T15:05:12.016Z'}, {'uid': 'MCH-00007-03', 'evse_id': 'PT*FAC*E*MCH*00007*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MCH-00007-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-10T13:35:49.848Z'}], 'last_updated': '2023-05-10T15:05:13.042Z'}, {'uid': 'MCH-00007-01', 'evse_id': 'PT*FAC*E*MCH*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MCH-00007-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-10T13:35:49.846Z'}], 'last_updated': '2023-05-10T15:05:11.05Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-10T15:05:13.042Z'}
 Removidos:['RBR-00001']
+
+2023-05-10 17:15:41
+Adicionados:['AVZ-00003', 'FUN-00022', 'LSB-01529', 'MCH-00006']
+
+AVZ-00003-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'AVZ-00003', 'publish': True, 'address': 'Autoestrada do Pinhal Interior', 'city': 'AlvaiÃ¡zere', 'country': 'PRT', 'postal_code': '3250-000', 'coordinates': {'latitude': '39.878448', 'longitude': '-8.340844'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'AVZ-00003-02', 'evse_id': 'PT*PRI*E*AVZ*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVZ-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:23:56.428Z'}], 'last_updated': '2023-04-26T07:06:51.947Z'}, {'uid': 'AVZ-00003-01', 'evse_id': 'PT*PRI*E*AVZ*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'AVZ-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:23:56.427Z'}], 'last_updated': '2023-04-26T07:06:51.947Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-10T16:43:23.573Z'}
+
+FUN-00022-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'FUN-00022', 'publish': True, 'address': 'Avenida do Infante', 'city': 'Funchal', 'country': 'PRT', 'postal_code': '9004-542', 'coordinates': {'latitude': '32.6432844', 'longitude': '-16.9192879'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FUN-00022-01', 'evse_id': 'PT*FAC*E*FUN*00022*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'FUN-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:43:56.681Z'}], 'last_updated': '2023-05-03T03:06:37.61Z'}, {'uid': 'FUN-00022-02', 'evse_id': 'PT*FAC*E*FUN*00022*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'FUN-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:43:56.683Z'}], 'last_updated': '2023-05-03T03:07:00.156Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-10T16:56:18.284Z'}
+
+LSB-01529-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'LSB-01529', 'publish': True, 'address': 'R. HermÃ\xadnio da Palma InÃ¡cio', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1750-224', 'coordinates': {'latitude': '38.78807', 'longitude': '-9.146473'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-01529-02', 'evse_id': 'PT*PRI*E*LSB*01529*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-01529-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-01T17:17:48.518Z'}], 'last_updated': '2023-04-13T09:14:46.756Z'}, {'uid': 'LSB-01529-01', 'evse_id': 'PT*PRI*E*LSB*01529*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LSB-01529-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-01T17:17:48.518Z'}], 'last_updated': '2023-04-13T09:14:46.756Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-10T16:43:23.631Z'}
+
+MCH-00006-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'MCH-00006', 'publish': True, 'address': 'Caminho Velho do Massapez', 'city': 'Machico', 'country': 'PRT', 'postal_code': '9225-050', 'coordinates': {'latitude': '32.7728037', 'longitude': '-16.8299306'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MCH-00006-01', 'evse_id': 'PT*FAC*E*MCH*00006*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'MCH-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-22T16:17:16.175Z'}], 'last_updated': '2023-05-04T15:36:04.658Z'}, {'uid': 'MCH-00006-02', 'evse_id': 'PT*FAC*E*MCH*00006*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'MCH-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-04-22T16:17:16.176Z'}], 'last_updated': '2023-05-04T15:36:04.658Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-10T16:56:18.278Z'}
+Removidos:['BRG-00020', 'BRG-00054', 'BRG-00061']
+AMD-00022
+: 
+ NEW address : Avenida Ruy LuÃ­s Gomes
+ OLD address : Avenida Ruy Luís Gomes
+AVR-00032
+: 
+ NEW address : POSTO PRIO - Rua Conselheiro QueirÃ³z 64
+ OLD address : POSTO PRIO - Rua Conselheiro Queiróz 64
+CBR-00010
+: 
+ NEW address : Avenida LousÃ£
+ OLD address : Avenida Lousã
+CBR-00014
+: 
+ NEW address : Rua JoÃ£o Machado 4
+ OLD address : Rua João Machado 4
+CBR-00015
+: 
+ NEW address : Rua JoÃ£o Machado 4
+ OLD address : Rua João Machado 4
+CBR-00061
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+CBR-00063
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+CBR-00065
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+CBR-00067
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+CBR-00068
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+CBR-00069
+: 
+ NEW address : Parque de Estacionamento TeatrÃ£o - Coimbra
+ OLD address : Parque de Estacionamento Teatrão - Coimbra
+FUN-00007
+: 
+ NEW address : Caminho do PoÃ§o Barral
+ OLD address : Caminho do Poço Barral
+FUN-00035
+: 
+ NEW address : EdifÃ­cio 2000, Av. Calouste Gulbenkien
+ OLD address : Edifício 2000, Av. Calouste Gulbenkien
+GDL-00002
+: 
+ NEW city : GrÃ¢ndola
+ OLD city : Grândola
+GDM-00009
+: 
+ NEW address : Largo JÃºlio Dinis
+ OLD address : Largo Júlio Dinis
+GMR-00054
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+ILH-00002
+: 
+ NEW city : Ãlhavo
+ OLD city : Ílhavo
+LSB-00215
+: 
+ NEW address : Rua 1Âº de Maio
+ OLD address : Rua 1º de Maio
+LSB-00594
+: 
+ NEW address : Rua HermÃ­nio da Palma InÃ¡cio
+ OLD address : Rua Hermínio da Palma Inácio
+OBD-00003
+: 
+ NEW city : Ãbidos
+ OLD city : Óbidos
+OBD-00004
+: 
+ NEW city : Ãbidos
+ OLD city : Óbidos
+OBD-00008
+: 
+ NEW city : Ãbidos
+ OLD city : Óbidos
+OLR-00001
+: 
+ NEW address : PraÃ§a do MunicÃ­pio
+ OLD address : Praça do Município
+PMZ-00004
+: 
+ NEW address : PraÃ§a do Lyra
+ OLD address : Praça do Lyra
+PTS-00001
+: 
+ NEW address : Azinhaga do PoÃ§o Barral N 23
+ OLD address : Azinhaga do Poço Barral N 23
+SCR-00001
+: 
+ NEW address : CaniÃ§o Shopping Piso -1
+ OLD address : Caniço Shopping Piso -1
+SNT-00051
+: 
+ NEW address : A16, km 9,5, LanÃ§o Lourel/Ranholas â IC 16
+ OLD address : A16, km 9,5, Lanço Lourel/Ranholas – IC 16
+STB-00013
+: 
+ NEW address : Av. AntÃ³nio Xavier de Lima
+ OLD address : Av. António Xavier de Lima
+STB-00013
+: 
+ NEW city : SetÃºbal
+ OLD city : Setúbal
+STB-00032
+: 
+ NEW address : EN 11 - Quinta do MatÃ£o, NÂº 8
+ OLD address : EN 11 - Quinta do Matão, Nº 8
+STB-00032
+: 
+ NEW city : SetÃºbal
+ OLD city : Setúbal
+STN-00002
+: 
+ NEW address : Estrada da Quinta do FurÃ£o
+ OLD address : Estrada da Quinta do Furão
+SVC-00003
+: 
+ NEW address : Caminho do CemitÃ©rio da Boaventura
+ OLD address : Caminho do Cemitério da Boaventura
+SVC-00003
+: 
+ NEW city : SÃ£o Vicente
+ OLD city : São Vicente
+SVC-00004
+: 
+ NEW address : ER101 nÂº 110, Ponta Delgada
+ OLD address : ER101 nº 110, Ponta Delgada
+SVC-00004
+: 
+ NEW city : SÃ£o Vicente
+ OLD city : São Vicente
+VLG-00011
+: 
+ NEW address : Av. JosÃ© Joaquim Ribeiro Teles 280
+ OLD address : Av. José Joaquim Ribeiro Teles 280
+VLG-00012
+: 
+ NEW address : Rua do BorbulhÃ£o
+ OLD address : Rua do Borbulhão
+VNF-00026
+: 
+ NEW address : Rua Alfredo Correia nÂº 1440
+ OLD address : Rua Alfredo Correia nº 1440
+VNF-00026
+: 
+ NEW city : Vila Nova de FamalicÃ£o
+ OLD city : Vila Nova de Famalicão
+VNG-00043
+: 
+ NEW address : Avenida Poeta EugÃ©nio de Andrade
+ OLD address : Avenida Poeta Eugénio de Andrade
