@@ -7721,3 +7721,13 @@ VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-10 20:37:52
+GMR-00094-01 evses -> 1: status : CHARGING
+LRS-00092-02 evses -> 0: status : CHARGING
+MTA-00007-02 evses -> 1: status : CHARGING
+MTS-00111-02 evses -> 1: status : CHARGING
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
+VFX-00036-1 evses -> 0: status : CHARGING
