@@ -7746,3 +7746,8 @@ VFX-00036-1 evses -> 0: status : CHARGING
 2023-05-10 21:36:57
 VFX-00035-02 evses -> 0: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-10 22:15:45
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
+VFX-00036-1 evses -> 0: status : CHARGING
