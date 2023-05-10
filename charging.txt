@@ -7671,3 +7671,11 @@ PDL-00009-02 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
 SSB-00004-01 evses -> 1: status : CHARGING
+
+2023-05-10 18:24:50
+GMR-00083-01 evses -> 1: status : CHARGING
+GMR-00094-01 evses -> 1: status : CHARGING
+MTA-00007-02 evses -> 1: status : CHARGING
+PDL-00009-02 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
