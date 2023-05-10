@@ -3606,3 +3606,7 @@ VNG-00043
 : 
  NEW address : Avenida Poeta EugÃ©nio de Andrade
  OLD address : Avenida Poeta Eugénio de Andrade
+
+2023-05-10 17:38:45
+Adicionados:[]
+Removidos:['AVV-00003']
