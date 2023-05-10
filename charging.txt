@@ -7687,3 +7687,14 @@ MTA-00007-02 evses -> 1: status : CHARGING
 PDL-00009-02 evses -> 1: status : CHARGING
 PRT-00185-02 evses -> 0: status : CHARGING
 PRT-00186-02 evses -> 0: status : CHARGING
+
+2023-05-10 19:12:53
+AMD-00080-02 evses -> 0: status : CHARGING
+GMR-00094-01 evses -> 1: status : CHARGING
+LRS-00092-02 evses -> 0: status : CHARGING
+MTA-00007-02 evses -> 1: status : CHARGING
+MTS-00111-02 evses -> 1: status : CHARGING
+PRT-00185-02 evses -> 0: status : CHARGING
+PRT-00186-02 evses -> 0: status : CHARGING
+SSB-00004-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
