@@ -7798,3 +7798,6 @@ VFX-00036-1 evses -> 0: status : CHARGING
 
 2023-05-11 06:36:16
 GMR-00092-02 evses -> 0: status : CHARGING
+
+2023-05-11 07:13:12
+GMR-00092-02 evses -> 0: status : CHARGING
