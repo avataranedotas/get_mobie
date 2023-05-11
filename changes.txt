@@ -3762,3 +3762,7 @@ ABF-00050
 : 
  NEW coordinates : {'latitude': '37.126750', 'longitude': '-8.237000'}
  OLD coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
+
+2023-05-11 15:36:04
+Adicionados:[]
+Removidos:['BCL-00006', 'BCL-00007', 'BRG-00026', 'CHV-00009', 'GMR-00019']
