@@ -3724,3 +3724,9 @@ Removidos:[]
 2023-05-11 11:11:27
 Adicionados:[]
 Removidos:['ABF-00011', 'BRG-00022', 'MTJ-00014', 'PTM-00021']
+
+2023-05-11 13:17:29
+Adicionados:['BRG-00022']
+
+BRG-00022-->{'country_code': 'PT', 'party_id': 'BLU', 'id': 'BRG-00022', 'publish': True, 'address': 'Avenida Dom João II 280', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4715-275', 'coordinates': {'latitude': '41.546708', 'longitude': '-8.39805'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00022-01', 'evse_id': 'PT*BLU*E*BRG*00022*01', 'status': 'CHARGING', 'connectors': [{'id': 'BRG-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T10:28:55.994Z'}], 'last_updated': '2023-05-11T13:09:24.097Z'}, {'uid': 'BRG-00022-02', 'evse_id': 'PT*BLU*E*BRG*00022*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRG-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T10:28:55.995Z'}], 'last_updated': '2023-05-11T13:09:25.096Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T13:09:25.096Z'}
+Removidos:[]
