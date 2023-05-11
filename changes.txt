@@ -3740,3 +3740,25 @@ Adicionados:['SCR-00007']
 
 SCR-00007-->{'country_code': 'PT', 'party_id': 'SCR', 'id': 'SCR-00007', 'publish': True, 'address': 'Alameda', 'city': 'Santa Cruz', 'country': 'PRT', 'postal_code': '9100-105', 'coordinates': {'latitude': '32.687647', 'longitude': '-16.791241'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SCR-00007-1', 'evse_id': 'PT*SCR*E*SCR*00007*1', 'status': 'CHARGING', 'connectors': [{'id': 'SCR-00007-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:47:28.137Z'}], 'last_updated': '2023-05-11T14:18:34.042Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T14:18:34.042Z'}
 Removidos:['PVZ-00017', 'STB-00024']
+
+2023-05-11 15:14:35
+Adicionados:['LSB-00295', 'PVZ-00017', 'STB-00024']
+
+LSB-00295-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00295', 'publish': True, 'address': 'Rua Manuel Gouveia', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1750-150', 'coordinates': {'latitude': '38.744257', 'longitude': '-9.130995'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00295-01', 'evse_id': 'PT*EML*E*LSB*00295*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00295-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2023-03-13T20:00:10.27Z'}], 'last_updated': '2023-05-11T14:54:34.662Z'}, {'uid': 'LSB-00295-02', 'evse_id': 'PT*EML*E*LSB*00295*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00295-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2023-03-13T20:00:10.272Z'}], 'last_updated': '2023-05-11T14:54:34.664Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T14:54:34.664Z'}
+
+PVZ-00017-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'PVZ-00017', 'publish': True, 'address': 'Rua do Comendador Francisco Quintas', 'city': 'Póvoa de Varzim', 'country': 'PRT', 'postal_code': '4495-333', 'coordinates': {'latitude': '41.3930001', 'longitude': '-8.751639'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PVZ-00017-01', 'evse_id': 'PT*IBD*E*PVZ*00017*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:17:26.838Z'}], 'last_updated': '2023-05-11T14:42:05.184Z'}, {'uid': 'PVZ-00017-02', 'evse_id': 'PT*IBD*E*PVZ*00017*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PVZ-00017-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:17:26.839Z'}], 'last_updated': '2023-05-11T14:28:09.622Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T14:42:05.184Z'}
+
+STB-00024-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'STB-00024', 'publish': True, 'address': 'Avenida Mestre Lima de Freitas', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2910-316', 'coordinates': {'latitude': '38.539441', 'longitude': '-8.867773'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00024-01', 'evse_id': 'PT*IBD*E*STB*00024*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:11:05.169Z'}], 'last_updated': '2023-05-11T14:25:46.76Z'}, {'uid': 'STB-00024-02', 'evse_id': 'PT*IBD*E*STB*00024*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:11:05.171Z'}], 'last_updated': '2023-05-11T14:25:48.328Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T14:25:48.328Z'}
+Removidos:['ORM-00004', 'ORM-00005']
+ABF-00050
+coordinates: 
+ NEW latitude : 37.126750
+ OLD latitude : 37.12623
+ABF-00050
+coordinates: 
+ NEW longitude : -8.237000
+ OLD longitude : -8.23143
+ABF-00050
+: 
+ NEW coordinates : {'latitude': '37.126750', 'longitude': '-8.237000'}
+ OLD coordinates : {'latitude': '37.12623', 'longitude': '-8.23143'}
