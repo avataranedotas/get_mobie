@@ -7904,3 +7904,8 @@ VFX-00035-02 evses -> 0: status : CHARGING
 GMR-00095-01 evses -> 0: status : CHARGING
 VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-12 02:42:21
+GMR-00095-01 evses -> 0: status : CHARGING
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
