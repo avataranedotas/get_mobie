@@ -3926,3 +3926,25 @@ OLR-00001
 : 
  NEW address : Praça do Município
  OLD address : PraÃ§a do MunicÃ­pio
+
+2023-05-12 10:14:40
+Adicionados:['LSB-00594']
+
+LSB-00594-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'LSB-00594', 'publish': True, 'address': 'Rua Hermínio da Palma Inácio', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1750-114', 'coordinates': {'latitude': '38.7882751', 'longitude': '-9.14614'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LSB-00594-02', 'evse_id': 'PT*PRI*E*LSB*00594*02', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00594-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:59:04.841Z'}], 'last_updated': '2023-05-12T09:42:24.857Z'}, {'uid': 'LSB-00594-01', 'evse_id': 'PT*PRI*E*LSB*00594*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00594-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:59:04.84Z'}], 'last_updated': '2023-05-12T09:42:24.464Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T09:42:24.857Z'}
+Removidos:['CSC-00082']
+CBR-00014
+: 
+ NEW address : Rua João Machado 4
+ OLD address : Rua JoÃ£o Machado 4
+CBR-00015
+: 
+ NEW address : Rua João Machado 4
+ OLD address : Rua JoÃ£o Machado 4
+CBR-00061
+: 
+ NEW address : Parque de Estacionamento Teatrão - Coimbra
+ OLD address : Parque de Estacionamento TeatrÃ£o - Coimbra
+GDL-00002
+: 
+ NEW city : Grândola
+ OLD city : GrÃ¢ndola
