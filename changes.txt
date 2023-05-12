@@ -3904,3 +3904,25 @@ VNF-00020
 : 
  NEW city : Vila Nova de FamalicÃ£o
  OLD city : Vila Nova de Famalicão
+
+2023-05-12 09:36:19
+Adicionados:['LLE-00067', 'PRT-00126', 'STB-00032']
+
+LLE-00067-->{'country_code': 'PT', 'party_id': 'LCG', 'id': 'LLE-00067', 'publish': True, 'address': 'Rua Cristóvão Pires Norte', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-100', 'coordinates': {'latitude': '37.081691', 'longitude': '-8.035673'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LLE-00067-01', 'evse_id': 'PT*LCG*E*LLE*00067*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00067-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-10T09:51:00.265Z'}], 'last_updated': '2023-05-12T09:26:56.702Z'}, {'uid': 'LLE-00067-02', 'evse_id': 'PT*LCG*E*LLE*00067*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00067-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-10T09:51:00.266Z'}], 'last_updated': '2023-05-12T09:26:57.25Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T09:26:57.25Z'}
+
+PRT-00126-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'PRT-00126', 'publish': True, 'address': 'Alameda Shop & Spot', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4350-414', 'coordinates': {'latitude': '41.163653', 'longitude': '-8.584308'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00126-01', 'evse_id': 'PT*PRI*E*PRT*00126*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00126-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-09T15:55:33.915Z'}], 'last_updated': '2023-05-12T09:07:52.511Z'}, {'uid': 'PRT-00126-02', 'evse_id': 'PT*PRI*E*PRT*00126*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00126-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-09T15:55:33.915Z'}], 'last_updated': '2023-05-12T09:07:53.118Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T09:07:53.118Z'}
+
+STB-00032-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'STB-00032', 'publish': True, 'address': 'EN 11 - Quinta do Matão, Nº 8', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2720-167', 'coordinates': {'latitude': '38.649776', 'longitude': '-8.997055'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'STB-00032-02', 'evse_id': 'PT*PRI*E*STB*00032*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:10:57.167Z'}], 'last_updated': '2023-05-12T09:27:25.207Z'}, {'uid': 'STB-00032-01', 'evse_id': 'PT*PRI*E*STB*00032*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00032-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:10:57.166Z'}], 'last_updated': '2023-05-12T09:27:24.831Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T09:27:25.207Z'}
+Removidos:['LSB-00594', 'MTS-00113']
+OBD-00003
+: 
+ NEW city : Óbidos
+ OLD city : Ãbidos
+OBD-00004
+: 
+ NEW city : Óbidos
+ OLD city : Ãbidos
+OLR-00001
+: 
+ NEW address : Praça do Município
+ OLD address : PraÃ§a do MunicÃ­pio

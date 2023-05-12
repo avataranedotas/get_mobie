@@ -7944,3 +7944,6 @@ VFX-00035-02 evses -> 0: status : CHARGING
 2023-05-12 09:13:39
 AVZ-00004-01 evses -> 0: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-12 09:36:24
+VFX-00035-02 evses -> 0: status : CHARGING
