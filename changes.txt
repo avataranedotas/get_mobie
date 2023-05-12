@@ -3782,3 +3782,125 @@ Adicionados:['MTJ-00014']
 
 MTJ-00014-->{'country_code': 'PT', 'party_id': 'BLU', 'id': 'MTJ-00014', 'publish': True, 'address': 'Estrada do Pau Queimado', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2870-100', 'coordinates': {'latitude': '38.6962438', 'longitude': '-8.945832'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00014-02', 'evse_id': 'PT*BLU*E*MTJ*00014*02', 'status': 'CHARGING', 'connectors': [{'id': 'MTJ-00014-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T10:24:48.521Z'}], 'last_updated': '2023-05-11T16:41:33.59Z'}, {'uid': 'MTJ-00014-01', 'evse_id': 'PT*BLU*E*MTJ*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00014-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T10:24:48.519Z'}], 'last_updated': '2023-05-11T16:41:32.047Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-11T16:41:33.59Z'}
 Removidos:[]
+
+2023-05-12 09:13:36
+Adicionados:['GMR-00019']
+
+GMR-00019-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'GMR-00019', 'publish': True, 'address': 'Lugar das Teixugueiras', 'city': 'GuimarÃ£es', 'country': 'PRT', 'postal_code': '8500-308', 'coordinates': {'latitude': '41.4455001', 'longitude': '-8.33961'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'GMR-00019-01', 'evse_id': 'PT*IBD*E*GMR*00019*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00019-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:30.077Z'}], 'last_updated': '2023-05-05T09:55:00.449Z'}, {'uid': 'GMR-00019-02', 'evse_id': 'PT*IBD*E*GMR*00019*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'GMR-00019-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:30.078Z'}], 'last_updated': '2023-05-05T09:55:00.449Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T08:52:45.932Z'}
+Removidos:['PRT-00126', 'STB-00032']
+AGD-00005
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+BRG-00025
+: 
+ NEW address : Avenida Dr. AntÃ³nio Palha
+ OLD address : Avenida Dr. António Palha
+BRG-00026
+: 
+ NEW address : Avenida Dr. AntÃ³nio Palha
+ OLD address : Avenida Dr. António Palha
+BRG-00058
+: 
+ NEW address : Avenida da IndependÃªncia
+ OLD address : Avenida da Independência
+CTB-00016
+: 
+ NEW address : Rua JoÃ£o Evangelista
+ OLD address : Rua João Evangelista
+GMR-00027
+: 
+ NEW address : Rua do ColÃ©gio Militar
+ OLD address : Rua do Colégio Militar
+GMR-00027
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+MAI-00016
+: 
+ NEW address : Av. Eng. JosÃ© Afonso Moreira de Figueiredo
+ OLD address : Av. Eng. José Afonso Moreira de Figueiredo
+MTR-00006
+: 
+ NEW address : Largo 1Âº de Maio
+ OLD address : Largo 1º de Maio
+MTR-00007
+: 
+ NEW address : Largo Luis de CamÃµes
+ OLD address : Largo Luis de Camões
+OVR-00009
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00010
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00012
+: 
+ NEW address : R. FamÃ­lia Colares Pinto 1695
+ OLD address : R. Família Colares Pinto 1695
+PNF-00007
+: 
+ NEW address : Avenida Dr. Francisco SÃ¡ Carneiro Cruce
+ OLD address : Avenida Dr. Francisco Sá Carneiro Cruce
+PNF-00008
+: 
+ NEW address : Avenida Dr. Francisco SÃ¡ Carneiro Cruce
+ OLD address : Avenida Dr. Francisco Sá Carneiro Cruce
+PRD-00013
+: 
+ NEW address : Rua SÃ£o SebastiÃ£o 300
+ OLD address : Rua São Sebastião 300
+PRT-00071
+: 
+ NEW address : Rua SÃ£o Roque da Lameira
+ OLD address : Rua São Roque da Lameira
+PVZ-00017
+: 
+ NEW city : PÃ³voa de Varzim
+ OLD city : Póvoa de Varzim
+PVZ-00018
+: 
+ NEW city : PÃ³voa de Varzim
+ OLD city : Póvoa de Varzim
+PVZ-00019
+: 
+ NEW city : PÃ³voa de Varzim
+ OLD city : Póvoa de Varzim
+SJM-00003
+: 
+ NEW city : SÃ£o JoÃ£o da Madeira
+ OLD city : São João da Madeira
+SJM-00004
+: 
+ NEW city : SÃ£o JoÃ£o da Madeira
+ OLD city : São João da Madeira
+STB-00013
+: 
+ NEW address : Av. António Xavier de Lima
+ OLD address : Av. AntÃ³nio Xavier de Lima
+STB-00013
+: 
+ NEW city : Setúbal
+ OLD city : SetÃºbal
+STS-00007
+: 
+ NEW address : Rua Comendador AntÃ³nio Maria Lopes
+ OLD address : Rua Comendador António Maria Lopes
+VLG-00006
+: 
+ NEW address : Rua JosÃ© Joaquim Ribeiro Teles
+ OLD address : Rua José Joaquim Ribeiro Teles
+VLG-00007
+: 
+ NEW address : Rua JosÃ© Joaquim Ribeiro Teles
+ OLD address : Rua José Joaquim Ribeiro Teles
+VNF-00020
+: 
+ NEW address : Rua AntÃ³nio Ferreira MagalhÃ£es
+ OLD address : Rua António Ferreira Magalhães
+VNF-00020
+: 
+ NEW city : Vila Nova de FamalicÃ£o
+ OLD city : Vila Nova de Famalicão
