@@ -8082,3 +8082,6 @@ VFX-00036-1 evses -> 0: status : CHARGING
 
 2023-05-12 20:14:15
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-12 22:13:13
+LGS-00014-02 evses -> 1: status : CHARGING
