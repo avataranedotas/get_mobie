@@ -3948,3 +3948,9 @@ GDL-00002
 : 
  NEW city : Grândola
  OLD city : GrÃ¢ndola
+
+2023-05-12 11:11:32
+Adicionados:['CSC-00082']
+
+CSC-00082-->{'country_code': 'PT', 'party_id': 'PRI', 'id': 'CSC-00082', 'publish': True, 'address': 'Estrada da Alagoa', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2775-716', 'coordinates': {'latitude': '38.69622', 'longitude': '-9.337541'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CSC-00082-01', 'evse_id': 'PT*PRI*E*CSC*00082*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00082-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:30:06.742Z'}], 'last_updated': '2023-05-12T10:56:26.709Z'}, {'uid': 'CSC-00082-02', 'evse_id': 'PT*PRI*E*CSC*00082*02', 'status': 'CHARGING', 'connectors': [{'id': 'CSC-00082-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:30:06.744Z'}], 'last_updated': '2023-05-12T10:56:27.133Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T10:56:27.133Z'}
+Removidos:['SNT-00053', 'SNT-00061', 'STS-00010', 'TNV-00007', 'VIS-00017', 'VLG-00014', 'VNG-00095', 'VNG-00096', 'VNG-00099']

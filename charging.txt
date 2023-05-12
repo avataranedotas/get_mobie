@@ -7959,3 +7959,12 @@ LSB-00587-02 evses -> 1: status : CHARGING
 VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00034-01 evses -> 1: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-12 11:11:37
+AMD-00032-02 evses -> 0: status : CHARGING
+AMD-00032-03 evses -> 1: status : CHARGING
+AMD-00032-01 evses -> 2: status : CHARGING
+GMR-00092-01 evses -> 1: status : CHARGING
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00034-01 evses -> 1: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
