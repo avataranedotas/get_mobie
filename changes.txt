@@ -4048,3 +4048,23 @@ Adicionados:['LSB-00259']
 
 LSB-00259-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00259', 'publish': True, 'address': 'Rua da Alfândega', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1100-016', 'coordinates': {'latitude': '38.70875', 'longitude': '-9.131067'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00259-01', 'evse_id': 'PT*EML*E*LSB*00259*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00259-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:59:34.209Z'}], 'last_updated': '2023-05-12T15:22:40.965Z'}, {'uid': 'LSB-00259-02', 'evse_id': 'PT*EML*E*LSB*00259*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00259-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:59:34.21Z'}], 'last_updated': '2023-05-12T15:22:40.964Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T15:22:40.965Z'}
 Removidos:['LSB-00387', 'LSB-00499', 'LSB-00502']
+
+2023-05-12 16:17:46
+Adicionados:['LSB-00555', 'VIS-00020']
+
+LSB-00555-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'LSB-00555', 'publish': True, 'address': 'Av. António Augusto Aguiar, n.º 31', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1069-413', 'coordinates': {'latitude': '38.73328', 'longitude': '-9.15378'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'LSB-00555-1', 'evse_id': 'PT*REP*E*LSB*00555*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00555-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T11:47:31.373Z'}], 'last_updated': '2023-05-12T15:58:11.433Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T15:58:11.433Z'}
+
+VIS-00020-->{'country_code': 'PT', 'party_id': 'VIS', 'id': 'VIS-00020', 'publish': True, 'address': 'Rua do Palácio do Gelo 1, Piso -2', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-606', 'coordinates': {'latitude': '40.643675', 'longitude': '-7.911604'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIS-00020-01', 'evse_id': 'PT*VIS*E*VIS*00020*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T13:55:09.169Z'}], 'last_updated': '2023-05-12T15:35:55.621Z'}, {'uid': 'VIS-00020-02', 'evse_id': 'PT*VIS*E*VIS*00020*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00020-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T13:55:09.17Z'}], 'last_updated': '2023-05-12T15:35:56.614Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T15:35:56.614Z'}
+Removidos:['SNT-00062', 'VNG-00097', 'VNG-00098', 'VNG-00100']
+CBR-00063
+: 
+ NEW address : Parque de Estacionamento Teatrão - Coimbra
+ OLD address : Parque de Estacionamento TeatrÃ£o - Coimbra
+PRD-00013
+: 
+ NEW address : Rua São Sebastião 300
+ OLD address : Rua SÃ£o SebastiÃ£o 300
+SJM-00004
+: 
+ NEW city : São João da Madeira
+ OLD city : SÃ£o JoÃ£o da Madeira
