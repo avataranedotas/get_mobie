@@ -7968,3 +7968,10 @@ GMR-00092-01 evses -> 1: status : CHARGING
 VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00034-01 evses -> 1: status : CHARGING
 VFX-00035-02 evses -> 0: status : CHARGING
+
+2023-05-12 11:36:14
+AMD-00032-03 evses -> 1: status : CHARGING
+GMR-00092-01 evses -> 1: status : CHARGING
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00034-01 evses -> 1: status : CHARGING
+VFX-00035-02 evses -> 0: status : CHARGING
