@@ -8011,3 +8011,7 @@ VFX-00036-1 evses -> 0: status : CHARGING
 AMD-00032-02 evses -> 0: status : CHARGING
 GMR-00095-01 evses -> 0: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-12 14:36:05
+AMD-00032-02 evses -> 0: status : CHARGING
+VFX-00036-1 evses -> 0: status : CHARGING
