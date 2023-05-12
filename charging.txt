@@ -8076,3 +8076,6 @@ TMR-00008-01 evses -> 1: status : CHARGING
 VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00034-01 evses -> 1: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-12 19:48:02
+VFX-00036-1 evses -> 0: status : CHARGING
