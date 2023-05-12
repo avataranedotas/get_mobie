@@ -8045,3 +8045,11 @@ BJA-90004-1 evses -> 0: status : CHARGING
 TMR-00008-01 evses -> 1: status : CHARGING
 VFX-00034-02 evses -> 0: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-12 17:36:04
+AMD-00032-02 evses -> 0: status : CHARGING
+BJA-90004-1 evses -> 0: status : CHARGING
+GMR-00095-02 evses -> 2: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
+VFX-00034-02 evses -> 0: status : CHARGING
+VFX-00036-1 evses -> 0: status : CHARGING
