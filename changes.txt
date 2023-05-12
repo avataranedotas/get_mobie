@@ -4042,3 +4042,9 @@ FUN-00035
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2023-05-12 15:36:07
+Adicionados:['LSB-00259']
+
+LSB-00259-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00259', 'publish': True, 'address': 'Rua da Alfândega', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1100-016', 'coordinates': {'latitude': '38.70875', 'longitude': '-9.131067'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00259-01', 'evse_id': 'PT*EML*E*LSB*00259*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00259-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:59:34.209Z'}], 'last_updated': '2023-05-12T15:22:40.965Z'}, {'uid': 'LSB-00259-02', 'evse_id': 'PT*EML*E*LSB*00259*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00259-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:59:34.21Z'}], 'last_updated': '2023-05-12T15:22:40.964Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-12T15:22:40.965Z'}
+Removidos:['LSB-00387', 'LSB-00499', 'LSB-00502']

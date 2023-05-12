@@ -8021,3 +8021,8 @@ AMD-00032-02 evses -> 0: status : CHARGING
 AVZ-00004-02 evses -> 1: status : CHARGING
 SSB-00008-01 evses -> 2: status : CHARGING
 VFX-00036-1 evses -> 0: status : CHARGING
+
+2023-05-12 15:36:10
+AMD-00032-02 evses -> 0: status : CHARGING
+TMR-00008-01 evses -> 1: status : CHARGING
+VFX-00036-1 evses -> 0: status : CHARGING
