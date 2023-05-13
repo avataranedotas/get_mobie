@@ -8134,3 +8134,6 @@ AVZ-00004-01 evses -> 0: status : CHARGING
 
 2023-05-13 14:36:20
 SNS-00012-04 evses -> 5: status : CHARGING
+
+2023-05-13 17:36:12
+ALB-00004-01 evses -> 2: status : CHARGING
