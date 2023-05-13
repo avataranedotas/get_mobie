@@ -8097,3 +8097,6 @@ LGS-00014-02 evses -> 1: status : CHARGING
 
 2023-05-13 01:10:19
 LGS-00014-02 evses -> 1: status : CHARGING
+
+2023-05-13 02:14:20
+LGS-00014-02 evses -> 1: status : CHARGING
