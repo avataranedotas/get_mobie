@@ -8143,3 +8143,6 @@ LNH-00006-01 evses -> 0: status : CHARGING
 
 2023-05-14 14:11:25
 CTB-00022-1 evses -> 0: status : CHARGING
+
+2023-05-14 14:36:09
+SNS-00012-05 evses -> 4: status : CHARGING
