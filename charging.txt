@@ -8140,3 +8140,6 @@ ALB-00004-01 evses -> 2: status : CHARGING
 
 2023-05-14 11:36:10
 LNH-00006-01 evses -> 0: status : CHARGING
+
+2023-05-14 14:11:25
+CTB-00022-1 evses -> 0: status : CHARGING
