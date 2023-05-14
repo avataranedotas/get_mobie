@@ -4222,3 +4222,37 @@ Adicionados:['PTL-00009']
 
 PTL-00009-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'PTL-00009', 'publish': True, 'address': 'E.N. 201 ao km 0,760', 'city': 'Ponte de Lima', 'country': 'PRT', 'postal_code': '4990-120', 'coordinates': {'latitude': '41.766316', 'longitude': '-8.594537'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'PTL-00009-03', 'evse_id': 'PT*REP*E*PTL*00009*03', 'status': 'CHARGING', 'connectors': [{'id': 'PTL-00009-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T11:18:08.423Z'}], 'last_updated': '2023-05-13T21:18:02.189Z'}, {'uid': 'PTL-00009-02', 'evse_id': 'PT*REP*E*PTL*00009*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTL-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 72, 'max_electric_power': 30000, 'last_updated': '2023-05-12T11:18:08.422Z'}], 'last_updated': '2023-05-13T21:18:01.182Z'}, {'uid': 'PTL-00009-01', 'evse_id': 'PT*REP*E*PTL*00009*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'PTL-00009-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 72, 'max_electric_power': 30000, 'last_updated': '2023-05-12T11:18:08.421Z'}], 'last_updated': '2023-05-13T21:18:00.192Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-13T21:18:02.189Z'}
 Removidos:[]
+
+2023-05-14 03:14:02
+PDL-00002
+evses -> 0: 
+ NEW uid : PDL-00002-02
+ OLD uid : PDL-00002-01
+PDL-00002
+evses -> 0: 
+ NEW evse_id : PT*GLG*E*PDL*00002*02
+ OLD evse_id : PT*GLG*E*PDL*00002*01
+PDL-00002
+evses -> 0 -> connectors -> 0: 
+ NEW id : PDL-00002-02-01
+ OLD id : PDL-00002-01-01
+PDL-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PDL-00002
+evses -> 1: 
+ NEW uid : PDL-00002-01
+ OLD uid : PDL-00002-02
+PDL-00002
+evses -> 1: 
+ NEW evse_id : PT*GLG*E*PDL*00002*01
+ OLD evse_id : PT*GLG*E*PDL*00002*02
+PDL-00002
+evses -> 1 -> connectors -> 0: 
+ NEW id : PDL-00002-01-01
+ OLD id : PDL-00002-02-01
+PDL-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
