@@ -4292,3 +4292,9 @@ Adicionados:['GMR-00080']
 
 GMR-00080-->{'country_code': 'PT', 'party_id': 'GEN', 'id': 'GMR-00080', 'publish': True, 'address': 'Parque Tecnológico Avepark', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4805-017', 'coordinates': {'latitude': '41.508536', 'longitude': '-8.334417'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00080-02', 'evse_id': 'PT*GEN*E*GMR*00080*02', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00080-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-15T08:33:57.893Z'}], 'last_updated': '2023-05-15T09:41:52.852Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-15T09:41:52.852Z'}
 Removidos:['FUN-00008']
+
+2023-05-15 10:36:12
+BRG-00058
+: 
+ NEW address : Avenida da Independência
+ OLD address : Avenida da IndependÃªncia
