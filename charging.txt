@@ -8160,3 +8160,6 @@ VNG-00111-01 evses -> 1: status : CHARGING
 
 2023-05-15 15:36:04
 GMR-00076-02 evses -> 1: status : CHARGING
+
+2023-05-15 16:18:13
+ALB-00004-02 evses -> 0: status : CHARGING
