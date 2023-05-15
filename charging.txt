@@ -8163,3 +8163,6 @@ GMR-00076-02 evses -> 1: status : CHARGING
 
 2023-05-15 16:18:13
 ALB-00004-02 evses -> 0: status : CHARGING
+
+2023-05-15 16:38:54
+ALB-00004-02 evses -> 0: status : CHARGING
