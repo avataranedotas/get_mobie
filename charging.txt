@@ -8169,3 +8169,6 @@ ALB-00004-02 evses -> 0: status : CHARGING
 
 2023-05-15 18:17:37
 ALB-00004-02 evses -> 0: status : CHARGING
+
+2023-05-15 20:36:15
+OLH-00004-02 evses -> 1: status : CHARGING
