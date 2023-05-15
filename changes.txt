@@ -4302,3 +4302,9 @@ BRG-00058
 2023-05-15 11:11:46
 Adicionados:[]
 Removidos:['LSB-00377', 'PTL-00006']
+
+2023-05-15 11:35:57
+Adicionados:['LSB-00377']
+
+LSB-00377-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'LSB-00377', 'publish': True, 'address': 'Alameda dos Oceanos Lote 3.01.02', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1900-000', 'coordinates': {'latitude': '38.755439', 'longitude': '-9.096331'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'LSB-00377-02', 'evse_id': 'PT*REP*E*LSB*00377*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00377-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:26:47.561Z'}], 'last_updated': '2023-05-15T11:08:52.161Z'}, {'uid': 'LSB-00377-03', 'evse_id': 'PT*REP*E*LSB*00377*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00377-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:26:47.562Z'}], 'last_updated': '2023-05-15T11:08:52.364Z'}, {'uid': 'LSB-00377-01', 'evse_id': 'PT*REP*E*LSB*00377*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00377-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:26:47.559Z'}], 'last_updated': '2023-05-15T11:08:52.036Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-15T11:08:52.364Z'}
+Removidos:[]
