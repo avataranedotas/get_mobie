@@ -4320,3 +4320,11 @@ Adicionados:['FUN-00008']
 
 FUN-00008-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'FUN-00008', 'publish': True, 'address': 'Estrada Comandante Camacho de Freitas', 'city': 'Funchal', 'country': 'PRT', 'postal_code': '9020-148', 'coordinates': {'latitude': '32.659369', 'longitude': '-16.940543'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FUN-00008-02', 'evse_id': 'PT*FAC*E*FUN*00008*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'FUN-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:34:32.168Z'}], 'last_updated': '2023-05-15T12:49:51.132Z'}, {'uid': 'FUN-00008-01', 'evse_id': 'PT*FAC*E*FUN*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'FUN-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:34:32.167Z'}], 'last_updated': '2023-05-15T12:49:50.508Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-15T12:49:51.132Z'}
 Removidos:[]
+
+2023-05-15 14:13:21
+Adicionados:[]
+Removidos:['LLE-00060', 'LSB-00261']
+AGD-00005
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
