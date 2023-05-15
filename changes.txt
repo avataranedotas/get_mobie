@@ -4428,3 +4428,55 @@ LSB-00261-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00261', 'publis
 
 LSB-00502-->{'country_code': 'PT', 'party_id': 'IMG', 'id': 'LSB-00502', 'publish': True, 'address': 'Av. Professor Aníbal Bettencourt, 9', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1600-189', 'coordinates': {'latitude': '38.749504', 'longitude': '-9.153094'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00502-01', 'evse_id': 'PT*IMG*E*LSB*00502*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00502-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-05-12T15:22:20.828Z'}], 'last_updated': '2023-05-15T17:03:55.496Z'}, {'uid': 'LSB-00502-02', 'evse_id': 'PT*IMG*E*LSB*00502*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00502-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-05-12T15:22:20.829Z'}], 'last_updated': '2023-05-15T17:03:55.844Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-15T17:03:55.844Z'}
 Removidos:[]
+
+2023-05-15 17:36:08
+Adicionados:[]
+Removidos:['SSB-00008']
+FND-00005
+: 
+ NEW address : Rua Dr. AntÃ³nio JosÃ© Saraiva
+ OLD address : Rua Dr. António José Saraiva
+FND-00005
+: 
+ NEW city : FundÃ£o
+ OLD city : Fundão
+FND-00006
+: 
+ NEW address : Zona Industrial do FundÃ£o
+ OLD address : Zona Industrial do Fundão
+FND-00006
+: 
+ NEW city : FundÃ£o
+ OLD city : Fundão
+LLE-00048
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+MFR-00025
+: 
+ NEW address : Av. Dr. Francisco SÃ¡ Carneiro
+ OLD address : Av. Dr. Francisco Sá Carneiro
+OER-00014
+: 
+ NEW address : Rua AmÃ©lia Rey ColaÃ§o
+ OLD address : Rua Amélia Rey Colaço
+PTM-00003
+: 
+ NEW city : PortimÃ£o
+ OLD city : Portimão
+VNF-00023
+: 
+ NEW address : Rua JosÃ© AntÃ³nio Vidal 81
+ OLD address : Rua José António Vidal 81
+VNF-00023
+: 
+ NEW city : Vila Nova de FamalicÃ£o
+ OLD city : Vila Nova de Famalicão
+VNF-00024
+: 
+ NEW address : Rua JosÃ© AntÃ³nio Vidal 81
+ OLD address : Rua José António Vidal 81
+VNF-00024
+: 
+ NEW city : Vila Nova de FamalicÃ£o
+ OLD city : Vila Nova de Famalicão
