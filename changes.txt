@@ -4480,3 +4480,29 @@ VNF-00024
 : 
  NEW city : Vila Nova de FamalicÃ£o
  OLD city : Vila Nova de Famalicão
+
+2023-05-15 19:10:52
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 3700
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 3700
