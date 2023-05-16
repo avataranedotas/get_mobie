@@ -4532,3 +4532,11 @@ SJM-00003
 : 
  NEW city : São João da Madeira
  OLD city : SÃ£o JoÃ£o da Madeira
+
+2023-05-16 12:30:18
+Adicionados:['BRG-00079', 'BRR-00005']
+
+BRG-00079-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'BRG-00079', 'publish': True, 'address': 'Av. Gen. Carrilho da Silva Pinto 8', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4715-380', 'coordinates': {'latitude': '41.5563082', 'longitude': '-8.3946504'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRG-00079-1', 'evse_id': 'PT*HRZ*E*BRG*00079*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRG-00079-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:42:17.221Z'}], 'last_updated': '2023-05-16T12:06:59.45Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-16T12:06:59.419Z'}
+
+BRR-00005-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'BRR-00005', 'publish': True, 'address': 'Estrada Nacional 10 960 km 18,5', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-411', 'coordinates': {'latitude': '38.583767', 'longitude': '-9.043872'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'BRR-00005-02', 'evse_id': 'PT*MOT*E*BRR*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T13:45:25.469Z'}], 'last_updated': '2023-05-16T11:36:19.815Z'}, {'uid': 'BRR-00005-01', 'evse_id': 'PT*MOT*E*BRR*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T13:45:25.467Z'}], 'last_updated': '2023-05-16T11:36:20.352Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-16T11:36:20.352Z'}
+Removidos:[]
