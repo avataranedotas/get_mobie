@@ -4524,3 +4524,11 @@ Adicionados:['BRR-00004']
 
 BRR-00004-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'BRR-00004', 'publish': True, 'address': 'Estrada Nacional 10 960 km 18,5', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-411', 'coordinates': {'latitude': '38.583751', 'longitude': '-9.044251'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'BRR-00004-01', 'evse_id': 'PT*MOT*E*BRR*00004*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRR-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T13:47:13.065Z'}], 'last_updated': '2023-05-16T09:45:02.0Z'}, {'uid': 'BRR-00004-02', 'evse_id': 'PT*MOT*E*BRR*00004*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRR-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-11T13:47:13.067Z'}], 'last_updated': '2023-05-16T09:45:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-16T09:45:02.0Z'}
 Removidos:['AVR-00027']
+
+2023-05-16 10:36:08
+Adicionados:[]
+Removidos:['LSB-00388', 'SNT-00036']
+SJM-00003
+: 
+ NEW city : São João da Madeira
+ OLD city : SÃ£o JoÃ£o da Madeira
