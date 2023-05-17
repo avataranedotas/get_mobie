@@ -4656,3 +4656,7 @@ PTS-00001
 : 
  NEW address : Azinhaga do Poço Barral N 23
  OLD address : Azinhaga do PoÃ§o Barral N 23
+
+2023-05-17 15:36:15
+Adicionados:[]
+Removidos:['CSC-00057']
