@@ -4666,3 +4666,7 @@ Adicionados:['OER-00172']
 
 OER-00172-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'OER-00172', 'publish': True, 'address': 'Season Scope Alto Barronhos LT 73 C Frc', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2795-132', 'coordinates': {'latitude': '38.7189283', 'longitude': '-9.2296881'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'OER-00172-01', 'evse_id': 'PT*EDP*E*OER*00172*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00172-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-11T10:03:11.079Z'}], 'last_updated': '2023-05-17T15:44:59.961Z'}, {'uid': 'OER-00172-02', 'evse_id': 'PT*EDP*E*OER*00172*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'OER-00172-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-11T10:03:11.079Z'}], 'last_updated': '2023-05-17T15:44:59.961Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-17T15:44:59.92Z'}
 Removidos:['ABF-00050', 'BRR-00019', 'BRR-00020', 'BRR-00021', 'BRR-00023', 'BRR-00024', 'BRR-00025', 'BRR-00027', 'BRR-00030', 'CSC-00073', 'LSA-00003', 'PLM-00025', 'STR-00026', 'TMR-00003', 'TMR-00004', 'VRL-00016']
+
+2023-05-17 16:38:56
+Adicionados:[]
+Removidos:['TMR-00011', 'TMR-00012', 'TMR-00013', 'TMR-00014', 'TMR-00015']
