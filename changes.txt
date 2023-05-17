@@ -4622,3 +4622,37 @@ Removidos:[]
 2023-05-17 14:36:08
 Adicionados:[]
 Removidos:['LSB-00259']
+
+2023-05-17 15:14:31
+Adicionados:['BRG-00061', 'GMR-00082', 'LLE-00060']
+
+BRG-00061-->{'country_code': 'PT', 'party_id': 'EVC', 'id': 'BRG-00061', 'publish': True, 'address': 'BOM JESUS DO MONTE', 'city': 'Braga', 'country': 'PRT', 'postal_code': '4715-056', 'coordinates': {'latitude': '41.5556397', 'longitude': '-8.3766388'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRG-00061-01', 'evse_id': 'PT*EVC*E*BRG*00061*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BRG-00061-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-05-17T14:54:42.54Z'}], 'last_updated': '2023-05-17T14:56:29.067Z'}, {'uid': 'BRG-00061-02', 'evse_id': 'PT*EVC*E*BRG*00061*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'BRG-00061-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-05-17T14:54:42.541Z'}], 'last_updated': '2023-05-17T14:56:30.173Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-17T14:56:30.173Z'}
+
+GMR-00082-->{'country_code': 'PT', 'party_id': 'GEN', 'id': 'GMR-00082', 'publish': True, 'address': 'Alameda estádio D. Afonso Henriques', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4810-420', 'coordinates': {'latitude': '41.445514', 'longitude': '-8.299757'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00082-01', 'evse_id': 'PT*GEN*E*GMR*00082*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00082-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:50:24.111Z'}], 'last_updated': '2023-05-17T14:50:12.359Z'}, {'uid': 'GMR-00082-02', 'evse_id': 'PT*GEN*E*GMR*00082*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00082-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:50:24.112Z'}], 'last_updated': '2023-05-17T14:50:12.498Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-17T14:50:12.498Z'}
+
+LLE-00060-->{'country_code': 'PT', 'party_id': 'LCG', 'id': 'LLE-00060', 'publish': True, 'address': 'Fundação Manuel Viegas Guerreiro', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8104-001', 'coordinates': {'latitude': '37.197764', 'longitude': '-7.986808'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LLE-00060-01', 'evse_id': 'PT*LCG*E*LLE*00060*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LLE-00060-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T14:44:34.808Z'}], 'last_updated': '2023-05-17T14:44:34.808Z'}, {'uid': 'LLE-00060-02', 'evse_id': 'PT*LCG*E*LLE*00060*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LLE-00060-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T14:44:34.809Z'}], 'last_updated': '2023-05-17T14:44:34.809Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-17T14:44:34.806Z'}
+Removidos:[]
+ABF-00050
+coordinates: 
+ NEW latitude : 37.12675
+ OLD latitude : 37.126750
+ABF-00050
+coordinates: 
+ NEW longitude : -8.23719
+ OLD longitude : -8.237000
+ABF-00050
+: 
+ NEW coordinates : {'latitude': '37.12675', 'longitude': '-8.23719'}
+ OLD coordinates : {'latitude': '37.126750', 'longitude': '-8.237000'}
+LGS-00009
+: 
+ NEW address : Rua Pedra Alçada
+ OLD address : Rua Pedra AlÃ§ada
+MCH-00003
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
+PTS-00001
+: 
+ NEW address : Azinhaga do Poço Barral N 23
+ OLD address : Azinhaga do PoÃ§o Barral N 23
