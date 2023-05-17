@@ -8205,3 +8205,6 @@ PRT-00159-01 evses -> 0: status : CHARGING
 
 2023-05-17 13:17:22
 CVD-00003-01 evses -> 1: status : CHARGING
+
+2023-05-17 13:36:09
+CVD-00003-01 evses -> 1: status : CHARGING
