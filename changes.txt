@@ -4618,3 +4618,7 @@ SNT-00036-->{'country_code': 'PT', 'party_id': 'HLX', 'id': 'SNT-00036', 'publis
 
 VIS-00057-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VIS-00057', 'publish': True, 'address': 'Zona Industrial Coimbroes, 106', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-618', 'coordinates': {'latitude': '40.6298011', 'longitude': '-7.8667149'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIS-00057-02', 'evse_id': 'PT*EDP*E*VIS*00057*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00057-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T09:25:09.792Z'}], 'last_updated': '2023-05-17T13:29:13.52Z'}, {'uid': 'VIS-00057-01', 'evse_id': 'PT*EDP*E*VIS*00057*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00057-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T09:25:09.79Z'}], 'last_updated': '2023-05-17T13:29:12.534Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-17T13:29:13.52Z'}
 Removidos:[]
+
+2023-05-17 14:36:08
+Adicionados:[]
+Removidos:['LSB-00259']
