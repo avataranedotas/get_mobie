@@ -8232,3 +8232,6 @@ PRT-00159-01 evses -> 0: status : CHARGING
 
 2023-05-18 11:11:19
 PRT-00159-01 evses -> 0: status : CHARGING
+
+2023-05-18 11:36:07
+PRT-00159-01 evses -> 0: status : CHARGING
