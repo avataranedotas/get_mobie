@@ -4770,3 +4770,13 @@ Adicionados:['BRR-00023']
 
 BRR-00023-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'BRR-00023', 'publish': True, 'address': 'Rua Prof. João Prates, 5', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-277', 'coordinates': {'latitude': '38.65529', 'longitude': '-9.07637'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRR-00023-01', 'evse_id': 'PT*TRK*E*BRR*00023*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T15:48:29.374Z'}], 'last_updated': '2023-05-18T14:10:02.0Z'}, {'uid': 'BRR-00023-02', 'evse_id': 'PT*TRK*E*BRR*00023*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T15:48:29.375Z'}], 'last_updated': '2023-05-18T14:10:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-18T14:10:02.0Z'}
 Removidos:[]
+
+2023-05-18 15:36:00
+Adicionados:['GMR-00062']
+
+GMR-00062-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00062', 'publish': True, 'address': 'Rua 24 de Junho, frente ao nÂº 1561', 'city': 'GuimarÃ£es', 'country': 'PRT', 'postal_code': '4800-076', 'coordinates': {'latitude': '41.45745', 'longitude': '-8.287513'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00062-02', 'evse_id': 'PT*HEX*E*GMR*00062*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00062-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2023-05-18T15:21:04.769Z'}], 'last_updated': '2023-05-18T15:21:04.769Z'}, {'uid': 'GMR-00062-01', 'evse_id': 'PT*HEX*E*GMR*00062*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00062-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2023-05-18T15:21:04.769Z'}], 'last_updated': '2023-05-18T15:21:04.769Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-18T15:21:04.771Z'}
+Removidos:[]
+GMR-00088
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
