@@ -4722,3 +4722,7 @@ Adicionados:['VRL-00016']
 
 VRL-00016-->{'country_code': 'PT', 'party_id': 'NRG', 'id': 'VRL-00016', 'publish': True, 'address': 'R. das Torres das Flores', 'city': 'Vila Real', 'country': 'PRT', 'postal_code': '2965-557', 'coordinates': {'latitude': '41.314269', 'longitude': '-7.731658'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VRL-00016-01', 'evse_id': 'PT*NRG*E*VRL*00016*01', 'status': 'CHARGING', 'connectors': [{'id': 'VRL-00016-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-05-17T15:29:58.348Z'}], 'last_updated': '2023-05-18T08:47:38.483Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-18T08:47:38.483Z'}
 Removidos:[]
+
+2023-05-18 10:14:14
+Adicionados:[]
+Removidos:['EVR-00026', 'LSB-00446', 'PRT-00139', 'SNT-00065', 'SNT-00066']
