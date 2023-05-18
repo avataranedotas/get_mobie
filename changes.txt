@@ -4780,3 +4780,9 @@ GMR-00088
 : 
  NEW city : GuimarÃ£es
  OLD city : Guimarães
+
+2023-05-18 16:18:20
+Adicionados:['GMR-00060']
+
+GMR-00060-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00060', 'publish': True, 'address': 'Rua do Parque Industrial de Ponte', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4805-298', 'coordinates': {'latitude': '41.465163', 'longitude': '-8.331288'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00060-02', 'evse_id': 'PT*HEX*E*GMR*00060*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00060-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:06:04.761Z'}], 'last_updated': '2023-05-18T15:59:17.556Z'}, {'uid': 'GMR-00060-01', 'evse_id': 'PT*HEX*E*GMR*00060*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00060-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2022-10-18T18:06:04.76Z'}], 'last_updated': '2023-05-18T15:59:17.443Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-18T15:59:17.556Z'}
+Removidos:[]
