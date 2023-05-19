@@ -4830,3 +4830,7 @@ GMR-00063
 : 
  NEW city : GuimarÃ£es
  OLD city : Guimarães
+
+2023-05-19 09:36:01
+Adicionados:[]
+Removidos:['ABF-00058']
