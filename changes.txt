@@ -4858,3 +4858,9 @@ ABF-00058-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'ABF-00058', 'publis
 
 MAI-00032-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'MAI-00032', 'publish': True, 'address': 'Rua Dr. Farinhote, 1440', 'city': 'Maia', 'country': 'PRT', 'postal_code': '4470-602', 'coordinates': {'latitude': '41.246694', 'longitude': '-8.664778'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MAI-00032-01', 'evse_id': 'PT*KLS*E*MAI*00032*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00032-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-19T09:34:44.746Z'}], 'last_updated': '2023-05-19T10:27:44.79Z'}, {'uid': 'MAI-00032-02', 'evse_id': 'PT*KLS*E*MAI*00032*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MAI-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-19T09:34:44.747Z'}], 'last_updated': '2023-05-19T10:27:45.801Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-19T10:27:45.801Z'}
 Removidos:[]
+
+2023-05-19 11:36:09
+VNF-00030
+: 
+ NEW city : Vila Nova de FamalicÃ£o
+ OLD city : Vila Nova de Famalicão
