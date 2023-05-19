@@ -4820,3 +4820,13 @@ GMR-00068
 : 
  NEW city : GuimarÃ£es
  OLD city : Guimarães
+
+2023-05-19 09:13:09
+GMR-00063
+: 
+ NEW address : Rua Alfageme SantarÃ©m,frente ao nÂº 64
+ OLD address : Rua Alfageme Santarém,frente ao nº 64
+GMR-00063
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
