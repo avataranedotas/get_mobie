@@ -8260,3 +8260,6 @@ SNT-00103-03 evses -> 1: status : CHARGING
 
 2023-05-19 20:14:29
 GMR-00068-02 evses -> 1: status : CHARGING
+
+2023-05-19 20:36:05
+GMR-00068-02 evses -> 1: status : CHARGING
