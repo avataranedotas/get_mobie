@@ -4806,3 +4806,17 @@ Adicionados:['BRR-00019']
 
 BRR-00019-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'BRR-00019', 'publish': True, 'address': 'Rua das Vieiras 18', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-572', 'coordinates': {'latitude': '38.62409', 'longitude': '-9.04744'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BRR-00019-01', 'evse_id': 'PT*TRK*E*BRR*00019*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRR-00019-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T15:43:17.849Z'}], 'last_updated': '2023-05-19T02:15:02.0Z'}, {'uid': 'BRR-00019-02', 'evse_id': 'PT*TRK*E*BRR*00019*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'BRR-00019-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T15:43:17.851Z'}], 'last_updated': '2023-05-19T02:15:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-19T02:15:02.0Z'}
 Removidos:[]
+
+2023-05-19 08:36:16
+GMR-00060
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
+GMR-00068
+: 
+ NEW address : UrbanizaÃ§Ã£o do Rio
+ OLD address : Urbanização do Rio
+GMR-00068
+: 
+ NEW city : GuimarÃ£es
+ OLD city : Guimarães
