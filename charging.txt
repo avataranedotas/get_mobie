@@ -8244,3 +8244,6 @@ CVD-00003-02 evses -> 0: status : CHARGING
 
 2023-05-19 15:36:00
 CVD-00003-02 evses -> 0: status : CHARGING
+
+2023-05-19 18:16:52
+GMR-00068-02 evses -> 1: status : CHARGING
