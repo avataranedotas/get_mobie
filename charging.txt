@@ -8238,3 +8238,6 @@ PRT-00159-01 evses -> 0: status : CHARGING
 
 2023-05-19 11:36:14
 GMR-00063-01 evses -> 1: status : CHARGING
+
+2023-05-19 15:13:51
+CVD-00003-02 evses -> 0: status : CHARGING
