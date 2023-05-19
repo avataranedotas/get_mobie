@@ -4864,3 +4864,9 @@ VNF-00030
 : 
  NEW city : Vila Nova de FamalicÃ£o
  OLD city : Vila Nova de Famalicão
+
+2023-05-19 16:18:07
+Adicionados:['TMR-00003']
+
+TMR-00003-->{'country_code': 'PT', 'party_id': 'TRK', 'id': 'TMR-00003', 'publish': True, 'address': 'Rua Dr. José Maria de Sousa', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-579', 'coordinates': {'latitude': '39.6037404', 'longitude': '-8.4160801'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TMR-00003-01', 'evse_id': 'PT*TRK*E*TMR*00003*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-17T16:00:36.044Z'}], 'last_updated': '2023-05-19T16:05:02.0Z'}, {'uid': 'TMR-00003-02', 'evse_id': 'PT*TRK*E*TMR*00003*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-17T16:00:36.045Z'}], 'last_updated': '2023-05-19T16:05:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-19T16:05:02.0Z'}
+Removidos:[]
