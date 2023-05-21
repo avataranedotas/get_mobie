@@ -8292,3 +8292,6 @@ OER-00162-1 evses -> 0: status : CHARGING
 
 2023-05-21 17:36:02
 OER-00162-1 evses -> 0: status : CHARGING
+
+2023-05-21 18:16:17
+OER-00162-1 evses -> 0: status : CHARGING
