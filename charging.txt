@@ -8289,3 +8289,6 @@ GDM-00032-02 evses -> 1: status : CHARGING
 
 2023-05-21 17:11:27
 OER-00162-1 evses -> 0: status : CHARGING
+
+2023-05-21 17:36:02
+OER-00162-1 evses -> 0: status : CHARGING
