@@ -5046,3 +5046,9 @@ Adicionados:['LSB-00161']
 
 LSB-00161-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00161', 'publish': True, 'address': 'Avenida João Crisóstomo', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1000-141', 'coordinates': {'latitude': '38.7363758', 'longitude': '-9.1430396'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00161-1', 'evse_id': 'PT*MAK*E*LSB*00161*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00161-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T15:30:09.804Z'}], 'last_updated': '2023-05-22T18:41:39.416Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T18:41:39.416Z'}
 Removidos:[]
+
+2023-05-22 19:35:55
+Adicionados:['LSB-00250']
+
+LSB-00250-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00250', 'publish': True, 'address': 'Rua Latino Coelho', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1050-135', 'coordinates': {'latitude': '38.7319014', 'longitude': '-9.1465638'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00250-1', 'evse_id': 'PT*MAK*E*LSB*00250*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00250-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:11:35.558Z'}], 'last_updated': '2023-05-22T19:20:37.539Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T19:20:37.539Z'}
+Removidos:[]
