@@ -4890,3 +4890,21 @@ LSB-00446-->{'country_code': 'PT', 'party_id': 'GRC', 'id': 'LSB-00446', 'publis
 
 PRT-00139-->{'country_code': 'PT', 'party_id': 'GRC', 'id': 'PRT-00139', 'publish': True, 'address': 'Alameda Basílio Teles, 29', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4150-127', 'coordinates': {'latitude': '41.1471291', 'longitude': '-8.6317776'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00139-1', 'evse_id': 'PT*GRC*E*PRT*00139*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00139-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 180000, 'last_updated': '2023-01-27T20:44:48.023Z'}], 'last_updated': '2023-05-21T12:53:21.764Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-21T12:53:21.764Z'}
 Removidos:[]
+
+2023-05-22 08:18:09
+Adicionados:['VLG-00024']
+
+VLG-00024-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VLG-00024', 'publish': True, 'address': 'R. Tristão Vaz Teixeira 260', 'city': 'Valongo', 'country': 'PRT', 'postal_code': '4440-702', 'coordinates': {'latitude': '41.1968052', 'longitude': '-8.5112286'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VLG-00024-01', 'evse_id': 'PT*HRZ*E*VLG*00024*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-18T10:02:02.614Z'}], 'last_updated': '2023-05-22T08:11:49.748Z'}, {'uid': 'VLG-00024-05', 'evse_id': 'PT*HRZ*E*VLG*00024*05', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-18T10:02:02.627Z'}], 'last_updated': '2023-05-22T08:11:49.753Z'}, {'uid': 'VLG-00024-06', 'evse_id': 'PT*HRZ*E*VLG*00024*06', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-18T10:02:02.63Z'}], 'last_updated': '2023-05-22T08:11:49.756Z'}, {'uid': 'VLG-00024-02', 'evse_id': 'PT*HRZ*E*VLG*00024*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-18T10:02:02.618Z'}], 'last_updated': '2023-05-22T08:11:49.758Z'}, {'uid': 'VLG-00024-03', 'evse_id': 'PT*HRZ*E*VLG*00024*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-18T10:02:02.622Z'}], 'last_updated': '2023-05-22T08:11:49.757Z'}, {'uid': 'VLG-00024-04', 'evse_id': 'PT*HRZ*E*VLG*00024*04', 'status': 'AVAILABLE', 'connectors': [{'id': 'VLG-00024-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-18T10:02:02.625Z'}], 'last_updated': '2023-05-22T08:11:49.75Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T08:11:49.758Z'}
+Removidos:['GMR-00088']
+GMR-00060
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+GMR-00062
+: 
+ NEW address : Rua 24 de Junho, frente ao nº 1561
+ OLD address : Rua 24 de Junho, frente ao nÂº 1561
+GMR-00062
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
