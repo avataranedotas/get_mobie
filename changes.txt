@@ -4916,3 +4916,9 @@ BRR-00022
 : 
  NEW address : Rua João Azevedo do Carmo
  OLD address : Rua JoÃ£o Azevedo do Carmo
+
+2023-05-22 09:14:23
+Adicionados:['PRD-00014']
+
+PRD-00014-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'PRD-00014', 'publish': True, 'address': 'BK Paredes R. da Igreja Velha', 'city': 'Paredes', 'country': 'PRT', 'postal_code': '4580-113', 'coordinates': {'latitude': '41.2049663', 'longitude': '-8.3257573'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRD-00014-01', 'evse_id': 'PT*EDP*E*PRD*00014*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRD-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-05-22T08:29:06.678Z'}], 'last_updated': '2023-05-22T08:40:40.474Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T08:40:40.474Z'}
+Removidos:['BRR-00022']
