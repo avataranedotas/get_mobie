@@ -4948,3 +4948,7 @@ ARC-00004-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ARC-00004', 'publis
 
 GMR-00068-->{'country_code': 'PT', 'party_id': 'HEX', 'id': 'GMR-00068', 'publish': True, 'address': 'Urbanização do Rio', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4805-313', 'coordinates': {'latitude': '41.480173', 'longitude': '-8.345515'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00068-02', 'evse_id': 'PT*HEX*E*GMR*00068*02', 'status': 'CHARGING', 'connectors': [{'id': 'GMR-00068-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 12, 'max_electric_power': 8300, 'last_updated': '2023-05-22T08:18:34.452Z'}], 'last_updated': '2023-05-22T13:48:23.47Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T13:48:23.47Z'}
 Removidos:[]
+
+2023-05-22 15:15:33
+Adicionados:[]
+Removidos:['BRR-00008', 'BRR-00009', 'BRR-00010', 'BRR-00011', 'CSC-00062', 'CSC-00063', 'CSC-00065']
