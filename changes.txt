@@ -4908,3 +4908,11 @@ GMR-00062
 : 
  NEW city : Guimarães
  OLD city : GuimarÃ£es
+
+2023-05-22 08:36:25
+Adicionados:[]
+Removidos:['GMR-00060', 'GMR-00062', 'GMR-00063', 'GMR-00068', 'MCN-00006', 'PRD-00014', 'VNF-00015']
+BRR-00022
+: 
+ NEW address : Rua João Azevedo do Carmo
+ OLD address : Rua JoÃ£o Azevedo do Carmo
