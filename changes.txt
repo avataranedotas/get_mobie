@@ -5258,3 +5258,7 @@ VLG-00025
 evses -> 5 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 120000
+
+2023-05-23 12:27:40
+Adicionados:[]
+Removidos:['SNS-00012']
