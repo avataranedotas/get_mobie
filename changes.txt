@@ -5076,3 +5076,17 @@ Adicionados:['LSB-00443']
 
 LSB-00443-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00443', 'publish': True, 'address': 'Rua S. Bento, 209 a 215', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-219', 'coordinates': {'latitude': '38.7161432', 'longitude': '-9.1542867'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-00443-1', 'evse_id': 'PT*MAK*E*LSB*00443*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00443-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:03:11.43Z'}], 'last_updated': '2023-05-22T21:37:30.904Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-22T21:37:30.904Z'}
 Removidos:[]
+
+2023-05-23 01:13:11
+GRD-00013
+coordinates: 
+ NEW latitude : 40.5588403
+ OLD latitude : 40.5546829
+GRD-00013
+coordinates: 
+ NEW longitude : -7.2506535
+ OLD longitude : -7.253171
+GRD-00013
+: 
+ NEW coordinates : {'latitude': '40.5588403', 'longitude': '-7.2506535'}
+ OLD coordinates : {'latitude': '40.5546829', 'longitude': '-7.253171'}
