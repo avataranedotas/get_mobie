@@ -5172,3 +5172,29 @@ VNG-00052-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'VNG-00052', 'publis
 
 VNG-00053-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'VNG-00053', 'publish': True, 'address': 'Rua Álvares Cabral', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-017', 'coordinates': {'latitude': '41.129914', 'longitude': '-8.608669'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00053-1', 'evse_id': 'PT*MAK*E*VNG*00053*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00053-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T18:39:19.576Z'}], 'last_updated': '2023-05-23T07:31:08.256Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-23T07:31:08.256Z'}
 Removidos:[]
+
+2023-05-23 11:11:26
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
