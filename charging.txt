@@ -8307,3 +8307,6 @@ LRA-00090-03 evses -> 0: status : CHARGING
 
 2023-05-23 08:17:58
 MCN-00006-02 evses -> 1: status : CHARGING
+
+2023-05-23 09:13:48
+BJA-00018-02 evses -> 0: status : CHARGING
