@@ -8317,3 +8317,6 @@ MCN-00006-01 evses -> 0: status : CHARGING
 2023-05-23 13:17:55
 MCN-00006-01 evses -> 0: status : CHARGING
 VLG-00024-03 evses -> 4: status : CHARGING
+
+2023-05-23 13:36:05
+MCN-00006-01 evses -> 0: status : CHARGING
