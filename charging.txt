@@ -8324,3 +8324,7 @@ MCN-00006-01 evses -> 0: status : CHARGING
 2023-05-23 19:12:22
 OER-00172-02 evses -> 1: status : CHARGING
 VNF-00030-01 evses -> 1: status : CHARGING
+
+2023-05-23 19:36:10
+OER-00172-02 evses -> 1: status : CHARGING
+VNF-00030-01 evses -> 1: status : CHARGING
