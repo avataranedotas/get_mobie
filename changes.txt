@@ -5344,3 +5344,29 @@ LSB-00441-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00441', 'publis
 
 PRT-00057-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'PRT-00057', 'publish': True, 'address': 'Praça D. João I', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4000-295', 'coordinates': {'latitude': '41.1474252', 'longitude': '-8.611527'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00057-1', 'evse_id': 'PT*MAK*E*PRT*00057*1', 'status': 'CHARGING', 'connectors': [{'id': 'PRT-00057-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-23T15:37:07.268Z'}], 'last_updated': '2023-05-23T18:44:03.794Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-23T18:44:03.794Z'}
 Removidos:[]
+
+2023-05-23 20:14:29
+Adicionados:['LSB-00119', 'LSB-00158', 'LSB-00243']
+
+LSB-00119-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00119', 'publish': True, 'address': 'Praça dos Restauradores', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-188', 'coordinates': {'latitude': '38.7167956', 'longitude': '-9.1429162'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00119-1', 'evse_id': 'PT*MAK*E*LSB*00119*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00119-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-23T15:45:46.006Z'}], 'last_updated': '2023-05-23T20:00:38.071Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-23T20:00:38.071Z'}
+
+LSB-00158-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00158', 'publish': True, 'address': 'Rua Alves Redol', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1049-001', 'coordinates': {'latitude': '38.7360467', 'longitude': '-9.1403576'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00158-1', 'evse_id': 'PT*MAK*E*LSB*00158*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00158-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-23T16:06:32.964Z'}], 'last_updated': '2023-05-23T19:32:35.855Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-23T19:32:35.855Z'}
+
+LSB-00243-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00243', 'publish': True, 'address': 'Av. Miguel Bombarda', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1050-161', 'coordinates': {'latitude': '38.73711', 'longitude': '-9.14782'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00243-1', 'evse_id': 'PT*MAK*E*LSB*00243*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00243-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-23T15:52:41.914Z'}], 'last_updated': '2023-05-23T19:45:20.352Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-23T19:45:20.352Z'}
+Removidos:[]
+ALQ-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+ALQ-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+FAR-00035
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+FAR-00035
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
