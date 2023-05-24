@@ -5552,3 +5552,7 @@ ALM-00057-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ALM-00057', 'publis
 
 ELV-00008-->{'country_code': 'PT', 'party_id': 'MOA', 'id': 'ELV-00008', 'publish': True, 'address': 'AV BADAJOZ', 'city': 'Elvas', 'country': 'PRT', 'postal_code': '7350-325', 'coordinates': {'latitude': '38.8776397', 'longitude': '-7.17197'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ELV-00008-01', 'evse_id': 'PT*MOA*E*ELV*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ELV-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-10T09:43:25.549Z'}], 'last_updated': '2023-05-24T15:53:47.017Z'}, {'uid': 'ELV-00008-02', 'evse_id': 'PT*MOA*E*ELV*00008*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ELV-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-10T09:43:25.55Z'}], 'last_updated': '2023-05-24T15:53:47.015Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T15:53:47.017Z'}
 Removidos:['PNF-00010', 'PSR-00002', 'PTM-00028']
+
+2023-05-24 16:39:20
+Adicionados:[]
+Removidos:['STR-00027', 'STR-00028', 'STR-00033', 'SXL-00041', 'SXL-00042']
