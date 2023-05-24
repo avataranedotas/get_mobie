@@ -5370,3 +5370,11 @@ FAR-00035
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2023-05-24 07:12:47
+Adicionados:['LSB-00229', 'LSB-00428']
+
+LSB-00229-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00229', 'publish': True, 'address': 'Praça Marquês de Pombal', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-000', 'coordinates': {'latitude': '38.72636', 'longitude': '-9.15117'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00229-1', 'evse_id': 'PT*MAK*E*LSB*00229*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00229-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-23T15:33:40.049Z'}], 'last_updated': '2023-05-24T06:59:19.861Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T06:59:19.861Z'}
+
+LSB-00428-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00428', 'publish': True, 'address': 'Avenida Fontes Pereira de Melo', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1050-105', 'coordinates': {'latitude': '38.7323911', 'longitude': '-9.1455528'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00428-1', 'evse_id': 'PT*MAK*E*LSB*00428*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00428-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:02:54.292Z'}], 'last_updated': '2023-05-24T06:51:22.291Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T06:51:22.291Z'}
+Removidos:[]
