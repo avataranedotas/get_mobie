@@ -8335,3 +8335,6 @@ VNF-00030-01 evses -> 1: status : CHARGING
 
 2023-05-23 21:12:06
 MGR-00009-01 evses -> 0: status : CHARGING
+
+2023-05-24 13:36:04
+ADV-00006-01 evses -> 1: status : CHARGING
