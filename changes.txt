@@ -5604,3 +5604,9 @@ Removidos:[]
 2023-05-24 20:14:24
 Adicionados:[]
 Removidos:['MTA-00006', 'OER-00018']
+
+2023-05-24 20:36:09
+Adicionados:['OER-00018']
+
+OER-00018-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'OER-00018', 'publish': True, 'address': 'Av. Prof. Dr. Cavaco Silva', 'city': 'Oeiras', 'country': 'PRT', 'postal_code': '2740-255', 'coordinates': {'latitude': '38.7394527', 'longitude': '-9.3039625'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'OER-00018-1', 'evse_id': 'PT*KLC*E*OER*00018*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'OER-00018-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:32:09.618Z'}], 'last_updated': '2023-05-24T20:09:22.131Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T20:09:22.131Z'}
+Removidos:['OER-00137', 'PTL-00005']
