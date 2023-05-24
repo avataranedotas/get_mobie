@@ -5620,3 +5620,7 @@ Removidos:[]
 2023-05-24 21:35:59
 Adicionados:[]
 Removidos:['ELV-00008']
+
+2023-05-24 22:12:48
+Adicionados:[]
+Removidos:['BRG-00072', 'BRG-00073']
