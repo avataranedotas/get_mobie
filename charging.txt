@@ -8347,3 +8347,6 @@ GDM-00031-01 evses -> 1: status : CHARGING
 
 2023-05-24 17:36:03
 GDM-00031-01 evses -> 1: status : CHARGING
+
+2023-05-24 19:36:05
+MCN-00006-02 evses -> 1: status : CHARGING
