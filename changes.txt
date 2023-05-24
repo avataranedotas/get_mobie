@@ -5624,3 +5624,7 @@ Removidos:['ELV-00008']
 2023-05-24 22:12:48
 Adicionados:[]
 Removidos:['BRG-00072', 'BRG-00073']
+
+2023-05-24 22:36:09
+Adicionados:[]
+Removidos:['CHV-00005', 'CLD-00009']
