@@ -8341,3 +8341,6 @@ ADV-00006-01 evses -> 1: status : CHARGING
 
 2023-05-24 14:13:18
 ADV-00006-01 evses -> 1: status : CHARGING
+
+2023-05-24 17:12:19
+GDM-00031-01 evses -> 1: status : CHARGING
