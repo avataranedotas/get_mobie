@@ -5600,3 +5600,7 @@ Adicionados:['PSR-00002']
 
 PSR-00002-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PSR-00002', 'publish': True, 'address': 'Zona Industrial da Salgueirinha', 'city': 'Ponte de Sôr', 'country': 'PRT', 'postal_code': '7400-401', 'coordinates': {'latitude': '39.2678546', 'longitude': '-8.0132831'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PSR-00002-03', 'evse_id': 'PT*KLC*E*PSR*00002*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PSR-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-05-24T15:56:56.206Z'}], 'last_updated': '2023-05-24T19:28:09.999Z'}, {'uid': 'PSR-00002-01', 'evse_id': 'PT*KLC*E*PSR*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PSR-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-05-24T15:56:56.204Z'}], 'last_updated': '2023-05-24T19:28:07.99Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T19:28:09.999Z'}
 Removidos:[]
+
+2023-05-24 20:14:24
+Adicionados:[]
+Removidos:['MTA-00006', 'OER-00018']
