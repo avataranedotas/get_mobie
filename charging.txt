@@ -8353,3 +8353,6 @@ MCN-00006-02 evses -> 1: status : CHARGING
 
 2023-05-24 20:36:14
 OER-00172-01 evses -> 0: status : CHARGING
+
+2023-05-24 21:11:07
+OER-00172-01 evses -> 0: status : CHARGING
