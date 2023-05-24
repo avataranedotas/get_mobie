@@ -5412,3 +5412,7 @@ PRT-00054-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'PRT-00054', 'publis
 
 VNG-00049-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'VNG-00049', 'publish': True, 'address': 'Rua General Torres', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4430-180', 'coordinates': {'latitude': '41.1387293', 'longitude': '-8.6095181'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00049-1', 'evse_id': 'PT*MAK*E*VNG*00049*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00049-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T18:39:25.955Z'}], 'last_updated': '2023-05-24T07:31:43.205Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T07:31:43.205Z'}
 Removidos:[]
+
+2023-05-24 08:17:49
+Adicionados:[]
+Removidos:['ABF-00029']
