@@ -5508,3 +5508,21 @@ ADV-00006
 : 
  NEW city : AlmodÃ´var
  OLD city : Almodôvar
+
+2023-05-24 14:36:06
+Adicionados:['LSB-00549']
+
+LSB-00549-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LSB-00549', 'publish': True, 'address': 'Av. Alm. Reis 64,', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1150-020', 'coordinates': {'latitude': '38.727125', 'longitude': '-9.1347005'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00549-01', 'evse_id': 'PT*KLC*E*LSB*00549*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00549-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2022-12-07T16:19:16.788Z'}], 'last_updated': '2023-05-24T14:26:50.262Z'}, {'uid': 'LSB-00549-02', 'evse_id': 'PT*KLC*E*LSB*00549*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00549-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2022-12-07T16:19:16.789Z'}], 'last_updated': '2023-05-24T14:26:50.598Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-24T14:26:50.598Z'}
+Removidos:['ADV-00006', 'LSB-00588']
+AMD-00054
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+AMD-00054
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+AMD-00054
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
