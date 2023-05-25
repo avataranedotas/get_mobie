@@ -5966,3 +5966,9 @@ ABT-00023-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'ABT-00023', 'publis
 
 PLM-00013-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'PLM-00013', 'publish': True, 'address': 'Vilas do Terrim', 'city': 'Palmela', 'country': 'PRT', 'postal_code': '2955-267', 'coordinates': {'latitude': '38.6192158', 'longitude': '-8.919838'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PLM-00013-02', 'evse_id': 'PT*KLC*E*PLM*00013*02', 'status': 'CHARGING', 'connectors': [{'id': 'PLM-00013-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-25T12:27:04.983Z'}], 'last_updated': '2023-05-25T18:04:06.897Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T18:04:06.897Z'}
 Removidos:[]
+
+2023-05-25 18:36:22
+Adicionados:['SLV-00008']
+
+SLV-00008-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SLV-00008', 'publish': True, 'address': 'Lugar da Torre, Lote C1', 'city': 'Silves', 'country': 'PRT', 'postal_code': '8365-184', 'coordinates': {'latitude': '37.106297', 'longitude': '-8.359473'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SLV-00008-01', 'evse_id': 'PT*KLC*E*SLV*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SLV-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-25T12:48:11.686Z'}], 'last_updated': '2023-05-25T18:13:25.143Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T18:13:25.143Z'}
+Removidos:[]
