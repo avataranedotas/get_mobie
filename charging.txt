@@ -8402,3 +8402,6 @@ AMD-00043-1 evses -> 0: status : CHARGING
 
 2023-05-25 10:14:53
 AMD-00043-1 evses -> 0: status : CHARGING
+
+2023-05-25 10:36:01
+AMD-00043-1 evses -> 0: status : CHARGING
