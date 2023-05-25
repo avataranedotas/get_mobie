@@ -8432,3 +8432,6 @@ GMR-00088-02 evses -> 1: status : CHARGING
 
 2023-05-25 20:36:19
 GMR-00088-02 evses -> 1: status : CHARGING
+
+2023-05-25 21:11:54
+GMR-00088-02 evses -> 1: status : CHARGING
