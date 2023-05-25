@@ -5690,3 +5690,7 @@ Adicionados:['ABT-00008']
 
 ABT-00008-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'ABT-00008', 'publish': True, 'address': 'R. Cidade de Parthenay 50,', 'city': 'Abrantes', 'country': 'PRT', 'postal_code': '2200-298', 'coordinates': {'latitude': '39.4666163', 'longitude': '-8.2069895'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABT-00008-02', 'evse_id': 'PT*KLC*E*ABT*00008*02', 'status': 'CHARGING', 'connectors': [{'id': 'ABT-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 160, 'max_electric_power': 60000, 'last_updated': '2023-05-24T08:07:33.463Z'}], 'last_updated': '2023-05-25T07:52:05.176Z'}, {'uid': 'ABT-00008-01', 'evse_id': 'PT*KLC*E*ABT*00008*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'ABT-00008-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-24T08:07:33.462Z'}], 'last_updated': '2023-05-25T07:52:04.179Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T07:52:05.176Z'}
 Removidos:['BRG-00074', 'LSB-00458']
+
+2023-05-25 08:36:09
+Adicionados:[]
+Removidos:['OER-00095', 'PRT-00165']
