@@ -5656,3 +5656,7 @@ Removidos:['MNC-00004']
 2023-05-25 02:21:43
 Adicionados:[]
 Removidos:['OER-00096']
+
+2023-05-25 02:44:39
+Adicionados:[]
+Removidos:['STB-00015']

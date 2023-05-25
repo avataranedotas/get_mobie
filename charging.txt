@@ -8378,3 +8378,6 @@ OER-00172-01 evses -> 0: status : CHARGING
 
 2023-05-25 02:21:47
 OER-00172-01 evses -> 0: status : CHARGING
+
+2023-05-25 02:44:43
+OER-00172-01 evses -> 0: status : CHARGING
