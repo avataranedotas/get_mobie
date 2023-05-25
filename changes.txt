@@ -5652,3 +5652,7 @@ FUN-00030
 2023-05-25 01:13:35
 Adicionados:[]
 Removidos:['MNC-00004']
+
+2023-05-25 02:21:43
+Adicionados:[]
+Removidos:['OER-00096']
