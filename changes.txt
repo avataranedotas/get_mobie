@@ -5978,3 +5978,9 @@ Adicionados:['OHP-00005']
 
 OHP-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'OHP-00005', 'publish': True, 'address': 'Rotunda do Empresário - Zona Industrial', 'city': 'Oliveira do Hospital', 'country': 'PRT', 'postal_code': '3400-060', 'coordinates': {'latitude': '40.36125', 'longitude': '-7.855306'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OHP-00005-02', 'evse_id': 'PT*KLC*E*OHP*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OHP-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-25T12:20:07.4Z'}], 'last_updated': '2023-05-25T19:38:41.704Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T19:38:41.704Z'}
 Removidos:[]
+
+2023-05-25 20:36:15
+Adicionados:['VNG-00106']
+
+VNG-00106-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VNG-00106', 'publish': True, 'address': 'Estr. Brito,', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4410-205', 'coordinates': {'latitude': '41.0272313', 'longitude': '-8.6358682'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNG-00106-02', 'evse_id': 'PT*KLC*E*VNG*00106*02', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00106-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-25T13:54:26.993Z'}], 'last_updated': '2023-05-25T20:26:28.113Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T20:26:28.113Z'}
+Removidos:[]
