@@ -5648,3 +5648,7 @@ FUN-00030
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2023-05-25 01:13:35
+Adicionados:[]
+Removidos:['MNC-00004']
