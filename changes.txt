@@ -5972,3 +5972,9 @@ Adicionados:['SLV-00008']
 
 SLV-00008-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SLV-00008', 'publish': True, 'address': 'Lugar da Torre, Lote C1', 'city': 'Silves', 'country': 'PRT', 'postal_code': '8365-184', 'coordinates': {'latitude': '37.106297', 'longitude': '-8.359473'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SLV-00008-01', 'evse_id': 'PT*KLC*E*SLV*00008*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SLV-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-25T12:48:11.686Z'}], 'last_updated': '2023-05-25T18:13:25.143Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T18:13:25.143Z'}
 Removidos:[]
+
+2023-05-25 20:14:25
+Adicionados:['OHP-00005']
+
+OHP-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'OHP-00005', 'publish': True, 'address': 'Rotunda do Empresário - Zona Industrial', 'city': 'Oliveira do Hospital', 'country': 'PRT', 'postal_code': '3400-060', 'coordinates': {'latitude': '40.36125', 'longitude': '-7.855306'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'OHP-00005-02', 'evse_id': 'PT*KLC*E*OHP*00005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'OHP-00005-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-25T12:20:07.4Z'}], 'last_updated': '2023-05-25T19:38:41.704Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T19:38:41.704Z'}
+Removidos:[]
