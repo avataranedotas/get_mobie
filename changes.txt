@@ -5660,3 +5660,9 @@ Removidos:['OER-00096']
 2023-05-25 02:44:39
 Adicionados:[]
 Removidos:['STB-00015']
+
+2023-05-25 03:14:53
+Adicionados:['STB-00015']
+
+STB-00015-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STB-00015', 'publish': True, 'address': 'Quinta do Esteval', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2900-725', 'coordinates': {'latitude': '38.522612', 'longitude': '-8.945479'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00015-02', 'evse_id': 'PT*HRZ*E*STB*00015*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00015-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:11:23.122Z'}], 'last_updated': '2023-05-25T02:37:07.26Z'}, {'uid': 'STB-00015-01', 'evse_id': 'PT*HRZ*E*STB*00015*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STB-00015-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-14T04:11:23.12Z'}], 'last_updated': '2023-05-25T02:37:06.666Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-25T02:37:07.26Z'}
+Removidos:['STS-00012']
