@@ -8423,3 +8423,6 @@ SXL-00039-01 evses -> 1: status : CHARGING
 
 2023-05-25 18:17:16
 SXL-00039-01 evses -> 1: status : CHARGING
+
+2023-05-25 19:36:10
+GMR-00088-02 evses -> 1: status : CHARGING
