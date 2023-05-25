@@ -8396,3 +8396,6 @@ OER-00172-01 evses -> 0: status : CHARGING
 
 2023-05-25 09:13:49
 AMD-00043-1 evses -> 0: status : CHARGING
+
+2023-05-25 09:36:21
+AMD-00043-1 evses -> 0: status : CHARGING
