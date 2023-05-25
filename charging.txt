@@ -8390,3 +8390,6 @@ OER-00172-01 evses -> 0: status : CHARGING
 
 2023-05-25 04:16:44
 OER-00172-01 evses -> 0: status : CHARGING
+
+2023-05-25 04:36:13
+OER-00172-01 evses -> 0: status : CHARGING
