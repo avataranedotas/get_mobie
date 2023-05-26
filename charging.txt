@@ -8459,3 +8459,6 @@ ELV-00008-01 evses -> 0: status : CHARGING
 
 2023-05-26 16:38:27
 LRS-00094-01 evses -> 1: status : CHARGING
+
+2023-05-26 17:13:08
+OER-00162-1 evses -> 0: status : CHARGING
