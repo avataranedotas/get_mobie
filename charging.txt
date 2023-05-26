@@ -8441,3 +8441,6 @@ TVD-00030-02 evses -> 1: status : CHARGING
 
 2023-05-26 10:36:14
 TVD-00030-02 evses -> 1: status : CHARGING
+
+2023-05-26 13:16:35
+MFR-00009-02 evses -> 0: status : CHARGING
