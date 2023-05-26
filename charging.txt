@@ -8447,3 +8447,6 @@ MFR-00009-02 evses -> 0: status : CHARGING
 
 2023-05-26 13:36:05
 MFR-00009-02 evses -> 0: status : CHARGING
+
+2023-05-26 15:13:47
+ELV-00008-01 evses -> 0: status : CHARGING
