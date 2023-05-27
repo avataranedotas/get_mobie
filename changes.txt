@@ -6400,3 +6400,7 @@ LSB-00338-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00338', 'publis
 
 LSB-00339-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00339', 'publish': True, 'address': 'Aeroporto de Lisboa, Parque P2', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1700-111', 'coordinates': {'latitude': '38.770822', 'longitude': '-9.128186'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00339-01', 'evse_id': 'PT*GLP*E*LSB*00339*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00339-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T20:00:58.572Z'}], 'last_updated': '2023-05-27T19:07:37.775Z'}, {'uid': 'LSB-00339-02', 'evse_id': 'PT*GLP*E*LSB*00339*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00339-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T20:00:58.574Z'}], 'last_updated': '2023-05-27T19:07:37.472Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-27T19:07:37.775Z'}
 Removidos:[]
+
+2023-05-27 20:13:49
+Adicionados:[]
+Removidos:['LSB-00468', 'LSB-00478', 'LSB-00482']
