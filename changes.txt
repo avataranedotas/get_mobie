@@ -6404,3 +6404,9 @@ Removidos:[]
 2023-05-27 20:13:49
 Adicionados:[]
 Removidos:['LSB-00468', 'LSB-00478', 'LSB-00482']
+
+2023-05-27 20:36:13
+Adicionados:['LSB-00482']
+
+LSB-00482-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00482', 'publish': True, 'address': 'Rua da Junqueira, 63', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1300-343', 'coordinates': {'latitude': '38.698305', 'longitude': '-9.186639'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00482-02', 'evse_id': 'PT*GLP*E*LSB*00482*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00482-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-03-13T20:03:59.843Z'}], 'last_updated': '2023-05-27T20:12:17.367Z'}, {'uid': 'LSB-00482-01', 'evse_id': 'PT*GLP*E*LSB*00482*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00482-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-03-13T20:03:59.842Z'}], 'last_updated': '2023-05-27T20:12:16.96Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-27T20:12:17.367Z'}
+Removidos:['LSB-00496']
