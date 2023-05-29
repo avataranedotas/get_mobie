@@ -8496,3 +8496,8 @@ STB-00016-03 evses -> 0: status : CHARGING
 2023-05-29 16:18:02
 PVZ-00029-01 evses -> 1: status : CHARGING
 STB-00016-03 evses -> 0: status : CHARGING
+
+2023-05-29 16:38:18
+CTB-00023-1 evses -> 0: status : CHARGING
+CTB-00023-1 evses -> 0: status : CHARGING
+STB-00016-03 evses -> 0: status : CHARGING
