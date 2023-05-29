@@ -6552,3 +6552,9 @@ Adicionados:['LLE-00118']
 
 LLE-00118-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LLE-00118', 'publish': True, 'address': 'Sítio das Quintinhas', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8125-300', 'coordinates': {'latitude': '37.1144709', 'longitude': '-8.1471396'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00118-01', 'evse_id': 'PT*GLP*E*LLE*00118*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00118-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-05-26T09:08:16.68Z'}], 'last_updated': '2023-05-29T07:39:40.044Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-29T07:39:40.044Z'}
 Removidos:[]
+
+2023-05-29 09:36:04
+Adicionados:['BRR-00032']
+
+BRR-00032-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'BRR-00032', 'publish': True, 'address': 'Terminal Rodo Ferro Fluvial 0', 'city': 'Barreiro', 'country': 'PRT', 'postal_code': '2830-277', 'coordinates': {'latitude': '38.6545269', 'longitude': '-9.0783676'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'BRR-00032-02', 'evse_id': 'PT*KLC*E*BRR*00032*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'BRR-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-24T09:17:08.362Z'}], 'last_updated': '2023-05-29T09:20:47.423Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-29T09:20:47.423Z'}
+Removidos:[]
