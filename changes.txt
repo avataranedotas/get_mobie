@@ -6740,3 +6740,9 @@ CVL-00006
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 43000
+
+2023-05-29 18:16:50
+Adicionados:['MLD-90002']
+
+MLD-90002-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'MLD-90002', 'publish': True, 'address': 'Avenida Dr. Manuel Lousada', 'city': 'Mealhada', 'country': 'PRT', 'postal_code': '3050-345', 'coordinates': {'latitude': '40.375722', 'longitude': '-8.453389'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'MLD-90002-1', 'evse_id': 'PT*EDP*E*MLD*90002*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'MLD-90002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-26T15:05:29.194Z'}], 'last_updated': '2023-05-29T18:10:02.0Z'}, {'uid': 'MLD-90002-2', 'evse_id': 'PT*EDP*E*MLD*90002*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'MLD-90002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-26T15:05:29.195Z'}], 'last_updated': '2023-05-29T18:10:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-29T18:10:02.0Z'}
+Removidos:[]
