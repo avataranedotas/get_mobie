@@ -8564,3 +8564,6 @@ PRT-00193-02 evses -> 1: status : CHARGING
 CTB-00027-02 evses -> 0: status : CHARGING
 MTJ-00033-01 evses -> 0: status : CHARGING
 PRT-00193-02 evses -> 1: status : CHARGING
+
+2023-05-30 13:17:15
+STB-00016-02 evses -> 1: status : CHARGING
