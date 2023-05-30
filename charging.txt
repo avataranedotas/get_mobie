@@ -8567,3 +8567,6 @@ PRT-00193-02 evses -> 1: status : CHARGING
 
 2023-05-30 13:17:15
 STB-00016-02 evses -> 1: status : CHARGING
+
+2023-05-30 17:11:00
+STB-00016-01 evses -> 2: status : CHARGING
