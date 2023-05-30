@@ -6820,3 +6820,7 @@ Adicionados:['LSB-00516']
 
 LSB-00516-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'LSB-00516', 'publish': True, 'address': 'Avenida Lusíada, 1500-392 Lisboa', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1500-392', 'coordinates': {'latitude': '38.754166', 'longitude': '-9.189444'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00516-02', 'evse_id': 'PT*GLP*E*LSB*00516*02', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00516-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-13T17:48:20.387Z'}], 'last_updated': '2023-05-30T15:26:08.764Z'}, {'uid': 'LSB-00516-01', 'evse_id': 'PT*GLP*E*LSB*00516*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00516-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-13T17:48:20.386Z'}], 'last_updated': '2023-05-30T15:25:31.424Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-30T15:26:08.764Z'}
 Removidos:[]
+
+2023-05-30 16:36:02
+Adicionados:[]
+Removidos:['AMD-00077', 'GMR-00048', 'GMR-00050', 'GMR-00051', 'LLE-00094', 'LLE-00095', 'LLE-00097', 'LLE-00098', 'VIS-00019', 'VIS-00029']
