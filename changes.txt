@@ -6810,3 +6810,7 @@ Adicionados:['MGR-00005']
 
 MGR-00005-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'MGR-00005', 'publish': True, 'address': 'Av. Marginal', 'city': 'Marinha Grande', 'country': 'PRT', 'postal_code': '2430-696', 'coordinates': {'latitude': '39.8764047', 'longitude': '-8.9702928'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MGR-00005-01', 'evse_id': 'PT*HRZ*E*MGR*00005*01', 'status': 'CHARGING', 'connectors': [{'id': 'MGR-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2023-05-29T11:07:33.271Z'}], 'last_updated': '2023-05-30T13:39:36.952Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-30T13:39:36.952Z'}
 Removidos:[]
+
+2023-05-30 15:14:22
+Adicionados:[]
+Removidos:['LSB-00516']
