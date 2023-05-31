@@ -8632,3 +8632,6 @@ STB-00016-01 evses -> 2: status : CHARGING
 
 2023-05-31 18:17:41
 STB-00016-03 evses -> 0: status : CHARGING
+
+2023-05-31 18:36:31
+STB-00016-03 evses -> 0: status : CHARGING
