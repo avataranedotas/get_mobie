@@ -8602,3 +8602,6 @@ ABT-00023-04 evses -> 3: status : CHARGING
 LRS-00093-03 evses -> 0: status : CHARGING
 LRS-00093-03 evses -> 0: status : CHARGING
 STB-00016-02 evses -> 1: status : CHARGING
+
+2023-05-31 13:17:44
+STB-00016-02 evses -> 1: status : CHARGING
