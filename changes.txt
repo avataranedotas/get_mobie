@@ -6980,3 +6980,53 @@ ELV-00005-->{'country_code': 'PT', 'party_id': 'REP', 'id': 'ELV-00005', 'publis
 
 MFR-00003-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'MFR-00003', 'publish': True, 'address': 'Parque Intermodal do Alto da Vela', 'city': 'Mafra', 'country': 'PRT', 'postal_code': '2640-509', 'coordinates': {'latitude': '38.932816', 'longitude': '-9.326948'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MFR-00003-2', 'evse_id': 'PT*MLT*E*MFR*00003*2', 'status': 'CHARGING', 'connectors': [{'id': 'MFR-00003-2-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-31T15:09:22.969Z'}], 'last_updated': '2023-05-31T16:03:15.777Z'}, {'uid': 'MFR-00003-1', 'evse_id': 'PT*MLT*E*MFR*00003*1', 'status': 'OUTOFORDER', 'connectors': [{'id': 'MFR-00003-1-1', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-31T15:09:22.968Z'}], 'last_updated': '2023-05-31T16:03:15.916Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T16:03:15.916Z'}
 Removidos:[]
+
+2023-05-31 19:10:56
+Adicionados:['LSB-00262']
+
+LSB-00262-->{'country_code': 'PT', 'party_id': 'EML', 'id': 'LSB-00262', 'publish': True, 'address': 'Rua da Alfândega', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1100-016', 'coordinates': {'latitude': '38.70875', 'longitude': '-9.131067'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00262-02', 'evse_id': 'PT*EML*E*LSB*00262*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00262-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-31T08:48:05.886Z'}], 'last_updated': '2023-05-31T18:36:58.468Z'}, {'uid': 'LSB-00262-01', 'evse_id': 'PT*EML*E*LSB*00262*01', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00262-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-31T08:48:05.885Z'}], 'last_updated': '2023-05-31T18:37:05.227Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T18:37:05.227Z'}
+Removidos:[]
+BRR-00020
+: 
+ NEW address : Av. Movimento das ForÃ§as Armadas, 79
+ OLD address : Av. Movimento das Forças Armadas, 79
+BRR-00025
+: 
+ NEW address : Rua EÃ§a de Queiroz, 24
+ OLD address : Rua Eça de Queiroz, 24
+BRR-00027
+: 
+ NEW address : Av. Bento GonÃ§alves 170
+ OLD address : Av. Bento Gonçalves 170
+BRR-00030
+: 
+ NEW address : Praceta AntÃ³nio GedeÃ£o 3
+ OLD address : Praceta António Gedeão 3
+CSC-00073
+: 
+ NEW address : Rua JosÃ© Carlos Ary dos Santos
+ OLD address : Rua José Carlos Ary dos Santos
+LSA-00003
+: 
+ NEW city : LousÃ£
+ OLD city : Lousã
+TMR-00003
+: 
+ NEW address : Rua Dr. JosÃ© Maria de Sousa
+ OLD address : Rua Dr. José Maria de Sousa
+TMR-00004
+: 
+ NEW address : Rua FÃ¡brica de FiaÃ§Ã£o
+ OLD address : Rua Fábrica de Fiação
+TMR-00012
+: 
+ NEW address : Rua JoÃ£o Santos SimÃµes, 57
+ OLD address : Rua João Santos Simões, 57
+TMR-00014
+: 
+ NEW address : Rua FÃ¡brica da Sola, 4
+ OLD address : Rua Fábrica da Sola, 4
+TMR-00015
+: 
+ NEW address : Rua AntÃ³nio Duarte Faustino, 12
+ OLD address : Rua António Duarte Faustino, 12
