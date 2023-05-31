@@ -6946,3 +6946,7 @@ VIS-00019-->{'country_code': 'PT', 'party_id': 'VIS', 'id': 'VIS-00019', 'publis
 
 VIS-00043-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VIS-00043', 'publish': True, 'address': 'Rua Dom António Alves Martins, 9990', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-078', 'coordinates': {'latitude': '40.656592', 'longitude': '-7.908968'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VIS-00043-02', 'evse_id': 'PT*KLC*E*VIS*00043*02', 'status': 'CHARGING', 'connectors': [{'id': 'VIS-00043-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:32:56.063Z'}], 'last_updated': '2023-05-31T12:23:54.831Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T12:23:54.831Z'}
 Removidos:[]
+
+2023-05-31 14:36:07
+Adicionados:[]
+Removidos:['LSB-00288']

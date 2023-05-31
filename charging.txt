@@ -8614,3 +8614,8 @@ CLT-00005-01 evses -> 1: status : CHARGING
 LRS-00094-03 evses -> 2: status : CHARGING
 LRS-00094-03 evses -> 2: status : CHARGING
 PRT-00193-02 evses -> 1: status : CHARGING
+
+2023-05-31 14:36:11
+LRS-00094-03 evses -> 2: status : CHARGING
+LRS-00094-03 evses -> 2: status : CHARGING
+PRT-00193-02 evses -> 1: status : CHARGING
