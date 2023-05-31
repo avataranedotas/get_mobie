@@ -6960,3 +6960,15 @@ LRA-00047-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'LRA-00047', 'publis
 
 VIS-00030-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VIS-00030', 'publish': True, 'address': 'Rua Dom António Alves Martins, 9990', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-078', 'coordinates': {'latitude': '40.656592', 'longitude': '-7.908968'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VIS-00030-01', 'evse_id': 'PT*KLC*E*VIS*00030*01', 'status': 'CHARGING', 'connectors': [{'id': 'VIS-00030-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:27:43.567Z'}], 'last_updated': '2023-05-31T14:42:16.421Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T14:42:16.421Z'}
 Removidos:['LSB-00284', 'LSB-00285', 'LSB-00286', 'LSB-00287', 'MCH-00003', 'PTS-00001']
+
+2023-05-31 15:36:22
+Adicionados:[]
+Removidos:['MFR-00003', 'MFR-00004']
+VNF-00026
+: 
+ NEW address : Rua Alfredo Correia nº 1440
+ OLD address : Rua Alfredo Correia nÂº 1440
+VNF-00026
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
