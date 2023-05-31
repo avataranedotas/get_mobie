@@ -8647,3 +8647,7 @@ STB-00016-03 evses -> 0: status : CHARGING
 
 2023-05-31 20:36:14
 STB-00016-03 evses -> 0: status : CHARGING
+
+2023-05-31 21:12:15
+MTJ-00033-01 evses -> 0: status : CHARGING
+STB-00016-03 evses -> 0: status : CHARGING
