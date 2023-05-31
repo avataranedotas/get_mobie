@@ -8657,3 +8657,6 @@ STB-00016-03 evses -> 0: status : CHARGING
 
 2023-05-31 23:13:20
 VRS-90001-02 evses -> 1: status : CHARGING
+
+2023-05-31 23:36:05
+VRS-90001-02 evses -> 1: status : CHARGING
