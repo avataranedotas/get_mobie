@@ -6886,3 +6886,9 @@ Adicionados:['GMR-00050']
 
 GMR-00050-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00050', 'publish': True, 'address': 'Rua Teixeira de Pascoais', 'city': 'Guimarães', 'country': 'PRT', 'postal_code': '4800-073', 'coordinates': {'latitude': '41.447992', 'longitude': '-8.2986302'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'GMR-00050-02', 'evse_id': 'PT*KLC*E*GMR*00050*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GMR-00050-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:15:33.953Z'}], 'last_updated': '2023-05-31T11:01:26.968Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T11:01:26.968Z'}
 Removidos:[]
+
+2023-05-31 11:36:09
+BRR-00022
+: 
+ NEW address : Rua JoÃ£o Azevedo do Carmo
+ OLD address : Rua João Azevedo do Carmo
