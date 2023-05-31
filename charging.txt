@@ -8626,3 +8626,6 @@ ELV-00006-01 evses -> 0: status : CHARGING
 
 2023-05-31 17:12:46
 ELV-00005-01 evses -> 1: status : CHARGING
+
+2023-05-31 17:36:12
+STB-00016-01 evses -> 2: status : CHARGING
