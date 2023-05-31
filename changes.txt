@@ -6938,3 +6938,11 @@ BRR-00023
 : 
  NEW address : Rua Prof. JoÃ£o Prates, 5
  OLD address : Rua Prof. João Prates, 5
+
+2023-05-31 12:55:38
+Adicionados:['VIS-00019', 'VIS-00043']
+
+VIS-00019-->{'country_code': 'PT', 'party_id': 'VIS', 'id': 'VIS-00019', 'publish': True, 'address': 'Rua do Palácio do Gelo 1, Piso -2', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-606', 'coordinates': {'latitude': '40.643675', 'longitude': '-7.911604'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VIS-00019-02', 'evse_id': 'PT*VIS*E*VIS*00019*02', 'status': 'CHARGING', 'connectors': [{'id': 'VIS-00019-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:08:36.858Z'}], 'last_updated': '2023-05-31T12:33:22.281Z'}, {'uid': 'VIS-00019-01', 'evse_id': 'PT*VIS*E*VIS*00019*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VIS-00019-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:08:36.857Z'}], 'last_updated': '2023-05-31T12:33:21.277Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T12:33:22.281Z'}
+
+VIS-00043-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VIS-00043', 'publish': True, 'address': 'Rua Dom António Alves Martins, 9990', 'city': 'Viseu', 'country': 'PRT', 'postal_code': '3500-078', 'coordinates': {'latitude': '40.656592', 'longitude': '-7.908968'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'VIS-00043-02', 'evse_id': 'PT*KLC*E*VIS*00043*02', 'status': 'CHARGING', 'connectors': [{'id': 'VIS-00043-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-30T16:32:56.063Z'}], 'last_updated': '2023-05-31T12:23:54.831Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T12:23:54.831Z'}
+Removidos:[]
