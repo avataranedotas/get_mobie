@@ -7070,3 +7070,19 @@ Adicionados:['AMT-00007']
 
 AMT-00007-->{'country_code': 'PT', 'party_id': 'MOO', 'id': 'AMT-00007', 'publish': True, 'address': 'Lugar de Relas', 'city': 'Amarante', 'country': 'PRT', 'postal_code': '4600-279', 'coordinates': {'latitude': '41.2731001', 'longitude': '-8.09158'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AMT-00007-1', 'evse_id': 'PT*MOO*E*AMT*00007*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'AMT-00007-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T18:08:32.531Z'}], 'last_updated': '2023-06-01T14:05:17.263Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-01T14:05:17.263Z'}
 Removidos:[]
+
+2023-06-01 15:14:12
+Adicionados:[]
+Removidos:['MTR-00005']
+MTR-00006
+: 
+ NEW address : Largo 1º de Maio
+ OLD address : Largo 1Âº de Maio
+MTR-00007
+: 
+ NEW address : Largo Luis de Camões
+ OLD address : Largo Luis de CamÃµes
+OVR-00012
+: 
+ NEW address : R. Família Colares Pinto 1695
+ OLD address : R. FamÃ­lia Colares Pinto 1695
