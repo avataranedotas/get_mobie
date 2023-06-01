@@ -8678,3 +8678,6 @@ VRS-90001-02 evses -> 1: status : CHARGING
 
 2023-06-01 05:13:17
 VRS-90001-02 evses -> 1: status : CHARGING
+
+2023-06-01 05:36:30
+VRS-90001-02 evses -> 1: status : CHARGING
