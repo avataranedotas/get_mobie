@@ -8701,3 +8701,6 @@ VRS-90001-02 evses -> 1: status : CHARGING
 LRS-00094-03 evses -> 2: status : CHARGING
 LRS-00094-03 evses -> 2: status : CHARGING
 SNT-00113-02 evses -> 1: status : CHARGING
+
+2023-06-01 09:36:09
+SNT-00113-02 evses -> 1: status : CHARGING
