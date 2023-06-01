@@ -7096,3 +7096,29 @@ CBR-00010
 : 
  NEW address : Avenida Lousã
  OLD address : Avenida LousÃ£
+
+2023-06-01 16:19:34
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 240
+ OLD max_voltage : 400
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+EPS-00001
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 3700
+ OLD max_electric_power : 22000
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 240
+ OLD max_voltage : 400
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+EPS-00001
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 3700
+ OLD max_electric_power : 22000
