@@ -8744,3 +8744,6 @@ VRS-90001-01 evses -> 0: status : CHARGING
 2023-06-01 15:14:15
 SNT-00113-02 evses -> 1: status : CHARGING
 VRS-90001-01 evses -> 0: status : CHARGING
+
+2023-06-01 15:36:13
+VRS-90001-01 evses -> 0: status : CHARGING

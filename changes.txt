@@ -7086,3 +7086,13 @@ OVR-00012
 : 
  NEW address : R. Família Colares Pinto 1695
  OLD address : R. FamÃ­lia Colares Pinto 1695
+
+2023-06-01 15:36:09
+Adicionados:['MTR-00005']
+
+MTR-00005-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'MTR-00005', 'publish': True, 'address': 'R. Carvalhal', 'city': 'Montalegre', 'country': 'PRT', 'postal_code': '5470-000', 'coordinates': {'latitude': '41.640792', 'longitude': '-7.946454'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTR-00005-2', 'evse_id': 'PT*IBD*E*MTR*00005*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTR-00005-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:34.286Z'}], 'last_updated': '2023-06-01T15:13:03.336Z'}, {'uid': 'MTR-00005-1', 'evse_id': 'PT*IBD*E*MTR*00005*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTR-00005-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-06-03T10:51:34.285Z'}], 'last_updated': '2023-06-01T15:13:03.315Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-01T15:13:03.336Z'}
+Removidos:[]
+CBR-00010
+: 
+ NEW address : Avenida Lousã
+ OLD address : Avenida LousÃ£
