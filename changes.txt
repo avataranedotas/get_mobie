@@ -7046,3 +7046,9 @@ Removidos:[]
 2023-06-01 10:37:28
 Adicionados:[]
 Removidos:['LRS-90015']
+
+2023-06-01 11:11:13
+Adicionados:['LRS-90015']
+
+LRS-90015-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LRS-90015', 'publish': True, 'address': 'Praceta Visconde Castelo Branco', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2690-414', 'coordinates': {'latitude': '38.83735', 'longitude': '-9.0923167'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LRS-90015-2', 'evse_id': 'PT*EDP*E*LRS*90015*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-90015-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T19:50:12.402Z'}], 'last_updated': '2023-06-01T10:37:08.703Z'}, {'uid': 'LRS-90015-1', 'evse_id': 'PT*EDP*E*LRS*90015*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LRS-90015-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T19:50:12.4Z'}], 'last_updated': '2023-06-01T10:37:08.68Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-01T10:37:08.703Z'}
+Removidos:[]
