@@ -7042,3 +7042,7 @@ Adicionados:['MCH-00003']
 
 MCH-00003-->{'country_code': 'PT', 'party_id': 'FAC', 'id': 'MCH-00003', 'publish': True, 'address': 'Rua do Porto', 'city': 'Machico', 'country': 'PRT', 'postal_code': '9200-032', 'coordinates': {'latitude': '32.737829', 'longitude': '-16.73668'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MCH-00003-02', 'evse_id': 'PT*FAC*E*MCH*00003*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MCH-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-02T19:24:14.734Z'}], 'last_updated': '2023-05-31T23:06:02.789Z'}, {'uid': 'MCH-00003-01', 'evse_id': 'PT*FAC*E*MCH*00003*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MCH-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2022-02-02T19:24:14.733Z'}], 'last_updated': '2023-05-31T23:06:02.794Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-05-31T23:06:02.789Z'}
 Removidos:[]
+
+2023-06-01 10:37:28
+Adicionados:[]
+Removidos:['LRS-90015']
