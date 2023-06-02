@@ -8815,3 +8815,6 @@ MGR-00009-01 evses -> 0: status : CHARGING
 
 2023-06-02 13:00:26
 STB-00016-02 evses -> 1: status : CHARGING
+
+2023-06-02 15:36:04
+STB-00016-02 evses -> 1: status : CHARGING
