@@ -8796,3 +8796,7 @@ MAI-00036-02 evses -> 1: status : CHARGING
 
 2023-06-02 09:13:37
 PRT-00194-02 evses -> 0: status : CHARGING
+
+2023-06-02 09:36:13
+MCN-00007-01 evses -> 0: status : CHARGING
+PRT-00194-02 evses -> 0: status : CHARGING
