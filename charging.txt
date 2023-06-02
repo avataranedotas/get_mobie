@@ -8833,3 +8833,6 @@ VCT-00039-01 evses -> 0: status : CHARGING
 2023-06-02 17:36:01
 CTB-00027-04 evses -> 2: status : CHARGING
 CTB-00027-05 evses -> 4: status : CHARGING
+
+2023-06-02 18:36:23
+ABT-00023-04 evses -> 3: status : CHARGING
