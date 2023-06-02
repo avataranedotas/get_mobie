@@ -8840,3 +8840,7 @@ ABT-00023-04 evses -> 3: status : CHARGING
 2023-06-02 19:10:47
 STB-00016-03 evses -> 0: status : CHARGING
 VRS-90001-02 evses -> 1: status : CHARGING
+
+2023-06-02 19:36:04
+STB-00016-03 evses -> 0: status : CHARGING
+VRS-90001-02 evses -> 1: status : CHARGING
