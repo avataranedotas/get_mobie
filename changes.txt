@@ -7176,3 +7176,7 @@ CSC-90007-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CSC-90007', 'publis
 
 LLE-00145-->{'country_code': 'PT', 'party_id': 'BLU', 'id': 'LLE-00145', 'publish': True, 'address': 'Av. Ayrton Senna da Silva, Lote 79', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-024', 'coordinates': {'latitude': '37.0417636', 'longitude': '-8.0277359'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00145-02', 'evse_id': 'PT*BLU*E*LLE*00145*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00145-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:29:59.347Z'}], 'last_updated': '2023-06-02T10:53:24.323Z'}, {'uid': 'LLE-00145-01', 'evse_id': 'PT*BLU*E*LLE*00145*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LLE-00145-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:29:59.345Z'}], 'last_updated': '2023-06-02T10:53:23.328Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-02T10:53:24.323Z'}
 Removidos:['LMG-00008']
+
+2023-06-02 11:36:00
+Adicionados:[]
+Removidos:['LSB-90063', 'LSB-90080']
