@@ -8803,3 +8803,6 @@ PRT-00194-02 evses -> 0: status : CHARGING
 
 2023-06-02 10:14:28
 VRS-90001-02 evses -> 1: status : CHARGING
+
+2023-06-02 10:36:04
+VRS-90001-02 evses -> 1: status : CHARGING
