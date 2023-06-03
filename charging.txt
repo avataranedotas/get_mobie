@@ -9025,3 +9025,6 @@ SNT-00110-02 evses -> 1: status : CHARGING
 MAI-00036-02 evses -> 1: status : CHARGING
 MAI-00036-02 evses -> 1: status : CHARGING
 SNT-00110-02 evses -> 1: status : CHARGING
+
+2023-06-03 17:36:07
+SNT-00110-02 evses -> 1: status : CHARGING
