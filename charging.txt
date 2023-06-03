@@ -8982,3 +8982,10 @@ CVL-00012-02 evses -> 0: status : CHARGING
 MTS-00113-02 evses -> 1: status : CHARGING
 VRS-90001-01 evses -> 0: status : CHARGING
 VRS-90001-02 evses -> 1: status : CHARGING
+
+2023-06-03 14:11:15
+CVL-00012-02 evses -> 0: status : CHARGING
+MTS-00113-02 evses -> 1: status : CHARGING
+STB-00016-02 evses -> 1: status : CHARGING
+VRS-90001-01 evses -> 0: status : CHARGING
+VRS-90001-02 evses -> 1: status : CHARGING
