@@ -7338,3 +7338,7 @@ Adicionados:['LSB-90057']
 
 LSB-90057-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LSB-90057', 'publish': True, 'address': 'Rua José Escada', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1600-482', 'coordinates': {'latitude': '38.759431', 'longitude': '-9.170161'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-90057-2', 'evse_id': 'PT*HRZ*E*LSB*90057*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90057-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-02-16T15:31:15.482Z'}], 'last_updated': '2023-06-03T03:13:13.066Z'}, {'uid': 'LSB-90057-1', 'evse_id': 'PT*HRZ*E*LSB*90057*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90057-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-02-16T15:31:15.481Z'}], 'last_updated': '2023-06-03T03:13:13.048Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-03T03:13:13.066Z'}
 Removidos:[]
+
+2023-06-03 04:35:56
+Adicionados:[]
+Removidos:['ABF-90001', 'VRS-90002']
