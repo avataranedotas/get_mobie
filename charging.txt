@@ -9011,3 +9011,6 @@ VRS-90001-02 evses -> 1: status : CHARGING
 2023-06-03 15:36:07
 CVL-00012-02 evses -> 0: status : CHARGING
 SNT-00110-02 evses -> 1: status : CHARGING
+
+2023-06-03 15:50:20
+SNT-00110-02 evses -> 1: status : CHARGING
