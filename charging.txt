@@ -8959,3 +8959,9 @@ ABT-00023-02 evses -> 2: status : CHARGING
 CVL-00012-02 evses -> 0: status : CHARGING
 MTS-00113-02 evses -> 1: status : CHARGING
 PRT-00193-01 evses -> 0: status : CHARGING
+
+2023-06-03 12:49:55
+ABT-00023-01 evses -> 0: status : CHARGING
+ABT-00023-02 evses -> 2: status : CHARGING
+CVL-00012-02 evses -> 0: status : CHARGING
+MTS-00113-02 evses -> 1: status : CHARGING
