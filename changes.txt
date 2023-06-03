@@ -7326,3 +7326,9 @@ Removidos:[]
 2023-06-03 02:36:02
 Adicionados:[]
 Removidos:['ANS-90001', 'LSB-90022']
+
+2023-06-03 03:13:42
+Adicionados:['ANS-90001']
+
+ANS-90001-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'ANS-90001', 'publish': True, 'address': 'Praça do Município', 'city': 'Ansião', 'country': 'PRT', 'postal_code': '3240-154', 'coordinates': {'latitude': '39.91181', 'longitude': '-8.435991'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ANS-90001-01', 'evse_id': 'PT*HRZ*E*ANS*90001*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ANS-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:22:19.189Z'}], 'last_updated': '2023-06-03T02:33:28.154Z'}, {'uid': 'ANS-90001-02', 'evse_id': 'PT*HRZ*E*ANS*90001*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'ANS-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:22:19.19Z'}], 'last_updated': '2023-06-03T02:33:27.056Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-03T02:33:28.154Z'}
+Removidos:['LSB-90057']
