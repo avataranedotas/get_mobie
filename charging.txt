@@ -9048,3 +9048,6 @@ MAI-00036-02 evses -> 1: status : CHARGING
 2023-06-04 13:35:59
 MAI-00036-02 evses -> 1: status : CHARGING
 MAI-00036-02 evses -> 1: status : CHARGING
+
+2023-06-04 14:36:20
+CLT-00005-02 evses -> 0: status : CHARGING

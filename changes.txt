@@ -7408,3 +7408,7 @@ EVR-00031-->{'country_code': 'PT', 'party_id': 'NRG', 'id': 'EVR-00031', 'publis
 
 GDM-00010-->{'country_code': 'PT', 'party_id': 'EVI', 'id': 'GDM-00010', 'publish': True, 'address': 'Rua Professor Egas Moniz', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4510-119', 'coordinates': {'latitude': '41.119246', 'longitude': '-8.511247'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'GDM-00010-02', 'evse_id': 'PT*EVI*E*GDM*00010*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00010-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-04T10:21:18.552Z'}], 'last_updated': '2023-06-04T11:59:57.708Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-04T11:59:57.708Z'}
 Removidos:[]
+
+2023-06-04 14:36:15
+Adicionados:[]
+Removidos:['VNG-00038']
