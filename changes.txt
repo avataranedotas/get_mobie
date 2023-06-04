@@ -7446,3 +7446,9 @@ Removidos:[]
 2023-06-04 19:36:11
 Adicionados:[]
 Removidos:['STR-90005']
+
+2023-06-04 20:13:32
+Adicionados:['STR-90005']
+
+STR-90005-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STR-90005', 'publish': True, 'address': 'Rua Doutor Vírgilio Arruda', 'city': 'Santarém', 'country': 'PRT', 'postal_code': '2000-217', 'coordinates': {'latitude': '39.2239697', 'longitude': '-8.6900239'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'STR-90005-01', 'evse_id': 'PT*HRZ*E*STR*90005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'STR-90005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-14T04:09:45.087Z'}], 'last_updated': '2023-06-04T19:32:54.887Z'}, {'uid': 'STR-90005-02', 'evse_id': 'PT*HRZ*E*STR*90005*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'STR-90005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-14T04:09:45.089Z'}], 'last_updated': '2023-06-04T19:32:54.858Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-04T19:32:54.887Z'}
+Removidos:['TVD-90004']
