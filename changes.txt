@@ -7394,3 +7394,9 @@ Adicionados:['MTS-00034']
 
 MTS-00034-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'MTS-00034', 'publish': True, 'address': 'Rua Sousa Aroso', 'city': 'Matosinhos', 'country': 'PRT', 'postal_code': '4450-218', 'coordinates': {'latitude': '41.177221', 'longitude': '-8.682098'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTS-00034-1', 'evse_id': 'PT*IBD*E*MTS*00034*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTS-00034-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T22:20:18.381Z'}], 'last_updated': '2023-06-04T10:30:17.392Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-04T10:30:17.392Z'}
 Removidos:['EVR-00031', 'GDM-00009', 'GDM-00010', 'MTS-00029', 'VLG-00012', 'VNG-00037']
+
+2023-06-04 11:10:40
+Adicionados:['VNG-00037']
+
+VNG-00037-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00037', 'publish': True, 'address': 'Makro Vila Nova de Gaia', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-625', 'coordinates': {'latitude': '41.120508', 'longitude': '-8.625678'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00037-02', 'evse_id': 'PT*GLP*E*VNG*00037*02', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-04T10:14:22.929Z'}], 'last_updated': '2023-06-04T10:52:10.072Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-04T10:52:10.072Z'}
+Removidos:[]
