@@ -7412,3 +7412,9 @@ Removidos:[]
 2023-06-04 14:36:15
 Adicionados:[]
 Removidos:['VNG-00038']
+
+2023-06-04 15:12:42
+Adicionados:['VNG-00038']
+
+VNG-00038-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'VNG-00038', 'publish': True, 'address': 'Makro Vila Nova de Gaia', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-625', 'coordinates': {'latitude': '41.120508', 'longitude': '-8.625678'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00038-01', 'evse_id': 'PT*GLP*E*VNG*00038*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNG-00038-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-04T14:11:58.559Z'}], 'last_updated': '2023-06-04T14:37:05.011Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-04T14:37:05.011Z'}
+Removidos:['CBR-90003']
