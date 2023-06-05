@@ -7616,3 +7616,13 @@ STC-00009
 evses -> 5 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 100000
+
+2023-06-05 18:36:18
+GDM-00031
+: 
+ NEW address : R. Pedro Ãlvares Cabral
+ OLD address : R. Pedro Álvares Cabral
+STC-00009
+: 
+ NEW city : Santiago do CacÃ©m
+ OLD city : Santiago do Cacém
