@@ -9089,3 +9089,6 @@ MCH-00003-01 evses -> 1: status : CHARGING
 
 2023-06-05 13:17:38
 SNT-00113-02 evses -> 1: status : CHARGING
+
+2023-06-05 13:36:14
+SNT-00113-02 evses -> 1: status : CHARGING
