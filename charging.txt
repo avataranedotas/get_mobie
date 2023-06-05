@@ -9063,3 +9063,6 @@ MCH-00003-02 evses -> 0: status : CHARGING
 
 2023-06-04 20:13:38
 VRL-00019-01 evses -> 1: status : CHARGING
+
+2023-06-05 09:14:20
+SNT-00113-02 evses -> 1: status : CHARGING
