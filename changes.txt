@@ -7632,3 +7632,7 @@ STC-00007
 : 
  NEW city : Santiago do CacÃ©m
  OLD city : Santiago do Cacém
+
+2023-06-05 22:36:11
+Adicionados:[]
+Removidos:['BJA-00014', 'BRG-00069', 'CVL-00011', 'LRA-00074', 'LRA-00075', 'LSB-00491', 'MAI-00025', 'OLH-00004']
