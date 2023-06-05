@@ -9112,3 +9112,7 @@ VRL-00019-01 evses -> 1: status : CHARGING
 
 2023-06-05 17:36:21
 VRL-00019-01 evses -> 1: status : CHARGING
+
+2023-06-05 19:11:03
+MAI-00036-01 evses -> 0: status : CHARGING
+MAI-00036-01 evses -> 0: status : CHARGING
