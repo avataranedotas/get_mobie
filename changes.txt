@@ -7750,3 +7750,7 @@ Adicionados:['LSB-00351']
 
 LSB-00351-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'LSB-00351', 'publish': True, 'address': 'Rua Ernesto de Vasconcelos', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1700-162', 'coordinates': {'latitude': '38.756443', 'longitude': '-9.155251'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00351-02', 'evse_id': 'PT*MLT*E*LSB*00351*02', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00351-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2022-02-16T11:00:22.474Z'}], 'last_updated': '2023-06-06T20:52:14.632Z'}, {'uid': 'LSB-00351-01', 'evse_id': 'PT*MLT*E*LSB*00351*01', 'status': 'OUTOFORDER', 'connectors': [{'id': 'LSB-00351-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2022-02-16T11:00:22.474Z'}], 'last_updated': '2023-06-06T20:52:14.632Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T20:52:14.632Z'}
 Removidos:[]
+
+2023-06-06 23:36:05
+Adicionados:[]
+Removidos:['BRR-00034', 'GMR-00045', 'MTS-00084', 'PNF-00018', 'STB-00039', 'TVR-00015', 'TVR-00016', 'VRS-00005', 'VRS-00006']
