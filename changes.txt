@@ -7726,3 +7726,9 @@ Adicionados:['PNF-00019']
 
 PNF-00019-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'PNF-00019', 'publish': True, 'address': 'Quinta do Sardoal - Zona Industrial nº 2', 'city': 'Penafiel', 'country': 'PRT', 'postal_code': '4560-709', 'coordinates': {'latitude': '41.2150776', 'longitude': '-8.2829915'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PNF-00019-04', 'evse_id': 'PT*HRZ*E*PNF*00019*04', 'status': 'CHARGING', 'connectors': [{'id': 'PNF-00019-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-05T22:43:12.643Z'}], 'last_updated': '2023-06-06T14:30:30.097Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T14:30:30.097Z'}
 Removidos:[]
+
+2023-06-06 15:14:16
+Adicionados:['STB-00034']
+
+STB-00034-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'STB-00034', 'publish': True, 'address': 'R. Cidade de Porto Seguro, 322', 'city': 'Setúbal', 'country': 'PRT', 'postal_code': '2914-518', 'coordinates': {'latitude': '38.5383649', 'longitude': '-8.8381136'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'STB-00034-02', 'evse_id': 'PT*HRZ*E*STB*00034*02', 'status': 'CHARGING', 'connectors': [{'id': 'STB-00034-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 80000, 'last_updated': '2023-06-05T22:30:53.769Z'}], 'last_updated': '2023-06-06T14:33:55.391Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T14:33:55.391Z'}
+Removidos:[]
