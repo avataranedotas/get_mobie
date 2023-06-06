@@ -9170,3 +9170,8 @@ SNT-00111-02 evses -> 0: status : CHARGING
 
 2023-06-06 20:14:24
 SNT-00110-01 evses -> 0: status : CHARGING
+
+2023-06-06 20:36:13
+MCH-00003-02 evses -> 0: status : CHARGING
+MFR-00011-02 evses -> 0: status : CHARGING
+SNT-00110-01 evses -> 0: status : CHARGING
