@@ -7678,3 +7678,7 @@ CTB-00027-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CTB-00027', 'publis
 
 CVL-00011-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CVL-00011', 'publish': True, 'address': 'Bairro do Alvito', 'city': 'Covilhã', 'country': 'PRT', 'postal_code': '6200-251', 'coordinates': {'latitude': '40.2640199', 'longitude': '-7.4909696'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CVL-00011-05', 'evse_id': 'PT*HRZ*E*CVL*00011*05', 'status': 'AVAILABLE', 'connectors': [{'id': 'CVL-00011-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-06-05T22:22:01.482Z'}], 'last_updated': '2023-06-06T09:23:07.029Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T09:23:07.029Z'}
 Removidos:[]
+
+2023-06-06 10:14:33
+Adicionados:[]
+Removidos:['OER-00141', 'OER-00142', 'OER-00143', 'OER-00144', 'OER-00145']
