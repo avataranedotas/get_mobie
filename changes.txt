@@ -7664,3 +7664,9 @@ Adicionados:['VRL-00015']
 
 VRL-00015-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VRL-00015', 'publish': True, 'address': 'R. Vitorino dos Santos 26 C', 'city': 'Vila Real', 'country': 'PRT', 'postal_code': '5000-717', 'coordinates': {'latitude': '41.3114794', 'longitude': '-7.7242074'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VRL-00015-02', 'evse_id': 'PT*HRZ*E*VRL*00015*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'VRL-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-06-05T22:44:58.123Z'}], 'last_updated': '2023-06-06T07:01:00.522Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T07:01:00.522Z'}
 Removidos:[]
+
+2023-06-06 09:13:48
+Adicionados:['LRA-00075']
+
+LRA-00075-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LRA-00075', 'publish': True, 'address': 'R. Virgílio Vieira da Cunha', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2400-447', 'coordinates': {'latitude': '39.7466321', 'longitude': '-8.8212229'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRA-00075-01', 'evse_id': 'PT*HRZ*E*LRA*00075*01', 'status': 'CHARGING', 'connectors': [{'id': 'LRA-00075-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-05T22:20:14.791Z'}], 'last_updated': '2023-06-06T08:46:22.419Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-06T08:46:22.419Z'}
+Removidos:[]
