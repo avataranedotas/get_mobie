@@ -9146,3 +9146,7 @@ MCH-00003-02 evses -> 0: status : CHARGING
 2023-06-06 14:12:37
 MAI-00036-02 evses -> 1: status : CHARGING
 MAI-00036-02 evses -> 1: status : CHARGING
+
+2023-06-06 14:36:22
+MAI-00036-02 evses -> 1: status : CHARGING
+MAI-00036-02 evses -> 1: status : CHARGING
