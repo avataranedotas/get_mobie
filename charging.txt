@@ -9178,3 +9178,6 @@ SNT-00110-01 evses -> 0: status : CHARGING
 
 2023-06-07 09:36:20
 AZB-00010-02 evses -> 0: status : CHARGING
+
+2023-06-07 10:14:50
+SNT-00111-02 evses -> 0: status : CHARGING
