@@ -7846,3 +7846,7 @@ Removidos:[]
 2023-06-07 23:14:21
 Adicionados:[]
 Removidos:['ABF-00061', 'ABT-00023']
+
+2023-06-07 23:35:55
+Adicionados:[]
+Removidos:['CTB-00029', 'ELV-00005', 'ELV-00006', 'GDM-00031', 'LRA-00090', 'MAI-00036']
