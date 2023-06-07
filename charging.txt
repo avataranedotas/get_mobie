@@ -9190,3 +9190,6 @@ STC-00009-02 evses -> 5: status : CHARGING
 AZB-00010-02 evses -> 0: status : CHARGING
 SNT-00111-02 evses -> 0: status : CHARGING
 VRL-00019-01 evses -> 1: status : CHARGING
+
+2023-06-07 12:29:10
+AZB-00010-01 evses -> 1: status : CHARGING
