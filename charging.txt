@@ -9236,3 +9236,7 @@ SNT-00111-02 evses -> 0: status : CHARGING
 2023-06-07 18:17:44
 SNT-00110-01 evses -> 0: status : CHARGING
 SNT-00111-02 evses -> 0: status : CHARGING
+
+2023-06-07 18:36:36
+SNT-00110-01 evses -> 0: status : CHARGING
+SNT-00111-02 evses -> 0: status : CHARGING
