@@ -7808,3 +7808,9 @@ TVR-00017-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'TVR-00017', 'publis
 
 VRS-00005-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VRS-00005', 'publish': True, 'address': 'Avenida Salgueiro Maia, Lugar De Hortas,', 'city': 'Vila Real de Santo António', 'country': 'PRT', 'postal_code': '8900-258', 'coordinates': {'latitude': '37.191276', 'longitude': '-7.430549'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VRS-00005-01', 'evse_id': 'PT*KLC*E*VRS*00005*01', 'status': 'CHARGING', 'connectors': [{'id': 'VRS-00005-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-06T23:10:02.234Z'}], 'last_updated': '2023-06-07T10:27:26.428Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-07T10:27:26.428Z'}
 Removidos:[]
+
+2023-06-07 11:11:19
+Adicionados:['VRS-00006']
+
+VRS-00006-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VRS-00006', 'publish': True, 'address': 'Avenida Salgueiro Maia, Lugar De Hortas,', 'city': 'Vila Real de Santo António', 'country': 'PRT', 'postal_code': '8900-258', 'coordinates': {'latitude': '37.191276', 'longitude': '-7.430549'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VRS-00006-01', 'evse_id': 'PT*KLC*E*VRS*00006*01', 'status': 'CHARGING', 'connectors': [{'id': 'VRS-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-06T23:11:47.533Z'}], 'last_updated': '2023-06-07T10:35:39.897Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-07T10:35:39.897Z'}
+Removidos:[]
