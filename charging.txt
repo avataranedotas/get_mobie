@@ -9193,3 +9193,7 @@ VRL-00019-01 evses -> 1: status : CHARGING
 
 2023-06-07 12:29:10
 AZB-00010-01 evses -> 1: status : CHARGING
+
+2023-06-07 12:56:26
+AZB-00010-01 evses -> 1: status : CHARGING
+SNT-00110-02 evses -> 1: status : CHARGING
