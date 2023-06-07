@@ -7758,3 +7758,7 @@ Removidos:['BRR-00034', 'GMR-00045', 'MTS-00084', 'PNF-00018', 'STB-00039', 'TVR
 2023-06-07 01:28:03
 Adicionados:[]
 Removidos:['LGA-00016']
+
+2023-06-07 02:46:27
+Adicionados:[]
+Removidos:['SMG-00007']
