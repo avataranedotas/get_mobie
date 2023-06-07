@@ -7830,3 +7830,9 @@ Removidos:['LRA-00033', 'LRA-00034']
 2023-06-07 14:35:59
 Adicionados:[]
 Removidos:['OER-00100', 'OER-00102', 'OER-00104', 'OER-00105', 'OER-00107', 'OER-00109', 'OER-00110', 'OER-00111', 'OER-00113', 'OER-00114', 'OER-00115', 'OER-00116']
+
+2023-06-07 16:18:47
+Adicionados:['LGA-00016']
+
+LGA-00016-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'LGA-00016', 'publish': True, 'address': 'Urbanização Rocha Brava - Sitio Alfanzina', 'city': 'Lagoa (Algarve)', 'country': 'PRT', 'postal_code': '8400-568', 'coordinates': {'latitude': '37.09141', 'longitude': '-8.44456'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LGA-00016-01', 'evse_id': 'PT*VEI*E*LGA*00016*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGA-00016-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-07T00:06:20.344Z'}], 'last_updated': '2023-06-07T16:03:32.066Z'}, {'uid': 'LGA-00016-02', 'evse_id': 'PT*VEI*E*LGA*00016*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LGA-00016-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-07T00:06:20.345Z'}], 'last_updated': '2023-06-07T16:03:33.057Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-07T16:03:33.057Z'}
+Removidos:[]
