@@ -7842,3 +7842,7 @@ Adicionados:['LLE-00142']
 
 LLE-00142-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'LLE-00142', 'publish': True, 'address': 'A Floresta do José - Encosta do Lobo', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-016', 'coordinates': {'latitude': '37.0733787', 'longitude': '-8.0492745'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LLE-00142-01', 'evse_id': 'PT*EDP*E*LLE*00142*01', 'status': 'UNKNOWN', 'connectors': [{'id': 'LLE-00142-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-04-28T08:33:37.368Z'}], 'last_updated': '2023-06-07T17:20:02.0Z'}, {'uid': 'LLE-00142-02', 'evse_id': 'PT*EDP*E*LLE*00142*02', 'status': 'UNKNOWN', 'connectors': [{'id': 'LLE-00142-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-04-28T08:33:37.369Z'}], 'last_updated': '2023-06-07T17:20:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-07T17:20:02.0Z'}
 Removidos:[]
+
+2023-06-07 23:14:21
+Adicionados:[]
+Removidos:['ABF-00061', 'ABT-00023']
