@@ -9253,3 +9253,6 @@ VRL-00019-04 evses -> 1: status : CHARGING
 2023-06-08 09:36:27
 VRL-00019-01 evses -> 1: status : CHARGING
 VRL-00019-04 evses -> 2: status : CHARGING
+
+2023-06-08 10:14:58
+VRL-00019-04 evses -> 2: status : CHARGING
