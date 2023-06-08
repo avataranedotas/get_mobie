@@ -7890,3 +7890,7 @@ Removidos:[]
 2023-06-08 22:35:58
 Adicionados:[]
 Removidos:['LSB-90033']
+
+2023-06-08 23:14:25
+Adicionados:[]
+Removidos:['LSB-90056', 'STB-90010', 'STR-90007']
