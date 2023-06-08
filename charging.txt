@@ -9277,3 +9277,6 @@ PTM-00038-02 evses -> 0: status : CHARGING
 
 2023-06-08 16:18:27
 PTM-00038-02 evses -> 0: status : CHARGING
+
+2023-06-08 16:39:04
+PTM-00038-02 evses -> 0: status : CHARGING
