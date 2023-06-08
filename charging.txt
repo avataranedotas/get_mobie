@@ -9304,3 +9304,6 @@ SNT-00111-02 evses -> 0: status : CHARGING
 2023-06-08 19:12:18
 PTM-00038-02 evses -> 0: status : CHARGING
 STC-00009-05 evses -> 3: status : CHARGING
+
+2023-06-08 19:36:01
+PTM-00038-02 evses -> 0: status : CHARGING
