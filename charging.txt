@@ -9262,3 +9262,7 @@ VRL-00019-04 evses -> 2: status : CHARGING
 
 2023-06-08 13:36:37
 SNT-00111-02 evses -> 0: status : CHARGING
+
+2023-06-08 14:12:19
+SNT-00111-02 evses -> 0: status : CHARGING
+STC-00009-05 evses -> 3: status : CHARGING
