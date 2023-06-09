@@ -7944,3 +7944,57 @@ LLE-00142
 : 
  NEW city : LoulÃ©
  OLD city : Loulé
+
+2023-06-09 11:36:14
+AMD-00054
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+AMD-00054
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+AMD-00054
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+AMD-00054
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+AMD-00054
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+AMD-00054
+evses -> 3 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+AMD-00054
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+AMD-00054
+evses -> 4 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+AMD-00054
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+AMD-00054
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+AMD-00054
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+AMD-00054
+evses -> 6 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+AMD-00054
+evses -> 7 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
