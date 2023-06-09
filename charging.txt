@@ -9361,3 +9361,6 @@ MFR-00011-02 evses -> 0: status : CHARGING
 
 2023-06-09 18:36:09
 MFR-00011-02 evses -> 0: status : CHARGING
+
+2023-06-09 19:11:02
+MFR-00011-02 evses -> 0: status : CHARGING
