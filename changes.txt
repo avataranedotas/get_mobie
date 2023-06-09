@@ -8004,3 +8004,141 @@ Adicionados:['MTJ-00033']
 
 MTJ-00033-->{'country_code': 'PT', 'party_id': 'KLS', 'id': 'MTJ-00033', 'publish': True, 'address': 'Av. Garcia de Orta 4 E.N. 4', 'city': 'Montijo', 'country': 'PRT', 'postal_code': '2870-484', 'coordinates': {'latitude': '38.706944', 'longitude': '-8.958056'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MTJ-00033-01', 'evse_id': 'PT*KLS*E*MTJ*00033*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00033-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-08T00:04:17.189Z'}], 'last_updated': '2023-06-09T12:09:08.273Z'}, {'uid': 'MTJ-00033-02', 'evse_id': 'PT*KLS*E*MTJ*00033*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MTJ-00033-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-08T00:04:17.19Z'}], 'last_updated': '2023-06-09T12:09:09.268Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-09T12:09:09.268Z'}
 Removidos:[]
+
+2023-06-09 13:17:17
+BJA-00014
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BJA-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+BJA-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+BJA-00014
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BJA-00014
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+BJA-00014
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+BRG-00069
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BRG-00069
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BRG-00069
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+BRG-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 250
+BRG-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00069
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BRG-00069
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+BRG-00069
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00069
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00069
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+BRG-00069
+evses -> 6 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+BRG-00069
+evses -> 7 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00075
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00075
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00075
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+BRG-00075
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+BRG-00075
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+BRG-00075
+evses -> 5 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BRG-00075
+evses -> 5 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BRG-00075
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+BRG-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BRG-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+BRG-00078
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+BRG-00078
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
