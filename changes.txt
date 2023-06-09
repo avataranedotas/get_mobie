@@ -8142,3 +8142,9 @@ BRG-00078
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2023-06-09 15:36:10
+Adicionados:['SXL-00039']
+
+SXL-00039-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SXL-00039', 'publish': True, 'address': 'Avenida Vieira da Silva (UA: 307)', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2855-578', 'coordinates': {'latitude': '38.633444', 'longitude': '-9.150689'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SXL-00039-02', 'evse_id': 'PT*KLC*E*SXL*00039*02', 'status': 'CHARGING', 'connectors': [{'id': 'SXL-00039-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-08T00:15:33.453Z'}], 'last_updated': '2023-06-09T15:08:52.57Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-09T15:08:52.57Z'}
+Removidos:[]
