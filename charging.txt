@@ -9353,3 +9353,8 @@ PTM-00038-02 evses -> 0: status : CHARGING
 
 2023-06-09 17:36:22
 PTM-00038-02 evses -> 0: status : CHARGING
+
+2023-06-09 18:17:22
+MAI-00036-02 evses -> 1: status : CHARGING
+MAI-00036-02 evses -> 1: status : CHARGING
+MFR-00011-02 evses -> 0: status : CHARGING
