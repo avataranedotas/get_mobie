@@ -8470,3 +8470,13 @@ Adicionados:['SMG-00007']
 
 SMG-00007-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'SMG-00007', 'publish': True, 'address': 'Rua da Igreja, 9001', 'city': 'Salvaterra de Magos', 'country': 'PRT', 'postal_code': '2120-185', 'coordinates': {'latitude': '38.9965773', 'longitude': '-8.7372794'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SMG-00007-02', 'evse_id': 'PT*EDP*E*SMG*00007*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'SMG-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-07T01:28:43.096Z'}], 'last_updated': '2023-06-09T18:53:09.163Z'}, {'uid': 'SMG-00007-01', 'evse_id': 'PT*EDP*E*SMG*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'SMG-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-07T01:28:43.095Z'}], 'last_updated': '2023-06-09T18:53:08.147Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-09T18:53:09.163Z'}
 Removidos:[]
+
+2023-06-09 21:11:57
+SVC-00004
+: 
+ NEW address : ER101 nº 110, Ponta Delgada
+ OLD address : ER101 nÂº 110, Ponta Delgada
+SVC-00004
+: 
+ NEW city : São Vicente
+ OLD city : SÃ£o Vicente
