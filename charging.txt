@@ -9385,3 +9385,6 @@ VRL-00019-01 evses -> 1: status : CHARGING
 ELV-00005-01 evses -> 1: status : CHARGING
 OER-00171-02 evses -> 0: status : CHARGING
 VRL-00019-01 evses -> 1: status : CHARGING
+
+2023-06-09 22:13:10
+ELV-00005-01 evses -> 1: status : CHARGING
