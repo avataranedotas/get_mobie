@@ -7908,3 +7908,9 @@ Adicionados:['LSB-00440']
 
 LSB-00440-->{'country_code': 'PT', 'party_id': 'NEU', 'id': 'LSB-00440', 'publish': True, 'address': 'Avenida Marechal Gomes da Costa 33', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1800-255', 'coordinates': {'latitude': '38.7591798', 'longitude': '-9.115032'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00440-01', 'evse_id': 'PT*NEU*E*LSB*00440*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00440-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:49:24.33Z'}], 'last_updated': '2023-06-08T23:27:03.308Z'}, {'uid': 'LSB-00440-02', 'evse_id': 'PT*NEU*E*LSB*00440*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00440-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:49:24.331Z'}], 'last_updated': '2023-06-08T23:27:03.486Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-08T23:27:03.486Z'}
 Removidos:['CSC-00110']
+
+2023-06-09 09:35:57
+OER-00171
+: 
+ NEW address : GALP - Rua JosÃ© Diogo da Silva
+ OLD address : GALP - Rua José Diogo da Silva
