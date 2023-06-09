@@ -7914,3 +7914,9 @@ OER-00171
 : 
  NEW address : GALP - Rua JosÃ© Diogo da Silva
  OLD address : GALP - Rua José Diogo da Silva
+
+2023-06-09 10:14:48
+Adicionados:['PRT-00058']
+
+PRT-00058-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'PRT-00058', 'publish': True, 'address': 'Praça D. João I', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4000-295', 'coordinates': {'latitude': '41.1474252', 'longitude': '-8.611527'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'PRT-00058-1', 'evse_id': 'PT*MAK*E*PRT*00058*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00058-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-07T20:20:51.825Z'}], 'last_updated': '2023-06-09T10:03:04.479Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-09T10:03:04.479Z'}
+Removidos:[]
