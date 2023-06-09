@@ -8148,3 +8148,169 @@ Adicionados:['SXL-00039']
 
 SXL-00039-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SXL-00039', 'publish': True, 'address': 'Avenida Vieira da Silva (UA: 307)', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2855-578', 'coordinates': {'latitude': '38.633444', 'longitude': '-9.150689'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SXL-00039-02', 'evse_id': 'PT*KLC*E*SXL*00039*02', 'status': 'CHARGING', 'connectors': [{'id': 'SXL-00039-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-08T00:15:33.453Z'}], 'last_updated': '2023-06-09T15:08:52.57Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-09T15:08:52.57Z'}
 Removidos:[]
+
+2023-06-09 17:12:29
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 100000
+CHV-00011
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CSC-00103
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00103
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CSC-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+CSC-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+CSC-00103
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CSC-00103
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+CSC-00103
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 120000
+CSC-00103
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00103
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 120000
+CSC-00112
+: 
+ NEW address : Rua das Fisgas NÂº40
+ OLD address : Rua das Fisgas Nº40
+CSC-00112
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+CTB-00027
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CTB-00027
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+CTB-00027
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+CTB-00027
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CTB-00027
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+CTB-00027
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+CTB-00027
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CTB-00027
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CTB-00027
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CTB-00027
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CVL-00011
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CVL-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CVL-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+CVL-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+CVL-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CVL-00011
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CVL-00011
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+CVL-00011
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+FAR-00033
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+FAR-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+FAR-00033
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+FAR-00033
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
