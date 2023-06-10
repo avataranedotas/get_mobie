@@ -8522,3 +8522,9 @@ GMR-00049-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'GMR-00049', 'publis
 
 SRP-00004-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'SRP-00004', 'publish': True, 'address': 'Largo da Corredoura', 'city': 'Serpa', 'country': 'PRT', 'postal_code': '7830-326', 'coordinates': {'latitude': '37.942046', 'longitude': '-7.598504'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'SRP-00004-01', 'evse_id': 'PT*EVP*E*SRP*00004*01', 'status': 'CHARGING', 'connectors': [{'id': 'SRP-00004-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 180000, 'last_updated': '2023-06-10T10:54:33.798Z'}], 'last_updated': '2023-06-10T12:01:20.647Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T12:01:20.647Z'}
 Removidos:['FLG-00009', 'LLE-00140', 'LMG-00010', 'MCN-00007', 'PRT-00173', 'SNT-00097', 'TNV-00011', 'VCT-00039', 'VFR-00016', 'VLG-00021', 'VNC-00005', 'VNF-00025', 'VNF-00031', 'VNG-00094']
+
+2023-06-10 12:31:28
+Adicionados:['VNC-00005']
+
+VNC-00005-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VNC-00005', 'publish': True, 'address': 'Quinta Belo Cais, Lote 7', 'city': 'Vila Nova de Cerveira', 'country': 'PRT', 'postal_code': '4920-263', 'coordinates': {'latitude': '41.944832', 'longitude': '-8.7416836'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNC-00005-01', 'evse_id': 'PT*EDP*E*VNC*00005*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'VNC-00005-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-06-10T12:03:04.793Z'}], 'last_updated': '2023-06-10T12:21:37.749Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T12:21:37.749Z'}
+Removidos:[]
