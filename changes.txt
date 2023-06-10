@@ -8614,3 +8614,9 @@ Adicionados:['VFR-00016']
 
 VFR-00016-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'VFR-00016', 'publish': True, 'address': 'R. São Paulo da Cruz 9220', 'city': 'Santa Maria da Feira', 'country': 'PRT', 'postal_code': '4520-249', 'coordinates': {'latitude': '40.9261399', 'longitude': '-8.5597844'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VFR-00016-01', 'evse_id': 'PT*EDP*E*VFR*00016*01', 'status': 'CHARGING', 'connectors': [{'id': 'VFR-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-06-10T11:52:39.582Z'}], 'last_updated': '2023-06-10T18:26:07.766Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T18:26:07.766Z'}
 Removidos:[]
+
+2023-06-10 19:36:06
+Adicionados:['ABF-00061']
+
+ABF-00061-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'ABF-00061', 'publish': True, 'address': 'GALP - Caminho Vale da Azinheira', 'city': 'Albufeira', 'country': 'PRT', 'postal_code': '8200-599', 'coordinates': {'latitude': '39.78606', 'longitude': '-8.4695999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABF-00061-02', 'evse_id': 'PT*GLP*E*ABF*00061*02', 'status': 'CHARGING', 'connectors': [{'id': 'ABF-00061-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 120000, 'last_updated': '2023-06-07T23:07:29.438Z'}], 'last_updated': '2023-06-10T19:08:44.037Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T19:08:44.037Z'}
+Removidos:[]
