@@ -9398,3 +9398,7 @@ ELV-00005-01 evses -> 1: status : CHARGING
 
 2023-06-10 07:12:04
 AZB-00010-02 evses -> 0: status : CHARGING
+
+2023-06-10 09:36:17
+LSB-00351-01 evses -> 1: status : CHARGING
+STC-00009-06 evses -> 4: status : CHARGING
