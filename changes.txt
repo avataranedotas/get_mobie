@@ -8480,3 +8480,7 @@ SVC-00004
 : 
  NEW city : São Vicente
  OLD city : SÃ£o Vicente
+
+2023-06-10 01:19:30
+Adicionados:[]
+Removidos:['SNT-00091', 'SXL-00022']
