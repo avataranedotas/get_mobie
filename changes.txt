@@ -8498,3 +8498,9 @@ MTS-00051
 : 
  NEW address : Avenida Arqº Fernando Távora 1343
  OLD address : Avenida ArqÂº Fernando TÃ¡vora 1343
+
+2023-06-10 11:36:28
+Adicionados:['AZB-00010']
+
+AZB-00010-->{'country_code': 'PT', 'party_id': 'GLG', 'id': 'AZB-00010', 'publish': True, 'address': '(A1) KM 44 (SENTIDO SUL/NORTE)', 'city': 'Azambuja', 'country': 'PRT', 'postal_code': '2050-000', 'coordinates': {'latitude': '39.12228', 'longitude': '-8.908356'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'AZB-00010-02', 'evse_id': 'PT*GLG*E*AZB*00010*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'AZB-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-06-10T10:49:22.599Z'}], 'last_updated': '2023-06-10T11:24:57.917Z'}, {'uid': 'AZB-00010-01', 'evse_id': 'PT*GLG*E*AZB*00010*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'AZB-00010-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-06-10T10:49:22.598Z'}], 'last_updated': '2023-06-10T11:24:51.02Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T11:24:57.917Z'}
+Removidos:['BGC-00010', 'FIG-00018', 'FIG-00019', 'GRD-00020', 'LSB-00351', 'MTS-00092', 'MTS-00093', 'OER-00171', 'VCD-00014', 'VCD-00015', 'VVR-00002', 'VVR-00003']

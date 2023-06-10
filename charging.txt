@@ -9407,3 +9407,7 @@ STC-00009-06 evses -> 4: status : CHARGING
 AZB-00010-02 evses -> 0: status : CHARGING
 LSB-00351-01 evses -> 1: status : CHARGING
 STC-00009-02 evses -> 5: status : CHARGING
+
+2023-06-10 11:36:33
+MAI-00036-02 evses -> 1: status : CHARGING
+MAI-00036-02 evses -> 1: status : CHARGING
