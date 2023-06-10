@@ -9441,3 +9441,6 @@ SNT-00115-01 evses -> 0: status : CHARGING
 ABF-00061-02 evses -> 0: status : CHARGING
 ABF-00061-02 evses -> 0: status : CHARGING
 SNT-00115-01 evses -> 0: status : CHARGING
+
+2023-06-10 20:14:59
+SNT-00115-01 evses -> 0: status : CHARGING

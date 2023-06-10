@@ -8620,3 +8620,9 @@ Adicionados:['ABF-00061']
 
 ABF-00061-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'ABF-00061', 'publish': True, 'address': 'GALP - Caminho Vale da Azinheira', 'city': 'Albufeira', 'country': 'PRT', 'postal_code': '8200-599', 'coordinates': {'latitude': '39.78606', 'longitude': '-8.4695999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ABF-00061-02', 'evse_id': 'PT*GLP*E*ABF*00061*02', 'status': 'CHARGING', 'connectors': [{'id': 'ABF-00061-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 120000, 'last_updated': '2023-06-07T23:07:29.438Z'}], 'last_updated': '2023-06-10T19:08:44.037Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T19:08:44.037Z'}
 Removidos:[]
+
+2023-06-10 20:14:55
+Adicionados:['GDM-00012']
+
+GDM-00012-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'GDM-00012', 'publish': True, 'address': 'Rua da Nossa Senhora do Amparo', 'city': 'Gondomar', 'country': 'PRT', 'postal_code': '4435-350', 'coordinates': {'latitude': '41.1812229', 'longitude': '-8.5361467'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'GDM-00012-02', 'evse_id': 'PT*HRZ*E*GDM*00012*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'GDM-00012-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-24T23:23:05.521Z'}], 'last_updated': '2023-06-10T19:54:43.146Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T19:54:43.146Z'}
+Removidos:[]
