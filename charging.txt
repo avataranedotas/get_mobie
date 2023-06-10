@@ -9427,3 +9427,6 @@ SNT-00115-01 evses -> 0: status : CHARGING
 
 2023-06-10 17:36:16
 SNT-00115-01 evses -> 0: status : CHARGING
+
+2023-06-10 18:16:14
+SNT-00115-01 evses -> 0: status : CHARGING
