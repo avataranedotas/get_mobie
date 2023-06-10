@@ -9411,3 +9411,7 @@ STC-00009-02 evses -> 5: status : CHARGING
 2023-06-10 11:36:33
 MAI-00036-02 evses -> 1: status : CHARGING
 MAI-00036-02 evses -> 1: status : CHARGING
+
+2023-06-10 11:43:48
+MAI-00036-02 evses -> 1: status : CHARGING
+MAI-00036-02 evses -> 1: status : CHARGING
