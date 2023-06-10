@@ -8484,3 +8484,9 @@ SVC-00004
 2023-06-10 01:19:30
 Adicionados:[]
 Removidos:['SNT-00091', 'SXL-00022']
+
+2023-06-10 03:14:06
+Adicionados:['CSC-00110']
+
+CSC-00110-->{'country_code': 'PT', 'party_id': 'CSC', 'id': 'CSC-00110', 'publish': True, 'address': 'Rua Dom. Francisco de Avilez', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-506', 'coordinates': {'latitude': '38.699446', 'longitude': '-9.423017'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00110-01', 'evse_id': 'PT*CSC*E*CSC*00110*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00110-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:40:42.533Z'}], 'last_updated': '2023-06-10T03:04:44.174Z'}, {'uid': 'CSC-00110-02', 'evse_id': 'PT*CSC*E*CSC*00110*02', 'status': 'CHARGING', 'connectors': [{'id': 'CSC-00110-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T19:40:42.535Z'}], 'last_updated': '2023-06-10T03:04:44.781Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-10T03:04:44.781Z'}
+Removidos:[]
