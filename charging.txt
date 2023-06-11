@@ -9537,3 +9537,6 @@ LLE-00145-01 evses -> 1: status : CHARGING
 
 2023-06-11 15:13:02
 LLE-00145-01 evses -> 1: status : CHARGING
+
+2023-06-11 15:36:13
+LLE-00145-01 evses -> 1: status : CHARGING
