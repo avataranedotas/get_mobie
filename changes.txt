@@ -8716,3 +8716,7 @@ Removidos:[]
 2023-06-12 09:36:13
 Adicionados:[]
 Removidos:['CVL-00009']
+
+2023-06-12 11:36:13
+Adicionados:[]
+Removidos:['PRT-00170', 'VNG-00103']
