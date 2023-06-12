@@ -9552,3 +9552,6 @@ EVR-00031-01 evses -> 1: status : CHARGING
 
 2023-06-12 09:36:17
 EVR-00031-01 evses -> 1: status : CHARGING
+
+2023-06-12 13:36:11
+EVR-00031-01 evses -> 1: status : CHARGING
