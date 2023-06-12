@@ -8792,3 +8792,9 @@ CHV-00011
 evses -> 2 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : CHADEMO
+
+2023-06-12 16:39:08
+Adicionados:['LSB-90022']
+
+LSB-90022-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LSB-90022', 'publish': True, 'address': 'Avenida do Colégio Militar', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1500-179', 'coordinates': {'latitude': '38.758642', 'longitude': '-9.185511'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-90022-2', 'evse_id': 'PT*KLC*E*LSB*90022*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T21:54:22.8Z'}], 'last_updated': '2023-06-12T16:20:48.891Z'}, {'uid': 'LSB-90022-1', 'evse_id': 'PT*KLC*E*LSB*90022*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T21:54:22.798Z'}], 'last_updated': '2023-06-12T16:17:49.698Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-12T16:20:48.891Z'}
+Removidos:[]
