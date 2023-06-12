@@ -8712,3 +8712,7 @@ Adicionados:['VNF-00031']
 
 VNF-00031-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'VNF-00031', 'publish': True, 'address': 'Av. de Santiago da Cruz 101', 'city': 'Vila Nova de Famalicão', 'country': 'PRT', 'postal_code': '4770-157', 'coordinates': {'latitude': '41.4428015', 'longitude': '-8.4955752'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'VNF-00031-04', 'evse_id': 'PT*HRZ*E*VNF*00031*04', 'status': 'CHARGING', 'connectors': [{'id': 'VNF-00031-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2023-06-10T12:10:04.187Z'}], 'last_updated': '2023-06-11T19:57:43.593Z'}, {'uid': 'VNF-00031-03', 'evse_id': 'PT*HRZ*E*VNF*00031*03', 'status': 'OUTOFORDER', 'connectors': [{'id': 'VNF-00031-03-01', 'standard': 'CHADEMO', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-10T12:10:04.185Z'}], 'last_updated': '2023-06-11T19:57:18.884Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-11T19:57:43.593Z'}
 Removidos:[]
+
+2023-06-12 09:36:13
+Adicionados:[]
+Removidos:['CVL-00009']
