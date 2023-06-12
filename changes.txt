@@ -8766,3 +8766,29 @@ CLB-00009
 : 
  NEW address : Avenida Dr. Marques Fernandes nÂº1
  OLD address : Avenida Dr. Marques Fernandes nº1
+
+2023-06-12 16:18:21
+Adicionados:['CSC-00103', 'LSB-90142', 'MFR-00025']
+
+CSC-00103-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CSC-00103', 'publish': True, 'address': 'R. Frei Nicolau de Oliveira 100', 'city': 'Cascais', 'country': 'PRT', 'postal_code': '2750-319', 'coordinates': {'latitude': '38.6910942', 'longitude': '-9.4262732'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CSC-00103-04', 'evse_id': 'PT*HRZ*E*CSC*00103*04', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:40.314Z'}, {'uid': 'CSC-00103-05', 'evse_id': 'PT*HRZ*E*CSC*00103*05', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-05-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:39.724Z'}, {'uid': 'CSC-00103-06', 'evse_id': 'PT*HRZ*E*CSC*00103*06', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-06-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:40.037Z'}, {'uid': 'CSC-00103-02', 'evse_id': 'PT*HRZ*E*CSC*00103*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:40.547Z'}, {'uid': 'CSC-00103-03', 'evse_id': 'PT*HRZ*E*CSC*00103*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:40.217Z'}, {'uid': 'CSC-00103-01', 'evse_id': 'PT*HRZ*E*CSC*00103*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'CSC-00103-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-09T16:40:10.181Z'}], 'last_updated': '2023-06-12T15:59:40.138Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-12T15:59:40.547Z'}
+
+LSB-90142-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LSB-90142', 'publish': True, 'address': 'Praça General Domingos de Oliveira', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1300-125', 'coordinates': {'latitude': '38.70763', 'longitude': '-9.173658'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LSB-90142-2', 'evse_id': 'PT*KLC*E*LSB*90142*2', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90142-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T21:55:31.746Z'}], 'last_updated': '2023-06-12T15:32:49.67Z'}, {'uid': 'LSB-90142-1', 'evse_id': 'PT*KLC*E*LSB*90142*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-90142-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-03-13T21:55:31.745Z'}], 'last_updated': '2023-06-12T15:32:49.665Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-12T15:32:49.67Z'}
+
+MFR-00025-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'MFR-00025', 'publish': True, 'address': 'Av. Dr. Francisco Sá Carneiro', 'city': 'Mafra', 'country': 'PRT', 'postal_code': '2640-486', 'coordinates': {'latitude': '38.94373', 'longitude': '-9.337538'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'MFR-00025-01', 'evse_id': 'PT*EVP*E*MFR*00025*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'MFR-00025-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-03-13T21:58:02.042Z'}], 'last_updated': '2023-06-12T16:00:24.311Z'}, {'uid': 'MFR-00025-02', 'evse_id': 'PT*EVP*E*MFR*00025*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'MFR-00025-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-03-13T21:58:02.043Z'}], 'last_updated': '2023-06-12T16:00:24.281Z'}, {'uid': 'MFR-00025-03', 'evse_id': 'PT*EVP*E*MFR*00025*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'MFR-00025-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T21:58:02.044Z'}], 'last_updated': '2023-06-12T16:00:24.777Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-12T16:00:24.777Z'}
+Removidos:['CSC-00111', 'PFR-00003', 'PRG-90001', 'PTG-90004', 'PTM-00003', 'SLV-90001']
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+CHV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 100000
+CHV-00011
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
