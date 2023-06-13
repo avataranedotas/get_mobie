@@ -9565,3 +9565,6 @@ EVR-00031-01 evses -> 1: status : CHARGING
 2023-06-12 15:14:33
 CLB-00009-02 evses -> 4: status : CHARGING
 VVD-00013-02 evses -> 1: status : CHARGING
+
+2023-06-13 12:54:33
+EVR-00031-01 evses -> 1: status : CHARGING
