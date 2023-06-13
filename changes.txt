@@ -8958,3 +8958,89 @@ Adicionados:['TVD-00011']
 
 TVD-00011-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'TVD-00011', 'publish': True, 'address': 'Rua Antonio Alves Ferreira', 'city': 'Torres Vedras', 'country': 'PRT', 'postal_code': '2560-256', 'coordinates': {'latitude': '39.101556', 'longitude': '-9.252972'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVD-00011-1', 'evse_id': 'PT*HRZ*E*TVD*00011*1', 'status': 'CHARGING', 'connectors': [{'id': 'TVD-00011-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-13T10:03:28.044Z'}], 'last_updated': '2023-06-13T15:59:55.473Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-13T15:59:55.473Z'}
 Removidos:[]
+
+2023-06-13 17:12:16
+Adicionados:['TMR-00002']
+
+TMR-00002-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'TMR-00002', 'publish': True, 'address': 'Hotel Templários', 'city': 'Tomar', 'country': 'PRT', 'postal_code': '2300-326', 'coordinates': {'latitude': '39.6070577', 'longitude': '-8.4135227'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TMR-00002-2', 'evse_id': 'PT*HRZ*E*TMR*00002*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00002-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-13T09:58:11.385Z'}], 'last_updated': '2023-06-13T16:40:02.0Z'}, {'uid': 'TMR-00002-1', 'evse_id': 'PT*HRZ*E*TMR*00002*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'TMR-00002-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-13T09:58:11.384Z'}], 'last_updated': '2023-06-13T16:40:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': True, 'last_updated': '2023-06-13T16:40:02.0Z'}
+Removidos:[]
+OLH-00004
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+OLH-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+OLH-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+OLH-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+OLH-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+OLH-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+OLH-00004
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+OLH-00004
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+PMS-00006
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00006
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PMS-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+PMS-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+PMS-00006
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PMS-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+PMS-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+PNF-00019
+: 
+ NEW address : Quinta do Sardoal - Zona Industrial nÂº 2
+ OLD address : Quinta do Sardoal - Zona Industrial nº 2
+PNF-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 180000
+PNF-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+PNF-00019
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 180000
