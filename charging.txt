@@ -9581,3 +9581,6 @@ SMG-00007-02 evses -> 0: status : CHARGING
 
 2023-06-13 14:36:10
 SMG-00007-02 evses -> 0: status : CHARGING
+
+2023-06-13 17:36:13
+EVR-00031-01 evses -> 1: status : CHARGING

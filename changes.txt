@@ -9044,3 +9044,165 @@ PNF-00019
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 180000
+
+2023-06-13 17:36:10
+STB-00034
+: 
+ NEW city : SetÃºbal
+ OLD city : Setúbal
+STB-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+STB-00034
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+STB-00034
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+STC-00009
+: 
+ NEW city : Santiago do CacÃ©m
+ OLD city : Santiago do Cacém
+STC-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 100000
+STC-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 100000
+STC-00009
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STC-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 300
+STC-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 150000
+STC-00009
+evses -> 4 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+STC-00009
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+STC-00009
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+STC-00009
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 150000
+VIS-00046
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VIS-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+VIS-00046
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+VIS-00046
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+VLG-00024
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VLG-00024
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 300
+VLG-00024
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+VLG-00024
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+VLG-00024
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VLG-00024
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+VLG-00024
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 50000
+VLG-00024
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+VLG-00024
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+VLG-00024
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+VNG-00102
+: 
+ NEW address : R. GonÃ§alves de Castro 780
+ OLD address : R. Gonçalves de Castro 780
+VNG-00102
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+VNG-00102
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+VNG-00102
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 120000
+VRL-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+VRL-00015
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VRL-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+VRL-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+VRL-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+VRL-00015
+evses -> 3 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VRL-00015
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VRL-00015
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
