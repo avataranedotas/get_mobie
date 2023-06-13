@@ -8844,3 +8844,7 @@ Adicionados:['CLB-00007']
 
 CLB-00007-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'CLB-00007', 'publish': True, 'address': 'Quinta dos Cedros', 'city': 'Celorico da Beira', 'country': 'PRT', 'postal_code': '6360-352', 'coordinates': {'latitude': '40.6259746', 'longitude': '-7.4024378'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'CLB-00007-1', 'evse_id': 'PT*KLC*E*CLB*00007*1', 'status': 'UNKNOWN', 'connectors': [{'id': 'CLB-00007-1-1', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-13T08:29:38.479Z'}], 'last_updated': '2023-06-13T08:29:38.479Z'}, {'uid': 'CLB-00007-2', 'evse_id': 'PT*KLC*E*CLB*00007*2', 'status': 'UNKNOWN', 'connectors': [{'id': 'CLB-00007-2-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-13T08:29:38.48Z'}], 'last_updated': '2023-06-13T08:29:38.48Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-13T08:29:38.478Z'}
 Removidos:[]
+
+2023-06-13 09:13:43
+Adicionados:[]
+Removidos:['CLB-00009', 'CLD-00023', 'FND-00006', 'TMR-00026', 'VVD-00013']
