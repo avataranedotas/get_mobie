@@ -9587,3 +9587,6 @@ EVR-00031-01 evses -> 1: status : CHARGING
 
 2023-06-13 19:11:18
 LSB-00609-02 evses -> 1: status : CHARGING
+
+2023-06-13 23:36:06
+LSB-00609-02 evses -> 1: status : CHARGING
