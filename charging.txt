@@ -9568,3 +9568,7 @@ VVD-00013-02 evses -> 1: status : CHARGING
 
 2023-06-13 12:54:33
 EVR-00031-01 evses -> 1: status : CHARGING
+
+2023-06-13 13:17:30
+EVR-00031-01 evses -> 1: status : CHARGING
+SMG-00007-02 evses -> 0: status : CHARGING

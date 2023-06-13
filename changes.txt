@@ -8924,3 +8924,13 @@ CLB-00009-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'CLB-00009', 'publis
 
 LSB-00333-->{'country_code': 'PT', 'party_id': 'MLT', 'id': 'LSB-00333', 'publish': True, 'address': 'Rua Mar do Norte', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1990-203', 'coordinates': {'latitude': '38.764409', 'longitude': '-9.096576'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00333-01', 'evse_id': 'PT*MLT*E*LSB*00333*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00333-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:00:51.934Z'}], 'last_updated': '2023-06-13T12:38:26.012Z'}, {'uid': 'LSB-00333-02', 'evse_id': 'PT*MLT*E*LSB*00333*02', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00333-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-13T20:00:51.935Z'}], 'last_updated': '2023-06-13T12:39:29.86Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-13T12:39:29.86Z'}
 Removidos:[]
+
+2023-06-13 13:17:27
+Adicionados:['ODM-00012']
+
+ODM-00012-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ODM-00012', 'publish': True, 'address': 'Casas da Lupa Herdade dos Currais de Baixo', 'city': 'Odemira', 'country': 'PRT', 'postal_code': '7630-585', 'coordinates': {'latitude': '37.5425481', 'longitude': '-8.7361074'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ODM-00012-02', 'evse_id': 'PT*EDP*E*ODM*00012*02', 'status': 'CHARGING', 'connectors': [{'id': 'ODM-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:02:59.514Z'}], 'last_updated': '2023-06-13T12:55:10.777Z'}, {'uid': 'ODM-00012-01', 'evse_id': 'PT*EDP*E*ODM*00012*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'ODM-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:02:59.514Z'}], 'last_updated': '2023-06-13T12:55:04.223Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-13T12:55:10.777Z'}
+Removidos:[]
+TND-00008
+: 
+ NEW address : Av. Dr. Francisco SÃ¡ Carneiro 170
+ OLD address : Av. Dr. Francisco Sá Carneiro 170
