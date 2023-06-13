@@ -8934,3 +8934,15 @@ TND-00008
 : 
  NEW address : Av. Dr. Francisco SÃ¡ Carneiro 170
  OLD address : Av. Dr. Francisco Sá Carneiro 170
+
+2023-06-13 14:36:06
+Adicionados:[]
+Removidos:['LSB-90033']
+MMN-00008
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+MMN-00008
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
