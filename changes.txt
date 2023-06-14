@@ -9302,3 +9302,7 @@ Adicionados:['BCL-00009']
 
 BCL-00009-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'BCL-00009', 'publish': True, 'address': 'Área de Serviço de Barcelos N/S, A3 Km 56.4', 'city': 'Barcelos', 'country': 'PRT', 'postal_code': '4750-000', 'coordinates': {'latitude': '41.60547', 'longitude': '-8.551002'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'BCL-00009-1', 'evse_id': 'PT*ION*E*BCL*00009*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'BCL-00009-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-14T09:16:04.278Z'}], 'last_updated': '2023-06-14T13:04:43.635Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T13:04:43.635Z'}
 Removidos:[]
+
+2023-06-14 14:36:09
+Adicionados:[]
+Removidos:['ALB-00007', 'SXL-00034', 'TVD-00028']
