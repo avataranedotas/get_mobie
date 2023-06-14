@@ -9212,3 +9212,9 @@ Adicionados:['AMD-00020']
 
 AMD-00020-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'AMD-00020', 'publish': True, 'address': 'Rua dos Eucaliptos', 'city': 'Amadora', 'country': 'PRT', 'postal_code': '2610-069', 'coordinates': {'latitude': '38.740001', 'longitude': '-9.224464'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'AMD-00020-1', 'evse_id': 'PT*HRZ*E*AMD*00020*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'AMD-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-13T09:45:53.819Z'}], 'last_updated': '2023-06-14T01:00:03.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T01:00:03.0Z'}
 Removidos:[]
+
+2023-06-14 02:30:55
+Adicionados:['LRS-00046']
+
+LRS-00046-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'LRS-00046', 'publish': True, 'address': 'Avenida São João', 'city': 'Loures', 'country': 'PRT', 'postal_code': '2660-421', 'coordinates': {'latitude': '38.8679989', 'longitude': '-9.1076606'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LRS-00046-1', 'evse_id': 'PT*HRZ*E*LRS*00046*1', 'status': 'CHARGING', 'connectors': [{'id': 'LRS-00046-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-13T09:22:55.818Z'}], 'last_updated': '2023-06-14T01:49:26.299Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T01:49:26.299Z'}
+Removidos:[]
