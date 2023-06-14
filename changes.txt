@@ -9312,3 +9312,9 @@ Adicionados:['PDL-00007']
 
 PDL-00007-->{'country_code': 'PT', 'party_id': 'SEG', 'id': 'PDL-00007', 'publish': True, 'address': 'Avenida D. Manuel I', 'city': 'Ponta Delgada', 'country': 'PRT', 'postal_code': '9500-370', 'coordinates': {'latitude': '37.751492', 'longitude': '-25.677764'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PDL-00007-01', 'evse_id': 'PT*SEG*E*PDL*00007*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PDL-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T11:21:40.425Z'}], 'last_updated': '2023-06-14T14:54:23.194Z'}], 'time_zone': 'Atlantic/Azores', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T14:54:23.194Z'}
 Removidos:['LLE-00074']
+
+2023-06-14 15:36:11
+CLT-00005
+: 
+ NEW time_zone : Atlantic/Madeira
+ OLD time_zone : Europe/Lisbon
