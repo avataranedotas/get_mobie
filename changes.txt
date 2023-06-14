@@ -9364,3 +9364,9 @@ Adicionados:['ALB-00007']
 
 ALB-00007-->{'country_code': 'PT', 'party_id': 'EDP', 'id': 'ALB-00007', 'publish': True, 'address': 'BK Albergaria-a-Velha, IC 2, nº3 LT', 'city': 'Albergaria-a-Velha', 'country': 'PRT', 'postal_code': '3850-297', 'coordinates': {'latitude': '40.7128522', 'longitude': '-8.4819682'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'ALB-00007-01', 'evse_id': 'PT*EDP*E*ALB*00007*01', 'status': 'CHARGING', 'connectors': [{'id': 'ALB-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-06-14T14:12:42.337Z'}], 'last_updated': '2023-06-14T18:12:54.904Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T18:12:54.904Z'}
 Removidos:[]
+
+2023-06-14 19:11:14
+Adicionados:['PRT-00143']
+
+PRT-00143-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'PRT-00143', 'publish': True, 'address': 'Ordem do Medicos, Rua Delfim Maia, 405', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4200-256', 'coordinates': {'latitude': '41.17216', 'longitude': '-8.6098999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00143-1', 'evse_id': 'PT*MOT*E*PRT*00143*1', 'status': 'CHARGING', 'connectors': [{'id': 'PRT-00143-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-14T15:44:20.988Z'}], 'last_updated': '2023-06-14T18:26:43.865Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T18:26:43.865Z'}
+Removidos:[]
