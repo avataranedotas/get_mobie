@@ -9616,3 +9616,7 @@ TVR-00017-02 evses -> 1: status : CHARGING
 2023-06-14 13:36:05
 EVR-00031-01 evses -> 1: status : CHARGING
 TVR-00017-02 evses -> 1: status : CHARGING
+
+2023-06-14 14:12:41
+EVR-00031-01 evses -> 1: status : CHARGING
+TVR-00017-02 evses -> 1: status : CHARGING
