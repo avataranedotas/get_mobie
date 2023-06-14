@@ -9336,3 +9336,17 @@ evses -> 0 -> connectors -> 0:
 2023-06-14 16:39:47
 Adicionados:[]
 Removidos:['PRT-00099']
+
+2023-06-14 17:12:08
+Adicionados:['PRT-00099']
+
+PRT-00099-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'PRT-00099', 'publish': True, 'address': 'Rua de Sá da Bandeira', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4000-453', 'coordinates': {'latitude': '41.151664', 'longitude': '-8.606268'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00099-01', 'evse_id': 'PT*GLP*E*PRT*00099*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00099-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-13T22:35:02.683Z'}], 'last_updated': '2023-06-14T17:05:02.0Z'}, {'uid': 'PRT-00099-03', 'evse_id': 'PT*GLP*E*PRT*00099*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00099-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-03-13T22:35:02.686Z'}], 'last_updated': '2023-06-14T17:05:02.0Z'}, {'uid': 'PRT-00099-02', 'evse_id': 'PT*GLP*E*PRT*00099*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00099-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-13T22:35:02.685Z'}], 'last_updated': '2023-06-14T17:05:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T17:05:02.0Z'}
+Removidos:['OER-00140', 'VNG-00035']
+VNF-00024
+: 
+ NEW address : Rua José António Vidal 81
+ OLD address : Rua JosÃ© AntÃ³nio Vidal 81
+VNF-00024
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
