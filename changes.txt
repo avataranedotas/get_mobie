@@ -9376,3 +9376,9 @@ Adicionados:['VNG-00035']
 
 VNG-00035-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VNG-00035', 'publish': True, 'address': 'R. 28 de Janeiro', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-335', 'coordinates': {'latitude': '41.137128', 'longitude': '-8.630688'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00035-1', 'evse_id': 'PT*KLC*E*VNG*00035*1', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00035-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T16:43:55.383Z'}], 'last_updated': '2023-06-14T19:34:26.362Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T19:34:26.362Z'}
 Removidos:[]
+
+2023-06-14 21:12:27
+Adicionados:['TVD-00028']
+
+TVD-00028-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'TVD-00028', 'publish': True, 'address': 'RUA MARIA BARRETO BASTOS', 'city': 'Torres Vedras', 'country': 'PRT', 'postal_code': '2560-350', 'coordinates': {'latitude': '39.09014', 'longitude': '-9.261195'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVD-00028-02', 'evse_id': 'PT*GLP*E*TVD*00028*02', 'status': 'CHARGING', 'connectors': [{'id': 'TVD-00028-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-14T14:09:14.32Z'}], 'last_updated': '2023-06-14T20:34:53.903Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T20:34:53.903Z'}
+Removidos:[]
