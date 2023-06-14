@@ -9637,3 +9637,7 @@ CLB-00009-03 evses -> 1: status : CHARGING
 
 2023-06-14 19:36:11
 CLB-00009-03 evses -> 1: status : CHARGING
+
+2023-06-14 20:14:27
+CLB-00009-03 evses -> 1: status : CHARGING
+LSB-00609-01 evses -> 0: status : CHARGING

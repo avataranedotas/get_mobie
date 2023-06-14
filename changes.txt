@@ -9370,3 +9370,9 @@ Adicionados:['PRT-00143']
 
 PRT-00143-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'PRT-00143', 'publish': True, 'address': 'Ordem do Medicos, Rua Delfim Maia, 405', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4200-256', 'coordinates': {'latitude': '41.17216', 'longitude': '-8.6098999'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00143-1', 'evse_id': 'PT*MOT*E*PRT*00143*1', 'status': 'CHARGING', 'connectors': [{'id': 'PRT-00143-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-14T15:44:20.988Z'}], 'last_updated': '2023-06-14T18:26:43.865Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T18:26:43.865Z'}
 Removidos:[]
+
+2023-06-14 20:14:22
+Adicionados:['VNG-00035']
+
+VNG-00035-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'VNG-00035', 'publish': True, 'address': 'R. 28 de Janeiro', 'city': 'Vila Nova de Gaia', 'country': 'PRT', 'postal_code': '4400-335', 'coordinates': {'latitude': '41.137128', 'longitude': '-8.630688'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'VNG-00035-1', 'evse_id': 'PT*KLC*E*VNG*00035*1', 'status': 'CHARGING', 'connectors': [{'id': 'VNG-00035-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T16:43:55.383Z'}], 'last_updated': '2023-06-14T19:34:26.362Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T19:34:26.362Z'}
+Removidos:[]
