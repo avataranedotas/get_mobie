@@ -9332,3 +9332,7 @@ STC-00007
 evses -> 0 -> connectors -> 0: 
  NEW power_type : AC_3_PHASE
  OLD power_type : DC
+
+2023-06-14 16:39:47
+Adicionados:[]
+Removidos:['PRT-00099']
