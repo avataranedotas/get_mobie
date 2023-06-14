@@ -9318,3 +9318,17 @@ CLT-00005
 : 
  NEW time_zone : Atlantic/Madeira
  OLD time_zone : Europe/Lisbon
+
+2023-06-14 16:19:10
+Adicionados:['CTB-00019']
+
+CTB-00019-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'CTB-00019', 'publish': True, 'address': 'Área de Serviço CEPSA A23 Castelo Branco S-N', 'city': 'Castelo Branco', 'country': 'PRT', 'postal_code': '6005-999', 'coordinates': {'latitude': '39.888322', 'longitude': '-7.486825'}, 'parking_type': 'ALONG_MOTORWAY', 'evses': [{'uid': 'CTB-00019-1', 'evse_id': 'PT*ION*E*CTB*00019*1', 'status': 'CHARGING', 'connectors': [{'id': 'CTB-00019-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-14T09:40:31.83Z'}], 'last_updated': '2023-06-14T16:01:13.49Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T16:01:13.49Z'}
+Removidos:['FUN-00026', 'FUN-00027', 'LSB-00413', 'LSB-00414', 'LSB-00415', 'PRT-00141', 'PRT-00142', 'PRT-00143', 'PRT-00144']
+STC-00007
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do CacÃ©m
+STC-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
