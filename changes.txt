@@ -9404,3 +9404,13 @@ Removidos:['GRD-00006']
 2023-06-15 10:15:08
 Adicionados:[]
 Removidos:['LSB-01529']
+
+2023-06-15 11:11:24
+PVZ-00029
+: 
+ NEW address : PraÃ§a do Almada, 4490-438 PÃ³voa de Varzim
+ OLD address : Praça do Almada, 4490-438 Póvoa de Varzim
+PVZ-00029
+: 
+ NEW city : PÃ³voa de Varzim
+ OLD city : Póvoa de Varzim
