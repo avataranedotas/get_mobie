@@ -9460,3 +9460,9 @@ SMG-00009
 : 
  NEW address : Maxicompra GlÃ³ria - Rua Quebrada de Ãgua
  OLD address : Maxicompra Glória - Rua Quebrada de Água
+
+2023-06-15 15:36:12
+Adicionados:['SXL-00034']
+
+SXL-00034-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'SXL-00034', 'publish': True, 'address': 'Avenida 25 Abril, 6 A-B, Corroios', 'city': 'Seixal', 'country': 'PRT', 'postal_code': '2855-228', 'coordinates': {'latitude': '38.651182', 'longitude': '-9.143163'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SXL-00034-02', 'evse_id': 'PT*GLP*E*SXL*00034*02', 'status': 'CHARGING', 'connectors': [{'id': 'SXL-00034-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-14T14:07:30.197Z'}], 'last_updated': '2023-06-15T15:16:22.764Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T15:16:22.764Z'}
+Removidos:[]
