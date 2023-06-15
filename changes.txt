@@ -9440,3 +9440,13 @@ LSB-00610-->{'country_code': 'PT', 'party_id': 'WEN', 'id': 'LSB-00610', 'publis
 
 LSB-00611-->{'country_code': 'PT', 'party_id': 'WEN', 'id': 'LSB-00611', 'publish': True, 'address': 'Av. Dom João II n.º 27', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1990-083', 'coordinates': {'latitude': '38.76664', 'longitude': '-9.09831'}, 'parking_type': 'UNDERGROUND_GARAGE', 'evses': [{'uid': 'LSB-00611-01', 'evse_id': 'PT*WEN*E*LSB*00611*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00611-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-01T13:59:36.724Z'}], 'last_updated': '2023-06-15T12:30:00.497Z'}, {'uid': 'LSB-00611-02', 'evse_id': 'PT*WEN*E*LSB*00611*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'LSB-00611-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-01T13:59:36.724Z'}], 'last_updated': '2023-06-15T12:30:00.783Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTN', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T12:30:00.783Z'}
 Removidos:[]
+
+2023-06-15 13:36:40
+SJP-00002
+: 
+ NEW address : Av. JoÃ£o do Nascimento Costa
+ OLD address : Av. João do Nascimento Costa
+SJP-00002
+: 
+ NEW city : SÃ£o JoÃ£o da Pesqueira
+ OLD city : São João da Pesqueira
