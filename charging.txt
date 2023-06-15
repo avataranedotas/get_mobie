@@ -9685,3 +9685,7 @@ SVC-00004-02 evses -> 1: status : CHARGING
 2023-06-15 15:36:17
 GMR-00060-01 evses -> 1: status : CHARGING
 GMR-00060-01 evses -> 1: status : CHARGING
+
+2023-06-15 16:38:25
+EVR-00031-01 evses -> 1: status : CHARGING
+LSB-00609-01 evses -> 0: status : CHARGING
