@@ -9382,3 +9382,9 @@ Adicionados:['TVD-00028']
 
 TVD-00028-->{'country_code': 'PT', 'party_id': 'GLP', 'id': 'TVD-00028', 'publish': True, 'address': 'RUA MARIA BARRETO BASTOS', 'city': 'Torres Vedras', 'country': 'PRT', 'postal_code': '2560-350', 'coordinates': {'latitude': '39.09014', 'longitude': '-9.261195'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'TVD-00028-02', 'evse_id': 'PT*GLP*E*TVD*00028*02', 'status': 'CHARGING', 'connectors': [{'id': 'TVD-00028-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-14T14:09:14.32Z'}], 'last_updated': '2023-06-14T20:34:53.903Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-14T20:34:53.903Z'}
 Removidos:[]
+
+2023-06-15 06:18:23
+Adicionados:['BCL-00011']
+
+BCL-00011-->{'country_code': 'PT', 'party_id': 'ION', 'id': 'BCL-00011', 'publish': True, 'address': 'Área de Serviço de Barcelos S/N, A3 Km 56.4', 'city': 'Barcelos', 'country': 'PRT', 'postal_code': '4750-000', 'coordinates': {'latitude': '41.604243', 'longitude': '-8.549764'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'BCL-00011-1', 'evse_id': 'PT*ION*E*BCL*00011*1', 'status': 'CHARGING', 'connectors': [{'id': 'BCL-00011-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-14T09:05:41.172Z'}], 'last_updated': '2023-06-15T05:43:52.003Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T05:43:52.003Z'}
+Removidos:[]
