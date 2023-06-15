@@ -9396,3 +9396,7 @@ FIG-00009-->{'country_code': 'PT', 'party_id': 'LOG', 'id': 'FIG-00009', 'publis
 
 PRT-00142-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'PRT-00142', 'publish': True, 'address': 'Ordem do Medicos, Rua Delfim Maia, 405', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4200-256', 'coordinates': {'latitude': '41.17214', 'longitude': '-8.60989'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00142-1', 'evse_id': 'PT*MOT*E*PRT*00142*1', 'status': 'CHARGING', 'connectors': [{'id': 'PRT-00142-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-14T15:42:37.092Z'}], 'last_updated': '2023-06-15T08:37:25.446Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T08:37:25.446Z'}
 Removidos:['BRG-00079', 'LSB-00472']
+
+2023-06-15 09:35:58
+Adicionados:[]
+Removidos:['GRD-00006']
