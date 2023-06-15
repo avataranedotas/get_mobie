@@ -9678,3 +9678,6 @@ LLE-00142-01 evses -> 0: status : CHARGING
 
 2023-06-15 14:36:10
 LLE-00142-01 evses -> 0: status : CHARGING
+
+2023-06-15 15:14:23
+SVC-00004-02 evses -> 1: status : CHARGING
