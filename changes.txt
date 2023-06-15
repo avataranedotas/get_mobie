@@ -9414,3 +9414,15 @@ PVZ-00029
 : 
  NEW city : PÃ³voa de Varzim
  OLD city : Póvoa de Varzim
+
+2023-06-15 11:36:15
+Adicionados:[]
+Removidos:['PVZ-00008', 'PVZ-00009']
+PVZ-00029
+: 
+ NEW address : Praça do Almada, 4490-438 Póvoa de Varzim
+ OLD address : PraÃ§a do Almada, 4490-438 PÃ³voa de Varzim
+PVZ-00029
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
