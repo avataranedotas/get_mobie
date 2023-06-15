@@ -9482,3 +9482,9 @@ Removidos:[]
 2023-06-15 17:36:01
 Adicionados:[]
 Removidos:['OER-00167']
+
+2023-06-15 18:17:01
+Adicionados:['FUN-00026']
+
+FUN-00026-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'FUN-00026', 'publish': True, 'address': 'Estrada Monumental, 390', 'city': 'Funchal', 'country': 'PRT', 'postal_code': '9004-568', 'coordinates': {'latitude': '32.63666', 'longitude': '-16.94286'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FUN-00026-1', 'evse_id': 'PT*MOT*E*FUN*00026*1', 'status': 'CHARGING', 'connectors': [{'id': 'FUN-00026-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-14T15:47:48.173Z'}], 'last_updated': '2023-06-15T18:06:21.305Z'}], 'time_zone': 'Atlantic/Madeira', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T18:06:21.305Z'}
+Removidos:[]
