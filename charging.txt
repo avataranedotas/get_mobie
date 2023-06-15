@@ -9663,3 +9663,6 @@ LSB-00609-01 evses -> 0: status : CHARGING
 
 2023-06-15 11:36:19
 LSB-00609-01 evses -> 0: status : CHARGING
+
+2023-06-15 12:55:51
+LLE-00142-01 evses -> 0: status : CHARGING
