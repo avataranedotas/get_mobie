@@ -9696,3 +9696,6 @@ LSB-00609-02 evses -> 1: status : CHARGING
 
 2023-06-15 18:17:05
 ARC-00004-01 evses -> 1: status : CHARGING
+
+2023-06-15 18:36:07
+ARC-00004-01 evses -> 1: status : CHARGING
