@@ -9478,3 +9478,7 @@ Adicionados:['LSB-00415']
 
 LSB-00415-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'LSB-00415', 'publish': True, 'address': 'Universidade Católica Portuguesa', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1600-178', 'coordinates': {'latitude': '38.7483001', 'longitude': '-9.16596'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00415-1', 'evse_id': 'PT*MOT*E*LSB*00415*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00415-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T15:30:31.975Z'}], 'last_updated': '2023-06-15T16:20:45.72Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-15T16:20:45.72Z'}
 Removidos:[]
+
+2023-06-15 17:36:01
+Adicionados:[]
+Removidos:['OER-00167']
