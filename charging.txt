@@ -9759,3 +9759,6 @@ LSB-00446-1 evses -> 0: status : CHARGING
 
 2023-06-16 19:11:01
 LSB-00446-1 evses -> 0: status : CHARGING
+
+2023-06-16 19:36:10
+LSB-00446-1 evses -> 0: status : CHARGING
