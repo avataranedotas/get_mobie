@@ -9638,3 +9638,13 @@ Adicionados:['SNT-00078']
 
 SNT-00078-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SNT-00078', 'publish': True, 'address': 'Avenida da Liberdade, n.º 151', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2715-004', 'coordinates': {'latitude': '38.861389', 'longitude': '-9.326944'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00078-03', 'evse_id': 'PT*KLC*E*SNT*00078*03', 'status': 'CHARGING', 'connectors': [{'id': 'SNT-00078-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-16T08:51:36.894Z'}], 'last_updated': '2023-06-16T14:09:57.475Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T14:09:57.475Z'}
 Removidos:[]
+
+2023-06-16 15:14:10
+FND-00005
+: 
+ NEW address : Rua Dr. António José Saraiva
+ OLD address : Rua Dr. AntÃ³nio JosÃ© Saraiva
+FND-00005
+: 
+ NEW city : Fundão
+ OLD city : FundÃ£o
