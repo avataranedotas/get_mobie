@@ -9680,3 +9680,9 @@ STS-00017
 : 
  NEW address : Lugar Do QuintÃ£o, Rua SÃ£o Miguel 183
  OLD address : Lugar Do Quintão, Rua São Miguel 183
+
+2023-06-16 18:36:09
+Adicionados:['EVR-00016']
+
+EVR-00016-->{'country_code': 'PT', 'party_id': 'VEI', 'id': 'EVR-00016', 'publish': True, 'address': 'Ecorkhotel Évora', 'city': 'Évora', 'country': 'PRT', 'postal_code': '7000-804', 'coordinates': {'latitude': '38.553286', 'longitude': '-7.970159'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'EVR-00016-1', 'evse_id': 'PT*VEI*E*EVR*00016*1', 'status': 'AVAILABLE', 'connectors': [{'id': 'EVR-00016-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T07:39:55.326Z'}], 'last_updated': '2023-06-16T18:09:27.505Z'}, {'uid': 'EVR-00016-2', 'evse_id': 'PT*VEI*E*EVR*00016*2', 'status': 'CHARGING', 'connectors': [{'id': 'EVR-00016-2-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T07:39:55.327Z'}], 'last_updated': '2023-06-16T18:10:11.713Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': True, 'last_updated': '2023-06-16T18:10:11.713Z'}
+Removidos:[]
