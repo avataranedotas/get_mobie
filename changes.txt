@@ -9648,3 +9648,9 @@ FND-00005
 : 
  NEW city : Fundão
  OLD city : FundÃ£o
+
+2023-06-16 15:36:02
+Adicionados:['FIG-00021']
+
+FIG-00021-->{'country_code': 'PT', 'party_id': 'IBD', 'id': 'FIG-00021', 'publish': True, 'address': 'Praceta Dr. Ernesto Tomé', 'city': 'Figueira da Foz', 'country': 'PRT', 'postal_code': '3080-012', 'coordinates': {'latitude': '40.158173', 'longitude': '-8.857269'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'FIG-00021-02', 'evse_id': 'PT*IBD*E*FIG*00021*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'FIG-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T11:20:20.407Z'}], 'last_updated': '2023-06-16T15:15:02.0Z'}, {'uid': 'FIG-00021-01', 'evse_id': 'PT*IBD*E*FIG*00021*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'FIG-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T11:20:20.406Z'}], 'last_updated': '2023-06-16T15:15:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T15:15:02.0Z'}
+Removidos:[]
