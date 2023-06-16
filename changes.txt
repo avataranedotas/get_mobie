@@ -9526,3 +9526,13 @@ Adicionados:['FIG-00002']
 
 FIG-00002-->{'country_code': 'PT', 'party_id': 'EVP', 'id': 'FIG-00002', 'publish': True, 'address': 'Avenida Saraiva de Carvalho', 'city': 'Figueira da Foz', 'country': 'PRT', 'postal_code': '3084-501', 'coordinates': {'latitude': '40.147871', 'longitude': '-8.854044'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'FIG-00002-01', 'evse_id': 'PT*EVP*E*FIG*00002*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'FIG-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-16T07:23:30.467Z'}], 'last_updated': '2023-06-16T07:25:27.307Z'}, {'uid': 'FIG-00002-02', 'evse_id': 'PT*EVP*E*FIG*00002*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'FIG-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-16T07:23:30.468Z'}], 'last_updated': '2023-06-16T07:25:27.307Z'}, {'uid': 'FIG-00002-03', 'evse_id': 'PT*EVP*E*FIG*00002*03', 'status': 'AVAILABLE', 'connectors': [{'id': 'FIG-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-16T07:23:30.469Z'}], 'last_updated': '2023-06-16T07:25:27.307Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T07:25:27.279Z'}
 Removidos:[]
+
+2023-06-16 08:17:19
+Adicionados:['LSB-00414']
+
+LSB-00414-->{'country_code': 'PT', 'party_id': 'MOT', 'id': 'LSB-00414', 'publish': True, 'address': 'Universidade Católica Portuguesa', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1600-178', 'coordinates': {'latitude': '38.7483001', 'longitude': '-9.16596'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LSB-00414-1', 'evse_id': 'PT*MOT*E*LSB*00414*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00414-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T15:28:48.082Z'}], 'last_updated': '2023-06-16T07:51:23.867Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T07:51:23.867Z'}
+Removidos:['BRG-00048', 'BRG-00049', 'CSC-00107', 'EVR-00016', 'LLE-00048', 'LRA-00040', 'LRA-00041', 'LRA-00042']
+PRT-00182
+: 
+ NEW address : KFC - Rua das Palmeiras, nÂº51
+ OLD address : KFC - Rua das Palmeiras, nº51
