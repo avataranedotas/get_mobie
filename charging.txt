@@ -9746,3 +9746,9 @@ LSB-00446-1 evses -> 0: status : CHARGING
 ELV-00006-02 evses -> 1: status : CHARGING
 EVR-00031-01 evses -> 1: status : CHARGING
 LSB-00446-1 evses -> 0: status : CHARGING
+
+2023-06-16 18:17:09
+CLB-00009-02 evses -> 3: status : CHARGING
+EVR-00031-01 evses -> 1: status : CHARGING
+LSB-00446-1 evses -> 0: status : CHARGING
+SNT-00116-1 evses -> 0: status : CHARGING
