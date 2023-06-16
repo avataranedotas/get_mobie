@@ -9536,3 +9536,7 @@ PRT-00182
 : 
  NEW address : KFC - Rua das Palmeiras, nÂº51
  OLD address : KFC - Rua das Palmeiras, nº51
+
+2023-06-16 08:36:05
+Adicionados:[]
+Removidos:['LRA-00043', 'LRA-00044', 'LRA-00045', 'LRS-00054', 'LRS-00060', 'LSB-00204', 'LSB-00208']
