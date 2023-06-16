@@ -9632,3 +9632,9 @@ ABT-00019-->{'country_code': 'PT', 'party_id': 'SLV', 'id': 'ABT-00019', 'publis
 
 LSB-00264-->{'country_code': 'PT', 'party_id': 'MAK', 'id': 'LSB-00264', 'publish': True, 'address': 'Praça Marquês de Pombal', 'city': 'Lisboa', 'country': 'PRT', 'postal_code': '1250-000', 'coordinates': {'latitude': '38.72636', 'longitude': '-9.15117'}, 'parking_type': 'PARKING_GARAGE', 'evses': [{'uid': 'LSB-00264-1', 'evse_id': 'PT*MAK*E*LSB*00264*1', 'status': 'CHARGING', 'connectors': [{'id': 'LSB-00264-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T10:24:54.828Z'}], 'last_updated': '2023-06-16T13:34:35.706Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T13:34:35.706Z'}
 Removidos:[]
+
+2023-06-16 14:36:20
+Adicionados:['SNT-00078']
+
+SNT-00078-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'SNT-00078', 'publish': True, 'address': 'Avenida da Liberdade, n.º 151', 'city': 'Sintra', 'country': 'PRT', 'postal_code': '2715-004', 'coordinates': {'latitude': '38.861389', 'longitude': '-9.326944'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'SNT-00078-03', 'evse_id': 'PT*KLC*E*SNT*00078*03', 'status': 'CHARGING', 'connectors': [{'id': 'SNT-00078-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-16T08:51:36.894Z'}], 'last_updated': '2023-06-16T14:09:57.475Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T14:09:57.475Z'}
+Removidos:[]
