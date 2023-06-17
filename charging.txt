@@ -9783,3 +9783,7 @@ LSB-00446-1 evses -> 0: status : CHARGING
 
 2023-06-17 09:13:01
 TVD-00028-02 evses -> 0: status : CHARGING
+
+2023-06-17 09:36:20
+TVD-00028-02 evses -> 0: status : CHARGING
+TVD-00028-01 evses -> 1: status : CHARGING
