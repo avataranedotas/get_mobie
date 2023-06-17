@@ -9790,3 +9790,6 @@ TVD-00028-01 evses -> 1: status : CHARGING
 
 2023-06-17 10:13:40
 TVD-00028-01 evses -> 1: status : CHARGING
+
+2023-06-17 10:36:03
+TVD-00028-01 evses -> 1: status : CHARGING
