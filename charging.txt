@@ -9799,3 +9799,8 @@ TVD-00028-01 evses -> 1: status : CHARGING
 
 2023-06-17 11:36:11
 SMG-00008-02 evses -> 1: status : CHARGING
+
+2023-06-17 12:25:28
+LSB-90122-01 evses -> 0: status : CHARGING
+LSB-90122-02 evses -> 1: status : CHARGING
+SMG-00008-02 evses -> 1: status : CHARGING
