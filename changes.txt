@@ -9704,3 +9704,89 @@ Adicionados:['PRT-00194']
 
 PRT-00194-->{'country_code': 'PT', 'party_id': 'HRZ', 'id': 'PRT-00194', 'publish': True, 'address': 'Av. da Boavista 2528', 'city': 'Porto', 'country': 'PRT', 'postal_code': '4100-119', 'coordinates': {'latitude': '41.162216', 'longitude': '-8.6533396'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'PRT-00194-02', 'evse_id': 'PT*HRZ*E*PRT*00194*02', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00194-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-08T00:13:48.929Z'}], 'last_updated': '2023-06-16T23:25:02.0Z'}, {'uid': 'PRT-00194-01', 'evse_id': 'PT*HRZ*E*PRT*00194*01', 'status': 'AVAILABLE', 'connectors': [{'id': 'PRT-00194-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-08T00:13:48.928Z'}], 'last_updated': '2023-06-16T23:25:02.0Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-16T23:25:02.0Z'}
 Removidos:[]
+
+2023-06-17 10:13:36
+Adicionados:['LLE-00074']
+
+LLE-00074-->{'country_code': 'PT', 'party_id': 'LCG', 'id': 'LLE-00074', 'publish': True, 'address': 'Av. do Mar', 'city': 'Loulé', 'country': 'PRT', 'postal_code': '8135-034', 'coordinates': {'latitude': '37.05205', 'longitude': '-8.064912'}, 'parking_type': 'ON_STREET', 'evses': [{'uid': 'LLE-00074-01', 'evse_id': 'PT*LCG*E*LLE*00074*01', 'status': 'CHARGING', 'connectors': [{'id': 'LLE-00074-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T14:32:42.979Z'}], 'last_updated': '2023-06-17T09:39:49.409Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'BTE', 'mobie_mobi_charger': False, 'last_updated': '2023-06-17T09:39:49.409Z'}
+Removidos:[]
+STS-00004
+evses -> 0: 
+ NEW uid : STS-00004-02
+ OLD uid : STS-00004-03
+STS-00004
+evses -> 0: 
+ NEW evse_id : PT*HLX*E*STS*00004*02
+ OLD evse_id : PT*HLX*E*STS*00004*03
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW id : STS-00004-02-01
+ OLD id : STS-00004-03-01
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+STS-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+STS-00004
+evses -> 1: 
+ NEW uid : STS-00004-01
+ OLD uid : STS-00004-02
+STS-00004
+evses -> 1: 
+ NEW evse_id : PT*HLX*E*STS*00004*01
+ OLD evse_id : PT*HLX*E*STS*00004*02
+STS-00004
+evses -> 1 -> connectors -> 0: 
+ NEW id : STS-00004-01-01
+ OLD id : STS-00004-02-01
+STS-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STS-00004
+evses -> 2: 
+ NEW uid : STS-00004-03
+ OLD uid : STS-00004-01
+STS-00004
+evses -> 2: 
+ NEW evse_id : PT*HLX*E*STS*00004*03
+ OLD evse_id : PT*HLX*E*STS*00004*01
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW id : STS-00004-03-01
+ OLD id : STS-00004-01-01
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+STS-00004
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
