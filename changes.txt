@@ -9790,3 +9790,21 @@ STS-00004
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 43000
  OLD max_electric_power : 50000
+
+2023-06-17 11:11:31
+CSC-00112
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00112
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
