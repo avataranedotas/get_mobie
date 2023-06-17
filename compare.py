@@ -4,6 +4,7 @@
 import json
 import sys
 import collections
+import csv
 
 from datetime import datetime
 
@@ -34,8 +35,15 @@ with open('./PREVIOUS.json') as json_file2:
     #json_file2.encoding='utf-8-sig'
     dataprevious = json.load(json_file2)
 
+#ler pontos sujeitos a verificacao
+with open('./lista.txt', newline='') as lista_file:
+    reader = csv.reader(lista_file)
+    watchlista = list (reader)
+#print ("Watchlista: ",watchlista)
+
 latestlist=list()    
 previouslist=list()
+watchlist=list()
 
 n=0
 for i in datalatest:
@@ -46,6 +54,7 @@ print ("Pontos actuais: ",latestcount)
 #print (latestlist[0])
 #print (latestlist[1])
 
+
 n=0
 for i in dataprevious:
     previouslist.append(i["id"])
@@ -54,6 +63,18 @@ previouscount=n
 print ("Pontos anteriores: ",previouscount)
 #print (previouslist[0])
 #print (previouslist[1])
+
+n=0
+for element in watchlista:
+    #print ("Teste")
+    if (len(element)) == 1 :
+        #print (str(element[0]))
+        watchlist.append(str(element[0]))
+#print (watchlist[0])
+#print (watchlist[1])
+
+
+
 
 #if diference found then log to file the changes
 
@@ -67,6 +88,10 @@ def Diff1(li1, li2):
 
 def Diff2(li1, li2):
     li_dif = [i for i in li1 + li2 if i not in li2]
+    return li_dif
+
+def Remove(origem, aremover):
+    li_dif = [i for i in origem if i not in aremover]
     return li_dif
 
 
@@ -85,8 +110,15 @@ def finddetails(ident, d1, path=""):
             #print (d1)
             #print ("\n")
             #print (d1["coordinates"])
-            detalhesadic = detalhesadic + "\n" + (d1["id"]) + "-->" + str(d1) + "\n"
+            detalhesadic = detalhesadic + "\n" + (d1["id"]) + " --> " + str(d1["party_id"]) + " "+ str(d1["coordinates"]) + " " + str(d1["city"]) + " " + str(d1["address"]) + " " + str(d1["parking_type"]) 
+            #detalhesadic = detalhesadic + str(d1) + "\n"
             nomeactual=d1["id"]
+            if ( "evses" in d1) :
+                conta=0
+                for cada in d1["evses"] :
+                    detalhesadic = detalhesadic + "\n" + (str (d1["evses"][conta]["connectors"]))
+                    conta=conta+1
+            detalhesadic = detalhesadic + "\n"
         for k in d1:
             #print ("            Encontrar dentro dict")
             #if (k == "coordinates") :
@@ -131,6 +163,10 @@ date_time = now.strftime("%Y-%m-%d %H:%M:%S")
 
 #added stations
 adicionados=Diff2(latestlist,previouslist)
+#print ("Adicionados:",adicionados)
+
+#remover locais que estejam na lista de postos existentes
+adicionados=Remove(adicionados,watchlist)
 print ("Adicionados:",adicionados)
 
 #new location details
@@ -147,8 +183,11 @@ print (detalhesadic)
 
 #removed stations
 removidos=Diff1(latestlist,previouslist)
-print ("Removidos:",removidos)
+#print ("Removidos:",removidos)
 
+#remover locais que estejam na lista de postos existentes
+removidos=Remove(removidos,watchlist)
+print ("Removidos:",removidos)
 
    
 #check number of stations
