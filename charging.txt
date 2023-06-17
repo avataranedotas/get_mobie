@@ -9875,3 +9875,6 @@ CTB-00029-02 evses -> 0: status : CHARGING
 
 2023-06-17 20:09:48
 CTB-00029-02 evses -> 0: status : CHARGING
+
+2023-06-17 20:13:56
+CTB-00029-02 evses -> 0: status : CHARGING
