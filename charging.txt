@@ -9849,3 +9849,8 @@ LSB-90122-02 evses -> 1: status : CHARGING
 2023-06-17 17:11:27
 LSB-90122-01 evses -> 0: status : CHARGING
 LSB-90122-02 evses -> 1: status : CHARGING
+
+2023-06-17 17:36:09
+CTB-00029-02 evses -> 0: status : CHARGING
+LSB-90122-01 evses -> 0: status : CHARGING
+LSB-90122-02 evses -> 1: status : CHARGING

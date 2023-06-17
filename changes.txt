@@ -9808,3 +9808,9 @@ CSC-00112
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2023-06-17 17:36:05
+Adicionados:['LRA-00041']
+
+LRA-00041-->{'country_code': 'PT', 'party_id': 'KLC', 'id': 'LRA-00041', 'publish': True, 'address': 'Rua da Europa', 'city': 'Leiria', 'country': 'PRT', 'postal_code': '2400-136', 'coordinates': {'latitude': '39.749179', 'longitude': '-8.802798'}, 'parking_type': 'PARKING_LOT', 'evses': [{'uid': 'LRA-00041-1', 'evse_id': 'PT*KLC*E*LRA*00041*1', 'status': 'CHARGING', 'connectors': [{'id': 'LRA-00041-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T08:02:56.86Z'}], 'last_updated': '2023-06-17T17:15:57.5Z'}], 'time_zone': 'Europe/Lisbon', 'mobie_voltage_level': 'MT', 'mobie_mobi_charger': False, 'last_updated': '2023-06-17T17:15:57.5Z'}
+Removidos:[]
