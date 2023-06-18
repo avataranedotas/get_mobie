@@ -4,3 +4,9 @@ STC-00007
 evses -> 0 -> connectors -> 0: 
  NEW power_type : DC
  OLD power_type : AC_3_PHASE
+
+2023-06-18 11:36:16
+VFR-00059
+: 
+ NEW address : GALP - Rua CalvÃ¡rio
+ OLD address : GALP - Rua Calvário
