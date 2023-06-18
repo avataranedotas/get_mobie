@@ -1,0 +1,6 @@
+
+2023-06-18 01:40:06
+STC-00007
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
