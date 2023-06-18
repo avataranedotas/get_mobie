@@ -1,0 +1,3 @@
+
+2023-06-18 14:11:50
+ABT-00019-01 evses -> 1: status : CHARGING
