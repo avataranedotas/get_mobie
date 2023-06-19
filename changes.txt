@@ -35,3 +35,13 @@ VRL-00021 --> HRZ {'latitude': '41.2930512', 'longitude': '-7.7377676'} Vila Rea
 [{'id': 'VRL-00021-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 90000, 'last_updated': '2023-04-19T08:22:39.155Z'}]
 [{'id': 'VRL-00021-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T08:22:39.157Z'}]
 Removidos:[]
+
+2023-06-19 03:15:04
+Adicionados:['MOBI-OER-00071', 'MOBI-OER-00072']
+
+MOBI-OER-00071 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
+[{'id': 'MOBI-OER-00071-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T02:49:46.51Z'}]
+
+MOBI-OER-00072 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
+[{'id': 'MOBI-OER-00072-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T02:51:31.475Z'}]
+Removidos:[]
