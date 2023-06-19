@@ -95,3 +95,61 @@ PVZ-00017
 : 
  NEW city : Póvoa de Varzim
  OLD city : PÃ³voa de Varzim
+
+2023-06-19 09:36:16
+GMR-00054
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+GMR-00057
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+PMS-00006
+: 
+ NEW city : Porto de Mós
+ OLD city : Porto de MÃ³s
+PSR-00002
+: 
+ NEW city : Ponte de Sor
+ OLD city : Ponte de Sôr
+PSR-00005
+: 
+ NEW city : Ponte de Sor
+ OLD city : Ponte de Sôr
+SJP-00002
+: 
+ NEW address : Av. João do Nascimento Costa
+ OLD address : Av. JoÃ£o do Nascimento Costa
+SJP-00002
+: 
+ NEW city : São João da Pesqueira
+ OLD city : SÃ£o JoÃ£o da Pesqueira
+STB-00034
+: 
+ NEW city : Setúbal
+ OLD city : SetÃºbal
+STC-00009
+: 
+ NEW city : Santiago do Cacém
+ OLD city : Santiago do CacÃ©m
+VNF-00020
+: 
+ NEW address : Rua António Ferreira Magalhães
+ OLD address : Rua AntÃ³nio Ferreira MagalhÃ£es
+VNF-00020
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00023
+: 
+ NEW address : Rua José António Vidal 81
+ OLD address : Rua JosÃ© AntÃ³nio Vidal 81
+VNF-00023
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00030
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
