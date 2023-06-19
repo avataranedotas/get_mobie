@@ -153,3 +153,48 @@ VNF-00030
 : 
  NEW city : Vila Nova de Famalicão
  OLD city : Vila Nova de FamalicÃ£o
+
+2023-06-19 10:15:30
+Adicionados:['LLE-00124', 'LLE-00125', 'LLE-00126']
+
+LLE-00124 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
+[{'id': 'LLE-00124-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T09:43:03.849Z'}]
+
+LLE-00125 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
+[{'id': 'LLE-00125-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T09:44:11.046Z'}]
+
+LLE-00126 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
+[{'id': 'LLE-00126-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T09:45:16.103Z'}]
+Removidos:[]
+ALM-00044
+: 
+ NEW address : E.N. 377-1 - Monte da Caparíca (UNL)
+ OLD address : E.N. 377-1 – Monte da CaparIca (UNL)
+GDL-00008
+: 
+ NEW address : AS REPSOL - Grândola, A2, Km 111.3 N/S
+ OLD address : AS REPSOL – Grândola, A2, Km 111.3 N/S
+GMR-00075
+: 
+ NEW address : Rua João de Oliveira Salgado
+ OLD address : Rua JoÃ£o de Oliveira Salgado
+GMR-00075
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+GMR-00077
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da RepÃºblica
+GMR-00077
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+GMR-00084
+: 
+ NEW address : Rua Arqueólogo Mário Cardoso
+ OLD address : Rua ArqueÃ³logo MÃ¡rio Cardoso
+GMR-00084
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
