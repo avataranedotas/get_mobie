@@ -7,3 +7,6 @@ ABT-00019-01 evses -> 1: status : CHARGING
 
 2023-06-19 09:14:27
 STS-00017-02 evses -> 1: status : CHARGING
+
+2023-06-19 17:12:06
+STS-00017-02 evses -> 1: status : CHARGING
