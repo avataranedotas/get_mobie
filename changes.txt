@@ -331,3 +331,65 @@ CVL-00006
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 43000
  OLD max_electric_power : 50000
+
+2023-06-19 13:19:42
+BRG-00065
+: 
+ NEW address : Av. João XXI
+ OLD address : Av. JoÃ£o XXI
+MAI-00016
+: 
+ NEW address : Av. Eng. José Afonso Moreira de Figueiredo
+ OLD address : Av. Eng. JosÃ© Afonso Moreira de Figueiredo
+OER-00014
+: 
+ NEW address : Rua Amélia Rey Colaço
+ OLD address : Rua AmÃ©lia Rey ColaÃ§o
+OVR-00009
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada SÃ£o JoÃ£o
+PRT-00071
+: 
+ NEW address : Rua São Roque da Lameira
+ OLD address : Rua SÃ£o Roque da Lameira
+SMG-00009
+: 
+ NEW address : Maxicompra Glória - Rua Quebrada de Água
+ OLD address : Maxicompra GlÃ³ria - Rua Quebrada de Ãgua
+TMR-00004
+: 
+ NEW address : Rua Fábrica de Fiação
+ OLD address : Rua FÃ¡brica de FiaÃ§Ã£o
+TMR-00012
+: 
+ NEW address : Rua João Santos Simões, 57
+ OLD address : Rua JoÃ£o Santos SimÃµes, 57
+TMR-00014
+: 
+ NEW address : Rua Fábrica da Sola, 4
+ OLD address : Rua FÃ¡brica da Sola, 4
+TMR-00015
+: 
+ NEW address : Rua António Duarte Faustino, 12
+ OLD address : Rua AntÃ³nio Duarte Faustino, 12
+VIS-00021
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -1
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+VIS-00023
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso P0
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso P0
+VLG-00024
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. TristÃ£o Vaz Teixeira 260
+VNG-00045
+: 
+ NEW address : Rua Rio do Paço
+ OLD address : Rua Rio do PaÃ§o
+VNG-00102
+: 
+ NEW address : R. Gonçalves de Castro 780
+ OLD address : R. GonÃ§alves de Castro 780
