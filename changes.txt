@@ -618,3 +618,9 @@ TVR-00014
 : 
  NEW address : Urbanização Golden Club, 51
  OLD address : UrbanizaÃ§Ã£o Golden Club, 51
+
+2023-06-19 16:38:54
+MCH-00008
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
