@@ -45,3 +45,53 @@ MOBI-OER-00071 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Casc
 MOBI-OER-00072 --> EDP {'latitude': '38.703416', 'longitude': '-9.3967304'} Cascais Av. Marginal PARKING_GARAGE
 [{'id': 'MOBI-OER-00072-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T02:51:31.475Z'}]
 Removidos:[]
+
+2023-06-19 09:14:24
+AGD-00013
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AVZ-00003
+: 
+ NEW city : Alvaiázere
+ OLD city : AlvaiÃ¡zere
+CVL-00011
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+GMR-00073
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+LLE-00142
+: 
+ NEW address : A Floresta do José - Encosta do Lobo
+ OLD address : A Floresta do JosÃ© - Encosta do Lobo
+LLE-00142
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LSA-00003
+: 
+ NEW city : Lousã
+ OLD city : LousÃ£
+OLH-00004
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+PVZ-00007
+: 
+ NEW address : Rua do Bocal da Gândara
+ OLD address : Rua do Bocal da GÃ¢ndara
+PVZ-00007
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00010
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00017
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
