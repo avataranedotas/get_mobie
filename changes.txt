@@ -545,3 +545,21 @@ FUN-00039
 : 
  NEW time_zone : Europe/Lisbon
  OLD time_zone : Atlantic/Madeira
+
+2023-06-19 14:35:57
+MCH-00001
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+MCH-00004
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+MCH-00005
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+MCH-00007
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
