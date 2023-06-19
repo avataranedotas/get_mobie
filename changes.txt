@@ -393,3 +393,21 @@ VNG-00102
 : 
  NEW address : R. Gonçalves de Castro 780
  OLD address : R. GonÃ§alves de Castro 780
+
+2023-06-19 13:36:07
+OVR-00010
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada SÃ£o JoÃ£o
+TMR-00003
+: 
+ NEW address : Rua Dr. José Maria de Sousa
+ OLD address : Rua Dr. JosÃ© Maria de Sousa
+VIS-00022
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -1
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+VLG-00006
+: 
+ NEW address : Rua José Joaquim Ribeiro Teles
+ OLD address : Rua JosÃ© Joaquim Ribeiro Teles
