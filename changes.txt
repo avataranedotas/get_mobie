@@ -229,3 +229,11 @@ GMR-00091
 : 
  NEW city : Guimarães
  OLD city : GuimarÃ£es
+
+2023-06-19 11:36:14
+Adicionados:['LLE-00141']
+
+LLE-00141 --> EDP {'latitude': '37.0460067', 'longitude': '-8.0569969'} Loulé Dunas Douradas, Sítio do Garrão PARKING_LOT
+[{'id': 'LLE-00141-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T09:50:39.99Z'}]
+[{'id': 'LLE-00141-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T09:50:39.99Z'}]
+Removidos:[]
