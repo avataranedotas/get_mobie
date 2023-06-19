@@ -209,3 +209,23 @@ CNT-00007
 : 
  NEW address : AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
  OLD address : AS BP – Cantanhede/Mealhada, A1, km 204,6 N/S
+
+2023-06-19 11:12:03
+Adicionados:[]
+Removidos:['CNF-00002']
+FEC-00002
+: 
+ NEW city : Freixo de Espada À Cinta
+ OLD city : Freixo de Espada à Cinta
+GMR-00085
+: 
+ NEW address : Rua dos Mártires
+ OLD address : Rua dos MÃ¡rtires
+GMR-00085
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
+GMR-00091
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
