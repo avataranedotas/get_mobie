@@ -730,3 +730,7 @@ TVR-00018 --> EDP {'latitude': '37.12333', 'longitude': '-7.645711'} Tavira Rua 
 [{'id': 'TVR-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:56:35.47Z'}]
 [{'id': 'TVR-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:56:35.472Z'}]
 Removidos:[]
+
+2023-06-19 21:36:14
+Adicionados:[]
+Removidos:['LSB-90026']
