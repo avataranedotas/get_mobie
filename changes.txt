@@ -603,3 +603,18 @@ BRG-00075
 evses -> 5 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 80000
+
+2023-06-19 16:18:13
+Adicionados:['LLE-00148']
+
+LLE-00148 --> EDP {'latitude': '37.12741', 'longitude': '-8.034161'} Loulé Praia da Marina Alameda PARKING_LOT
+[{'id': 'LLE-00148-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T14:29:45.372Z'}]
+Removidos:[]
+LLE-00072
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+TVR-00014
+: 
+ NEW address : Urbanização Golden Club, 51
+ OLD address : UrbanizaÃ§Ã£o Golden Club, 51
