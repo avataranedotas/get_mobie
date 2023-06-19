@@ -237,3 +237,19 @@ LLE-00141 --> EDP {'latitude': '37.0460067', 'longitude': '-8.0569969'} Loulé D
 [{'id': 'LLE-00141-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T09:50:39.99Z'}]
 [{'id': 'LLE-00141-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T09:50:39.99Z'}]
 Removidos:[]
+
+2023-06-19 12:30:06
+Adicionados:['CNF-00002']
+
+CNF-00002 --> EDP {'latitude': '41.0901008', 'longitude': '-8.0797617'} Cinfães LUGAR PORTO ANTIGO PARKING_LOT
+[{'id': 'CNF-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T12:06:02.155Z'}]
+[{'id': 'CNF-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-19T12:06:02.155Z'}]
+Removidos:[]
+GMR-00027
+: 
+ NEW address : Rua do Colégio Militar
+ OLD address : Rua do ColÃ©gio Militar
+GMR-00027
+: 
+ NEW city : Guimarães
+ OLD city : GuimarÃ£es
