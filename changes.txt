@@ -411,3 +411,137 @@ VLG-00006
 : 
  NEW address : Rua José Joaquim Ribeiro Teles
  OLD address : Rua JosÃ© Joaquim Ribeiro Teles
+
+2023-06-19 14:13:32
+CLT-00006
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00004
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00005
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00006
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00007
+: 
+ NEW address : Caminho do Poço Barral
+ OLD address : Caminho do PoÃ§o Barral
+FUN-00007
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00008
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00009
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00011
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00012
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00013
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00014
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00015
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00016
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00018
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00019
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00020
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00021
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00022
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00023
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00024
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00025
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00026
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00027
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00029
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00031
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00032
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00033
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00034
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00036
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00037
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00038
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
+FUN-00039
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
