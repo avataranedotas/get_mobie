@@ -198,3 +198,14 @@ GMR-00084
 : 
  NEW city : Guimarães
  OLD city : GuimarÃ£es
+
+2023-06-19 10:36:28
+Adicionados:['SLV-00009']
+
+SLV-00009 --> EDP {'latitude': '37.10421', 'longitude': '-8.370591'} Silves R. de Vale do Olival PARKING_LOT
+[{'id': 'SLV-00009-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T14:31:13.888Z'}]
+Removidos:[]
+CNT-00007
+: 
+ NEW address : AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
+ OLD address : AS BP – Cantanhede/Mealhada, A1, km 204,6 N/S
