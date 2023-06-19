@@ -10,3 +10,28 @@ VFR-00059
 : 
  NEW address : GALP - Rua CalvÃ¡rio
  OLD address : GALP - Rua Calvário
+
+2023-06-19 01:21:09
+Adicionados:['AJT-00009', 'GMR-00099', 'SCR-00013', 'SCR-00014', 'VRL-00021']
+
+AJT-00009 --> KLC {'latitude': '37.8841234', 'longitude': '-8.1539669'} Aljustrel Rua da Estalagem 1 Estrada Municipal EM359 PARKING_LOT
+[{'id': 'AJT-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-24T14:23:11.591Z'}]
+[{'id': 'AJT-00009-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-24T14:23:11.592Z'}]
+[{'id': 'AJT-00009-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-24T14:23:11.59Z'}]
+
+GMR-00099 --> GEN {'latitude': '41.421847', 'longitude': '-8.300349'} Guimarães Rua António da Costa Guimarães, Urgezes ON_STREET
+[{'id': 'GMR-00099-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-08T14:44:54.04Z'}]
+[{'id': 'GMR-00099-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-08T14:44:54.039Z'}]
+
+SCR-00013 --> SCR {'latitude': '32.651935', 'longitude': '-16.839903'} Santa Cruz Rua João Paulo II PARKING_LOT
+[{'id': 'SCR-00013-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:47:34.788Z'}]
+
+SCR-00014 --> SCR {'latitude': '32.651935', 'longitude': '-16.839903'} Santa Cruz Rua João Paulo II PARKING_LOT
+[{'id': 'SCR-00014-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T14:47:33.503Z'}]
+
+VRL-00021 --> HRZ {'latitude': '41.2930512', 'longitude': '-7.7377676'} Vila Real RUA MADAME BROUILLARD S/N PARKING_LOT
+[{'id': 'VRL-00021-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-19T08:22:39.156Z'}]
+[{'id': 'VRL-00021-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 90000, 'last_updated': '2023-04-19T08:22:39.159Z'}]
+[{'id': 'VRL-00021-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 90000, 'last_updated': '2023-04-19T08:22:39.155Z'}]
+[{'id': 'VRL-00021-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-19T08:22:39.157Z'}]
+Removidos:[]
