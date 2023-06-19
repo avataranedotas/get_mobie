@@ -253,3 +253,81 @@ GMR-00027
 : 
  NEW city : Guimarães
  OLD city : GuimarÃ£es
+
+2023-06-19 12:56:21
+ALM-90007
+: 
+ NEW address : Avenida Bento Gonçalves
+ OLD address : Avenida Bento GonÃ§alves
+AVR-00042
+: 
+ NEW address :  Estrada de Vilar, Estr. de São Bernardo,
+ OLD address : Â Estrada de Vilar, Estr. de SÃ£o Bernardo,
+BRG-00025
+: 
+ NEW address : Avenida Dr. António Palha
+ OLD address : Avenida Dr. AntÃ³nio Palha
+BRG-00064
+: 
+ NEW address : Av. João XXI
+ OLD address : Av. JoÃ£o XXI
+BRR-00020
+: 
+ NEW address : Av. Movimento das Forças Armadas, 79
+ OLD address : Av. Movimento das ForÃ§as Armadas, 79
+BRR-00022
+: 
+ NEW address : Rua João Azevedo do Carmo
+ OLD address : Rua JoÃ£o Azevedo do Carmo
+BRR-00023
+: 
+ NEW address : Rua Prof. João Prates, 5
+ OLD address : Rua Prof. JoÃ£o Prates, 5
+BRR-00025
+: 
+ NEW address : Rua Eça de Queiroz, 24
+ OLD address : Rua EÃ§a de Queiroz, 24
+BRR-00027
+: 
+ NEW address : Av. Bento Gonçalves 170
+ OLD address : Av. Bento GonÃ§alves 170
+BRR-00030
+: 
+ NEW address : Praceta António Gedeão 3
+ OLD address : Praceta AntÃ³nio GedeÃ£o 3
+CSC-00073
+: 
+ NEW address : Rua José Carlos Ary dos Santos
+ OLD address : Rua JosÃ© Carlos Ary dos Santos
+CVL-00006
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+CVL-00006
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CVL-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+CVL-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+CVL-00006
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+CVL-00006
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CVL-00006
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+CVL-00006
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
