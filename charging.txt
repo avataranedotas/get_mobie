@@ -13,3 +13,6 @@ STS-00017-02 evses -> 1: status : CHARGING
 
 2023-06-20 09:36:01
 FIG-00021-01 evses -> 1: status : CHARGING
+
+2023-06-20 16:39:31
+AGD-00013-02 evses -> 0: status : CHARGING
