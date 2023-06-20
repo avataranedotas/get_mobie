@@ -738,3 +738,7 @@ Removidos:['LSB-90026']
 2023-06-19 23:14:22
 Adicionados:[]
 Removidos:['CNF-00002', 'SCR-00013', 'SCR-00014', 'VNG-00111']
+
+2023-06-20 01:18:22
+Adicionados:[]
+Removidos:['STS-00017']
