@@ -749,3 +749,7 @@ Adicionados:['AVR-00044']
 AVR-00044 --> HLX 40.64293 -8.60241 Aveiro Zona Industrial da Taboeira PARKING_LOT
 [{'id': 'AVR-00044-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:34:22.975Z'}]
 Removidos:[]
+
+2023-06-20 15:14:12
+Adicionados:[]
+Removidos:['VCT-00029']
