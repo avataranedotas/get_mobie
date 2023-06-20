@@ -23,3 +23,6 @@ VRL-00021-01 evses -> 2: status : CHARGING
 
 2023-06-20 19:36:11
 FIG-00021-02 evses -> 0: status : CHARGING
+
+2023-06-20 20:03:09
+FIG-00021-02 evses -> 0: status : CHARGING
