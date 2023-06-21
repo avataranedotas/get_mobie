@@ -753,3 +753,11 @@ Removidos:[]
 2023-06-20 15:14:12
 Adicionados:[]
 Removidos:['VCT-00029']
+
+2023-06-21 09:13:38
+Adicionados:['VNG-00111']
+
+VNG-00111 --> KLC 41.0570658 -8.5679177 Vila Nova de Gaia Av. Dr. Moreira Sousa 2238, PARKING_LOT
+[{'id': 'VNG-00111-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-22T10:56:57.486Z'}]
+[{'id': 'VNG-00111-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 160, 'max_electric_power': 60000, 'last_updated': '2023-03-22T10:56:57.485Z'}]
+Removidos:[]
