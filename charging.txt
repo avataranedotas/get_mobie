@@ -30,3 +30,7 @@ FIG-00021-02 evses -> 0: status : CHARGING
 2023-06-21 15:14:04
 EVR-00027-01 evses -> 0: status : CHARGING
 TVD-00030-01 evses -> 0: status : CHARGING
+
+2023-06-21 15:36:17
+EVR-00027-01 evses -> 0: status : CHARGING
+TVD-00030-01 evses -> 0: status : CHARGING
