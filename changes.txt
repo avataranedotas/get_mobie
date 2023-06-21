@@ -784,3 +784,11 @@ STS-00017 --> KLC 41.3668933 -8.4057889 Santo Tirso Lugar Do Quintão, Rua São 
 [{'id': 'STS-00017-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-16T17:28:27.718Z'}]
 [{'id': 'STS-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T17:28:27.718Z'}]
 Removidos:[]
+
+2023-06-21 11:11:44
+Adicionados:['VLP-00003']
+
+VLP-00003 --> IBD 41.5939972 -7.3036396 Valpaços Rua do Pomar, Lugar da Ribeira PARKING_LOT
+[{'id': 'VLP-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-21T10:55:37.906Z'}]
+[{'id': 'VLP-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-21T10:55:37.906Z'}]
+Removidos:[]
