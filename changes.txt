@@ -840,3 +840,11 @@ CNT-00009
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-06-21 15:14:00
+Adicionados:['EVR-00027']
+
+EVR-00027 --> EDP 38.5544712 -7.9150433 Évora R. da Horta das Figueiras PARKING_LOT
+[{'id': 'EVR-00027-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:45:44.022Z'}]
+[{'id': 'EVR-00027-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:45:44.024Z'}]
+Removidos:[]
