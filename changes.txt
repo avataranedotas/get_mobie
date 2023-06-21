@@ -796,3 +796,47 @@ Removidos:[]
 2023-06-21 11:36:06
 Adicionados:[]
 Removidos:['AVZ-00003']
+
+2023-06-21 14:12:26
+Adicionados:['CHV-00012', 'OER-00167']
+
+CHV-00012 --> IBD 41.6983525 -7.4758363 Chaves Rua Dr Francisco Barros Teixeira Homem PARKING_LOT
+[{'id': 'CHV-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-03T15:37:41.027Z'}]
+[{'id': 'CHV-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-03T15:37:41.029Z'}]
+
+OER-00167 --> LOG 38.70966 -9.3355999 Oeiras Av. Aristides de Sousa Mendes PARKING_LOT
+[{'id': 'OER-00167-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-15T17:05:56.068Z'}]
+[{'id': 'OER-00167-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-15T17:05:56.067Z'}]
+Removidos:[]
+CNT-00009
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+CNT-00009
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+CNT-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+CNT-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+CNT-00009
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+CNT-00009
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+CNT-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+CNT-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
