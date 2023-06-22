@@ -66,3 +66,8 @@ VCT-00015-02 evses -> 1: status : CHARGING
 
 2023-06-22 17:12:05
 VCT-00015-02 evses -> 1: status : CHARGING
+
+2023-06-22 17:36:22
+CSC-00125-02 evses -> 1: status : CHARGING
+OLH-00006-02 evses -> 2: status : CHARGING
+VCT-00015-02 evses -> 1: status : CHARGING

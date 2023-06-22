@@ -908,3 +908,7 @@ OLH-00006 --> KLC 37.0370382 -7.8343354 Olhão EN 125, Urbanização Patinha, Pe
 [{'id': 'OLH-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2023-06-22T16:39:50.741Z'}]
 [{'id': 'OLH-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2023-06-22T16:39:50.741Z'}]
 Removidos:[]
+
+2023-06-22 17:36:18
+Adicionados:[]
+Removidos:['EVR-00030']
