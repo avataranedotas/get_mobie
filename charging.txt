@@ -43,3 +43,6 @@ EVR-00030-02 evses -> 0: status : CHARGING
 
 2023-06-22 14:12:45
 SNT-00115-01 evses -> 1: status : CHARGING
+
+2023-06-22 14:36:13
+SNT-00115-01 evses -> 1: status : CHARGING
