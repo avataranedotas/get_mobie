@@ -899,3 +899,12 @@ CSC-00125 --> LOG 38.70966 -9.3355999 Cascais Av. Aristides de Sousa Mendes PARK
 [{'id': 'CSC-00125-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-16T10:30:50.502Z'}]
 [{'id': 'CSC-00125-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-16T10:30:50.503Z'}]
 Removidos:[]
+
+2023-06-22 17:12:00
+Adicionados:['OLH-00006']
+
+OLH-00006 --> KLC 37.0370382 -7.8343354 Olhão EN 125, Urbanização Patinha, Peares, Nº1, PARKING_LOT
+[{'id': 'OLH-00006-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-22T16:39:50.741Z'}]
+[{'id': 'OLH-00006-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2023-06-22T16:39:50.741Z'}]
+[{'id': 'OLH-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2023-06-22T16:39:50.741Z'}]
+Removidos:[]
