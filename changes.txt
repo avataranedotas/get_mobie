@@ -891,3 +891,11 @@ MAI-00022
 : 
  NEW address : Rua D. Maria Faria N.º 230
  OLD address : Rua D. Maria Faria N.Âº 230
+
+2023-06-22 16:18:05
+Adicionados:['CSC-00125']
+
+CSC-00125 --> LOG 38.70966 -9.3355999 Cascais Av. Aristides de Sousa Mendes PARKING_LOT
+[{'id': 'CSC-00125-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-16T10:30:50.502Z'}]
+[{'id': 'CSC-00125-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-16T10:30:50.503Z'}]
+Removidos:[]
