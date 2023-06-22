@@ -862,3 +862,32 @@ VPT-00001
 : 
  NEW address : ER N 1 - 2 Pedras S. Pedro
  OLD address : ER N 1 – 2 Pedras S. Pedro
+
+2023-06-22 12:29:28
+Adicionados:['EVR-00030']
+
+EVR-00030 --> KLC 38.5612081 -7.9140999 Évora Rua da Horta das Figueira PARKING_LOT
+[{'id': 'EVR-00030-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-06-22T12:09:00.15Z'}]
+[{'id': 'EVR-00030-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-22T12:09:00.15Z'}]
+[{'id': 'EVR-00030-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-06-22T12:09:00.15Z'}]
+Removidos:[]
+FAR-00031
+: 
+ NEW address : Estrada da Penha - Urb. Horta Laranjas, LT 5
+ OLD address : Estrada da Penha – Urb. Horta Laranjas, LT 5
+GRD-00013
+coordinates: 
+ NEW latitude : 40.5546829
+ OLD latitude : 40.5588403
+GRD-00013
+coordinates: 
+ NEW longitude : -7.253171
+ OLD longitude : -7.2506535
+GRD-00013
+: 
+ NEW coordinates : {'latitude': '40.5546829', 'longitude': '-7.253171'}
+ OLD coordinates : {'latitude': '40.5588403', 'longitude': '-7.2506535'}
+MAI-00022
+: 
+ NEW address : Rua D. Maria Faria N.º 230
+ OLD address : Rua D. Maria Faria N.Âº 230
