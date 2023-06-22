@@ -46,3 +46,7 @@ SNT-00115-01 evses -> 1: status : CHARGING
 
 2023-06-22 14:36:13
 SNT-00115-01 evses -> 1: status : CHARGING
+
+2023-06-22 15:14:05
+SNT-00115-01 evses -> 1: status : CHARGING
+VCT-00015-02 evses -> 1: status : CHARGING
