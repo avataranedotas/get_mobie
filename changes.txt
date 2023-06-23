@@ -953,3 +953,53 @@ LSB-00610 --> WEN 38.76664 -9.09831 Lisboa Av. Dom João II n.º 27 UNDERGROUND_
 [{'id': 'LSB-00610-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-23T10:26:13.239Z'}]
 [{'id': 'LSB-00610-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-23T10:26:13.239Z'}]
 Removidos:[]
+
+2023-06-23 14:36:57
+GRD-00021
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+GRD-00021
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 920
+GRD-00021
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 180000
+GRD-00021
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+GRD-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+GRD-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+STR-00026
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STR-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 920
+STR-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 180000
+STR-00026
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+STR-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+STR-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
