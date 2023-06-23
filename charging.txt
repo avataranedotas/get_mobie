@@ -95,3 +95,6 @@ CHV-00012-01 evses -> 0: status : CHARGING
 
 2023-06-23 13:39:01
 CHV-00012-01 evses -> 0: status : CHARGING
+
+2023-06-23 14:14:07
+CHV-00012-01 evses -> 0: status : CHARGING
