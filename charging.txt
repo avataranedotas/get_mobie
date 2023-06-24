@@ -137,3 +137,6 @@ ODM-00012-02 evses -> 0: status : CHARGING
 
 2023-06-24 19:12:13
 RDD-90001-2 evses -> 1: status : CHARGING
+
+2023-06-24 19:36:15
+RDD-90001-2 evses -> 1: status : CHARGING
