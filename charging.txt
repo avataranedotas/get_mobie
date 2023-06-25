@@ -194,3 +194,6 @@ SMG-00009-02 evses -> 0: status : CHARGING
 
 2023-06-25 22:14:59
 LSB-90026-1 evses -> 1: status : CHARGING
+
+2023-06-25 22:37:35
+LSB-90026-1 evses -> 1: status : CHARGING
