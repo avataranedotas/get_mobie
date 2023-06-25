@@ -173,3 +173,6 @@ SMG-00009-02 evses -> 0: status : CHARGING
 
 2023-06-25 16:42:37
 SMG-00009-02 evses -> 0: status : CHARGING
+
+2023-06-25 17:13:31
+SMG-00009-02 evses -> 0: status : CHARGING

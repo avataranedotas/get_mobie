@@ -1003,3 +1003,11 @@ STR-00026
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 180000
  OLD max_electric_power : 100000
+
+2023-06-25 17:13:28
+Adicionados:['LSB-90026']
+
+LSB-90026 --> KLC 38.760083 -9.182442 Lisboa Estrada da Luz ON_STREET
+[{'id': 'LSB-90026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T21:14:20.377Z'}]
+[{'id': 'LSB-90026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T21:14:20.375Z'}]
+Removidos:[]
