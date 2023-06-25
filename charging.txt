@@ -167,3 +167,6 @@ AMM-00004-02 evses -> 0: status : CHARGING
 
 2023-06-25 15:36:25
 CNF-00002-01 evses -> 1: status : CHARGING
+
+2023-06-25 16:19:54
+SMG-00009-02 evses -> 0: status : CHARGING
