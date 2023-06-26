@@ -1029,3 +1029,7 @@ Removidos:[]
 2023-06-26 12:32:18
 Adicionados:[]
 Removidos:['CSC-00126']
+
+2023-06-26 13:24:43
+Adicionados:[]
+Removidos:['RDD-90001']
