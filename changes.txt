@@ -1041,3 +1041,11 @@ CSC-00126 --> LOG 38.70966 -9.3355999 Cascais Av. Aristides de Sousa Mendes PARK
 [{'id': 'CSC-00126-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2023-03-16T10:31:04.266Z'}]
 [{'id': 'CSC-00126-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2023-03-16T10:31:04.265Z'}]
 Removidos:[]
+
+2023-06-26 14:15:06
+Adicionados:['CBR-00080']
+
+CBR-00080 --> PRI 40.192326 -8.50876 Coimbra R. Entre Vinhas 3,  Taveiro ALONG_MOTORWAY
+[{'id': 'CBR-00080-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-15T20:21:30.661Z'}]
+[{'id': 'CBR-00080-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-15T20:21:30.66Z'}]
+Removidos:[]
