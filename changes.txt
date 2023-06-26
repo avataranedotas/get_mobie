@@ -1053,3 +1053,7 @@ Removidos:[]
 2023-06-26 15:36:29
 Adicionados:[]
 Removidos:['ABT-00019']
+
+2023-06-26 16:19:02
+Adicionados:[]
+Removidos:['CSC-00125']
