@@ -212,3 +212,7 @@ CNF-00002-02 evses -> 0: status : CHARGING
 2023-06-26 16:19:06
 CBR-00080-02 evses -> 0: status : CHARGING
 CBR-00080-02 evses -> 0: status : CHARGING
+
+2023-06-26 16:20:36
+CBR-00080-02 evses -> 0: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
