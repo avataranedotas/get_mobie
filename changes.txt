@@ -1065,3 +1065,11 @@ CSC-00125 --> LOG 38.70966 -9.3355999 Cascais Av. Aristides de Sousa Mendes PARK
 [{'id': 'CSC-00125-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-26T16:11:01.105Z'}]
 [{'id': 'CSC-00125-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-26T16:11:01.107Z'}]
 Removidos:['VCT-00015']
+
+2023-06-26 19:12:43
+Adicionados:['VCT-00015']
+
+VCT-00015 --> KLC 41.7062275 -8.8063664 Viana do Castelo Rua da Igreja ON_STREET
+[{'id': 'VCT-00015-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-26T17:20:58.932Z'}]
+[{'id': 'VCT-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-26T17:20:58.933Z'}]
+Removidos:[]
