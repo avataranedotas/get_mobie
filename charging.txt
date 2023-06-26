@@ -197,3 +197,6 @@ LSB-90026-1 evses -> 1: status : CHARGING
 
 2023-06-25 22:37:35
 LSB-90026-1 evses -> 1: status : CHARGING
+
+2023-06-26 12:32:21
+CNF-00002-02 evses -> 0: status : CHARGING

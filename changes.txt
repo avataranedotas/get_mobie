@@ -1025,3 +1025,7 @@ CVR-00007 --> KLS 37.694389 -8.088611 Castro Verde Rua Nova da Feira, Castro Ver
 [{'id': 'CVR-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:51.458Z'}]
 [{'id': 'CVR-00007-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:51.459Z'}]
 Removidos:[]
+
+2023-06-26 12:32:18
+Adicionados:[]
+Removidos:['CSC-00126']
