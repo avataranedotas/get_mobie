@@ -1033,3 +1033,11 @@ Removidos:['CSC-00126']
 2023-06-26 13:24:43
 Adicionados:[]
 Removidos:['RDD-90001']
+
+2023-06-26 13:39:09
+Adicionados:['CSC-00126']
+
+CSC-00126 --> LOG 38.70966 -9.3355999 Cascais Av. Aristides de Sousa Mendes PARKING_LOT
+[{'id': 'CSC-00126-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2023-03-16T10:31:04.266Z'}]
+[{'id': 'CSC-00126-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2023-03-16T10:31:04.265Z'}]
+Removidos:[]
