@@ -1011,3 +1011,17 @@ LSB-90026 --> KLC 38.760083 -9.182442 Lisboa Estrada da Luz ON_STREET
 [{'id': 'LSB-90026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T21:14:20.377Z'}]
 [{'id': 'LSB-90026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T21:14:20.375Z'}]
 Removidos:[]
+
+2023-06-26 09:36:40
+Adicionados:['CVR-00006', 'CVR-00007']
+
+CVR-00006 --> KLS 37.694389 -8.088611 Castro Verde Rua Nova da Feira, Castro Verde PARKING_LOT
+[{'id': 'CVR-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:36.452Z'}]
+[{'id': 'CVR-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-08T13:44:36.451Z'}]
+[{'id': 'CVR-00006-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:36.454Z'}]
+
+CVR-00007 --> KLS 37.694389 -8.088611 Castro Verde Rua Nova da Feira, Castro Verde PARKING_LOT
+[{'id': 'CVR-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-08T13:44:51.457Z'}]
+[{'id': 'CVR-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:51.458Z'}]
+[{'id': 'CVR-00007-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-08T13:44:51.459Z'}]
+Removidos:[]
