@@ -291,3 +291,7 @@ LLE-00109-01 evses -> 1: status : CHARGING
 
 2023-06-27 17:13:57
 LLE-00109-01 evses -> 1: status : CHARGING
+
+2023-06-27 19:13:16
+CBR-00080-02 evses -> 0: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
