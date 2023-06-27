@@ -1119,3 +1119,11 @@ PVZ-00028 --> EDP 41.3780832 -8.7664738 Póvoa de Varzim Av. dos Descobrimentos 
 [{'id': 'PVZ-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-18T10:27:06.289Z'}]
 [{'id': 'PVZ-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-18T10:27:06.291Z'}]
 Removidos:[]
+
+2023-06-27 18:19:40
+Adicionados:['PVZ-00027']
+
+PVZ-00027 --> EDP 41.3780832 -8.7664738 Póvoa de Varzim Av. dos Descobrimentos UNDERGROUND_GARAGE
+[{'id': 'PVZ-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-18T10:26:58.54Z'}]
+[{'id': 'PVZ-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-18T10:26:58.542Z'}]
+Removidos:[]
