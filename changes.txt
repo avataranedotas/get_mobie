@@ -1099,3 +1099,7 @@ LRA-00091 --> KLC 39.7593447 -8.7963863 Leiria Estr. dos Marinheiros, PARKING_LO
 [{'id': 'LRA-00091-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-03T13:34:54.555Z'}]
 [{'id': 'LRA-00091-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-03T13:34:54.556Z'}]
 Removidos:['VFX-00004', 'VFX-00005', 'VFX-00006']
+
+2023-06-27 12:33:20
+Adicionados:[]
+Removidos:['LSB-00583']
