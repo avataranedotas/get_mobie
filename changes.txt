@@ -1103,3 +1103,11 @@ Removidos:['VFX-00004', 'VFX-00005', 'VFX-00006']
 2023-06-27 12:33:20
 Adicionados:[]
 Removidos:['LSB-00583']
+
+2023-06-27 15:16:25
+Adicionados:['LSB-00284']
+
+LSB-00284 --> EML 38.779591 -9.158056 Lisboa Azinhaga da Cidade PARKING_GARAGE
+[{'id': 'LSB-00284-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2023-05-31T14:32:08.396Z'}]
+[{'id': 'LSB-00284-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 7400, 'last_updated': '2023-05-31T14:32:08.395Z'}]
+Removidos:[]
