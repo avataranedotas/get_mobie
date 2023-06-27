@@ -1088,3 +1088,14 @@ Adicionados:['LSB-00583']
 LSB-00583 --> CAB 38.7137395 -9.1444407 Lisboa Rua do Diario de Notícias 140-142 UNDERGROUND_GARAGE
 [{'id': 'LSB-00583-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 175000, 'last_updated': '2023-06-26T17:32:23.806Z'}]
 Removidos:[]
+
+2023-06-27 09:16:00
+Adicionados:['CSC-00130', 'LRA-00091']
+
+CSC-00130 --> EDP 38.703964 -9.3966488 Cascais Av. Marginal 49, PARKING_LOT
+[{'id': 'CSC-00130-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-27T09:05:10.729Z'}]
+
+LRA-00091 --> KLC 39.7593447 -8.7963863 Leiria Estr. dos Marinheiros, PARKING_LOT
+[{'id': 'LRA-00091-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-03T13:34:54.555Z'}]
+[{'id': 'LRA-00091-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-03T13:34:54.556Z'}]
+Removidos:['VFX-00004', 'VFX-00005', 'VFX-00006']
