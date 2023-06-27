@@ -1073,3 +1073,11 @@ VCT-00015 --> KLC 41.7062275 -8.8063664 Viana do Castelo Rua da Igreja ON_STREET
 [{'id': 'VCT-00015-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-26T17:20:58.932Z'}]
 [{'id': 'VCT-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-26T17:20:58.933Z'}]
 Removidos:[]
+
+2023-06-27 01:40:08
+Adicionados:['RDD-90001']
+
+RDD-90001 --> KLC 38.645222 -7.543333 Redondo Avenida de Gien ON_STREET
+[{'id': 'RDD-90001-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:32:02.242Z'}]
+[{'id': 'RDD-90001-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-16T15:32:02.243Z'}]
+Removidos:[]
