@@ -298,3 +298,6 @@ CBR-00080-02 evses -> 0: status : CHARGING
 
 2023-06-28 09:15:47
 AVR-00044-02 evses -> 0: status : CHARGING
+
+2023-06-28 09:36:31
+AVR-00043-01 evses -> 0: status : CHARGING
