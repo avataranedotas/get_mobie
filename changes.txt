@@ -1164,3 +1164,16 @@ MTS-00109 --> HRZ 41.2025714 -8.6929774 Matosinhos Rotunda da Exponor, Leça da 
 [{'id': 'MTS-00109-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-03-20T09:44:03.069Z'}]
 [{'id': 'MTS-00109-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-03-20T09:44:03.066Z'}]
 Removidos:[]
+
+2023-06-28 13:24:40
+Adicionados:['BRR-00057', 'FAR-00032']
+
+BRR-00057 --> TRK 38.6626528 -9.0795194 Barreiro Rua Dr. Eusébio Leão 14 ON_STREET
+[{'id': 'BRR-00057-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T13:02:08.922Z'}]
+[{'id': 'BRR-00057-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T13:02:08.922Z'}]
+
+FAR-00032 --> EDP 37.0299001 -7.8512999 Faro McDonald´s Olhão - Estrada Nacional 125 PARKING_LOT
+[{'id': 'FAR-00032-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-06-28T12:58:02.7Z'}]
+[{'id': 'FAR-00032-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-06-28T12:58:02.7Z'}]
+[{'id': 'FAR-00032-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T12:58:02.7Z'}]
+Removidos:[]
