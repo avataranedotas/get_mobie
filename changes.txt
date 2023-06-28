@@ -1244,3 +1244,7 @@ BRR-00065 --> TRK 38.6550444 -9.0634861 Barreiro Rua Almeida Garrett 33 ON_STREE
 [{'id': 'BRR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.741Z'}]
 [{'id': 'BRR-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.741Z'}]
 Removidos:[]
+
+2023-06-28 16:43:17
+Adicionados:[]
+Removidos:['BRR-00041', 'BRR-00057']
