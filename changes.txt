@@ -1134,3 +1134,11 @@ Adicionados:['LSB-00583']
 LSB-00583 --> CAB 38.7137395 -9.1444407 Lisboa Rua do Diario de Notícias 140-142 UNDERGROUND_GARAGE
 [{'id': 'LSB-00583-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 175000, 'last_updated': '2023-06-28T08:04:47.405Z'}]
 Removidos:[]
+
+2023-06-28 09:15:43
+Adicionados:['AVR-00043']
+
+AVR-00043 --> HLX 40.64293 -8.60241 Aveiro Zona Industrial da Taboeira PARKING_LOT
+[{'id': 'AVR-00043-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-28T08:48:05.984Z'}]
+[{'id': 'AVR-00043-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-28T08:48:05.984Z'}]
+Removidos:[]
