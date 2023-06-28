@@ -355,3 +355,6 @@ LLE-00109-01 evses -> 1: status : CHARGING
 
 2023-06-28 18:19:50
 VNG-00111-01 evses -> 1: status : CHARGING
+
+2023-06-28 19:36:04
+BRR-00037-02 evses -> 0: status : CHARGING
