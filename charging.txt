@@ -316,3 +316,7 @@ MAI-00031-01 evses -> 1: status : CHARGING
 LLE-00109-02 evses -> 0: status : CHARGING
 LLE-00109-01 evses -> 1: status : CHARGING
 MAI-00031-02 evses -> 0: status : CHARGING
+
+2023-06-28 13:39:21
+LLE-00109-02 evses -> 0: status : CHARGING
+LLE-00109-01 evses -> 1: status : CHARGING
