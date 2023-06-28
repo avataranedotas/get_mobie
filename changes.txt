@@ -1155,3 +1155,12 @@ MAI-00031 --> KLC 41.2649006 -8.615254 Maia R. Eng. Frederico Ulrich 15, PARKING
 [{'id': 'MAI-00031-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-28T09:40:40.767Z'}]
 [{'id': 'MAI-00031-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-28T09:40:40.769Z'}]
 Removidos:[]
+
+2023-06-28 11:36:11
+Adicionados:['MTS-00109']
+
+MTS-00109 --> HRZ 41.2025714 -8.6929774 Matosinhos Rotunda da Exponor, Leça da Palmeira PARKING_LOT
+[{'id': 'MTS-00109-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-20T09:44:03.068Z'}]
+[{'id': 'MTS-00109-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-03-20T09:44:03.069Z'}]
+[{'id': 'MTS-00109-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-03-20T09:44:03.066Z'}]
+Removidos:[]
