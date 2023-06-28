@@ -1220,3 +1220,11 @@ BRR-00061 --> TRK 38.6613056 -9.0757639 Barreiro Rua José Elias Garcia 30 ON_ST
 ORM-00009 --> KLS 39.6318977 -8.6809175 Ourém Av. de Dom José Alves Correia da Silva 279 PARKING_LOT
 [{'id': 'ORM-00009-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-04T14:00:32.319Z'}]
 Removidos:[]
+
+2023-06-28 15:16:21
+Adicionados:['BRR-00037']
+
+BRR-00037 --> TRK 38.653691 -9.072941 Barreiro Praceta D. José I 3, Verderena ON_STREET
+[{'id': 'BRR-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-28T14:42:39.658Z'}]
+[{'id': 'BRR-00037-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-28T14:42:39.658Z'}]
+Removidos:[]
