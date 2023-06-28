@@ -301,3 +301,6 @@ AVR-00044-02 evses -> 0: status : CHARGING
 
 2023-06-28 09:36:31
 AVR-00043-01 evses -> 0: status : CHARGING
+
+2023-06-28 10:17:23
+SMG-00009-02 evses -> 0: status : CHARGING

@@ -1142,3 +1142,7 @@ AVR-00043 --> HLX 40.64293 -8.60241 Aveiro Zona Industrial da Taboeira PARKING_L
 [{'id': 'AVR-00043-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-28T08:48:05.984Z'}]
 [{'id': 'AVR-00043-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-28T08:48:05.984Z'}]
 Removidos:[]
+
+2023-06-28 10:17:18
+Adicionados:[]
+Removidos:['AVR-00044']
