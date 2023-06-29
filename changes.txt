@@ -1385,3 +1385,7 @@ Adicionados:['OER-00175']
 OER-00175 --> EDP 38.69588 -9.2898809 Oeiras Largo Conde das Alcáçovas 3, PARKING_LOT
 [{'id': 'OER-00175-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:06:00.935Z'}]
 Removidos:[]
+
+2023-06-29 21:54:54
+Adicionados:[]
+Removidos:['AGD-00013', 'BRR-00036', 'BRR-00037']
