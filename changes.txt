@@ -1393,3 +1393,7 @@ Removidos:['AGD-00013', 'BRR-00036', 'BRR-00037']
 2023-06-29 22:14:05
 Adicionados:[]
 Removidos:['BRR-00042', 'BRR-00060', 'BRR-00065', 'CBR-00080', 'CSC-00130', 'CVR-00006', 'FAR-00032']
+
+2023-06-29 22:31:17
+Adicionados:[]
+Removidos:['LSB-00610', 'LSB-00611']
