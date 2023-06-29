@@ -1252,3 +1252,7 @@ Removidos:['BRR-00041', 'BRR-00057']
 2023-06-28 17:13:38
 Adicionados:[]
 Removidos:['BRR-00040', 'BRR-00056', 'BRR-00061']
+
+2023-06-29 02:53:55
+Adicionados:[]
+Removidos:['BRR-00035', 'BRR-00039', 'BRR-00058', 'BRR-00062', 'BRR-00063']
