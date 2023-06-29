@@ -1339,3 +1339,11 @@ Removidos:['LRA-00091']
 2023-06-29 12:32:07
 Adicionados:[]
 Removidos:['PVZ-00027', 'PVZ-00028']
+
+2023-06-29 13:26:54
+Adicionados:['BRR-00036']
+
+BRR-00036 --> TRK 38.649536 -9.064754 Barreiro Rua Bombeiros VoluntÃÂ¡rios do Barreiro 13 ON_STREET
+[{'id': 'BRR-00036-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.73Z'}]
+[{'id': 'BRR-00036-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.73Z'}]
+Removidos:[]
