@@ -393,3 +393,7 @@ CBR-00080-02 evses -> 0: status : CHARGING
 CBR-00080-02 evses -> 0: status : CHARGING
 LLE-00109-02 evses -> 0: status : CHARGING
 MAI-00031-02 evses -> 0: status : CHARGING
+
+2023-06-29 10:39:21
+AVR-00043-01 evses -> 0: status : CHARGING
+LLE-00109-02 evses -> 0: status : CHARGING
