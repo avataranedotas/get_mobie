@@ -1401,3 +1401,7 @@ Removidos:['LSB-00610', 'LSB-00611']
 2023-06-29 23:15:32
 Adicionados:[]
 Removidos:['OER-00146', 'OER-00153', 'PRT-00189', 'PRT-00190', 'PRT-00191']
+
+2023-06-29 23:36:22
+Adicionados:[]
+Removidos:['PRT-00192', 'SJP-00002', 'TND-00008', 'VLP-00003']
