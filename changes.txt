@@ -1256,3 +1256,23 @@ Removidos:['BRR-00040', 'BRR-00056', 'BRR-00061']
 2023-06-29 02:53:55
 Adicionados:[]
 Removidos:['BRR-00035', 'BRR-00039', 'BRR-00058', 'BRR-00062', 'BRR-00063']
+
+2023-06-29 03:40:39
+Adicionados:['BRR-00039', 'BRR-00056', 'BRR-00057', 'BRR-00058']
+
+BRR-00039 --> TRK 38.642798 -9.051861 Barreiro Rua Dr. Luis Sá , 20 ON_STREET
+[{'id': 'BRR-00039-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-29T01:34:59.777Z'}]
+[{'id': 'BRR-00039-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-29T01:34:59.776Z'}]
+
+BRR-00056 --> TRK 38.6617611 -9.0800944 Barreiro Rua São João de Brito 1 ON_STREET
+[{'id': 'BRR-00056-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:37:20.012Z'}]
+[{'id': 'BRR-00056-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:37:20.01Z'}]
+
+BRR-00057 --> TRK 38.6626528 -9.0795194 Barreiro Rua Dr. Eusébio Leão 14 ON_STREET
+[{'id': 'BRR-00057-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:33:52.096Z'}]
+[{'id': 'BRR-00057-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:33:52.097Z'}]
+
+BRR-00058 --> TRK 38.6600667 -9.0758222 Barreiro Rua Vasco da Gama, 12 ON_STREET
+[{'id': 'BRR-00058-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T01:36:43.82Z'}]
+[{'id': 'BRR-00058-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T01:36:43.819Z'}]
+Removidos:[]
