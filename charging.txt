@@ -383,3 +383,6 @@ MAI-00031-02 evses -> 0: status : CHARGING
 2023-06-29 07:36:36
 FAR-00032-01 evses -> 1: status : CHARGING
 MAI-00031-02 evses -> 0: status : CHARGING
+
+2023-06-29 09:36:29
+LLE-00109-02 evses -> 0: status : CHARGING
