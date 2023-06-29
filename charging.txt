@@ -419,3 +419,9 @@ BRR-00056-01 evses -> 1: status : CHARGING
 CNS-00002-02 evses -> 0: status : CHARGING
 LLE-00109-02 evses -> 0: status : CHARGING
 LLE-00109-01 evses -> 1: status : CHARGING
+
+2023-06-29 13:39:54
+BRR-00056-01 evses -> 1: status : CHARGING
+CNS-00002-02 evses -> 0: status : CHARGING
+LLE-00109-02 evses -> 0: status : CHARGING
+LLE-00109-01 evses -> 1: status : CHARGING
