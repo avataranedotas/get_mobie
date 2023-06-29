@@ -497,3 +497,16 @@ BRR-00063-01 evses -> 1: status : CHARGING
 CBR-00080-02 evses -> 0: status : CHARGING
 CBR-00080-02 evses -> 0: status : CHARGING
 MAI-00031-01 evses -> 1: status : CHARGING
+
+2023-06-29 19:36:14
+BRR-00036-01 evses -> 0: status : CHARGING
+BRR-00036-01 evses -> 0: status : CHARGING
+BRR-00037-02 evses -> 0: status : CHARGING
+BRR-00042-02 evses -> 0: status : CHARGING
+BRR-00056-02 evses -> 0: status : CHARGING
+BRR-00057-01 evses -> 0: status : CHARGING
+BRR-00063-01 evses -> 1: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
+MAI-00031-01 evses -> 1: status : CHARGING
+OLH-00006-01 evses -> 1: status : CHARGING
