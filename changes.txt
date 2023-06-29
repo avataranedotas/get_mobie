@@ -1310,3 +1310,11 @@ VLG-00026 --> HRZ 41.182018 -8.4826606 Valongo R. Manuel de Arriaga 243/273 PARK
 [{'id': 'VLG-00026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T13:57:07.518Z'}]
 [{'id': 'VLG-00026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T13:57:07.52Z'}]
 Removidos:[]
+
+2023-06-29 10:16:53
+Adicionados:['VLG-00027']
+
+VLG-00027 --> HRZ 41.182018 -8.4826606 Valongo R. Manuel de Arriaga 243/273 PARKING_LOT
+[{'id': 'VLG-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T13:57:18.064Z'}]
+[{'id': 'VLG-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-17T13:57:18.063Z'}]
+Removidos:[]
