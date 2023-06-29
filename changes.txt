@@ -1370,3 +1370,11 @@ Adicionados:['OER-00164']
 OER-00164 --> GRN 38.7137835 -9.2259702 Oeiras Alameda Fernão Lopes ON_STREET
 [{'id': 'OER-00164-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:46:12.562Z'}]
 Removidos:[]
+
+2023-06-29 15:15:42
+Adicionados:['BRR-00040']
+
+BRR-00040 --> TRK 38.640828 -9.057865 Barreiro Rua da Nau São Rafael 6, Santo André ON_STREET
+[{'id': 'BRR-00040-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:40:48.383Z'}]
+[{'id': 'BRR-00040-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-28T16:40:48.382Z'}]
+Removidos:[]
