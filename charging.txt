@@ -379,3 +379,7 @@ CBR-00080-02 evses -> 0: status : CHARGING
 
 2023-06-29 07:14:46
 MAI-00031-02 evses -> 0: status : CHARGING
+
+2023-06-29 07:36:36
+FAR-00032-01 evses -> 1: status : CHARGING
+MAI-00031-02 evses -> 0: status : CHARGING
