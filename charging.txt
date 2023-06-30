@@ -571,3 +571,6 @@ OLH-00006-02 evses -> 2: status : CHARGING
 
 2023-06-30 08:38:41
 OLH-00006-02 evses -> 2: status : CHARGING
+
+2023-06-30 10:16:31
+BRR-00035-01 evses -> 0: status : CHARGING
