@@ -568,3 +568,6 @@ FAR-00032-03 evses -> 2: status : CHARGING
 
 2023-06-30 08:18:59
 OLH-00006-02 evses -> 2: status : CHARGING
+
+2023-06-30 08:38:41
+OLH-00006-02 evses -> 2: status : CHARGING
