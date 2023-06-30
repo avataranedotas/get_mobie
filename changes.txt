@@ -1405,3 +1405,13 @@ Removidos:['OER-00146', 'OER-00153', 'PRT-00189', 'PRT-00190', 'PRT-00191']
 2023-06-29 23:36:22
 Adicionados:[]
 Removidos:['PRT-00192', 'SJP-00002', 'TND-00008', 'VLP-00003']
+
+2023-06-30 01:26:28
+Adicionados:['BRR-00042', 'OER-00146']
+
+BRR-00042 --> TRK 38.656542 -9.068592 Barreiro Avenida Santa Maria 15C ON_STREET
+[{'id': 'BRR-00042-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-29T21:46:02.908Z'}]
+
+OER-00146 --> GRN 38.6926797 -9.3144221 Oeiras Largo Marquês de Pombal, Oeiras ON_STREET
+[{'id': 'OER-00146-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T22:48:33.469Z'}]
+Removidos:[]
