@@ -562,3 +562,6 @@ VNG-00111-01 evses -> 1: status : CHARGING
 
 2023-06-30 03:20:24
 FAR-00032-03 evses -> 2: status : CHARGING
+
+2023-06-30 03:38:04
+FAR-00032-03 evses -> 2: status : CHARGING
