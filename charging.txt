@@ -636,3 +636,7 @@ BRR-00060-01 evses -> 0: status : CHARGING
 2023-06-30 22:16:28
 BRR-00060-01 evses -> 0: status : CHARGING
 FAR-00032-01 evses -> 1: status : CHARGING
+
+2023-06-30 22:38:00
+BRR-00060-01 evses -> 0: status : CHARGING
+FAR-00032-01 evses -> 1: status : CHARGING
