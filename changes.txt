@@ -1442,3 +1442,10 @@ FIG-00009 --> LOG 40.175841 -8.89445 Figueira da Foz Avenida Dom João II ON_STR
 [{'id': 'FIG-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:07.805Z'}]
 [{'id': 'FIG-00009-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:07.803Z'}]
 Removidos:[]
+
+2023-06-30 13:21:13
+Adicionados:['BRR-00037']
+
+BRR-00037 --> TRK 38.653691 -9.072941 Barreiro Praceta D. José I 3, Verderena ON_STREET
+[{'id': 'BRR-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-29T21:44:19.018Z'}]
+Removidos:[]
