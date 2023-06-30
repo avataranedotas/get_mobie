@@ -1434,3 +1434,11 @@ BRR-00035 --> TRK 38.652311 -9.066601 Barreiro Rua Candido de Oliveira 69B, Verd
 CSC-00130 --> EDP 38.703964 -9.3966488 Cascais Av. Marginal 49, PARKING_LOT
 [{'id': 'CSC-00130-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-27T09:05:10.729Z'}]
 Removidos:[]
+
+2023-06-30 11:12:43
+Adicionados:['FIG-00009']
+
+FIG-00009 --> LOG 40.175841 -8.89445 Figueira da Foz Avenida Dom João II ON_STREET
+[{'id': 'FIG-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:07.805Z'}]
+[{'id': 'FIG-00009-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-25T18:08:07.803Z'}]
+Removidos:[]
