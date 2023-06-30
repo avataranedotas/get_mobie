@@ -1456,3 +1456,10 @@ Adicionados:['CBR-00080']
 CBR-00080 --> PRI 40.192326 -8.50876 Coimbra R. Entre Vinhas 3,  Taveiro ALONG_MOTORWAY
 [{'id': 'CBR-00080-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-29T21:51:14.232Z'}]
 Removidos:[]
+
+2023-06-30 17:13:42
+Adicionados:['OER-00153']
+
+OER-00153 --> GRN 38.6925546 -9.3117242 Oeiras Jardim de Paço de Arcos, Oeiras ON_STREET
+[{'id': 'OER-00153-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T22:52:00.296Z'}]
+Removidos:[]

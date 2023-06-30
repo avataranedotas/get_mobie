@@ -596,3 +596,8 @@ BRR-00037-02 evses -> 0: status : CHARGING
 
 2023-06-30 15:36:23
 BRR-00037-02 evses -> 0: status : CHARGING
+
+2023-06-30 17:13:47
+BRR-00037-02 evses -> 0: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
+CBR-00080-02 evses -> 0: status : CHARGING
