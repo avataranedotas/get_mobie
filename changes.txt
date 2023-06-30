@@ -1449,3 +1449,10 @@ Adicionados:['BRR-00037']
 BRR-00037 --> TRK 38.653691 -9.072941 Barreiro Praceta D. José I 3, Verderena ON_STREET
 [{'id': 'BRR-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-29T21:44:19.018Z'}]
 Removidos:[]
+
+2023-06-30 14:13:45
+Adicionados:['CBR-00080']
+
+CBR-00080 --> PRI 40.192326 -8.50876 Coimbra R. Entre Vinhas 3,  Taveiro ALONG_MOTORWAY
+[{'id': 'CBR-00080-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-29T21:51:14.232Z'}]
+Removidos:[]
