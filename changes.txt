@@ -1415,3 +1415,12 @@ BRR-00042 --> TRK 38.656542 -9.068592 Barreiro Avenida Santa Maria 15C ON_STREET
 OER-00146 --> GRN 38.6926797 -9.3144221 Oeiras Largo Marquês de Pombal, Oeiras ON_STREET
 [{'id': 'OER-00146-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T22:48:33.469Z'}]
 Removidos:[]
+
+2023-06-30 03:20:20
+Adicionados:['FAR-00032']
+
+FAR-00032 --> EDP 37.0299001 -7.8512999 Faro McDonald´s Olhão - Estrada Nacional 125 PARKING_LOT
+[{'id': 'FAR-00032-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-06-29T22:02:37.259Z'}]
+[{'id': 'FAR-00032-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-06-29T22:02:37.257Z'}]
+[{'id': 'FAR-00032-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T22:02:37.26Z'}]
+Removidos:[]
