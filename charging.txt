@@ -655,3 +655,6 @@ BRR-00065-01 evses -> 0: status : CHARGING
 
 2023-07-01 11:13:04
 RDD-90001-2 evses -> 1: status : CHARGING
+
+2023-07-01 11:36:04
+RDD-90001-2 evses -> 1: status : CHARGING
