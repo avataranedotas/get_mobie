@@ -690,3 +690,7 @@ BRR-00042-01 evses -> 1: status : CHARGING
 2023-07-01 21:36:20
 BRR-00042-02 evses -> 0: status : CHARGING
 BRR-00042-01 evses -> 1: status : CHARGING
+
+2023-07-01 22:37:02
+BRR-00042-02 evses -> 0: status : CHARGING
+BRR-00042-01 evses -> 1: status : CHARGING
