@@ -676,3 +676,6 @@ RDD-90001-2 evses -> 1: status : CHARGING
 
 2023-07-01 14:12:40
 RDD-90001-2 evses -> 1: status : CHARGING
+
+2023-07-01 14:36:11
+RDD-90001-2 evses -> 1: status : CHARGING
