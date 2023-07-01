@@ -1477,3 +1477,12 @@ Adicionados:['BRR-00065']
 BRR-00065 --> TRK 38.6550444 -9.0634861 Barreiro Rua Almeida Garrett 33 ON_STREET
 [{'id': 'BRR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T21:49:30.491Z'}]
 Removidos:[]
+
+2023-07-01 19:11:54
+Adicionados:['CVR-00006']
+
+CVR-00006 --> KLS 37.694389 -8.088611 Castro Verde Rua Nova da Feira, Castro Verde PARKING_LOT
+[{'id': 'CVR-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T08:18:37.566Z'}]
+[{'id': 'CVR-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T08:18:37.566Z'}]
+[{'id': 'CVR-00006-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T08:18:37.566Z'}]
+Removidos:[]
