@@ -1486,3 +1486,11 @@ CVR-00006 --> KLS 37.694389 -8.088611 Castro Verde Rua Nova da Feira, Castro Ver
 [{'id': 'CVR-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T08:18:37.566Z'}]
 [{'id': 'CVR-00006-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T08:18:37.566Z'}]
 Removidos:[]
+
+2023-07-02 03:01:54
+Adicionados:['LSB-00611']
+
+LSB-00611 --> WEN 38.76664 -9.09831 Lisboa Av. Dom João II n.º 27 UNDERGROUND_GARAGE
+[{'id': 'LSB-00611-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:29:00.176Z'}]
+[{'id': 'LSB-00611-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:29:00.177Z'}]
+Removidos:[]
