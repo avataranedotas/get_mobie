@@ -783,3 +783,10 @@ BRR-00036-01 evses -> 0: status : CHARGING
 BRR-00036-01 evses -> 0: status : CHARGING
 CSC-00130-1 evses -> 0: status : CHARGING
 STS-00017-02 evses -> 1: status : CHARGING
+
+2023-07-02 19:12:02
+BRR-00036-01 evses -> 0: status : CHARGING
+BRR-00036-01 evses -> 0: status : CHARGING
+BRR-00040-02 evses -> 0: status : CHARGING
+BRR-00040-01 evses -> 1: status : CHARGING
+CSC-00130-1 evses -> 0: status : CHARGING
