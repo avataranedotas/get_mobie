@@ -746,3 +746,7 @@ CSC-00130-1 evses -> 0: status : CHARGING
 
 2023-07-02 14:36:09
 CSC-00130-1 evses -> 0: status : CHARGING
+
+2023-07-02 15:14:27
+CSC-00130-1 evses -> 0: status : CHARGING
+EVR-00030-02 evses -> 0: status : CHARGING
