@@ -1494,3 +1494,11 @@ LSB-00611 --> WEN 38.76664 -9.09831 Lisboa Av. Dom João II n.º 27 UNDERGROUND_
 [{'id': 'LSB-00611-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:29:00.176Z'}]
 [{'id': 'LSB-00611-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:29:00.177Z'}]
 Removidos:[]
+
+2023-07-02 08:37:36
+Adicionados:['ABT-00019']
+
+ABT-00019 --> SLV 39.5521854 -8.2805243 Abrantes R. dos Pescadores PARKING_LOT
+[{'id': 'ABT-00019-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2023-06-26T15:20:14.288Z'}]
+[{'id': 'ABT-00019-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 30, 'max_electric_power': 20000, 'last_updated': '2023-06-26T15:20:14.286Z'}]
+Removidos:[]
