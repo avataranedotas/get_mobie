@@ -808,3 +808,6 @@ CSC-00130-1 evses -> 0: status : CHARGING
 
 2023-07-03 05:16:36
 BRR-00042-02 evses -> 0: status : CHARGING
+
+2023-07-03 05:36:47
+BRR-00042-02 evses -> 0: status : CHARGING
