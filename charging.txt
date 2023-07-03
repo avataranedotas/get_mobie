@@ -863,3 +863,7 @@ PRT-00192-1 evses -> 0: status : CHARGING
 2023-07-03 13:25:38
 BRR-00042-01 evses -> 1: status : CHARGING
 PRT-00192-1 evses -> 0: status : CHARGING
+
+2023-07-03 13:39:23
+BRR-00042-01 evses -> 1: status : CHARGING
+PRT-00192-1 evses -> 0: status : CHARGING
