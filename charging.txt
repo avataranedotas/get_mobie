@@ -883,3 +883,8 @@ PRT-00192-1 evses -> 0: status : CHARGING
 BRR-00039-02 evses -> 0: status : CHARGING
 LLE-00140-01 evses -> 0: status : CHARGING
 PRT-00192-1 evses -> 0: status : CHARGING
+
+2023-07-03 16:19:45
+BRR-00039-02 evses -> 0: status : CHARGING
+LLE-00140-01 evses -> 0: status : CHARGING
+PRT-00192-1 evses -> 0: status : CHARGING
