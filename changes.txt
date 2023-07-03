@@ -1517,3 +1517,10 @@ LSB-00610 --> WEN 38.76664 -9.09831 Lisboa Av. Dom João II n.º 27 UNDERGROUND_
 [{'id': 'LSB-00610-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-29T22:13:32.876Z'}]
 [{'id': 'LSB-00610-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 7400, 'last_updated': '2023-06-29T22:13:32.878Z'}]
 Removidos:[]
+
+2023-07-03 07:36:12
+Adicionados:['PRT-00192']
+
+PRT-00192 --> EDP 41.174932 -8.6456605 Porto RUA ENG FERREIRA DIAS, Nº728 PARKING_GARAGE
+[{'id': 'PRT-00192-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-29T11:18:16.725Z'}]
+Removidos:[]
