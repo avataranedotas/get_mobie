@@ -831,3 +831,7 @@ PRT-00192-1 evses -> 0: status : CHARGING
 EVR-00030-02 evses -> 0: status : CHARGING
 PRT-00190-1 evses -> 0: status : CHARGING
 PRT-00192-1 evses -> 0: status : CHARGING
+
+2023-07-03 09:16:06
+PRT-00190-1 evses -> 0: status : CHARGING
+PRT-00192-1 evses -> 0: status : CHARGING
