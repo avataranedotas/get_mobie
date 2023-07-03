@@ -906,3 +906,7 @@ LLE-00140-01 evses -> 0: status : CHARGING
 2023-07-03 18:39:09
 BRR-00042-02 evses -> 0: status : CHARGING
 LLE-00140-01 evses -> 0: status : CHARGING
+
+2023-07-03 21:36:54
+BRR-00036-01 evses -> 0: status : CHARGING
+BRR-00036-01 evses -> 0: status : CHARGING
