@@ -1759,3 +1759,11 @@ BJA-00021 --> EDP 37.893813 -8.0168999 Beja Herdade da Figueirinha, PARKING_LOT
 [{'id': 'BJA-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:22.391Z'}]
 [{'id': 'BJA-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:22.391Z'}]
 Removidos:[]
+
+2023-07-04 13:25:17
+Adicionados:['BJA-00022']
+
+BJA-00022 --> EDP 37.893813 -8.016905 Beja Herdade da Figueirinha, PARKING_LOT
+[{'id': 'BJA-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:51.999Z'}]
+[{'id': 'BJA-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:51.999Z'}]
+Removidos:[]
