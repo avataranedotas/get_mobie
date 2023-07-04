@@ -1783,3 +1783,16 @@ BJA-00023 --> EDP 37.895166 -8.04983 Beja Herdade da Figueirinha, PARKING_LOT
 [{'id': 'BJA-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:21:31.365Z'}]
 [{'id': 'BJA-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:21:31.365Z'}]
 Removidos:[]
+
+2023-07-04 15:16:42
+Adicionados:['BJA-00024', 'ESP-00009']
+
+BJA-00024 --> EDP 37.895166 -8.049832 Beja Herdade da Figueirinha, PARKING_LOT
+[{'id': 'BJA-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:17:42.837Z'}]
+[{'id': 'BJA-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:17:42.837Z'}]
+
+ESP-00009 --> KLC 41.0020703 -8.6402206 Espinho R. 20 1286, PARKING_LOT
+[{'id': 'ESP-00009-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-20T12:44:35.221Z'}]
+[{'id': 'ESP-00009-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:44:35.224Z'}]
+[{'id': 'ESP-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:44:35.223Z'}]
+Removidos:[]
