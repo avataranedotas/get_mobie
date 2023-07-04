@@ -1796,3 +1796,12 @@ ESP-00009 --> KLC 41.0020703 -8.6402206 Espinho R. 20 1286, PARKING_LOT
 [{'id': 'ESP-00009-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:44:35.224Z'}]
 [{'id': 'ESP-00009-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:44:35.223Z'}]
 Removidos:[]
+
+2023-07-04 15:37:10
+Adicionados:['CHM-00004']
+
+CHM-00004 --> KLC 39.3685184 -8.4711982 Chamusca R. Direita de São Pedro Km 99,78 PARKING_LOT
+[{'id': 'CHM-00004-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-30T09:47:09.008Z'}]
+[{'id': 'CHM-00004-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-30T09:47:09.01Z'}]
+[{'id': 'CHM-00004-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-03-30T09:47:09.007Z'}]
+Removidos:[]
