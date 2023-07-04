@@ -1743,3 +1743,19 @@ Adicionados:['VPV-00005']
 VPV-00005 --> SEG 38.680275 -27.056066 Praia da Vitória CAMINHO PISCINAS PORTO MARTINS ON_STREET
 [{'id': 'VPV-00005-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:31:28.53Z'}]
 Removidos:[]
+
+2023-07-04 12:33:45
+Adicionados:['AGH-00010', 'BJA-00020', 'BJA-00021']
+
+AGH-00010 --> SEG 38.656645 -27.219184 Angra do Heroísmo Rua do Marquês ON_STREET
+[{'id': 'AGH-00010-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:29:12.499Z'}]
+[{'id': 'AGH-00010-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:29:12.498Z'}]
+
+BJA-00020 --> EDP 37.8938133 -8.0168999 Beja Herdade da Figueirinha, PARKING_LOT
+[{'id': 'BJA-00020-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:05.526Z'}]
+[{'id': 'BJA-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:05.526Z'}]
+
+BJA-00021 --> EDP 37.893813 -8.0168999 Beja Herdade da Figueirinha, PARKING_LOT
+[{'id': 'BJA-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:22.391Z'}]
+[{'id': 'BJA-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-04T10:54:22.391Z'}]
+Removidos:[]
