@@ -1736,3 +1736,10 @@ BJA-00025 --> EDP 37.88915 -8.02053 Beja Herdade da Figueirinha PARKING_LOT
 [{'id': 'BJA-00025-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-24T00:20:43.059Z'}]
 [{'id': 'BJA-00025-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-24T00:20:43.058Z'}]
 Removidos:[]
+
+2023-07-04 11:13:32
+Adicionados:['VPV-00005']
+
+VPV-00005 --> SEG 38.680275 -27.056066 Praia da Vitória CAMINHO PISCINAS PORTO MARTINS ON_STREET
+[{'id': 'VPV-00005-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:31:28.53Z'}]
+Removidos:[]
