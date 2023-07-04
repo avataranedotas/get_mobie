@@ -1720,3 +1720,11 @@ Adicionados:['VPV-00006']
 VPV-00006 --> SEG 38.801642 -27.257479 Praia da Vitória RUA PORTO DOS BISCOITOS ON_STREET
 [{'id': 'VPV-00006-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:33:02.844Z'}]
 Removidos:[]
+
+2023-07-04 10:17:56
+Adicionados:['VPV-00003']
+
+VPV-00003 --> SEG 38.731827 -27.058508 Praia da Vitória AVENIDA ÁLVARO MARTINS HOMEM ON_STREET
+[{'id': 'VPV-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T16:14:18.052Z'}]
+[{'id': 'VPV-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-16T16:14:18.054Z'}]
+Removidos:[]
