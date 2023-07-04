@@ -951,3 +951,6 @@ VCT-00029-02 evses -> 1: status : CHARGING
 2023-07-04 18:40:50
 ABF-00061-02 evses -> 0: status : CHARGING
 BRG-00078-04 evses -> 3: status : CHARGING
+
+2023-07-04 19:36:08
+BRR-00062-02 evses -> 0: status : CHARGING
