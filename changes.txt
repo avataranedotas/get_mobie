@@ -1775,3 +1775,11 @@ SPS-00004 --> EDP 40.736536 -8.088055 São Pedro do Sul Av. Estação -TERMAS DE
 [{'id': 'SPS-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-04T13:20:44.638Z'}]
 [{'id': 'SPS-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-04T13:20:44.638Z'}]
 Removidos:[]
+
+2023-07-04 14:38:12
+Adicionados:['BJA-00023']
+
+BJA-00023 --> EDP 37.895166 -8.04983 Beja Herdade da Figueirinha, PARKING_LOT
+[{'id': 'BJA-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:21:31.365Z'}]
+[{'id': 'BJA-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-04T12:21:31.365Z'}]
+Removidos:[]
