@@ -940,3 +940,6 @@ BRR-00062-02 evses -> 0: status : CHARGING
 2023-07-04 16:44:14
 CHM-00004-03 evses -> 1: status : CHARGING
 CHM-00004-01 evses -> 2: status : CHARGING
+
+2023-07-04 17:14:57
+CHM-00004-02 evses -> 0: status : CHARGING
