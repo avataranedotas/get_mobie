@@ -1813,3 +1813,11 @@ EVR-00032 --> EDP 38.567159 -7.915577 Évora Avenida Túlio Espanca PARKING_LOT
 [{'id': 'EVR-00032-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:21:45.548Z'}]
 [{'id': 'EVR-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:21:45.549Z'}]
 Removidos:[]
+
+2023-07-05 08:41:57
+Adicionados:['CNT-00012']
+
+CNT-00012 --> EDP 40.3189411 -8.7510473 Cantanhede R. Prof. Manuel Rodrigues Romão 170 PARKING_LOT
+[{'id': 'CNT-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:13:35.485Z'}]
+[{'id': 'CNT-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:13:35.484Z'}]
+Removidos:[]
