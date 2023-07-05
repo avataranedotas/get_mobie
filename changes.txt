@@ -1821,3 +1821,11 @@ CNT-00012 --> EDP 40.3189411 -8.7510473 Cantanhede R. Prof. Manuel Rodrigues Rom
 [{'id': 'CNT-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:13:35.485Z'}]
 [{'id': 'CNT-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:13:35.484Z'}]
 Removidos:[]
+
+2023-07-05 09:37:33
+Adicionados:['CNT-00013']
+
+CNT-00013 --> EDP 40.3163272 -8.7524412 Cantanhede R. Prof. Manuel Rodrigues Romão 170 PARKING_LOT
+[{'id': 'CNT-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-05T08:51:45.318Z'}]
+[{'id': 'CNT-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-05T08:51:45.318Z'}]
+Removidos:[]
