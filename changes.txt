@@ -1847,3 +1847,13 @@ GVA-00003 --> EDP 40.4962342 -7.5923343 Gouveia Avenida 1º Maio, S/N PARKING_LO
 [{'id': 'GVA-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-03T09:31:26.022Z'}]
 [{'id': 'GVA-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-03T09:31:26.02Z'}]
 Removidos:[]
+
+2023-07-05 12:35:17
+Adicionados:['OER-00158', 'OER-00161']
+
+OER-00158 --> GRN 38.688424 -9.3173618 Oeiras Rua Henrique Paiva Couceiro ON_STREET
+[{'id': 'OER-00158-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-25T11:45:39.871Z'}]
+
+OER-00161 --> GRN 38.7018212 -9.2756494 Oeiras Rua Dr. Manuel Rodrigues ON_STREET
+[{'id': 'OER-00161-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:45:29.724Z'}]
+Removidos:[]
