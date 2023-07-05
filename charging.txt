@@ -983,3 +983,6 @@ VCT-00029-01 evses -> 0: status : CHARGING
 
 2023-07-05 13:27:48
 VCT-00029-01 evses -> 0: status : CHARGING
+
+2023-07-05 13:42:47
+VCT-00029-01 evses -> 0: status : CHARGING
