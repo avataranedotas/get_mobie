@@ -1839,3 +1839,11 @@ FAR-00035
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-07-05 11:13:56
+Adicionados:['GVA-00003']
+
+GVA-00003 --> EDP 40.4962342 -7.5923343 Gouveia Avenida 1º Maio, S/N PARKING_LOT
+[{'id': 'GVA-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-03T09:31:26.022Z'}]
+[{'id': 'GVA-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-03T09:31:26.02Z'}]
+Removidos:[]
