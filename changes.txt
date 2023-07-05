@@ -1857,3 +1857,10 @@ OER-00158 --> GRN 38.688424 -9.3173618 Oeiras Rua Henrique Paiva Couceiro ON_STR
 OER-00161 --> GRN 38.7018212 -9.2756494 Oeiras Rua Dr. Manuel Rodrigues ON_STREET
 [{'id': 'OER-00161-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:45:29.724Z'}]
 Removidos:[]
+
+2023-07-05 13:27:44
+Adicionados:['OER-00165']
+
+OER-00165 --> GRN 38.7000341 -9.2298333 Oeiras Avenida Combatentes da Grande Guerra  ON_STREET
+[{'id': 'OER-00165-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-24T15:46:25.514Z'}]
+Removidos:[]
