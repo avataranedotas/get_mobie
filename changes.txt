@@ -1890,3 +1890,11 @@ VNG-00114
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 80000
+
+2023-07-06 08:41:42
+Adicionados:['VFR-00043']
+
+VFR-00043 --> GLP 40.921879 -8.569931 Santa Maria da Feira R. Zona Industrial 250-368 ON_STREET
+[{'id': 'VFR-00043-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T22:22:36.54Z'}]
+[{'id': 'VFR-00043-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T22:22:36.541Z'}]
+Removidos:[]
