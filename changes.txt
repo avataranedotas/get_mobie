@@ -1922,3 +1922,13 @@ GMR-00089 --> HEX 41.435718 -8.304585 Guimarães Alameda da Cidade de Lisboa ON_
 [{'id': 'GMR-00089-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-21T21:16:41.234Z'}]
 [{'id': 'GMR-00089-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-12-21T21:16:41.236Z'}]
 Removidos:[]
+
+2023-07-06 16:22:05
+Adicionados:['SCR-00018', 'SCR-00019']
+
+SCR-00018 --> SCR 32.651935 -16.839903 Santa Cruz Rua João Paulo II PARKING_LOT
+[{'id': 'SCR-00018-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T13:12:49.516Z'}]
+
+SCR-00019 --> SCR 32.651935 -16.839903 Santa Cruz Rua João Paulo II PARKING_LOT
+[{'id': 'SCR-00019-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T13:13:01.064Z'}]
+Removidos:[]

@@ -1098,3 +1098,7 @@ BRR-00057-01 evses -> 0: status : CHARGING
 BRR-00036-02 evses -> 1: status : CHARGING
 BRR-00036-02 evses -> 1: status : CHARGING
 BRR-00057-01 evses -> 0: status : CHARGING
+
+2023-07-06 16:22:09
+ABF-00061-02 evses -> 0: status : CHARGING
+BRR-00057-01 evses -> 0: status : CHARGING
