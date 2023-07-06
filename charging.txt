@@ -1108,3 +1108,7 @@ ABF-00061-02 evses -> 0: status : CHARGING
 
 2023-07-06 17:37:58
 ABF-00061-01 evses -> 1: status : CHARGING
+
+2023-07-06 19:12:32
+BRR-00036-02 evses -> 1: status : CHARGING
+BRR-00036-02 evses -> 1: status : CHARGING
