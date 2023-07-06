@@ -1121,3 +1121,7 @@ BRR-00036-02 evses -> 1: status : CHARGING
 BRG-00078-04 evses -> 3: status : CHARGING
 BRR-00036-02 evses -> 1: status : CHARGING
 BRR-00036-02 evses -> 1: status : CHARGING
+
+2023-07-06 20:36:36
+BRR-00036-02 evses -> 1: status : CHARGING
+BRR-00036-02 evses -> 1: status : CHARGING
