@@ -1064,3 +1064,7 @@ VNG-00114-04 evses -> 0: status : CHARGING
 2023-07-06 09:16:39
 ABF-00061-01 evses -> 1: status : CHARGING
 BRR-00057-02 evses -> 1: status : CHARGING
+
+2023-07-06 09:37:24
+ABF-00061-01 evses -> 1: status : CHARGING
+BRR-00057-02 evses -> 1: status : CHARGING
