@@ -1319,3 +1319,7 @@ SNS-00011-02 evses -> 1: status : CHARGING
 2023-07-07 20:36:29
 LSB-00590-02 evses -> 0: status : CHARGING
 SNS-00011-02 evses -> 1: status : CHARGING
+
+2023-07-07 22:37:45
+ACN-00006-01 evses -> 1: status : CHARGING
+PVZ-00027-02 evses -> 1: status : CHARGING
