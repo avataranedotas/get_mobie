@@ -1195,3 +1195,7 @@ VNG-00114-03 evses -> 1: status : CHARGING
 2023-07-07 07:14:45
 VNG-00114-03 evses -> 1: status : CHARGING
 VNG-00114-03 evses -> 1: status : CHARGING
+
+2023-07-07 07:36:21
+VNG-00114-03 evses -> 1: status : CHARGING
+VNG-00114-03 evses -> 1: status : CHARGING
