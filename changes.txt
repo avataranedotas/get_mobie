@@ -1940,3 +1940,11 @@ PRT-00197 --> EDP 41.15225 -8.59931 Porto Av. de Fernão de Magalhães 7 PARKING
 [{'id': 'PRT-00197-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:24:55.725Z'}]
 [{'id': 'PRT-00197-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:24:55.724Z'}]
 Removidos:[]
+
+2023-07-07 10:17:14
+Adicionados:['GRD-00022']
+
+GRD-00022 --> EDP 40.4135473 -7.6750339 Guarda Estrada Nacional 339, Sra do Espinheiro PARKING_LOT
+[{'id': 'GRD-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T09:46:53.885Z'}]
+[{'id': 'GRD-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T09:46:53.885Z'}]
+Removidos:[]

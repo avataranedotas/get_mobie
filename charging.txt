@@ -1226,3 +1226,9 @@ SNT-00106-02 evses -> 0: status : CHARGING
 SNT-00106-01 evses -> 1: status : CHARGING
 VNG-00114-02 evses -> 3: status : CHARGING
 VNG-00114-02 evses -> 3: status : CHARGING
+
+2023-07-07 10:17:19
+ABF-00061-02 evses -> 0: status : CHARGING
+BRG-00078-04 evses -> 3: status : CHARGING
+SNT-00106-02 evses -> 0: status : CHARGING
+SNT-00106-01 evses -> 1: status : CHARGING
