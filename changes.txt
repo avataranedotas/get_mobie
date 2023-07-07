@@ -1964,3 +1964,16 @@ PVZ-00028 --> EDP 41.3780832 -8.7664738 Póvoa de Varzim Av. dos Descobrimentos 
 [{'id': 'PVZ-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:46.255Z'}]
 [{'id': 'PVZ-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:46.255Z'}]
 Removidos:[]
+
+2023-07-07 13:23:02
+Adicionados:['SEI-00004', 'SNS-00011']
+
+SEI-00004 --> EDP 40.4289535 -7.7132783 Seia Muito Menos,Rua Escola de Seia PARKING_LOT
+[{'id': 'SEI-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-08T16:39:04.584Z'}]
+[{'id': 'SEI-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-08T16:39:04.585Z'}]
+
+SNS-00011 --> HRZ 37.8521552 -8.7902086 Sines ESTRADA MUNICIPAL 554 ON_STREET
+[{'id': 'SNS-00011-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T13:02:07.594Z'}]
+[{'id': 'SNS-00011-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-07T13:02:07.594Z'}]
+[{'id': 'SNS-00011-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-07-07T13:02:07.594Z'}]
+Removidos:[]
