@@ -1948,3 +1948,19 @@ GRD-00022 --> EDP 40.4135473 -7.6750339 Guarda Estrada Nacional 339, Sra do Espi
 [{'id': 'GRD-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T09:46:53.885Z'}]
 [{'id': 'GRD-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T09:46:53.885Z'}]
 Removidos:[]
+
+2023-07-07 10:39:28
+Adicionados:['ACN-00006', 'PVZ-00027', 'PVZ-00028']
+
+ACN-00006 --> EDP 39.4567104 -8.6675911 Alcanena Eurosol Alcanena - Rua José Afonso UNDERGROUND_GARAGE
+[{'id': 'ACN-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-28T09:37:05.965Z'}]
+[{'id': 'ACN-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-28T09:37:05.963Z'}]
+
+PVZ-00027 --> EDP 41.3780832 -8.7664738 Póvoa de Varzim Av. dos Descobrimentos UNDERGROUND_GARAGE
+[{'id': 'PVZ-00027-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:34.665Z'}]
+[{'id': 'PVZ-00027-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:34.665Z'}]
+
+PVZ-00028 --> EDP 41.3780832 -8.7664738 Póvoa de Varzim Av. dos Descobrimentos UNDERGROUND_GARAGE
+[{'id': 'PVZ-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:46.255Z'}]
+[{'id': 'PVZ-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T10:15:46.255Z'}]
+Removidos:[]
