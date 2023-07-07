@@ -1291,3 +1291,6 @@ BRG-00078-04 evses -> 3: status : CHARGING
 LSB-00590-02 evses -> 0: status : CHARGING
 VNG-00114-03 evses -> 1: status : CHARGING
 VNG-00114-03 evses -> 1: status : CHARGING
+
+2023-07-07 18:19:31
+LSB-00590-02 evses -> 0: status : CHARGING
