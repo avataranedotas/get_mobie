@@ -1263,3 +1263,8 @@ SNS-00011-03 evses -> 0: status : CHARGING
 
 2023-07-07 14:37:42
 SNS-00011-03 evses -> 0: status : CHARGING
+
+2023-07-07 15:16:23
+BRG-00078-04 evses -> 3: status : CHARGING
+VNG-00114-03 evses -> 1: status : CHARGING
+VNG-00114-03 evses -> 1: status : CHARGING
