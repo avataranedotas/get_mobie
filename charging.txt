@@ -1202,3 +1202,10 @@ VNG-00114-03 evses -> 1: status : CHARGING
 
 2023-07-07 08:20:18
 LSB-00582-01 evses -> 1: status : CHARGING
+
+2023-07-07 08:39:42
+BRG-00078-02 evses -> 2: status : CHARGING
+BRG-00078-04 evses -> 3: status : CHARGING
+LSB-00582-01 evses -> 1: status : CHARGING
+VNG-00114-02 evses -> 3: status : CHARGING
+VNG-00114-02 evses -> 3: status : CHARGING
