@@ -1932,3 +1932,11 @@ SCR-00018 --> SCR 32.651935 -16.839903 Santa Cruz Rua João Paulo II PARKING_LOT
 SCR-00019 --> SCR 32.651935 -16.839903 Santa Cruz Rua João Paulo II PARKING_LOT
 [{'id': 'SCR-00019-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T13:13:01.064Z'}]
 Removidos:[]
+
+2023-07-07 09:36:25
+Adicionados:['PRT-00197']
+
+PRT-00197 --> EDP 41.15225 -8.59931 Porto Av. de Fernão de Magalhães 7 PARKING_LOT
+[{'id': 'PRT-00197-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:24:55.725Z'}]
+[{'id': 'PRT-00197-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-24T00:24:55.724Z'}]
+Removidos:[]
