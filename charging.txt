@@ -1334,3 +1334,6 @@ PVZ-00027-02 evses -> 1: status : CHARGING
 
 2023-07-08 01:38:26
 ACN-00006-01 evses -> 1: status : CHARGING
+
+2023-07-08 02:57:34
+ACN-00006-01 evses -> 1: status : CHARGING
