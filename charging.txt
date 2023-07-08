@@ -1361,3 +1361,7 @@ OER-00165-1 evses -> 0: status : CHARGING
 2023-07-08 06:19:08
 ACN-00006-01 evses -> 1: status : CHARGING
 OER-00165-1 evses -> 0: status : CHARGING
+
+2023-07-08 06:38:49
+ACN-00006-01 evses -> 1: status : CHARGING
+OER-00165-1 evses -> 0: status : CHARGING
