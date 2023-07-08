@@ -1393,3 +1393,6 @@ OER-00165-1 evses -> 0: status : CHARGING
 
 2023-07-08 15:36:35
 GMR-00089-01 evses -> 0: status : CHARGING
+
+2023-07-08 16:19:11
+GMR-00089-01 evses -> 0: status : CHARGING
