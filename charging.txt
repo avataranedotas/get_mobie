@@ -1402,3 +1402,6 @@ GMR-00089-01 evses -> 0: status : CHARGING
 
 2023-07-08 17:12:52
 GMR-00089-01 evses -> 0: status : CHARGING
+
+2023-07-08 17:36:06
+GMR-00089-01 evses -> 0: status : CHARGING
