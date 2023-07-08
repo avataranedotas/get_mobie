@@ -1337,3 +1337,6 @@ ACN-00006-01 evses -> 1: status : CHARGING
 
 2023-07-08 02:57:34
 ACN-00006-01 evses -> 1: status : CHARGING
+
+2023-07-08 03:30:12
+ACN-00006-01 evses -> 1: status : CHARGING
