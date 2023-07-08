@@ -1420,3 +1420,6 @@ VPV-00003-01 evses -> 0: status : CHARGING
 
 2023-07-08 19:36:11
 VPV-00003-01 evses -> 0: status : CHARGING
+
+2023-07-08 21:12:42
+VPV-00003-01 evses -> 0: status : CHARGING
