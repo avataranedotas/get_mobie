@@ -1493,3 +1493,6 @@ CTB-00029-01 evses -> 1: status : CHARGING
 
 2023-07-09 15:14:45
 VPV-00003-01 evses -> 0: status : CHARGING
+
+2023-07-09 18:18:30
+PVZ-00028-01 evses -> 0: status : CHARGING
