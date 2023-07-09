@@ -1487,3 +1487,6 @@ GMR-00060-01 evses -> 1: status : CHARGING
 
 2023-07-09 14:13:02
 CTB-00029-01 evses -> 1: status : CHARGING
+
+2023-07-09 14:36:11
+CTB-00029-01 evses -> 1: status : CHARGING
