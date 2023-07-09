@@ -1429,3 +1429,6 @@ VPV-00003-01 evses -> 0: status : CHARGING
 
 2023-07-09 01:45:48
 LSB-00589-01 evses -> 0: status : CHARGING
+
+2023-07-09 03:05:40
+LSB-00589-01 evses -> 0: status : CHARGING
