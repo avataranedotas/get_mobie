@@ -1475,3 +1475,6 @@ LSB-00589-01 evses -> 0: status : CHARGING
 
 2023-07-09 10:15:51
 LSB-00589-01 evses -> 0: status : CHARGING
+
+2023-07-09 10:37:53
+CNT-00012-02 evses -> 0: status : CHARGING
