@@ -1481,3 +1481,6 @@ CNT-00012-02 evses -> 0: status : CHARGING
 
 2023-07-09 11:12:11
 GMR-00060-01 evses -> 1: status : CHARGING
+
+2023-07-09 11:36:03
+GMR-00060-01 evses -> 1: status : CHARGING
