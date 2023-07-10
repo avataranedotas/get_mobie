@@ -1513,3 +1513,7 @@ PRT-00191-1 evses -> 0: status : CHARGING
 2023-07-10 10:40:23
 GMR-00060-02 evses -> 0: status : CHARGING
 PRT-00191-1 evses -> 0: status : CHARGING
+
+2023-07-10 11:13:19
+GMR-00063-02 evses -> 0: status : CHARGING
+PRT-00191-1 evses -> 0: status : CHARGING
