@@ -1547,3 +1547,6 @@ MTA-00006-01 evses -> 0: status : CHARGING
 
 2023-07-10 21:13:34
 VFR-00059-01 evses -> 1: status : CHARGING
+
+2023-07-10 21:36:28
+VFR-00059-01 evses -> 1: status : CHARGING
