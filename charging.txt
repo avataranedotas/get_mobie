@@ -1544,3 +1544,6 @@ ALM-00042-03 evses -> 0: status : CHARGING
 
 2023-07-10 18:40:18
 MTA-00006-01 evses -> 0: status : CHARGING
+
+2023-07-10 21:13:34
+VFR-00059-01 evses -> 1: status : CHARGING
