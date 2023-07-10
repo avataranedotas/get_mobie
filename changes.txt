@@ -1984,3 +1984,65 @@ Adicionados:['PRT-00191']
 PRT-00191 --> EDP 41.174932 -8.6456605 Porto RUA ENG FERREIRA DIAS, Nº728 PARKING_GARAGE
 [{'id': 'PRT-00191-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-29T11:18:21.754Z'}]
 Removidos:[]
+
+2023-07-10 10:40:20
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 400
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 32
+SNS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+SNS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+SNS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SNS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 920
+SNS-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
