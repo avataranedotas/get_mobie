@@ -1526,3 +1526,6 @@ PRT-00191-1 evses -> 0: status : CHARGING
 
 2023-07-10 13:25:07
 ALM-00042-03 evses -> 0: status : CHARGING
+
+2023-07-10 13:39:37
+ALM-00042-03 evses -> 0: status : CHARGING
