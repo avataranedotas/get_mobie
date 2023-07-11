@@ -2054,3 +2054,11 @@ BRR-00088 --> TRK 38.6613001 -9.060331 Barreiro Rua SÃ£o JoÃ£o Baptista de A
 [{'id': 'BRR-00088-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-10T14:05:49.925Z'}]
 [{'id': 'BRR-00088-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-10T14:05:49.925Z'}]
 Removidos:[]
+
+2023-07-11 11:36:19
+Adicionados:['VLP-00003']
+
+VLP-00003 --> IBD 41.5939972 -7.3036396 Valpaços Rua do Pomar, Lugar da Ribeira PARKING_LOT
+[{'id': 'VLP-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-21T10:55:37.906Z'}]
+[{'id': 'VLP-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-21T10:55:37.906Z'}]
+Removidos:[]
