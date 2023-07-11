@@ -1620,3 +1620,6 @@ GMR-00060-02 evses -> 0: status : CHARGING
 2023-07-11 13:38:37
 ALM-00042-03 evses -> 0: status : CHARGING
 GMR-00060-02 evses -> 0: status : CHARGING
+
+2023-07-11 14:14:42
+ALM-00042-03 evses -> 0: status : CHARGING
