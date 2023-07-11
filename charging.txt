@@ -1592,3 +1592,6 @@ VFR-00059-01 evses -> 1: status : CHARGING
 
 2023-07-11 06:40:46
 VFR-00059-01 evses -> 1: status : CHARGING
+
+2023-07-11 07:14:42
+VFR-00059-01 evses -> 1: status : CHARGING
