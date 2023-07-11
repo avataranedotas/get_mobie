@@ -1616,3 +1616,7 @@ SMG-00007-02 evses -> 0: status : CHARGING
 2023-07-11 13:24:14
 ALM-00042-03 evses -> 0: status : CHARGING
 GMR-00060-02 evses -> 0: status : CHARGING
+
+2023-07-11 13:38:37
+ALM-00042-03 evses -> 0: status : CHARGING
+GMR-00060-02 evses -> 0: status : CHARGING
