@@ -1637,3 +1637,8 @@ LSB-00201-02 evses -> 0: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
+
+2023-07-11 18:19:57
+SNT-00029-02 evses -> 1: status : CHARGING
+SNT-00029-02 evses -> 1: status : CHARGING
+SNT-00029-02 evses -> 1: status : CHARGING
