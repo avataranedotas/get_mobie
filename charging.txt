@@ -1642,3 +1642,6 @@ SNT-00029-02 evses -> 1: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
 SNT-00029-02 evses -> 1: status : CHARGING
+
+2023-07-11 19:36:12
+VPV-00003-01 evses -> 0: status : CHARGING
