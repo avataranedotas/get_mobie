@@ -1676,3 +1676,6 @@ GMR-00089-02 evses -> 1: status : CHARGING
 2023-07-12 13:39:37
 CVR-00006-02 evses -> 0: status : CHARGING
 PVZ-00028-01 evses -> 0: status : CHARGING
+
+2023-07-12 14:14:46
+LSB-00201-03 evses -> 1: status : CHARGING
