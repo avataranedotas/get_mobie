@@ -2218,3 +2218,16 @@ VIS-00049
 evses -> 2 -> connectors -> 0: 
  NEW standard : CHADEMO
  OLD standard : IEC_62196_T2_COMBO
+
+2023-07-12 15:36:47
+Adicionados:['ABF-00067', 'ORQ-00003']
+
+ABF-00067 --> EDP 37.11211 -8.234128 Albufeira Rua Do Municipio. Lote 26, PARKING_LOT
+[{'id': 'ABF-00067-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:02:55.507Z'}]
+[{'id': 'ABF-00067-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:02:55.508Z'}]
+
+ORQ-00003 --> KLC 37.653643 -8.2364014 Ourique E.N. 123 Loteamento Rosal Sul Lote 2 E, PARKING_LOT
+[{'id': 'ORQ-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-20T12:46:08.302Z'}]
+[{'id': 'ORQ-00003-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:46:08.304Z'}]
+[{'id': 'ORQ-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:46:08.303Z'}]
+Removidos:[]
