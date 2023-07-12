@@ -1711,3 +1711,6 @@ SNT-00112-03 evses -> 2: status : CHARGING
 
 2023-07-12 19:12:23
 GMR-00063-01 evses -> 1: status : CHARGING
+
+2023-07-12 19:36:09
+LRS-00091-01 evses -> 1: status : CHARGING
