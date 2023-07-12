@@ -2100,3 +2100,15 @@ CLD-00021 --> HRZ 39.4255246 -9.1616947 Caldas da Rainha Av.Infante D. Henrique 
 [{'id': 'CLD-00021-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:42:56.09Z'}]
 [{'id': 'CLD-00021-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-01-27T20:42:56.088Z'}]
 Removidos:[]
+
+2023-07-12 13:39:33
+Adicionados:['ABF-00068', 'SNT-00118']
+
+ABF-00068 --> EDP 37.11211 -8.234128 Albufeira Apartado 2436 - Praia da G PARKING_LOT
+[{'id': 'ABF-00068-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:04:10.389Z'}]
+[{'id': 'ABF-00068-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:04:10.388Z'}]
+
+SNT-00118 --> KLS 38.839556 -9.372444 Sintra Av. 29 de Agosto e Av. da Aviação Portuguesa PARKING_LOT
+[{'id': 'SNT-00118-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T22:41:40.493Z'}]
+[{'id': 'SNT-00118-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T22:41:40.494Z'}]
+Removidos:['CLD-00021']
