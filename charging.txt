@@ -1648,3 +1648,6 @@ VPV-00003-01 evses -> 0: status : CHARGING
 
 2023-07-12 07:14:26
 ALM-00042-03 evses -> 0: status : CHARGING
+
+2023-07-12 07:36:53
+ALM-00042-03 evses -> 0: status : CHARGING
