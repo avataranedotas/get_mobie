@@ -1679,3 +1679,8 @@ PVZ-00028-01 evses -> 0: status : CHARGING
 
 2023-07-12 14:14:46
 LSB-00201-03 evses -> 1: status : CHARGING
+
+2023-07-12 15:16:18
+PVZ-00028-01 evses -> 0: status : CHARGING
+VIS-00048-02 evses -> 1: status : CHARGING
+VIS-00049-03 evses -> 0: status : CHARGING
