@@ -1667,3 +1667,8 @@ ALM-00042-03 evses -> 0: status : CHARGING
 2023-07-12 12:34:08
 CLD-00021-02 evses -> 0: status : CHARGING
 GMR-00089-02 evses -> 1: status : CHARGING
+
+2023-07-12 13:25:25
+CLD-00021-02 evses -> 0: status : CHARGING
+CVR-00007-02 evses -> 1: status : CHARGING
+GMR-00089-02 evses -> 1: status : CHARGING
