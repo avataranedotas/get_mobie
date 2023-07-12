@@ -2070,3 +2070,21 @@ AVV-00007 --> EDP 41.8517025 -8.4177077 Arcos de Valdevez LUGAR REQUEIJO, S/N PA
 [{'id': 'AVV-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-22T16:17:42.588Z'}]
 [{'id': 'AVV-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-05-22T16:17:42.587Z'}]
 Removidos:[]
+
+2023-07-12 11:12:50
+Adicionados:['SJP-00002', 'VIS-00048', 'VIS-00049']
+
+SJP-00002 --> EDP 41.1453263 -7.4112678 São João da Pesqueira Av. João do Nascimento Costa PARKING_LOT
+[{'id': 'SJP-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T23:13:19.767Z'}]
+[{'id': 'SJP-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T23:13:19.768Z'}]
+
+VIS-00048 --> HRZ 40.6521786 -7.8851223 Viseu Lugar do Viso Apt 247 PARKING_LOT
+[{'id': 'VIS-00048-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:09.584Z'}]
+[{'id': 'VIS-00048-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:09.585Z'}]
+[{'id': 'VIS-00048-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-28T14:03:09.587Z'}]
+
+VIS-00049 --> HRZ 40.6521786 -7.8851223 Viseu Lugar do Viso Apt 247 PARKING_LOT
+[{'id': 'VIS-00049-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-28T14:03:19.87Z'}]
+[{'id': 'VIS-00049-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:19.869Z'}]
+[{'id': 'VIS-00049-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:19.867Z'}]
+Removidos:[]
