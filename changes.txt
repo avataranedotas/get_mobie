@@ -2088,3 +2088,15 @@ VIS-00049 --> HRZ 40.6521786 -7.8851223 Viseu Lugar do Viso Apt 247 PARKING_LOT
 [{'id': 'VIS-00049-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:19.869Z'}]
 [{'id': 'VIS-00049-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-03-28T14:03:19.867Z'}]
 Removidos:[]
+
+2023-07-12 12:34:05
+Adicionados:['ABF-00066', 'CLD-00021']
+
+ABF-00066 --> EDP 37.11211 -8.234128 Albufeira Apartado 2436 - Praia da G PARKING_LOT
+[{'id': 'ABF-00066-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:01:37.555Z'}]
+[{'id': 'ABF-00066-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:01:37.557Z'}]
+
+CLD-00021 --> HRZ 39.4255246 -9.1616947 Caldas da Rainha Av.Infante D. Henrique 78 PARKING_LOT
+[{'id': 'CLD-00021-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:42:56.09Z'}]
+[{'id': 'CLD-00021-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-01-27T20:42:56.088Z'}]
+Removidos:[]
