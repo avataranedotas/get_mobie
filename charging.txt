@@ -1688,3 +1688,6 @@ VIS-00049-03 evses -> 0: status : CHARGING
 2023-07-12 15:36:51
 PVZ-00028-01 evses -> 0: status : CHARGING
 VIS-00049-03 evses -> 0: status : CHARGING
+
+2023-07-12 16:20:40
+VIS-00049-03 evses -> 0: status : CHARGING

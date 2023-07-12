@@ -2231,3 +2231,15 @@ ORQ-00003 --> KLC 37.653643 -8.2364014 Ourique E.N. 123 Loteamento Rosal Sul Lot
 [{'id': 'ORQ-00003-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:46:08.304Z'}]
 [{'id': 'ORQ-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:46:08.303Z'}]
 Removidos:[]
+
+2023-07-12 16:20:35
+Adicionados:['LGS-00024', 'LGS-00025']
+
+LGS-00024 --> EDP 37.11292 -8.66222 Lagos R. Sophia de Melo Breyner Andresen PARKING_LOT
+[{'id': 'LGS-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-12T15:50:49.673Z'}]
+[{'id': 'LGS-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-12T15:50:49.673Z'}]
+
+LGS-00025 --> EDP 37.112928 -8.66222 Lagos R. Sophia de Melo Breyner Andresen PARKING_LOT
+[{'id': 'LGS-00025-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-12T15:56:04.428Z'}]
+[{'id': 'LGS-00025-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-12T15:56:04.428Z'}]
+Removidos:[]
