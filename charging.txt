@@ -1694,3 +1694,7 @@ VIS-00049-03 evses -> 0: status : CHARGING
 
 2023-07-12 16:42:07
 VIS-00049-03 evses -> 0: status : CHARGING
+
+2023-07-12 17:13:49
+ENT-90001-01 evses -> 0: status : CHARGING
+VIS-00049-03 evses -> 0: status : CHARGING
