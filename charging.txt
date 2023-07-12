@@ -1708,3 +1708,6 @@ VIS-00049-03 evses -> 0: status : CHARGING
 
 2023-07-12 18:39:34
 SNT-00112-03 evses -> 2: status : CHARGING
+
+2023-07-12 19:12:23
+GMR-00063-01 evses -> 1: status : CHARGING
