@@ -1717,3 +1717,6 @@ LRS-00091-01 evses -> 1: status : CHARGING
 
 2023-07-12 20:36:25
 LSB-00201-03 evses -> 1: status : CHARGING
+
+2023-07-12 21:36:58
+ALM-00042-02 evses -> 1: status : CHARGING
