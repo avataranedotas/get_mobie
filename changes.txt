@@ -2348,3 +2348,11 @@ ABF-00055 --> HRZ 37.1279625 -8.2836026 Albufeira Albufeira Retail Park, Lugar d
 [{'id': 'ABF-00055-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-06-14T15:20:09.262Z'}]
 [{'id': 'ABF-00055-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T15:20:09.261Z'}]
 Removidos:[]
+
+2023-07-13 17:13:55
+Adicionados:['BRR-00078']
+
+BRR-00078 --> TRK 38.659797 -9.078553 Barreiro Rua Dr. AntÃÂ³nio JosÃÂ© de Almeida 65 ON_STREET
+[{'id': 'BRR-00078-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.69Z'}]
+[{'id': 'BRR-00078-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.69Z'}]
+Removidos:[]
