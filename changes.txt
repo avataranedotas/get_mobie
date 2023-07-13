@@ -2286,3 +2286,11 @@ GMR-00105 --> GLG 41.47537 -8.269311 Guimarães R. Cidade de Guimarães 2088  
 [{'id': 'GMR-00105-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-07-13T13:01:04.415Z'}]
 [{'id': 'GMR-00105-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-07-13T13:01:04.415Z'}]
 Removidos:[]
+
+2023-07-13 14:14:32
+Adicionados:['BRR-00046']
+
+BRR-00046 --> TRK 38.651806 -9.055217 Barreiro Praceta Ribeiro Sanches 16 ON_STREET
+[{'id': 'BRR-00046-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.721Z'}]
+[{'id': 'BRR-00046-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.721Z'}]
+Removidos:[]
