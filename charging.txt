@@ -1726,3 +1726,7 @@ AVV-00004-01 evses -> 2: status : CHARGING
 
 2023-07-13 21:13:34
 ABF-00006-01 evses -> 0: status : CHARGING
+
+2023-07-13 21:36:38
+ABF-00006-01 evses -> 0: status : CHARGING
+ABF-00006-02 evses -> 1: status : CHARGING
