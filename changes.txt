@@ -2251,3 +2251,10 @@ PLM-00016 --> GLG 38.584857 -8.93102 Palmela Área de Serviço A2 - KM 31,2 (Nor
 [{'id': 'PLM-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:33:22.343Z'}]
 [{'id': 'PLM-00016-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:33:22.348Z'}]
 Removidos:[]
+
+2023-07-13 11:13:06
+Adicionados:['AVV-00006']
+
+AVV-00006 --> HRZ 41.8143714 -8.4189342 Arcos de Valdevez Lugar de Ataúde - Paçô PARKING_LOT
+[{'id': 'AVV-00006-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-10T16:14:54.502Z'}]
+Removidos:[]
