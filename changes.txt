@@ -2294,3 +2294,15 @@ BRR-00046 --> TRK 38.651806 -9.055217 Barreiro Praceta Ribeiro Sanches 16 ON_STR
 [{'id': 'BRR-00046-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.721Z'}]
 [{'id': 'BRR-00046-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.721Z'}]
 Removidos:[]
+
+2023-07-13 14:37:18
+Adicionados:['BRR-00043', 'BRR-00080']
+
+BRR-00043 --> TRK 38.661489 -9.063415 Barreiro Rua Ferrer Trindade 12C ON_STREET
+[{'id': 'BRR-00043-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-13T14:14:48.091Z'}]
+[{'id': 'BRR-00043-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-13T14:14:48.091Z'}]
+
+BRR-00080 --> TRK 38.669631 -9.050072 Barreiro Rua Alves da Cunha 17 ON_STREET
+[{'id': 'BRR-00080-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.704Z'}]
+[{'id': 'BRR-00080-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.704Z'}]
+Removidos:[]
