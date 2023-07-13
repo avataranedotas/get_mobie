@@ -2278,3 +2278,11 @@ ACN-00007 --> EDP 39.4567104 -8.6675911 Alcanena Eurosol Alcanena - Rua José Af
 [{'id': 'ACN-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-28T09:37:15.283Z'}]
 [{'id': 'ACN-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-28T09:37:15.284Z'}]
 Removidos:[]
+
+2023-07-13 13:29:47
+Adicionados:['GMR-00105']
+
+GMR-00105 --> GLG 41.47537 -8.269311 Guimarães R. Cidade de Guimarães 2088                PARKING_LOT
+[{'id': 'GMR-00105-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-07-13T13:01:04.415Z'}]
+[{'id': 'GMR-00105-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-07-13T13:01:04.415Z'}]
+Removidos:[]
