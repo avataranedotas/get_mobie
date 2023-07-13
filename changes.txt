@@ -2258,3 +2258,15 @@ Adicionados:['AVV-00006']
 AVV-00006 --> HRZ 41.8143714 -8.4189342 Arcos de Valdevez Lugar de Ataúde - Paçô PARKING_LOT
 [{'id': 'AVV-00006-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-10T16:14:54.502Z'}]
 Removidos:[]
+
+2023-07-13 11:36:08
+Adicionados:['GDM-00033', 'VCD-00017']
+
+GDM-00033 --> EDP 41.117281 -8.5100719 Gondomar Intermarche Jovim, R. das Broas 40, Jovim PARKING_LOT
+[{'id': 'GDM-00033-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-13T11:13:55.082Z'}]
+[{'id': 'GDM-00033-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-13T11:13:55.082Z'}]
+
+VCD-00017 --> EDP 41.336363 -8.735781 Vila do Conde Rua do Cabreiro, SN PARKING_LOT
+[{'id': 'VCD-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-13T11:22:36.681Z'}]
+[{'id': 'VCD-00017-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-13T11:22:36.681Z'}]
+Removidos:[]
