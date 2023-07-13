@@ -2356,3 +2356,11 @@ BRR-00078 --> TRK 38.659797 -9.078553 Barreiro Rua Dr. AntÃÂ³nio JosÃÂ�
 [{'id': 'BRR-00078-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.69Z'}]
 [{'id': 'BRR-00078-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:32:30.69Z'}]
 Removidos:[]
+
+2023-07-13 18:19:45
+Adicionados:['PLM-00018']
+
+PLM-00018 --> GLG 38.584299 -8.930389 Palmela Área de Serviço A2 - KM 31,2 (Sul/Norte) ALONG_MOTORWAY
+[{'id': 'PLM-00018-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:08.388Z'}]
+[{'id': 'PLM-00018-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:08.386Z'}]
+Removidos:[]
