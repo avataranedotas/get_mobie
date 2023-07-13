@@ -2331,3 +2331,9 @@ BRR-00091 --> TRK 38.662039 -9.064919 Barreiro Praceta RaÃºl Jorge 4 ON_STREET
 [{'id': 'BRR-00091-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-13T14:55:07.224Z'}]
 [{'id': 'BRR-00091-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-13T14:55:07.224Z'}]
 Removidos:[]
+
+2023-07-13 15:36:55
+BRR-00090
+: 
+ NEW address : Rua JoÃ£o de Deus 43
+ OLD address : Rua JoÃÂ£o de Deus 43
