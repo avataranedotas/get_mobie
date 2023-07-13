@@ -2337,3 +2337,14 @@ BRR-00090
 : 
  NEW address : Rua JoÃ£o de Deus 43
  OLD address : Rua JoÃÂ£o de Deus 43
+
+2023-07-13 16:41:30
+Adicionados:['ABF-00055']
+
+ABF-00055 --> HRZ 37.1279625 -8.2836026 Albufeira Albufeira Retail Park, Lugar da Tavagueira PARKING_LOT
+[{'id': 'ABF-00055-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 250, 'max_electric_power': 80000, 'last_updated': '2023-06-14T15:20:09.258Z'}]
+[{'id': 'ABF-00055-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-06-14T15:20:09.26Z'}]
+[{'id': 'ABF-00055-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-06-14T15:20:09.264Z'}]
+[{'id': 'ABF-00055-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-06-14T15:20:09.262Z'}]
+[{'id': 'ABF-00055-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-14T15:20:09.261Z'}]
+Removidos:[]
