@@ -1744,3 +1744,7 @@ PRT-00189-1 evses -> 0: status : CHARGING
 2023-07-14 09:36:32
 ABF-00006-02 evses -> 1: status : CHARGING
 PRT-00189-1 evses -> 0: status : CHARGING
+
+2023-07-14 10:16:48
+ABF-00006-02 evses -> 1: status : CHARGING
+PRT-00189-1 evses -> 0: status : CHARGING
