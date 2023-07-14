@@ -1757,3 +1757,7 @@ CMN-00008-01 evses -> 0: status : CHARGING
 2023-07-14 11:12:53
 ABF-00006-01 evses -> 0: status : CHARGING
 ABF-00006-02 evses -> 1: status : CHARGING
+
+2023-07-14 11:36:20
+ABF-00006-01 evses -> 0: status : CHARGING
+LRA-00091-01 evses -> 0: status : CHARGING
