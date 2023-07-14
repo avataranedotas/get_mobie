@@ -2364,3 +2364,10 @@ PLM-00018 --> GLG 38.584299 -8.930389 Palmela Área de Serviço A2 - KM 31,2 (Su
 [{'id': 'PLM-00018-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:08.388Z'}]
 [{'id': 'PLM-00018-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:08.386Z'}]
 Removidos:[]
+
+2023-07-14 09:15:08
+Adicionados:['PRT-00189']
+
+PRT-00189 --> EDP 41.174932 -8.6456605 Porto RUA ENG FERREIRA DIAS, Nº728 PARKING_GARAGE
+[{'id': 'PRT-00189-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T11:18:40.435Z'}]
+Removidos:[]
