@@ -1798,3 +1798,6 @@ PLM-00018-02 evses -> 0: status : CHARGING
 
 2023-07-15 19:35:59
 BRR-00081-02 evses -> 1: status : CHARGING
+
+2023-07-15 20:15:19
+BRR-00081-02 evses -> 1: status : CHARGING
