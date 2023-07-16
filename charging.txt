@@ -1948,3 +1948,6 @@ BRR-00081-02 evses -> 1: status : CHARGING
 2023-07-16 22:14:02
 BRR-00081-02 evses -> 1: status : CHARGING
 VPV-00005-1 evses -> 0: status : CHARGING
+
+2023-07-16 22:36:50
+BRR-00081-02 evses -> 1: status : CHARGING
