@@ -1932,3 +1932,6 @@ BRR-00081-02 evses -> 1: status : CHARGING
 BRR-00081-02 evses -> 1: status : CHARGING
 GMR-00105-01 evses -> 1: status : CHARGING
 GMR-00105-01 evses -> 1: status : CHARGING
+
+2023-07-16 20:15:29
+BRR-00081-02 evses -> 1: status : CHARGING
