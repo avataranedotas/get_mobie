@@ -2056,3 +2056,8 @@ LSB-00610-02 evses -> 1: status : CHARGING
 2023-07-17 15:37:09
 BRR-00081-02 evses -> 1: status : CHARGING
 LSB-00610-02 evses -> 1: status : CHARGING
+
+2023-07-17 16:21:06
+BRR-00081-02 evses -> 1: status : CHARGING
+LSB-00610-02 evses -> 1: status : CHARGING
+TMR-00025-01 evses -> 1: status : CHARGING
