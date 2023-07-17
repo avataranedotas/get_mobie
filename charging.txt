@@ -2005,3 +2005,10 @@ BRR-00081-02 evses -> 1: status : CHARGING
 2023-07-17 09:36:49
 BJA-00025-02 evses -> 0: status : CHARGING
 BRR-00081-02 evses -> 1: status : CHARGING
+
+2023-07-17 10:17:35
+BJA-00025-02 evses -> 0: status : CHARGING
+BRR-00081-02 evses -> 1: status : CHARGING
+ORQ-00003-02 evses -> 2: status : CHARGING
+PLM-00018-01 evses -> 1: status : CHARGING
+VFR-00064-02 evses -> 1: status : CHARGING

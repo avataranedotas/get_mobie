@@ -2492,3 +2492,11 @@ VFR-00064 --> GLP 40.912492 -8.492251 Santa Maria da Feira Estr. Particular do G
 [{'id': 'VFR-00064-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-04-28T15:05:28.996Z'}]
 [{'id': 'VFR-00064-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-04-28T15:05:28.998Z'}]
 Removidos:[]
+
+2023-07-17 10:17:30
+Adicionados:['LSB-00585']
+
+LSB-00585 --> EML 38.711197 -9.147678 Lisboa Calçada do Combro / Travessa André Valente PARKING_LOT
+[{'id': 'LSB-00585-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:37.388Z'}]
+[{'id': 'LSB-00585-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:37.386Z'}]
+Removidos:[]
