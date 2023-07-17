@@ -2576,3 +2576,11 @@ TMR-00021 --> TRK 39.60441 -8.40436 Tomar Rua Coronel GarcÃªs Teixeira, 8 ON_S
 [{'id': 'TMR-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:09:56.813Z'}]
 [{'id': 'TMR-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:09:56.813Z'}]
 Removidos:[]
+
+2023-07-17 20:13:06
+Adicionados:['BRR-00085']
+
+BRR-00085 --> TRK 38.655764 -9.053306 Barreiro Rua S de Instrução e Recreio Os Penicheiros 6 ON_STREET
+[{'id': 'BRR-00085-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:34:39.107Z'}]
+[{'id': 'BRR-00085-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:34:39.107Z'}]
+Removidos:[]
