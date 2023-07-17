@@ -2484,3 +2484,11 @@ LSB-01532
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 43000
  OLD max_electric_power : 50000
+
+2023-07-17 09:16:14
+Adicionados:['VFR-00064']
+
+VFR-00064 --> GLP 40.912492 -8.492251 Santa Maria da Feira Estr. Particular do Grupo Intermarché PARKING_LOT
+[{'id': 'VFR-00064-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-04-28T15:05:28.996Z'}]
+[{'id': 'VFR-00064-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-04-28T15:05:28.998Z'}]
+Removidos:[]
