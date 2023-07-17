@@ -2536,3 +2536,15 @@ Removidos:[]
 2023-07-17 14:38:14
 Adicionados:[]
 Removidos:['VFR-00065']
+
+2023-07-17 15:16:45
+Adicionados:['BRR-00059']
+
+BRR-00059 --> TRK 38.6594194 -9.0800556 Barreiro Rua Heliodoro Salgado 30 ON_STREET
+[{'id': 'BRR-00059-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:45:13.1Z'}]
+[{'id': 'BRR-00059-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:45:13.1Z'}]
+Removidos:[]
+BRR-00078
+: 
+ NEW address : Rua Dr. António José de Almeida 65
+ OLD address : Rua Dr. AntÃÂ³nio JosÃÂ© de Almeida 65
