@@ -2500,3 +2500,27 @@ LSB-00585 --> EML 38.711197 -9.147678 Lisboa Calçada do Combro / Travessa Andr�
 [{'id': 'LSB-00585-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:37.388Z'}]
 [{'id': 'LSB-00585-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:37.386Z'}]
 Removidos:[]
+
+2023-07-17 11:12:59
+Adicionados:['LSB-00584', 'LSB-00586']
+
+LSB-00584 --> EML 38.711197 -9.147678 Lisboa Calçada do Combro / Travessa André Valente PARKING_LOT
+[{'id': 'LSB-00584-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:44.198Z'}]
+[{'id': 'LSB-00584-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-27T10:44:44.196Z'}]
+
+LSB-00586 --> EML 38.711197 -9.147678 Lisboa Calçada do Combro / Travessa André Valente PARKING_LOT
+[{'id': 'LSB-00586-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-24T09:53:17.386Z'}]
+[{'id': 'LSB-00586-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-02-24T09:53:17.387Z'}]
+Removidos:[]
+ABF-00061
+coordinates: 
+ NEW latitude : 37.104337
+ OLD latitude : 39.78606
+ABF-00061
+coordinates: 
+ NEW longitude : -8.192684
+ OLD longitude : -8.4695999
+ABF-00061
+: 
+ NEW coordinates : {'latitude': '37.104337', 'longitude': '-8.192684'}
+ OLD coordinates : {'latitude': '39.78606', 'longitude': '-8.4695999'}
