@@ -2568,3 +2568,11 @@ TMR-00025 --> TRK 39.59945 -8.41184 Tomar Rua Dr. Joaquim Ribeiro, 10 ON_STREET
 [{'id': 'TMR-00025-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:57:01.882Z'}]
 [{'id': 'TMR-00025-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:57:01.882Z'}]
 Removidos:[]
+
+2023-07-17 17:14:01
+Adicionados:['TMR-00021']
+
+TMR-00021 --> TRK 39.60441 -8.40436 Tomar Rua Coronel GarcÃªs Teixeira, 8 ON_STREET
+[{'id': 'TMR-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:09:56.813Z'}]
+[{'id': 'TMR-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T14:09:56.813Z'}]
+Removidos:[]
