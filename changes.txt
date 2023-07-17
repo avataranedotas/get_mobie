@@ -2418,3 +2418,69 @@ AGD-00013 --> EDP 40.6004869 -8.4624766 Águeda Estrada Nacional 1, S/N PARKING_
 [{'id': 'AGD-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-05T13:44:18.73Z'}]
 [{'id': 'AGD-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-05T13:44:18.73Z'}]
 Removidos:[]
+
+2023-07-17 04:19:12
+LSB-01532
+evses -> 1: 
+ NEW uid : LSB-01532-02
+ OLD uid : LSB-01532-03
+LSB-01532
+evses -> 1: 
+ NEW evse_id : PT*EDP*E*LSB*01532*02
+ OLD evse_id : PT*EDP*E*LSB*01532*03
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW id : LSB-01532-02-01
+ OLD id : LSB-01532-03-01
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+LSB-01532
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+LSB-01532
+evses -> 2: 
+ NEW uid : LSB-01532-03
+ OLD uid : LSB-01532-02
+LSB-01532
+evses -> 2: 
+ NEW evse_id : PT*EDP*E*LSB*01532*03
+ OLD evse_id : PT*EDP*E*LSB*01532*02
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW id : LSB-01532-03-01
+ OLD id : LSB-01532-02-01
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+LSB-01532
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
