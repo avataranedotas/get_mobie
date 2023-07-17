@@ -2532,3 +2532,7 @@ VFR-00065 --> GLP 40.912492 -8.492251 Santa Maria da Feira Estr. Particular do G
 [{'id': 'VFR-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-04-28T15:05:43.317Z'}]
 [{'id': 'VFR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-04-28T15:05:43.316Z'}]
 Removidos:[]
+
+2023-07-17 14:38:14
+Adicionados:[]
+Removidos:['VFR-00065']
