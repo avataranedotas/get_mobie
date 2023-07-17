@@ -2548,3 +2548,15 @@ BRR-00078
 : 
  NEW address : Rua Dr. António José de Almeida 65
  OLD address : Rua Dr. AntÃÂ³nio JosÃÂ© de Almeida 65
+
+2023-07-17 15:37:04
+Adicionados:['BRR-00038', 'TMR-00024']
+
+BRR-00038 --> TRK 38.645148 -9.052997 Barreiro Rua Dr. Ferreira Soares 35 ON_STREET
+[{'id': 'BRR-00038-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:03:38.55Z'}]
+[{'id': 'BRR-00038-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:03:38.55Z'}]
+
+TMR-00024 --> TRK 39.6021001 -8.4118999 Tomar Rua Arcos, 1 ON_STREET
+[{'id': 'TMR-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:15:08.505Z'}]
+[{'id': 'TMR-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:15:08.505Z'}]
+Removidos:[]
