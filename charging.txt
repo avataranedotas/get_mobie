@@ -2138,3 +2138,6 @@ VPT-00004-02 evses -> 1: status : CHARGING
 
 2023-07-18 11:36:13
 VPT-00004-02 evses -> 1: status : CHARGING
+
+2023-07-18 12:31:04
+VPT-00004-02 evses -> 1: status : CHARGING
