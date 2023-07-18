@@ -2130,3 +2130,8 @@ VFR-00043-02 evses -> 1: status : CHARGING
 
 2023-07-18 10:37:52
 VFR-00043-02 evses -> 1: status : CHARGING
+
+2023-07-18 11:12:21
+LSB-00513-01 evses -> 0: status : CHARGING
+VFR-00043-02 evses -> 1: status : CHARGING
+VPT-00004-02 evses -> 1: status : CHARGING
