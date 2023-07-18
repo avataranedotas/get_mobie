@@ -2609,3 +2609,11 @@ LSB-00513 --> HRZ 38.7655902 -9.1875234 Lisboa Azinhaga Cerejais 51A PARKING_LOT
 [{'id': 'LSB-00513-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:11:35.707Z'}]
 [{'id': 'LSB-00513-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:11:35.708Z'}]
 Removidos:[]
+
+2023-07-18 10:37:47
+Adicionados:['LSB-00512']
+
+LSB-00512 --> HRZ 38.7655902 -9.1875234 Lisboa Azinhaga Cerejais 51A PARKING_LOT
+[{'id': 'LSB-00512-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:03:57.555Z'}]
+[{'id': 'LSB-00512-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:03:57.556Z'}]
+Removidos:[]
