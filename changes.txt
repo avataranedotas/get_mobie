@@ -2584,3 +2584,20 @@ BRR-00085 --> TRK 38.655764 -9.053306 Barreiro Rua S de Instrução e Recreio Os
 [{'id': 'BRR-00085-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:34:39.107Z'}]
 [{'id': 'BRR-00085-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-17T15:34:39.107Z'}]
 Removidos:[]
+
+2023-07-18 01:51:13
+Adicionados:['OER-00176', 'PLM-00027', 'PLM-00028']
+
+OER-00176 --> BPP 38.75117 -9.304846 Oeiras Estrada de São Marcos nº4 ALONG_MOTORWAY
+[{'id': 'OER-00176-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2023-07-12T10:53:32.44Z'}]
+[{'id': 'OER-00176-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-07-12T10:53:32.44Z'}]
+[{'id': 'OER-00176-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-07-12T10:53:32.44Z'}]
+
+PLM-00027 --> GLP 38.584299 -8.930389 Palmela Estrada Nacional 1 118 - Peneireiro ALONG_MOTORWAY
+[{'id': 'PLM-00027-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T11:04:50.852Z'}]
+[{'id': 'PLM-00027-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T11:04:50.852Z'}]
+
+PLM-00028 --> GLP 38.584857 -8.93102 Palmela Estrada Nacional 1 118 - Peneireiro ALONG_MOTORWAY
+[{'id': 'PLM-00028-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T10:50:37.308Z'}]
+[{'id': 'PLM-00028-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T10:50:37.308Z'}]
+Removidos:[]
