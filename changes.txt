@@ -2601,3 +2601,11 @@ PLM-00028 --> GLP 38.584857 -8.93102 Palmela Estrada Nacional 1 118 - Peneireiro
 [{'id': 'PLM-00028-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T10:50:37.308Z'}]
 [{'id': 'PLM-00028-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-07-13T10:50:37.308Z'}]
 Removidos:[]
+
+2023-07-18 10:16:10
+Adicionados:['LSB-00513']
+
+LSB-00513 --> HRZ 38.7655902 -9.1875234 Lisboa Azinhaga Cerejais 51A PARKING_LOT
+[{'id': 'LSB-00513-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:11:35.707Z'}]
+[{'id': 'LSB-00513-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-26T13:11:35.708Z'}]
+Removidos:[]
