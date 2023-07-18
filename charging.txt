@@ -2092,3 +2092,6 @@ BRR-00091-02 evses -> 1: status : CHARGING
 
 2023-07-18 02:59:11
 BRR-00091-02 evses -> 1: status : CHARGING
+
+2023-07-18 03:27:08
+BRR-00091-02 evses -> 1: status : CHARGING
