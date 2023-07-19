@@ -2628,3 +2628,11 @@ VFR-00073 --> HRZ 40.912774 -8.492693 Santa Maria da Feira Lugar de Outeiro PARK
 [{'id': 'VFR-00073-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-15T20:06:31.35Z'}]
 [{'id': 'VFR-00073-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-15T20:06:31.354Z'}]
 Removidos:[]
+
+2023-07-19 08:17:37
+Adicionados:['MAI-00034']
+
+MAI-00034 --> GLG 41.25536 -8.654571 Maia R. Conselheiro Luís Magalhães PARKING_LOT
+[{'id': 'MAI-00034-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-03-27T16:29:03.438Z'}]
+[{'id': 'MAI-00034-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-03-27T16:29:03.437Z'}]
+Removidos:[]
