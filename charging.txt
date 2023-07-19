@@ -2159,3 +2159,6 @@ VFR-00073-05 evses -> 4: status : CHARGING
 
 2023-07-19 10:36:35
 CTB-00029-02 evses -> 0: status : CHARGING
+
+2023-07-19 11:11:38
+CTB-00029-02 evses -> 0: status : CHARGING
