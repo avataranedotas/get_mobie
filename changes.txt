@@ -2670,3 +2670,15 @@ LLE-00141
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 240
+
+2023-07-19 15:36:16
+Adicionados:['ALM-00060']
+
+ALM-00060 --> HRZ 38.6315376 -9.1771601 Almada Estr. Q.ta da Carcereira nº22 PARKING_LOT
+[{'id': 'ALM-00060-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:27:24.134Z'}]
+[{'id': 'ALM-00060-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-21T16:27:24.13Z'}]
+[{'id': 'ALM-00060-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:27:24.136Z'}]
+[{'id': 'ALM-00060-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:27:24.132Z'}]
+[{'id': 'ALM-00060-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-21T16:27:24.137Z'}]
+[{'id': 'ALM-00060-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-21T16:27:24.131Z'}]
+Removidos:[]
