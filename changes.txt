@@ -2648,3 +2648,11 @@ ALM-00061 --> HRZ 38.6315376 -9.1771601 Almada Estr. Q.ta da Carcereira nº22 PA
 [{'id': 'ALM-00061-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-21T16:27:32.175Z'}]
 [{'id': 'ALM-00061-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:27:32.172Z'}]
 Removidos:[]
+
+2023-07-19 14:36:10
+Adicionados:['TBU-00004']
+
+TBU-00004 --> HRZ 40.3857584 -7.9496727 Tábua Estrada de S. Miguel, n.º 2 PARKING_LOT
+[{'id': 'TBU-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-07T07:53:25.934Z'}]
+[{'id': 'TBU-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-07T07:53:25.934Z'}]
+Removidos:[]
