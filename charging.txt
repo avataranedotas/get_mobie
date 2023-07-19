@@ -2168,3 +2168,7 @@ CTB-00029-02 evses -> 0: status : CHARGING
 
 2023-07-19 13:36:11
 BRR-00088-01 evses -> 0: status : CHARGING
+
+2023-07-19 14:13:20
+BRR-00046-01 evses -> 0: status : CHARGING
+BRR-00088-01 evses -> 0: status : CHARGING
