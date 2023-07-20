@@ -2722,3 +2722,52 @@ NZR-00021 --> KLC 39.596858 -9.071444 Nazaré Av. Do Município PARKING_LOT
 [{'id': 'NZR-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:18.892Z'}]
 [{'id': 'NZR-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:18.893Z'}]
 Removidos:[]
+
+2023-07-20 14:13:12
+Adicionados:['VIS-00047']
+
+VIS-00047 --> KLC 40.652777 -7.913096 Viseu R. Mendonça, PARKING_LOT
+[{'id': 'VIS-00047-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-01-27T20:42:57.409Z'}]
+[{'id': 'VIS-00047-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:42:57.412Z'}]
+[{'id': 'VIS-00047-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:42:57.411Z'}]
+Removidos:[]
+SNT-00107
+coordinates: 
+ NEW latitude : 38.7622635
+ OLD latitude : 37.116169
+SNT-00107
+coordinates: 
+ NEW longitude : -9.3826483
+ OLD longitude : -8.1179435
+SNT-00107
+: 
+ NEW coordinates : {'latitude': '38.7622635', 'longitude': '-9.3826483'}
+ OLD coordinates : {'latitude': '37.116169', 'longitude': '-8.1179435'}
+SNT-00107
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SNT-00107
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SNT-00107
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SNT-00107
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+SNT-00107
+evses -> 5 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SNT-00107
+evses -> 5 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+SNT-00107
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 100000
