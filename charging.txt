@@ -2488,3 +2488,7 @@ SCR-00019-1 evses -> 0: status : CHARGING
 BRR-00038-01 evses -> 1: status : CHARGING
 BRR-00082-02 evses -> 0: status : CHARGING
 SCR-00019-1 evses -> 0: status : CHARGING
+
+2023-07-20 16:18:34
+ALM-00060-02 evses -> 5: status : CHARGING
+CSC-00015-03 evses -> 2: status : CHARGING

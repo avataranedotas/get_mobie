@@ -2780,3 +2780,11 @@ LSB-00596 --> KLC 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A PARKING_LO
 [{'id': 'LSB-00596-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-03T09:31:48.762Z'}]
 [{'id': 'LSB-00596-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-03T09:31:48.763Z'}]
 Removidos:[]
+
+2023-07-20 16:18:29
+Adicionados:['LSB-00595']
+
+LSB-00595 --> KLC 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A PARKING_LOT
+[{'id': 'LSB-00595-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-20T15:46:59.328Z'}]
+[{'id': 'LSB-00595-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-20T15:46:59.328Z'}]
+Removidos:[]
