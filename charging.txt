@@ -2495,3 +2495,8 @@ CSC-00015-03 evses -> 2: status : CHARGING
 
 2023-07-20 16:38:16
 ALM-00060-02 evses -> 5: status : CHARGING
+
+2023-07-20 17:12:16
+ALM-00060-02 evses -> 5: status : CHARGING
+BJA-00022-02 evses -> 0: status : CHARGING
+CSC-00015-03 evses -> 2: status : CHARGING
