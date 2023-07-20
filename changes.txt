@@ -2690,3 +2690,19 @@ VCD-00016 --> GLG 41.319659 -8.712806 Vila do Conde Av. Primeiro de Maio 1665 PA
 [{'id': 'VCD-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-05-23T13:45:13.282Z'}]
 [{'id': 'VCD-00016-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-05-23T13:45:13.283Z'}]
 Removidos:[]
+
+2023-07-20 10:15:11
+Adicionados:['NZR-00023', 'SNT-00107']
+
+NZR-00023 --> KLC 39.535317 -9.082054 Nazaré Rua do Camarção-Famalicão PARKING_LOT
+[{'id': 'NZR-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:04:01.859Z'}]
+[{'id': 'NZR-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:04:01.858Z'}]
+
+SNT-00107 --> HRZ 37.116169 -8.1179435 Sintra Estrada Nacional nº9 PARKING_LOT
+[{'id': 'SNT-00107-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-05-08T16:39:18.312Z'}]
+[{'id': 'SNT-00107-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-05-08T16:39:18.312Z'}]
+[{'id': 'SNT-00107-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-05-08T16:39:18.315Z'}]
+[{'id': 'SNT-00107-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-05-08T16:39:18.31Z'}]
+[{'id': 'SNT-00107-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-05-08T16:39:18.311Z'}]
+[{'id': 'SNT-00107-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-05-08T16:39:18.313Z'}]
+Removidos:[]
