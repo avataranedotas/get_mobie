@@ -2469,3 +2469,10 @@ BRR-00038-01 evses -> 1: status : CHARGING
 BRR-00061-02 evses -> 1: status : CHARGING
 BRR-00082-02 evses -> 0: status : CHARGING
 LRA-00091-01 evses -> 0: status : CHARGING
+
+2023-07-20 14:36:14
+ALM-00061-06 evses -> 4: status : CHARGING
+BRR-00038-01 evses -> 1: status : CHARGING
+BRR-00061-02 evses -> 1: status : CHARGING
+BRR-00082-02 evses -> 0: status : CHARGING
+LRA-00091-01 evses -> 0: status : CHARGING
