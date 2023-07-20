@@ -2714,3 +2714,11 @@ NZR-00022 --> KLC 39.610146 -9.06203 Nazaré Praça Mário Botas PARKING_LOT
 [{'id': 'NZR-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:42.79Z'}]
 [{'id': 'NZR-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:42.791Z'}]
 Removidos:[]
+
+2023-07-20 11:36:02
+Adicionados:['NZR-00021']
+
+NZR-00021 --> KLC 39.596858 -9.071444 Nazaré Av. Do Município PARKING_LOT
+[{'id': 'NZR-00021-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:18.892Z'}]
+[{'id': 'NZR-00021-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:18.893Z'}]
+Removidos:[]
