@@ -2706,3 +2706,11 @@ SNT-00107 --> HRZ 37.116169 -8.1179435 Sintra Estrada Nacional nº9 PARKING_LOT
 [{'id': 'SNT-00107-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-05-08T16:39:18.311Z'}]
 [{'id': 'SNT-00107-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-05-08T16:39:18.313Z'}]
 Removidos:[]
+
+2023-07-20 11:11:49
+Adicionados:['NZR-00022']
+
+NZR-00022 --> KLC 39.610146 -9.06203 Nazaré Praça Mário Botas PARKING_LOT
+[{'id': 'NZR-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:42.79Z'}]
+[{'id': 'NZR-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-11-23T16:03:42.791Z'}]
+Removidos:[]
