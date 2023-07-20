@@ -2682,3 +2682,11 @@ ALM-00060 --> HRZ 38.6315376 -9.1771601 Almada Estr. Q.ta da Carcereira nº22 PA
 [{'id': 'ALM-00060-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-21T16:27:24.137Z'}]
 [{'id': 'ALM-00060-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-21T16:27:24.131Z'}]
 Removidos:[]
+
+2023-07-20 08:18:07
+Adicionados:['VCD-00016']
+
+VCD-00016 --> GLG 41.319659 -8.712806 Vila do Conde Av. Primeiro de Maio 1665 PARKING_LOT
+[{'id': 'VCD-00016-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-05-23T13:45:13.282Z'}]
+[{'id': 'VCD-00016-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-05-23T13:45:13.283Z'}]
+Removidos:[]
