@@ -2309,3 +2309,12 @@ BJA-00024-02 evses -> 0: status : CHARGING
 BRR-00082-02 evses -> 0: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
+
+2023-07-20 03:14:33
+BJA-00022-02 evses -> 0: status : CHARGING
+BJA-00022-01 evses -> 1: status : CHARGING
+BJA-00023-02 evses -> 0: status : CHARGING
+BJA-00024-02 evses -> 0: status : CHARGING
+BRR-00082-02 evses -> 0: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
