@@ -2865,3 +2865,12 @@ VIS-00059 --> GLG 40.659535 -7.922564 Viseu Praça Carlos Lopes PARKING_LOT
 [{'id': 'VIS-00059-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-05-23T13:45:24.861Z'}]
 [{'id': 'VIS-00059-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-05-23T13:45:24.86Z'}]
 Removidos:[]
+
+2023-07-21 12:53:18
+Adicionados:['LSB-00593']
+
+LSB-00593 --> KLC 38.7601322 -9.096846 Lisboa Av. Fernando Pessoa, PARKING_LOT
+[{'id': 'LSB-00593-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-18T13:58:57.062Z'}]
+[{'id': 'LSB-00593-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-18T13:58:57.064Z'}]
+[{'id': 'LSB-00593-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:58:57.063Z'}]
+Removidos:[]

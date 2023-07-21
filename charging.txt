@@ -2698,3 +2698,18 @@ LRA-00090-02 evses -> 2: status : CHARGING
 LSB-00595-01 evses -> 1: status : CHARGING
 SCR-00018-1 evses -> 0: status : CHARGING
 TMR-00017-01 evses -> 1: status : CHARGING
+
+2023-07-21 12:53:22
+ALM-00060-06 evses -> 4: status : CHARGING
+ALM-90004-02 evses -> 1: status : CHARGING
+BJA-00022-02 evses -> 0: status : CHARGING
+BRR-00046-01 evses -> 0: status : CHARGING
+BRR-00059-02 evses -> 1: status : CHARGING
+BRR-00082-02 evses -> 0: status : CHARGING
+CSC-00015-03 evses -> 2: status : CHARGING
+LSB-00593-02 evses -> 2: status : CHARGING
+LSB-00595-01 evses -> 1: status : CHARGING
+PBL-00016-01 evses -> 1: status : CHARGING
+SCR-00018-1 evses -> 0: status : CHARGING
+TMR-00017-01 evses -> 1: status : CHARGING
+VNF-00034-02 evses -> 1: status : CHARGING
