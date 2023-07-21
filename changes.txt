@@ -2822,3 +2822,19 @@ VNG-00103
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-07-21 10:14:48
+Adicionados:['ILH-00005', 'ILH-00006', 'ILH-00007', 'ILH-00008']
+
+ILH-00005 --> GLP 40.588365 -8.684055 Ílhavo Lugar da Vista Alegre PARKING_LOT
+[{'id': 'ILH-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-14T10:08:28.808Z'}]
+
+ILH-00006 --> GLP 40.588365 -8.684055 Ílhavo Lugar da Vista Alegre PARKING_LOT
+[{'id': 'ILH-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-14T10:08:35.257Z'}]
+
+ILH-00007 --> GLP 40.588365 -8.684055 Ílhavo Lugar da Vista Alegre PARKING_LOT
+[{'id': 'ILH-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-14T10:08:44.239Z'}]
+
+ILH-00008 --> GLP 40.588365 -8.684055 Ílhavo Lugar da Vista Alegre PARKING_LOT
+[{'id': 'ILH-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-14T10:08:50.225Z'}]
+Removidos:[]
