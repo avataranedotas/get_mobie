@@ -2874,3 +2874,44 @@ LSB-00593 --> KLC 38.7601322 -9.096846 Lisboa Av. Fernando Pessoa, PARKING_LOT
 [{'id': 'LSB-00593-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-18T13:58:57.064Z'}]
 [{'id': 'LSB-00593-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-04-18T13:58:57.063Z'}]
 Removidos:[]
+
+2023-07-21 14:12:27
+Adicionados:['ADV-00007']
+
+ADV-00007 --> KLC 37.5121713 -8.0656339 Almodôvar .N. 393 Cerca dos Soeiros, PARKING_LOT
+[{'id': 'ADV-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-02-20T12:44:01.104Z'}]
+[{'id': 'ADV-00007-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-02-20T12:44:01.105Z'}]
+[{'id': 'ADV-00007-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2023-02-20T12:44:01.102Z'}]
+Removidos:[]
+AGH-00002
+: 
+ NEW address : Rua Dr. Aníbal de Bettencourt
+ OLD address : KFC - Angra do Heroísmo - Rua Dr. Aníbal de B
+CNT-00008
+: 
+ NEW address : AS BP - Cantanhede/Mealhada, A1, km 204,6 S/N
+ OLD address : AS BP – Cantanhede/Mealhada, A1, km 204,6 S/N
+CNT-00010
+: 
+ NEW address : Área S. BP - Cantanhede/Mealhada, A1 km 204,6
+ OLD address : Área S. BP – Cantanhede/Mealhada, A1 km 204,6
+CNT-00011
+: 
+ NEW address : Área S. BP - Cantanhede/Mealhada, A1 km 204,6
+ OLD address : Área S. BP – Cantanhede/Mealhada, A1 km 204,6
+ETR-00009
+: 
+ NEW address : Área de Serviço - Antuã, A1,  km 254,9
+ OLD address : Área de Serviço – Antuã, A1,  km 254,9
+ETR-00011
+: 
+ NEW address : A1 km 254,9, sentido Sul - Norte
+ OLD address : A1 km 254,9, sentido Sul – Norte
+GDL-00009
+: 
+ NEW address : AS REPSOL - Grândola, A2, Km 111.3 S/N
+ OLD address : AS REPSOL – Grândola, A2, Km 111.3 S/N
+SCR-00010
+: 
+ NEW time_zone : Europe/Lisbon
+ OLD time_zone : Atlantic/Madeira
