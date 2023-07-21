@@ -2848,3 +2848,20 @@ PBL-00016 --> HRZ 39.938258 -8.628878 Pombal N1 45 PARKING_LOT
 [{'id': 'PBL-00016-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-04-12T17:07:55.363Z'}]
 [{'id': 'PBL-00016-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-12T17:07:55.363Z'}]
 Removidos:[]
+
+2023-07-21 12:28:15
+Adicionados:['LRA-00090', 'TMR-00017', 'VIS-00059']
+
+LRA-00090 --> KLC 39.7619431 -8.8207454 Leiria R. Estr. Figueira da Foz, PARKING_LOT
+[{'id': 'LRA-00090-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-07T23:17:56.468Z'}]
+[{'id': 'LRA-00090-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-07T23:17:56.466Z'}]
+[{'id': 'LRA-00090-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-07T23:17:56.467Z'}]
+
+TMR-00017 --> KLC 39.6115242 -8.3953938 Tomar R. Coimbra, PARKING_LOT
+[{'id': 'TMR-00017-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-21T11:42:16.153Z'}]
+[{'id': 'TMR-00017-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-21T11:42:16.153Z'}]
+
+VIS-00059 --> GLG 40.659535 -7.922564 Viseu Praça Carlos Lopes PARKING_LOT
+[{'id': 'VIS-00059-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-05-23T13:45:24.861Z'}]
+[{'id': 'VIS-00059-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-05-23T13:45:24.86Z'}]
+Removidos:[]
