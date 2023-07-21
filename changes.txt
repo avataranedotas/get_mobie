@@ -2796,3 +2796,29 @@ VNF-00034 --> PRI 41.37148 -8.4333999 Vila Nova de Famalicão Av. Silva Pereira 
 [{'id': 'VNF-00034-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-23T16:17:51.28Z'}]
 [{'id': 'VNF-00034-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-23T16:17:51.281Z'}]
 Removidos:[]
+
+2023-07-21 09:13:26
+PSR-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+PSR-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+PSR-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+PSR-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VNG-00103
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VNG-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
