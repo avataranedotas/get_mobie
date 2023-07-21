@@ -2788,3 +2788,11 @@ LSB-00595 --> KLC 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A PARKING_LO
 [{'id': 'LSB-00595-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-20T15:46:59.328Z'}]
 [{'id': 'LSB-00595-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-20T15:46:59.328Z'}]
 Removidos:[]
+
+2023-07-21 08:17:38
+Adicionados:['VNF-00034']
+
+VNF-00034 --> PRI 41.37148 -8.4333999 Vila Nova de Famalicão Av. Silva Pereira 645 ON_STREET
+[{'id': 'VNF-00034-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-23T16:17:51.28Z'}]
+[{'id': 'VNF-00034-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-06-23T16:17:51.281Z'}]
+Removidos:[]
