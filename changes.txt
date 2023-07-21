@@ -2929,3 +2929,25 @@ SCR-00019
 2023-07-21 15:36:17
 Adicionados:[]
 Removidos:['SCR-00011']
+
+2023-07-21 16:18:19
+Adicionados:['PRT-00198', 'PRT-00199']
+
+PRT-00198 --> PRI 41.1518897 -8.6066029 Porto  R. do Bolhão 128, Porto PARKING_GARAGE
+[{'id': 'PRT-00198-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 3700, 'last_updated': '2023-07-05T13:19:35.555Z'}]
+
+PRT-00199 --> PRI 41.1519180 -8.6065962 Porto  R. do Bolhão 128, Porto PARKING_GARAGE
+[{'id': 'PRT-00199-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 3700, 'last_updated': '2023-07-05T13:26:18.139Z'}]
+Removidos:[]
+BRG-00070
+coordinates: 
+ NEW latitude : 41.5580683
+ OLD latitude : 41.5870407
+BRG-00070
+coordinates: 
+ NEW longitude : -8.4170015
+ OLD longitude : -8.4167715
+BRG-00070
+: 
+ NEW coordinates : {'latitude': '41.5580683', 'longitude': '-8.4170015'}
+ OLD coordinates : {'latitude': '41.5870407', 'longitude': '-8.4167715'}
