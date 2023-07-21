@@ -2723,3 +2723,13 @@ BRR-00082-02 evses -> 0: status : CHARGING
 CSC-00015-01 evses -> 0: status : CHARGING
 LSB-00593-02 evses -> 2: status : CHARGING
 SCR-00018-1 evses -> 0: status : CHARGING
+
+2023-07-21 13:36:07
+BJA-00022-02 evses -> 0: status : CHARGING
+BRR-00046-01 evses -> 0: status : CHARGING
+BRR-00059-02 evses -> 1: status : CHARGING
+BRR-00082-02 evses -> 0: status : CHARGING
+LSB-00593-02 evses -> 2: status : CHARGING
+SCR-00018-1 evses -> 0: status : CHARGING
+VIS-00059-01 evses -> 1: status : CHARGING
+VNF-00034-02 evses -> 1: status : CHARGING
