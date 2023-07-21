@@ -2634,3 +2634,8 @@ SCR-00019-1 evses -> 0: status : CHARGING
 BJA-00024-01 evses -> 1: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
+
+2023-07-21 05:35:59
+BJA-00024-01 evses -> 1: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
