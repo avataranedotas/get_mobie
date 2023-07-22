@@ -3144,3 +3144,11 @@ BRR-00078-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
 LSB-90004-2 evses -> 1: status : CHARGING
 SNT-00107-06 evses -> 2: status : CHARGING
+
+2023-07-22 14:36:16
+ABF-00068-02 evses -> 0: status : CHARGING
+BJA-00020-01 evses -> 1: status : CHARGING
+BJA-00021-01 evses -> 0: status : CHARGING
+BRR-00078-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+SNT-00107-04 evses -> 1: status : CHARGING
