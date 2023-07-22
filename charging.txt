@@ -3241,3 +3241,13 @@ ILH-00005-01 evses -> 0: status : CHARGING
 ILH-00007-01 evses -> 0: status : CHARGING
 LGS-00024-01 evses -> 0: status : CHARGING
 MTS-00109-03 evses -> 1: status : CHARGING
+
+2023-07-22 21:11:27
+BRR-00082-02 evses -> 0: status : CHARGING
+BRR-00085-01 evses -> 0: status : CHARGING
+CHM-00004-01 evses -> 2: status : CHARGING
+ILH-00005-01 evses -> 0: status : CHARGING
+ILH-00006-01 evses -> 0: status : CHARGING
+ILH-00007-01 evses -> 0: status : CHARGING
+LGS-00024-01 evses -> 0: status : CHARGING
+PLM-00028-01 evses -> 1: status : CHARGING
