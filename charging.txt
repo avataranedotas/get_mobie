@@ -3164,3 +3164,9 @@ BJA-00020-01 evses -> 1: status : CHARGING
 ILH-00005-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
 SNT-00107-04 evses -> 1: status : CHARGING
+
+2023-07-22 15:36:11
+BJA-00020-01 evses -> 1: status : CHARGING
+ILH-00005-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+SNT-00107-04 evses -> 1: status : CHARGING
