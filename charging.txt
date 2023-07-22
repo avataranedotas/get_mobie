@@ -3070,3 +3070,9 @@ ABF-00068-02 evses -> 0: status : CHARGING
 BJA-00020-01 evses -> 1: status : CHARGING
 BJA-00022-01 evses -> 1: status : CHARGING
 LSB-90004-1 evses -> 0: status : CHARGING
+
+2023-07-22 12:26:01
+ABF-00068-02 evses -> 0: status : CHARGING
+BJA-00020-01 evses -> 1: status : CHARGING
+BJA-00022-01 evses -> 1: status : CHARGING
+LSB-90004-1 evses -> 0: status : CHARGING
