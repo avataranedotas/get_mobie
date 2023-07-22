@@ -3106,3 +3106,18 @@ LSB-90004-1 evses -> 0: status : CHARGING
 LSB-90004-2 evses -> 1: status : CHARGING
 VCD-00016-01 evses -> 0: status : CHARGING
 VCD-00016-01 evses -> 0: status : CHARGING
+
+2023-07-22 13:36:12
+ABF-00066-02 evses -> 1: status : CHARGING
+ABF-00068-02 evses -> 0: status : CHARGING
+ABF-00068-01 evses -> 1: status : CHARGING
+AJT-00009-02 evses -> 0: status : CHARGING
+AJT-00009-02 evses -> 0: status : CHARGING
+BJA-00020-01 evses -> 1: status : CHARGING
+BJA-00021-01 evses -> 0: status : CHARGING
+BJA-00022-01 evses -> 1: status : CHARGING
+BRR-00078-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+LSB-00596-02 evses -> 2: status : CHARGING
+LSB-90004-1 evses -> 0: status : CHARGING
+LSB-90004-2 evses -> 1: status : CHARGING
