@@ -3033,3 +3033,10 @@ CSC-00015-03 evses -> 2: status : CHARGING
 LSB-00596-02 evses -> 2: status : CHARGING
 LSB-90004-1 evses -> 0: status : CHARGING
 VIS-00059-02 evses -> 0: status : CHARGING
+
+2023-07-22 10:13:16
+ABF-00068-02 evses -> 0: status : CHARGING
+ALM-00060-02 evses -> 5: status : CHARGING
+CSC-00015-03 evses -> 2: status : CHARGING
+LSB-00596-02 evses -> 2: status : CHARGING
+VIS-00059-02 evses -> 0: status : CHARGING
