@@ -3222,3 +3222,13 @@ MTS-00109-03 evses -> 1: status : CHARGING
 OER-00176-02 evses -> 0: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
 VCD-00016-01 evses -> 0: status : CHARGING
+
+2023-07-22 20:13:32
+BRR-00085-01 evses -> 0: status : CHARGING
+BRR-00085-02 evses -> 1: status : CHARGING
+CHM-00004-01 evses -> 2: status : CHARGING
+ILH-00005-01 evses -> 0: status : CHARGING
+ILH-00007-01 evses -> 0: status : CHARGING
+LGS-00024-01 evses -> 0: status : CHARGING
+MTS-00109-03 evses -> 1: status : CHARGING
+OER-00176-02 evses -> 0: status : CHARGING
