@@ -2951,3 +2951,12 @@ BJA-00023-01 evses -> 1: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
 LSB-90004-2 evses -> 1: status : CHARGING
+
+2023-07-22 05:12:33
+ABF-00066-01 evses -> 0: status : CHARGING
+ABF-00068-02 evses -> 0: status : CHARGING
+BJA-00022-02 evses -> 0: status : CHARGING
+BJA-00023-01 evses -> 1: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
+LSB-90004-2 evses -> 1: status : CHARGING
