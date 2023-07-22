@@ -3206,3 +3206,10 @@ ILH-00005-01 evses -> 0: status : CHARGING
 LGS-00024-01 evses -> 0: status : CHARGING
 PLM-00028-02 evses -> 0: status : CHARGING
 VCD-00016-01 evses -> 0: status : CHARGING
+
+2023-07-22 19:10:13
+BJA-00020-01 evses -> 1: status : CHARGING
+BRR-00085-02 evses -> 1: status : CHARGING
+ILH-00005-01 evses -> 0: status : CHARGING
+MTS-00109-03 evses -> 1: status : CHARGING
+VCD-00016-01 evses -> 0: status : CHARGING
