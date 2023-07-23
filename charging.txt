@@ -3489,3 +3489,7 @@ PLM-00028-01 evses -> 1: status : CHARGING
 2023-07-23 17:36:14
 EVR-00032-01 evses -> 0: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
+
+2023-07-23 18:16:04
+CHM-00004-01 evses -> 2: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
