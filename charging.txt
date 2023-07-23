@@ -3421,3 +3421,8 @@ SNT-00107-02 evses -> 4: status : CHARGING
 2023-07-23 10:13:25
 ILH-00006-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
+
+2023-07-23 10:36:22
+ILH-00006-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+OER-00176-01 evses -> 1: status : CHARGING
