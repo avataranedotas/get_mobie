@@ -3473,3 +3473,7 @@ VPV-00006-1 evses -> 0: status : CHARGING
 2023-07-23 15:36:05
 EVR-00032-01 evses -> 0: status : CHARGING
 VPV-00006-1 evses -> 0: status : CHARGING
+
+2023-07-23 16:16:39
+EVR-00032-01 evses -> 0: status : CHARGING
+VFR-00073-02 evses -> 3: status : CHARGING
