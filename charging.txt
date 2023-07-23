@@ -3401,3 +3401,8 @@ LGS-00024-01 evses -> 0: status : CHARGING
 BRR-00085-01 evses -> 0: status : CHARGING
 ILH-00006-01 evses -> 0: status : CHARGING
 ILH-00007-01 evses -> 0: status : CHARGING
+
+2023-07-23 08:36:14
+BRR-00085-01 evses -> 0: status : CHARGING
+ILH-00006-01 evses -> 0: status : CHARGING
+ILH-00007-01 evses -> 0: status : CHARGING
