@@ -3449,3 +3449,6 @@ PLM-00028-01 evses -> 1: status : CHARGING
 2023-07-23 13:15:19
 BRR-00080-01 evses -> 0: status : CHARGING
 ILH-00007-01 evses -> 0: status : CHARGING
+
+2023-07-23 13:36:23
+BRR-00080-01 evses -> 0: status : CHARGING
