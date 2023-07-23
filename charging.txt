@@ -3469,3 +3469,7 @@ ADV-00007-02 evses -> 0: status : CHARGING
 EVR-00032-01 evses -> 0: status : CHARGING
 PLM-00028-01 evses -> 1: status : CHARGING
 VPV-00006-1 evses -> 0: status : CHARGING
+
+2023-07-23 15:36:05
+EVR-00032-01 evses -> 0: status : CHARGING
+VPV-00006-1 evses -> 0: status : CHARGING
