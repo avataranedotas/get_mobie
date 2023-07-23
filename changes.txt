@@ -2951,3 +2951,85 @@ BRG-00070
 : 
  NEW coordinates : {'latitude': '41.5580683', 'longitude': '-8.4170015'}
  OLD coordinates : {'latitude': '41.5870407', 'longitude': '-8.4167715'}
+
+2023-07-23 01:22:06
+TVR-00011
+evses -> 0: 
+ NEW uid : TVR-00011-02
+ OLD uid : TVR-00011-01
+TVR-00011
+evses -> 0: 
+ NEW evse_id : PT*KLC*E*TVR*00011*02
+ OLD evse_id : PT*KLC*E*TVR*00011*01
+TVR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW id : TVR-00011-02-01
+ OLD id : TVR-00011-01-01
+TVR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+TVR-00011
+evses -> 1: 
+ NEW uid : TVR-00011-03
+ OLD uid : TVR-00011-02
+TVR-00011
+evses -> 1: 
+ NEW evse_id : PT*KLC*E*TVR*00011*03
+ OLD evse_id : PT*KLC*E*TVR*00011*02
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW id : TVR-00011-03-01
+ OLD id : TVR-00011-02-01
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 125
+TVR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+TVR-00011
+evses -> 2: 
+ NEW uid : TVR-00011-01
+ OLD uid : TVR-00011-03
+TVR-00011
+evses -> 2: 
+ NEW evse_id : PT*KLC*E*TVR*00011*01
+ OLD evse_id : PT*KLC*E*TVR*00011*03
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW id : TVR-00011-01-01
+ OLD id : TVR-00011-03-01
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+TVR-00011
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
