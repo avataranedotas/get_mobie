@@ -3457,3 +3457,9 @@ BRR-00080-01 evses -> 0: status : CHARGING
 BRR-00080-01 evses -> 0: status : CHARGING
 EVR-00032-01 evses -> 0: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
+
+2023-07-23 14:36:10
+ADV-00007-02 evses -> 0: status : CHARGING
+BRR-00080-01 evses -> 0: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
+PLM-00027-02 evses -> 0: status : CHARGING
