@@ -3426,3 +3426,8 @@ ILH-00008-01 evses -> 0: status : CHARGING
 ILH-00006-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
 OER-00176-01 evses -> 1: status : CHARGING
+
+2023-07-23 11:10:26
+ILH-00006-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+OER-00176-01 evses -> 1: status : CHARGING
