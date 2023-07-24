@@ -3650,3 +3650,8 @@ BRR-00085-02 evses -> 1: status : CHARGING
 AGD-00013-02 evses -> 0: status : CHARGING
 BJA-00020-02 evses -> 0: status : CHARGING
 BRR-00085-02 evses -> 1: status : CHARGING
+
+2023-07-24 15:36:20
+AGD-00013-02 evses -> 0: status : CHARGING
+BJA-00020-02 evses -> 0: status : CHARGING
+BRR-00085-02 evses -> 1: status : CHARGING

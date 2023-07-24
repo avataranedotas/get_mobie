@@ -3126,3 +3126,11 @@ Adicionados:['LSB-01546']
 LSB-01546 --> HRZ 38.721524 -9.161746 Lisboa Rua Carlos Alberto da Mota Pinto UNDERGROUND_GARAGE
 [{'id': 'LSB-01546-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-24T13:21:31.848Z'}]
 Removidos:[]
+
+2023-07-24 15:36:15
+Adicionados:['LRA-00092']
+
+LRA-00092 --> EDP 39.8502066 -8.8650842 Leiria RUA DUARTE PACHECO PARKING_LOT
+[{'id': 'LRA-00092-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:01:33.135Z'}]
+[{'id': 'LRA-00092-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:01:33.135Z'}]
+Removidos:[]
