@@ -3604,3 +3604,9 @@ BRR-00085-02 evses -> 1: status : CHARGING
 ILH-00007-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
 OER-00176-02 evses -> 0: status : CHARGING
+
+2023-07-24 10:37:09
+BRR-00085-02 evses -> 1: status : CHARGING
+ILH-00007-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+OER-00176-02 evses -> 0: status : CHARGING
