@@ -3615,3 +3615,7 @@ OER-00176-02 evses -> 0: status : CHARGING
 BRR-00085-02 evses -> 1: status : CHARGING
 OER-00176-02 evses -> 0: status : CHARGING
 PLM-00028-02 evses -> 0: status : CHARGING
+
+2023-07-24 11:36:10
+ACB-00006-01 evses -> 1: status : CHARGING
+BRR-00085-02 evses -> 1: status : CHARGING

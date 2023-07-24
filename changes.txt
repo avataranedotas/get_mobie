@@ -3107,3 +3107,15 @@ PBL-00016
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-07-24 11:36:05
+Adicionados:['ACB-00006', 'VFR-00065']
+
+ACB-00006 --> KLC 39.551485 -8.977961 Alcobaça Av. Prof. Eng. Joaquim Vieira Natividade 9900 ON_STREET
+[{'id': 'ACB-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:30.751Z'}]
+[{'id': 'ACB-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:34:30.75Z'}]
+
+VFR-00065 --> GLP 40.912492 -8.492251 Santa Maria da Feira Estr. Particular do Grupo Intermarché PARKING_LOT
+[{'id': 'VFR-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-07-17T14:15:20.764Z'}]
+[{'id': 'VFR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-07-17T14:15:20.764Z'}]
+Removidos:[]
