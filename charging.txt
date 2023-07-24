@@ -3749,3 +3749,11 @@ GMR-00062-02 evses -> 0: status : CHARGING
 ILH-00006-01 evses -> 0: status : CHARGING
 ILH-00008-01 evses -> 0: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
+
+2023-07-24 22:36:08
+BRR-00085-01 evses -> 0: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
+GMR-00062-02 evses -> 0: status : CHARGING
+ILH-00006-01 evses -> 0: status : CHARGING
+ILH-00008-01 evses -> 0: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
