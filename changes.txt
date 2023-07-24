@@ -3119,3 +3119,10 @@ VFR-00065 --> GLP 40.912492 -8.492251 Santa Maria da Feira Estr. Particular do G
 [{'id': 'VFR-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-07-17T14:15:20.764Z'}]
 [{'id': 'VFR-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-07-17T14:15:20.764Z'}]
 Removidos:[]
+
+2023-07-24 13:36:03
+Adicionados:['LSB-01546']
+
+LSB-01546 --> HRZ 38.721524 -9.161746 Lisboa Rua Carlos Alberto da Mota Pinto UNDERGROUND_GARAGE
+[{'id': 'LSB-01546-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-24T13:21:31.848Z'}]
+Removidos:[]

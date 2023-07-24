@@ -3631,3 +3631,8 @@ VCD-00016-01 evses -> 0: status : CHARGING
 2023-07-24 13:19:18
 ADV-00007-01 evses -> 2: status : CHARGING
 BRR-00085-02 evses -> 1: status : CHARGING
+
+2023-07-24 13:36:08
+ADV-00007-01 evses -> 2: status : CHARGING
+BRR-00085-02 evses -> 1: status : CHARGING
+MTS-00109-01 evses -> 2: status : CHARGING
