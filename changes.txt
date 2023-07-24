@@ -3134,3 +3134,19 @@ LRA-00092 --> EDP 39.8502066 -8.8650842 Leiria RUA DUARTE PACHECO PARKING_LOT
 [{'id': 'LRA-00092-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:01:33.135Z'}]
 [{'id': 'LRA-00092-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-11T10:01:33.135Z'}]
 Removidos:[]
+
+2023-07-24 16:18:31
+Adicionados:['BRR-00029', 'BRR-00096', 'BRR-00098']
+
+BRR-00029 --> TRK 38.6526944 -9.0598083 Barreiro Rua 1Âº Agosto Paivense 8 ON_STREET
+[{'id': 'BRR-00029-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:46:16.503Z'}]
+[{'id': 'BRR-00029-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:46:16.503Z'}]
+
+BRR-00096 --> TRK 38.65525 -9.065686 Barreiro Rua Teresa Borges 1 ON_STREET
+[{'id': 'BRR-00096-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:45:57.41Z'}]
+[{'id': 'BRR-00096-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:45:57.41Z'}]
+
+BRR-00098 --> TRK 38.656314 -9.067492 Barreiro Rua 1.Âº de Dezembro 2B ON_STREET
+[{'id': 'BRR-00098-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:40:43.07Z'}]
+[{'id': 'BRR-00098-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:40:43.07Z'}]
+Removidos:[]
