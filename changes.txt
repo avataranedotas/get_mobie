@@ -3033,3 +3033,77 @@ TVR-00011
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 43000
+
+2023-07-24 09:14:48
+LSB-00595
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 30000
+LSB-00595
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 30000
+LSB-00596
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 35000
+ OLD max_electric_power : 50000
+LSB-00596
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 35000
+ OLD max_electric_power : 60000
+PBL-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 400
+ OLD max_amperage : 375
+PBL-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 400
+ OLD max_amperage : 375
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+PBL-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 32
+PBL-00016
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
