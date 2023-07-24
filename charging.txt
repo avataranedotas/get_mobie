@@ -3672,3 +3672,7 @@ LLE-00141-01 evses -> 1: status : CHARGING
 LSB-00611-02 evses -> 1: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
 SNT-00107-04 evses -> 1: status : CHARGING
+
+2023-07-24 17:36:04
+BJA-00020-02 evses -> 0: status : CHARGING
+SNT-00107-04 evses -> 1: status : CHARGING
