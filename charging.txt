@@ -3676,3 +3676,9 @@ SNT-00107-04 evses -> 1: status : CHARGING
 2023-07-24 17:36:04
 BJA-00020-02 evses -> 0: status : CHARGING
 SNT-00107-04 evses -> 1: status : CHARGING
+
+2023-07-24 18:19:33
+BJA-00020-02 evses -> 0: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
+PLM-00028-01 evses -> 1: status : CHARGING
+SNT-00107-04 evses -> 1: status : CHARGING
