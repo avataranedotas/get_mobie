@@ -3543,3 +3543,7 @@ LSB-00611-02 evses -> 1: status : CHARGING
 2023-07-24 03:36:25
 ILH-00008-01 evses -> 0: status : CHARGING
 LSB-00611-02 evses -> 1: status : CHARGING
+
+2023-07-24 04:17:00
+ILH-00008-01 evses -> 0: status : CHARGING
+LSB-00611-02 evses -> 1: status : CHARGING
