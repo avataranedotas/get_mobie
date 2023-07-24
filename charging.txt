@@ -3623,3 +3623,7 @@ BRR-00085-02 evses -> 1: status : CHARGING
 2023-07-24 12:29:21
 BRR-00085-02 evses -> 1: status : CHARGING
 PLM-00027-02 evses -> 0: status : CHARGING
+
+2023-07-24 12:55:28
+CHM-00004-01 evses -> 2: status : CHARGING
+VCD-00016-01 evses -> 0: status : CHARGING
