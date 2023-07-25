@@ -3893,3 +3893,8 @@ PLM-00027-02 evses -> 0: status : CHARGING
 BRR-00082-01 evses -> 1: status : CHARGING
 LLE-00141-02 evses -> 0: status : CHARGING
 LSB-00583-1 evses -> 0: status : CHARGING
+
+2023-07-25 12:30:17
+BRR-00082-01 evses -> 1: status : CHARGING
+EVR-00032-02 evses -> 1: status : CHARGING
+LLE-00141-02 evses -> 0: status : CHARGING
