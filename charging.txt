@@ -3970,3 +3970,9 @@ BJA-00020-02 evses -> 0: status : CHARGING
 EVR-00032-02 evses -> 1: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
 TMR-00017-01 evses -> 1: status : CHARGING
+
+2023-07-25 17:36:28
+BJA-00020-02 evses -> 0: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
+EVR-00032-02 evses -> 1: status : CHARGING
+PLM-00027-01 evses -> 1: status : CHARGING
