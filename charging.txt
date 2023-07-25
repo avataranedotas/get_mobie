@@ -3936,3 +3936,10 @@ EVR-00032-02 evses -> 1: status : CHARGING
 LLE-00141-02 evses -> 0: status : CHARGING
 LSB-00611-02 evses -> 1: status : CHARGING
 VPV-00006-1 evses -> 0: status : CHARGING
+
+2023-07-25 15:14:56
+BJA-00020-02 evses -> 0: status : CHARGING
+BRR-00029-01 evses -> 0: status : CHARGING
+EVR-00032-02 evses -> 1: status : CHARGING
+LSB-00611-02 evses -> 1: status : CHARGING
+VPV-00006-1 evses -> 0: status : CHARGING
