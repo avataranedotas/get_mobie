@@ -4008,3 +4008,6 @@ BRR-00085-02 evses -> 1: status : CHARGING
 2023-07-25 21:11:38
 ADV-00007-01 evses -> 2: status : CHARGING
 BRR-00085-02 evses -> 1: status : CHARGING
+
+2023-07-25 21:36:14
+BRR-00085-02 evses -> 1: status : CHARGING
