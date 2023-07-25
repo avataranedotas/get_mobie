@@ -3150,3 +3150,7 @@ BRR-00098 --> TRK 38.656314 -9.067492 Barreiro Rua 1.Âº de Dezembro 2B ON_STRE
 [{'id': 'BRR-00098-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:40:43.07Z'}]
 [{'id': 'BRR-00098-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-07-24T15:40:43.07Z'}]
 Removidos:[]
+
+2023-07-25 17:11:48
+Adicionados:[]
+Removidos:['LLE-00124', 'LLE-00125', 'LLE-00126']
