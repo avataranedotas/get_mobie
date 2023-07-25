@@ -3911,3 +3911,11 @@ EVR-00032-02 evses -> 1: status : CHARGING
 LLE-00141-02 evses -> 0: status : CHARGING
 LSB-00611-02 evses -> 1: status : CHARGING
 VCD-00016-02 evses -> 1: status : CHARGING
+
+2023-07-25 13:36:23
+BRR-00082-01 evses -> 1: status : CHARGING
+EVR-00032-02 evses -> 1: status : CHARGING
+LLE-00141-02 evses -> 0: status : CHARGING
+LSB-00611-02 evses -> 1: status : CHARGING
+OER-00176-03 evses -> 2: status : CHARGING
+VCD-00016-02 evses -> 1: status : CHARGING
