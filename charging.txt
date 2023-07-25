@@ -3799,3 +3799,10 @@ EVR-00032-01 evses -> 0: status : CHARGING
 ILH-00006-01 evses -> 0: status : CHARGING
 LLE-00141-02 evses -> 0: status : CHARGING
 LLE-00141-01 evses -> 1: status : CHARGING
+
+2023-07-25 04:17:02
+BRR-00085-01 evses -> 0: status : CHARGING
+EVR-00032-01 evses -> 0: status : CHARGING
+ILH-00006-01 evses -> 0: status : CHARGING
+LLE-00141-02 evses -> 0: status : CHARGING
+LLE-00141-01 evses -> 1: status : CHARGING
