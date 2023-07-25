@@ -3879,3 +3879,7 @@ LLE-00141-01 evses -> 1: status : CHARGING
 
 2023-07-25 10:15:26
 LLE-00141-02 evses -> 0: status : CHARGING
+
+2023-07-25 10:37:01
+LLE-00141-02 evses -> 0: status : CHARGING
+VFR-00065-01 evses -> 1: status : CHARGING
