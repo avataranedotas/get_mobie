@@ -3994,3 +3994,6 @@ SNT-00107-01 evses -> 3: status : CHARGING
 EVR-00032-02 evses -> 1: status : CHARGING
 ILH-00005-01 evses -> 0: status : CHARGING
 SNT-00107-01 evses -> 3: status : CHARGING
+
+2023-07-25 19:36:00
+EVR-00032-02 evses -> 1: status : CHARGING
