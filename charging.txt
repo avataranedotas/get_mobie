@@ -3957,3 +3957,10 @@ EVR-00032-02 evses -> 1: status : CHARGING
 LSB-00611-02 evses -> 1: status : CHARGING
 MTS-00109-03 evses -> 1: status : CHARGING
 OER-00176-03 evses -> 2: status : CHARGING
+
+2023-07-25 16:40:00
+BJA-00020-02 evses -> 0: status : CHARGING
+CHM-00004-03 evses -> 1: status : CHARGING
+EVR-00032-02 evses -> 1: status : CHARGING
+MTS-00109-03 evses -> 1: status : CHARGING
+PLM-00028-02 evses -> 0: status : CHARGING
