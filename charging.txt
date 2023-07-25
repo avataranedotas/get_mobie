@@ -4001,3 +4001,6 @@ EVR-00032-02 evses -> 1: status : CHARGING
 2023-07-25 20:14:10
 BRR-00085-02 evses -> 1: status : CHARGING
 PLM-00027-01 evses -> 1: status : CHARGING
+
+2023-07-25 20:36:05
+BRR-00085-02 evses -> 1: status : CHARGING
