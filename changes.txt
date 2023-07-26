@@ -3197,3 +3197,17 @@ LLE-00153 --> GLP 37.0386689 -8.0111185 Loulé Rua Tejo PARKING_LOT
 [{'id': 'LLE-00153-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:59:57.936Z'}]
 [{'id': 'LLE-00153-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:59:57.936Z'}]
 Removidos:[]
+
+2023-07-26 16:17:49
+Adicionados:['GDM-00035', 'VLG-00029']
+
+GDM-00035 --> EDP 41.1437733 -8.5442068 Gondomar Av. Fernando Pessoa 150 PARKING_LOT
+[{'id': 'GDM-00035-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T15:44:15.728Z'}]
+[{'id': 'GDM-00035-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T15:44:15.728Z'}]
+
+VLG-00029 --> HRZ 41.238275 -8.531990 Valongo R. Ciclo Preparatório nº 200 PARKING_LOT
+[{'id': 'VLG-00029-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
+[{'id': 'VLG-00029-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
+[{'id': 'VLG-00029-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
+[{'id': 'VLG-00029-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
+Removidos:[]

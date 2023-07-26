@@ -4094,3 +4094,6 @@ LRA-00090-02 evses -> 2: status : CHARGING
 2023-07-26 15:13:50
 LSB-00607-02 evses -> 0: status : CHARGING
 MAI-00034-01 evses -> 1: status : CHARGING
+
+2023-07-26 16:17:54
+GDM-00032-01 evses -> 2: status : CHARGING
