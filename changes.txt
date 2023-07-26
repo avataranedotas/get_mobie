@@ -3154,3 +3154,15 @@ Removidos:[]
 2023-07-25 17:11:48
 Adicionados:[]
 Removidos:['LLE-00124', 'LLE-00125', 'LLE-00126']
+
+2023-07-26 10:36:20
+Adicionados:['LSB-00607', 'LSB-00608']
+
+LSB-00607 --> HRZ 38.728549 -9.1473796 Lisboa Palácio Sottomayor PARKING_LOT
+[{'id': 'LSB-00607-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:42:14.915Z'}]
+[{'id': 'LSB-00607-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:42:14.914Z'}]
+
+LSB-00608 --> HRZ 38.728549 -9.1473796 Lisboa Palácio Sottomayor PARKING_LOT
+[{'id': 'LSB-00608-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:43:34.992Z'}]
+[{'id': 'LSB-00608-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:43:34.993Z'}]
+Removidos:[]
