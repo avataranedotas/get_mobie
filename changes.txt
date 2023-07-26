@@ -3186,3 +3186,14 @@ LSB-00606 --> HRZ 38.7285498 -9.1473796 Lisboa Palácio Sottomayor PARKING_LOT
 VLR-00002 --> ECI 39.67441 -8.1452672 Vila de Rei Rua Abilio dos Santos PARKING_LOT
 [{'id': 'VLR-00002-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-21T13:45:09.732Z'}]
 Removidos:[]
+
+2023-07-26 14:36:11
+Adicionados:['LLE-00152', 'LLE-00153']
+
+LLE-00152 --> GLP 37.038559 -8.011153 Loulé Rua Tejo PARKING_GARAGE
+[{'id': 'LLE-00152-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:59:33.858Z'}]
+
+LLE-00153 --> GLP 37.0386689 -8.0111185 Loulé Rua Tejo PARKING_LOT
+[{'id': 'LLE-00153-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:59:57.936Z'}]
+[{'id': 'LLE-00153-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:59:57.936Z'}]
+Removidos:[]
