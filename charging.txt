@@ -4024,3 +4024,6 @@ ALM-90004-02 evses -> 1: status : CHARGING
 2023-07-25 23:36:09
 ALM-90004-02 evses -> 1: status : CHARGING
 BRR-00096-02 evses -> 0: status : CHARGING
+
+2023-07-26 01:18:26
+BRR-00096-02 evses -> 0: status : CHARGING
