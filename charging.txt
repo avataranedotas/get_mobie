@@ -4068,3 +4068,6 @@ VFR-00073-05 evses -> 4: status : CHARGING
 MAI-00034-02 evses -> 0: status : CHARGING
 SNT-00107-06 evses -> 2: status : CHARGING
 VFR-00073-05 evses -> 4: status : CHARGING
+
+2023-07-26 10:14:08
+BRR-00090-01 evses -> 0: status : CHARGING
