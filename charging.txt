@@ -4075,3 +4075,6 @@ BRR-00090-01 evses -> 0: status : CHARGING
 2023-07-26 10:36:24
 BRR-00090-01 evses -> 0: status : CHARGING
 SNT-00107-04 evses -> 1: status : CHARGING
+
+2023-07-26 11:11:07
+LSB-00607-01 evses -> 1: status : CHARGING
