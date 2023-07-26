@@ -3166,3 +3166,11 @@ LSB-00608 --> HRZ 38.728549 -9.1473796 Lisboa Palácio Sottomayor PARKING_LOT
 [{'id': 'LSB-00608-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:43:34.992Z'}]
 [{'id': 'LSB-00608-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:43:34.993Z'}]
 Removidos:[]
+
+2023-07-26 12:28:00
+Adicionados:['AMD-00090']
+
+AMD-00090 --> KLC 38.7549592 -9.2164701 Amadora Rua Elias Garcia, 23 PARKING_LOT
+[{'id': 'AMD-00090-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-19T15:33:00.623Z'}]
+[{'id': 'AMD-00090-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-19T15:33:00.621Z'}]
+Removidos:[]

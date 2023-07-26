@@ -4082,3 +4082,8 @@ LSB-00607-01 evses -> 1: status : CHARGING
 2023-07-26 11:36:04
 LSB-00608-01 evses -> 0: status : CHARGING
 SNT-00107-04 evses -> 1: status : CHARGING
+
+2023-07-26 12:28:05
+LSB-00608-02 evses -> 1: status : CHARGING
+PLM-00016-02 evses -> 1: status : CHARGING
+SNT-00107-04 evses -> 1: status : CHARGING
