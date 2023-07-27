@@ -3316,3 +3316,12 @@ BGC-00011 --> EDP 41.8123226 -6.7419907 Bragança Avenida do Sabor, Nº2 PARKING
 [{'id': 'BGC-00011-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-27T15:41:03.639Z'}]
 [{'id': 'BGC-00011-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-27T15:41:03.639Z'}]
 Removidos:[]
+
+2023-07-27 17:11:57
+Adicionados:['NZR-00020']
+
+NZR-00020 --> KLC 39.595507 -9.072263 Nazaré Av. Manuel Remígio PARKING_LOT
+[{'id': 'NZR-00020-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-27T15:24:58.382Z'}]
+[{'id': 'NZR-00020-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-27T15:24:58.382Z'}]
+[{'id': 'NZR-00020-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-27T15:24:58.382Z'}]
+Removidos:[]
