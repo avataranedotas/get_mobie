@@ -3308,3 +3308,11 @@ SNT-00105 --> EDP 38.7696105 -9.3135137 Sintra Burger King Cacém - Rua Esperan�
 [{'id': 'SNT-00105-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-04-28T09:37:41.962Z'}]
 [{'id': 'SNT-00105-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-04-28T09:37:41.963Z'}]
 Removidos:[]
+
+2023-07-27 16:18:12
+Adicionados:['BGC-00011']
+
+BGC-00011 --> EDP 41.8123226 -6.7419907 Bragança Avenida do Sabor, Nº2 PARKING_LOT
+[{'id': 'BGC-00011-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-27T15:41:03.639Z'}]
+[{'id': 'BGC-00011-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-27T15:41:03.639Z'}]
+Removidos:[]
