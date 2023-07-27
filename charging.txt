@@ -4118,3 +4118,6 @@ CBR-00076-02 evses -> 1: status : CHARGING
 
 2023-07-27 12:53:33
 CBR-00076-02 evses -> 1: status : CHARGING
+
+2023-07-27 13:17:30
+CBR-00076-02 evses -> 1: status : CHARGING
