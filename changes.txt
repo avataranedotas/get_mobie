@@ -3266,3 +3266,21 @@ ACB-00007 --> KLC 39.551485 -8.977961 Alcobaça Av. Prof. Eng. Joaquim Vieira Na
 [{'id': 'ACB-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-23T16:27:18.864Z'}]
 [{'id': 'ACB-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-23T16:27:18.865Z'}]
 Removidos:[]
+
+2023-07-27 12:28:45
+Adicionados:['CBR-00075', 'CBR-00076', 'TVD-00034']
+
+CBR-00075 --> KLC 40.252917 -8.42533 Coimbra R. Entre Vinhas PARKING_LOT
+[{'id': 'CBR-00075-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T10:09:43.821Z'}]
+[{'id': 'CBR-00075-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-29T10:09:43.82Z'}]
+[{'id': 'CBR-00075-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-29T10:09:43.818Z'}]
+
+CBR-00076 --> KLC 40.252917 -8.42533 Coimbra R. Entre Vinhas PARKING_LOT
+[{'id': 'CBR-00076-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-29T10:09:55.321Z'}]
+[{'id': 'CBR-00076-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-29T10:09:55.32Z'}]
+[{'id': 'CBR-00076-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-29T10:09:55.319Z'}]
+
+TVD-00034 --> KLC 39.090718 -9.25345 Torres Vedras AVENIDA GENERAL HUMBERTO DELGADO 43 ON_STREET
+[{'id': 'TVD-00034-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:46:44.176Z'}]
+[{'id': 'TVD-00034-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:46:44.174Z'}]
+Removidos:[]
