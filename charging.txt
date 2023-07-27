@@ -4129,3 +4129,7 @@ LSB-00606-02 evses -> 2: status : CHARGING
 2023-07-27 17:36:24
 LSB-00606-02 evses -> 2: status : CHARGING
 NZR-00020-02 evses -> 0: status : CHARGING
+
+2023-07-27 18:16:51
+LSB-00586-02 evses -> 1: status : CHARGING
+LSB-00606-02 evses -> 2: status : CHARGING
