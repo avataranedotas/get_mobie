@@ -3241,3 +3241,20 @@ VLG-00030 --> HGP 41.2137150 -8.5505068 Valongo R. Gil Vicente 75 PARKING_LOT
 VLG-00031 --> HGP 41.2137150 -8.5505068 Valongo R. Gil Vicente 75 PARKING_LOT
 [{'id': 'VLG-00031-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:43:44.646Z'}]
 Removidos:[]
+
+2023-07-27 10:14:13
+Adicionados:['ALM-00062', 'PTM-00039', 'PTM-00040', 'PTM-00041']
+
+ALM-00062 --> HRZ 38.5788506 -9.1732569 Almada Herdade da, Av. Pinhal da Aroeira 1 PARKING_LOT
+[{'id': 'ALM-00062-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T10:32:40.334Z'}]
+[{'id': 'ALM-00062-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-12T10:32:40.336Z'}]
+
+PTM-00039 --> REP 37.135338 -8.535429 Portimão Avenida de Guarané - Largo do Dique PARKING_LOT
+[{'id': 'PTM-00039-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:00:52.03Z'}]
+
+PTM-00040 --> REP 37.135338 -8.535429 Portimão Avenida de Guarané - Largo do Dique PARKING_LOT
+[{'id': 'PTM-00040-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-18T15:02:20.164Z'}]
+
+PTM-00041 --> REP 37.135338 -8.535429 Portimão Avenida de Guarané - Largo do Dique PARKING_LOT
+[{'id': 'PTM-00041-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-18T15:04:22.004Z'}]
+Removidos:[]
