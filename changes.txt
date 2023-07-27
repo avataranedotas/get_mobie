@@ -3258,3 +3258,11 @@ PTM-00040 --> REP 37.135338 -8.535429 Portimão Avenida de Guarané - Largo do D
 PTM-00041 --> REP 37.135338 -8.535429 Portimão Avenida de Guarané - Largo do Dique PARKING_LOT
 [{'id': 'PTM-00041-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-18T15:04:22.004Z'}]
 Removidos:[]
+
+2023-07-27 11:11:00
+Adicionados:['ACB-00007']
+
+ACB-00007 --> KLC 39.551485 -8.977961 Alcobaça Av. Prof. Eng. Joaquim Vieira Natividade 9900 ON_STREET
+[{'id': 'ACB-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-23T16:27:18.864Z'}]
+[{'id': 'ACB-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-23T16:27:18.865Z'}]
+Removidos:[]
