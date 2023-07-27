@@ -3211,3 +3211,33 @@ VLG-00029 --> HRZ 41.238275 -8.531990 Valongo R. Ciclo Preparatório nº 200 PAR
 [{'id': 'VLG-00029-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
 [{'id': 'VLG-00029-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-07-26T15:39:08.796Z'}]
 Removidos:[]
+
+2023-07-27 01:09:00
+Adicionados:['LRA-00093', 'LRA-00094', 'VIS-00060', 'VIS-00061', 'VIS-00062', 'VIS-00063', 'VLG-00030', 'VLG-00031']
+
+LRA-00093 --> EDP 39.7459232 -8.8028073 Leiria Rua da Comissão Iniciativa 13 UNDERGROUND_GARAGE
+[{'id': 'LRA-00093-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-24T13:25:01.876Z'}]
+[{'id': 'LRA-00093-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 220000, 'last_updated': '2023-07-24T13:25:01.876Z'}]
+
+LRA-00094 --> EDP 39.7459232 -8.8028073 Leiria Rua da Comissão Iniciativa 13 UNDERGROUND_GARAGE
+[{'id': 'LRA-00094-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-24T13:25:27.462Z'}]
+[{'id': 'LRA-00094-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-24T13:25:27.462Z'}]
+
+VIS-00060 --> GLP 40.631008 -7.907343 Viseu R. Príncipe Perfeito PARKING_GARAGE
+[{'id': 'VIS-00060-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-26T14:03:57.114Z'}]
+
+VIS-00061 --> GLP 40.631008 -7.907343 Viseu R. Príncipe Perfeito PARKING_GARAGE
+[{'id': 'VIS-00061-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-26T14:10:24.059Z'}]
+
+VIS-00062 --> GLP 40.631008 -7.907343 Viseu R. Príncipe Perfeito PARKING_GARAGE
+[{'id': 'VIS-00062-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-26T14:10:41.242Z'}]
+
+VIS-00063 --> GLP 40.631008 -7.907343 Viseu R. Príncipe Perfeito PARKING_GARAGE
+[{'id': 'VIS-00063-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-26T14:11:00.655Z'}]
+
+VLG-00030 --> HGP 41.2137150 -8.5505068 Valongo R. Gil Vicente 75 PARKING_LOT
+[{'id': 'VLG-00030-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:46:06.447Z'}]
+
+VLG-00031 --> HGP 41.2137150 -8.5505068 Valongo R. Gil Vicente 75 PARKING_LOT
+[{'id': 'VLG-00031-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-26T13:43:44.646Z'}]
+Removidos:[]
