@@ -3379,3 +3379,12 @@ ENT-00007 --> PLG 39.27401 -8.2813999 Entroncamento Av. José Eduardo Vitor das 
 [{'id': 'ENT-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-03T17:33:00.587Z'}]
 [{'id': 'ENT-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-03T17:33:00.589Z'}]
 Removidos:[]
+
+2023-07-28 15:14:36
+Adicionados:['PTG-00015']
+
+PTG-00015 --> KLC 39.2994121 -7.4287481 Portalegre Av. Mov. Forças Armadas C.C. Fontedeira PARKING_LOT
+[{'id': 'PTG-00015-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-28T13:17:12.557Z'}]
+[{'id': 'PTG-00015-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-28T13:17:12.557Z'}]
+[{'id': 'PTG-00015-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-28T13:17:12.557Z'}]
+Removidos:[]
