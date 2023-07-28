@@ -4157,3 +4157,6 @@ BRR-00098-01 evses -> 1: status : CHARGING
 
 2023-07-27 21:10:18
 BRR-00098-01 evses -> 1: status : CHARGING
+
+2023-07-28 08:17:02
+GMR-00040-01 evses -> 0: status : CHARGING
