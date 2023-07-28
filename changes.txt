@@ -3439,3 +3439,9 @@ VNG-00117 --> KLC 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91 
 [{'id': 'VNG-00117-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-31T08:49:13.011Z'}]
 [{'id': 'VNG-00117-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-31T08:49:13.01Z'}]
 Removidos:['PTG-00015']
+
+2023-07-28 17:36:08
+SLV-90002
+: 
+ NEW postal_code : 8005-194
+ OLD postal_code : -
