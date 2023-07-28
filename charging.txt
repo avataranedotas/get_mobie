@@ -4160,3 +4160,6 @@ BRR-00098-01 evses -> 1: status : CHARGING
 
 2023-07-28 08:17:02
 GMR-00040-01 evses -> 0: status : CHARGING
+
+2023-07-28 09:13:08
+AMD-00090-01 evses -> 1: status : CHARGING
