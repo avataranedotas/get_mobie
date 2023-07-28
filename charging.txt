@@ -4185,3 +4185,7 @@ CVD-00004-02 evses -> 2: status : CHARGING
 
 2023-07-28 14:36:11
 MDL-90001-02 evses -> 1: status : CHARGING
+
+2023-07-28 15:36:16
+LSB-00546-02 evses -> 0: status : CHARGING
+MDL-90001-02 evses -> 1: status : CHARGING
