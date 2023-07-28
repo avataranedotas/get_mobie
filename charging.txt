@@ -4179,3 +4179,6 @@ ORM-00008-02 evses -> 2: status : CHARGING
 
 2023-07-28 12:53:17
 ORM-00008-02 evses -> 2: status : CHARGING
+
+2023-07-28 13:36:17
+CVD-00004-02 evses -> 2: status : CHARGING
