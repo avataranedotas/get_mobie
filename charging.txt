@@ -4166,3 +4166,6 @@ AMD-00090-01 evses -> 1: status : CHARGING
 
 2023-07-28 09:36:25
 BTL-00005-02 evses -> 0: status : CHARGING
+
+2023-07-28 11:11:11
+ORM-00008-02 evses -> 2: status : CHARGING

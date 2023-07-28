@@ -3343,3 +3343,13 @@ CLT-00005
 : 
  NEW city : Calheta (Madeira)
  OLD city : Vila da Calheta
+
+2023-07-28 11:11:07
+CLT-00004
+: 
+ NEW city : Calheta (Madeira)
+ OLD city : Vila da Calheta
+CLT-00006
+: 
+ NEW city : Calheta (Madeira)
+ OLD city : Vila da Calheta
