@@ -3371,3 +3371,11 @@ CVD-00004 --> KLC 39.4051635 -7.4442401 Castelo de Vide N246-1 Quinta Da Moutosa
 [{'id': 'CVD-00004-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-28T13:04:00.658Z'}]
 [{'id': 'CVD-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-28T13:04:00.658Z'}]
 Removidos:[]
+
+2023-07-28 14:36:05
+Adicionados:['ENT-00007']
+
+ENT-00007 --> PLG 39.27401 -8.2813999 Entroncamento Av. José Eduardo Vitor das Neves PARKING_LOT
+[{'id': 'ENT-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-03T17:33:00.587Z'}]
+[{'id': 'ENT-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-03-03T17:33:00.589Z'}]
+Removidos:[]
