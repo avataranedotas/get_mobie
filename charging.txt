@@ -4226,3 +4226,6 @@ MDL-90001-01 evses -> 0: status : CHARGING
 
 2023-07-28 23:36:13
 MDL-90001-01 evses -> 0: status : CHARGING
+
+2023-07-29 01:10:41
+MDL-90001-01 evses -> 0: status : CHARGING
