@@ -4244,3 +4244,6 @@ SPS-00004-01 evses -> 1: status : CHARGING
 
 2023-07-29 19:36:10
 VNG-00117-01 evses -> 0: status : CHARGING
+
+2023-07-29 20:13:02
+VNG-00117-01 evses -> 0: status : CHARGING
