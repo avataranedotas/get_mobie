@@ -3445,3 +3445,11 @@ SLV-90002
 : 
  NEW postal_code : 8005-194
  OLD postal_code : -
+
+2023-07-29 11:36:16
+Adicionados:['GMR-00103']
+
+GMR-00103 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de Camões, Piso -1 PARKING_GARAGE
+[{'id': 'GMR-00103-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 50, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:19:32.499Z'}]
+[{'id': 'GMR-00103-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 50, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:19:32.498Z'}]
+Removidos:[]
