@@ -4277,3 +4277,7 @@ LSB-00546-02 evses -> 0: status : CHARGING
 
 2023-07-30 19:36:08
 LLE-00148-1 evses -> 0: status : CHARGING
+
+2023-07-30 20:13:09
+LLE-00148-1 evses -> 0: status : CHARGING
+TVR-00018-02 evses -> 1: status : CHARGING
