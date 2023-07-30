@@ -4259,3 +4259,6 @@ LSB-00546-02 evses -> 0: status : CHARGING
 
 2023-07-30 16:36:05
 LSB-00546-02 evses -> 0: status : CHARGING
+
+2023-07-30 17:11:10
+ACN-00007-02 evses -> 1: status : CHARGING
