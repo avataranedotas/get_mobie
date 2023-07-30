@@ -4303,3 +4303,8 @@ TVR-00018-02 evses -> 1: status : CHARGING
 LLE-00148-1 evses -> 0: status : CHARGING
 PTM-00041-1 evses -> 0: status : CHARGING
 TVR-00018-02 evses -> 1: status : CHARGING
+
+2023-07-30 22:36:03
+LLE-00148-1 evses -> 0: status : CHARGING
+PTM-00041-1 evses -> 0: status : CHARGING
+TVR-00018-02 evses -> 1: status : CHARGING
