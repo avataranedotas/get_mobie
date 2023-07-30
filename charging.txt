@@ -4253,3 +4253,6 @@ VNG-00117-01 evses -> 0: status : CHARGING
 
 2023-07-30 12:25:24
 VNG-00118-02 evses -> 0: status : CHARGING
+
+2023-07-30 14:36:09
+LSB-00546-02 evses -> 0: status : CHARGING
