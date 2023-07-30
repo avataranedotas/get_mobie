@@ -4265,3 +4265,6 @@ ACN-00007-02 evses -> 1: status : CHARGING
 
 2023-07-30 17:36:19
 ACN-00007-02 evses -> 1: status : CHARGING
+
+2023-07-30 18:15:49
+ACN-00007-02 evses -> 1: status : CHARGING
