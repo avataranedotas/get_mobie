@@ -4464,3 +4464,7 @@ SPS-00004-02 evses -> 0: status : CHARGING
 
 2023-07-31 19:10:49
 SPS-00004-02 evses -> 0: status : CHARGING
+
+2023-07-31 19:36:17
+AMD-00090-01 evses -> 1: status : CHARGING
+SPS-00004-02 evses -> 0: status : CHARGING
