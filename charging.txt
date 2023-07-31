@@ -4419,3 +4419,9 @@ VLR-00002-1 evses -> 0: status : CHARGING
 CBR-00018-01 evses -> 0: status : CHARGING
 LSB-00585-02 evses -> 0: status : CHARGING
 VLR-00002-1 evses -> 0: status : CHARGING
+
+2023-07-31 14:13:46
+LSB-00546-02 evses -> 0: status : CHARGING
+LSB-00585-02 evses -> 0: status : CHARGING
+ORM-00008-02 evses -> 2: status : CHARGING
+VLR-00002-1 evses -> 0: status : CHARGING
