@@ -4408,3 +4408,9 @@ LSB-00585-02 evses -> 0: status : CHARGING
 PTM-00039-1 evses -> 0: status : CHARGING
 VIS-00057-01 evses -> 1: status : CHARGING
 VLR-00002-1 evses -> 0: status : CHARGING
+
+2023-07-31 13:18:49
+CBR-00018-01 evses -> 0: status : CHARGING
+LSB-00585-02 evses -> 0: status : CHARGING
+VIS-00057-01 evses -> 1: status : CHARGING
+VLR-00002-1 evses -> 0: status : CHARGING
