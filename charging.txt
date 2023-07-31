@@ -4436,3 +4436,6 @@ AMD-00090-01 evses -> 1: status : CHARGING
 AMD-00090-01 evses -> 1: status : CHARGING
 TVD-00034-01 evses -> 1: status : CHARGING
 TVD-00034-01 evses -> 1: status : CHARGING
+
+2023-07-31 16:19:07
+AMD-00090-01 evses -> 1: status : CHARGING

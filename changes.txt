@@ -3477,3 +3477,7 @@ PCV-00002 --> PLG 40.18054 -8.10012 Penacova AVENIDA DOUTOR VIEGAS PIMENTEL PARK
 [{'id': 'PCV-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-31T13:06:12.209Z'}]
 [{'id': 'PCV-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-31T13:06:12.209Z'}]
 Removidos:[]
+
+2023-07-31 16:19:03
+Adicionados:[]
+Removidos:['TVD-00034', 'VNG-00117', 'VNG-00118']
