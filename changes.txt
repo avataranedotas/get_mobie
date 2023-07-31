@@ -3453,3 +3453,11 @@ GMR-00103 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de C
 [{'id': 'GMR-00103-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 50, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:19:32.499Z'}]
 [{'id': 'GMR-00103-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 50, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:19:32.498Z'}]
 Removidos:[]
+
+2023-07-31 11:11:27
+Adicionados:['PTL-00013']
+
+PTL-00013 --> EDP 41.775332 -8.5343751 Ponte de Lima Rua Santiago da Gemieira nº10 PARKING_LOT
+[{'id': 'PTL-00013-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:55:46.051Z'}]
+[{'id': 'PTL-00013-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:55:46.051Z'}]
+Removidos:[]
