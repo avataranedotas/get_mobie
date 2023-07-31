@@ -4431,3 +4431,8 @@ VLR-00002-1 evses -> 0: status : CHARGING
 
 2023-07-31 15:15:07
 AMD-00090-01 evses -> 1: status : CHARGING
+
+2023-07-31 15:36:48
+AMD-00090-01 evses -> 1: status : CHARGING
+TVD-00034-01 evses -> 1: status : CHARGING
+TVD-00034-01 evses -> 1: status : CHARGING
