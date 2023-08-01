@@ -3524,3 +3524,58 @@ GMR-00098 --> GEN 41.40657 -8.36683 Guimarães Rua de Vila Meã, Serzedelo ON_ST
 [{'id': 'GMR-00098-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-19T14:50:29.568Z'}]
 [{'id': 'GMR-00098-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-04-19T14:50:29.57Z'}]
 Removidos:[]
+
+2023-08-01 15:14:09
+Adicionados:['ADV-00011']
+
+ADV-00011 --> ION 37.536329 -8.182924 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00011-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:17:38.059Z'}]
+Removidos:['ABF-00065']
+PLM-00016
+coordinates: 
+ NEW latitude : 38.5848485
+ OLD latitude : 38.584857
+PLM-00016
+coordinates: 
+ NEW longitude : -8.9310315
+ OLD longitude : -8.93102
+PLM-00016
+: 
+ NEW coordinates : {'latitude': '38.5848485', 'longitude': '-8.9310315'}
+ OLD coordinates : {'latitude': '38.584857', 'longitude': '-8.93102'}
+PLM-00018
+coordinates: 
+ NEW latitude : 38.5856136
+ OLD latitude : 38.584299
+PLM-00018
+coordinates: 
+ NEW longitude : -8.9300346
+ OLD longitude : -8.930389
+PLM-00018
+: 
+ NEW coordinates : {'latitude': '38.5856136', 'longitude': '-8.9300346'}
+ OLD coordinates : {'latitude': '38.584299', 'longitude': '-8.930389'}
+PLM-00027
+coordinates: 
+ NEW latitude : 38.5856136
+ OLD latitude : 38.584299
+PLM-00027
+coordinates: 
+ NEW longitude : -8.9300346
+ OLD longitude : -8.930389
+PLM-00027
+: 
+ NEW coordinates : {'latitude': '38.5856136', 'longitude': '-8.9300346'}
+ OLD coordinates : {'latitude': '38.584299', 'longitude': '-8.930389'}
+PLM-00028
+coordinates: 
+ NEW latitude : 38.5848485
+ OLD latitude : 38.584857
+PLM-00028
+coordinates: 
+ NEW longitude : -8.9310315
+ OLD longitude : -8.93102
+PLM-00028
+: 
+ NEW coordinates : {'latitude': '38.5848485', 'longitude': '-8.9310315'}
+ OLD coordinates : {'latitude': '38.584857', 'longitude': '-8.93102'}
