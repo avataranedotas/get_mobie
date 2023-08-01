@@ -4552,3 +4552,7 @@ TND-00008-03 evses -> 2: status : CHARGING
 2023-08-01 21:36:20
 ACB-00006-01 evses -> 1: status : CHARGING
 ACB-00006-01 evses -> 1: status : CHARGING
+
+2023-08-01 22:12:28
+ACB-00006-01 evses -> 1: status : CHARGING
+ACB-00006-01 evses -> 1: status : CHARGING
