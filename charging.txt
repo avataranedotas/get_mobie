@@ -4530,3 +4530,7 @@ TND-00008-03 evses -> 2: status : CHARGING
 
 2023-08-01 14:12:46
 VLG-00029-04 evses -> 3: status : CHARGING
+
+2023-08-01 14:36:18
+GMR-00098-02 evses -> 1: status : CHARGING
+VLG-00029-04 evses -> 3: status : CHARGING
