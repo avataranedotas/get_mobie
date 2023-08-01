@@ -4518,3 +4518,7 @@ PCV-00002-01 evses -> 0: status : CHARGING
 BGC-00011-01 evses -> 1: status : CHARGING
 CBR-00075-02 evses -> 1: status : CHARGING
 PCV-00002-01 evses -> 0: status : CHARGING
+
+2023-08-01 12:53:49
+BGC-00011-01 evses -> 1: status : CHARGING
+CBR-00075-02 evses -> 1: status : CHARGING
