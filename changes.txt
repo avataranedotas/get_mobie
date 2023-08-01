@@ -3481,3 +3481,12 @@ Removidos:[]
 2023-07-31 16:19:03
 Adicionados:[]
 Removidos:['TVD-00034', 'VNG-00117', 'VNG-00118']
+
+2023-08-01 13:17:19
+Adicionados:['CTB-00030']
+
+CTB-00030 --> HRZ 39.8097006 -7.5247799 Castelo Branco Zona Industrial de Castelo Branco, Lote P6C PARKING_LOT
+[{'id': 'CTB-00030-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-06-19T01:52:46.648Z'}]
+[{'id': 'CTB-00030-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-19T01:52:46.648Z'}]
+[{'id': 'CTB-00030-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T01:52:46.648Z'}]
+Removidos:[]
