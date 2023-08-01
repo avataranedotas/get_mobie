@@ -3490,3 +3490,25 @@ CTB-00030 --> HRZ 39.8097006 -7.5247799 Castelo Branco Zona Industrial de Castel
 [{'id': 'CTB-00030-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-19T01:52:46.648Z'}]
 [{'id': 'CTB-00030-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-19T01:52:46.648Z'}]
 Removidos:[]
+
+2023-08-01 14:12:42
+Adicionados:['ADV-00008', 'ADV-00009', 'ADV-00012', 'ADV-00013', 'ADV-00014', 'ADV-00015']
+
+ADV-00008 --> ION 37.536329 -8.182924 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00008-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:12:05.564Z'}]
+
+ADV-00009 --> ION 37.536329 -8.182924 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00009-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:13:38.214Z'}]
+
+ADV-00012 --> ION 37.535858 -8.184742 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00012-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:19:06.94Z'}]
+
+ADV-00013 --> ION 37.535858 -8.184742 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00013-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:20:37.053Z'}]
+
+ADV-00014 --> ION 37.535858 -8.184742 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00014-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:22:08.72Z'}]
+
+ADV-00015 --> ION 37.535858 -8.184742 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2 ALONG_MOTORWAY
+[{'id': 'ADV-00015-1-1', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 500, 'max_electric_power': 350000, 'last_updated': '2023-06-18T15:23:40.952Z'}]
+Removidos:[]
