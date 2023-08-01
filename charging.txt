@@ -4540,3 +4540,6 @@ LLE-00147-1 evses -> 0: status : CHARGING
 
 2023-08-01 17:12:01
 LLE-00147-1 evses -> 0: status : CHARGING
+
+2023-08-01 19:10:50
+VLG-00029-03 evses -> 0: status : CHARGING
