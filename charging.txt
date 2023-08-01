@@ -4493,3 +4493,7 @@ PTM-00041-1 evses -> 0: status : CHARGING
 2023-08-01 09:13:46
 ACB-00006-01 evses -> 1: status : CHARGING
 ACB-00006-01 evses -> 1: status : CHARGING
+
+2023-08-01 09:36:23
+ACB-00006-01 evses -> 1: status : CHARGING
+ACB-00006-01 evses -> 1: status : CHARGING
