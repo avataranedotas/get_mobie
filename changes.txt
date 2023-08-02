@@ -3646,3 +3646,10 @@ VFR-00046 --> GLP 40.995505 -8.568375 Santa Maria da Feira Travessa do Cedro, Mo
 [{'id': 'VFR-00046-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-02T15:13:58.405Z'}]
 [{'id': 'VFR-00046-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-02T15:13:58.405Z'}]
 Removidos:[]
+
+2023-08-02 17:11:50
+Adicionados:['PRT-00210']
+
+PRT-00210 --> VEI 41.183503 -8.599263 Porto Rua Amândio Galhano PARKING_LOT
+[{'id': 'PRT-00210-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-02T14:40:38.766Z'}]
+Removidos:[]
