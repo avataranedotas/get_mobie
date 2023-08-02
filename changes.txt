@@ -3615,3 +3615,11 @@ TRF-00013 --> HRZ 41.336442 -8.5694344 Trofa R. Cónego Araújo 267, 4785-576 Tr
 [{'id': 'TRF-00013-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-17T11:01:07.648Z'}]
 [{'id': 'TRF-00013-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-17T11:01:07.649Z'}]
 Removidos:[]
+
+2023-08-02 12:53:34
+Adicionados:['LLE-00115']
+
+LLE-00115 --> GLP 37.077101 -8.102371 Loulé Rua da Escola PARKING_LOT
+[{'id': 'LLE-00115-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:30:28.776Z'}]
+[{'id': 'LLE-00115-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:30:28.777Z'}]
+Removidos:[]
