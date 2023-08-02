@@ -4638,3 +4638,9 @@ ORM-00009-1 evses -> 0: status : CHARGING
 
 2023-08-02 15:13:10
 LLE-00115-01 evses -> 0: status : CHARGING
+
+2023-08-02 16:18:10
+BRR-00043-02 evses -> 1: status : CHARGING
+TND-00008-01 evses -> 1: status : CHARGING
+TRF-00013-03 evses -> 2: status : CHARGING
+VLG-00029-04 evses -> 3: status : CHARGING
