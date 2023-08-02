@@ -3594,3 +3594,11 @@ ODM-90004 --> GLP 37.7234694 -8.7852278 Odemira Avenida Marginal PARKING_LOT
 [{'id': 'ODM-90004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-06-12T15:37:54.952Z'}]
 [{'id': 'ODM-90004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-06-12T15:37:54.95Z'}]
 Removidos:[]
+
+2023-08-02 10:14:16
+Adicionados:['MTS-00093']
+
+MTS-00093 --> GLG 41.20439 -8.64026 Matosinhos A4 IP4 Km3 PARKING_LOT
+[{'id': 'MTS-00093-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-07-30T22:27:48.766Z'}]
+[{'id': 'MTS-00093-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-07-30T22:27:48.766Z'}]
+Removidos:[]
