@@ -3623,3 +3623,11 @@ LLE-00115 --> GLP 37.077101 -8.102371 Loulé Rua da Escola PARKING_LOT
 [{'id': 'LLE-00115-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:30:28.776Z'}]
 [{'id': 'LLE-00115-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 100, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:30:28.777Z'}]
 Removidos:[]
+
+2023-08-02 15:13:04
+Adicionados:['PRT-00211']
+
+PRT-00211 --> VEI 41.183503 -8.599263 Porto Rua Amândio Galhano PARKING_LOT
+[{'id': 'PRT-00211-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-08-02T14:39:31.295Z'}]
+[{'id': 'PRT-00211-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-08-02T14:39:31.295Z'}]
+Removidos:[]
