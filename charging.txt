@@ -4632,3 +4632,6 @@ ORM-00009-1 evses -> 0: status : CHARGING
 
 2023-08-02 14:12:47
 ORM-00009-1 evses -> 0: status : CHARGING
+
+2023-08-02 14:36:04
+ORM-00009-1 evses -> 0: status : CHARGING
