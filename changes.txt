@@ -3765,3 +3765,19 @@ BRR-00115 --> TRK 38.627078 -9.047989 Barreiro Rua de Cochim 9 ON_STREET
 [{'id': 'BRR-00115-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:52:11.234Z'}]
 [{'id': 'BRR-00115-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:52:11.234Z'}]
 Removidos:[]
+
+2023-08-03 14:12:43
+Adicionados:['BRR-00055', 'BRR-00113', 'BRR-00114']
+
+BRR-00055 --> TRK 38.654628 -9.071011 Barreiro Rua Piloto Nascimento Costa 7 ON_STREET
+[{'id': 'BRR-00055-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:14:05.955Z'}]
+[{'id': 'BRR-00055-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:14:05.955Z'}]
+
+BRR-00113 --> TRK 38.654294 -9.072214 Barreiro Rua Almirante José Mendes Cabeçadas 41 ON_STREET
+[{'id': 'BRR-00113-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:14:50.293Z'}]
+[{'id': 'BRR-00113-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:14:50.293Z'}]
+
+BRR-00114 --> TRK 38.592733 -9.039486 Barreiro Rua Torre do Manique 7 ON_STREET
+[{'id': 'BRR-00114-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:51:39.987Z'}]
+[{'id': 'BRR-00114-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:51:39.987Z'}]
+Removidos:[]
