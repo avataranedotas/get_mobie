@@ -4748,3 +4748,6 @@ TRF-00013-03 evses -> 2: status : CHARGING
 
 2023-08-03 08:36:21
 BRR-00043-02 evses -> 1: status : CHARGING
+
+2023-08-03 09:13:33
+BRR-00043-02 evses -> 1: status : CHARGING
