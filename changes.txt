@@ -3781,3 +3781,11 @@ BRR-00114 --> TRK 38.592733 -9.039486 Barreiro Rua Torre do Manique 7 ON_STREET
 [{'id': 'BRR-00114-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:51:39.987Z'}]
 [{'id': 'BRR-00114-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:51:39.987Z'}]
 Removidos:[]
+
+2023-08-03 14:36:18
+Adicionados:['BRR-00097']
+
+BRR-00097 --> TRK 38.657683 -9.063208 Barreiro Rua Dom Paulo da Gama 4 ON_STREET
+[{'id': 'BRR-00097-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:23:57.913Z'}]
+[{'id': 'BRR-00097-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:23:57.913Z'}]
+Removidos:[]

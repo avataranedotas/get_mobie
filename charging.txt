@@ -4793,3 +4793,6 @@ TRF-00013-01 evses -> 0: status : CHARGING
 ACB-00007-02 evses -> 1: status : CHARGING
 BRR-00043-02 evses -> 1: status : CHARGING
 CMN-00011-02 evses -> 0: status : CHARGING
+
+2023-08-03 14:36:24
+BRR-00043-02 evses -> 1: status : CHARGING
