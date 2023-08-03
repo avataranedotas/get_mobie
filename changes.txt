@@ -3709,3 +3709,15 @@ CMN-00012 --> TRK 41.81103 -8.85633 Caminha R. Pontault Combault ON_STREET
 [{'id': 'CMN-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T09:08:19.117Z'}]
 [{'id': 'CMN-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T09:08:19.117Z'}]
 Removidos:['MOBI-CSC-00055']
+
+2023-08-03 10:36:12
+Adicionados:['BRR-00045', 'BRR-00048']
+
+BRR-00045 --> TRK 38.666947 -9.054217 Barreiro Rua Dom LuÃ­s Furtado de Alburquerque 40 ON_STREET
+[{'id': 'BRR-00045-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:25.334Z'}]
+[{'id': 'BRR-00045-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:25.334Z'}]
+
+BRR-00048 --> TRK 38.644542 -9.062786 Barreiro Rua de Luanda 7 ON_STREET
+[{'id': 'BRR-00048-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:31.619Z'}]
+[{'id': 'BRR-00048-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:31.619Z'}]
+Removidos:[]
