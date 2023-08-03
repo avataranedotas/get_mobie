@@ -3721,3 +3721,27 @@ BRR-00048 --> TRK 38.644542 -9.062786 Barreiro Rua de Luanda 7 ON_STREET
 [{'id': 'BRR-00048-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:31.619Z'}]
 [{'id': 'BRR-00048-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:31.619Z'}]
 Removidos:[]
+
+2023-08-03 11:11:17
+Adicionados:['BRR-00050', 'BRR-00076']
+
+BRR-00050 --> TRK 38.636683 -9.046692 Barreiro Rua do Oceano Ãndico 4 ON_STREET
+[{'id': 'BRR-00050-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:54.112Z'}]
+[{'id': 'BRR-00050-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:54.112Z'}]
+
+BRR-00076 --> TRK 38.658822 -9.080653 Barreiro Rua Miguel Pais 80 ON_STREET
+[{'id': 'BRR-00076-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:20:45.366Z'}]
+[{'id': 'BRR-00076-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:20:45.366Z'}]
+Removidos:[]
+SPS-00004
+coordinates: 
+ NEW latitude : 40.739511
+ OLD latitude : 40.736536
+SPS-00004
+coordinates: 
+ NEW longitude : -8.092317
+ OLD longitude : -8.088055
+SPS-00004
+: 
+ NEW coordinates : {'latitude': '40.739511', 'longitude': '-8.092317'}
+ OLD coordinates : {'latitude': '40.736536', 'longitude': '-8.088055'}
