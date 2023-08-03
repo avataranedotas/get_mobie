@@ -4859,3 +4859,7 @@ PCV-00002-02 evses -> 1: status : CHARGING
 2023-08-03 21:11:22
 BRR-00043-01 evses -> 0: status : CHARGING
 PCV-00002-02 evses -> 1: status : CHARGING
+
+2023-08-03 21:36:22
+BRR-00043-01 evses -> 0: status : CHARGING
+PCV-00002-02 evses -> 1: status : CHARGING
