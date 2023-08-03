@@ -4822,3 +4822,7 @@ ACB-00006-01 evses -> 1: status : CHARGING
 ACB-00006-01 evses -> 1: status : CHARGING
 ACB-00007-01 evses -> 0: status : CHARGING
 BRR-00043-02 evses -> 1: status : CHARGING
+
+2023-08-03 17:12:09
+BRR-00043-02 evses -> 1: status : CHARGING
+NZR-00020-02 evses -> 0: status : CHARGING
