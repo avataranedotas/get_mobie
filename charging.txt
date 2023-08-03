@@ -4838,3 +4838,7 @@ NZR-00020-02 evses -> 0: status : CHARGING
 2023-08-03 18:36:15
 BRR-00043-02 evses -> 1: status : CHARGING
 NZR-00020-02 evses -> 0: status : CHARGING
+
+2023-08-03 19:10:35
+NZR-00020-02 evses -> 0: status : CHARGING
+TND-00008-03 evses -> 2: status : CHARGING
