@@ -4984,3 +4984,9 @@ CBR-00075-02 evses -> 1: status : CHARGING
 MTS-00093-01 evses -> 0: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
 VLG-00027-01 evses -> 1: status : CHARGING
+
+2023-08-04 15:36:00
+CBR-00075-02 evses -> 1: status : CHARGING
+MTS-00093-01 evses -> 0: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
+VLG-00027-01 evses -> 1: status : CHARGING
