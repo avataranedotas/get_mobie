@@ -5009,3 +5009,10 @@ BRR-00113-02 evses -> 0: status : CHARGING
 CMN-00009-02 evses -> 1: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
 VLG-00027-01 evses -> 1: status : CHARGING
+
+2023-08-04 16:37:52
+ACB-00007-02 evses -> 1: status : CHARGING
+BRR-00054-02 evses -> 0: status : CHARGING
+BRR-00097-01 evses -> 0: status : CHARGING
+BRR-00113-02 evses -> 0: status : CHARGING
+VLG-00027-01 evses -> 1: status : CHARGING
