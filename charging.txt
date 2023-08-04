@@ -4951,3 +4951,8 @@ OER-00175-1 evses -> 0: status : CHARGING
 2023-08-04 11:36:22
 ABF-00055-02 evses -> 1: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
+
+2023-08-04 12:27:03
+MTS-00093-02 evses -> 1: status : CHARGING
+NZR-00020-02 evses -> 0: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
