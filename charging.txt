@@ -4921,3 +4921,7 @@ OER-00175-1 evses -> 0: status : CHARGING
 MTS-00093-02 evses -> 1: status : CHARGING
 NZR-00020-02 evses -> 0: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
+
+2023-08-04 08:36:04
+NZR-00020-02 evses -> 0: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
