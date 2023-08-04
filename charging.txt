@@ -4891,3 +4891,6 @@ OER-00175-1 evses -> 0: status : CHARGING
 BRR-00043-02 evses -> 1: status : CHARGING
 BRR-00045-01 evses -> 0: status : CHARGING
 OER-00175-1 evses -> 0: status : CHARGING
+
+2023-08-04 04:16:03
+OER-00175-1 evses -> 0: status : CHARGING
