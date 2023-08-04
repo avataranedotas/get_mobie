@@ -3847,3 +3847,11 @@ TRF-00013
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-08-04 16:17:33
+Adicionados:['VRM-00005']
+
+VRM-00005 --> EVC 41.632895 -8.140659 Vieira do Minho Largo Professor Brás da Mota ON_STREET
+[{'id': 'VRM-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:31:36.677Z'}]
+[{'id': 'VRM-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:31:36.679Z'}]
+Removidos:[]
