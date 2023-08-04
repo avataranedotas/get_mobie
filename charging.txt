@@ -5016,3 +5016,11 @@ BRR-00054-02 evses -> 0: status : CHARGING
 BRR-00097-01 evses -> 0: status : CHARGING
 BRR-00113-02 evses -> 0: status : CHARGING
 VLG-00027-01 evses -> 1: status : CHARGING
+
+2023-08-04 17:11:41
+ACB-00007-01 evses -> 0: status : CHARGING
+ACB-00007-02 evses -> 1: status : CHARGING
+BRR-00054-02 evses -> 0: status : CHARGING
+BRR-00097-01 evses -> 0: status : CHARGING
+BRR-00113-02 evses -> 0: status : CHARGING
+VLG-00027-01 evses -> 1: status : CHARGING
