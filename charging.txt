@@ -5099,3 +5099,10 @@ BGC-00011-01 evses -> 1: status : CHARGING
 NZR-00021-02 evses -> 1: status : CHARGING
 NZR-00021-02 evses -> 1: status : CHARGING
 OER-00175-1 evses -> 0: status : CHARGING
+
+2023-08-04 22:36:05
+BGC-00011-02 evses -> 0: status : CHARGING
+BGC-00011-01 evses -> 1: status : CHARGING
+NZR-00021-02 evses -> 1: status : CHARGING
+NZR-00021-02 evses -> 1: status : CHARGING
+OER-00175-1 evses -> 0: status : CHARGING
