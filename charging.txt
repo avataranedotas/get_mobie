@@ -4929,3 +4929,7 @@ NZR-00020-03 evses -> 2: status : CHARGING
 2023-08-04 09:13:06
 NZR-00020-02 evses -> 0: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
+
+2023-08-04 09:36:15
+ABF-00055-02 evses -> 1: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
