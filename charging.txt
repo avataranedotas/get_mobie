@@ -5181,3 +5181,6 @@ BRR-00076-01 evses -> 1: status : CHARGING
 2023-08-05 18:15:29
 BRR-00076-01 evses -> 1: status : CHARGING
 VIS-00047-02 evses -> 2: status : CHARGING
+
+2023-08-05 20:12:35
+NZR-00020-03 evses -> 2: status : CHARGING
