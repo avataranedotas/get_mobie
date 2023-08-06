@@ -5274,3 +5274,6 @@ AVV-00007-01 evses -> 1: status : CHARGING
 
 2023-08-06 10:13:04
 AVV-00007-01 evses -> 1: status : CHARGING
+
+2023-08-06 10:36:03
+AVV-00007-01 evses -> 1: status : CHARGING
