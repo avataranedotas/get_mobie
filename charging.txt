@@ -5369,3 +5369,10 @@ AVV-00007-01 evses -> 1: status : CHARGING
 BRR-00093-01 evses -> 0: status : CHARGING
 BRR-00114-02 evses -> 1: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
+
+2023-08-06 19:36:16
+ABF-00055-02 evses -> 1: status : CHARGING
+AVV-00007-01 evses -> 1: status : CHARGING
+BRR-00093-01 evses -> 0: status : CHARGING
+BRR-00114-02 evses -> 1: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
