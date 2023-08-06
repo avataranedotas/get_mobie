@@ -5399,3 +5399,6 @@ BRR-00115-02 evses -> 1: status : CHARGING
 
 2023-08-06 22:11:32
 BRR-00115-02 evses -> 1: status : CHARGING
+
+2023-08-06 22:35:58
+BRR-00115-02 evses -> 1: status : CHARGING
