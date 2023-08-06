@@ -5223,3 +5223,7 @@ NZR-00020-03 evses -> 2: status : CHARGING
 2023-08-06 03:13:34
 AVV-00007-01 evses -> 1: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
+
+2023-08-06 03:36:20
+AVV-00007-01 evses -> 1: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
