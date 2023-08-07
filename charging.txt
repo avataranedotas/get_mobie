@@ -5476,3 +5476,7 @@ STB-90011-2 evses -> 1: status : CHARGING
 
 2023-08-07 10:36:03
 BRR-00083-01 evses -> 1: status : CHARGING
+
+2023-08-07 11:36:27
+ABF-00055-02 evses -> 1: status : CHARGING
+LLE-00153-01 evses -> 1: status : CHARGING
