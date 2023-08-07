@@ -3855,3 +3855,11 @@ VRM-00005 --> EVC 41.632895 -8.140659 Vieira do Minho Largo Professor Brás da M
 [{'id': 'VRM-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:31:36.677Z'}]
 [{'id': 'VRM-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-09T16:31:36.679Z'}]
 Removidos:[]
+
+2023-08-07 13:36:09
+Adicionados:['LSB-00612']
+
+LSB-00612 --> EDP 38.729124 -9.140919 Lisboa R. Gen. Garcia Rosado PARKING_LOT
+[{'id': 'LSB-00612-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T13:07:05.865Z'}]
+[{'id': 'LSB-00612-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T13:07:05.865Z'}]
+Removidos:[]
