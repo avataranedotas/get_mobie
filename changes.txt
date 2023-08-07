@@ -3863,3 +3863,15 @@ LSB-00612 --> EDP 38.729124 -9.140919 Lisboa R. Gen. Garcia Rosado PARKING_LOT
 [{'id': 'LSB-00612-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T13:07:05.865Z'}]
 [{'id': 'LSB-00612-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T13:07:05.865Z'}]
 Removidos:[]
+
+2023-08-07 14:12:43
+Adicionados:['BGC-00012', 'MFR-00029']
+
+BGC-00012 --> EDP 41.818581 -6.7490811 Bragança Avenida Cidade de León, nº 506 PARKING_LOT
+[{'id': 'BGC-00012-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:48:19.941Z'}]
+[{'id': 'BGC-00012-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:48:19.941Z'}]
+
+MFR-00029 --> EDP 38.981830 -9.419051 Mafra Estr. Nacional 247,  PARKING_LOT
+[{'id': 'MFR-00029-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:41.128Z'}]
+[{'id': 'MFR-00029-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:41.128Z'}]
+Removidos:[]
