@@ -5521,3 +5521,10 @@ ADV-00012-1 evses -> 0: status : CHARGING
 ADV-00013-1 evses -> 0: status : CHARGING
 ADV-00014-1 evses -> 0: status : CHARGING
 BRR-00083-01 evses -> 1: status : CHARGING
+
+2023-08-07 15:36:08
+ABF-00055-02 evses -> 1: status : CHARGING
+ABF-00055-03 evses -> 4: status : CHARGING
+ADV-00013-1 evses -> 0: status : CHARGING
+ADV-00015-1 evses -> 0: status : CHARGING
+BRR-00083-01 evses -> 1: status : CHARGING
