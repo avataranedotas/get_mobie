@@ -3875,3 +3875,11 @@ MFR-00029 --> EDP 38.981830 -9.419051 Mafra Estr. Nacional 247,  PARKING_LOT
 [{'id': 'MFR-00029-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:41.128Z'}]
 [{'id': 'MFR-00029-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:41.128Z'}]
 Removidos:[]
+
+2023-08-07 14:35:59
+Adicionados:['LSB-01542']
+
+LSB-01542 --> GLP 38.705711 -9.208513 Lisboa Avenida da Ilha da Madeira PARKING_LOT
+[{'id': 'LSB-01542-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:37:21.414Z'}]
+[{'id': 'LSB-01542-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:37:21.414Z'}]
+Removidos:[]
