@@ -3919,3 +3919,11 @@ CTB-00028 --> EDP 39.8207978 -7.4965857 Castelo Branco Rua Santiago nº15 PARKIN
 [{'id': 'CTB-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:57:57.359Z'}]
 [{'id': 'CTB-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:57:57.359Z'}]
 Removidos:[]
+
+2023-08-08 14:36:06
+Adicionados:['VRL-00024']
+
+VRL-00024 --> HRZ 41.314201 -9.161746 Vila Real Rua das Torres das Flores PARKING_LOT
+[{'id': 'VRL-00024-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-08T14:06:49.836Z'}]
+[{'id': 'VRL-00024-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-08-08T14:06:49.836Z'}]
+Removidos:[]
