@@ -3895,3 +3895,11 @@ LSB-01544 --> GLP 38.705711 -9.208513 Lisboa Avenida da Ilha da Madeira PARKING_
 [{'id': 'LSB-01544-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:38:02.908Z'}]
 [{'id': 'LSB-01544-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-07T13:38:02.908Z'}]
 Removidos:[]
+
+2023-08-08 10:14:20
+Adicionados:['LGA-00018']
+
+LGA-00018 --> EDP 37.10466 -8.476511 Lagoa (Algarve) RUA VIOLETAS,9008 PARKING_LOT
+[{'id': 'LGA-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:23:32.065Z'}]
+[{'id': 'LGA-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:23:32.066Z'}]
+Removidos:[]

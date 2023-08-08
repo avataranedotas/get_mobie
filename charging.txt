@@ -5688,3 +5688,8 @@ ABF-00055-02 evses -> 1: status : CHARGING
 LSB-00584-02 evses -> 0: status : CHARGING
 LSB-01544-02 evses -> 1: status : CHARGING
 STB-90011-1 evses -> 0: status : CHARGING
+
+2023-08-08 10:14:24
+ABF-00055-02 evses -> 1: status : CHARGING
+LSB-00584-02 evses -> 0: status : CHARGING
+LSB-01544-02 evses -> 1: status : CHARGING
