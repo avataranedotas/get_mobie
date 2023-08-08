@@ -5676,3 +5676,6 @@ LSB-90520-3 evses -> 2: status : CHARGING
 2023-08-08 08:17:30
 GDM-00010-02 evses -> 0: status : CHARGING
 LSB-90520-3 evses -> 2: status : CHARGING
+
+2023-08-08 08:36:12
+GDM-00010-02 evses -> 0: status : CHARGING
