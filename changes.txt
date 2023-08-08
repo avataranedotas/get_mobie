@@ -3927,3 +3927,19 @@ VRL-00024 --> HRZ 41.314201 -9.161746 Vila Real Rua das Torres das Flores PARKIN
 [{'id': 'VRL-00024-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-08T14:06:49.836Z'}]
 [{'id': 'VRL-00024-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-08-08T14:06:49.836Z'}]
 Removidos:[]
+
+2023-08-08 15:14:12
+Adicionados:['TVD-00029', 'VNG-00119', 'VNG-00120']
+
+TVD-00029 --> GLP 39.196107 -9.238233 Torres Vedras AVENIDA DOUTOR AFONSO MOURA GUEDES, CAMPELOS PARKING_LOT
+[{'id': 'TVD-00029-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-01-27T20:43:36.592Z'}]
+[{'id': 'TVD-00029-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-01-27T20:43:36.591Z'}]
+
+VNG-00119 --> GLP 41.127617 -8.612871 Vila Nova de Gaia R. Teixeira Lopes PARKING_LOT
+[{'id': 'VNG-00119-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-08T14:22:04.359Z'}]
+[{'id': 'VNG-00119-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-08T14:22:04.359Z'}]
+
+VNG-00120 --> GLP 41.127617 -8.612871 Vila Nova de Gaia R. Teixeira Lopes PARKING_LOT
+[{'id': 'VNG-00120-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-08T14:20:18.814Z'}]
+[{'id': 'VNG-00120-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-08T14:20:18.814Z'}]
+Removidos:[]
