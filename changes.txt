@@ -3953,3 +3953,9 @@ CSC-00093
 : 
  NEW address : Estrada Nacional 249 - km 4
  OLD address : Estrada Nacional 249 – km 4
+
+2023-08-08 17:36:24
+ETR-00010
+: 
+ NEW address : Área de Serviço - Antuã, A1,  km 254,9
+ OLD address : Área de Serviço – Antuã, A1,  km 254,9
