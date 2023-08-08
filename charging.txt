@@ -5731,3 +5731,10 @@ LSB-90520-6 evses -> 1: status : CHARGING
 LSB-90520-3 evses -> 2: status : CHARGING
 LSB-90520-1 evses -> 5: status : CHARGING
 VIS-00047-02 evses -> 2: status : CHARGING
+
+2023-08-08 13:36:16
+ABF-00067-02 evses -> 1: status : CHARGING
+LSB-90026-2 evses -> 0: status : CHARGING
+LSB-90520-6 evses -> 1: status : CHARGING
+LSB-90520-3 evses -> 2: status : CHARGING
+LSB-90520-1 evses -> 5: status : CHARGING
