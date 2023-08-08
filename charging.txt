@@ -5632,3 +5632,7 @@ LSB-90520-3 evses -> 2: status : CHARGING
 2023-08-08 02:41:13
 LSB-90520-5 evses -> 0: status : CHARGING
 LSB-90520-3 evses -> 2: status : CHARGING
+
+2023-08-08 03:13:59
+LSB-90520-5 evses -> 0: status : CHARGING
+LSB-90520-3 evses -> 2: status : CHARGING
