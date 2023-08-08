@@ -5843,3 +5843,9 @@ BRR-00055-01 evses -> 1: status : CHARGING
 LSB-90520-3 evses -> 2: status : CHARGING
 LSB-90520-2 evses -> 4: status : CHARGING
 PTL-00013-02 evses -> 1: status : CHARGING
+
+2023-08-08 23:13:06
+BRR-00055-01 evses -> 1: status : CHARGING
+LSB-90520-3 evses -> 2: status : CHARGING
+LSB-90520-2 evses -> 4: status : CHARGING
+PTL-00013-02 evses -> 1: status : CHARGING
