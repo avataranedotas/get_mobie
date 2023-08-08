@@ -3903,3 +3903,19 @@ LGA-00018 --> EDP 37.10466 -8.476511 Lagoa (Algarve) RUA VIOLETAS,9008 PARKING_L
 [{'id': 'LGA-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:23:32.065Z'}]
 [{'id': 'LGA-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-06-15T19:23:32.066Z'}]
 Removidos:[]
+
+2023-08-08 11:36:15
+Adicionados:['CSC-00129', 'CTB-00028']
+
+CSC-00129 --> HRZ 38.7103356 -9.3362158 Cascais Lugar Torre da Aguilha, Lote 5 PARKING_LOT
+[{'id': 'CSC-00129-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-17T10:59:57.305Z'}]
+[{'id': 'CSC-00129-06-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-17T10:59:57.309Z'}]
+[{'id': 'CSC-00129-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-17T10:59:57.306Z'}]
+[{'id': 'CSC-00129-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-17T10:59:57.304Z'}]
+[{'id': 'CSC-00129-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-17T10:59:57.307Z'}]
+[{'id': 'CSC-00129-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-17T10:59:57.308Z'}]
+
+CTB-00028 --> EDP 39.8207978 -7.4965857 Castelo Branco Rua Santiago nº15 PARKING_LOT
+[{'id': 'CTB-00028-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:57:57.359Z'}]
+[{'id': 'CTB-00028-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:57:57.359Z'}]
+Removidos:[]

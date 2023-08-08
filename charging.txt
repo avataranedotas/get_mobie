@@ -5703,3 +5703,9 @@ LSB-01544-02 evses -> 1: status : CHARGING
 LSB-01544-02 evses -> 1: status : CHARGING
 LSB-90520-1 evses -> 5: status : CHARGING
 PNI-00010-01 evses -> 1: status : CHARGING
+
+2023-08-08 11:36:20
+ADV-00013-1 evses -> 0: status : CHARGING
+LSB-90520-3 evses -> 2: status : CHARGING
+LSB-90520-1 evses -> 5: status : CHARGING
+STB-90011-2 evses -> 1: status : CHARGING
