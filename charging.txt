@@ -5715,3 +5715,11 @@ ABF-00055-03 evses -> 4: status : CHARGING
 LSB-90520-3 evses -> 2: status : CHARGING
 LSB-90520-1 evses -> 5: status : CHARGING
 VIS-00047-02 evses -> 2: status : CHARGING
+
+2023-08-08 12:51:58
+ABF-00055-02 evses -> 1: status : CHARGING
+CSC-00129-04 evses -> 4: status : CHARGING
+GDM-00033-01 evses -> 1: status : CHARGING
+LSB-90520-3 evses -> 2: status : CHARGING
+LSB-90520-1 evses -> 5: status : CHARGING
+VIS-00047-02 evses -> 2: status : CHARGING
