@@ -5799,3 +5799,10 @@ ADV-00010-1 evses -> 0: status : CHARGING
 ADV-00015-1 evses -> 0: status : CHARGING
 BRR-00116-01 evses -> 1: status : CHARGING
 PTL-00013-02 evses -> 1: status : CHARGING
+
+2023-08-08 18:36:25
+ADV-00008-1 evses -> 0: status : CHARGING
+ADV-00010-1 evses -> 0: status : CHARGING
+BRR-00076-02 evses -> 0: status : CHARGING
+BRR-00116-01 evses -> 1: status : CHARGING
+PTL-00013-02 evses -> 1: status : CHARGING
