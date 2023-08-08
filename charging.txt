@@ -5693,3 +5693,8 @@ STB-90011-1 evses -> 0: status : CHARGING
 ABF-00055-02 evses -> 1: status : CHARGING
 LSB-00584-02 evses -> 0: status : CHARGING
 LSB-01544-02 evses -> 1: status : CHARGING
+
+2023-08-08 10:36:09
+ABF-00055-02 evses -> 1: status : CHARGING
+LSB-00584-02 evses -> 0: status : CHARGING
+LSB-01544-02 evses -> 1: status : CHARGING
