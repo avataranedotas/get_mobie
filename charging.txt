@@ -5817,3 +5817,6 @@ PTL-00013-02 evses -> 1: status : CHARGING
 2023-08-08 19:36:07
 LSB-90520-2 evses -> 4: status : CHARGING
 PTL-00013-02 evses -> 1: status : CHARGING
+
+2023-08-08 20:14:54
+LSB-90520-2 evses -> 4: status : CHARGING
