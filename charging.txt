@@ -5771,3 +5771,11 @@ ADV-00015-1 evses -> 0: status : CHARGING
 CSC-00129-06 evses -> 1: status : CHARGING
 LSB-90520-6 evses -> 1: status : CHARGING
 LSB-90520-2 evses -> 4: status : CHARGING
+
+2023-08-08 16:39:26
+ABF-00067-02 evses -> 1: status : CHARGING
+ADV-00013-1 evses -> 0: status : CHARGING
+ADV-00015-1 evses -> 0: status : CHARGING
+CSC-00129-06 evses -> 1: status : CHARGING
+LSB-90520-6 evses -> 1: status : CHARGING
+PTL-00013-02 evses -> 1: status : CHARGING
