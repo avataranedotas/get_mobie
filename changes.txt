@@ -4033,3 +4033,11 @@ CSC-00129
 evses -> 5 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 80000
+
+2023-08-09 11:11:51
+Adicionados:['LLE-00154']
+
+LLE-00154 --> EDP 37.072931 -8.114214 Loulé Rua do Oceano Atlantico PARKING_LOT
+[{'id': 'LLE-00154-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-09T10:50:13.025Z'}]
+[{'id': 'LLE-00154-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-09T10:50:13.025Z'}]
+Removidos:[]
