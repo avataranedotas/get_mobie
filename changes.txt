@@ -4049,3 +4049,19 @@ ABF-00071 --> EDP 37.0915408 -8.0498326 Albufeira RUA SOLAR AREIAS S. JOÃO PARK
 [{'id': 'ABF-00071-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-09T10:54:34.369Z'}]
 [{'id': 'ABF-00071-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-09T10:54:34.369Z'}]
 Removidos:[]
+
+2023-08-09 14:37:16
+Adicionados:['SNT-00120', 'SNT-00121', 'SNT-00122']
+
+SNT-00120 --> HLX 38.77875 -9.35519 Sintra Estrada Nacional PARKING_LOT
+[{'id': 'SNT-00120-01-02', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:15:12.81Z'}, {'id': 'SNT-00120-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:00:46.731Z'}]
+[{'id': 'SNT-00120-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:00:46.731Z'}]
+
+SNT-00121 --> HLX 38.77875 -9.35519 Sintra Estrada Nacional PARKING_LOT
+[{'id': 'SNT-00121-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-09T14:00:54.626Z'}]
+[{'id': 'SNT-00121-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-09T14:00:54.626Z'}]
+
+SNT-00122 --> HLX 38.77875 -9.35519 Sintra Estrada Nacional PARKING_LOT
+[{'id': 'SNT-00122-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:01:02.805Z'}]
+[{'id': 'SNT-00122-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:01:02.805Z'}, {'id': 'SNT-00122-01-02', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-09T14:16:46.1Z'}]
+Removidos:[]

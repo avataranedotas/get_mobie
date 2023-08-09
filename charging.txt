@@ -5996,3 +5996,12 @@ LSB-90520-2 evses -> 4: status : CHARGING
 NZR-00020-03 evses -> 2: status : CHARGING
 PRT-00198-01 evses -> 0: status : CHARGING
 STB-90011-2 evses -> 1: status : CHARGING
+
+2023-08-09 14:37:21
+BRR-00093-02 evses -> 1: status : CHARGING
+CSC-00105-01 evses -> 1: status : CHARGING
+LSB-90520-4 evses -> 3: status : CHARGING
+LSB-90520-2 evses -> 4: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
+PRT-00198-01 evses -> 0: status : CHARGING
+STB-90011-2 evses -> 1: status : CHARGING
