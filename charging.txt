@@ -6053,3 +6053,12 @@ CSC-00129-06 evses -> 1: status : CHARGING
 PTL-00013-02 evses -> 1: status : CHARGING
 STB-90011-1 evses -> 0: status : CHARGING
 STB-90011-2 evses -> 1: status : CHARGING
+
+2023-08-09 18:37:59
+ABF-00055-02 evses -> 1: status : CHARGING
+CSC-00105-02 evses -> 0: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
+PTL-00013-02 evses -> 1: status : CHARGING
+STB-90011-1 evses -> 0: status : CHARGING
+STB-90011-2 evses -> 1: status : CHARGING
+VIS-00047-02 evses -> 2: status : CHARGING
