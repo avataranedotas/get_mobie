@@ -3959,3 +3959,13 @@ ETR-00010
 : 
  NEW address : Área de Serviço - Antuã, A1,  km 254,9
  OLD address : Área de Serviço – Antuã, A1,  km 254,9
+
+2023-08-09 08:37:16
+VRL-00024
+coordinates: 
+ NEW longitude : -7.7316236
+ OLD longitude : -9.161746
+VRL-00024
+: 
+ NEW coordinates : {'latitude': '41.314201', 'longitude': '-7.7316236'}
+ OLD coordinates : {'latitude': '41.314201', 'longitude': '-9.161746'}
