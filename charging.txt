@@ -6409,3 +6409,11 @@ CSC-00129-03 evses -> 2: status : CHARGING
 LSB-90026-1 evses -> 1: status : CHARGING
 PTM-00034-02 evses -> 0: status : CHARGING
 STB-90011-2 evses -> 1: status : CHARGING
+
+2023-08-10 19:10:48
+BRR-00115-02 evses -> 1: status : CHARGING
+BRR-00116-01 evses -> 1: status : CHARGING
+LSB-90026-1 evses -> 1: status : CHARGING
+NZR-00020-02 evses -> 0: status : CHARGING
+PTM-00034-02 evses -> 0: status : CHARGING
+STB-90011-2 evses -> 1: status : CHARGING
