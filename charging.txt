@@ -6311,3 +6311,12 @@ CSC-00105-02 evses -> 0: status : CHARGING
 LSB-01544-01 evses -> 0: status : CHARGING
 NZR-00020-02 evses -> 0: status : CHARGING
 PRT-00198-01 evses -> 0: status : CHARGING
+
+2023-08-10 13:38:46
+AVV-00006-1 evses -> 0: status : CHARGING
+BRR-00115-02 evses -> 1: status : CHARGING
+CSC-00105-02 evses -> 0: status : CHARGING
+LSB-01544-01 evses -> 0: status : CHARGING
+NZR-00020-02 evses -> 0: status : CHARGING
+PRT-00198-01 evses -> 0: status : CHARGING
+VIS-00047-02 evses -> 2: status : CHARGING
