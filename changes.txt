@@ -4103,3 +4103,15 @@ VNF-00027 --> KLC 41.404278 -8.516889 Vila Nova de Famalicão Praça Mouzinho de
 [{'id': 'VNF-00027-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-03-22T10:56:21.655Z'}]
 [{'id': 'VNF-00027-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-03-22T10:56:21.656Z'}]
 Removidos:[]
+
+2023-08-10 12:29:55
+Adicionados:['VIZ-00007', 'VNF-00028']
+
+VIZ-00007 --> GLP 41.364037 -8.302770 Vizela Ruela Ribeira PARKING_LOT
+[{'id': 'VIZ-00007-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-08-10T12:07:09.413Z'}]
+[{'id': 'VIZ-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-08-10T12:07:09.413Z'}]
+
+VNF-00028 --> KLC 41.410778 -8.507417 Vila Nova de Famalicão R. Fernando Mesquita, UNDERGROUND_GARAGE
+[{'id': 'VNF-00028-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-02-14T18:58:44.928Z'}]
+[{'id': 'VNF-00028-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-14T18:58:44.927Z'}]
+Removidos:[]
