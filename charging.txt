@@ -6184,3 +6184,8 @@ STB-90011-1 evses -> 0: status : CHARGING
 CTB-00028-02 evses -> 0: status : CHARGING
 PTL-00013-01 evses -> 0: status : CHARGING
 STB-90011-1 evses -> 0: status : CHARGING
+
+2023-08-10 06:18:21
+BRR-00115-02 evses -> 1: status : CHARGING
+CTB-00028-02 evses -> 0: status : CHARGING
+PTL-00013-01 evses -> 0: status : CHARGING
