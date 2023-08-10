@@ -4087,3 +4087,11 @@ LGA-00020 --> EDP 37.0932265 -8.4025289 Lagoa (Algarve) Praia de Albandeira PARK
 [{'id': 'LGA-00020-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-09T10:55:04.443Z'}]
 [{'id': 'LGA-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-09T10:55:04.443Z'}]
 Removidos:[]
+
+2023-08-10 10:15:26
+Adicionados:['VFR-00054']
+
+VFR-00054 --> HRZ 40.9291169 -8.5730614 Santa Maria da Feira Rua Dr. Serafim Correia Pinto Guimarães N249 PARKING_LOT
+[{'id': 'VFR-00054-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-21T16:29:28.489Z'}]
+[{'id': 'VFR-00054-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-21T16:29:28.49Z'}]
+Removidos:[]
