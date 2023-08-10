@@ -4169,3 +4169,21 @@ TVD-00027
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 60000
+
+2023-08-10 15:15:08
+Adicionados:['CSC-00131', 'VFR-00053']
+
+CSC-00131 --> HRZ 38.722501 -9.477464 Cascais Estrada do Guincho  PARKING_LOT
+[{'id': 'CSC-00131-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-08-10T14:32:37.896Z'}]
+[{'id': 'CSC-00131-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-10T14:32:37.896Z'}]
+[{'id': 'CSC-00131-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-10T14:32:37.896Z'}]
+[{'id': 'CSC-00131-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-08-10T14:32:37.896Z'}]
+
+VFR-00053 --> HRZ 40.9291169 -8.5730614 Santa Maria da Feira Rua Dr. Serafim Correia Pinto Guimarães N249 PARKING_LOT
+[{'id': 'VFR-00053-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.463Z'}]
+[{'id': 'VFR-00053-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.462Z'}]
+[{'id': 'VFR-00053-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-21T16:29:20.461Z'}]
+[{'id': 'VFR-00053-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-04-21T16:29:20.459Z'}]
+[{'id': 'VFR-00053-06-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.468Z'}]
+[{'id': 'VFR-00053-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.465Z'}]
+Removidos:[]
