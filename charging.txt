@@ -6359,3 +6359,13 @@ PTM-00034-02 evses -> 0: status : CHARGING
 VFR-00053-06 evses -> 4: status : CHARGING
 VIS-00047-01 evses -> 0: status : CHARGING
 VIS-00047-02 evses -> 2: status : CHARGING
+
+2023-08-10 16:18:26
+BRR-00115-02 evses -> 1: status : CHARGING
+BRR-00116-01 evses -> 1: status : CHARGING
+CSC-00105-02 evses -> 0: status : CHARGING
+CSC-00105-01 evses -> 1: status : CHARGING
+LSB-00584-02 evses -> 0: status : CHARGING
+NZR-00020-02 evses -> 0: status : CHARGING
+NZR-00020-03 evses -> 2: status : CHARGING
+VIS-00047-01 evses -> 0: status : CHARGING

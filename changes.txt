@@ -4187,3 +4187,15 @@ VFR-00053 --> HRZ 40.9291169 -8.5730614 Santa Maria da Feira Rua Dr. Serafim Cor
 [{'id': 'VFR-00053-06-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.468Z'}]
 [{'id': 'VFR-00053-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-21T16:29:20.465Z'}]
 Removidos:[]
+
+2023-08-10 16:18:21
+Adicionados:['STB-00058', 'VNG-00122']
+
+STB-00058 --> ECI 38.538056 -8.872500 Setúbal Rua das Caravelas PARKING_LOT
+[{'id': 'STB-00058-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:39:47.696Z'}]
+[{'id': 'STB-00058-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:39:47.696Z'}]
+
+VNG-00122 --> ECI 41.130833 -8.668333 Vila Nova de Gaia Rua da Béligca 86 PARKING_GARAGE
+[{'id': 'VNG-00122-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:38:55.692Z'}]
+[{'id': 'VNG-00122-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:38:55.692Z'}]
+Removidos:[]
