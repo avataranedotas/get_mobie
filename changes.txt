@@ -4127,3 +4127,11 @@ SEI-00007 --> EDP 40.418523 -7.704537 Seia Avenida Primeiro de Maio, 16 PARKING_
 [{'id': 'SEI-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:49:02.586Z'}]
 [{'id': 'SEI-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:49:02.586Z'}]
 Removidos:[]
+
+2023-08-10 14:13:31
+Adicionados:['OBR-00004']
+
+OBR-00004 --> EDP 40.5263781 -8.50726 Oliveira do Bairro Estrada Nacional 235, S/N PARKING_LOT
+[{'id': 'OBR-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:52:48.345Z'}]
+[{'id': 'OBR-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:52:48.345Z'}]
+Removidos:[]
