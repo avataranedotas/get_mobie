@@ -4115,3 +4115,15 @@ VNF-00028 --> KLC 41.410778 -8.507417 Vila Nova de Famalicão R. Fernando Mesqui
 [{'id': 'VNF-00028-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-02-14T18:58:44.928Z'}]
 [{'id': 'VNF-00028-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-02-14T18:58:44.927Z'}]
 Removidos:[]
+
+2023-08-10 13:26:03
+Adicionados:['SEI-00006', 'SEI-00007']
+
+SEI-00006 --> EDP 40.418523 -7.704537 Seia Avenida Primeiro de Maio, 16 PARKING_LOT
+[{'id': 'SEI-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:48:52.53Z'}]
+[{'id': 'SEI-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:48:52.53Z'}]
+
+SEI-00007 --> EDP 40.418523 -7.704537 Seia Avenida Primeiro de Maio, 16 PARKING_LOT
+[{'id': 'SEI-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:49:02.586Z'}]
+[{'id': 'SEI-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T12:49:02.586Z'}]
+Removidos:[]
