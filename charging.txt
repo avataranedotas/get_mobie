@@ -6497,3 +6497,6 @@ VCD-00017-02 evses -> 1: status : CHARGING
 
 2023-08-11 05:12:27
 VCD-00017-02 evses -> 1: status : CHARGING
+
+2023-08-11 05:36:13
+VCD-00017-02 evses -> 1: status : CHARGING
