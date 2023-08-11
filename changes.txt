@@ -4240,3 +4240,13 @@ FEC-00002
 : 
  NEW address : Bairro Samiteiro, Nº 7010 
  OLD address : Bairro Samiteiro, Nº 7010
+
+2023-08-11 15:13:32
+ALQ-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+ALQ-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
