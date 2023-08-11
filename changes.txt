@@ -4224,3 +4224,19 @@ CBR-00073 --> HRZ 40.21864 -8.5853109 Coimbra Estrada Nacional 111 PARKING_LOT
 [{'id': 'CBR-00073-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:46:23.274Z'}]
 [{'id': 'CBR-00073-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:46:23.275Z'}]
 Removidos:[]
+
+2023-08-11 14:11:41
+Adicionados:['CTB-00032']
+
+CTB-00032 --> EDP 40.2735594 -7.5032988 Castelo Branco Avenida da Universidade, 9010 PARKING_LOT
+[{'id': 'CTB-00032-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:57:18.596Z'}]
+[{'id': 'CTB-00032-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:57:18.597Z'}]
+Removidos:[]
+CHT-00001
+: 
+ NEW address : Travessas - Ribeira Seca 
+ OLD address : Travessas – Ribeira Seca
+FEC-00002
+: 
+ NEW address : Bairro Samiteiro, Nº 7010 
+ OLD address : Bairro Samiteiro, Nº 7010
