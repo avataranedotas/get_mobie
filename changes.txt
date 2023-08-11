@@ -4215,3 +4215,12 @@ MGL-00006 --> GLG 40.604607 -7.769002 Mangualde Av. dos Capitães ALONG_MOTORWAY
 [{'id': 'MGL-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-08-07T13:01:05.351Z'}]
 [{'id': 'MGL-00006-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-08-07T13:01:05.351Z'}]
 Removidos:[]
+
+2023-08-11 13:15:27
+Adicionados:['CBR-00073']
+
+CBR-00073 --> HRZ 40.21864 -8.5853109 Coimbra Estrada Nacional 111 PARKING_LOT
+[{'id': 'CBR-00073-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:46:23.272Z'}]
+[{'id': 'CBR-00073-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:46:23.274Z'}]
+[{'id': 'CBR-00073-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-01-27T20:46:23.275Z'}]
+Removidos:[]
