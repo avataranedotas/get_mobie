@@ -6587,3 +6587,6 @@ ABF-00055-03 evses -> 4: status : CHARGING
 
 2023-08-11 23:12:20
 SNT-00119-02 evses -> 1: status : CHARGING
+
+2023-08-11 23:36:20
+SNT-00119-02 evses -> 1: status : CHARGING
