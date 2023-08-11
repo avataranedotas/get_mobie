@@ -6556,3 +6556,6 @@ CBR-00073-01 evses -> 0: status : CHARGING
 
 2023-08-11 14:11:45
 SNT-00122-01 evses -> 1: status : CHARGING
+
+2023-08-11 14:36:18
+SNT-00122-01 evses -> 1: status : CHARGING
