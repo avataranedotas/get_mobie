@@ -6569,3 +6569,9 @@ LGS-00013-02 evses -> 0: status : CHARGING
 BRR-00086-02 evses -> 0: status : CHARGING
 BRR-00116-01 evses -> 1: status : CHARGING
 LGS-00013-02 evses -> 0: status : CHARGING
+
+2023-08-11 16:15:53
+BRR-00086-02 evses -> 0: status : CHARGING
+BRR-00116-01 evses -> 1: status : CHARGING
+CSC-00131-03 evses -> 1: status : CHARGING
+LGS-00013-02 evses -> 0: status : CHARGING
