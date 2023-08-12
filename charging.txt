@@ -6678,3 +6678,7 @@ BRR-00048-02 evses -> 0: status : CHARGING
 CSC-90010-2 evses -> 0: status : CHARGING
 SNT-00119-01 evses -> 0: status : CHARGING
 VNG-00119-02 evses -> 1: status : CHARGING
+
+2023-08-12 19:36:02
+CSC-90010-2 evses -> 0: status : CHARGING
+VNG-00119-02 evses -> 1: status : CHARGING
