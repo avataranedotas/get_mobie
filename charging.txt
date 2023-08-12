@@ -6599,3 +6599,6 @@ SNT-00119-01 evses -> 0: status : CHARGING
 
 2023-08-12 10:12:35
 SNT-00119-01 evses -> 0: status : CHARGING
+
+2023-08-12 10:35:59
+SNT-00119-01 evses -> 0: status : CHARGING
