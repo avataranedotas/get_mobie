@@ -6682,3 +6682,6 @@ VNG-00119-02 evses -> 1: status : CHARGING
 2023-08-12 19:36:02
 CSC-90010-2 evses -> 0: status : CHARGING
 VNG-00119-02 evses -> 1: status : CHARGING
+
+2023-08-12 20:12:21
+VNG-00119-02 evses -> 1: status : CHARGING
