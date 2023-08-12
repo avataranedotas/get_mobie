@@ -6647,3 +6647,8 @@ TVD-00029-01 evses -> 1: status : CHARGING
 
 2023-08-12 15:36:11
 CSC-90010-1 evses -> 1: status : CHARGING
+
+2023-08-12 16:15:29
+BMT-00002-01 evses -> 1: status : CHARGING
+CSC-90010-1 evses -> 1: status : CHARGING
+SNT-00119-02 evses -> 1: status : CHARGING
