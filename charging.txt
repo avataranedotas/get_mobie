@@ -6697,3 +6697,7 @@ CSC-00131-02 evses -> 2: status : CHARGING
 
 2023-08-12 22:11:08
 CSC-00131-02 evses -> 2: status : CHARGING
+
+2023-08-12 22:35:59
+CSC-00131-02 evses -> 2: status : CHARGING
+TVD-00029-02 evses -> 0: status : CHARGING
