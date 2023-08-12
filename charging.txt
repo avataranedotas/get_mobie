@@ -6636,3 +6636,7 @@ CSC-90010-1 evses -> 1: status : CHARGING
 2023-08-12 14:10:33
 BMT-00002-01 evses -> 1: status : CHARGING
 CSC-90010-1 evses -> 1: status : CHARGING
+
+2023-08-12 14:36:09
+BMT-00002-01 evses -> 1: status : CHARGING
+CSC-90010-1 evses -> 1: status : CHARGING
