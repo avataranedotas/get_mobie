@@ -6813,3 +6813,9 @@ SNT-00119-02 evses -> 1: status : CHARGING
 BMT-00002-02 evses -> 0: status : CHARGING
 CSC-90010-1 evses -> 1: status : CHARGING
 SNT-00119-02 evses -> 1: status : CHARGING
+
+2023-08-13 17:10:36
+BMT-00002-02 evses -> 0: status : CHARGING
+BRR-00089-02 evses -> 1: status : CHARGING
+CSC-90010-1 evses -> 1: status : CHARGING
+SNT-00119-02 evses -> 1: status : CHARGING
