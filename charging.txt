@@ -6761,3 +6761,7 @@ VIZ-00007-02 evses -> 1: status : CHARGING
 
 2023-08-13 09:36:16
 SNT-00119-02 evses -> 1: status : CHARGING
+
+2023-08-13 10:12:57
+BRR-00092-01 evses -> 0: status : CHARGING
+VRM-00005-01 evses -> 0: status : CHARGING
