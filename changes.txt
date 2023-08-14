@@ -4308,3 +4308,15 @@ ARV-00008 --> GLP 38.980833 -9.076947 Arruda dos Vinhos Rua João Deus PARKING_L
 [{'id': 'ARV-00008-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-08-14T14:09:32.88Z'}]
 [{'id': 'ARV-00008-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-08-14T14:09:32.88Z'}]
 Removidos:[]
+
+2023-08-14 16:15:08
+Adicionados:['ARV-00009', 'VIS-00079']
+
+ARV-00009 --> GLP 38.9884451 -9.0783223 Arruda dos Vinhos Rua Manuel Policarpo Martins PARKING_LOT
+[{'id': 'ARV-00009-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-08-14T14:09:59.119Z'}]
+[{'id': 'ARV-00009-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-08-14T14:09:59.119Z'}]
+
+VIS-00079 --> GLP 40.6391355 -7.851160 Viseu Rio de Loba Nó 20 (A25) PARKING_LOT
+[{'id': 'VIS-00079-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-14T15:44:36.743Z'}]
+[{'id': 'VIS-00079-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-14T15:44:36.743Z'}]
+Removidos:[]
