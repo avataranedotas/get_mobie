@@ -4272,3 +4272,15 @@ PBL-00016
 : 
  NEW coordinates : {'latitude': '39.93833', 'longitude': '-8.62803'}
  OLD coordinates : {'latitude': '39.938258', 'longitude': '-8.628878'}
+
+2023-08-14 10:36:05
+Adicionados:['VVR-00003']
+
+VVR-00003 --> GLG 39.573067 -7.782295 Vila Velha de Ródão A23 Km 80 - Fratel (N/S) PARKING_LOT
+[{'id': 'VVR-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 180000, 'last_updated': '2023-06-10T11:20:36.885Z'}]
+[{'id': 'VVR-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 180000, 'last_updated': '2023-06-10T11:20:36.883Z'}]
+Removidos:[]
+LRA-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 220000
