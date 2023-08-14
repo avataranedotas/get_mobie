@@ -6923,3 +6923,6 @@ SNT-00119-01 evses -> 0: status : CHARGING
 
 2023-08-14 15:22:08
 LLE-00155-01 evses -> 1: status : CHARGING
+
+2023-08-14 15:36:10
+VVR-00002-02 evses -> 1: status : CHARGING
