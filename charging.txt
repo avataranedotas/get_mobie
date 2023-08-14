@@ -6875,3 +6875,7 @@ CSC-90010-2 evses -> 0: status : CHARGING
 
 2023-08-14 09:13:19
 CSC-90010-2 evses -> 0: status : CHARGING
+
+2023-08-14 09:36:16
+CSC-90010-2 evses -> 0: status : CHARGING
+TVD-00029-01 evses -> 1: status : CHARGING
