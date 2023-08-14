@@ -6906,3 +6906,8 @@ ALM-00062-02 evses -> 1: status : CHARGING
 CSC-90010-1 evses -> 1: status : CHARGING
 PNI-00010-01 evses -> 1: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-14 14:12:18
+ALM-00062-02 evses -> 1: status : CHARGING
+PNI-00010-01 evses -> 1: status : CHARGING
+VVR-00003-02 evses -> 0: status : CHARGING
