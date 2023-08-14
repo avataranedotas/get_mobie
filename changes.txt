@@ -4250,3 +4250,11 @@ ALQ-00009
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2023-08-14 08:36:00
+Adicionados:['LLE-00155']
+
+LLE-00155 --> EDP 37.072931 -8.1142146 Loulé Rua do Oceano Atlântico, PARKING_LOT
+[{'id': 'LLE-00155-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22, 'last_updated': '2023-08-09T10:50:25.483Z'}]
+[{'id': 'LLE-00155-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22, 'last_updated': '2023-08-09T10:50:25.483Z'}]
+Removidos:[]
