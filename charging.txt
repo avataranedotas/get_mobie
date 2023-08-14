@@ -6863,3 +6863,6 @@ SNT-00119-02 evses -> 1: status : CHARGING
 
 2023-08-14 07:12:29
 CSC-90010-2 evses -> 0: status : CHARGING
+
+2023-08-14 07:36:07
+CSC-90010-2 evses -> 0: status : CHARGING
