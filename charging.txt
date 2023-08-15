@@ -6960,3 +6960,6 @@ CMN-00008-01 evses -> 0: status : CHARGING
 2023-08-15 14:11:57
 CMN-00008-01 evses -> 0: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-15 15:12:49
+LGA-00020-02 evses -> 0: status : CHARGING
