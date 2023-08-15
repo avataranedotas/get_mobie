@@ -6982,3 +6982,6 @@ LGA-00020-02 evses -> 0: status : CHARGING
 2023-08-15 17:36:12
 VNF-00028-02 evses -> 0: status : CHARGING
 VVR-00002-02 evses -> 1: status : CHARGING
+
+2023-08-15 23:12:22
+LGA-00020-02 evses -> 0: status : CHARGING
