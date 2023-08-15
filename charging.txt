@@ -6949,3 +6949,7 @@ CBR-00073-01 evses -> 0: status : CHARGING
 2023-08-15 12:48:13
 CMN-00008-01 evses -> 0: status : CHARGING
 VVR-00002-02 evses -> 1: status : CHARGING
+
+2023-08-15 13:15:30
+CMN-00008-01 evses -> 0: status : CHARGING
+VVR-00002-02 evses -> 1: status : CHARGING
