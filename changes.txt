@@ -4344,3 +4344,21 @@ ADV-00015
 : 
  NEW address : Área de Serviço de Almodôvar N/S, km 193 A2
  OLD address : Área de Serviço de Almodôvar S/N, km 193 A2
+
+2023-08-16 10:36:00
+FEC-00002
+: 
+ NEW address : Bairro Samiteiro, Nº 7010  
+ OLD address : Bairro Samiteiro, Nº 7010 
+FEC-00002
+: 
+ NEW city : Freixo de Espada à Cinta
+ OLD city : Freixo de Espada À Cinta
+FEC-90001
+: 
+ NEW address : Av. Guerra Junqueiro  
+ OLD address : Av. Guerra Junqueiro
+FEC-90001
+: 
+ NEW city : Freixo de Espada à Cinta
+ OLD city : Freixo de Espada À Cinta
