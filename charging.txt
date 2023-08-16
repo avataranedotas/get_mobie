@@ -7143,3 +7143,6 @@ SVC-00004-02 evses -> 1: status : CHARGING
 
 2023-08-16 18:36:20
 SVC-00004-02 evses -> 1: status : CHARGING
+
+2023-08-16 19:10:22
+BRR-00102-02 evses -> 1: status : CHARGING
