@@ -7064,3 +7064,8 @@ VNF-00027-02 evses -> 1: status : CHARGING
 SEI-00004-02 evses -> 1: status : CHARGING
 VNF-00027-02 evses -> 1: status : CHARGING
 VVR-00003-01 evses -> 1: status : CHARGING
+
+2023-08-16 10:13:46
+CBR-00073-01 evses -> 0: status : CHARGING
+CBR-00073-01 evses -> 0: status : CHARGING
+VNF-00027-02 evses -> 1: status : CHARGING
