@@ -7049,3 +7049,9 @@ LGA-00020-02 evses -> 0: status : CHARGING
 LGA-00020-02 evses -> 0: status : CHARGING
 SEI-00004-02 evses -> 1: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-16 08:36:09
+LGA-00020-02 evses -> 0: status : CHARGING
+SEI-00004-02 evses -> 1: status : CHARGING
+VNF-00027-02 evses -> 1: status : CHARGING
+VVR-00003-02 evses -> 0: status : CHARGING
