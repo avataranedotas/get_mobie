@@ -4466,3 +4466,13 @@ PSR-90001
 : 
  NEW postal_code : 7400-253
  OLD postal_code : 7400
+
+2023-08-16 13:16:05
+Adicionados:['CHV-00014']
+
+CHV-00014 --> HRZ 41.7613326 -7.4674451 Chaves Rua Joaquim Mazarém PARKING_LOT
+[{'id': 'CHV-00014-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-06-15T23:56:46.035Z'}]
+[{'id': 'CHV-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2023-06-15T23:56:46.033Z'}]
+[{'id': 'CHV-00014-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-06-15T23:56:46.037Z'}]
+[{'id': 'CHV-00014-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-06-15T23:56:46.036Z'}]
+Removidos:[]
