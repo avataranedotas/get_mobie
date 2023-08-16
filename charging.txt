@@ -6993,3 +6993,7 @@ LLE-00155-02 evses -> 0: status : CHARGING
 2023-08-16 00:59:06
 LGA-00020-02 evses -> 0: status : CHARGING
 LLE-00155-02 evses -> 0: status : CHARGING
+
+2023-08-16 01:50:22
+LGA-00020-02 evses -> 0: status : CHARGING
+LLE-00155-02 evses -> 0: status : CHARGING
