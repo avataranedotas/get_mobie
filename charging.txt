@@ -7140,3 +7140,6 @@ VVR-00002-02 evses -> 1: status : CHARGING
 
 2023-08-16 18:16:17
 SVC-00004-02 evses -> 1: status : CHARGING
+
+2023-08-16 18:36:20
+SVC-00004-02 evses -> 1: status : CHARGING
