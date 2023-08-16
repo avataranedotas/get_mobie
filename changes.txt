@@ -4484,3 +4484,11 @@ SRT-00005 --> PRI 39.911452 -8.129701 Sertã Rua Nossa Srª da Confiança Nº 12
 [{'id': 'SRT-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T11:33:53.656Z'}]
 [{'id': 'SRT-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T11:33:53.656Z'}]
 Removidos:[]
+
+2023-08-16 16:17:36
+Adicionados:['LLE-00151']
+
+LLE-00151 --> KLS 37.136944 -8.009222 Loulé Rua Afonso de Albuquerque, EN 270.  PARKING_LOT
+[{'id': 'LLE-00151-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T15:39:15.694Z'}]
+[{'id': 'LLE-00151-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T15:39:15.694Z'}]
+Removidos:[]
