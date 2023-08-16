@@ -4362,3 +4362,107 @@ FEC-90001
 : 
  NEW city : Freixo de Espada à Cinta
  OLD city : Freixo de Espada À Cinta
+
+2023-08-16 11:11:05
+Adicionados:['MLD-00006']
+
+MLD-00006 --> PLG 40.337005 -8.425187 Mealhada Rua Limarinho nº3 PARKING_LOT
+[{'id': 'MLD-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T17:49:21.262Z'}]
+[{'id': 'MLD-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2022-10-31T17:49:21.261Z'}]
+Removidos:[]
+CHT-00001
+: 
+ NEW address : Travessas - Ribeira Seca  
+ OLD address : Travessas - Ribeira Seca 
+CHT-00001
+: 
+ NEW city : Calheta, Azores
+ OLD city : Calheta
+LAG-00001
+: 
+ NEW city : Lagoa, Azores
+ OLD city : Lagoa (Açores)
+LGA-00004
+: 
+ NEW address : Reta Vale de Deus, EN125, km50 ,600
+ OLD address : Reta Vale de Deus, EN125, km50,600
+LGA-00004
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00005
+: 
+ NEW address : Pestana Golf Resort  Gramacho
+ OLD address : Pestana Golf Resort Gramacho
+LGA-00005
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00007
+: 
+ NEW address : Rua Foz do  Arade
+ OLD address : Rua Foz do Arade
+LGA-00007
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00009
+: 
+ NEW address : Estrada Nacional  125
+ OLD address : Estrada Nacional 125
+LGA-00009
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00010
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00014
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00015
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00016
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00017
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-00020
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-90002
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
+LGA-90002
+: 
+ NEW postal_code : 8400-508
+ OLD postal_code : -
+PSR-00002
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de Sor
+PSR-00005
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de Sor
+PSR-00006
+: 
+ NEW address : R. Olivença  10 - A
+ OLD address : R. Olivença 10 - A
+PSR-90001
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de Sor
+PSR-90001
+: 
+ NEW postal_code : 7400-253
+ OLD postal_code : 7400

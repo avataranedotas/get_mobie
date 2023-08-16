@@ -7073,3 +7073,7 @@ VNF-00027-02 evses -> 1: status : CHARGING
 2023-08-16 10:36:05
 BRR-00050-02 evses -> 0: status : CHARGING
 VNF-00027-02 evses -> 1: status : CHARGING
+
+2023-08-16 11:11:10
+BRR-00050-02 evses -> 0: status : CHARGING
+VNF-00027-02 evses -> 1: status : CHARGING
