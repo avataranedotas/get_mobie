@@ -7242,3 +7242,9 @@ LSB-90140-2 evses -> 0: status : CHARGING
 2023-08-17 11:11:10
 CHV-00014-02 evses -> 0: status : CHARGING
 LSB-90140-2 evses -> 0: status : CHARGING
+
+2023-08-17 11:36:09
+CHV-00014-02 evses -> 0: status : CHARGING
+LLE-00155-02 evses -> 0: status : CHARGING
+LSB-90140-2 evses -> 0: status : CHARGING
+MTS-00027-02 evses -> 1: status : CHARGING
