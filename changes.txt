@@ -4492,3 +4492,15 @@ LLE-00151 --> KLS 37.136944 -8.009222 Loulé Rua Afonso de Albuquerque, EN 270. 
 [{'id': 'LLE-00151-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T15:39:15.694Z'}]
 [{'id': 'LLE-00151-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-16T15:39:15.694Z'}]
 Removidos:[]
+
+2023-08-17 10:13:32
+Adicionados:['FAF-00006', 'LGS-00026']
+
+FAF-00006 --> KLS 41.447639 -8.170778 Fafe Rua Monsenhor Vieira de Castro Fafe PARKING_LOT
+[{'id': 'FAF-00006-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:05.008Z'}]
+[{'id': 'FAF-00006-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-12T15:52:05.008Z'}]
+
+LGS-00026 --> EDP 37.104668 -8.476564 Lagos Rua da Violetas PARKING_LOT
+[{'id': 'LGS-00026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-17T09:46:12.433Z'}]
+[{'id': 'LGS-00026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-17T09:46:12.433Z'}]
+Removidos:[]
