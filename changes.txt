@@ -4504,3 +4504,9 @@ LGS-00026 --> EDP 37.104668 -8.476564 Lagos Rua da Violetas PARKING_LOT
 [{'id': 'LGS-00026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-17T09:46:12.433Z'}]
 [{'id': 'LGS-00026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-17T09:46:12.433Z'}]
 Removidos:[]
+
+2023-08-17 13:35:59
+LGA-00018
+: 
+ NEW city : Lagoa, Faro
+ OLD city : Lagoa (Algarve)
