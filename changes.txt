@@ -4510,3 +4510,11 @@ LGA-00018
 : 
  NEW city : Lagoa, Faro
  OLD city : Lagoa (Algarve)
+
+2023-08-17 15:13:10
+Adicionados:['BRG-00084']
+
+BRG-00084 --> EDP 41.5488112 -8.4224407 Braga Largo Carlos Amarante 150, PARKING_GARAGE
+[{'id': 'BRG-00084-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-16T11:00:36.783Z'}]
+[{'id': 'BRG-00084-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-16T11:00:36.783Z'}]
+Removidos:[]

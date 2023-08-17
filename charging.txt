@@ -7280,3 +7280,8 @@ MTS-00027-03 evses -> 0: status : CHARGING
 2023-08-17 14:36:25
 CNT-00013-02 evses -> 1: status : CHARGING
 MTS-00027-03 evses -> 0: status : CHARGING
+
+2023-08-17 15:13:16
+CNT-00013-02 evses -> 1: status : CHARGING
+MTS-00027-03 evses -> 0: status : CHARGING
+OER-00164-1 evses -> 0: status : CHARGING
