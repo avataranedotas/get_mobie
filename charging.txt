@@ -7362,3 +7362,6 @@ MTS-00027-03 evses -> 0: status : CHARGING
 
 2023-08-18 02:17:31
 MTS-00027-03 evses -> 0: status : CHARGING
+
+2023-08-18 02:36:09
+MTS-00027-03 evses -> 0: status : CHARGING
