@@ -4554,3 +4554,10 @@ VIS-00074 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_L
 VIS-00075 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
 [{'id': 'VIS-00075-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:21:08.062Z'}]
 Removidos:[]
+
+2023-08-18 13:15:40
+Adicionados:['VIS-00076']
+
+VIS-00076 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
+[{'id': 'VIS-00076-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:21:13.797Z'}]
+Removidos:[]
