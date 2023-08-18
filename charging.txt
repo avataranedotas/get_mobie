@@ -7393,3 +7393,7 @@ PTM-90001-02 evses -> 1: status : CHARGING
 2023-08-18 11:10:55
 FAF-00006-02 evses -> 1: status : CHARGING
 PTM-90001-02 evses -> 1: status : CHARGING
+
+2023-08-18 11:36:16
+FAF-00006-02 evses -> 1: status : CHARGING
+PTM-90001-02 evses -> 1: status : CHARGING
