@@ -4574,3 +4574,33 @@ LRS-00095 --> KLC 38.777697 -9.1097394 Loures Avenida Capitão Salgueiro Maia PA
 [{'id': 'LRS-00095-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-19T15:33:37.392Z'}]
 [{'id': 'LRS-00095-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-19T15:33:37.39Z'}]
 Removidos:[]
+
+2023-08-18 15:13:13
+BRR-00056
+: 
+ NEW address : Rua São João de Brito 1
+ OLD address : Rua SÃ£o JoÃ£o de Brito 1
+BRR-00088
+: 
+ NEW address : Rua São João Baptista de Ajuda 10
+ OLD address : Rua SÃ£o JoÃ£o Baptista de Ajuda 10
+BRR-00090
+: 
+ NEW address : Rua João de Deus 43
+ OLD address : Rua JoÃ£o de Deus 43
+BRR-00091
+: 
+ NEW address : Praceta Raúl Jorge 4
+ OLD address : Praceta RaÃºl Jorge 4
+BRR-00092
+: 
+ NEW address : Rua São João de Deus 1
+ OLD address : Rua SÃ£o JoÃ£o de Deus 1
+BRR-00093
+: 
+ NEW address : Praceta Gonçalo Mendes da Maia 19
+ OLD address : Praceta GonÃ§alo Mendes da Maia 19
+CMN-00011
+: 
+ NEW address : Av. São João de Deus, 24
+ OLD address : Av. SÃ£o JoÃ£o de Deus, 24
