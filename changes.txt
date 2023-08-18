@@ -4604,3 +4604,13 @@ CMN-00011
 : 
  NEW address : Av. São João de Deus, 24
  OLD address : Av. SÃ£o JoÃ£o de Deus, 24
+
+2023-08-18 15:36:10
+BRR-00029
+: 
+ NEW address : Rua 1º Agosto Paivense 8
+ OLD address : Rua 1Âº Agosto Paivense 8
+BRR-00098
+: 
+ NEW address : Rua 1º de Dezembro 2B
+ OLD address : Rua 1.Âº de Dezembro 2B
