@@ -4614,3 +4614,11 @@ BRR-00098
 : 
  NEW address : Rua 1º de Dezembro 2B
  OLD address : Rua 1.Âº de Dezembro 2B
+
+2023-08-18 16:16:53
+Adicionados:['SJM-00012']
+
+SJM-00012 --> KLC 40.8950711 -8.5026729 São João da Madeira R. António Nicolau Costa 60 PARKING_LOT
+[{'id': 'SJM-00012-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-03T13:37:25.558Z'}]
+[{'id': 'SJM-00012-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-03T13:37:25.56Z'}]
+Removidos:[]
