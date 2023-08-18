@@ -4518,3 +4518,26 @@ BRG-00084 --> EDP 41.5488112 -8.4224407 Braga Largo Carlos Amarante 150, PARKING
 [{'id': 'BRG-00084-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-16T11:00:36.783Z'}]
 [{'id': 'BRG-00084-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-16T11:00:36.783Z'}]
 Removidos:[]
+
+2023-08-18 10:13:47
+Adicionados:['MCN-00008', 'VIS-00068', 'VIS-00069', 'VIS-00070', 'VIS-00071', 'VIS-00072']
+
+MCN-00008 --> KLS 41.177167 -8.150694 Marco de Canaveses Avenida Futebol Clube do Porto PARKING_LOT
+[{'id': 'MCN-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T20:39:21.58Z'}]
+[{'id': 'MCN-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T20:39:21.581Z'}]
+
+VIS-00068 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
+[{'id': 'VIS-00068-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:14.023Z'}]
+
+VIS-00069 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
+[{'id': 'VIS-00069-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:21.616Z'}]
+
+VIS-00070 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
+[{'id': 'VIS-00070-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:27.976Z'}]
+
+VIS-00071 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
+[{'id': 'VIS-00071-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:34.845Z'}]
+
+VIS-00072 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
+[{'id': 'VIS-00072-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:44.984Z'}]
+Removidos:[]
