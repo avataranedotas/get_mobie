@@ -4561,3 +4561,16 @@ Adicionados:['VIS-00076']
 VIS-00076 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
 [{'id': 'VIS-00076-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:21:13.797Z'}]
 Removidos:[]
+
+2023-08-18 14:36:04
+Adicionados:['ETZ-00020', 'LRS-00095']
+
+ETZ-00020 --> EDP 38.835216 -7.682042 Estremoz Herdade das Servas S/N PARKING_LOT
+[{'id': 'ETZ-00020-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-18T14:19:21.275Z'}]
+[{'id': 'ETZ-00020-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-18T14:19:21.275Z'}]
+
+LRS-00095 --> KLC 38.777697 -9.1097394 Loures Avenida Capitão Salgueiro Maia PARKING_LOT
+[{'id': 'LRS-00095-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-19T15:33:37.391Z'}]
+[{'id': 'LRS-00095-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-19T15:33:37.392Z'}]
+[{'id': 'LRS-00095-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-19T15:33:37.39Z'}]
+Removidos:[]
