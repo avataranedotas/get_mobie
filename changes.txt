@@ -4541,3 +4541,16 @@ VIS-00071 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKIN
 VIS-00072 --> GLP 40.655327 -7.926652 Viseu Urbanização, Q.ta do Bosque PARKING_LOT
 [{'id': 'VIS-00072-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T09:27:44.984Z'}]
 Removidos:[]
+
+2023-08-18 12:48:16
+Adicionados:['VIS-00073', 'VIS-00074', 'VIS-00075']
+
+VIS-00073 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
+[{'id': 'VIS-00073-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:20:51.916Z'}]
+
+VIS-00074 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
+[{'id': 'VIS-00074-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:21:01.623Z'}]
+
+VIS-00075 --> GLP 40.697590 -7.911341 Viseu Av. Ten-Cel. Silva Simões PARKING_LOT
+[{'id': 'VIS-00075-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-18T12:21:08.062Z'}]
+Removidos:[]
