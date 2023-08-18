@@ -7375,3 +7375,7 @@ ARV-00009-02 evses -> 1: status : CHARGING
 2023-08-18 09:12:45
 FAF-00006-01 evses -> 0: status : CHARGING
 MLD-00006-02 evses -> 0: status : CHARGING
+
+2023-08-18 09:36:12
+FAF-00006-01 evses -> 0: status : CHARGING
+MLD-00006-02 evses -> 0: status : CHARGING
