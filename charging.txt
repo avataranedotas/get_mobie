@@ -7538,3 +7538,6 @@ LRA-00092-01 evses -> 1: status : CHARGING
 
 2023-08-19 15:11:48
 LRA-00092-01 evses -> 1: status : CHARGING
+
+2023-08-19 15:36:09
+LRA-00092-01 evses -> 1: status : CHARGING
