@@ -7563,3 +7563,6 @@ STB-00058-01 evses -> 0: status : CHARGING
 
 2023-08-20 10:12:24
 LRA-00092-01 evses -> 1: status : CHARGING
+
+2023-08-20 10:36:13
+LRA-00092-01 evses -> 1: status : CHARGING
