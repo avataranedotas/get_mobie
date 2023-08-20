@@ -7603,3 +7603,6 @@ STB-00058-02 evses -> 1: status : CHARGING
 2023-08-20 21:36:05
 CTB-00032-01 evses -> 0: status : CHARGING
 STB-00058-02 evses -> 1: status : CHARGING
+
+2023-08-20 22:11:25
+CTB-00032-01 evses -> 0: status : CHARGING
