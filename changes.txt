@@ -4622,3 +4622,11 @@ SJM-00012 --> KLC 40.8950711 -8.5026729 São João da Madeira R. António Nicola
 [{'id': 'SJM-00012-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-03T13:37:25.558Z'}]
 [{'id': 'SJM-00012-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-03T13:37:25.56Z'}]
 Removidos:[]
+
+2023-08-21 10:14:31
+Adicionados:['MTS-00117']
+
+MTS-00117 --> EDP 41.1903659 -8.5991058 Matosinhos R. Jaime Lopes Amorim s/n PARKING_LOT
+[{'id': 'MTS-00117-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:47:47.957Z'}]
+[{'id': 'MTS-00117-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T18:47:47.957Z'}]
+Removidos:[]
