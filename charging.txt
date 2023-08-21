@@ -7687,3 +7687,7 @@ STB-00058-02 evses -> 1: status : CHARGING
 2023-08-21 17:11:50
 BRG-00057-02 evses -> 1: status : CHARGING
 STB-00058-02 evses -> 1: status : CHARGING
+
+2023-08-21 17:36:16
+BRG-00057-02 evses -> 1: status : CHARGING
+STB-00058-02 evses -> 1: status : CHARGING
