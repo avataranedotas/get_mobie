@@ -7669,3 +7669,6 @@ VIS-00075-01 evses -> 0: status : CHARGING
 
 2023-08-21 12:50:27
 VIS-00075-01 evses -> 0: status : CHARGING
+
+2023-08-21 13:16:52
+VIS-00075-01 evses -> 0: status : CHARGING
