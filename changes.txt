@@ -4644,3 +4644,11 @@ GRD-00026 --> EDP 40.4048571 -7.5240075 Guarda Sitio da Granja Manteigas, 9008 P
 [{'id': 'GRD-00026-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:07:39.542Z'}]
 [{'id': 'GRD-00026-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:07:39.542Z'}]
 Removidos:[]
+
+2023-08-21 14:36:15
+Adicionados:['VNP-00003']
+
+VNP-00003 --> EDP 40.85673 -7.7366773 Vila Nova de Paiva Rua Egas Moniz, nº6 PARKING_LOT
+[{'id': 'VNP-00003-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-30T19:10:00.473Z'}]
+[{'id': 'VNP-00003-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-07-30T19:10:00.473Z'}]
+Removidos:[]
