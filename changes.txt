@@ -4656,3 +4656,11 @@ Removidos:[]
 2023-08-21 15:13:33
 Adicionados:[]
 Removidos:['VNP-00003']
+
+2023-08-21 15:36:09
+Adicionados:['GVA-00004']
+
+GVA-00004 --> EDP 40.4962342 -7.5923343 Gouveia Avenida 1º Maio, S/N PARKING_LOT
+[{'id': 'GVA-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:00:31.375Z'}]
+[{'id': 'GVA-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:00:31.375Z'}]
+Removidos:[]
