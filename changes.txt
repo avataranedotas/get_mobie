@@ -4664,3 +4664,11 @@ GVA-00004 --> EDP 40.4962342 -7.5923343 Gouveia Avenida 1º Maio, S/N PARKING_LO
 [{'id': 'GVA-00004-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:00:31.375Z'}]
 [{'id': 'GVA-00004-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T19:00:31.375Z'}]
 Removidos:[]
+
+2023-08-22 09:12:56
+Adicionados:['VNG-00123']
+
+VNG-00123 --> ECI 41.130833 -8.668333 Vila Nova de Gaia Rua da Béligca 86 PARKING_GARAGE
+[{'id': 'VNG-00123-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-22T08:48:33.259Z'}]
+[{'id': 'VNG-00123-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-22T08:48:33.259Z'}]
+Removidos:[]
