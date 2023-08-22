@@ -7700,3 +7700,6 @@ SNT-00105-01 evses -> 0: status : CHARGING
 
 2023-08-22 09:13:00
 LGS-00018-1 evses -> 0: status : CHARGING
+
+2023-08-22 09:36:10
+LGS-00018-1 evses -> 0: status : CHARGING
