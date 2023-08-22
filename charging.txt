@@ -7703,3 +7703,7 @@ LGS-00018-1 evses -> 0: status : CHARGING
 
 2023-08-22 09:36:10
 LGS-00018-1 evses -> 0: status : CHARGING
+
+2023-08-22 10:14:09
+LGS-00018-1 evses -> 0: status : CHARGING
+TMR-00024-02 evses -> 1: status : CHARGING

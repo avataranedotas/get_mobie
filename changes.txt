@@ -4672,3 +4672,11 @@ VNG-00123 --> ECI 41.130833 -8.668333 Vila Nova de Gaia Rua da Béligca 86 PARKI
 [{'id': 'VNG-00123-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-22T08:48:33.259Z'}]
 [{'id': 'VNG-00123-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-22T08:48:33.259Z'}]
 Removidos:[]
+
+2023-08-22 10:14:05
+Adicionados:['BCL-00020']
+
+BCL-00020 --> HRZ 41.5237908 -8.6259395 Barcelos R. Prof. José Celestino Costa PARKING_LOT
+[{'id': 'BCL-00020-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-04T15:18:58.304Z'}]
+[{'id': 'BCL-00020-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 90000, 'last_updated': '2023-07-04T15:18:58.304Z'}]
+Removidos:[]
