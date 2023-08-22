@@ -7713,3 +7713,6 @@ LGS-00018-1 evses -> 0: status : CHARGING
 
 2023-08-22 11:11:07
 LGS-00018-1 evses -> 0: status : CHARGING
+
+2023-08-22 11:36:07
+LGS-00018-1 evses -> 0: status : CHARGING

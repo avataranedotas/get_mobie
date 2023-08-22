@@ -4680,3 +4680,11 @@ BCL-00020 --> HRZ 41.5237908 -8.6259395 Barcelos R. Prof. José Celestino Costa 
 [{'id': 'BCL-00020-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-04T15:18:58.304Z'}]
 [{'id': 'BCL-00020-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 90000, 'last_updated': '2023-07-04T15:18:58.304Z'}]
 Removidos:[]
+
+2023-08-22 11:36:02
+Adicionados:['TMR-00022']
+
+TMR-00022 --> TRK 39.6049001 -8.40202 Tomar Rua Carlos Maria Pereira, 13 ON_STREET
+[{'id': 'TMR-00022-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:24:23.969Z'}]
+[{'id': 'TMR-00022-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:24:23.969Z'}]
+Removidos:[]
