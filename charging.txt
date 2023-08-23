@@ -7838,3 +7838,6 @@ GRD-00026-02 evses -> 0: status : CHARGING
 
 2023-08-23 09:13:06
 GRD-00026-02 evses -> 0: status : CHARGING
+
+2023-08-23 09:36:16
+GRD-00026-02 evses -> 0: status : CHARGING

@@ -4790,3 +4790,11 @@ VLG-00029
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 100000
+
+2023-08-23 09:36:10
+Adicionados:['BRR-00106']
+
+BRR-00106 --> TRK 38.661589 -9.080797 Barreiro Av. Henrique Galvão 43 ON_STREET
+[{'id': 'BRR-00106-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:17:55.268Z'}]
+[{'id': 'BRR-00106-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:17:55.269Z'}]
+Removidos:[]
