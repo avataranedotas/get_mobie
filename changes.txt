@@ -4810,3 +4810,11 @@ BRR-00100 --> TRK 38.656906 -9.072825 Barreiro Av. Dom Afonso Henriques 9 ON_STR
 [{'id': 'BRR-00100-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:23:49.578Z'}]
 [{'id': 'BRR-00100-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:23:49.578Z'}]
 Removidos:[]
+
+2023-08-23 11:10:50
+Adicionados:['BRR-00112']
+
+BRR-00112 --> TRK 38.651897 -9.067564 Barreiro Rua Poeta Sebastião da Gama 3 ON_STREET
+[{'id': 'BRR-00112-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:19:08.303Z'}]
+[{'id': 'BRR-00112-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:19:08.304Z'}]
+Removidos:[]
