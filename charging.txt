@@ -7880,3 +7880,7 @@ VCD-00013-02 evses -> 0: status : CHARGING
 GRD-00026-02 evses -> 0: status : CHARGING
 LGS-00018-1 evses -> 0: status : CHARGING
 TMR-00024-02 evses -> 1: status : CHARGING
+
+2023-08-23 21:11:39
+LGS-00018-1 evses -> 0: status : CHARGING
+TMR-00024-02 evses -> 1: status : CHARGING
