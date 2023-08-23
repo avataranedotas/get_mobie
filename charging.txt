@@ -7870,3 +7870,8 @@ VCD-00014-02 evses -> 1: status : CHARGING
 
 2023-08-23 19:36:05
 TMR-00024-02 evses -> 1: status : CHARGING
+
+2023-08-23 20:13:18
+LGS-00018-1 evses -> 0: status : CHARGING
+TMR-00024-02 evses -> 1: status : CHARGING
+VCD-00013-02 evses -> 0: status : CHARGING

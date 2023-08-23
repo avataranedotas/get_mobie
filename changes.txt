@@ -4861,3 +4861,11 @@ BRR-00051 --> TRK 38.646097 -9.054756 Barreiro Rua Dom LuÃÂ­s de AtaÃÂ�
 [{'id': 'BRR-00051-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.737Z'}]
 [{'id': 'BRR-00051-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.737Z'}]
 Removidos:[]
+
+2023-08-23 20:13:12
+Adicionados:['BRR-00117']
+
+BRR-00117 --> TRK 38.636897 -9.038181 Barreiro Rua do Algarve 9 ON_STREET
+[{'id': 'BRR-00117-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:20:05.503Z'}]
+[{'id': 'BRR-00117-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-22T16:20:05.502Z'}]
+Removidos:[]
