@@ -7860,3 +7860,6 @@ LGS-00017-1 evses -> 0: status : CHARGING
 
 2023-08-23 17:11:22
 LGS-00017-1 evses -> 0: status : CHARGING
+
+2023-08-23 18:14:49
+VCD-00012-02 evses -> 1: status : CHARGING
