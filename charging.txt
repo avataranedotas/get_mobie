@@ -7787,3 +7787,7 @@ VIS-00068-01 evses -> 0: status : CHARGING
 BRG-00084-02 evses -> 1: status : CHARGING
 SNT-00105-01 evses -> 0: status : CHARGING
 VIS-00068-01 evses -> 0: status : CHARGING
+
+2023-08-23 03:13:41
+BRG-00084-02 evses -> 1: status : CHARGING
+VIS-00068-01 evses -> 0: status : CHARGING
