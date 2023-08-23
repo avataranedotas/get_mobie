@@ -7803,3 +7803,7 @@ VIS-00068-01 evses -> 0: status : CHARGING
 2023-08-23 04:35:58
 BRG-00084-02 evses -> 1: status : CHARGING
 VIS-00068-01 evses -> 0: status : CHARGING
+
+2023-08-23 05:12:03
+BRG-00084-02 evses -> 1: status : CHARGING
+VIS-00068-01 evses -> 0: status : CHARGING
