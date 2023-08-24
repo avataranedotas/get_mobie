@@ -4975,3 +4975,12 @@ TVD-00030
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 60000
+
+2023-08-24 17:11:51
+Adicionados:['OBR-00003']
+
+OBR-00003 --> KLC 40.5080709 -8.4859759 Oliveira do Bairro Rua São Sebastião EN235, Qt. S. Sebastião PARKING_LOT
+[{'id': 'OBR-00003-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-06-27T10:39:09.233Z'}]
+[{'id': 'OBR-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T10:39:09.232Z'}]
+[{'id': 'OBR-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:39:09.235Z'}]
+Removidos:[]
