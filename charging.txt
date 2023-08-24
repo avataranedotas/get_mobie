@@ -7949,3 +7949,9 @@ BRG-00084-02 evses -> 1: status : CHARGING
 MFR-00029-02 evses -> 0: status : CHARGING
 VCD-00014-02 evses -> 1: status : CHARGING
 VIS-00074-01 evses -> 0: status : CHARGING
+
+2023-08-24 19:10:36
+BRG-00084-01 evses -> 0: status : CHARGING
+MFR-00029-02 evses -> 0: status : CHARGING
+VIS-00074-01 evses -> 0: status : CHARGING
+VIS-00076-01 evses -> 0: status : CHARGING
