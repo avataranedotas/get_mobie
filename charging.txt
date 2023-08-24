@@ -7977,3 +7977,7 @@ SNT-00105-01 evses -> 0: status : CHARGING
 
 2023-08-24 22:12:23
 VFR-00054-02 evses -> 1: status : CHARGING
+
+2023-08-24 22:36:00
+VFR-00054-02 evses -> 1: status : CHARGING
+VNG-00120-01 evses -> 1: status : CHARGING
