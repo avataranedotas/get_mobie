@@ -4906,3 +4906,9 @@ BRR-00095
 : 
  NEW address : Rua José Saramago 17
  OLD address : Rua JosÃÂ© Saramago 17
+
+2023-08-24 10:36:07
+BRR-00051
+: 
+ NEW address : Rua Dom LuÃ­s de AtaÃ­de 6
+ OLD address : Rua Dom LuÃÂ­s de AtaÃÂ­de 6
