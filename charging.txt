@@ -7981,3 +7981,7 @@ VFR-00054-02 evses -> 1: status : CHARGING
 2023-08-24 22:36:00
 VFR-00054-02 evses -> 1: status : CHARGING
 VNG-00120-01 evses -> 1: status : CHARGING
+
+2023-08-24 23:13:06
+VFR-00054-02 evses -> 1: status : CHARGING
+VNG-00120-01 evses -> 1: status : CHARGING
