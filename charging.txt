@@ -7908,3 +7908,6 @@ BRG-00081-02 evses -> 1: status : CHARGING
 
 2023-08-24 13:16:37
 VCD-00014-02 evses -> 1: status : CHARGING
+
+2023-08-24 14:12:20
+SNT-00105-01 evses -> 0: status : CHARGING
