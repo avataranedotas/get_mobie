@@ -7905,3 +7905,6 @@ GRD-00026-02 evses -> 0: status : CHARGING
 
 2023-08-24 11:36:14
 BRG-00081-02 evses -> 1: status : CHARGING
+
+2023-08-24 13:16:37
+VCD-00014-02 evses -> 1: status : CHARGING
