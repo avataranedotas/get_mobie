@@ -4941,3 +4941,11 @@ BRR-00094 --> TRK 38.659358 -9.064761 Barreiro Rua dos Açores 30 ON_STREET
 [{'id': 'BRR-00094-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:50:00.897Z'}]
 [{'id': 'BRR-00094-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:50:00.897Z'}]
 Removidos:[]
+
+2023-08-24 15:13:51
+Adicionados:['VCT-00041']
+
+VCT-00041 --> NRG 41.640046 -8.769702 Viana do Castelo R. C Neiva PARKING_LOT
+[{'id': 'VCT-00041-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-08-24T13:19:43.514Z'}]
+[{'id': 'VCT-00041-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 184000, 'last_updated': '2023-08-24T13:19:43.514Z'}]
+Removidos:[]
