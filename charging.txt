@@ -7966,3 +7966,7 @@ VIS-00076-01 evses -> 0: status : CHARGING
 BRG-00084-01 evses -> 0: status : CHARGING
 VIS-00074-01 evses -> 0: status : CHARGING
 VIS-00076-01 evses -> 0: status : CHARGING
+
+2023-08-24 20:36:11
+BRG-00084-01 evses -> 0: status : CHARGING
+VIS-00076-01 evses -> 0: status : CHARGING
