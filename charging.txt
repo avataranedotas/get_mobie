@@ -7890,3 +7890,6 @@ SNT-00105-01 evses -> 0: status : CHARGING
 
 2023-08-24 00:59:19
 VCD-00013-01 evses -> 1: status : CHARGING
+
+2023-08-24 06:17:32
+VCD-00014-02 evses -> 1: status : CHARGING
