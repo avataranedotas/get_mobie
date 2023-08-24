@@ -4912,3 +4912,15 @@ BRR-00051
 : 
  NEW address : Rua Dom LuÃ­s de AtaÃ­de 6
  OLD address : Rua Dom LuÃÂ­s de AtaÃÂ­de 6
+
+2023-08-24 11:10:55
+Adicionados:['BRR-00049', 'BRR-00127']
+
+BRR-00049 --> TRK 38.645408 -9.05745 Barreiro Rua de Goa 54 ON_STREET
+[{'id': 'BRR-00049-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:44.992Z'}]
+[{'id': 'BRR-00049-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:13:44.992Z'}]
+
+BRR-00127 --> TRK 38.654211 -9.069814 Barreiro Av. Dom Afonso Henriques 59 ON_STREET
+[{'id': 'BRR-00127-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-08-24T10:29:00.962Z'}]
+[{'id': 'BRR-00127-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-24T10:29:00.962Z'}]
+Removidos:[]
