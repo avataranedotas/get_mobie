@@ -8115,3 +8115,7 @@ VNG-00123-01 evses -> 1: status : CHARGING
 BJA-00026-03 evses -> 0: status : CHARGING
 LSB-90122-01 evses -> 0: status : CHARGING
 VNG-00123-01 evses -> 1: status : CHARGING
+
+2023-08-25 14:23:50
+BJA-00026-03 evses -> 0: status : CHARGING
+VNG-00123-01 evses -> 1: status : CHARGING
