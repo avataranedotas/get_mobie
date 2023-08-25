@@ -8062,3 +8062,6 @@ VNG-00120-01 evses -> 1: status : CHARGING
 
 2023-08-25 09:12:51
 VNG-00120-01 evses -> 1: status : CHARGING
+
+2023-08-25 09:36:11
+VNG-00120-01 evses -> 1: status : CHARGING

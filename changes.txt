@@ -4984,3 +4984,10 @@ OBR-00003 --> KLC 40.5080709 -8.4859759 Oliveira do Bairro Rua São Sebastião E
 [{'id': 'OBR-00003-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T10:39:09.232Z'}]
 [{'id': 'OBR-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:39:09.235Z'}]
 Removidos:[]
+
+2023-08-25 09:36:06
+Adicionados:['PESTANA-CASINO-03']
+
+PESTANA-CASINO-03 --> GLP 32.644648 -16.918112 Funchal Av. do Infante 9 PARKING_GARAGE
+[{'id': 'PESTANA-CASINO-03-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 220, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-25T09:19:26.418Z'}]
+Removidos:[]
