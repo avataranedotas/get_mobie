@@ -4991,3 +4991,11 @@ Adicionados:['PESTANA-CASINO-03']
 PESTANA-CASINO-03 --> GLP 32.644648 -16.918112 Funchal Av. do Infante 9 PARKING_GARAGE
 [{'id': 'PESTANA-CASINO-03-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 220, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-25T09:19:26.418Z'}]
 Removidos:[]
+
+2023-08-25 11:10:46
+Adicionados:['TND-00007']
+
+TND-00007 --> PRI 40.5818045 -8.0809926 Tondela Tv. Campo de Futebol 20, Simavia ON_STREET
+[{'id': 'TND-00007-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-03-22T11:11:36.802Z'}]
+[{'id': 'TND-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-03-22T11:11:36.801Z'}]
+Removidos:[]
