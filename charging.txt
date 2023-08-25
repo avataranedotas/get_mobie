@@ -8079,3 +8079,6 @@ VNG-00120-01 evses -> 1: status : CHARGING
 2023-08-25 11:10:52
 LSB-90122-01 evses -> 0: status : CHARGING
 VNG-00120-01 evses -> 1: status : CHARGING
+
+2023-08-25 11:36:07
+LSB-90122-01 evses -> 0: status : CHARGING
