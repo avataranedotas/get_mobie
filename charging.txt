@@ -8094,3 +8094,6 @@ TND-00007-02 evses -> 0: status : CHARGING
 2023-08-25 12:13:57
 BJA-00026-01 evses -> 2: status : CHARGING
 LSB-90122-01 evses -> 0: status : CHARGING
+
+2023-08-25 12:25:53
+LSB-90122-01 evses -> 0: status : CHARGING
