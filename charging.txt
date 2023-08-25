@@ -8122,3 +8122,7 @@ VNG-00123-01 evses -> 1: status : CHARGING
 
 2023-08-25 14:36:10
 BJA-00026-03 evses -> 0: status : CHARGING
+
+2023-08-25 17:11:47
+BJA-00026-01 evses -> 2: status : CHARGING
+VCD-00015-02 evses -> 1: status : CHARGING
