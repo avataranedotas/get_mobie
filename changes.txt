@@ -4999,3 +4999,15 @@ TND-00007 --> PRI 40.5818045 -8.0809926 Tondela Tv. Campo de Futebol 20, Simavia
 [{'id': 'TND-00007-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-03-22T11:11:36.802Z'}]
 [{'id': 'TND-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-03-22T11:11:36.801Z'}]
 Removidos:[]
+
+2023-08-25 13:36:05
+Adicionados:['GMR-00102', 'GMR-00106']
+
+GMR-00102 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de Camões, Piso -1 PARKING_GARAGE
+[{'id': 'GMR-00102-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2023-06-15T19:18:15.273Z'}]
+[{'id': 'GMR-00102-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2023-06-15T19:18:15.272Z'}]
+
+GMR-00106 --> EDP 41.4229705 -8.3561823 Guimarães Lugar De Lameirinho, SN PARKING_LOT
+[{'id': 'GMR-00106-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-25T13:25:08.593Z'}]
+[{'id': 'GMR-00106-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-25T13:25:08.593Z'}]
+Removidos:[]
