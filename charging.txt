@@ -8059,3 +8059,6 @@ VNG-00120-01 evses -> 1: status : CHARGING
 VCD-00012-02 evses -> 1: status : CHARGING
 VCD-00013-02 evses -> 0: status : CHARGING
 VNG-00120-01 evses -> 1: status : CHARGING
+
+2023-08-25 09:12:51
+VNG-00120-01 evses -> 1: status : CHARGING
