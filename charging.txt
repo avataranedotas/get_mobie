@@ -8009,3 +8009,8 @@ VNG-00120-01 evses -> 1: status : CHARGING
 SNT-00105-01 evses -> 0: status : CHARGING
 VFR-00054-02 evses -> 1: status : CHARGING
 VNG-00120-01 evses -> 1: status : CHARGING
+
+2023-08-25 03:36:14
+SNT-00105-01 evses -> 0: status : CHARGING
+VFR-00054-02 evses -> 1: status : CHARGING
+VNG-00120-01 evses -> 1: status : CHARGING
