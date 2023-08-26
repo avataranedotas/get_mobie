@@ -8206,3 +8206,6 @@ LGA-00018-02 evses -> 1: status : CHARGING
 
 2023-08-26 09:11:38
 LGA-00018-02 evses -> 1: status : CHARGING
+
+2023-08-26 11:10:20
+VFR-00061-01 evses -> 1: status : CHARGING
