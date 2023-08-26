@@ -8147,3 +8147,7 @@ LGA-00018-02 evses -> 1: status : CHARGING
 2023-08-26 00:58:12
 ABT-00024-02 evses -> 0: status : CHARGING
 LGA-00018-02 evses -> 1: status : CHARGING
+
+2023-08-26 01:47:58
+ABT-00024-02 evses -> 0: status : CHARGING
+LGA-00018-02 evses -> 1: status : CHARGING
