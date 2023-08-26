@@ -8234,3 +8234,6 @@ LGA-00019-02 evses -> 0: status : CHARGING
 
 2023-08-26 15:12:02
 LGA-00019-02 evses -> 0: status : CHARGING
+
+2023-08-26 15:36:20
+LGA-00019-02 evses -> 0: status : CHARGING
