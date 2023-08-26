@@ -8215,3 +8215,7 @@ VFR-00061-01 evses -> 1: status : CHARGING
 
 2023-08-26 12:23:29
 LSB-90025-01 evses -> 0: status : CHARGING
+
+2023-08-26 12:45:43
+LGA-00019-02 evses -> 0: status : CHARGING
+LSB-90025-01 evses -> 0: status : CHARGING
