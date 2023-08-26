@@ -8246,3 +8246,6 @@ ETZ-00020-01 evses -> 1: status : CHARGING
 
 2023-08-26 20:36:11
 ETZ-00020-01 evses -> 1: status : CHARGING
+
+2023-08-26 22:11:26
+PRT-00197-01 evses -> 1: status : CHARGING
