@@ -8257,3 +8257,7 @@ PRT-00197-01 evses -> 1: status : CHARGING
 2023-08-26 23:12:36
 GMR-00102-02 evses -> 0: status : CHARGING
 PRT-00197-01 evses -> 1: status : CHARGING
+
+2023-08-26 23:37:15
+GMR-00102-02 evses -> 0: status : CHARGING
+PRT-00197-01 evses -> 1: status : CHARGING
