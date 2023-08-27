@@ -8306,3 +8306,6 @@ PRT-00197-01 evses -> 1: status : CHARGING
 
 2023-08-27 10:12:55
 VCT-00041-01 evses -> 1: status : CHARGING
+
+2023-08-27 10:36:04
+VCT-00041-01 evses -> 1: status : CHARGING
