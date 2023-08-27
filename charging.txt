@@ -8321,3 +8321,7 @@ VVR-00003-02 evses -> 0: status : CHARGING
 
 2023-08-27 15:12:02
 LSB-90025-02 evses -> 1: status : CHARGING
+
+2023-08-27 22:11:35
+PRT-00197-01 evses -> 1: status : CHARGING
+VVR-00003-02 evses -> 0: status : CHARGING
