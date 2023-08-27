@@ -8312,3 +8312,6 @@ VCT-00041-01 evses -> 1: status : CHARGING
 
 2023-08-27 11:10:02
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-27 11:36:05
+VVR-00003-02 evses -> 0: status : CHARGING
