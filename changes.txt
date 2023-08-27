@@ -5019,3 +5019,53 @@ VFR-00061 --> GLP 40.967994 -8.552656 Santa Maria da Feira GALP - Travessa do Su
 [{'id': 'VFR-00061-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:33.985Z'}]
 [{'id': 'VFR-00061-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:33.983Z'}]
 Removidos:[]
+
+2023-08-27 03:13:25
+CSC-90012
+evses -> 0: 
+ NEW uid : CSC-90012-3
+ OLD uid : CSC-90012-2
+CSC-90012
+evses -> 0: 
+ NEW evse_id : PT*HRZ*E*CSC*90012*3
+ OLD evse_id : PT*HRZ*E*CSC*90012*2
+CSC-90012
+evses -> 0 -> connectors -> 0: 
+ NEW id : CSC-90012-03-01
+ OLD id : CSC-90012-02-01
+CSC-90012
+evses -> 1: 
+ NEW uid : CSC-90012-4
+ OLD uid : CSC-90012-3
+CSC-90012
+evses -> 1: 
+ NEW evse_id : PT*HRZ*E*CSC*90012*4
+ OLD evse_id : PT*HRZ*E*CSC*90012*3
+CSC-90012
+evses -> 1 -> connectors -> 0: 
+ NEW id : CSC-90012-04-01
+ OLD id : CSC-90012-03-01
+CSC-90012
+evses -> 2: 
+ NEW uid : CSC-90012-1
+ OLD uid : CSC-90012-4
+CSC-90012
+evses -> 2: 
+ NEW evse_id : PT*HRZ*E*CSC*90012*1
+ OLD evse_id : PT*HRZ*E*CSC*90012*4
+CSC-90012
+evses -> 2 -> connectors -> 0: 
+ NEW id : CSC-90012-01-01
+ OLD id : CSC-90012-04-01
+CSC-90012
+evses -> 3: 
+ NEW uid : CSC-90012-2
+ OLD uid : CSC-90012-1
+CSC-90012
+evses -> 3: 
+ NEW evse_id : PT*HRZ*E*CSC*90012*2
+ OLD evse_id : PT*HRZ*E*CSC*90012*1
+CSC-90012
+evses -> 3 -> connectors -> 0: 
+ NEW id : CSC-90012-02-01
+ OLD id : CSC-90012-01-01
