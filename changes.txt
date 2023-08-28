@@ -5085,3 +5085,10 @@ MIR-00005 --> TRK 40.456133 -8.79865 Mira Rua das Pontes ON_STREET
 [{'id': 'MIR-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.735Z'}]
 [{'id': 'MIR-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.735Z'}]
 Removidos:[]
+
+2023-08-28 15:13:56
+Adicionados:['PCT-00002']
+
+PCT-00002 --> REP 40.670334 -7.707972 Penalva do Castelo Estrada Nacional 309, 57 PARKING_LOT
+[{'id': 'PCT-00002-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-28T14:26:13.011Z'}]
+Removidos:[]
