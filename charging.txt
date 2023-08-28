@@ -8388,3 +8388,6 @@ SLV-00010-01 evses -> 0: status : CHARGING
 
 2023-08-28 11:11:07
 SLV-00010-01 evses -> 0: status : CHARGING
+
+2023-08-28 11:36:01
+SLV-00010-01 evses -> 0: status : CHARGING
