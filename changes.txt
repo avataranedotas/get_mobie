@@ -5069,3 +5069,11 @@ CSC-90012
 evses -> 3 -> connectors -> 0: 
  NEW id : CSC-90012-02-01
  OLD id : CSC-90012-01-01
+
+2023-08-28 10:36:17
+Adicionados:['ACB-00008']
+
+ACB-00008 --> EDP 39.5427822 -9.032169 Alcobaça Hotel Vale da Azenha, Rua da Barrada nº39 PARKING_LOT
+[{'id': 'ACB-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
+[{'id': 'ACB-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
+Removidos:[]
