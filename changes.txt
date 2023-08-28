@@ -5092,3 +5092,12 @@ Adicionados:['PCT-00002']
 PCT-00002 --> REP 40.670334 -7.707972 Penalva do Castelo Estrada Nacional 309, 57 PARKING_LOT
 [{'id': 'PCT-00002-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-28T14:26:13.011Z'}]
 Removidos:[]
+
+2023-08-28 15:36:15
+Adicionados:['BRB-00002']
+
+BRB-00002 --> KLC 38.8095491 -7.4505409 Borba Avenida D. Dinis de Melo e Castro EN 255 PARKING_LOT
+[{'id': 'BRB-00002-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-08-28T15:10:54.138Z'}]
+[{'id': 'BRB-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-28T15:10:54.138Z'}]
+[{'id': 'BRB-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-28T15:10:54.138Z'}]
+Removidos:[]
