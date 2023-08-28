@@ -8411,3 +8411,8 @@ PRT-00197-01 evses -> 1: status : CHARGING
 BRB-00002-02 evses -> 0: status : CHARGING
 PRT-00197-02 evses -> 0: status : CHARGING
 PRT-00197-01 evses -> 1: status : CHARGING
+
+2023-08-28 16:17:48
+PRT-00197-02 evses -> 0: status : CHARGING
+PRT-00197-01 evses -> 1: status : CHARGING
+VVR-00003-02 evses -> 0: status : CHARGING

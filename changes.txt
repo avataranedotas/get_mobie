@@ -5101,3 +5101,77 @@ BRB-00002 --> KLC 38.8095491 -7.4505409 Borba Avenida D. Dinis de Melo e Castro 
 [{'id': 'BRB-00002-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-28T15:10:54.138Z'}]
 [{'id': 'BRB-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-28T15:10:54.138Z'}]
 Removidos:[]
+
+2023-08-28 16:17:43
+TND-00007
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+TND-00007
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VCD-00012
+coordinates: 
+ NEW latitude : 41.288810
+ OLD latitude : 41.288928
+VCD-00012
+coordinates: 
+ NEW longitude : -8.704776
+ OLD longitude : -8.702743
+VCD-00012
+: 
+ NEW coordinates : {'latitude': '41.288810', 'longitude': '-8.704776'}
+ OLD coordinates : {'latitude': '41.288928', 'longitude': '-8.702743'}
+VCD-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+VCD-00013
+coordinates: 
+ NEW latitude : 41.288810
+ OLD latitude : 41.288928
+VCD-00013
+coordinates: 
+ NEW longitude : -8.704776
+ OLD longitude : -8.702743
+VCD-00013
+: 
+ NEW coordinates : {'latitude': '41.288810', 'longitude': '-8.704776'}
+ OLD coordinates : {'latitude': '41.288928', 'longitude': '-8.702743'}
+VCD-00014
+coordinates: 
+ NEW latitude : 41.288928
+ OLD latitude : 41.28881
+VCD-00014
+coordinates: 
+ NEW longitude : -8.702743
+ OLD longitude : -8.704776
+VCD-00014
+: 
+ NEW coordinates : {'latitude': '41.288928', 'longitude': '-8.702743'}
+ OLD coordinates : {'latitude': '41.28881', 'longitude': '-8.704776'}
+VCD-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+VCD-00015
+coordinates: 
+ NEW latitude : 41.288928
+ OLD latitude : 41.28881
+VCD-00015
+coordinates: 
+ NEW longitude : -8.702743
+ OLD longitude : -8.704776
+VCD-00015
+: 
+ NEW coordinates : {'latitude': '41.288928', 'longitude': '-8.702743'}
+ OLD coordinates : {'latitude': '41.28881', 'longitude': '-8.704776'}
+VIS-00047
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VIS-00047
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
