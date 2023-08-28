@@ -8436,3 +8436,7 @@ VVR-00003-02 evses -> 0: status : CHARGING
 GMR-00090-01 evses -> 1: status : CHARGING
 PRT-00197-02 evses -> 0: status : CHARGING
 PRT-00197-01 evses -> 1: status : CHARGING
+
+2023-08-28 18:36:11
+GMR-00090-01 evses -> 1: status : CHARGING
+PRT-00197-01 evses -> 1: status : CHARGING
