@@ -5404,3 +5404,12 @@ GMR-00088
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 13800
  OLD max_electric_power : 8300
+
+2023-08-29 14:36:10
+Adicionados:['VFL-00002']
+
+VFL-00002 --> EDP 41.3072083 -7.1539275 Vila Flor Rua Miguel Corte Real, S/N PARKING_LOT
+[{'id': 'VFL-00002-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:39.726Z'}]
+[{'id': 'VFL-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:34:39.733Z'}]
+[{'id': 'VFL-00002-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:39.73Z'}]
+Removidos:[]
