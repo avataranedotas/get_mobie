@@ -8522,3 +8522,6 @@ VNP-00002-02 evses -> 0: status : CHARGING
 
 2023-08-29 20:14:17
 BCL-00020-01 evses -> 1: status : CHARGING
+
+2023-08-29 21:11:49
+PRT-00197-01 evses -> 1: status : CHARGING
