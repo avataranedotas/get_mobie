@@ -5184,3 +5184,13 @@ BRG-00083 --> SDB 41.536023 -8.430323 Braga Rua da Mouta PARKING_LOT
 [{'id': 'BRG-00083-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-10T14:42:57.865Z'}]
 [{'id': 'BRG-00083-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-10T14:42:57.865Z'}]
 Removidos:[]
+
+2023-08-29 09:13:40
+VVR-00002
+: 
+ NEW address : A23 Km 80 - A.S. VILA VELHA RODÃO (N/S) 
+ OLD address : A23 Km 80 - Fratel (S/N)
+VVR-00003
+: 
+ NEW address : A23 Km 80 - A.S. VILA VELHA RODÃO (S/N)
+ OLD address : A23 Km 80 - Fratel (N/S)
