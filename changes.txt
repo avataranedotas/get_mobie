@@ -5194,3 +5194,213 @@ VVR-00003
 : 
  NEW address : A23 Km 80 - A.S. VILA VELHA RODÃO (S/N)
  OLD address : A23 Km 80 - Fratel (N/S)
+
+2023-08-29 13:36:02
+GMR-00055
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00055
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00055
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00055
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00056
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00056
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00056
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00056
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00057
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00057
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 11000
+GMR-00057
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00057
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 11000
+GMR-00058
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00058
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00058
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00058
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00059
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00059
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00059
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00059
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00062
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00062
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00062
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00062
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00063
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00063
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00063
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00063
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00066
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00066
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00066
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00066
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00068
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00068
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00068
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00068
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00069
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00069
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00069
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00070
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00070
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00070
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00070
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00071
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00071
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00071
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00071
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00088
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00088
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300
+GMR-00088
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00088
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13800
+ OLD max_electric_power : 8300

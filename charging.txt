@@ -8488,3 +8488,7 @@ LSB-00612-02 evses -> 0: status : CHARGING
 2023-08-29 13:17:19
 LSB-00612-02 evses -> 0: status : CHARGING
 LSB-00612-02 evses -> 0: status : CHARGING
+
+2023-08-29 13:36:06
+LSB-00612-02 evses -> 0: status : CHARGING
+LSB-00612-02 evses -> 0: status : CHARGING
