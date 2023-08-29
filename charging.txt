@@ -8466,3 +8466,7 @@ GMR-00090-01 evses -> 1: status : CHARGING
 
 2023-08-28 22:12:27
 GMR-00090-01 evses -> 1: status : CHARGING
+
+2023-08-29 11:11:04
+LSB-00612-02 evses -> 0: status : CHARGING
+LSB-00612-02 evses -> 0: status : CHARGING
