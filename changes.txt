@@ -5413,3 +5413,12 @@ VFL-00002 --> EDP 41.3072083 -7.1539275 Vila Flor Rua Miguel Corte Real, S/N PAR
 [{'id': 'VFL-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:34:39.733Z'}]
 [{'id': 'VFL-00002-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:34:39.73Z'}]
 Removidos:[]
+
+2023-08-29 15:36:14
+Adicionados:['VMS-00002']
+
+VMS-00002 --> EDP 41.58953 -6.527867 Vimioso Avenida de Alcanices, S/N - EN 218 PARKING_LOT
+[{'id': 'VMS-00002-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-08-29T15:17:13.788Z'}]
+[{'id': 'VMS-00002-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-08-29T15:17:13.788Z'}]
+[{'id': 'VMS-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-08-29T15:17:13.788Z'}]
+Removidos:[]
