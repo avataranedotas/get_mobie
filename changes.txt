@@ -5422,3 +5422,12 @@ VMS-00002 --> EDP 41.58953 -6.527867 Vimioso Avenida de Alcanices, S/N - EN 218 
 [{'id': 'VMS-00002-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-08-29T15:17:13.788Z'}]
 [{'id': 'VMS-00002-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-08-29T15:17:13.788Z'}]
 Removidos:[]
+
+2023-08-30 12:50:58
+Adicionados:['MCD-00003']
+
+MCD-00003 --> EDP 41.5390516 -6.9603753 Macedo de Cavaleiros PRAÇA DOUTOR CARLOS SA MIRANDA PARKING_LOT
+[{'id': 'MCD-00003-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:43:30.551Z'}]
+[{'id': 'MCD-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:43:30.554Z'}]
+[{'id': 'MCD-00003-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:43:30.552Z'}]
+Removidos:[]
