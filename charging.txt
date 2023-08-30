@@ -8658,3 +8658,6 @@ SRT-00005-01 evses -> 0: status : CHARGING
 MTJ-00035-04 evses -> 0: status : CHARGING
 PRT-00197-01 evses -> 1: status : CHARGING
 SRT-00005-01 evses -> 0: status : CHARGING
+
+2023-08-30 19:11:02
+SRT-00005-01 evses -> 0: status : CHARGING
