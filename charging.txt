@@ -8628,3 +8628,8 @@ VVR-00003-02 evses -> 0: status : CHARGING
 
 2023-08-30 15:36:29
 SRT-00005-01 evses -> 0: status : CHARGING
+
+2023-08-30 16:17:57
+MTJ-00035-04 evses -> 0: status : CHARGING
+PFR-00010-02 evses -> 1: status : CHARGING
+SRT-00005-01 evses -> 0: status : CHARGING

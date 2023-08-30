@@ -5504,3 +5504,13 @@ ALD-00004
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 100000
+
+2023-08-30 16:17:52
+MTJ-00035
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 100000
+MTJ-00035
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 100000
