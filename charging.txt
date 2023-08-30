@@ -8555,3 +8555,6 @@ PRT-00197-01 evses -> 1: status : CHARGING
 
 2023-08-30 04:36:10
 PRT-00197-01 evses -> 1: status : CHARGING
+
+2023-08-30 05:12:46
+PRT-00197-01 evses -> 1: status : CHARGING
