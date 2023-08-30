@@ -8612,3 +8612,6 @@ MCD-00003-03 evses -> 1: status : CHARGING
 
 2023-08-30 13:16:47
 GMR-00106-02 evses -> 1: status : CHARGING
+
+2023-08-30 14:12:11
+ALD-00004-01 evses -> 2: status : CHARGING

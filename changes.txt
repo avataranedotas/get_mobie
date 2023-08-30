@@ -5431,3 +5431,12 @@ MCD-00003 --> EDP 41.5390516 -6.9603753 Macedo de Cavaleiros PRAÇA DOUTOR CARLO
 [{'id': 'MCD-00003-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-01-27T20:43:30.554Z'}]
 [{'id': 'MCD-00003-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:43:30.552Z'}]
 Removidos:[]
+
+2023-08-30 14:12:05
+Adicionados:['ALD-00004']
+
+ALD-00004 --> HRZ 40.6073947 -6.8267805 Almeida Largo 25 de Abril de 1974 PARKING_LOT
+[{'id': 'ALD-00004-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-21T16:27:15.662Z'}]
+[{'id': 'ALD-00004-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2023-04-21T16:27:15.661Z'}]
+[{'id': 'ALD-00004-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2023-04-21T16:27:15.66Z'}]
+Removidos:[]
