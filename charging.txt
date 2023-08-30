@@ -8615,3 +8615,8 @@ GMR-00106-02 evses -> 1: status : CHARGING
 
 2023-08-30 14:12:11
 ALD-00004-01 evses -> 2: status : CHARGING
+
+2023-08-30 14:36:06
+ALD-00004-02 evses -> 1: status : CHARGING
+MTJ-00035-02 evses -> 1: status : CHARGING
+OBR-00003-02 evses -> 0: status : CHARGING
