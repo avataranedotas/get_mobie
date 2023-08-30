@@ -5518,3 +5518,13 @@ evses -> 3 -> connectors -> 0:
 2023-08-30 16:38:39
 Adicionados:[]
 Removidos:['ACB-00008', 'FIG-00016', 'NZR-00023']
+
+2023-08-30 17:11:58
+OBR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 60000
+OBR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
