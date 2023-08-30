@@ -8625,3 +8625,6 @@ OBR-00003-02 evses -> 0: status : CHARGING
 MTJ-00035-04 evses -> 0: status : CHARGING
 OBR-00003-02 evses -> 0: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-30 15:36:29
+SRT-00005-01 evses -> 0: status : CHARGING
