@@ -8669,3 +8669,7 @@ OBR-00003-03 evses -> 2: status : CHARGING
 2023-08-30 21:12:35
 ABF-00071-02 evses -> 1: status : CHARGING
 OBR-00003-03 evses -> 2: status : CHARGING
+
+2023-08-30 21:36:18
+ABF-00071-02 evses -> 1: status : CHARGING
+OBR-00003-03 evses -> 2: status : CHARGING
