@@ -5514,3 +5514,7 @@ MTJ-00035
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 100000
+
+2023-08-30 16:38:39
+Adicionados:[]
+Removidos:['ACB-00008', 'FIG-00016', 'NZR-00023']
