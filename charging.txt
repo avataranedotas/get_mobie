@@ -8653,3 +8653,8 @@ BCL-00020-01 evses -> 1: status : CHARGING
 PFR-00010-02 evses -> 1: status : CHARGING
 PRT-00197-01 evses -> 1: status : CHARGING
 SRT-00005-01 evses -> 0: status : CHARGING
+
+2023-08-30 18:36:24
+MTJ-00035-04 evses -> 0: status : CHARGING
+PRT-00197-01 evses -> 1: status : CHARGING
+SRT-00005-01 evses -> 0: status : CHARGING
