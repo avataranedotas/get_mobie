@@ -5547,3 +5547,13 @@ PFR-00008 --> HRZ 41.2830472 -8.386118 Paços de Ferreira Lugar Do Marco, S/N, M
 [{'id': 'PFR-00008-04-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
 [{'id': 'PFR-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
 Removidos:[]
+
+2023-08-31 14:12:44
+Adicionados:['PFR-00007']
+
+PFR-00007 --> HRZ 41.2830472 -8.386118 Paços de Ferreira Lugar Do Marco, S/N, Meixomil PARKING_LOT
+[{'id': 'PFR-00007-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
+[{'id': 'PFR-00007-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
+[{'id': 'PFR-00007-04-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
+[{'id': 'PFR-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
+Removidos:[]
