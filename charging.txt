@@ -8702,3 +8702,8 @@ VFL-00002-03 evses -> 1: status : CHARGING
 2023-08-31 08:36:08
 AMD-00028-01 evses -> 0: status : CHARGING
 VFL-00002-03 evses -> 1: status : CHARGING
+
+2023-08-31 09:13:43
+AMD-00028-01 evses -> 0: status : CHARGING
+PFR-00010-02 evses -> 1: status : CHARGING
+VFL-00002-03 evses -> 1: status : CHARGING
