@@ -5537,3 +5537,13 @@ MGR-00008 --> HRZ 39.5037302 -8.9266593 Marinha Grande R. 25 de Abril 28 30 PARK
 [{'id': 'MGR-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-29T17:00:27.322Z'}]
 [{'id': 'MGR-00008-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2023-01-27T20:43:48.539Z'}]
 Removidos:[]
+
+2023-08-31 13:36:10
+Adicionados:['PFR-00008']
+
+PFR-00008 --> HRZ 41.2830472 -8.386118 Paços de Ferreira Lugar Do Marco, S/N, Meixomil PARKING_LOT
+[{'id': 'PFR-00008-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
+[{'id': 'PFR-00008-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
+[{'id': 'PFR-00008-04-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
+[{'id': 'PFR-00008-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-04-13T16:59:16.549Z'}]
+Removidos:[]
