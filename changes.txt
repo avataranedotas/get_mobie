@@ -5557,3 +5557,21 @@ PFR-00007 --> HRZ 41.2830472 -8.386118 Paços de Ferreira Lugar Do Marco, S/N, M
 [{'id': 'PFR-00007-04-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
 [{'id': 'PFR-00007-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2023-08-31T13:54:21.683Z'}]
 Removidos:[]
+
+2023-08-31 16:18:05
+LSB-00328
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+LSB-00328
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+LSB-00408
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+LSB-00408
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
