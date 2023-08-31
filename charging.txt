@@ -8741,3 +8741,7 @@ MTJ-00035-04 evses -> 0: status : CHARGING
 
 2023-08-31 16:18:11
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-31 17:12:11
+BRG-00083-03 evses -> 1: status : CHARGING
+VVR-00003-02 evses -> 0: status : CHARGING
