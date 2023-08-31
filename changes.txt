@@ -5575,3 +5575,11 @@ LSB-00408
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 43000
+
+2023-08-31 17:36:36
+Adicionados:['NZR-00023']
+
+NZR-00023 --> KLC 39.535317 -9.082054 Nazaré Rua do Camarção-Famalicão PARKING_LOT
+[{'id': 'NZR-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-31T16:59:33.126Z'}]
+[{'id': 'NZR-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-31T16:59:33.126Z'}]
+Removidos:[]
