@@ -8712,3 +8712,7 @@ VFL-00002-03 evses -> 1: status : CHARGING
 AMD-00028-01 evses -> 0: status : CHARGING
 PFR-00010-02 evses -> 1: status : CHARGING
 VFL-00002-03 evses -> 1: status : CHARGING
+
+2023-08-31 10:14:34
+AMD-00028-01 evses -> 0: status : CHARGING
+SJM-00012-02 evses -> 1: status : CHARGING
