@@ -8725,3 +8725,7 @@ SJM-00012-02 evses -> 1: status : CHARGING
 MTJ-00035-02 evses -> 1: status : CHARGING
 SJM-00012-02 evses -> 1: status : CHARGING
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-08-31 11:36:02
+MTJ-00035-04 evses -> 0: status : CHARGING
+OBR-00004-01 evses -> 0: status : CHARGING
