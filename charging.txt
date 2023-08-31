@@ -8735,3 +8735,6 @@ MGR-00008-02 evses -> 1: status : CHARGING
 
 2023-08-31 13:16:48
 MGR-00008-01 evses -> 2: status : CHARGING
+
+2023-08-31 15:13:59
+MTJ-00035-04 evses -> 0: status : CHARGING
