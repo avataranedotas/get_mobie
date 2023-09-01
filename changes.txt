@@ -5591,3 +5591,12 @@ VFR-00063 --> GLP 40.980233 -8.559695 Santa Maria da Feira GALP - Rua Padre AntÃ
 [{'id': 'VFR-00063-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:52.128Z'}]
 [{'id': 'VFR-00063-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:52.13Z'}]
 Removidos:[]
+
+2023-09-01 11:36:13
+Adicionados:['VFR-00056']
+
+VFR-00056 --> GLP 40.929017 -8.547181 Santa Maria da Feira GALP - Rua Dr. CÃ¢ndido Pinho ON_STREET
+[{'id': 'VFR-00056-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-04-24T12:03:42.195Z'}]
+[{'id': 'VFR-00056-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-04-24T12:03:42.193Z'}]
+[{'id': 'VFR-00056-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-04-24T12:03:42.194Z'}]
+Removidos:[]
