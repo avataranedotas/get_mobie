@@ -8765,3 +8765,7 @@ MFR-00003-2 evses -> 0: status : CHARGING
 2023-09-01 13:36:23
 BRR-00049-01 evses -> 0: status : CHARGING
 MFR-00003-2 evses -> 0: status : CHARGING
+
+2023-09-01 14:12:27
+BRR-00049-01 evses -> 0: status : CHARGING
+MFR-00003-2 evses -> 0: status : CHARGING
