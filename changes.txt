@@ -5583,3 +5583,11 @@ NZR-00023 --> KLC 39.535317 -9.082054 Nazaré Rua do Camarção-Famalicão PARKI
 [{'id': 'NZR-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-31T16:59:33.126Z'}]
 [{'id': 'NZR-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-31T16:59:33.126Z'}]
 Removidos:[]
+
+2023-09-01 09:13:18
+Adicionados:['VFR-00063']
+
+VFR-00063 --> GLP 40.980233 -8.559695 Santa Maria da Feira GALP - Rua Padre António Inácio, Vale ON_STREET
+[{'id': 'VFR-00063-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:52.128Z'}]
+[{'id': 'VFR-00063-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-04-24T12:04:52.13Z'}]
+Removidos:[]
