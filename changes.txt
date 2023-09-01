@@ -5600,3 +5600,12 @@ VFR-00056 --> GLP 40.929017 -8.547181 Santa Maria da Feira GALP - Rua Dr. Cândi
 [{'id': 'VFR-00056-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-04-24T12:03:42.193Z'}]
 [{'id': 'VFR-00056-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-04-24T12:03:42.194Z'}]
 Removidos:[]
+
+2023-09-01 15:13:42
+Adicionados:['VFR-00055']
+
+VFR-00055 --> GLP 40.924165 -8.561079 Santa Maria da Feira GALP - Avenida Doutor Francisco Sá Carneiro ON_STREET
+[{'id': 'VFR-00055-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-09-01T14:45:21.66Z'}]
+[{'id': 'VFR-00055-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-09-01T14:45:21.66Z'}]
+[{'id': 'VFR-00055-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-09-01T14:45:21.66Z'}]
+Removidos:[]
