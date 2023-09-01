@@ -8754,3 +8754,6 @@ BCL-00020-01 evses -> 1: status : CHARGING
 
 2023-08-31 19:09:15
 VVR-00003-02 evses -> 0: status : CHARGING
+
+2023-09-01 09:36:07
+MFR-00003-2 evses -> 0: status : CHARGING
