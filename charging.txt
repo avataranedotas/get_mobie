@@ -8842,3 +8842,8 @@ LRS-00095-02 evses -> 0: status : CHARGING
 
 2023-09-02 10:12:41
 LRS-00095-02 evses -> 0: status : CHARGING
+
+2023-09-02 10:36:14
+ASL-00012-02 evses -> 1: status : CHARGING
+BRR-00100-02 evses -> 1: status : CHARGING
+LRS-00095-02 evses -> 0: status : CHARGING
