@@ -8870,3 +8870,8 @@ ASL-00012-03 evses -> 0: status : CHARGING
 ASL-00012-02 evses -> 1: status : CHARGING
 BRR-00051-01 evses -> 1: status : CHARGING
 BRR-00095-02 evses -> 1: status : CHARGING
+
+2023-09-02 14:36:19
+ASL-00012-02 evses -> 1: status : CHARGING
+BRR-00051-01 evses -> 1: status : CHARGING
+BRR-00095-02 evses -> 1: status : CHARGING
