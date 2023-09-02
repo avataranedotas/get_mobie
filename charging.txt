@@ -8893,3 +8893,6 @@ VIS-00071-01 evses -> 0: status : CHARGING
 
 2023-09-02 17:10:50
 LLE-00154-01 evses -> 1: status : CHARGING
+
+2023-09-02 17:36:11
+LLE-00154-01 evses -> 1: status : CHARGING
