@@ -8908,3 +8908,6 @@ VFR-00046-02 evses -> 1: status : CHARGING
 
 2023-09-03 09:36:18
 BRR-00106-02 evses -> 1: status : CHARGING
+
+2023-09-03 10:12:59
+BRR-00106-02 evses -> 1: status : CHARGING
