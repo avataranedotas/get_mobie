@@ -8971,3 +8971,6 @@ BRR-00109-01 evses -> 0: status : CHARGING
 2023-09-03 18:36:20
 BRR-00106-02 evses -> 1: status : CHARGING
 BRR-00109-01 evses -> 0: status : CHARGING
+
+2023-09-03 19:10:01
+BRR-00106-02 evses -> 1: status : CHARGING
