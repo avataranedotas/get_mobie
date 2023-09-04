@@ -9036,3 +9036,6 @@ VIS-00073-01 evses -> 0: status : CHARGING
 
 2023-09-04 13:36:18
 BRR-00106-01 evses -> 0: status : CHARGING
+
+2023-09-04 14:12:44
+BRR-00106-01 evses -> 0: status : CHARGING
