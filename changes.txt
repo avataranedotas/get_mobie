@@ -5710,3 +5710,49 @@ LSB-91100
 : 
  NEW coordinates : {'latitude': '38.749500', 'longitude': '-9.149744'}
  OLD coordinates : {'latitude': '38.7486111', 'longitude': '-9.1488889'}
+
+2023-09-04 17:11:57
+LSB-00492
+coordinates: 
+ NEW latitude : 38.732206
+ OLD latitude : 38.7321634
+LSB-00492
+coordinates: 
+ NEW longitude : -9.150750
+ OLD longitude : -9.152972
+LSB-00492
+: 
+ NEW coordinates : {'latitude': '38.732206', 'longitude': '-9.150750'}
+ OLD coordinates : {'latitude': '38.7321634', 'longitude': '-9.152972'}
+LSB-00492
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00492
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LSB-00492
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00492
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LSB-00493
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00493
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LSB-00493
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00493
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
