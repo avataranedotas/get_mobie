@@ -5628,3 +5628,11 @@ LLE-00155
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 22
+
+2023-09-04 13:36:14
+Adicionados:['VFR-00071']
+
+VFR-00071 --> GLP 40.975294 -8.484643 Santa Maria da Feira GALP - Rua da Ponte ON_STREET
+[{'id': 'VFR-00071-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-05T08:15:43.503Z'}]
+[{'id': 'VFR-00071-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-05T08:15:43.502Z'}]
+Removidos:[]
