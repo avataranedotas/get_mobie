@@ -9055,3 +9055,7 @@ BRR-00053-01 evses -> 1: status : CHARGING
 BRR-00106-01 evses -> 0: status : CHARGING
 LLE-00154-01 evses -> 1: status : CHARGING
 VFR-00055-01 evses -> 0: status : CHARGING
+
+2023-09-04 16:37:28
+BRR-00106-01 evses -> 0: status : CHARGING
+LLE-00154-01 evses -> 1: status : CHARGING
