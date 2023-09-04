@@ -5636,3 +5636,77 @@ VFR-00071 --> GLP 40.975294 -8.484643 Santa Maria da Feira GALP - Rua da Ponte O
 [{'id': 'VFR-00071-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-05T08:15:43.503Z'}]
 [{'id': 'VFR-00071-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-05T08:15:43.502Z'}]
 Removidos:[]
+
+2023-09-04 15:13:37
+AMD-00047
+coordinates: 
+ NEW latitude : 38.748203
+ OLD latitude : 38.748534
+AMD-00047
+coordinates: 
+ NEW longitude : -9.229398
+ OLD longitude : -9.229654
+AMD-00047
+: 
+ NEW coordinates : {'latitude': '38.748203', 'longitude': '-9.229398'}
+ OLD coordinates : {'latitude': '38.748534', 'longitude': '-9.229654'}
+LSB-00052
+coordinates: 
+ NEW latitude : 38.784526
+ OLD latitude : 38.785265
+LSB-00052
+coordinates: 
+ NEW longitude : -9.099876
+ OLD longitude : -9.099528
+LSB-00052
+: 
+ NEW coordinates : {'latitude': '38.784526', 'longitude': '-9.099876'}
+ OLD coordinates : {'latitude': '38.785265', 'longitude': '-9.099528'}
+LSB-00201
+coordinates: 
+ NEW latitude : 38.705220
+ OLD latitude : 38.705214
+LSB-00201
+coordinates: 
+ NEW longitude : -9.174446
+ OLD longitude : -9.174461
+LSB-00201
+: 
+ NEW coordinates : {'latitude': '38.705220', 'longitude': '-9.174446'}
+ OLD coordinates : {'latitude': '38.705214', 'longitude': '-9.174461'}
+LSB-00205
+coordinates: 
+ NEW latitude : 38.764143
+ OLD latitude : 38.764124
+LSB-00205
+coordinates: 
+ NEW longitude : -9.096754
+ OLD longitude : -9.096736
+LSB-00205
+: 
+ NEW coordinates : {'latitude': '38.764143', 'longitude': '-9.096754'}
+ OLD coordinates : {'latitude': '38.764124', 'longitude': '-9.096736'}
+LSB-90064
+coordinates: 
+ NEW latitude : 38.748950
+ OLD latitude : 38.748943
+LSB-90064
+coordinates: 
+ NEW longitude : -9.138045
+ OLD longitude : -9.138053
+LSB-90064
+: 
+ NEW coordinates : {'latitude': '38.748950', 'longitude': '-9.138045'}
+ OLD coordinates : {'latitude': '38.748943', 'longitude': '-9.138053'}
+LSB-91100
+coordinates: 
+ NEW latitude : 38.749500
+ OLD latitude : 38.7486111
+LSB-91100
+coordinates: 
+ NEW longitude : -9.149744
+ OLD longitude : -9.1488889
+LSB-91100
+: 
+ NEW coordinates : {'latitude': '38.749500', 'longitude': '-9.149744'}
+ OLD coordinates : {'latitude': '38.7486111', 'longitude': '-9.1488889'}
