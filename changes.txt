@@ -5618,3 +5618,13 @@ VFR-00075 --> GLP 40.933372 -8.577915 Santa Maria da Feira R. Interior ao Europa
 [{'id': 'VFR-00075-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 43000, 'last_updated': '2023-09-01T14:45:58.646Z'}]
 [{'id': 'VFR-00075-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 45000, 'last_updated': '2023-09-01T14:45:58.646Z'}]
 Removidos:[]
+
+2023-09-04 09:14:03
+LLE-00155
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 22
+LLE-00155
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 22
