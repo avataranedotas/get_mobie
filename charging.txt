@@ -9144,3 +9144,8 @@ TRF-00009-01 evses -> 1: status : CHARGING
 BRG-00006-02 evses -> 0: status : CHARGING
 BRG-00006-01 evses -> 1: status : CHARGING
 TRF-00009-01 evses -> 1: status : CHARGING
+
+2023-09-05 17:12:17
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+TRF-00009-01 evses -> 1: status : CHARGING
