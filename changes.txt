@@ -5773,3 +5773,11 @@ BRR-00105 --> KLC 38.6545269 -9.0783676 Barreiro Av. da Liberdade PARKING_LOT
 [{'id': 'BRR-00105-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:09:20.798Z'}]
 [{'id': 'BRR-00105-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:09:20.796Z'}]
 Removidos:[]
+
+2023-09-05 12:26:37
+Adicionados:['PFR-00006']
+
+PFR-00006 --> KLC 41.2767674 -8.3831903 Paços de Ferreira Rua Dr. Queirós Ribeiro 34 PARKING_LOT
+[{'id': 'PFR-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-08-23T16:34:14.773Z'}]
+[{'id': 'PFR-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-08-23T16:34:14.773Z'}]
+Removidos:[]
