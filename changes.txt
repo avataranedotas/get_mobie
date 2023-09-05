@@ -5967,3 +5967,11 @@ VFR-00071
 : 
  NEW coordinates : {'latitude': '40.976044', 'longitude': '-8.483062'}
  OLD coordinates : {'latitude': '40.975294', 'longitude': '-8.484643'}
+
+2023-09-05 16:18:03
+Adicionados:['GDM-00030']
+
+GDM-00030 --> GLG 41.195953 -8.576209 Gondomar R. Dom Afonso Henriques Km 1,8 PARKING_LOT
+[{'id': 'GDM-00030-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-09-05T15:56:35.998Z'}]
+[{'id': 'GDM-00030-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-09-05T15:56:35.998Z'}]
+Removidos:[]
