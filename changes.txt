@@ -5781,3 +5781,189 @@ PFR-00006 --> KLC 41.2767674 -8.3831903 Paços de Ferreira Rua Dr. Queirós Ribe
 [{'id': 'PFR-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-08-23T16:34:14.773Z'}]
 [{'id': 'PFR-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-08-23T16:34:14.773Z'}]
 Removidos:[]
+
+2023-09-05 15:13:57
+SXL-00024
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00024
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00027
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00027
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00027
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 190
+ OLD max_amperage : 120
+SXL-00027
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 60000
+SXL-00027
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00027
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 180000
+SXL-00028
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 190
+ OLD max_amperage : 120
+SXL-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 60000
+SXL-00028
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 950
+SXL-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 190
+SXL-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 180000
+SXL-00029
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00029
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 950
+SXL-00029
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 100
+SXL-00029
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+SXL-00029
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 120
+SXL-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+SXL-00030
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SXL-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 120
+SXL-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+SXL-00030
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SXL-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 950
+SXL-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 100
+SXL-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+SXL-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 950
+SXL-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 190
+SXL-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 190
+ OLD max_amperage : 120
+SXL-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 950
+SXL-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 190
+SXL-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 180000
+SXL-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+SXL-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 190
+ OLD max_amperage : 120
+SXL-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 60000
+VFR-00071
+: 
+ NEW address : GALP - R. Fornos 156 
+ OLD address : GALP - Rua da Ponte
+VFR-00071
+coordinates: 
+ NEW latitude : 40.976044
+ OLD latitude : 40.975294
+VFR-00071
+coordinates: 
+ NEW longitude : -8.483062
+ OLD longitude : -8.484643
+VFR-00071
+: 
+ NEW coordinates : {'latitude': '40.976044', 'longitude': '-8.483062'}
+ OLD coordinates : {'latitude': '40.975294', 'longitude': '-8.484643'}
