@@ -5765,3 +5765,11 @@ BRR-00104 --> KLC 38.6545269 -9.0783676 Barreiro Av. da Liberdade PARKING_LOT
 [{'id': 'BRR-00104-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-06-27T10:08:26.615Z'}]
 [{'id': 'BRR-00104-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:08:26.616Z'}]
 Removidos:[]
+
+2023-09-05 10:36:08
+Adicionados:['BRR-00105']
+
+BRR-00105 --> KLC 38.6545269 -9.0783676 Barreiro Av. da Liberdade PARKING_LOT
+[{'id': 'BRR-00105-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:09:20.798Z'}]
+[{'id': 'BRR-00105-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-27T10:09:20.796Z'}]
+Removidos:[]
