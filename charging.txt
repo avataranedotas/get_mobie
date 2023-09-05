@@ -9152,3 +9152,7 @@ TRF-00009-01 evses -> 1: status : CHARGING
 
 2023-09-05 17:36:17
 BRG-00006-02 evses -> 0: status : CHARGING
+
+2023-09-05 18:17:17
+BRG-00006-02 evses -> 0: status : CHARGING
+NZR-00022-01 evses -> 0: status : CHARGING
