@@ -9101,3 +9101,6 @@ BRR-00109-01 evses -> 0: status : CHARGING
 2023-09-05 10:36:12
 ASL-00012-03 evses -> 0: status : CHARGING
 BRR-00109-01 evses -> 0: status : CHARGING
+
+2023-09-05 11:11:12
+BRR-00109-01 evses -> 0: status : CHARGING
