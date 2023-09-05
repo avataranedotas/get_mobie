@@ -9160,3 +9160,8 @@ NZR-00022-01 evses -> 0: status : CHARGING
 2023-09-05 18:36:15
 BRG-00006-02 evses -> 0: status : CHARGING
 NZR-00022-01 evses -> 0: status : CHARGING
+
+2023-09-05 19:10:54
+BRG-00006-02 evses -> 0: status : CHARGING
+NZR-00022-01 evses -> 0: status : CHARGING
+VFR-00055-02 evses -> 1: status : CHARGING
