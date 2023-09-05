@@ -9121,3 +9121,7 @@ VFR-00055-02 evses -> 1: status : CHARGING
 
 2023-09-05 13:36:10
 NZR-00023-02 evses -> 0: status : CHARGING
+
+2023-09-05 14:12:30
+BRG-00006-01 evses -> 1: status : CHARGING
+NZR-00023-02 evses -> 0: status : CHARGING
