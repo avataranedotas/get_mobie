@@ -6016,3 +6016,11 @@ Adicionados:['GMR-00104']
 GMR-00104 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de Camões, Piso -1 PARKING_GARAGE
 [{'id': 'GMR-00104-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 50, 'max_electric_power': 7400, 'last_updated': '2023-08-25T13:37:44.896Z'}]
 Removidos:[]
+
+2023-09-06 15:15:23
+Adicionados:['ETZ-00019']
+
+ETZ-00019 --> KLC 38.8392339 -7.579429 Estremoz Rua 20 de Janeiro - Bairro de Santo António PARKING_LOT
+[{'id': 'ETZ-00019-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:31:18.157Z'}]
+[{'id': 'ETZ-00019-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:31:18.155Z'}]
+Removidos:[]
