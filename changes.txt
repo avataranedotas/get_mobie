@@ -6024,3 +6024,14 @@ ETZ-00019 --> KLC 38.8392339 -7.579429 Estremoz Rua 20 de Janeiro - Bairro de Sa
 [{'id': 'ETZ-00019-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:31:18.157Z'}]
 [{'id': 'ETZ-00019-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:31:18.155Z'}]
 Removidos:[]
+
+2023-09-06 15:36:13
+Adicionados:['ACB-00010']
+
+ACB-00010 --> HRZ 39.5537642 -8.9685953 Alcobaça Estrada da Boavista -Largo do Intermarchê, PARKING_LOT
+[{'id': 'ACB-00010-04-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-09-06T15:03:27.602Z'}]
+[{'id': 'ACB-00010-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-09-06T15:03:27.602Z'}]
+[{'id': 'ACB-00010-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-06T15:03:27.602Z'}]
+[{'id': 'ACB-00010-05-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-09-06T15:03:27.602Z'}]
+[{'id': 'ACB-00010-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-09-06T15:03:27.602Z'}]
+Removidos:[]
