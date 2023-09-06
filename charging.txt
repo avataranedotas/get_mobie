@@ -9259,3 +9259,6 @@ NZR-00022-02 evses -> 1: status : CHARGING
 
 2023-09-06 09:13:34
 BRR-00118-01 evses -> 1: status : CHARGING
+
+2023-09-06 09:36:29
+BRR-00118-01 evses -> 1: status : CHARGING
