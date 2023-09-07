@@ -6053,3 +6053,33 @@ ABF-00065 --> EDP 37.090485 -8.2379373 Albufeira Sitio Cerro Alagoa, Cerro da La
 [{'id': 'ABF-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-01T14:21:06.683Z'}]
 [{'id': 'ABF-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-01T14:21:06.683Z'}]
 Removidos:[]
+
+2023-09-07 15:13:52
+AGH-00002
+: 
+ NEW address : KFC - Terceira - Angra
+ OLD address : Rua Dr. Aníbal de Bettencourt
+BRR-00017
+: 
+ NEW address : KFC - Barreiro Retail Park
+ OLD address : Sitio Barreiro Retail Planet, nº 9995
+CLD-00023
+: 
+ NEW address : KFC - Caldas da Rainha
+ OLD address : Rua Etelvino dos Santos
+SJM-00009
+: 
+ NEW address : KFC - São João da Madeira
+ OLD address : Av. Dr. Renato Araújo, Lote 10
+SNT-00080
+: 
+ NEW address : KFC - Mem Martins
+ OLD address : N249 2
+TNV-00011
+: 
+ NEW address : KFC - Torres Novas
+ OLD address : Avenida Xanana Gusmão, Lote 4, Casal das Chãs
+VLG-00021
+: 
+ NEW address : KFC - Ermesinde
+ OLD address : Rua José Regio nº20
