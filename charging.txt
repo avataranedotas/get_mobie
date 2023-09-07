@@ -9557,3 +9557,11 @@ BRR-00117-02 evses -> 0: status : CHARGING
 BRR-00118-01 evses -> 1: status : CHARGING
 LRA-00093-02 evses -> 1: status : CHARGING
 VFR-00075-02 evses -> 0: status : CHARGING
+
+2023-09-07 19:36:16
+BRR-00051-02 evses -> 0: status : CHARGING
+BRR-00117-02 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+GDM-00030-01 evses -> 1: status : CHARGING
+LRA-00093-02 evses -> 1: status : CHARGING
+VFR-00075-02 evses -> 0: status : CHARGING
