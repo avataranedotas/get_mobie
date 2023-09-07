@@ -6045,3 +6045,11 @@ ACB-00010
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 100000
+
+2023-09-07 12:51:10
+Adicionados:['ABF-00065']
+
+ABF-00065 --> EDP 37.090485 -8.2379373 Albufeira Sitio Cerro Alagoa, Cerro da Lagoa UNDERGROUND_GARAGE
+[{'id': 'ABF-00065-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-01T14:21:06.683Z'}]
+[{'id': 'ABF-00065-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-01T14:21:06.683Z'}]
+Removidos:[]
