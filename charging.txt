@@ -9414,3 +9414,7 @@ BRR-00118-01 evses -> 1: status : CHARGING
 2023-09-07 01:53:31
 BRR-00117-02 evses -> 0: status : CHARGING
 BRR-00118-01 evses -> 1: status : CHARGING
+
+2023-09-07 02:18:55
+BRR-00117-02 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
