@@ -6083,3 +6083,11 @@ VLG-00021
 : 
  NEW address : KFC - Ermesinde
  OLD address : Rua José Regio nº20
+
+2023-09-07 22:36:05
+Adicionados:['LSD-00005']
+
+LSD-00005 --> IBD 41.279558 -8.280245 Lousada Rua do Barreiro PARKING_LOT
+[{'id': 'LSD-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:46:12.319Z'}]
+[{'id': 'LSD-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:46:12.318Z'}]
+Removidos:[]
