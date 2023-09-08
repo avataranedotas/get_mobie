@@ -6105,3 +6105,10 @@ SNT-00107
 : 
  NEW coordinates : {'latitude': '38.761100', 'longitude': '-9.386071'}
  OLD coordinates : {'latitude': '38.7622635', 'longitude': '-9.3826483'}
+
+2023-09-08 11:11:17
+Adicionados:['PFR-00009']
+
+PFR-00009 --> REP 41.278693 -8.379045 Paços de Ferreira Av. Dr. Nicolau Carneiro PARKING_LOT
+[{'id': 'PFR-00009-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-18T14:56:22.708Z'}]
+Removidos:[]
