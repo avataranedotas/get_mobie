@@ -6112,3 +6112,11 @@ Adicionados:['PFR-00009']
 PFR-00009 --> REP 41.278693 -8.379045 Paços de Ferreira Av. Dr. Nicolau Carneiro PARKING_LOT
 [{'id': 'PFR-00009-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-18T14:56:22.708Z'}]
 Removidos:[]
+
+2023-09-08 12:50:05
+Adicionados:['ACB-00008']
+
+ACB-00008 --> EDP 39.5427822 -9.032169 Alcobaça Hotel Vale da Azenha, Rua da Barrada nº39 PARKING_LOT
+[{'id': 'ACB-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
+[{'id': 'ACB-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
+Removidos:[]
