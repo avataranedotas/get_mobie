@@ -6091,3 +6091,17 @@ LSD-00005 --> IBD 41.279558 -8.280245 Lousada Rua do Barreiro PARKING_LOT
 [{'id': 'LSD-00005-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:46:12.319Z'}]
 [{'id': 'LSD-00005-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-06-15T18:46:12.318Z'}]
 Removidos:[]
+
+2023-09-08 07:36:06
+SNT-00107
+coordinates: 
+ NEW latitude : 38.761100
+ OLD latitude : 38.7622635
+SNT-00107
+coordinates: 
+ NEW longitude : -9.386071
+ OLD longitude : -9.3826483
+SNT-00107
+: 
+ NEW coordinates : {'latitude': '38.761100', 'longitude': '-9.386071'}
+ OLD coordinates : {'latitude': '38.7622635', 'longitude': '-9.3826483'}
