@@ -9764,3 +9764,11 @@ BRR-00118-01 evses -> 1: status : CHARGING
 GMR-00103-01 evses -> 1: status : CHARGING
 GMR-00106-02 evses -> 1: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
+
+2023-09-08 17:12:02
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+GMR-00103-01 evses -> 1: status : CHARGING
+PVZ-00029-01 evses -> 1: status : CHARGING
+PVZ-00029-01 evses -> 1: status : CHARGING
