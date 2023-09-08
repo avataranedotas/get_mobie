@@ -9639,3 +9639,6 @@ BRR-00118-01 evses -> 1: status : CHARGING
 BRR-00118-01 evses -> 1: status : CHARGING
 PVZ-00029-02 evses -> 0: status : CHARGING
 PVZ-00029-02 evses -> 0: status : CHARGING
+
+2023-09-08 07:12:36
+BRR-00118-01 evses -> 1: status : CHARGING
