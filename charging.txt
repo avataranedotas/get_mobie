@@ -9781,3 +9781,12 @@ LRA-00093-02 evses -> 1: status : CHARGING
 PVZ-00029-01 evses -> 1: status : CHARGING
 PVZ-00029-01 evses -> 1: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
+
+2023-09-08 18:16:52
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+GDM-00030-02 evses -> 0: status : CHARGING
+LRA-00093-02 evses -> 1: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
