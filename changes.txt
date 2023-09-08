@@ -6120,3 +6120,15 @@ ACB-00008 --> EDP 39.5427822 -9.032169 Alcobaça Hotel Vale da Azenha, Rua da Ba
 [{'id': 'ACB-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
 [{'id': 'ACB-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-07-30T18:53:35.596Z'}]
 Removidos:[]
+
+2023-09-08 15:11:38
+Adicionados:['CLD-00024', 'STB-00059']
+
+CLD-00024 --> ECI 39.398056 -9.135000 Caldas da Rainha Rua Fernando Ponte e Sousa 11 PARKING_LOT
+[{'id': 'CLD-00024-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:33:36.699Z'}]
+[{'id': 'CLD-00024-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-10T15:33:36.699Z'}]
+
+STB-00059 --> ECI 38.685725 -9.343966 Setúbal Rua das Caravelas PARKING_LOT
+[{'id': 'STB-00059-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-09-08T08:54:00.851Z'}]
+[{'id': 'STB-00059-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-09-08T08:54:00.851Z'}]
+Removidos:[]
