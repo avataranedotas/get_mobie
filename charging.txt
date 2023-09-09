@@ -10021,3 +10021,12 @@ GLG-00002-05 evses -> 0: status : CHARGING
 VFR-00075-03 evses -> 1: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
 VNC-00006-01 evses -> 1: status : CHARGING
+
+2023-09-09 16:15:54
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+BRR-00106-01 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+GLG-00002-05 evses -> 0: status : CHARGING
+VFR-00075-03 evses -> 1: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
