@@ -9997,3 +9997,11 @@ PRT-00030-2 evses -> 1: status : CHARGING
 VFR-00075-03 evses -> 1: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
 VNC-00006-01 evses -> 1: status : CHARGING
+
+2023-09-09 14:36:03
+BRR-00106-01 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+PRT-00030-2 evses -> 1: status : CHARGING
+VFR-00075-03 evses -> 1: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
+VNC-00006-01 evses -> 1: status : CHARGING
