@@ -9917,3 +9917,12 @@ BRG-00006-01 evses -> 1: status : CHARGING
 BRR-00118-01 evses -> 1: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
 VNC-00006-01 evses -> 1: status : CHARGING
+
+2023-09-09 09:11:33
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+VFR-00055-02 evses -> 1: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
+VNC-00006-01 evses -> 1: status : CHARGING
