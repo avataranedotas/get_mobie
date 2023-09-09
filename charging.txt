@@ -9948,3 +9948,10 @@ LRS-00095-02 evses -> 0: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
 VNC-00006-01 evses -> 1: status : CHARGING
+
+2023-09-09 11:10:03
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
+VNC-00006-01 evses -> 1: status : CHARGING
