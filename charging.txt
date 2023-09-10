@@ -10215,3 +10215,6 @@ TND-00007-02 evses -> 0: status : CHARGING
 2023-09-10 11:10:10
 BRR-00117-02 evses -> 0: status : CHARGING
 LRS-00095-02 evses -> 0: status : CHARGING
+
+2023-09-10 11:35:57
+BRR-00117-02 evses -> 0: status : CHARGING
