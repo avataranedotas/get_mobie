@@ -10218,3 +10218,9 @@ LRS-00095-02 evses -> 0: status : CHARGING
 
 2023-09-10 11:35:57
 BRR-00117-02 evses -> 0: status : CHARGING
+
+2023-09-10 12:24:05
+BRR-00117-02 evses -> 0: status : CHARGING
+PVZ-00029-01 evses -> 1: status : CHARGING
+PVZ-00029-01 evses -> 1: status : CHARGING
+VFR-00055-03 evses -> 2: status : CHARGING
