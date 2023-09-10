@@ -10268,3 +10268,9 @@ BRG-00006-01 evses -> 1: status : CHARGING
 CTB-00016-02 evses -> 1: status : CHARGING
 LRS-00095-02 evses -> 0: status : CHARGING
 VFR-00046-02 evses -> 1: status : CHARGING
+
+2023-09-10 16:16:36
+BRG-00006-01 evses -> 1: status : CHARGING
+CTB-00016-02 evses -> 1: status : CHARGING
+GLG-00002-04 evses -> 4: status : CHARGING
+VFR-00046-02 evses -> 1: status : CHARGING
