@@ -6209,3 +6209,11 @@ ETZ-00018 --> TRK 38.85003 -7.58856 Estremoz Rua AntÃ³nio JosÃ© de Almeida, 
 [{'id': 'ETZ-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.748Z'}]
 [{'id': 'ETZ-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.748Z'}]
 Removidos:[]
+
+2023-09-11 13:17:36
+Adicionados:['ETZ-00017']
+
+ETZ-00017 --> TRK 38.84485 -7.58747 Estremoz Largo Dragões de Olivença ON_STREET
+[{'id': 'ETZ-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.734Z'}]
+[{'id': 'ETZ-00017-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.734Z'}]
+Removidos:[]
