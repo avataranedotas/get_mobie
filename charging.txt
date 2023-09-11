@@ -10426,3 +10426,6 @@ GDM-00030-02 evses -> 0: status : CHARGING
 2023-09-11 11:11:30
 BRG-00006-01 evses -> 1: status : CHARGING
 GDM-00030-02 evses -> 0: status : CHARGING
+
+2023-09-11 11:36:07
+TVD-00035-02 evses -> 0: status : CHARGING
