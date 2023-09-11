@@ -6141,3 +6141,63 @@ SXL-00043 --> HRZ 38.5989227 -9.1396879 Seixal Av. de Belverde 70 PARKING_LOT
 [{'id': 'SXL-00043-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-08T13:13:26.753Z'}]
 [{'id': 'SXL-00043-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-08-08T13:13:26.753Z'}]
 Removidos:[]
+
+2023-09-11 12:27:28
+Adicionados:['ETZ-00015', 'ETZ-00016']
+
+ETZ-00015 --> TRK 38.84485 -7.58747 Estremoz Rossio MarquÃÂªs de Pombal ON_STREET
+[{'id': 'ETZ-00015-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.722Z'}]
+[{'id': 'ETZ-00015-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.722Z'}]
+
+ETZ-00016 --> TRK 38.83928 -7.58327 Estremoz Rua João Sousa Carvalho, 16 ON_STREET
+[{'id': 'ETZ-00016-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:24:17.156Z'}]
+[{'id': 'ETZ-00016-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-08-03T08:24:17.156Z'}]
+Removidos:[]
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+SXL-00043
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+SXL-00043
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000

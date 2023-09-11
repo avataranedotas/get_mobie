@@ -10429,3 +10429,6 @@ GDM-00030-02 evses -> 0: status : CHARGING
 
 2023-09-11 11:36:07
 TVD-00035-02 evses -> 0: status : CHARGING
+
+2023-09-11 12:27:32
+VFR-00055-02 evses -> 1: status : CHARGING
