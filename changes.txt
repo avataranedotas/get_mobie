@@ -6201,3 +6201,11 @@ SXL-00043
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 60000
+
+2023-09-11 12:52:37
+Adicionados:['ETZ-00018']
+
+ETZ-00018 --> TRK 38.85003 -7.58856 Estremoz Rua AntÃ³nio JosÃ© de Almeida, 7 ON_STREET
+[{'id': 'ETZ-00018-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.748Z'}]
+[{'id': 'ETZ-00018-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.748Z'}]
+Removidos:[]
