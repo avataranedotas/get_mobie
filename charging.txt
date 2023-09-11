@@ -10455,3 +10455,7 @@ PVZ-00029-02 evses -> 0: status : CHARGING
 2023-09-11 14:36:21
 BRG-00006-01 evses -> 1: status : CHARGING
 ETZ-00019-02 evses -> 0: status : CHARGING
+
+2023-09-11 15:14:31
+BRG-00006-01 evses -> 1: status : CHARGING
+ETZ-00019-02 evses -> 0: status : CHARGING

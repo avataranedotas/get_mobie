@@ -6227,3 +6227,11 @@ ETZ-00018
 : 
  NEW address : Rua António José de Almeida, 7
  OLD address : Rua AntÃ³nio JosÃ© de Almeida, 7
+
+2023-09-11 15:14:26
+Adicionados:['MTS-00119']
+
+MTS-00119 --> EDP 41.218559 -8.675771 Matosinhos RUA GUILHERME F THEDIM, Lavra PARKING_LOT
+[{'id': 'MTS-00119-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-11T14:36:51.914Z'}]
+[{'id': 'MTS-00119-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-11T14:36:51.914Z'}]
+Removidos:[]
