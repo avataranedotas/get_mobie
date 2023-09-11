@@ -10444,3 +10444,10 @@ PVZ-00029-02 evses -> 0: status : CHARGING
 2023-09-11 13:36:13
 BRG-00006-01 evses -> 1: status : CHARGING
 ETZ-00019-01 evses -> 1: status : CHARGING
+
+2023-09-11 14:13:11
+BRG-00006-01 evses -> 1: status : CHARGING
+CTB-00016-01 evses -> 0: status : CHARGING
+ETZ-00019-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING

@@ -6217,3 +6217,13 @@ ETZ-00017 --> TRK 38.84485 -7.58747 Estremoz Largo Dragões de Olivença ON_STRE
 [{'id': 'ETZ-00017-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.734Z'}]
 [{'id': 'ETZ-00017-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2023-06-01T12:34:08.734Z'}]
 Removidos:[]
+
+2023-09-11 14:13:06
+ETZ-00015
+: 
+ NEW address : Rossio MarquÃªs de Pombal
+ OLD address : Rossio MarquÃÂªs de Pombal
+ETZ-00018
+: 
+ NEW address : Rua António José de Almeida, 7
+ OLD address : Rua AntÃ³nio JosÃ© de Almeida, 7
