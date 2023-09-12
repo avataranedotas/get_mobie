@@ -10675,3 +10675,14 @@ ETZ-00018-02 evses -> 0: status : CHARGING
 GMR-00106-01 evses -> 0: status : CHARGING
 TND-00007-02 evses -> 0: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
+
+2023-09-12 15:36:24
+ASL-00012-03 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
+ETZ-00019-01 evses -> 1: status : CHARGING
+GMR-00106-01 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING

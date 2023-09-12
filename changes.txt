@@ -6252,3 +6252,12 @@ BJA-00019 --> KLC 38.010999 -7.855512 Beja Urb. do Seminário, Lt 4 e 5 PARKING_
 [{'id': 'BJA-00019-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-03T09:31:02.504Z'}]
 [{'id': 'BJA-00019-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-03T09:31:02.501Z'}]
 Removidos:[]
+
+2023-09-12 15:36:18
+Adicionados:['MRA-00004']
+
+MRA-00004 --> KLC 38.1405621 -7.4450387 Moura Rua Engenheiro Armando Almeida Manso PARKING_LOT
+[{'id': 'MRA-00004-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-19T15:34:38.713Z'}]
+[{'id': 'MRA-00004-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-19T15:34:38.71Z'}]
+[{'id': 'MRA-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-19T15:34:38.711Z'}]
+Removidos:[]
