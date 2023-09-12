@@ -6235,3 +6235,11 @@ MTS-00119 --> EDP 41.218559 -8.675771 Matosinhos RUA GUILHERME F THEDIM, Lavra P
 [{'id': 'MTS-00119-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-11T14:36:51.914Z'}]
 [{'id': 'MTS-00119-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-11T14:36:51.914Z'}]
 Removidos:[]
+
+2023-09-12 08:36:09
+Adicionados:['VRL-00023']
+
+VRL-00023 --> EDP 41.280718 -7.473402 Vila Real Av. Dr. Francisco Sá Carneiro,6 PARKING_LOT
+[{'id': 'VRL-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-27T10:07:22.039Z'}]
+[{'id': 'VRL-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-27T10:07:22.039Z'}]
+Removidos:[]
