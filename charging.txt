@@ -10588,3 +10588,10 @@ ETZ-00016-02 evses -> 0: status : CHARGING
 BRR-00095-01 evses -> 0: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 ETZ-00016-02 evses -> 0: status : CHARGING
+
+2023-09-12 09:36:16
+ASL-00012-02 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00016-02 evses -> 0: status : CHARGING
+VFR-00075-03 evses -> 1: status : CHARGING
