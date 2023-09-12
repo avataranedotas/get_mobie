@@ -10696,3 +10696,11 @@ ETZ-00015-01 evses -> 0: status : CHARGING
 ETZ-00015-02 evses -> 1: status : CHARGING
 ETZ-00019-01 evses -> 1: status : CHARGING
 GMR-00106-01 evses -> 0: status : CHARGING
+
+2023-09-12 16:38:54
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00095-01 evses -> 0: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
+GMR-00106-01 evses -> 0: status : CHARGING
