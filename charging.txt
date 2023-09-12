@@ -10595,3 +10595,8 @@ BRR-00095-01 evses -> 0: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 ETZ-00016-02 evses -> 0: status : CHARGING
 VFR-00075-03 evses -> 1: status : CHARGING
+
+2023-09-12 10:14:56
+BRR-00095-01 evses -> 0: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+VFR-00075-03 evses -> 1: status : CHARGING
