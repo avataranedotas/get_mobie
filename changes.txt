@@ -6243,3 +6243,12 @@ VRL-00023 --> EDP 41.280718 -7.473402 Vila Real Av. Dr. Francisco Sá Carneiro,6
 [{'id': 'VRL-00023-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-27T10:07:22.039Z'}]
 [{'id': 'VRL-00023-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-27T10:07:22.039Z'}]
 Removidos:[]
+
+2023-09-12 12:26:46
+Adicionados:['BJA-00019']
+
+BJA-00019 --> KLC 38.010999 -7.855512 Beja Urb. do Seminário, Lt 4 e 5 PARKING_LOT
+[{'id': 'BJA-00019-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-05-03T09:31:02.502Z'}]
+[{'id': 'BJA-00019-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-05-03T09:31:02.504Z'}]
+[{'id': 'BJA-00019-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-05-03T09:31:02.501Z'}]
+Removidos:[]
