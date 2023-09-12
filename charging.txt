@@ -10802,3 +10802,8 @@ CVR-00002-02 evses -> 1: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 GDM-00030-02 evses -> 0: status : CHARGING
 LRA-00094-01 evses -> 1: status : CHARGING
+
+2023-09-12 23:38:03
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+LRA-00094-01 evses -> 1: status : CHARGING
