@@ -6293,3 +6293,17 @@ STB-00058
 : 
  NEW coordinates : {'latitude': '38.538201', 'longitude': '-8.877264'}
  OLD coordinates : {'latitude': '38.538056', 'longitude': '-8.872500'}
+
+2023-09-13 15:14:17
+MFR-00029
+coordinates: 
+ NEW latitude : 38.977730
+ OLD latitude : 38.981830
+MFR-00029
+coordinates: 
+ NEW longitude : -9.419015
+ OLD longitude : -9.419051
+MFR-00029
+: 
+ NEW coordinates : {'latitude': '38.977730', 'longitude': '-9.419015'}
+ OLD coordinates : {'latitude': '38.981830', 'longitude': '-9.419051'}
