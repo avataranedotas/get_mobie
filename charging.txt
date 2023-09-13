@@ -10878,3 +10878,10 @@ LRA-00094-01 evses -> 1: status : CHARGING
 2023-09-13 08:36:46
 BRG-00006-01 evses -> 1: status : CHARGING
 LRA-00094-01 evses -> 1: status : CHARGING
+
+2023-09-13 09:13:41
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+CTB-00016-02 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+LRA-00094-01 evses -> 1: status : CHARGING
