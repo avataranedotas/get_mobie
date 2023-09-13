@@ -6279,3 +6279,17 @@ ALQ-00014 --> HRZ 39.144565 -9.022661 Alenquer Lugar da Funileira PARKING_LOT
 [{'id': 'ALQ-00014-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-09-13T13:15:04.455Z'}]
 [{'id': 'ALQ-00014-02-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-13T13:15:04.455Z'}]
 Removidos:[]
+
+2023-09-13 14:36:08
+STB-00058
+coordinates: 
+ NEW latitude : 38.538201
+ OLD latitude : 38.538056
+STB-00058
+coordinates: 
+ NEW longitude : -8.877264
+ OLD longitude : -8.872500
+STB-00058
+: 
+ NEW coordinates : {'latitude': '38.538201', 'longitude': '-8.877264'}
+ OLD coordinates : {'latitude': '38.538056', 'longitude': '-8.872500'}
