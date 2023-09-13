@@ -10975,3 +10975,8 @@ ETZ-00015-01 evses -> 0: status : CHARGING
 ETZ-00015-02 evses -> 1: status : CHARGING
 OER-00158-1 evses -> 0: status : CHARGING
 TND-00007-02 evses -> 0: status : CHARGING
+
+2023-09-13 17:11:55
+BRG-00006-01 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
