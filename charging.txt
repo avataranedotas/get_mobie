@@ -10919,3 +10919,8 @@ VFR-00055-02 evses -> 1: status : CHARGING
 CTB-00016-02 evses -> 1: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
+
+2023-09-13 12:52:44
+CTB-00016-02 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
