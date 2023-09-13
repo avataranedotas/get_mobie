@@ -11025,3 +11025,13 @@ GDM-00030-02 evses -> 0: status : CHARGING
 GVA-00004-02 evses -> 1: status : CHARGING
 PVZ-00029-02 evses -> 0: status : CHARGING
 PVZ-00029-02 evses -> 0: status : CHARGING
+
+2023-09-13 20:36:15
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00112-02 evses -> 1: status : CHARGING
+BRR-00117-01 evses -> 1: status : CHARGING
+GDM-00030-02 evses -> 0: status : CHARGING
+GVA-00004-02 evses -> 1: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
