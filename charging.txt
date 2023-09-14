@@ -11110,3 +11110,7 @@ GVA-00004-02 evses -> 1: status : CHARGING
 2023-09-14 05:12:50
 GMR-00103-02 evses -> 0: status : CHARGING
 GVA-00004-02 evses -> 1: status : CHARGING
+
+2023-09-14 05:36:12
+GMR-00103-02 evses -> 0: status : CHARGING
+GVA-00004-02 evses -> 1: status : CHARGING
