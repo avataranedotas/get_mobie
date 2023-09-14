@@ -6307,3 +6307,12 @@ MFR-00029
 : 
  NEW coordinates : {'latitude': '38.977730', 'longitude': '-9.419015'}
  OLD coordinates : {'latitude': '38.981830', 'longitude': '-9.419051'}
+
+2023-09-14 15:14:13
+Adicionados:['VFR-00015']
+
+VFR-00015 --> EDP 40.977889 -8.536848 Santa Maria da Feira Estrada Nacional 1, Lugar das Vendas Novas PARKING_LOT
+[{'id': 'VFR-00015-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-09-14T14:58:12.804Z'}]
+[{'id': 'VFR-00015-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-14T14:58:12.804Z'}]
+[{'id': 'VFR-00015-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-09-14T14:58:12.804Z'}]
+Removidos:[]
