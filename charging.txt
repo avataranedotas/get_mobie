@@ -11096,3 +11096,8 @@ GVA-00004-02 evses -> 1: status : CHARGING
 BRG-00006-01 evses -> 1: status : CHARGING
 GMR-00103-02 evses -> 0: status : CHARGING
 GVA-00004-02 evses -> 1: status : CHARGING
+
+2023-09-14 04:16:04
+BRG-00006-01 evses -> 1: status : CHARGING
+GMR-00103-02 evses -> 0: status : CHARGING
+GVA-00004-02 evses -> 1: status : CHARGING
