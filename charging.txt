@@ -11157,3 +11157,7 @@ VFR-00075-02 evses -> 0: status : CHARGING
 
 2023-09-14 12:27:10
 ETZ-00015-01 evses -> 0: status : CHARGING
+
+2023-09-14 12:51:58
+CTB-00016-02 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
