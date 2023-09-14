@@ -11149,3 +11149,8 @@ ETZ-00015-01 evses -> 0: status : CHARGING
 2023-09-14 11:11:38
 ETZ-00015-01 evses -> 0: status : CHARGING
 MTS-00109-02 evses -> 0: status : CHARGING
+
+2023-09-14 11:36:14
+CTB-00016-02 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+VFR-00075-02 evses -> 0: status : CHARGING
