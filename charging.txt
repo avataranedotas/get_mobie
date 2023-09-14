@@ -11243,3 +11243,9 @@ BRR-00118-01 evses -> 1: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 GLG-00002-02 evses -> 2: status : CHARGING
 VNC-00006-01 evses -> 1: status : CHARGING
+
+2023-09-14 19:36:19
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00112-01 evses -> 0: status : CHARGING
+BRR-00118-01 evses -> 1: status : CHARGING
