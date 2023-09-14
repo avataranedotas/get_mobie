@@ -6316,3 +6316,13 @@ VFR-00015 --> EDP 40.977889 -8.536848 Santa Maria da Feira Estrada Nacional 1, L
 [{'id': 'VFR-00015-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-14T14:58:12.804Z'}]
 [{'id': 'VFR-00015-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-09-14T14:58:12.804Z'}]
 Removidos:[]
+
+2023-09-14 15:36:21
+Adicionados:['ALM-00070']
+
+ALM-00070 --> MOT 38.6613001 -9.173994 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00070-03-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-15T19:14:24.418Z'}]
+[{'id': 'ALM-00070-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-15T19:14:24.417Z'}]
+[{'id': 'ALM-00070-04-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-15T19:14:24.419Z'}]
+[{'id': 'ALM-00070-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2023-06-15T19:14:24.416Z'}]
+Removidos:[]
