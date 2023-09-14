@@ -11126,3 +11126,6 @@ PVZ-00029-02 evses -> 0: status : CHARGING
 
 2023-09-14 07:35:58
 VFR-00055-03 evses -> 2: status : CHARGING
+
+2023-09-14 08:17:34
+VFR-00055-02 evses -> 1: status : CHARGING
