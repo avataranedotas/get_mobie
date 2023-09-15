@@ -11455,3 +11455,12 @@ BRG-00006-01 evses -> 1: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
+
+2023-09-15 14:36:16
+BRG-00006-01 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
+GMR-00103-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+MFR-00012-02 evses -> 0: status : CHARGING
