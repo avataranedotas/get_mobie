@@ -11375,3 +11375,10 @@ LSB-00576-02 evses -> 0: status : CHARGING
 
 2023-09-15 09:13:41
 ETZ-00015-01 evses -> 0: status : CHARGING
+
+2023-09-15 09:36:07
+ETZ-00015-01 evses -> 0: status : CHARGING
+GDM-00030-01 evses -> 1: status : CHARGING
+LLE-00154-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
