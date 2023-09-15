@@ -11397,3 +11397,12 @@ GMR-00103-02 evses -> 0: status : CHARGING
 LLE-00154-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
+
+2023-09-15 11:11:27
+BRR-00106-01 evses -> 0: status : CHARGING
+CTB-00016-02 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+GMR-00103-02 evses -> 0: status : CHARGING
+LLE-00154-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
