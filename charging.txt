@@ -11533,3 +11533,11 @@ BRR-00112-01 evses -> 0: status : CHARGING
 GVA-00004-01 evses -> 0: status : CHARGING
 MFR-00012-01 evses -> 1: status : CHARGING
 VFR-00055-02 evses -> 1: status : CHARGING
+
+2023-09-15 20:13:52
+ASL-00012-02 evses -> 1: status : CHARGING
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+BRR-00112-01 evses -> 0: status : CHARGING
+GVA-00004-01 evses -> 0: status : CHARGING
+MFR-00012-02 evses -> 0: status : CHARGING
