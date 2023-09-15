@@ -11464,3 +11464,10 @@ GMR-00103-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 MFR-00012-02 evses -> 0: status : CHARGING
+
+2023-09-15 15:13:38
+BRG-00006-01 evses -> 1: status : CHARGING
+ETZ-00015-01 evses -> 0: status : CHARGING
+ETZ-00015-02 evses -> 1: status : CHARGING
+GVA-00004-01 evses -> 0: status : CHARGING
+MFR-00012-02 evses -> 0: status : CHARGING
