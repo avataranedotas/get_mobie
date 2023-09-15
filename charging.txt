@@ -11320,3 +11320,8 @@ GMR-00103-01 evses -> 1: status : CHARGING
 BRG-00006-02 evses -> 0: status : CHARGING
 BRG-00006-01 evses -> 1: status : CHARGING
 GMR-00103-01 evses -> 1: status : CHARGING
+
+2023-09-15 04:16:08
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+GMR-00103-01 evses -> 1: status : CHARGING
