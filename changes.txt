@@ -6377,3 +6377,22 @@ Adicionados:['ALM-00064']
 ALM-00064 --> MOT 38.66136 -9.173994 Almada Rua Sérgio Malpique PARKING_GARAGE
 [{'id': 'ALM-00064-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-06-15T19:06:45.085Z'}]
 Removidos:[]
+
+2023-09-15 14:12:19
+Adicionados:['ALM-00065', 'ALM-00066', 'ALM-00067', 'ALM-00068', 'ALM-00069']
+
+ALM-00065 --> MOT 38.66136 -9.17399 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00065-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-15T13:39:31.811Z'}]
+
+ALM-00066 --> MOT 38.6610001 -9.17399 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00066-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-15T13:39:52.511Z'}]
+
+ALM-00067 --> MOT 38.66136 -9.173994 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00067-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-15T13:42:03.536Z'}]
+
+ALM-00068 --> MOT 38.6613001 -9.173994 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00068-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-15T13:42:32.523Z'}]
+
+ALM-00069 --> MOT 38.6613001 -9.173994 Almada Rua Sérgio Malpique PARKING_GARAGE
+[{'id': 'ALM-00069-1-1', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-15T13:42:56.528Z'}]
+Removidos:[]
