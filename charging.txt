@@ -11372,3 +11372,6 @@ LSB-00576-02 evses -> 0: status : CHARGING
 ETZ-00015-01 evses -> 0: status : CHARGING
 LSB-00576-02 evses -> 0: status : CHARGING
 LSB-00576-02 evses -> 0: status : CHARGING
+
+2023-09-15 09:13:41
+ETZ-00015-01 evses -> 0: status : CHARGING
