@@ -11363,3 +11363,7 @@ BRG-00006-01 evses -> 1: status : CHARGING
 LSB-00576-02 evses -> 0: status : CHARGING
 LSB-00576-02 evses -> 0: status : CHARGING
 VFR-00055-03 evses -> 2: status : CHARGING
+
+2023-09-15 08:17:33
+LSB-00576-02 evses -> 0: status : CHARGING
+LSB-00576-02 evses -> 0: status : CHARGING
