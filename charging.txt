@@ -11771,3 +11771,9 @@ PVZ-00029-01 evses -> 1: status : CHARGING
 PVZ-00029-01 evses -> 1: status : CHARGING
 VIS-00062-01 evses -> 0: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
+
+2023-09-16 14:10:58
+BRG-00006-01 evses -> 1: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+PVZ-00029-02 evses -> 0: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
