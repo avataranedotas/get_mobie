@@ -11710,3 +11710,9 @@ VNC-00006-02 evses -> 0: status : CHARGING
 BRG-00006-01 evses -> 1: status : CHARGING
 ETZ-00016-02 evses -> 0: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
+
+2023-09-16 09:36:01
+ASL-00012-02 evses -> 1: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+ETZ-00016-02 evses -> 0: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
