@@ -11692,3 +11692,10 @@ MFR-00007-2 evses -> 1: status : CHARGING
 VFR-00015-01 evses -> 0: status : CHARGING
 VFR-00055-03 evses -> 2: status : CHARGING
 VNC-00006-02 evses -> 0: status : CHARGING
+
+2023-09-16 08:15:34
+BRG-00006-02 evses -> 0: status : CHARGING
+BRG-00006-01 evses -> 1: status : CHARGING
+GVA-00003-01 evses -> 1: status : CHARGING
+VFR-00055-03 evses -> 2: status : CHARGING
+VNC-00006-02 evses -> 0: status : CHARGING
