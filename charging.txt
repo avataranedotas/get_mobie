@@ -11816,3 +11816,6 @@ VNC-00006-02 evses -> 0: status : CHARGING
 2023-09-16 16:36:46
 BRR-00104-03 evses -> 2: status : CHARGING
 LSD-00005-02 evses -> 0: status : CHARGING
+
+2023-09-16 18:15:49
+STB-00059-02 evses -> 1: status : CHARGING
