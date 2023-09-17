@@ -11885,3 +11885,6 @@ VFR-00071-02 evses -> 0: status : CHARGING
 2023-09-17 21:36:12
 LGS-00026-02 evses -> 0: status : CHARGING
 VFR-00071-02 evses -> 0: status : CHARGING
+
+2023-09-17 22:11:53
+LGS-00026-02 evses -> 0: status : CHARGING
