@@ -11828,3 +11828,6 @@ LSB-00576-02 evses -> 0: status : CHARGING
 
 2023-09-17 11:10:16
 LSB-00576-02 evses -> 0: status : CHARGING
+
+2023-09-17 11:36:00
+LSB-00576-02 evses -> 0: status : CHARGING
