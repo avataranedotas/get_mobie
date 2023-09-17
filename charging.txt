@@ -11822,3 +11822,6 @@ STB-00059-02 evses -> 1: status : CHARGING
 
 2023-09-16 19:36:02
 ALQ-00014-03 evses -> 0: status : CHARGING
+
+2023-09-17 10:36:20
+LSB-00576-02 evses -> 0: status : CHARGING
