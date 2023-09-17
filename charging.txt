@@ -11850,3 +11850,7 @@ LGS-00026-02 evses -> 0: status : CHARGING
 2023-09-17 17:11:04
 LGS-00026-02 evses -> 0: status : CHARGING
 SNT-00115-01 evses -> 1: status : CHARGING
+
+2023-09-17 17:36:11
+LGS-00026-02 evses -> 0: status : CHARGING
+SNT-00115-01 evses -> 1: status : CHARGING
