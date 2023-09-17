@@ -11865,3 +11865,7 @@ LSD-00005-01 evses -> 1: status : CHARGING
 2023-09-17 19:10:31
 LGS-00026-02 evses -> 0: status : CHARGING
 LSD-00005-01 evses -> 1: status : CHARGING
+
+2023-09-17 19:36:10
+LGS-00026-02 evses -> 0: status : CHARGING
+VFR-00071-02 evses -> 0: status : CHARGING
