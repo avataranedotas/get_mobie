@@ -11956,3 +11956,7 @@ VNF-00023-01 evses -> 1: status : CHARGING
 
 2023-09-18 10:36:46
 VNF-00023-01 evses -> 1: status : CHARGING
+
+2023-09-18 11:11:29
+LSB-00576-01 evses -> 1: status : CHARGING
+VNF-00023-01 evses -> 1: status : CHARGING
