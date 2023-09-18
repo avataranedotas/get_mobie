@@ -11903,3 +11903,6 @@ LGS-00026-02 evses -> 0: status : CHARGING
 
 2023-09-18 02:02:55
 LGS-00026-02 evses -> 0: status : CHARGING
+
+2023-09-18 02:36:03
+LGS-00026-02 evses -> 0: status : CHARGING
