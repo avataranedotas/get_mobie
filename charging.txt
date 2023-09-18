@@ -11998,3 +11998,6 @@ LSB-00576-01 evses -> 1: status : CHARGING
 2023-09-18 16:39:27
 LSB-00576-01 evses -> 1: status : CHARGING
 MTS-00109-03 evses -> 1: status : CHARGING
+
+2023-09-18 21:11:48
+ALQ-00014-01 evses -> 1: status : CHARGING
