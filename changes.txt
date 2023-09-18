@@ -6418,3 +6418,12 @@ MTJ-00037 --> MOT 38.695826 -8.942640 Montijo Alegro Montijo PARKING_GARAGE
 [{'id': 'MTJ-00037-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2023-09-18T13:33:09.861Z'}]
 [{'id': 'MTJ-00037-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2023-09-18T13:33:09.861Z'}]
 Removidos:[]
+
+2023-09-18 19:36:08
+Adicionados:['VNG-00121']
+
+VNG-00121 --> HRZ 41.1372025 -8.6090609 Vila Nova de Gaia Jardim do Morro,  PARKING_LOT
+[{'id': 'VNG-00121-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-08-17T09:50:32.908Z'}]
+[{'id': 'VNG-00121-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-09-12T10:46:00.085Z'}]
+[{'id': 'VNG-00121-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-17T09:50:32.908Z'}]
+Removidos:[]
