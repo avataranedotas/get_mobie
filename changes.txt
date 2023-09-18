@@ -6410,3 +6410,11 @@ VRS-90002
 : 
  NEW coordinates : {'latitude': '37.190654', 'longitude': '-7.4141999'}
  OLD coordinates : {'latitude': '37.19062', 'longitude': '-7.4178197'}
+
+2023-09-18 14:13:18
+Adicionados:['MTJ-00037']
+
+MTJ-00037 --> MOT 38.695826 -8.942640 Montijo Alegro Montijo PARKING_GARAGE
+[{'id': 'MTJ-00037-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2023-09-18T13:33:09.861Z'}]
+[{'id': 'MTJ-00037-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2023-09-18T13:33:09.861Z'}]
+Removidos:[]
