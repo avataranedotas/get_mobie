@@ -11939,3 +11939,6 @@ LGS-00026-02 evses -> 0: status : CHARGING
 
 2023-09-18 08:18:15
 LSB-00576-01 evses -> 1: status : CHARGING
+
+2023-09-18 08:36:38
+LSB-00576-01 evses -> 1: status : CHARGING
