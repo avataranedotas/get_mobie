@@ -6481,3 +6481,9 @@ CTB-00030
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2023-09-19 14:13:05
+ALM-00060
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
