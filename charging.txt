@@ -12029,3 +12029,7 @@ LSB-90037-1 evses -> 0: status : CHARGING
 2023-09-19 11:36:06
 LSD-00005-02 evses -> 0: status : CHARGING
 VNF-00023-01 evses -> 1: status : CHARGING
+
+2023-09-19 12:27:52
+LSB-00576-02 evses -> 0: status : CHARGING
+LSD-00005-02 evses -> 0: status : CHARGING
