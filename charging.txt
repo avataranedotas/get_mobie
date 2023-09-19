@@ -12083,3 +12083,6 @@ LSB-90037-2 evses -> 1: status : CHARGING
 
 2023-09-19 21:36:05
 LSB-90037-2 evses -> 1: status : CHARGING
+
+2023-09-19 22:12:52
+LSB-90037-2 evses -> 1: status : CHARGING
