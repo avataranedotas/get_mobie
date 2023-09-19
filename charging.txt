@@ -12045,3 +12045,7 @@ LSD-00005-02 evses -> 0: status : CHARGING
 
 2023-09-19 15:36:26
 LSD-00005-02 evses -> 0: status : CHARGING
+
+2023-09-19 16:39:39
+MTS-00109-03 evses -> 1: status : CHARGING
+MTS-00109-01 evses -> 2: status : CHARGING
