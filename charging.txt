@@ -12053,3 +12053,6 @@ MTS-00109-01 evses -> 2: status : CHARGING
 2023-09-19 17:12:01
 ALQ-00014-01 evses -> 1: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
+
+2023-09-19 17:35:58
+LSB-90037-1 evses -> 0: status : CHARGING
