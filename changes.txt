@@ -6503,3 +6503,12 @@ RMZ-00006 --> KLC 38.4259517 -7.5464662 Reguengos de Monsaraz Avenida do Alentej
 [{'id': 'RMZ-00006-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:32:04.326Z'}]
 [{'id': 'RMZ-00006-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-05-03T09:32:04.327Z'}]
 Removidos:[]
+
+2023-09-19 21:11:45
+Adicionados:['CBR-00077']
+
+CBR-00077 --> KLC 40.189386 -8.401728 Coimbra R. Q.ta da Portela 6/9 PARKING_LOT
+[{'id': 'CBR-00077-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:10.555Z'}]
+[{'id': 'CBR-00077-01-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-01-27T20:45:10.553Z'}]
+[{'id': 'CBR-00077-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-01-27T20:45:10.556Z'}]
+Removidos:[]

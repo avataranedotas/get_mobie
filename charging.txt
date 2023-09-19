@@ -12077,3 +12077,6 @@ LSB-90037-2 evses -> 1: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
 VFR-00015-02 evses -> 2: status : CHARGING
+
+2023-09-19 21:11:49
+LSB-90037-2 evses -> 1: status : CHARGING
