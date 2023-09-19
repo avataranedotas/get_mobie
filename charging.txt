@@ -12015,3 +12015,6 @@ LSB-00576-01 evses -> 1: status : CHARGING
 
 2023-09-19 09:13:51
 LSB-00576-01 evses -> 1: status : CHARGING
+
+2023-09-19 09:36:25
+LSB-00576-01 evses -> 1: status : CHARGING
