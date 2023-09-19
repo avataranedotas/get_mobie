@@ -12022,3 +12022,6 @@ LSB-00576-01 evses -> 1: status : CHARGING
 2023-09-19 10:14:46
 LSB-00576-01 evses -> 1: status : CHARGING
 VNF-00023-01 evses -> 1: status : CHARGING
+
+2023-09-19 11:11:33
+LSB-90037-1 evses -> 0: status : CHARGING
