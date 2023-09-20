@@ -12122,3 +12122,7 @@ LGS-00026-02 evses -> 0: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
 LSD-00005-02 evses -> 0: status : CHARGING
+
+2023-09-20 18:18:05
+CBR-00077-03 evses -> 2: status : CHARGING
+LGS-00026-02 evses -> 0: status : CHARGING
