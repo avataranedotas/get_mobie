@@ -12145,3 +12145,9 @@ LGS-00026-02 evses -> 0: status : CHARGING
 2023-09-20 20:36:19
 CBR-00077-02 evses -> 0: status : CHARGING
 LGS-00026-02 evses -> 0: status : CHARGING
+
+2023-09-20 21:11:45
+ALQ-00014-01 evses -> 1: status : CHARGING
+GMR-00104-1 evses -> 0: status : CHARGING
+LGS-00026-02 evses -> 0: status : CHARGING
+OER-00161-1 evses -> 0: status : CHARGING
