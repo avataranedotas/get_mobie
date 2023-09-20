@@ -6538,3 +6538,49 @@ SNT-00099
 : 
  NEW coordinates : {'latitude': '38.800327', 'longitude': '-9.325723'}
  OLD coordinates : {'latitude': '38.800833', 'longitude': '-9.225278'}
+
+2023-09-20 14:36:33
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW power_type : DC
+ OLD power_type : AC_3_PHASE
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 400
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 32
+PBL-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
+PBL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+PBL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW power_type : AC_3_PHASE
+ OLD power_type : DC
+PBL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PBL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+PBL-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
