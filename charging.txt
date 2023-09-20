@@ -12137,3 +12137,7 @@ MTS-00109-03 evses -> 1: status : CHARGING
 
 2023-09-20 19:36:05
 LGS-00026-02 evses -> 0: status : CHARGING
+
+2023-09-20 20:14:45
+CBR-00077-02 evses -> 0: status : CHARGING
+LGS-00026-02 evses -> 0: status : CHARGING
