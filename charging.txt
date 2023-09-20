@@ -12108,3 +12108,10 @@ LSB-90037-2 evses -> 1: status : CHARGING
 GMR-00106-01 evses -> 0: status : CHARGING
 LGS-00026-02 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
+
+2023-09-20 17:12:15
+GMR-00106-01 evses -> 0: status : CHARGING
+LGS-00026-02 evses -> 0: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
+LSB-90037-2 evses -> 1: status : CHARGING
+VFR-00015-01 evses -> 0: status : CHARGING
