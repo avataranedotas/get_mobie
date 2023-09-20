@@ -12096,3 +12096,6 @@ LSB-90037-2 evses -> 1: status : CHARGING
 2023-09-20 14:36:38
 PBL-00017-03 evses -> 0: status : CHARGING
 SXL-00043-01 evses -> 0: status : CHARGING
+
+2023-09-20 15:14:03
+CBR-00077-02 evses -> 0: status : CHARGING
