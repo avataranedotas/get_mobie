@@ -12099,3 +12099,7 @@ SXL-00043-01 evses -> 0: status : CHARGING
 
 2023-09-20 15:14:03
 CBR-00077-02 evses -> 0: status : CHARGING
+
+2023-09-20 16:18:13
+GMR-00106-01 evses -> 0: status : CHARGING
+LSB-90037-2 evses -> 1: status : CHARGING
