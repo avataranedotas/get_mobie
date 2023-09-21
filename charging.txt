@@ -12225,3 +12225,9 @@ AGH-00004-1 evses -> 0: status : CHARGING
 LGS-00026-02 evses -> 0: status : CHARGING
 LLE-00067-02 evses -> 1: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
+
+2023-09-21 04:36:12
+AGH-00004-1 evses -> 0: status : CHARGING
+LGS-00026-02 evses -> 0: status : CHARGING
+LLE-00067-02 evses -> 1: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
