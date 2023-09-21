@@ -12302,3 +12302,8 @@ LSB-90037-1 evses -> 0: status : CHARGING
 
 2023-09-21 15:36:35
 CBR-00077-02 evses -> 0: status : CHARGING
+
+2023-09-21 17:12:45
+CTB-00030-01 evses -> 0: status : CHARGING
+CTB-00030-01 evses -> 0: status : CHARGING
+LSD-00005-02 evses -> 0: status : CHARGING
