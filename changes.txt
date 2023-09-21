@@ -6592,3 +6592,29 @@ SJM-00018 --> GLG 40.893576 -8.482567 São João da Madeira Av. da Liberdade PAR
 [{'id': 'SJM-00018-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-09-21T08:49:35.355Z'}]
 [{'id': 'SJM-00018-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-09-21T08:49:35.355Z'}]
 Removidos:[]
+
+2023-09-21 11:11:42
+ABT-00017
+: 
+ NEW address : CEPSA ABRANTES - A23 KM 44 MOURISCAS N/S
+ OLD address : A23 Km 44 Mouriscas N/S
+ABT-00018
+: 
+ NEW address : CEPSA ABRANTES - A23 KM 44 MOURISCAS S/N
+ OLD address : A23 Km 44 Mouriscas S/N
+FND-00013
+: 
+ NEW address : CEPSA FUNDÃO- A23 KM 162 TEIXOSO ALQUERIA N/S
+ OLD address : A23 Km 162 Teixoso Alqueria N/S
+FND-00014
+: 
+ NEW address : CEPSA FUNDÃO- A23 KM 162 TEIXOSO ALQUERIA S/N
+ OLD address : A23 Km 162 Teixoso Alqueria S/N
+LRA-00088
+: 
+ NEW address : CEPSA LEIRIA - A1 KM 125,7 SENTIDO NORTE/SUL
+ OLD address : A1 km 125,7 (Sentido Norte/Sul)
+LRA-00089
+: 
+ NEW address : CEPSA LEIRIA - A1 KM 125,7 SENTIDO SUL/NORTE
+ OLD address : A1 km 125,7 (Sentido Sul/Norte)
