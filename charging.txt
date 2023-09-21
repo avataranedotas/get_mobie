@@ -12334,3 +12334,8 @@ LSB-90037-2 evses -> 1: status : CHARGING
 MTS-00109-01 evses -> 2: status : CHARGING
 VIS-00063-01 evses -> 0: status : CHARGING
 VNG-00123-01 evses -> 1: status : CHARGING
+
+2023-09-21 19:36:16
+ALQ-00014-02 evses -> 2: status : CHARGING
+LSB-90037-2 evses -> 1: status : CHARGING
+MTS-00109-01 evses -> 2: status : CHARGING
