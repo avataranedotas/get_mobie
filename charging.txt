@@ -12358,3 +12358,10 @@ LSB-90037-1 evses -> 0: status : CHARGING
 MTS-00109-01 evses -> 2: status : CHARGING
 TMR-00015-01 evses -> 0: status : CHARGING
 TMR-00015-02 evses -> 1: status : CHARGING
+
+2023-09-21 21:36:14
+CBR-00077-02 evses -> 0: status : CHARGING
+GMR-00104-1 evses -> 0: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
+TMR-00015-01 evses -> 0: status : CHARGING
+TMR-00015-02 evses -> 1: status : CHARGING
