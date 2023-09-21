@@ -6584,3 +6584,11 @@ PBL-00017
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-09-21 09:13:54
+Adicionados:['SJM-00018']
+
+SJM-00018 --> GLG 40.893576 -8.482567 São João da Madeira Av. da Liberdade PARKING_LOT
+[{'id': 'SJM-00018-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-09-21T08:49:35.355Z'}]
+[{'id': 'SJM-00018-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-09-21T08:49:35.355Z'}]
+Removidos:[]

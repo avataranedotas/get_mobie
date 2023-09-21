@@ -12265,3 +12265,8 @@ LSB-90037-1 evses -> 0: status : CHARGING
 
 2023-09-21 08:36:49
 LSB-90037-1 evses -> 0: status : CHARGING
+
+2023-09-21 09:13:59
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
+PNF-00017-01 evses -> 1: status : CHARGING
