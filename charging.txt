@@ -12523,3 +12523,6 @@ TVD-00035-01 evses -> 1: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 PNF-00017-01 evses -> 1: status : CHARGING
 TVD-00035-01 evses -> 1: status : CHARGING
+
+2023-09-22 17:36:19
+LSB-00576-01 evses -> 1: status : CHARGING
