@@ -12442,3 +12442,8 @@ LSB-00576-02 evses -> 0: status : CHARGING
 LSB-00576-02 evses -> 0: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
+
+2023-09-22 09:13:33
+LSB-00576-02 evses -> 0: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
+LSB-90037-2 evses -> 1: status : CHARGING
