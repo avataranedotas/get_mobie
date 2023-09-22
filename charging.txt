@@ -12484,3 +12484,6 @@ PBL-00017-01 evses -> 1: status : CHARGING
 2023-09-22 12:51:06
 LSB-00576-02 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
+
+2023-09-22 13:17:02
+LSB-00576-02 evses -> 0: status : CHARGING

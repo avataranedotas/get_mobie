@@ -6741,3 +6741,11 @@ OER-00184 --> KLC 38.714744 -9.240297 Oeiras Av. 25 de Abril de 1974 25 PARKING_
 [{'id': 'OER-00184-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-09-22T10:48:30.735Z'}]
 [{'id': 'OER-00184-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T10:48:30.736Z'}]
 Removidos:[]
+
+2023-09-22 13:16:57
+Adicionados:['ALB-00008']
+
+ALB-00008 --> GLP 40.690927 -8.479328 Albergaria-a-Velha Alameda 5 de Outubro PARKING_LOT
+[{'id': 'ALB-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T12:56:24.23Z'}]
+[{'id': 'ALB-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T12:56:24.23Z'}]
+Removidos:[]
