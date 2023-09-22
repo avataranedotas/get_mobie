@@ -12399,3 +12399,7 @@ VIS-00063-01 evses -> 0: status : CHARGING
 GMR-00104-1 evses -> 0: status : CHARGING
 TMR-00015-02 evses -> 1: status : CHARGING
 VIS-00063-01 evses -> 0: status : CHARGING
+
+2023-09-22 02:36:19
+GMR-00104-1 evses -> 0: status : CHARGING
+VIS-00063-01 evses -> 0: status : CHARGING
