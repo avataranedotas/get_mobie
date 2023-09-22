@@ -6725,3 +6725,10 @@ AVR-00046 --> REP 40.645796 -8.627414 Aveiro Variante Esgueira E.N. 109/16 PARKI
 [{'id': 'AVR-00046-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-09-22T09:45:04.984Z'}]
 [{'id': 'AVR-00046-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T09:45:04.984Z'}]
 Removidos:[]
+
+2023-09-22 10:36:20
+Adicionados:['AVR-00045']
+
+AVR-00045 --> REP 40.645765 -8.627387 Aveiro Variante Esgueira E.N. 109/16 PARKING_LOT
+[{'id': 'AVR-00045-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T10:13:55.983Z'}]
+Removidos:[]
