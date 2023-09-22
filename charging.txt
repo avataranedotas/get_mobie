@@ -12461,3 +12461,10 @@ LSB-90037-2 evses -> 1: status : CHARGING
 2023-09-22 10:36:24
 LSB-90037-1 evses -> 0: status : CHARGING
 LSB-90037-2 evses -> 1: status : CHARGING
+
+2023-09-22 11:11:36
+CBR-00077-03 evses -> 2: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
+LSB-90037-2 evses -> 1: status : CHARGING
+STB-00059-02 evses -> 1: status : CHARGING
