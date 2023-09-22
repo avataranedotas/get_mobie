@@ -6749,3 +6749,33 @@ ALB-00008 --> GLP 40.690927 -8.479328 Albergaria-a-Velha Alameda 5 de Outubro PA
 [{'id': 'ALB-00008-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T12:56:24.23Z'}]
 [{'id': 'ALB-00008-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T12:56:24.23Z'}]
 Removidos:[]
+
+2023-09-22 17:12:02
+ABF-00055
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+ABF-00055
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+ABF-00055
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 80000
+ABF-00055
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+ABF-00055
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 900
+ OLD max_voltage : 500
+ABF-00055
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+ABF-00055
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
