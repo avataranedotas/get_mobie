@@ -12560,3 +12560,6 @@ VNG-00121-02 evses -> 0: status : CHARGING
 CTB-00013-01 evses -> 0: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
 SXL-00044-01 evses -> 0: status : CHARGING
+
+2023-09-22 19:38:50
+SXL-00044-01 evses -> 0: status : CHARGING
