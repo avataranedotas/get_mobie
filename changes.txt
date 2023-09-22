@@ -6732,3 +6732,12 @@ Adicionados:['AVR-00045']
 AVR-00045 --> REP 40.645765 -8.627387 Aveiro Variante Esgueira E.N. 109/16 PARKING_LOT
 [{'id': 'AVR-00045-1-1', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T10:13:55.983Z'}]
 Removidos:[]
+
+2023-09-22 11:36:08
+Adicionados:['OER-00184']
+
+OER-00184 --> KLC 38.714744 -9.240297 Oeiras Av. 25 de Abril de 1974 25 PARKING_LOT
+[{'id': 'OER-00184-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-09-22T10:48:30.736Z'}]
+[{'id': 'OER-00184-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-09-22T10:48:30.735Z'}]
+[{'id': 'OER-00184-03-01', 'standard': 'IEC_62196_T2', 'format': 'CABLE', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-22T10:48:30.736Z'}]
+Removidos:[]
