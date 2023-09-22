@@ -12508,3 +12508,8 @@ ACB-00008-02 evses -> 1: status : CHARGING
 CBR-00077-03 evses -> 2: status : CHARGING
 LSB-00576-01 evses -> 1: status : CHARGING
 LSB-90037-1 evses -> 0: status : CHARGING
+
+2023-09-22 16:17:57
+CBR-00077-03 evses -> 2: status : CHARGING
+LSB-00576-01 evses -> 1: status : CHARGING
+LSB-90037-1 evses -> 0: status : CHARGING
