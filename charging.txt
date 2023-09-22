@@ -12421,3 +12421,6 @@ VIS-00063-01 evses -> 0: status : CHARGING
 
 2023-09-22 05:36:15
 VIS-00063-01 evses -> 0: status : CHARGING
+
+2023-09-22 06:18:41
+VIS-00063-01 evses -> 0: status : CHARGING
