@@ -12566,3 +12566,7 @@ SXL-00044-01 evses -> 0: status : CHARGING
 
 2023-09-23 08:36:09
 ALB-00008-02 evses -> 1: status : CHARGING
+
+2023-09-23 09:12:04
+ALB-00008-01 evses -> 0: status : CHARGING
+ALB-00008-02 evses -> 1: status : CHARGING
