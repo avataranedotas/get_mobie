@@ -12573,3 +12573,7 @@ ALB-00008-02 evses -> 1: status : CHARGING
 
 2023-09-23 10:36:03
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-23 11:10:09
+VNG-00121-02 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
