@@ -12701,3 +12701,6 @@ MTJ-00037-01 evses -> 0: status : CHARGING
 
 2023-09-24 10:12:57
 MTJ-00037-01 evses -> 0: status : CHARGING
+
+2023-09-24 10:35:57
+MTJ-00037-01 evses -> 0: status : CHARGING
