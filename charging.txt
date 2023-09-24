@@ -12717,3 +12717,6 @@ VNG-00121-02 evses -> 0: status : CHARGING
 
 2023-09-24 12:46:11
 VNG-00121-02 evses -> 0: status : CHARGING
+
+2023-09-24 17:11:10
+SJM-00018-01 evses -> 0: status : CHARGING
