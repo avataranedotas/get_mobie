@@ -12695,3 +12695,6 @@ LGS-00026-01 evses -> 1: status : CHARGING
 
 2023-09-24 07:36:10
 LGS-00026-01 evses -> 1: status : CHARGING
+
+2023-09-24 09:36:14
+MTJ-00037-01 evses -> 0: status : CHARGING
