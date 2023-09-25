@@ -6904,3 +6904,11 @@ CLT-00007 --> FAC 32.737711 -17.210867 Calheta (Madeira) Caminho Jardim do Mar  
 [{'id': 'CLT-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:07:11.349Z'}]
 [{'id': 'CLT-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:07:11.349Z'}]
 Removidos:[]
+
+2023-09-25 16:39:45
+Adicionados:['LSB-00627']
+
+LSB-00627 --> EDP 38.700508 -9.180283 Lisboa Tv. do Conde da Ponte PARKING_LOT
+[{'id': 'LSB-00627-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T16:20:37.531Z'}]
+[{'id': 'LSB-00627-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T16:20:37.531Z'}]
+Removidos:[]
