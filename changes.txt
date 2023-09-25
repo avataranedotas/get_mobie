@@ -6896,3 +6896,11 @@ CRV-00002 --> JHO 39.672781 -31.11371 Corvo Rua do Jogo da Bola PARKING_GARAGE
 [{'id': 'CRV-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T12:06:12.274Z'}]
 [{'id': 'CRV-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T12:06:12.274Z'}]
 Removidos:['CRV-00001']
+
+2023-09-25 15:15:00
+Adicionados:['CLT-00007']
+
+CLT-00007 --> FAC 32.737711 -17.210867 Calheta (Madeira) Caminho Jardim do Mar  PARKING_LOT
+[{'id': 'CLT-00007-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:07:11.349Z'}]
+[{'id': 'CLT-00007-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:07:11.349Z'}]
+Removidos:[]
