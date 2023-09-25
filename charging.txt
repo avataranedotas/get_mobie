@@ -12744,3 +12744,7 @@ RMZ-00006-02 evses -> 1: status : CHARGING
 2023-09-25 14:13:17
 EPS-00002-02 evses -> 1: status : CHARGING
 RMZ-00006-02 evses -> 1: status : CHARGING
+
+2023-09-25 14:36:27
+BJA-00019-02 evses -> 0: status : CHARGING
+EPS-00002-02 evses -> 1: status : CHARGING
