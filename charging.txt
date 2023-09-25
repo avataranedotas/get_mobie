@@ -12756,3 +12756,6 @@ EPS-00002-02 evses -> 1: status : CHARGING
 2023-09-25 15:36:33
 EPS-00002-02 evses -> 1: status : CHARGING
 MRA-00004-01 evses -> 1: status : CHARGING
+
+2023-09-25 16:18:30
+MRA-00004-01 evses -> 1: status : CHARGING
