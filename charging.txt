@@ -12759,3 +12759,6 @@ MRA-00004-01 evses -> 1: status : CHARGING
 
 2023-09-25 16:18:30
 MRA-00004-01 evses -> 1: status : CHARGING
+
+2023-09-25 18:18:23
+VNG-00121-02 evses -> 0: status : CHARGING
