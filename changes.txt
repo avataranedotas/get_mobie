@@ -6779,3 +6779,53 @@ ABF-00055
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 60000
+
+2023-09-25 04:16:49
+LRA-90006
+evses -> 0: 
+ NEW uid : LRA-90006-3
+ OLD uid : LRA-90006-1
+LRA-90006
+evses -> 0: 
+ NEW evse_id : PT*HRZ*E*LRA*90006*3
+ OLD evse_id : PT*HRZ*E*LRA*90006*1
+LRA-90006
+evses -> 0 -> connectors -> 0: 
+ NEW id : LRA-90006-03-01
+ OLD id : LRA-90006-01-01
+LRA-90006
+evses -> 1: 
+ NEW uid : LRA-90006-4
+ OLD uid : LRA-90006-3
+LRA-90006
+evses -> 1: 
+ NEW evse_id : PT*HRZ*E*LRA*90006*4
+ OLD evse_id : PT*HRZ*E*LRA*90006*3
+LRA-90006
+evses -> 1 -> connectors -> 0: 
+ NEW id : LRA-90006-04-01
+ OLD id : LRA-90006-03-01
+LRA-90006
+evses -> 2: 
+ NEW uid : LRA-90006-2
+ OLD uid : LRA-90006-4
+LRA-90006
+evses -> 2: 
+ NEW evse_id : PT*HRZ*E*LRA*90006*2
+ OLD evse_id : PT*HRZ*E*LRA*90006*4
+LRA-90006
+evses -> 2 -> connectors -> 0: 
+ NEW id : LRA-90006-02-01
+ OLD id : LRA-90006-04-01
+LRA-90006
+evses -> 3: 
+ NEW uid : LRA-90006-1
+ OLD uid : LRA-90006-2
+LRA-90006
+evses -> 3: 
+ NEW evse_id : PT*HRZ*E*LRA*90006*1
+ OLD evse_id : PT*HRZ*E*LRA*90006*2
+LRA-90006
+evses -> 3 -> connectors -> 0: 
+ NEW id : LRA-90006-01-01
+ OLD id : LRA-90006-02-01
