@@ -12737,3 +12737,6 @@ SXL-00030-02 evses -> 0: status : CHARGING
 2023-09-25 13:18:00
 STB-00053-02 evses -> 2: status : CHARGING
 SXL-00030-02 evses -> 0: status : CHARGING
+
+2023-09-25 13:36:17
+RMZ-00006-02 evses -> 1: status : CHARGING
