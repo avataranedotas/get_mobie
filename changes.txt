@@ -6888,3 +6888,11 @@ VNG-00125
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 62000
+
+2023-09-25 12:28:01
+Adicionados:['CRV-00002']
+
+CRV-00002 --> JHO 39.672781 -31.11371 Corvo Rua do Jogo da Bola PARKING_GARAGE
+[{'id': 'CRV-00002-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T12:06:12.274Z'}]
+[{'id': 'CRV-00002-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T12:06:12.274Z'}]
+Removidos:['CRV-00001']
