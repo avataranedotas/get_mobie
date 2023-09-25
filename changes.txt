@@ -6829,3 +6829,12 @@ LRA-90006
 evses -> 3 -> connectors -> 0: 
  NEW id : LRA-90006-01-01
  OLD id : LRA-90006-02-01
+
+2023-09-25 11:11:33
+Adicionados:['VNG-00125']
+
+VNG-00125 --> HRZ 41.043306 -8.563245 Vila Nova de Gaia Av. Dr. Moreira Sousa PARKING_LOT
+[{'id': 'VNG-00125-03-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T10:27:06.036Z'}]
+[{'id': 'VNG-00125-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-09-25T10:27:06.036Z'}]
+[{'id': 'VNG-00125-02-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62000, 'last_updated': '2023-09-25T10:27:06.036Z'}]
+Removidos:[]
