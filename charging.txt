@@ -12792,3 +12792,7 @@ VNG-00121-01 evses -> 1: status : CHARGING
 
 2023-09-26 14:36:37
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-26 16:39:11
+MRA-00004-01 evses -> 1: status : CHARGING
+STB-00055-01 evses -> 0: status : CHARGING
