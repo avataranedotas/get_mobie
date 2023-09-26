@@ -6912,3 +6912,11 @@ LSB-00627 --> EDP 38.700508 -9.180283 Lisboa Tv. do Conde da Ponte PARKING_LOT
 [{'id': 'LSB-00627-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T16:20:37.531Z'}]
 [{'id': 'LSB-00627-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-09-25T16:20:37.531Z'}]
 Removidos:[]
+
+2023-09-26 09:13:58
+Adicionados:['CLD-00025']
+
+CLD-00025 --> ECI 39.398056 -9.135000 Caldas da Rainha Rua Fernando Ponte e Sousa 11 PARKING_LOT
+[{'id': 'CLD-00025-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-09-26T08:43:21.422Z'}]
+[{'id': 'CLD-00025-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-09-26T08:43:21.422Z'}]
+Removidos:[]
