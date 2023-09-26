@@ -12786,3 +12786,6 @@ VNG-00121-02 evses -> 0: status : CHARGING
 
 2023-09-26 09:14:03
 TRF-00009-02 evses -> 0: status : CHARGING
+
+2023-09-26 13:36:16
+VNG-00121-01 evses -> 1: status : CHARGING
