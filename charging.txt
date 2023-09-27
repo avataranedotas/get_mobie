@@ -12814,3 +12814,6 @@ SJM-00018-02 evses -> 1: status : CHARGING
 
 2023-09-27 11:11:36
 SJM-00018-02 evses -> 1: status : CHARGING
+
+2023-09-27 11:36:11
+SJM-00018-02 evses -> 1: status : CHARGING
