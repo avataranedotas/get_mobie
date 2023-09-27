@@ -12857,3 +12857,9 @@ OAZ-00005-01 evses -> 0: status : CHARGING
 2023-09-27 18:37:10
 OAZ-00005-01 evses -> 0: status : CHARGING
 VNG-00121-02 evses -> 0: status : CHARGING
+
+2023-09-27 19:11:02
+EPS-00002-03 evses -> 2: status : CHARGING
+OAZ-00005-01 evses -> 0: status : CHARGING
+VNG-00121-02 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
