@@ -12805,3 +12805,6 @@ BJA-00019-01 evses -> 2: status : CHARGING
 
 2023-09-27 08:37:06
 SJM-00018-01 evses -> 0: status : CHARGING
+
+2023-09-27 09:13:42
+SJM-00018-01 evses -> 0: status : CHARGING
