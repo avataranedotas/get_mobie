@@ -12834,3 +12834,8 @@ STB-00055-01 evses -> 0: status : CHARGING
 CBR-00038-01 evses -> 0: status : CHARGING
 MTJ-00037-01 evses -> 0: status : CHARGING
 STB-00055-02 evses -> 1: status : CHARGING
+
+2023-09-27 16:39:12
+MTJ-00037-01 evses -> 0: status : CHARGING
+STB-00055-02 evses -> 1: status : CHARGING
+VIS-00072-01 evses -> 0: status : CHARGING
