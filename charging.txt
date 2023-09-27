@@ -12870,3 +12870,9 @@ EPS-00002-03 evses -> 2: status : CHARGING
 MTJ-00037-01 evses -> 0: status : CHARGING
 OAZ-00005-01 evses -> 0: status : CHARGING
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-27 20:14:27
+CTB-00016-02 evses -> 1: status : CHARGING
+EPS-00002-03 evses -> 2: status : CHARGING
+MTJ-00037-01 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
