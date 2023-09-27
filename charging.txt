@@ -12896,3 +12896,7 @@ EPS-00002-03 evses -> 2: status : CHARGING
 2023-09-27 22:12:21
 CTB-00016-02 evses -> 1: status : CHARGING
 EPS-00002-03 evses -> 2: status : CHARGING
+
+2023-09-27 22:36:11
+CTB-00016-02 evses -> 1: status : CHARGING
+EPS-00002-03 evses -> 2: status : CHARGING
