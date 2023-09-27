@@ -12844,3 +12844,8 @@ VIS-00072-01 evses -> 0: status : CHARGING
 CBR-00038-01 evses -> 0: status : CHARGING
 EPS-00002-03 evses -> 2: status : CHARGING
 VIS-00072-01 evses -> 0: status : CHARGING
+
+2023-09-27 17:36:12
+BJA-00019-02 evses -> 0: status : CHARGING
+CBR-00038-01 evses -> 0: status : CHARGING
+OAZ-00005-01 evses -> 0: status : CHARGING
