@@ -6938,3 +6938,16 @@ PRT-00200 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARA
 PRT-00201 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARAGE
 [{'id': 'PRT-00201-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T14:22:11.625Z'}]
 Removidos:[]
+
+2023-09-27 15:15:03
+Adicionados:['PRT-00202', 'PRT-00204', 'PRT-00205']
+
+PRT-00202 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARAGE
+[{'id': 'PRT-00202-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T14:29:25.508Z'}]
+
+PRT-00204 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARAGE
+[{'id': 'PRT-00204-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T14:36:40.31Z'}]
+
+PRT-00205 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARAGE
+[{'id': 'PRT-00205-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T14:41:07.008Z'}]
+Removidos:[]
