@@ -6951,3 +6951,15 @@ PRT-00204 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARA
 PRT-00205 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n PARKING_GARAGE
 [{'id': 'PRT-00205-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_1_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T14:41:07.008Z'}]
 Removidos:[]
+
+2023-09-28 16:18:07
+Adicionados:['OER-00178', 'OER-00179']
+
+OER-00178 --> GLP 38.6943344 -9.321914 Oeiras Avenida da Republica  PARKING_LOT
+[{'id': 'OER-00178-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-09-28T15:57:09.106Z'}]
+[{'id': 'OER-00178-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-09-28T15:57:09.106Z'}]
+
+OER-00179 --> GLP 38.6943344 -9.321914 Oeiras Avenida da Republica  PARKING_LOT
+[{'id': 'OER-00179-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-09-28T15:43:30.644Z'}]
+[{'id': 'OER-00179-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-09-28T15:43:30.644Z'}]
+Removidos:[]
