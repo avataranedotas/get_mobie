@@ -12991,3 +12991,9 @@ EPS-00002-03 evses -> 2: status : CHARGING
 OAZ-00005-01 evses -> 0: status : CHARGING
 SCG-00003-01 evses -> 1: status : CHARGING
 SXL-00030-02 evses -> 0: status : CHARGING
+
+2023-09-28 11:11:26
+BJA-00019-02 evses -> 0: status : CHARGING
+EPS-00002-03 evses -> 2: status : CHARGING
+MTJ-00037-01 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
