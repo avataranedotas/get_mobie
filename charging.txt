@@ -13020,3 +13020,7 @@ TRF-00009-01 evses -> 1: status : CHARGING
 
 2023-09-28 14:13:17
 TRF-00009-01 evses -> 1: status : CHARGING
+
+2023-09-28 14:36:17
+MTJ-00037-02 evses -> 1: status : CHARGING
+TRF-00009-01 evses -> 1: status : CHARGING
