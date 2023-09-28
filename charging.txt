@@ -13084,3 +13084,6 @@ VIS-00010-01 evses -> 1: status : CHARGING
 
 2023-09-28 20:12:31
 CTB-00016-02 evses -> 1: status : CHARGING
+
+2023-09-28 20:36:16
+MTJ-00037-01 evses -> 0: status : CHARGING
