@@ -13038,3 +13038,9 @@ MRA-00004-02 evses -> 2: status : CHARGING
 OAZ-00005-01 evses -> 0: status : CHARGING
 SXL-00030-02 evses -> 0: status : CHARGING
 VIS-00010-01 evses -> 1: status : CHARGING
+
+2023-09-28 16:39:24
+CTB-00016-02 evses -> 1: status : CHARGING
+EPS-00002-03 evses -> 2: status : CHARGING
+SXL-00030-02 evses -> 0: status : CHARGING
+VIS-00010-02 evses -> 0: status : CHARGING
