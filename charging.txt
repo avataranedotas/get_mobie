@@ -13081,3 +13081,6 @@ VNG-00121-01 evses -> 1: status : CHARGING
 CTB-00016-02 evses -> 1: status : CHARGING
 MTJ-00037-01 evses -> 0: status : CHARGING
 VIS-00010-01 evses -> 1: status : CHARGING
+
+2023-09-28 20:12:31
+CTB-00016-02 evses -> 1: status : CHARGING
