@@ -12977,3 +12977,7 @@ EPS-00002-03 evses -> 2: status : CHARGING
 EPS-00002-03 evses -> 2: status : CHARGING
 VNG-00121-02 evses -> 0: status : CHARGING
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-28 09:36:13
+EPS-00002-03 evses -> 2: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
