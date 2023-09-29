@@ -13097,3 +13097,6 @@ MTJ-00037-02 evses -> 1: status : CHARGING
 
 2023-09-29 08:17:32
 ALQ-00011-1 evses -> 0: status : CHARGING
+
+2023-09-29 08:36:11
+BJA-00019-02 evses -> 0: status : CHARGING
