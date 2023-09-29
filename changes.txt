@@ -6994,3 +6994,17 @@ GDM-00037 --> IBD 41.143859 -8.541468 Gondomar Avenida Oliveira Martins PARKING_
 [{'id': 'GDM-00037-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:28:45.73Z'}]
 [{'id': 'GDM-00037-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:28:45.73Z'}]
 Removidos:[]
+
+2023-09-29 15:36:25
+STB-00059
+coordinates: 
+ NEW latitude : 38.538176
+ OLD latitude : 38.685725
+STB-00059
+coordinates: 
+ NEW longitude : -8.872463
+ OLD longitude : -9.343966
+STB-00059
+: 
+ NEW coordinates : {'latitude': '38.538176', 'longitude': '-8.872463'}
+ OLD coordinates : {'latitude': '38.685725', 'longitude': '-9.343966'}
