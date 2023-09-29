@@ -6963,3 +6963,16 @@ OER-00179 --> GLP 38.6943344 -9.321914 Oeiras Avenida da Republica  PARKING_LOT
 [{'id': 'OER-00179-01-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-09-28T15:43:30.644Z'}]
 [{'id': 'OER-00179-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-09-28T15:43:30.644Z'}]
 Removidos:[]
+
+2023-09-29 10:14:32
+Adicionados:['MTS-00129', 'VIS-00080']
+
+MTS-00129 --> IBD 41.193959 -8.613037 Matosinhos Rua da Conceição , 984  PARKING_LOT
+[{'id': 'MTS-00129-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T09:29:32.198Z'}]
+[{'id': 'MTS-00129-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T09:29:32.198Z'}]
+
+VIS-00080 --> HRZ 40.69701 -7.910777 Viseu RUA DA GANDARA 29 PARKING_LOT
+[{'id': 'VIS-00080-03-01', 'standard': 'CHADEMO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-09-29T09:42:37.754Z'}]
+[{'id': 'VIS-00080-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T09:42:37.754Z'}]
+[{'id': 'VIS-00080-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-09-29T09:42:37.754Z'}]
+Removidos:[]
