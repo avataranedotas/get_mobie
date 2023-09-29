@@ -7008,3 +7008,17 @@ STB-00059
 : 
  NEW coordinates : {'latitude': '38.538176', 'longitude': '-8.872463'}
  OLD coordinates : {'latitude': '38.685725', 'longitude': '-9.343966'}
+
+2023-09-29 16:18:01
+STB-00058
+coordinates: 
+ NEW latitude : 38.538176
+ OLD latitude : 38.538201
+STB-00058
+coordinates: 
+ NEW longitude : -8.872460
+ OLD longitude : -8.877264
+STB-00058
+: 
+ NEW coordinates : {'latitude': '38.538176', 'longitude': '-8.872460'}
+ OLD coordinates : {'latitude': '38.538201', 'longitude': '-8.877264'}
