@@ -6976,3 +6976,13 @@ VIS-00080 --> HRZ 40.69701 -7.910777 Viseu RUA DA GANDARA 29 PARKING_LOT
 [{'id': 'VIS-00080-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T09:42:37.754Z'}]
 [{'id': 'VIS-00080-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-09-29T09:42:37.754Z'}]
 Removidos:[]
+
+2023-09-29 13:35:56
+Adicionados:['LSB-00632', 'LSB-00634']
+
+LSB-00632 --> MOT 38.747031 -9.167329 Lisboa Calçada de Palma de Baixo, Nº 12 PARKING_LOT
+[{'id': 'LSB-00632-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-29T13:09:25.531Z'}]
+
+LSB-00634 --> MOT 38.747031 -9.167329 Lisboa Calçada de Palma de Baixo, Nº 12 PARKING_LOT
+[{'id': 'LSB-00634-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-29T13:14:55.999Z'}]
+Removidos:[]
