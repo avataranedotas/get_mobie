@@ -13133,3 +13133,8 @@ CTB-00016-02 evses -> 1: status : CHARGING
 MTJ-00037-01 evses -> 0: status : CHARGING
 MTJ-00037-02 evses -> 1: status : CHARGING
 STB-00053-02 evses -> 2: status : CHARGING
+
+2023-09-29 13:17:00
+BJA-00019-02 evses -> 0: status : CHARGING
+CTB-00016-02 evses -> 1: status : CHARGING
+MTJ-00037-02 evses -> 1: status : CHARGING
