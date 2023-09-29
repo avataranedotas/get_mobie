@@ -13115,3 +13115,7 @@ LLE-00041-01 evses -> 1: status : CHARGING
 BJA-00019-02 evses -> 0: status : CHARGING
 LLE-00041-01 evses -> 1: status : CHARGING
 VMS-00002-02 evses -> 0: status : CHARGING
+
+2023-09-29 11:11:31
+CTB-00016-02 evses -> 1: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
