@@ -13119,3 +13119,7 @@ VMS-00002-02 evses -> 0: status : CHARGING
 2023-09-29 11:11:31
 CTB-00016-02 evses -> 1: status : CHARGING
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-29 11:36:05
+VIS-00010-02 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
