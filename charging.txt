@@ -13123,3 +13123,7 @@ VNG-00121-01 evses -> 1: status : CHARGING
 2023-09-29 11:36:05
 VIS-00010-02 evses -> 0: status : CHARGING
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-29 12:27:09
+MTJ-00037-02 evses -> 1: status : CHARGING
+VIS-00010-02 evses -> 0: status : CHARGING
