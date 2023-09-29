@@ -13110,3 +13110,8 @@ OAZ-00005-01 evses -> 0: status : CHARGING
 
 2023-09-29 10:14:36
 LLE-00041-01 evses -> 1: status : CHARGING
+
+2023-09-29 10:36:05
+BJA-00019-02 evses -> 0: status : CHARGING
+LLE-00041-01 evses -> 1: status : CHARGING
+VMS-00002-02 evses -> 0: status : CHARGING
