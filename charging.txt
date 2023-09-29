@@ -13182,3 +13182,10 @@ VNG-00121-01 evses -> 1: status : CHARGING
 2023-09-29 17:36:08
 GMR-00106-02 evses -> 1: status : CHARGING
 MTJ-00037-01 evses -> 0: status : CHARGING
+
+2023-09-29 18:18:09
+BJA-00019-02 evses -> 0: status : CHARGING
+MFR-00029-02 evses -> 0: status : CHARGING
+MTJ-00037-01 evses -> 0: status : CHARGING
+VIS-00010-01 evses -> 1: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
