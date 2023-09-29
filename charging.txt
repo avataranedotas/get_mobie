@@ -13163,3 +13163,12 @@ SJM-00018-02 evses -> 1: status : CHARGING
 STB-00053-03 evses -> 0: status : CHARGING
 STB-00053-02 evses -> 2: status : CHARGING
 VNG-00121-02 evses -> 0: status : CHARGING
+
+2023-09-29 16:38:09
+BJA-00019-02 evses -> 0: status : CHARGING
+EPS-00002-02 evses -> 1: status : CHARGING
+GMR-00106-02 evses -> 1: status : CHARGING
+SJM-00018-02 evses -> 1: status : CHARGING
+STB-00053-02 evses -> 2: status : CHARGING
+VNG-00121-02 evses -> 0: status : CHARGING
+VNG-00121-01 evses -> 1: status : CHARGING
