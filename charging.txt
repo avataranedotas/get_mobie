@@ -13100,3 +13100,6 @@ ALQ-00011-1 evses -> 0: status : CHARGING
 
 2023-09-29 08:36:11
 BJA-00019-02 evses -> 0: status : CHARGING
+
+2023-09-29 09:13:27
+OAZ-00005-01 evses -> 0: status : CHARGING
