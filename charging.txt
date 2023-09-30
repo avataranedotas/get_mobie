@@ -13243,3 +13243,8 @@ STB-00055-01 evses -> 0: status : CHARGING
 2023-09-30 11:21:50
 PRT-00202-01 evses -> 0: status : CHARGING
 PRT-00204-01 evses -> 0: status : CHARGING
+
+2023-09-30 11:36:17
+PRT-00201-01 evses -> 0: status : CHARGING
+PRT-00202-01 evses -> 0: status : CHARGING
+PRT-00204-01 evses -> 0: status : CHARGING
