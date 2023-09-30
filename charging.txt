@@ -13227,3 +13227,8 @@ MTJ-00037-02 evses -> 1: status : CHARGING
 BJA-00019-03 evses -> 1: status : CHARGING
 MTJ-00037-02 evses -> 1: status : CHARGING
 VNG-00121-01 evses -> 1: status : CHARGING
+
+2023-09-30 10:36:10
+BJA-00019-03 evses -> 1: status : CHARGING
+EPS-00002-02 evses -> 1: status : CHARGING
+MTJ-00037-01 evses -> 0: status : CHARGING
