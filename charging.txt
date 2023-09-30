@@ -13346,3 +13346,8 @@ VIS-00080-02 evses -> 1: status : CHARGING
 PRT-00201-01 evses -> 0: status : CHARGING
 PRT-00202-01 evses -> 0: status : CHARGING
 VIS-00080-02 evses -> 1: status : CHARGING
+
+2023-09-30 23:12:19
+PRT-00201-01 evses -> 0: status : CHARGING
+PRT-00202-01 evses -> 0: status : CHARGING
+VIS-00080-02 evses -> 1: status : CHARGING
