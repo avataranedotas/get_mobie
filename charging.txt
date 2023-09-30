@@ -13217,3 +13217,8 @@ STB-00053-02 evses -> 2: status : CHARGING
 
 2023-09-30 08:36:10
 STB-00053-02 evses -> 2: status : CHARGING
+
+2023-09-30 09:36:05
+BJA-00019-03 evses -> 1: status : CHARGING
+MTJ-00037-01 evses -> 0: status : CHARGING
+MTJ-00037-02 evses -> 1: status : CHARGING
