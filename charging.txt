@@ -13372,3 +13372,6 @@ VIS-00080-02 evses -> 1: status : CHARGING
 
 2023-10-01 03:36:22
 VIS-00080-02 evses -> 1: status : CHARGING
+
+2023-10-01 06:36:10
+VNG-00125-01 evses -> 1: status : CHARGING
