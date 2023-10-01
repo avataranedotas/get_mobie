@@ -13425,3 +13425,8 @@ PRT-00201-01 evses -> 0: status : CHARGING
 MMN-00007-03 evses -> 1: status : CHARGING
 PRT-00200-01 evses -> 0: status : CHARGING
 PRT-00201-01 evses -> 0: status : CHARGING
+
+2023-10-01 18:36:16
+MMN-00007-03 evses -> 1: status : CHARGING
+PRT-00200-01 evses -> 0: status : CHARGING
+PRT-00201-01 evses -> 0: status : CHARGING
