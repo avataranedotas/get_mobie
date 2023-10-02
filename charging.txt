@@ -13501,3 +13501,7 @@ PRT-00201-01 evses -> 0: status : CHARGING
 
 2023-10-02 19:10:54
 PRT-00202-01 evses -> 0: status : CHARGING
+
+2023-10-02 19:36:04
+PRT-00202-01 evses -> 0: status : CHARGING
+PRT-00204-01 evses -> 0: status : CHARGING
