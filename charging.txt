@@ -13475,3 +13475,7 @@ PRT-00200-01 evses -> 0: status : CHARGING
 PRT-00201-01 evses -> 0: status : CHARGING
 PRT-00202-01 evses -> 0: status : CHARGING
 PRT-00205-01 evses -> 0: status : CHARGING
+
+2023-10-02 11:11:33
+PRT-00201-01 evses -> 0: status : CHARGING
+PRT-00202-01 evses -> 0: status : CHARGING
