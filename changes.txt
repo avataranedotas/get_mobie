@@ -7068,3 +7068,11 @@ SCD-00004 --> GLG 40.397618 -8.129453 Santa Comba Dão AV. HUMBERTO DELGADO PARK
 [{'id': 'SCD-00004-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-03T13:15:04.445Z'}]
 [{'id': 'SCD-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-03T13:15:04.445Z'}]
 Removidos:[]
+
+2023-10-03 15:15:02
+Adicionados:['VIS-00082']
+
+VIS-00082 --> EDP 40.656711 -7.913505 Viseu RUA GASPAR BARREIROS, S/N  PARKING_LOT
+[{'id': 'VIS-00082-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-03T14:39:55.929Z'}]
+[{'id': 'VIS-00082-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-03T14:39:55.929Z'}]
+Removidos:[]
