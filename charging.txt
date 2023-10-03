@@ -13546,3 +13546,6 @@ VNF-00027-02 evses -> 1: status : CHARGING
 2023-10-03 15:15:06
 CMN-00010-01 evses -> 0: status : CHARGING
 VNF-00027-02 evses -> 1: status : CHARGING
+
+2023-10-03 15:36:42
+VNF-00027-02 evses -> 1: status : CHARGING

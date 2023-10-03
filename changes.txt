@@ -7076,3 +7076,29 @@ VIS-00082 --> EDP 40.656711 -7.913505 Viseu RUA GASPAR BARREIROS, S/N  PARKING_L
 [{'id': 'VIS-00082-02-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-03T14:39:55.929Z'}]
 [{'id': 'VIS-00082-01-01', 'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'power_type': 'AC_3_PHASE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-03T14:39:55.929Z'}]
 Removidos:[]
+
+2023-10-03 15:36:38
+PFR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PFR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+PFR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+PFR-00007
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PFR-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 125
+PFR-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 50000
