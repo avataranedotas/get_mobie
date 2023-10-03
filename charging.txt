@@ -13562,3 +13562,6 @@ VNF-00027-02 evses -> 1: status : CHARGING
 2023-10-03 17:36:07
 PFR-00007-01 evses -> 3: status : CHARGING
 VNF-00027-02 evses -> 1: status : CHARGING
+
+2023-10-03 19:36:16
+BRG-00096-02 evses -> 1: status : CHARGING
