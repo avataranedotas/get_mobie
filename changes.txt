@@ -7060,3 +7060,11 @@ BRG-00080
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 120000
+
+2023-10-03 13:36:09
+Adicionados:['SCD-00004']
+
+SCD-00004 --> GLG 40.397618 -8.129453 Santa Comba Dão AV. HUMBERTO DELGADO PARKING_LOT
+[{'id': 'SCD-00004-01-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-03T13:15:04.445Z'}]
+[{'id': 'SCD-00004-02-01', 'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'power_type': 'DC', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-03T13:15:04.445Z'}]
+Removidos:[]
