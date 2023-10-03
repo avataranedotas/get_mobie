@@ -13512,3 +13512,9 @@ FAR-90001-4 evses -> 2: status : CHARGING
 2023-10-03 12:28:09
 FAR-90001-2 evses -> 0: status : CHARGING
 FAR-90001-4 evses -> 2: status : CHARGING
+
+2023-10-03 12:53:39
+FAR-90001-2 evses -> 0: status : CHARGING
+FAR-90001-1 evses -> 1: status : CHARGING
+FAR-90001-4 evses -> 2: status : CHARGING
+VNF-00027-02 evses -> 1: status : CHARGING
