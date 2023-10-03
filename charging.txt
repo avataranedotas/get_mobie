@@ -13508,3 +13508,7 @@ PRT-00204-01 evses -> 0: status : CHARGING
 
 2023-10-03 11:36:18
 FAR-90001-4 evses -> 2: status : CHARGING
+
+2023-10-03 12:28:09
+FAR-90001-2 evses -> 0: status : CHARGING
+FAR-90001-4 evses -> 2: status : CHARGING
