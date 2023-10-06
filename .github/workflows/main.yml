@@ -26,8 +26,8 @@ jobs:
       shell: bash
     - name: compare
       run: |
-        python compare.py
-    - name: find_20231006.py
+        python compare_20231006.py
+    - name: find
       run: |
         python find_20231006.py
     - name: Check and log changes
