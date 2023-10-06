@@ -24,9 +24,9 @@ jobs:
         chmod +x ./get_mobie_20231006.sh
         ./get_mobie_20231006.sh
       shell: bash
-    - name: compare_20231006.py
+    - name: compare
       run: |
-        python compare_20231006.py
+        python compare.py
     - name: find_20231006.py
       run: |
         python find_20231006.py
