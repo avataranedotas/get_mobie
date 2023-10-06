@@ -3,8 +3,8 @@ name: Obter dados
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '*/1440 * * * *'
+  # schedule:
+  #  - cron:  '*/1440 * * * *'
 
 jobs:
   scheduled:
