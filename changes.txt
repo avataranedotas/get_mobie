@@ -16,3 +16,261 @@ ABF-00005
 evses -> 0 -> connectors -> 0: 
  NEW max_amperage : 16
  OLD max_amperage : 32
+
+2023-10-06 22:01:32
+ABF-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+LSB-00162
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida Jo£o CrisÃ³stomo
+LSB-00164
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida JoÃ£o CrisÃ³stomo
+LSB-00165
+: 
+ NEW address : Avenida João Crisóstomo
+ OLD address : Avenida JoÃ£o CrisÃ³stomo
+LSB-00166
+: 
+ NEW address : Praça de Londres
+ OLD address : PraÃ§a de Londres
+LSB-00167
+: 
+ NEW address : Praça de Londres
+ OLD address : PraÃ§a de Londres
+LSB-00168
+: 
+ NEW address : Praça de Londres
+ OLD address : PraÃ§a de Londres
+LSB-00174
+: 
+ NEW address : Praça do Império
+ OLD address : PraÃ§a do ImpÃ©rio
+LSB-00176
+: 
+ NEW address : Praça do Império
+ OLD address : PraÃ§a do ImpÃ©rio
+LSB-00177
+: 
+ NEW address : Avenida Lusíada
+ OLD address : Avenida LusÃ­ada
+LSB-00180
+: 
+ NEW address : Avenida Lusíada
+ OLD address : Avenida LusÃ­ada
+LSB-00182
+: 
+ NEW address : Avenida Lusíada
+ OLD address : Avenida LusÃ­ada
+LSB-00183
+: 
+ NEW address : Avenida Lusíada
+ OLD address : Avenida LusÃ­ada
+LSB-00187
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. JoÃ£o II
+LSB-00188
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. JoÃ£o II
+LSB-00189
+: 
+ NEW address : Avenida D. João II
+ OLD address : Avenida D. JoÃ£o II
+LSB-00190
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : PraÃ§a Humberto Delgado
+LSB-00191
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : PraÃ§a Humberto Delgado
+LSB-00192
+: 
+ NEW address : Praça Humberto Delgado
+ OLD address : PraÃ§a Humberto Delgado
+LSB-00201
+: 
+ NEW address : Rua João de Oliveira Miguéns
+ OLD address : Rua JoÃ£o de Oliveira MiguÃ©ns
+LSB-00207
+: 
+ NEW address : Praça Ginásio Clube Português
+ OLD address : PraÃ§a GinÃ¡sio Clube PortuguÃªs
+LSB-00208
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00209
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00210
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00211
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00212
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00213
+: 
+ NEW address : Rua Dom João V
+ OLD address : Rua Dom JoÃ£o V
+LSB-00214
+: 
+ NEW address : Rua Inocêncio Francisco da Silva
+ OLD address : Rua InocÃªncio Francisco da Silva
+LSB-00215
+: 
+ NEW address : Rua 1º de Maio
+ OLD address : Rua 1Âº de Maio
+LSB-00216
+: 
+ NEW address : Hotel Vila Galé Opera
+ OLD address : Hotel Vila GalÃ© Opera
+LSB-00217
+: 
+ NEW address : Hotel Vila Galé Opera
+ OLD address : Hotel Vila GalÃ© Opera
+LSB-00223
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00224
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00225
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00226
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00227
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00228
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00229
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00230
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00231
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00245
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. MarquÃªs SÃ¡ da Bandeira
+LSB-00246
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. MarquÃªs SÃ¡ da Bandeira
+LSB-00247
+: 
+ NEW address : R. Marquês Sá da Bandeira
+ OLD address : R. MarquÃªs SÃ¡ da Bandeira
+LSB-00259
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da AlfÃ¢ndega
+LSB-00260
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da AlfÃ¢ndega
+LSB-00261
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da AlfÃ¢ndega
+LSB-00262
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da AlfÃ¢ndega
+LSB-00263
+: 
+ NEW address : Rua da Alfândega
+ OLD address : Rua da AlfÃ¢ndega
+LSB-00264
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+LSB-00265
+: 
+ NEW address :  Av. Eusébio da Silva Ferreira
+ OLD address :  Av. EusÃ©bio da Silva Ferreira
+LSB-00270
+: 
+ NEW address : Área Serviço Repsol 2a Circular Sentido N/S
+ OLD address : Ãrea ServiÃ§o Repsol 2a Circular Sentido N/S
+LSB-00282
+: 
+ NEW address : Avenida de Pádua
+ OLD address : Avenida de PÃ¡dua
+LSB-00303
+: 
+ NEW address : Rua Bispo de Coxim, Nº1
+ OLD address : Rua Bispo de Coxim, NÂº1
+LSB-00309
+: 
+ NEW address : Rua Abílio Mendes 62
+ OLD address : Rua AbÃ­lio Mendes 62
+LSB-00310
+: 
+ NEW address : Avª Da Índia E Rua Fernão Mendes Pinto
+ OLD address : AvÂª Da Ãndia E Rua FernÃ£o Mendes Pinto
+LSB-00318
+: 
+ NEW address : Av. Eusébio da Silva Ferreira
+ OLD address : Av. EusÃ©bio da Silva Ferreira
+LSB-00335
+: 
+ NEW address : Praça Aeroporto, Av. Marechal Gomes da Costa
+ OLD address : PraÃ§a Aeroporto, Av. Marechal Gomes da Costa
+LSB-00350
+: 
+ NEW address : Avenida Santo Condestável
+ OLD address : Avenida Santo CondestÃ¡vel
+LSB-00352
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
+LSB-00353
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
+LSB-00354
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
+LSB-00355
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
+LSB-00356
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
+LSB-00357
+: 
+ NEW address : Rua Fernão Mendes Pinto
+ OLD address : Rua FernÃ£o Mendes Pinto
