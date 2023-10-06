@@ -4,3 +4,9 @@ ABF-00005
 evses -> 0 -> connectors -> 0: 
  NEW max_amperage : 16
  OLD max_amperage : 32
+
+2023-10-06 21:55:19
+ABF-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
