@@ -21,15 +21,15 @@ jobs:
          python-version: 3.8 #install the python needed    
     - name: Get the data
       run: |
-        chmod +x ./get_mobie.sh
-        ./get_mobie.sh
+        chmod +x ./get_mobie_20231006.sh
+        ./get_mobie_20231006.sh
       shell: bash
-    - name: compare.py
+    - name: compare_20231006.py
       run: |
-        python compare.py
-    - name: find.py
+        python compare_20231006.py
+    - name: find_20231006.py
       run: |
-        python find.py
+        python find_20231006.py
     - name: Check and log changes
       run: |
         chmod +x ./log_changes.sh
