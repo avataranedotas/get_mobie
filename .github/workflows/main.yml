@@ -32,8 +32,8 @@ jobs:
         python find_20231006.py
     - name: Check and log changes
       run: |
-        chmod +x ./log_changes.sh
-        ./log_changes.sh
+        chmod +x ./log_changes_20231006.sh
+        ./log_changes_20231006.sh
       shell: bash
     - name: Commit and push if it changed
       run: |-
