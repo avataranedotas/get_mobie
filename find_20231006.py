@@ -89,10 +89,10 @@ def findbusy(d1, path=""):
             #print (k)
             #print (d1[k])
             if (k == "status") and (d1[k] == "CHARGING") :
-                print ("        Encontrado status level AND charging:")
-                print (d1["evse_id"])
-                print (d1["status"])
-                print (codigoposto)
+                #print ("        Encontrado status level AND charging:")
+                #print (d1["evse_id"])
+                #print (d1["status"])
+                #print (codigoposto)
                 #print (levelglobal)
                 #print (k)
                 #verificar se estão na watch list
@@ -104,7 +104,7 @@ def findbusy(d1, path=""):
                     if (len(element) != 0):
                         #print ("lista não vazia")
                         if (str(element[0])) in codigoposto:
-                            print ("Encontrada correspondência")
+                            #print ("Encontrada correspondência")
                             if (escreverfich==0) :                
                                 escreverfich=1
                                 fich = open("charging.txt", "a") 
