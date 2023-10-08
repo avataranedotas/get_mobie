@@ -69,17 +69,30 @@ def findbusy(d1, path=""):
     global escreverfich
     global fich
     global watchbusy
+    global codigoposto
     levelmax=0
     nomeactual=""
     if type(d1) is dict:
         #print ("            Start dict")        
-        if ( "uid" in d1 ):
-            #print (d1["uid"])
-            nomeactual=d1["uid"]
+        if ( "id" in d1 ):
+            #print (d1["id"])
+            #print (d1["status"])
+            codigoposto=d1["id"]
+            #print (codigoposto)
+        if ( "evse_id" in d1 ):
+            #print (d1["evse_id"])
+            #print (d1["status"])
+            nomeactual=d1["evse_id"]
         for k in d1:
             #print ("            Encontrar dentro dict")
+            #print (type(k))
+            #print (k)
+            #print (d1[k])
             if (k == "status") and (d1[k] == "CHARGING") :
-                #print ("        Encontrado status level:")
+                print ("        Encontrado status level AND charging:")
+                print (d1["evse_id"])
+                print (d1["status"])
+                print (codigoposto)
                 #print (levelglobal)
                 #print (k)
                 #verificar se estão na watch list
@@ -90,15 +103,15 @@ def findbusy(d1, path=""):
                     #print (str(element[0]))
                     if (len(element) != 0):
                         #print ("lista não vazia")
-                        if (str(element[0])) in nomeactual:
-                            #print ("Encontrada correspondência")
+                        if (str(element[0])) in codigoposto:
+                            print ("Encontrada correspondência")
                             if (escreverfich==0) :                
                                 escreverfich=1
                                 fich = open("charging.txt", "a") 
                                 fich.write("\n")
                                 fich.write(date_time)
                                 fich.write("\n")    
-                            result = [ "%s " %nomeactual, "%s: " % path, "%s : %s" % (k, d1[k])]
+                            result = [ "%s " %codigoposto , "%s " %nomeactual ] #"%s: " % path, "%s : %s" % (k, d1[k])]
                             print("".join(result)) 
                             fich.write("".join(result))
                             fich.write("\n") 
