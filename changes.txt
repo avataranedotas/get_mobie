@@ -274,3 +274,109 @@ LSB-00357
 : 
  NEW address : Rua Fernão Mendes Pinto
  OLD address : Rua FernÃ£o Mendes Pinto
+
+2023-10-08 14:07:26
+AGH-00003
+: 
+ NEW address : Circular de Angra do Heroísmo
+ OLD address : Circular de  Angra do Heroísmo
+ASL-00012
+: 
+ NEW address : Avenida José Saramago, Nº S/N 
+ OLD address : Avenida José Saramago, Nº S/N  
+CBR-00080
+: 
+ NEW address : R. Entre Vinhas 3, Taveiro
+ OLD address : R. Entre Vinhas 3,  Taveiro
+CHT-00001
+: 
+ NEW address : Travessas - Ribeira Seca 
+ OLD address : Travessas - Ribeira Seca  
+ETR-00009
+: 
+ NEW address : Área de Serviço - Antuã, A1, km 254,9
+ OLD address : Área de Serviço - Antuã, A1,  km 254,9
+ETR-00010
+: 
+ NEW address : Área de Serviço - Antuã, A1, km 254,9
+ OLD address : Área de Serviço - Antuã, A1,  km 254,9
+FEC-00002
+: 
+ NEW address : Bairro Samiteiro, Nº 7010 
+ OLD address : Bairro Samiteiro, Nº 7010  
+FEC-90001
+: 
+ NEW address : Av. Guerra Junqueiro 
+ OLD address : Av. Guerra Junqueiro  
+LGA-00005
+: 
+ NEW address : Pestana Golf Resort Gramacho
+ OLD address : Pestana Golf Resort  Gramacho
+LGA-00007
+: 
+ NEW address : Rua Foz do Arade
+ OLD address : Rua Foz do  Arade
+LGA-00009
+: 
+ NEW address : Estrada Nacional 125
+ OLD address : Estrada Nacional  125
+LSB-00469
+: 
+ NEW address : Tv. Légua da Póvoa, 11C
+ OLD address : Tv.  Légua da Póvoa, 11C
+LSB-00523
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00524
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00525
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00526
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00527
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00528
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00529
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00532
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00533
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00534
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00535
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+LSB-00536
+: 
+ NEW address : Avenida Marechal Gomes da Costa N9
+ OLD address : Avenida  Marechal Gomes da Costa N9
+PSR-00006
+: 
+ NEW address : R. Olivença 10 - A
+ OLD address : R. Olivença  10 - A
+STB-00023
+: 
+ NEW address : E.N. 10 ao km 24+324 - Brejos de Azeitão
+ OLD address : E.N. 10 ao km 24+324  - Brejos de Azeitão
