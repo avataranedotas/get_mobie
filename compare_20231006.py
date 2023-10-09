@@ -111,7 +111,7 @@ def finddetails(ident, d1, path=""):
             #print (d1)
             #print ("\n")
             #print (d1["coordinates"])
-            detalhesadic = detalhesadic + "\n" + (d1["id"]) + " --> " + str(d1["party_id"]) + " "+ str(d1["coordinates"]["latitude"]) + " " + str(d1["coordinates"]["longitude"]) + " " + str(d1["city"]) + " " + str(d1["address"]) + " " + str(d1["parking_type"]) 
+            detalhesadic = detalhesadic + "\n" + (d1["id"]) + " --> " + str(d1["party_id"]) + " "+ str(d1["coordinates"]["latitude"]) + " " + str(d1["coordinates"]["longitude"]) + " " + str(d1["city"]) + " " + str(d1["address"]) 
             #detalhesadic = detalhesadic + str(d1) + "\n"
             nomeactual=d1["id"]
             if ( "evses" in d1) :
