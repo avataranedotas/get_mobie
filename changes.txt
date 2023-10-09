@@ -380,3 +380,29 @@ STB-00023
 : 
  NEW address : E.N. 10 ao km 24+324 - Brejos de Azeitão
  OLD address : E.N. 10 ao km 24+324  - Brejos de Azeitão
+
+2023-10-09 18:54:37
+Adicionados:['CVL-00014', 'CVL-00015', 'FIG-00020', 'FIG-00023', 'LSB-00604']
+
+CVL-00014 --> EDP 40.269554 -7.505266 Covilhã ALAMEDA PÊRO DA COVILHÃ S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T16:18:09.936Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T16:18:09.936Z'}]
+
+CVL-00015 --> EDP 40.273559 -7.503298 Covilhã AVENIDA DA UNIVERSIDADE, 9010
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T16:18:20.744Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T16:18:20.744Z'}]
+
+FIG-00020 --> KLC 40.149513 -8.8502459 Figueira da Foz R. Afonso de Albuquerque 22,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-10-09T13:59:49.942Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-10-09T13:59:49.942Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-09T13:59:49.942Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FIG-00023 --> EDP 40.120568 -8.851352 Figueira da Foz Zona Industrial da Gala, Lote 7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-09T13:10:41.804Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-09T13:10:41.804Z'}]
+
+LSB-00604 --> KLC 38.732459 -9.1492507 Lisboa R. Tomás Ribeiro 97,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-10-09T15:02:16.101Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-10-09T15:02:16.101Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-09T15:02:16.101Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['CTB-00032']
