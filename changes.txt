@@ -423,3 +423,11 @@ OHP-00009 --> EDP 40.324289 -7.886946 Oliveira do Hospital R. Misericórdia 60
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T15:34:32.753Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T15:34:32.753Z'}]
 Removidos:[]
+
+2023-10-11 13:22:22
+Adicionados:['ASL-00011']
+
+ASL-00011 --> IBD 38.463767 -8.375817 Alcácer do Sal Herdade da Alápega de Cima
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-11T13:16:46.766Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-11T13:16:46.766Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
