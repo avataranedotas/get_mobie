@@ -415,3 +415,11 @@ ALQ-00012 --> KLC 39.0266814 -8.9807458 Alenquer Quinta do Poço, Guizandeira
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-10-10T08:48:52.130Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-10T08:48:52.130Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:[]
+
+2023-10-11 08:38:53
+Adicionados:['OHP-00009']
+
+OHP-00009 --> EDP 40.324289 -7.886946 Oliveira do Hospital R. Misericórdia 60
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T15:34:32.753Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T15:34:32.753Z'}]
+Removidos:[]
