@@ -431,3 +431,17 @@ ASL-00011 --> IBD 38.463767 -8.375817 Alcácer do Sal Herdade da Alápega de Cim
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-11T13:16:46.766Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-11T13:16:46.766Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-10-12 20:43:06
+VNG-00068
+coordinates: 
+ NEW latitude : 41.126417
+ OLD latitude : 41.114291
+VNG-00068
+coordinates: 
+ NEW longitude : -8.597795
+ OLD longitude : -8.577324
+VNG-00068
+: 
+ NEW coordinates : {'latitude': '41.126417', 'longitude': '-8.597795'}
+ OLD coordinates : {'latitude': '41.114291', 'longitude': '-8.577324'}
