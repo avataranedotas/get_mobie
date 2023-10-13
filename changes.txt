@@ -493,3 +493,27 @@ SNT-00117 --> HRZ 38.760962 -9.385899 Sintra Estrada Nacional nº9
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 200, 'max_electric_power': 100000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 125, 'max_electric_power': 60000}]
 Removidos:[]
+
+2023-10-13 16:22:12
+Adicionados:[]
+Removidos:['SNT-00107']
+SNT-00117
+evses -> 4 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SNT-00117
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 100000
+SNT-00117
+evses -> 5 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+SNT-00117
+evses -> 5 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SNT-00117
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
