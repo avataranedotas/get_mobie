@@ -445,3 +445,11 @@ VNG-00068
 : 
  NEW coordinates : {'latitude': '41.126417', 'longitude': '-8.597795'}
  OLD coordinates : {'latitude': '41.114291', 'longitude': '-8.577324'}
+
+2023-10-13 09:38:04
+Adicionados:['AVR-00047']
+
+AVR-00047 --> EDP 40.554311 -8.551787 Aveiro Zona Industrial de Oiã, 908
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-13T09:12:15.252Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-13T09:12:15.252Z'}]
+Removidos:[]
