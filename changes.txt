@@ -465,3 +465,11 @@ ABF-00064 --> IBD 37.0907879 -8.3247086 Albufeira Rua da Boca da Alagoa, Lote 1
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:19:20.304Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:19:20.304Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-10-13 13:37:54
+Adicionados:['MDR-00004']
+
+MDR-00004 --> EDP 41.434960 -6.348498 Miranda do Douro Pousada do Picote, S/N 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-13T13:34:21.224Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-13T13:34:21.224Z'}]
+Removidos:[]
