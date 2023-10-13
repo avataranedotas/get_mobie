@@ -453,3 +453,15 @@ AVR-00047 --> EDP 40.554311 -8.551787 Aveiro Zona Industrial de Oiã, 908
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-13T09:12:15.252Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-13T09:12:15.252Z'}]
 Removidos:[]
+
+2023-10-13 13:22:36
+Adicionados:['ABF-00063', 'ABF-00064']
+
+ABF-00063 --> IBD 37.0907879 -8.324708 Albufeira Rua da Boca da Alagoa, Lote 1
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:17:49.112Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:17:49.112Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00064 --> IBD 37.0907879 -8.3247086 Albufeira Rua da Boca da Alagoa, Lote 1
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:19:20.304Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T13:19:20.304Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
