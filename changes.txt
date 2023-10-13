@@ -481,3 +481,15 @@ CSC-00079 --> IBD 38.69179 -9.42016 Cascais Avenida Humberto II de Itália
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T14:32:38.413Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-13T14:32:38.413Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-10-13 15:18:02
+Adicionados:['SNT-00117']
+
+SNT-00117 --> HRZ 38.760962 -9.385899 Sintra Estrada Nacional nº9
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 300, 'max_electric_power': 150000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 300, 'max_electric_power': 150000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 200, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 200, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 200, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-13T15:15:43.752Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+Removidos:[]
