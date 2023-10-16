@@ -534,3 +534,11 @@ AVV-00010 --> ATL 41.829164 -8.4154482 Arcos de Valdevez Lugar do Barreiro - Pa√
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-16T14:01:11.104Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-16T14:01:11.104Z'}]
 Removidos:[]
+
+2023-10-16 16:23:28
+Adicionados:['LRS-80008']
+
+LRS-80008 --> EDP 38.829018 -9.16715 Loures Rua Oliven√ßa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-16T16:03:18.043Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-16T16:03:18.043Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
