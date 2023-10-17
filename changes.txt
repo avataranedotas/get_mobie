@@ -556,3 +556,11 @@ LRS-00098 --> ATL 38.813774 -9.098829 Loures R. Dom Afonso Henriques
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-10-06T08:47:02.463Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-06T08:47:02.463Z'}]
 Removidos:[]
+
+2023-10-17 14:16:38
+Adicionados:['MCN-00012']
+
+MCN-00012 --> EDP 41.125470 -8.215830 Marco de Canaveses R. D. ANTÓNIO JOSÉ DA ROCHA COUTO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-17T13:50:04.095Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-17T13:50:04.095Z'}]
+Removidos:[]
