@@ -601,3 +601,18 @@ MNC-00006 --> HRZ 42.056722 -8.531079 Monção ESTRADA NACIONAL 101
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T14:07:21.842Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-10-18T14:07:21.842Z'}]
 Removidos:[]
+
+2023-10-18 14:38:08
+Adicionados:['MNC-00007', 'VIS-00064', 'VIS-00065']
+
+MNC-00007 --> HRZ 42.056722 -8.531079 Monção ESTRADA NACIONAL 101
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-10-18T14:07:31.936Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T14:07:31.936Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-10-18T14:07:31.936Z'}]
+
+VIS-00064 --> GLP 40.346382 -8.188117 Viseu Vale da Aguieira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T14:26:06.425Z'}]
+
+VIS-00065 --> GLP 40.346382 -8.188117 Viseu Vale da Aguieira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T14:33:17.368Z'}]
+Removidos:[]
