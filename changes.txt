@@ -572,3 +572,32 @@ SNT-00123 --> IBD 38.792263 -9.327565 Sintra Avenida Miguel Torga
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T10:59:26.796Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T10:59:26.796Z'}]
 Removidos:[]
+
+2023-10-18 14:16:44
+Adicionados:['ACB-00011', 'ACB-00012', 'ACB-00013', 'ACB-00014', 'CBR-00084', 'MDL-00007', 'MNC-00006']
+
+ACB-00011 --> GLP 39.547880 -8.977889 Alcobaça R. Silvério Raposo 2
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T13:43:21.762Z'}]
+
+ACB-00012 --> GLP 39.547880 -8.977889 Alcobaça R. Silvério Raposo 2
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T13:43:32.984Z'}]
+
+ACB-00013 --> GLP 39.547880 -8.977889 Alcobaça R. Silvério Raposo 2
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T13:43:44.832Z'}]
+
+ACB-00014 --> GLP 39.547880 -8.977889 Alcobaça R. Silvério Raposo 2
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-18T13:43:55.229Z'}]
+
+CBR-00084 --> REP 40.063841 -8.618776 Coimbra Cruz Nova, Estrada Nacional 342
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T13:40:32.928Z'}]
+
+MDL-00007 --> REP 41.493193 -7.176589 Mirandela Avenida das Comunidades Europeias
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2023-10-18T13:30:36.688Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-18T13:30:36.688Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T13:30:36.688Z'}]
+
+MNC-00006 --> HRZ 42.056722 -8.531079 Monção ESTRADA NACIONAL 101
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-18T14:07:21.842Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-18T14:07:21.842Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-10-18T14:07:21.842Z'}]
+Removidos:[]
