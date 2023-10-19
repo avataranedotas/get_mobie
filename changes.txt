@@ -749,3 +749,31 @@ GDM-00038 --> HRZ 41.108237 -8.532728 Gondomar Av. Clube de Caçadores
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-19T15:04:11.244Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-10-19T15:00:17.977Z'}]
 Removidos:[]
+
+2023-10-19 16:22:59
+Adicionados:['ALM-00017', 'CLD-00021', 'ODV-00018', 'PTM-00043', 'PTM-00044']
+
+ALM-00017 --> GLP 38.64117 -9.23653 Almada Avenida General Humberto Delgado
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-08T09:34:08.298Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-08T09:34:08.300Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+CLD-00021 --> HRZ 39.4255246 -9.1616947 Caldas da Rainha Av.Infante D. Henrique 78
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-07-14T15:26:11.314Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-07-14T15:26:11.314Z'}]
+
+ODV-00018 --> HRZ 38.792286 -9.2157539 Odivelas Avenida do segulim lote AE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 200000, 'last_updated': '2023-10-04T16:33:27.636Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 200000, 'last_updated': '2023-10-04T16:33:27.636Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-04T16:33:27.636Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2023-10-04T16:33:27.636Z'}]
+
+PTM-00043 --> HRZ 37.145157 -8.543666 Portimão Horta de S. Pedro, Lt A St do Poço Fojo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-17T15:39:45.196Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 50000, 'last_updated': '2023-08-17T15:39:45.196Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-17T15:39:45.196Z'}]
+
+PTM-00044 --> HRZ 37.145157 -8.543666 Portimão Horta de S. Pedro, Lt A St do Poço Fojo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-17T15:39:45.197Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 50000, 'last_updated': '2023-08-17T15:39:45.197Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-17T15:39:45.197Z'}]
+Removidos:[]
