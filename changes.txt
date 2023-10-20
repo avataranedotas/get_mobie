@@ -784,3 +784,11 @@ Adicionados:['PCT-00003']
 PCT-00003 --> GLP 40.676784 -7.706488 Penalva do Castelo Hotel Parador Casa da Ínsua
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-17T13:46:18.495Z'}]
 Removidos:[]
+
+2023-10-20 10:18:44
+Adicionados:['VLS-00002']
+
+VLS-00002 --> SEG 38.679537 -28.20915 Velas RUA DONA BEATRIZ DE MELO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-20T10:05:33.052Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-20T10:03:54.317Z'}]
+Removidos:[]
