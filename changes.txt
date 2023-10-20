@@ -792,3 +792,16 @@ VLS-00002 --> SEG 38.679537 -28.20915 Velas RUA DONA BEATRIZ DE MELO
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-20T10:05:33.052Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-20T10:03:54.317Z'}]
 Removidos:[]
+
+2023-10-20 13:37:47
+Adicionados:['MTJ-00038', 'SRE-00005']
+
+MTJ-00038 --> ATL 38.7047254 -8.9572939 Montijo R. Pocinho das Nascentes E.N 4, 1
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-20T13:12:58.760Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-20T13:12:58.760Z'}]
+
+SRE-00005 --> ATL 40.066803 -8.617059 Soure N342 Loteamento Do Bairro Dos Arcos
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-20T13:31:04.274Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-20T13:31:04.274Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-20T13:31:04.274Z'}]
+Removidos:[]
