@@ -777,3 +777,10 @@ PTM-00044 --> HRZ 37.145157 -8.543666 Portimão Horta de S. Pedro, Lt A St do Po
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 50000, 'last_updated': '2023-08-17T15:39:45.197Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-17T15:39:45.197Z'}]
 Removidos:[]
+
+2023-10-20 09:16:44
+Adicionados:['PCT-00003']
+
+PCT-00003 --> GLP 40.676784 -7.706488 Penalva do Castelo Hotel Parador Casa da Ínsua
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-17T13:46:18.495Z'}]
+Removidos:[]
