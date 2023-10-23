@@ -838,3 +838,12 @@ Removidos:[]
 2023-10-23 15:38:05
 Adicionados:[]
 Removidos:['AVV-00010']
+
+2023-10-23 21:38:06
+Adicionados:['MAI-00043']
+
+MAI-00043 --> ATL 41.2649006 -8.615254 Maia R. Eng. Frederico Ulrich 15,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+Removidos:[]
