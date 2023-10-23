@@ -826,3 +826,11 @@ VFR-00077 --> IBD 40.950284 -8.513768 Santa Maria da Feira Estrada Nacional 1, M
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-20T14:10:08.147Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-10-20T14:10:08.147Z'}]
 Removidos:[]
+
+2023-10-23 15:17:06
+Adicionados:['LMG-00012']
+
+LMG-00012 --> IBD 41.102254 -7.800472 Lamego Rua de São João
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T14:48:53.629Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T14:48:53.629Z'}]
+Removidos:[]
