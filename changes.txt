@@ -946,3 +946,12 @@ LGS-00026
 : 
  NEW coordinates : {'latitude': '37.086049', 'longitude': '-8.682648'}
  OLD coordinates : {'latitude': '37.104668', 'longitude': '-8.476564'}
+
+2023-10-25 13:20:17
+Adicionados:['VLC-00009']
+
+VLC-00009 --> KLS 40.847861 -8.390194 Vale de Cambra Avenida Doutor António Fonseca
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T12:59:02.493Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-25T12:59:02.493Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-25T12:59:02.493Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:[]
