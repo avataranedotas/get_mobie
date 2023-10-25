@@ -908,3 +908,11 @@ GDM-00026
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 7400
+
+2023-10-25 08:39:16
+Adicionados:['OER-00174']
+
+OER-00174 --> GLP 38.70264 -9.3043311 Oeiras Avenida Engenheiro Álvaro Roquette
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-10-25T08:32:03.088Z', 'max_amperage': 190, 'max_electric_power': 180000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-10-25T08:32:03.088Z', 'max_amperage': 190, 'max_electric_power': 180000}]
+Removidos:['MAI-00043']
