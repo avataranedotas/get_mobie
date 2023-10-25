@@ -985,3 +985,11 @@ VFR-00060 --> GLP 40.929426 -8.512906 Santa Maria da Feira GALP - Rua Dr. Alfred
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:04:30.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:04:30.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-10-25 16:20:57
+Adicionados:['VFR-00072']
+
+VFR-00072 --> GLP 40.986737 -8.552693 Santa Maria da Feira GALP - Rua Central
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:45:20.723Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:45:20.723Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
