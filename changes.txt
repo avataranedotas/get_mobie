@@ -993,3 +993,11 @@ VFR-00072 --> GLP 40.986737 -8.552693 Santa Maria da Feira GALP - Rua Central
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:45:20.723Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:45:20.723Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-10-25 16:39:41
+Adicionados:['LGS-00030']
+
+LGS-00030 --> GLP 37.111085 -8.679240 Lagos Rua Infante Dom Henrique
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-25T16:32:03.491Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-25T16:32:03.491Z'}]
+Removidos:[]
