@@ -916,3 +916,11 @@ OER-00174 --> GLP 38.70264 -9.3043311 Oeiras Avenida Engenheiro Álvaro Roquette
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-10-25T08:32:03.088Z', 'max_amperage': 190, 'max_electric_power': 180000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-10-25T08:32:03.088Z', 'max_amperage': 190, 'max_electric_power': 180000}]
 Removidos:['MAI-00043']
+
+2023-10-25 10:18:30
+Adicionados:['ACH-00010']
+
+ACH-00010 --> GLG 38.749989 -8.962232 Alcochete Av. Restauração
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-25T09:54:49.590Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-25T09:54:49.590Z'}]
+Removidos:[]
