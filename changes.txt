@@ -977,3 +977,11 @@ STC-00010 --> IBD 37.804244 -8.716691 Santiago do Cacém Herdade da Matinha
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-25T14:05:12.006Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-25T14:05:12.006Z'}]
 Removidos:[]
+
+2023-10-25 15:17:25
+Adicionados:['VFR-00060']
+
+VFR-00060 --> GLP 40.929426 -8.512906 Santa Maria da Feira GALP - Rua Dr. Alfredo Valente da Silva Terra
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:04:30.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T15:04:30.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
