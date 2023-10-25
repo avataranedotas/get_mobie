@@ -964,3 +964,16 @@ MGD-00002 --> EDP 41.3425653 -6.711901 Mogadouro AVENIDA NOSSA SENHORA DO CAMINH
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-25T13:25:20.786Z', 'max_amperage': 120, 'max_electric_power': 50000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-10-25T13:25:20.786Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:[]
+
+2023-10-25 14:16:01
+Adicionados:['FIG-00025', 'STC-00010']
+
+FIG-00025 --> ATL 40.1629881 -8.8473722 Figueira da Foz Av. Dr. Francisco de Sá Carneiro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-25T13:35:16.549Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-25T13:35:16.549Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-25T13:35:16.549Z'}]
+
+STC-00010 --> IBD 37.804244 -8.716691 Santiago do Cacém Herdade da Matinha
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-25T14:05:12.006Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-25T14:05:12.006Z'}]
+Removidos:[]
