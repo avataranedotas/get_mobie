@@ -1001,3 +1001,17 @@ LGS-00030 --> GLP 37.111085 -8.679240 Lagos Rua Infante Dom Henrique
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-25T16:32:03.491Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-10-25T16:32:03.491Z'}]
 Removidos:[]
+
+2023-10-25 17:38:02
+PMS-00006
+coordinates: 
+ NEW latitude : 39.599655
+ OLD latitude : 39.5998868
+PMS-00006
+coordinates: 
+ NEW longitude : -8.815739
+ OLD longitude : -8.8170466
+PMS-00006
+: 
+ NEW coordinates : {'latitude': '39.599655', 'longitude': '-8.815739'}
+ OLD coordinates : {'latitude': '39.5998868', 'longitude': '-8.8170466'}
