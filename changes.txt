@@ -924,3 +924,11 @@ ACH-00010 --> GLG 38.749989 -8.962232 Alcochete Av. Restauração
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-25T09:54:49.590Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-25T09:54:49.590Z'}]
 Removidos:[]
+
+2023-10-25 10:38:03
+Adicionados:['SCR-00020']
+
+SCR-00020 --> REP 32.670815 -16.803931 Santa Cruz E.R. 101 - Sítio da Lombadinha
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-28T17:06:41.153Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-07-28T17:06:41.153Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-28T17:06:41.153Z'}]
+Removidos:[]
