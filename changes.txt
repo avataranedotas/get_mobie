@@ -1135,3 +1135,15 @@ PRT-00217 --> PRI 41.177732 -8.648566 Porto PRIO - Rua Engenheiro Ferreira Dias
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T15:20:43.957Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T15:20:43.957Z'}]
 Removidos:[]
+
+2023-10-26 16:21:58
+Adicionados:['BJA-00027', 'SSB-00014']
+
+BJA-00027 --> GLP 38.020821 -7.871849 Beja Rua de Liboa
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-10-26T15:33:54.266Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-10-26T15:33:54.266Z'}]
+
+SSB-00014 --> EDP 38.482040 -9.103120 Sesimbra Rua Quinta do Sobreiro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-26T15:53:46.887Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-10-26T15:53:46.887Z'}]
+Removidos:[]
