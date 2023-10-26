@@ -1050,3 +1050,28 @@ MTS-00133 --> KLS 41.194861 -8.660778 Matosinhos Av. Dr. Salgado Zenha 371
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-26T10:07:48.957Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-26T10:07:48.957Z'}]
 Removidos:[]
+
+2023-10-26 11:13:42
+Adicionados:['CSC-00147', 'CSC-00150', 'CSC-00155', 'CSC-00156', 'CSC-00157', 'CSC-00159', 'CSC-00160']
+
+CSC-00147 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:05:12.510Z'}]
+
+CSC-00150 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:11:01.192Z'}]
+
+CSC-00155 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:18:37.662Z'}]
+
+CSC-00156 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:19:32.231Z'}]
+
+CSC-00157 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:20:29.509Z'}]
+
+CSC-00159 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:22:21.712Z'}]
+
+CSC-00160 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:23:14.250Z'}]
+Removidos:[]
