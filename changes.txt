@@ -1127,3 +1127,11 @@ STB-00059
 : 
  NEW coordinates : {'latitude': '38.538201', 'longitude': '-8.8772646'}
  OLD coordinates : {'latitude': '38.538176', 'longitude': '-8.872463'}
+
+2023-10-26 15:38:01
+Adicionados:['PRT-00217']
+
+PRT-00217 --> PRI 41.177732 -8.648566 Porto PRIO - Rua Engenheiro Ferreira Dias
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T15:20:43.957Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T15:20:43.957Z'}]
+Removidos:[]
