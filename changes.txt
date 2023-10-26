@@ -1088,3 +1088,15 @@ MFR-00030 --> HRZ 38.9428809 -9.3495683 Mafra Rua do Sol Nascente, edifício Peo
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T13:27:55.994Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T13:27:55.994Z'}]
 Removidos:['FIG-00020']
+
+2023-10-26 14:16:11
+Adicionados:['CHV-00018', 'CSC-00158']
+
+CHV-00018 --> ATL 41.740934 -7.475637 Chaves Rua Tenente Valadim n 27/33 37/39
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T13:43:33.943Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-26T13:43:33.943Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-26T13:43:33.943Z'}]
+
+CSC-00158 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:20:51.300Z'}]
+Removidos:[]
