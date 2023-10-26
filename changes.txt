@@ -1075,3 +1075,16 @@ CSC-00159 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
 CSC-00160 --> HLX 38.701980 -9.416300 Cascais Estrada Nacional 6
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-26T09:23:14.250Z'}]
 Removidos:[]
+
+2023-10-26 11:38:03
+Adicionados:['FIG-00024', 'MFR-00030']
+
+FIG-00024 --> ATL 40.149513 -8.8502459 Figueira da Foz R. Afonso de Albuquerque 22
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T11:34:18.769Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-26T11:34:18.769Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-26T11:34:18.769Z'}]
+
+MFR-00030 --> HRZ 38.9428809 -9.3495683 Mafra Rua do Sol Nascente, edifício People
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T13:27:55.994Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-23T13:27:55.994Z'}]
+Removidos:['FIG-00020']
