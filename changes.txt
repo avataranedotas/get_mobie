@@ -1228,3 +1228,29 @@ VFX-00045 --> GLP 38.929994 -9.012459 Vila Franca de Xira Praça Dr. Francisco C
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:28:57.631Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:28:57.631Z'}]
 Removidos:[]
+
+2023-10-27 15:38:04
+ABT-00012
+: 
+ NEW address : Rua das Escolas 42
+ OLD address :  Rua das Escolas 42
+ABT-00013
+: 
+ NEW address : Rua das Escolas 42
+ OLD address :  Rua das Escolas 42
+AVR-00042
+: 
+ NEW address : Estrada de Vilar, Estr. de São Bernardo,
+ OLD address :  Estrada de Vilar, Estr. de São Bernardo,
+BRR-00045
+: 
+ NEW address : Rua Dom Luís Furtado de Alburquerque 40
+ OLD address : Rua Dom LuÃ­s Furtado de Alburquerque 40
+MTS-00052
+: 
+ NEW address : Rua Brito e Cunha, 810
+ OLD address : Rua Brito e Cunha, 810 
+OER-00165
+: 
+ NEW address : Avenida Combatentes da Grande Guerra
+ OLD address : Avenida Combatentes da Grande Guerra 
