@@ -1179,3 +1179,18 @@ Adicionados:['STS-00019']
 STS-00019 --> HRZ 41.340706 -8.472165 Santo Tirso Rua Doutor João Gonçalves
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T10:47:05.475Z'}]
 Removidos:[]
+
+2023-10-27 13:38:09
+Adicionados:['ABF-00073', 'STS-00020']
+
+ABF-00073 --> ATL 37.092254 -8.2404471 Albufeira Urb.Bela Vista, Av. dos Descobrimentos
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-12T16:16:14.367Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-12T16:16:14.367Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-12T16:16:14.367Z'}]
+
+STS-00020 --> HRZ 41.340706 -8.472165 Santo Tirso Rua Doutor João Gonçalves
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
+Removidos:[]
