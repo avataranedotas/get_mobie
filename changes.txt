@@ -1254,3 +1254,17 @@ OER-00165
 : 
  NEW address : Avenida Combatentes da Grande Guerra
  OLD address : Avenida Combatentes da Grande Guerra 
+
+2023-10-27 16:21:33
+BRR-00050
+: 
+ NEW address : Rua do Oceano Índico 4
+ OLD address : Rua do Oceano Ãndico 4
+BRR-00051
+: 
+ NEW address : Rua Dom Luís de Ataide 6
+ OLD address : Rua Dom LuÃ­s de AtaÃ­de 6
+GMR-00105
+: 
+ NEW address : R. Cidade de Guimarães 2088
+ OLD address : R. Cidade de Guimarães 2088               
