@@ -1194,3 +1194,29 @@ STS-00020 --> HRZ 41.340706 -8.472165 Santo Tirso Rua Doutor João Gonçalves
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-27T13:10:00.632Z'}]
 Removidos:[]
+
+2023-10-27 14:15:21
+Adicionados:['CSC-80015', 'SXL-00047', 'SXL-00048', 'VFX-00041', 'VFX-00043']
+
+CSC-80015 --> EDP 38.7036667 -9.3982139 Cascais Avenida Marginal
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-27T13:49:04.742Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-27T13:49:04.742Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+SXL-00047 --> ATL 38.639635 -9.161168 Seixal Avenida Dom Afonso Henriques
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:37:13.503Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-27T13:37:13.503Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T13:37:13.503Z'}]
+
+SXL-00048 --> ATL 38.639635 -9.161168 Seixal Avenida Dom Afonso Henriques
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:36:54.596Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-27T13:36:54.596Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T13:36:54.596Z'}]
+
+VFX-00041 --> GLP 38.987908 -8.972859 Vila Franca de Xira Rua Juventude da Castanheira
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T13:45:59.702Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T13:45:59.702Z'}]
+
+VFX-00043 --> GLP 38.958959 -8.986959 Vila Franca de Xira Rua António Lúcio Batista
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T14:03:58.567Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T14:03:58.567Z'}]
+Removidos:[]
