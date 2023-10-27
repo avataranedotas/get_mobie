@@ -1268,3 +1268,11 @@ GMR-00105
 : 
  NEW address : R. Cidade de Guimarães 2088
  OLD address : R. Cidade de Guimarães 2088               
+
+2023-10-27 17:13:09
+Adicionados:['VFX-00044']
+
+VFX-00044 --> GLP 38.958959 -8.986959 Vila Franca de Xira Rua António Lúcio Batista
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T16:04:26.625Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T16:04:26.625Z'}]
+Removidos:[]
