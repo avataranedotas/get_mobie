@@ -1220,3 +1220,11 @@ VFX-00043 --> GLP 38.958959 -8.986959 Vila Franca de Xira Rua António Lúcio Ba
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T14:03:58.567Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2023-10-27T14:03:58.567Z'}]
 Removidos:[]
+
+2023-10-27 14:38:04
+Adicionados:['VFX-00045']
+
+VFX-00045 --> GLP 38.929994 -9.012459 Vila Franca de Xira Praça Dr. Francisco Câncio
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:28:57.631Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:28:57.631Z'}]
+Removidos:[]
