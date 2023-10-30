@@ -1350,3 +1350,19 @@ VIS-00086 --> REP 40.663965 -7.919286 Viseu Av. Cap. Homem Ribeiro
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T15:14:58.145Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T15:14:58.145Z'}]
 Removidos:[]
+
+2023-10-30 16:22:28
+Adicionados:['LRA-00099', 'STB-00060', 'VNG-00138']
+
+LRA-00099 --> ATL 39.7593447 -8.7963863 Leiria Estr. dos Marinheiros,
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T15:49:44.663Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T15:49:44.663Z'}]
+
+STB-00060 --> ATL 38.526885 -9.002459 Setúbal Qta Velha, Azinhaga dos Pasmados
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T15:54:07.728Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-30T15:54:07.728Z'}]
+
+VNG-00138 --> ATL 41.0570658 -8.5679177 Vila Nova de Gaia Av. Dr. Moreira Sousa 2238,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-30T15:58:00.006Z', 'max_amperage': 160, 'max_electric_power': 30000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-30T15:58:00.006Z', 'max_amperage': 125, 'max_electric_power': 30000}]
+Removidos:['LRA-00091', 'LSB-00595', 'STB-00055', 'VNG-00111']
