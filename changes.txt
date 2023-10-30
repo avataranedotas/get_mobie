@@ -1276,3 +1276,11 @@ VFX-00044 --> GLP 38.958959 -8.986959 Vila Franca de Xira Rua António Lúcio Ba
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T16:04:26.625Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-27T16:04:26.625Z'}]
 Removidos:[]
+
+2023-10-30 10:38:12
+Adicionados:['GRD-00020']
+
+GRD-00020 --> GLG 40.543158 -7.258637 Guarda R. Cidade de Bejar
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-06-10T11:10:10.977Z', 'max_amperage': 120, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-06-10T11:10:10.978Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+Removidos:[]
