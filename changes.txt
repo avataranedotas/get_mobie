@@ -1300,3 +1300,44 @@ CSC-80004 --> EDP 38.7036667 -9.3982139 Cascais Avenida Marginal
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-30T14:36:14.264Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-30T14:36:14.264Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2023-10-30 15:17:57
+Adicionados:['BRG-00082', 'CLD-00026', 'STB-80007', 'VIS-00084', 'VIS-00085']
+
+BRG-00082 --> IBD 41.556778 -8.432361 Braga Rua Virgilio Ferreira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T14:48:20.177Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T14:48:20.177Z'}]
+
+CLD-00026 --> BPP 39.417353 -9.151678 Caldas da Rainha AVENIDA INFANTE DOM HENRIQUE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-10-30T14:48:42.194Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-30T14:48:42.194Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-10-30T14:48:42.194Z'}]
+
+STB-80007 --> EDP 38.5229528 -8.8905194 Setúbal Avenida Luísa Todi
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-30T14:53:40.993Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-10-30T14:53:40.993Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+VIS-00084 --> REP 40.648491 -7.920481 Viseu Av. Regimento Infantaria 14A
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T14:26:09.122Z'}]
+
+VIS-00085 --> REP 40.648478 -7.920421 Viseu Av. Regimento Infantaria 14A
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2023-10-30T14:39:24.086Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T14:39:24.086Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T14:39:24.086Z'}]
+Removidos:[]
+CSC-80015
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 30
+ OLD max_amperage : 16
+CSC-80015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 6900
+ OLD max_electric_power : 3700
+CSC-80015
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 30
+ OLD max_amperage : 16
+CSC-80015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 6900
+ OLD max_electric_power : 3700
