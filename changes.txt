@@ -1341,3 +1341,12 @@ CSC-80015
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 6900
  OLD max_electric_power : 3700
+
+2023-10-30 15:38:06
+Adicionados:['VIS-00086']
+
+VIS-00086 --> REP 40.663965 -7.919286 Viseu Av. Cap. Homem Ribeiro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2023-10-30T15:14:58.145Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-30T15:14:58.145Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-30T15:14:58.145Z'}]
+Removidos:[]
