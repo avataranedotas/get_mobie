@@ -1284,3 +1284,11 @@ GRD-00020 --> GLG 40.543158 -7.258637 Guarda R. Cidade de Bejar
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-06-10T11:10:10.977Z', 'max_amperage': 120, 'max_electric_power': 60000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-06-10T11:10:10.978Z', 'max_amperage': 200, 'max_electric_power': 120000}]
 Removidos:[]
+
+2023-10-30 12:33:35
+Adicionados:['LRS-80017']
+
+LRS-80017 --> EDP 38.829018 -9.16715 Loures Rua Olivença
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 340, 'max_electric_power': 6900, 'last_updated': '2023-10-30T12:00:59.815Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 6900, 'last_updated': '2023-10-30T12:00:59.815Z'}]
+Removidos:[]
