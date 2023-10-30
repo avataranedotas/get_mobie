@@ -1366,3 +1366,12 @@ VNG-00138 --> ATL 41.0570658 -8.5679177 Vila Nova de Gaia Av. Dr. Moreira Sousa 
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-10-30T15:58:00.006Z', 'max_amperage': 160, 'max_electric_power': 30000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-10-30T15:58:00.006Z', 'max_amperage': 125, 'max_electric_power': 30000}]
 Removidos:['LRA-00091', 'LSB-00595', 'STB-00055', 'VNG-00111']
+
+2023-10-30 17:15:24
+Adicionados:['VCT-00042']
+
+VCT-00042 --> SAR 41.724451 -8.859694 Viana do Castelo Bouça do Empaio
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-09-19T14:55:18.678Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-09-19T14:55:18.678Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-19T14:55:18.678Z'}]
+Removidos:[]
