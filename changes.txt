@@ -1449,3 +1449,44 @@ VNG-00127 --> HRZ 41.042472 -8.631723 Vila Nova de Gaia Rua da R. Corga
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:37:27.869Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T16:37:27.869Z'}]
 Removidos:[]
+
+2023-10-31 17:15:32
+Adicionados:['VNG-00126']
+
+VNG-00126 --> HRZ 41.042472 -8.631723 Vila Nova de Gaia Rua da R. Corga
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-31T16:52:52.248Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:52:52.248Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T16:52:52.248Z'}]
+Removidos:[]
+BRR-00125
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+BRR-00125
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 100000
+BRR-00125
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+BRR-00125
+evses -> 3 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+BRR-00125
+evses -> 3 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+BRR-00125
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 32
+BRR-00125
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 22000
+BRR-00125
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 100000
