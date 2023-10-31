@@ -1405,3 +1405,15 @@ SPS-00005 --> EDP 40.783131 -8.053863 São Pedro do Sul Rua do Chafariz, SN
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T14:59:40.883Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T14:59:40.883Z'}]
 Removidos:[]
+
+2023-10-31 15:38:04
+Adicionados:['VRL-00026']
+
+VRL-00026 --> EDP 41.297696 -7.749985 Vila Real AV. DA NORUEGA, Nº 6
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-31T15:08:44.361Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-10-31T15:08:44.361Z'}]
+Removidos:[]
+CLD-00026
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
