@@ -1490,3 +1490,7 @@ BRR-00125
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 200000
  OLD max_electric_power : 100000
+
+2023-10-31 18:38:19
+Adicionados:[]
+Removidos:['GDM-00020']
