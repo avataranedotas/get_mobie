@@ -1375,3 +1375,11 @@ VCT-00042 --> SAR 41.724451 -8.859694 Viana do Castelo Bouça do Empaio
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-09-19T14:55:18.678Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-19T14:55:18.678Z'}]
 Removidos:[]
+
+2023-10-31 10:19:57
+Adicionados:['TVD-00039']
+
+TVD-00039 --> IBD 39.091052 -9.265890 Torres Vedras Avenida Poente
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-16T14:34:44.659Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-16T14:34:44.659Z'}]
+Removidos:[]
