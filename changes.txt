@@ -1417,3 +1417,15 @@ CLD-00026
 evses -> 2 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : CHADEMO
+
+2023-10-31 16:22:46
+Adicionados:['CBR-00079', 'VLG-00028']
+
+CBR-00079 --> EDP 40.20076 -8.4030437 Coimbra BK Coimbra - Estrada da Beira 485
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-31T15:40:10.487Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-10-31T15:40:10.487Z'}]
+
+VLG-00028 --> EDP 41.2050571 -8.5472635 Valongo R. Nossa Sra. Mão Poderosa 220
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-31T15:54:26.157Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-10-31T15:54:26.157Z'}]
+Removidos:[]
