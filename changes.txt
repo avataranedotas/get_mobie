@@ -1429,3 +1429,23 @@ VLG-00028 --> EDP 41.2050571 -8.5472635 Valongo R. Nossa Sra. Mão Poderosa 220
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-31T15:54:26.157Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-10-31T15:54:26.157Z'}]
 Removidos:[]
+
+2023-10-31 16:41:15
+Adicionados:['BRR-00125', 'PNF-00020', 'VNG-00127']
+
+BRR-00125 --> HRZ 38.631736 -9.048993 Barreiro Rua João Lino, Lt.20 Armazém 2D, Palhais
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-10-31T16:38:52.544Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:38:52.544Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T16:38:52.544Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T16:38:52.544Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:38:52.544Z'}]
+
+PNF-00020 --> EDP 41.195613 -8.296354 Penafiel RUA FONTE DA CRUZ, Nº24B
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-10-31T16:17:53.529Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-10-31T16:17:53.529Z'}]
+
+VNG-00127 --> HRZ 41.042472 -8.631723 Vila Nova de Gaia Rua da R. Corga
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:37:27.869Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-10-31T16:37:27.869Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-31T16:37:27.869Z'}]
+Removidos:[]
