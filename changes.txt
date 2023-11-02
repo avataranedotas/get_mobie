@@ -1494,3 +1494,11 @@ evses -> 4 -> connectors -> 0:
 2023-10-31 18:38:19
 Adicionados:[]
 Removidos:['GDM-00020']
+
+2023-11-02 09:16:37
+Adicionados:['ACB-00017']
+
+ACB-00017 --> ITV 39.410587 -8.962710 Alcobaça IC2 / N1 Km 81
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 75000, 'last_updated': '2023-11-02T09:05:04.813Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-02T09:05:04.813Z'}]
+Removidos:[]
