@@ -1509,3 +1509,13 @@ Adicionados:['AMD-00092']
 AMD-00092 --> HRZ 38.728613 -9.221415 Amadora Av. dos Cavaleiros 49 E 49A
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-02T12:17:37.987Z'}]
 Removidos:[]
+
+2023-11-02 13:21:11
+Adicionados:['AMD-00093']
+
+AMD-00093 --> HRZ 38.728613 -9.221415 Amadora Av. dos Cavaleiros 49 E 49A
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-11-02T12:17:47.101Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-02T12:17:47.101Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-02T12:17:47.101Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-11-02T12:17:47.101Z'}]
+Removidos:[]
