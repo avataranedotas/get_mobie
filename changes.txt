@@ -1723,3 +1723,17 @@ LSB-00652 --> ATL 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:12:42.230Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:12:42.230Z'}]
 Removidos:[]
+
+2023-11-03 17:38:10
+STB-00059
+coordinates: 
+ NEW latitude : 38.538200
+ OLD latitude : 38.538201
+STB-00059
+coordinates: 
+ NEW longitude : -8.872362
+ OLD longitude : -8.8772646
+STB-00059
+: 
+ NEW coordinates : {'latitude': '38.538200', 'longitude': '-8.872362'}
+ OLD coordinates : {'latitude': '38.538201', 'longitude': '-8.8772646'}
