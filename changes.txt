@@ -1639,3 +1639,39 @@ PCT-00003
 evses -> 0 -> connectors -> 0: 
  NEW format : CABLE
  OLD format : SOCKET
+
+2023-11-03 10:18:37
+Adicionados:['LSB-00616', 'LSB-00617', 'LSB-00618', 'LSB-00619', 'LSB-00620', 'LSB-00621', 'LSB-00622', 'LSB-00623']
+
+LSB-00616 --> EML 38.744257  -9.130995 Lisboa Rua Manuel Gouveia 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:02.884Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:02.884Z'}]
+
+LSB-00617 --> EML 38.744257  -9.130995 Lisboa Rua Manuel Gouveia 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:10.114Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:10.114Z'}]
+
+LSB-00618 --> EML 38.744257  -9.130995 Lisboa Rua Manuel Gouveia 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:16.642Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:16.642Z'}]
+
+LSB-00619 --> EML 38.744257  -9.130995 Lisboa Rua Manuel Gouveia 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:29.364Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:29.364Z'}]
+
+LSB-00620 --> EML 38.744257  -9.130995 Lisboa Rua Manuel Gouveia 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:39.661Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-09T13:31:39.661Z'}]
+
+LSB-00621 --> EML 38.779591 -9.158056 Lisboa Azinhaga da Cidade
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:32.142Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:32.142Z'}]
+
+LSB-00622 --> EML 38.779591 -9.158056 Lisboa Azinhaga da Cidade
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:40.411Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:40.411Z'}]
+
+LSB-00623 --> EML 38.779591 -9.158056 Lisboa Azinhaga da Cidade
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:46.017Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-10T13:36:46.017Z'}]
+Removidos:[]
