@@ -1622,3 +1622,20 @@ MTS-00115
 evses -> 7 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 126000
+
+2023-11-03 09:38:04
+Adicionados:['PCT-00004', 'PCT-00005', 'PCT-00006']
+
+PCT-00004 --> GLP 40.676784 -7.706488 Penalva do Castelo Hotel Parador Casa da Ínsua
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-03T09:27:15.837Z'}]
+
+PCT-00005 --> GLP 40.676784 -7.706488 Penalva do Castelo Hotel Parador Casa da Ínsua
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-03T09:27:23.858Z'}]
+
+PCT-00006 --> GLP 40.676784 -7.706488 Penalva do Castelo Hotel Parador Casa da Ínsua
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-03T09:28:46.671Z'}]
+Removidos:[]
+PCT-00003
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
