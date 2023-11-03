@@ -1715,3 +1715,11 @@ PNC-00002 --> EDP 40.164229 -7.173269 Penamacor Pão de Açucar Penamacor, En No
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-03T12:09:38.693Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-03T12:09:38.693Z'}]
 Removidos:[]
+
+2023-11-03 16:22:32
+Adicionados:['LSB-00652']
+
+LSB-00652 --> ATL 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:12:42.230Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:12:42.230Z'}]
+Removidos:[]
