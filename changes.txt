@@ -1737,3 +1737,12 @@ STB-00059
 : 
  NEW coordinates : {'latitude': '38.538200', 'longitude': '-8.872362'}
  OLD coordinates : {'latitude': '38.538201', 'longitude': '-8.8772646'}
+
+2023-11-04 18:38:05
+Adicionados:['AVV-00010']
+
+AVV-00010 --> ATL 41.829164 -8.4154482 Arcos de Valdevez Lugar do Barreiro - Paçô
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-16T14:01:11.104Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-16T14:01:11.104Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-16T14:01:11.104Z'}]
+Removidos:[]
