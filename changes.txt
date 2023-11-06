@@ -1774,3 +1774,11 @@ AMT-00018 --> EDP 41.271439 -8.075011 Amarante JARDIM BADEN POWEL 2
 GMR-00104 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de Camões, Piso -1
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-06T15:07:13.570Z', 'max_amperage': 50, 'max_electric_power': 7400}]
 Removidos:[]
+
+2023-11-06 16:23:38
+Adicionados:['AMT-00014']
+
+AMT-00014 --> EDP 41.266947 -8.080829 Amarante RUA DO PARQUE FLORESTAL 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T16:05:29.065Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T16:05:29.065Z'}]
+Removidos:[]
