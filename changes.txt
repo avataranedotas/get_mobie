@@ -1763,3 +1763,14 @@ AMT-00012 --> EDP 41.266026 -8.071729 Amarante RUA ANTÓNIO CARNEIRO, Nº 4
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:11:43.725Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:11:43.725Z'}]
 Removidos:[]
+
+2023-11-06 15:19:25
+Adicionados:['AMT-00018', 'GMR-00104']
+
+AMT-00018 --> EDP 41.271439 -8.075011 Amarante JARDIM BADEN POWEL 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:57:34.092Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:57:34.092Z'}]
+
+GMR-00104 --> GEN 41.4401442 -8.2966216 Guimarães Parque de Estacionamento de Camões, Piso -1
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-06T15:07:13.570Z', 'max_amperage': 50, 'max_electric_power': 7400}]
+Removidos:[]
