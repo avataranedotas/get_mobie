@@ -1755,3 +1755,11 @@ MGR-00013 --> ATL 39.747515 -8.912478 Marinha Grande R. Jornal da M.nha Grande 3
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-08-28T16:08:42.740Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-28T16:08:42.740Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-11-06 14:17:16
+Adicionados:['AMT-00012']
+
+AMT-00012 --> EDP 41.266026 -8.071729 Amarante RUA ANTÓNIO CARNEIRO, Nº 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:11:43.725Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:11:43.725Z'}]
+Removidos:[]
