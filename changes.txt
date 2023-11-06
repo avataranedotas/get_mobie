@@ -1782,3 +1782,15 @@ AMT-00014 --> EDP 41.266947 -8.080829 Amarante RUA DO PARQUE FLORESTAL
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T16:05:29.065Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T16:05:29.065Z'}]
 Removidos:[]
+
+2023-11-06 17:38:05
+Adicionados:['CSC-00166', 'CSC-00167']
+
+CSC-00166 --> GLP 38.703727 -9.394972 Cascais Avenida Marginal 7034
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:21:57.846Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:21:57.846Z'}]
+
+CSC-00167 --> GLP 38.703727 -9.3949727 Cascais Avenida Marginal 7034
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:24:09.948Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:24:09.948Z'}]
+Removidos:[]
