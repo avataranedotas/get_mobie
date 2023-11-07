@@ -1869,3 +1869,16 @@ VIS-00089 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:11.993Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:11.993Z', 'max_amperage': 150, 'max_electric_power': 60000}]
 Removidos:[]
+
+2023-11-07 10:38:15
+Adicionados:['AGD-00014', 'VNG-00118']
+
+AGD-00014 --> EDP 40.573531 -8.4449974 Águeda Praça Conde de Águeda, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T08:30:03.858Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T08:30:03.858Z'}]
+
+VNG-00118 --> KLC 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-31T15:31:38.112Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:38.112Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:38.112Z'}]
+Removidos:[]
