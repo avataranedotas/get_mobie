@@ -1882,3 +1882,61 @@ VNG-00118 --> KLC 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:38.112Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:38.112Z'}]
 Removidos:[]
+
+2023-11-07 11:14:24
+Adicionados:['ALR-00004', 'AMT-00013', 'AVV-00008', 'BGC-00013', 'CSC-00141', 'CSC-00142', 'CSC-00143', 'CSC-00144', 'LSB-00615', 'MFR-00027', 'SSB-00013', 'VFX-00042', 'VNG-00117']
+
+ALR-00004 --> EDP 39.193600 -8.620554 Almeirim Inspecentro - Rua B, Zona Industrial 41
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-10T16:31:56.811Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-10T16:31:56.811Z'}]
+
+AMT-00013 --> EDP 41.271464 -8.075218 Amarante RUA PEDRO ALVELLOS Nº 9921
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:45:44.935Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T14:45:44.935Z'}]
+
+AVV-00008 --> EDP 41.850368 -8.418254 Arcos de Valdevez Lugar de Requeijo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T15:24:56.250Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-08-07T15:24:56.250Z'}]
+
+BGC-00013 --> IBD 41.768362 -6.795013 Bragança Reta da Mosca, nº 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-04T08:37:47.724Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-10-04T08:37:47.724Z'}]
+
+CSC-00141 --> EDP 38.692038 -9.419160 Cascais Casa de S. Bernardo, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:20:56.009Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:20:56.009Z'}]
+
+CSC-00142 --> EDP 38.692038 -9.419160 Cascais Casa de S. Bernardo, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:26:14.557Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-25T15:26:14.557Z'}]
+
+CSC-00143 --> EDP 38.692038 -9.419160 Cascais Casa de S. Bernardo, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-19T14:52:23.806Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-19T14:52:23.806Z'}]
+
+CSC-00144 --> EDP 38.692038 -9.419160 Cascais Casa de S. Bernardo, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-19T14:51:57.320Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-19T14:51:57.320Z'}]
+
+LSB-00615 --> KLC 38.72201 -9.13880 Lisboa Lgo do Mastro 29B, 
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-08-11T13:31:08.257Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-08-11T13:31:08.257Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-11T13:31:08.257Z'}]
+
+MFR-00027 --> EDP 38.930212 -9.2519183 Mafra Estrada Nacional 8
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2023-08-30T08:27:40.500Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-08-30T08:27:40.500Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+
+SSB-00013 --> ATL 38.5742228 -9.0372156 Sesimbra EN 10 10 Km 19
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:17:15.127Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-27T13:17:15.127Z'}]
+
+VFX-00042 --> GLP 38.958959 -8.986959 Vila Franca de Xira Rua António Lúcio Batista
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:09:26.340Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-10-27T14:09:26.340Z'}]
+
+VNG-00117 --> KLC 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-31T15:31:49.583Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:49.583Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:49.583Z'}]
+Removidos:[]
