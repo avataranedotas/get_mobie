@@ -1957,3 +1957,16 @@ TVD-00041 --> ATL 39.090718 -9.25345 Torres Vedras AVENIDA GENERAL HUMBERTO DELG
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-11-07T10:05:23.859Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-07T10:05:23.859Z'}]
 Removidos:[]
+
+2023-11-07 16:22:42
+Adicionados:['LGS-00028', 'LGS-00029']
+
+LGS-00028 --> ATL 37.1070312 -8.6799861 Lagos Avenida da República
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-10T15:04:11.271Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-10T15:04:11.271Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-10T15:04:11.271Z'}]
+
+LGS-00029 --> ATL 37.1132024 -8.6766785 Lagos N125 Sitio Do Moliao
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-17T15:24:21.098Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-10-17T15:24:21.098Z'}]
+Removidos:[]
