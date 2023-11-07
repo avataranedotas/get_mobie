@@ -1970,3 +1970,11 @@ LGS-00029 --> ATL 37.1132024 -8.6766785 Lagos N125 Sitio Do Moliao
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-17T15:24:21.098Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-10-17T15:24:21.098Z'}]
 Removidos:[]
+
+2023-11-07 17:15:37
+Adicionados:['NZR-00028']
+
+NZR-00028 --> ATL 39.6050508 -9.0670854 Nazaré N242 60
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
+Removidos:[]
