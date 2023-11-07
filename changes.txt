@@ -1794,3 +1794,78 @@ CSC-00167 --> GLP 38.703727 -9.3949727 Cascais Avenida Marginal 7034
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:24:09.948Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-06T17:24:09.948Z'}]
 Removidos:[]
+
+2023-11-07 10:18:32
+Adicionados:['AGD-00016', 'ALR-00005', 'CLD-00028', 'GDM-00041', 'LSB-00650', 'LSB-00651', 'LSB-00661', 'LSB-00662', 'LSB-00666', 'ODV-00020', 'PMS-00008', 'PRT-00226', 'PRT-00228', 'VIS-00088', 'VIS-00089']
+
+AGD-00016 --> ATL 40.5905539 -8.4573434 Águeda Quinta da Alagoa
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T09:48:40.444Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T09:48:40.444Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T09:48:40.444Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ALR-00005 --> ATL 39.1908372 -8.6264192 Almeirim Quinta da Alorna - ZI Almeirim
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:00:52.666Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:00:52.666Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:00:52.666Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CLD-00028 --> ATL 39.425985 -9.129451 Caldas da Rainha Estrada da Tornada
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:02:55.647Z', 'max_amperage': 150, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:02:55.647Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:02:55.647Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GDM-00041 --> ATL 41.171396 -8.547406 Gondomar Rua Infante Dom Henrique
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:02:29.413Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:02:29.413Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:02:29.413Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00650 --> ATL 38.7340012 -9.1330667 Lisboa R. Carlos Mardel 12,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:13.765Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:13.765Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+LSB-00651 --> ATL 38.7669733 -9.1048743 Lisboa Av. Infante Dom Henrique 345,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:35.037Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:35.037Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+LSB-00661 --> ATL 38.7550789 -9.2171752 Lisboa Rua Elias Garcia 23
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:03:31.736Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:03:31.736Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:03:31.736Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+LSB-00662 --> ATL 38.7496394 -9.1165593 Lisboa Avenida Santo Condestável
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LSB-00666 --> ATL 38.7570136 -9.1410992 Lisboa Rua João Saraiva, 1 - 1A
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:37.431Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:37.431Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:06:37.431Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ODV-00020 --> ATL 38.7948194 -9.1676751 Odivelas Rua Júlio Borba
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:08:14.409Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:08:14.409Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:08:14.409Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+PMS-00008 --> ATL 39.623371 -8.8565174 Porto de Mós IC2 km 107,4 Chão da Feira
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:04:08.355Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:04:08.355Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:04:08.355Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PRT-00226 --> ATL 41.173491 -8.626458 Porto Rua Henrique Medina
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:08:25.717Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:08:25.717Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:08:25.717Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+PRT-00228 --> ATL 41.1578651 -8.6642763 Porto Avenida Marechal Gomes da Costa, 855
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:04:40.347Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:04:40.347Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:04:40.347Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VIS-00088 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:05:49.387Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:05:49.387Z', 'max_amperage': 375, 'max_electric_power': 150000}]
+
+VIS-00089 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:11.993Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:06:11.993Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+Removidos:[]
