@@ -1940,3 +1940,12 @@ VNG-00117 --> KLC 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:49.583Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-31T15:31:49.583Z'}]
 Removidos:[]
+
+2023-11-07 15:17:49
+Adicionados:['OHP-00011']
+
+OHP-00011 --> ATL 40.3606649 -7.8540678 Oliveira do Hospital R. António Dias 3400-160
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-07T14:40:02.662Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-07T14:40:02.662Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-07T14:40:02.662Z'}]
+Removidos:[]
