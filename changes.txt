@@ -1978,3 +1978,22 @@ NZR-00028 --> ATL 39.6050508 -9.0670854 Nazaré N242 60
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
 Removidos:[]
+
+2023-11-07 18:21:40
+Adicionados:['VPV-00007']
+
+VPV-00007 --> SEG 38.767725 -27.103506 Praia da Vitória RUA PADRE LOURENÇO AVILA
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T17:39:43.665Z', 'max_amperage': 16, 'max_electric_power': 11000}]
+Removidos:[]
+VLS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VLS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+VLS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
