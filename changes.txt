@@ -1997,3 +1997,7 @@ VLS-00002
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 50000
+
+2023-11-08 10:18:48
+Adicionados:[]
+Removidos:['CBR-00076', 'OBR-00003', 'SJM-00012']
