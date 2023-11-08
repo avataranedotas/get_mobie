@@ -2054,3 +2054,27 @@ SJM-00012 --> KLC 40.8950711 -8.5026729 São João da Madeira R. António Nicola
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-08-23T16:33:38.558Z', 'max_amperage': 150, 'max_electric_power': 60000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-23T16:33:38.558Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-11-08 17:15:51
+Adicionados:['ABT-00026', 'ABT-00027', 'TMR-00032', 'TMR-00033', 'VFR-00074']
+
+ABT-00026 --> EDP 39.456522 -8.198301 Abrantes Av. Eng. Adelino Amaro da Costa 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:14:38.971Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:14:38.971Z'}]
+
+ABT-00027 --> EDP 39.456522 -8.198301 Abrantes Av. Eng. Adelino Amaro da Costa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:14:34.126Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:14:34.126Z'}]
+
+TMR-00032 --> EDP 39.609542 -8.395426 Tomar R. da Quinta das Gorduchas 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:51:01.436Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:51:01.436Z'}]
+
+TMR-00033 --> EDP 39.609542 -8.395426 Tomar R. da Quinta das Gorduchas 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:56:40.410Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:56:40.410Z'}]
+
+VFR-00074 --> GLP 40.911805 -8.494231 Santa Maria da Feira RUA 8 DE AGOSTO ARRIFANA
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-11-08T16:35:20.980Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2023-11-08T16:35:20.980Z'}]
+Removidos:[]
