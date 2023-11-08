@@ -2086,3 +2086,15 @@ FNC-00042 --> GLP 32.659616 -16.951191 Funchal Caminho Santa Quitéria 45
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:30:37.061Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:30:37.061Z'}]
 Removidos:[]
+
+2023-11-08 18:22:00
+Adicionados:['TNV-00014', 'TNV-00015']
+
+TNV-00014 --> EDP 39.468212 -8.536600 Torres Novas Av. Xanana Gusmão
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:51:39.424Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:51:39.424Z'}]
+
+TNV-00015 --> EDP 39.468212 -8.536600 Torres Novas Av. Xanana Gusmão - Ap. 45
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:47:59.812Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:47:59.812Z'}]
+Removidos:[]
