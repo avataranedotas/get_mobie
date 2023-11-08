@@ -2031,3 +2031,17 @@ BRG-00083
 : 
  NEW coordinates : {'latitude': '41.536023', 'longitude': '-8.430523'}
  OLD coordinates : {'latitude': '41.536023', 'longitude': '-8.430323'}
+
+2023-11-08 16:22:54
+Adicionados:['OBR-00003', 'STB-00061']
+
+OBR-00003 --> KLC 40.5080709 -8.4859759 Oliveira do Bairro Rua São Sebastião EN235, Qt. S. Sebastião
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2023-08-30T16:55:42.094Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2023-08-30T16:55:42.094Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-30T16:55:42.094Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+STB-00061 --> ATL 38.5332382 -8.8843134 Setúbal Av. dos Ciprestes
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T15:42:11.664Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T15:42:11.664Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:42:11.664Z'}]
+Removidos:[]
