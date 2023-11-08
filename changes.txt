@@ -2001,3 +2001,33 @@ evses -> 1 -> connectors -> 0:
 2023-11-08 10:18:48
 Adicionados:[]
 Removidos:['CBR-00076', 'OBR-00003', 'SJM-00012']
+
+2023-11-08 15:38:03
+Adicionados:['ALM-00071', 'FNC-00041', 'NZR-00025', 'SCR-00021']
+
+ALM-00071 --> ATL 38.6473688 -9.2196604 Almada Aldeia dos Capuchos 117/120 E.N. 10-1
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+
+FNC-00041 --> GLP 32.659616 -16.951191 Funchal Caminho Santa Quitéria 45
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-11-08T15:27:31.292Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-11-08T15:27:31.292Z'}]
+
+NZR-00025 --> HRZ 39.6081641 -9.0657457 Nazaré R. 25 de Abril
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T15:11:45.810Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2023-11-08T15:11:45.810Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:11:45.810Z'}]
+
+SCR-00021 --> EDP 32.687602 -16.7932968 Santa Cruz Rua São Fernando 5
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-08T13:41:10.807Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-08T13:41:10.807Z'}]
+Removidos:[]
+BRG-00083
+coordinates: 
+ NEW longitude : -8.430523
+ OLD longitude : -8.430323
+BRG-00083
+: 
+ NEW coordinates : {'latitude': '41.536023', 'longitude': '-8.430523'}
+ OLD coordinates : {'latitude': '41.536023', 'longitude': '-8.430323'}
