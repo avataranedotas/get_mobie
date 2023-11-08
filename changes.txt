@@ -2045,3 +2045,12 @@ STB-00061 --> ATL 38.5332382 -8.8843134 Setúbal Av. dos Ciprestes
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T15:42:11.664Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T15:42:11.664Z'}]
 Removidos:[]
+
+2023-11-08 16:41:42
+Adicionados:['SJM-00012']
+
+SJM-00012 --> KLC 40.8950711 -8.5026729 São João da Madeira R. António Nicolau Costa 60
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-08-23T16:33:38.558Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-08-23T16:33:38.558Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-23T16:33:38.558Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
