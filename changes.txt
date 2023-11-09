@@ -2173,3 +2173,7 @@ Removidos:['LRS-00095', 'NZR-00020', 'STB-00053', 'TVD-00035']
 2023-11-09 11:38:06
 Adicionados:[]
 Removidos:['ALM-00071', 'NZR-00028']
+
+2023-11-09 12:33:08
+Adicionados:[]
+Removidos:['LSB-00662']
