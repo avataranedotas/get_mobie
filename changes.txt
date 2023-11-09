@@ -2098,3 +2098,11 @@ TNV-00015 --> EDP 39.468212 -8.536600 Torres Novas Av. Xanana Gusmão - Ap. 45
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:47:59.812Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T17:47:59.812Z'}]
 Removidos:[]
+
+2023-11-09 10:18:25
+Adicionados:['FAF-00007']
+
+FAF-00007 --> EDP 41.453416 -8.187560 Fafe RUA CIDADE DE GUIMARÃES, Nº206
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-11-09T10:04:32.140Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-11-09T10:04:32.140Z'}]
+Removidos:[]
