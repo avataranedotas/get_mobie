@@ -2186,3 +2186,21 @@ CCH-00004 --> ATL 38.9667183 -8.5329734 Coruche Rua do Cortiço - Sto Antonino
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-09T14:32:15.381Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-09T14:32:15.381Z'}]
 Removidos:[]
+
+2023-11-09 16:22:39
+Adicionados:['ALT-00004', 'AND-00005', 'VIZ-00009']
+
+ALT-00004 --> EDP 39.222271 -7.686875 Alter do Chão Tapada do Arneiro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-11-09T16:18:09.813Z'}]
+
+AND-00005 --> HRZ 40.408635 -8.455080 Anadia Estrada Nacional 1 118 - Peneireiro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-09T16:08:23.958Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2023-11-09T16:08:23.958Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-09T16:08:23.958Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 160000, 'last_updated': '2023-11-09T16:08:23.958Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 160000, 'last_updated': '2023-11-09T16:08:23.958Z'}]
+
+VIZ-00009 --> EDP 41.371968 -8.311395 Vizela Rua Armindo Freitas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-11-09T15:38:09.149Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-09T15:38:09.149Z'}]
+Removidos:[]
