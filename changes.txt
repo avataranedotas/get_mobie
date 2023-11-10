@@ -2218,3 +2218,11 @@ LSB-00633 --> MOT 38.747031 -9.167329 Lisboa Calçada de Palma de Baixo, Nº 12
 PRT-00203 --> MAK 41.1474252 -8.611527 Porto Praça D. João I, s/n
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-10T10:20:15.310Z'}]
 Removidos:[]
+
+2023-11-10 11:38:02
+Adicionados:['ACB-00009']
+
+ACB-00009 --> GLG 39.559677 -8.978034 Alcobaça R. Gen. Humberto Delgado
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-10T11:35:03.290Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-10T11:35:03.290Z'}]
+Removidos:[]
