@@ -2226,3 +2226,25 @@ ACB-00009 --> GLG 39.559677 -8.978034 Alcobaça R. Gen. Humberto Delgado
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-10T11:35:03.290Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-10T11:35:03.290Z'}]
 Removidos:[]
+
+2023-11-10 12:33:03
+Adicionados:['LSB-00643', 'LSB-00644', 'MMN-00011', 'SNT-00125']
+
+LSB-00643 --> ATL 38.7041441 -9.1750744 Lisboa R. de Cascais 43
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-10T11:21:27.064Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2023-11-10T11:21:27.064Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-10T11:21:27.064Z'}]
+
+LSB-00644 --> ATL 38.7041441 -9.1750744 Lisboa R. de Cascais 43
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-10T12:08:41.761Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-10T12:08:41.761Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-10T12:08:41.761Z'}]
+
+MMN-00011 --> EDP 37.646426 -8.200054 Montemor-o-Novo N114, 7050-909 Montemor-o-Novo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-11-10T12:09:21.955Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-11-10T12:09:21.955Z'}]
+
+SNT-00125 --> HRZ 38.773950 -9.343858 Sintra Estr. Terras da Lagoa 11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-10T12:16:47.351Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-10T12:16:47.351Z'}]
+Removidos:[]
