@@ -2281,3 +2281,16 @@ SEI-00008 --> IBD 40.416833 -7.726556 Seia Rua Direita, 11
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T12:10:48.958Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T12:10:48.958Z'}]
 Removidos:[]
+
+2023-11-13 14:38:08
+Adicionados:['ETZ-00022', 'LRS-00097']
+
+ETZ-00022 --> HRZ 38.844482 -7.613034 Estremoz R. da Fonte do Imperador EN 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T14:35:58.974Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T14:35:58.974Z'}]
+
+LRS-00097 --> KLS 38.794528 -9.104111 Loures R. Estado da Índia pav 9
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T14:26:15.140Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-11-13T14:26:15.140Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-11-13T14:26:15.140Z'}]
+Removidos:[]
