@@ -2273,3 +2273,11 @@ SBG-00005 --> GSF 40.350281 -7.090105 Sabugal Largo da Fonte, S/N
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-27T13:49:04.043Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-09-27T13:49:04.043Z'}]
 Removidos:[]
+
+2023-11-13 12:34:16
+Adicionados:['SEI-00008']
+
+SEI-00008 --> IBD 40.416833 -7.726556 Seia Rua Direita, 11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T12:10:48.958Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-13T12:10:48.958Z'}]
+Removidos:[]
