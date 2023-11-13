@@ -2294,3 +2294,12 @@ LRS-00097 --> KLS 38.794528 -9.104111 Loures R. Estado da Índia pav 9
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-11-13T14:26:15.140Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-11-13T14:26:15.140Z'}]
 Removidos:[]
+
+2023-11-13 15:38:10
+Adicionados:['ACH-00012']
+
+ACH-00012 --> BPP 38.751744 -8.945617 Alcochete N 119 Sítio Da Quebrada
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-11-13T15:11:39.918Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-13T15:11:39.918Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 4000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-11-13T15:11:39.918Z'}]
+Removidos:[]
