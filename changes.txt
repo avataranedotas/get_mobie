@@ -2344,3 +2344,7 @@ VNF-00041 --> ATL 41.410778 -8.507417 Vila Nova de Famalicão R. Fernando Mesqui
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:33:23.332Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-14T15:33:23.332Z', 'max_amperage': 200, 'max_electric_power': 120000}]
 Removidos:[]
+
+2023-11-14 16:19:20
+Adicionados:[]
+Removidos:['VNF-00027', 'VNF-00028']
