@@ -2348,3 +2348,7 @@ Removidos:[]
 2023-11-14 16:19:20
 Adicionados:[]
 Removidos:['VNF-00027', 'VNF-00028']
+
+2023-11-14 17:38:03
+Adicionados:[]
+Removidos:['LSB-00612']
