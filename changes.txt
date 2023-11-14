@@ -2303,3 +2303,44 @@ ACH-00012 --> BPP 38.751744 -8.945617 Alcochete N 119 Sítio Da Quebrada
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-13T15:11:39.918Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 4000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-11-13T15:11:39.918Z'}]
 Removidos:[]
+
+2023-11-14 15:38:05
+Adicionados:['ALM-00073', 'BRG-00111', 'FAF-00010', 'MDL-00010', 'STR-00035', 'STS-00022', 'VNF-00040', 'VNF-00041']
+
+ALM-00073 --> ATL 38.6739632 -9.1596489 Almada Av. Rainha Dona Leonor 48,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:30:56.198Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:30:56.198Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+BRG-00111 --> ATL 41.5580683 -8.4170015 Braga R. do Regimento de Infantaria 8
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:27.836Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:27.836Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-14T15:31:27.836Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FAF-00010 --> ATL 41.445663 -8.165417 Fafe Lugar de Cavadas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:43.713Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:43.713Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-14T15:31:43.713Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+MDL-00010 --> ATL 41.4962118 -7.180711 Mirandela Avenida da Galiza
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:58.549Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:31:58.549Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-14T15:31:58.549Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+STR-00035 --> ATL 39.2479731 -8.6928151 Santarém R. Escola Regentes Agricolas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-11-14T15:32:41.290Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-14T15:32:41.290Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-14T15:32:41.290Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+STS-00022 --> ATL 41.338999 -8.494857 Santo Tirso Lugar de Fontiscos
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:32:53.415Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:32:53.415Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-14T15:32:53.415Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+VNF-00040 --> ATL 41.404278 -8.516889 Vila Nova de Famalicão Praça Mouzinho de Albuquerque,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:33:06.523Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-14T15:33:06.523Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+
+VNF-00041 --> ATL 41.410778 -8.507417 Vila Nova de Famalicão R. Fernando Mesquita,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-14T15:33:23.332Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-14T15:33:23.332Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+Removidos:[]
