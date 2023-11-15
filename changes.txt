@@ -2437,3 +2437,66 @@ BTL-00005
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 60000
+
+2023-11-15 12:34:24
+Adicionados:['CSC-00137', 'CSC-00139', 'MAI-00042', 'MLD-00011', 'MTS-00134', 'OER-00188', 'PRT-00218', 'PRT-00219', 'PRT-00220', 'VLG-00032', 'VNG-00134', 'VNG-00135']
+
+CSC-00137 --> HRZ 38.700561 -9.464738 Cascais Campo de Golfe Oitavos Dunes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T12:13:49.452Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T12:13:49.452Z'}]
+
+CSC-00139 --> HRZ 38.70056 -9.46473 Cascais Campo de Golfe Oitavos Dunes
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T12:10:46.071Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T12:10:46.071Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-11-15T12:10:46.071Z'}]
+
+MAI-00042 --> ATL 41.2255062 -8.6129215 Maia R. 5 de Outubro 84
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:45:26.553Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:45:26.553Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:45:26.553Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MLD-00011 --> ATL 40.38844 -8.450923 Mealhada Avenida da Floresta
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:45:48.181Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:45:48.181Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:45:48.181Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MTS-00134 --> ATL 41.195499 -8.611733 Matosinhos Rua Sá e Melo
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:07.750Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:07.750Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'last_updated': '2023-11-15T11:46:07.750Z', 'max_amperage': 150, 'max_electric_power': 50000}]
+
+OER-00188 --> ATL 38.7001011 -9.2292212 Oeiras R. Gen. Humberto Delgado 19,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:46:30.950Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:30.950Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:30.950Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+PRT-00218 --> ATL 41.1850649 -8.6082025 Porto Estrada Exterior da Circunvalação (EN 12)
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:46:51.705Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:51.705Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:46:51.705Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+PRT-00219 --> ATL 41.1726498 -8.6389259 Porto Rua Central de Francos, 744-758
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:47:11.994Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:47:11.994Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:47:11.994Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+PRT-00220 --> ATL 41.1709991 -8.6585874 Porto Rua do Lidador, 109 -111
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:47:29.385Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:47:29.385Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:47:29.385Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VLG-00032 --> ATL 41.213104 -8.558668 Valongo Gaveto - Praceta de Moçambique
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:49:08.848Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:49:08.848Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:49:08.848Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VNG-00134 --> ATL 41.1276746 -8.5807732 Vila Nova de Gaia R. Dona Maria da Costa Basto 16,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:48:26.805Z', 'max_amperage': 16, 'max_electric_power': 11000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:26.805Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:26.805Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VNG-00135 --> ATL 41.0272313 -8.6358682 Vila Nova de Gaia Estr. Brito,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T11:48:48.376Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:48.376Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:48.376Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:['VNG-00118']
