@@ -2352,3 +2352,40 @@ Removidos:['VNF-00027', 'VNF-00028']
 2023-11-14 17:38:03
 Adicionados:[]
 Removidos:['LSB-00612']
+
+2023-11-15 10:20:13
+Adicionados:['ALM-00071', 'CHV-00017', 'MAI-00043', 'MNC-00008', 'NZR-00028', 'VNG-00132', 'VNG-00133']
+
+ALM-00071 --> ATL 38.6473688 -9.2196604 Almada Aldeia dos Capuchos 117/120 E.N. 10-1
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T14:30:11.025Z'}]
+
+CHV-00017 --> ATL 41.759409 -7.468160 Chaves Av. Cocanha
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-26T14:40:27.887Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T14:40:27.887Z'}]
+
+MAI-00043 --> ATL 41.2649006 -8.615254 Maia R. Eng. Frederico Ulrich 15,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-07-30T22:01:37.854Z'}]
+
+MNC-00008 --> ATL 42.0628319 -8.5088733 Monção Gandra - Mazedo
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-09-15T15:18:16.770Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-09-15T15:18:16.770Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-09-15T15:18:16.770Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+NZR-00028 --> ATL 39.6050508 -9.0670854 Nazaré N242 60
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-07T17:04:05.408Z'}]
+
+VNG-00132 --> ATL 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T10:03:53.712Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:03:53.712Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:03:53.712Z'}]
+
+VNG-00133 --> ATL 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T10:02:11.367Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:02:11.367Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:02:11.367Z'}]
+Removidos:[]
