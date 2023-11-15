@@ -2500,3 +2500,11 @@ VNG-00135 --> ATL 41.0272313 -8.6358682 Vila Nova de Gaia Estr. Brito,
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:48.376Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T11:48:48.376Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:['VNG-00118']
+
+2023-11-15 15:18:50
+Adicionados:['ANS-00002']
+
+ANS-00002 --> EDP 39.918116 -8.359278 Ansião Rua do Santo Velho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-15T15:08:31.391Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-15T15:08:31.391Z'}]
+Removidos:[]
