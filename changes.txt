@@ -2389,3 +2389,41 @@ VNG-00133 --> ATL 41.063526 -8.5975363 Vila Nova de Gaia R. Dr. Carlos Costa 91
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:02:11.367Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:02:11.367Z'}]
 Removidos:[]
+
+2023-11-15 11:15:02
+Adicionados:['ENT-00008', 'GDM-00040', 'GMR-00108', 'LSB-00647', 'LSB-00649', 'LSB-00667', 'MAI-00041']
+
+ENT-00008 --> ATL 39.4749843 -8.4682803 Entroncamento Av. das Forças Armadas,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T10:54:00.350Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:54:00.350Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:54:00.350Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+GDM-00040 --> ATL 41.1516875 -8.5159439 Gondomar Estr. Dom Miguel 1427,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-15T10:54:20.269Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:54:20.269Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-15T10:54:20.269Z'}]
+
+GMR-00108 --> ATL 41.4464924 -8.2919616 Guimarães Alameda Dr. Alfredo Pimenta 278,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T10:56:20.372Z', 'max_amperage': 16, 'max_electric_power': 11000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:56:20.372Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:56:20.372Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LSB-00647 --> ATL 38.726274 -9.162419 Lisboa Rua de Campolide, 31 a 31 C
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T10:56:43.818Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:56:43.818Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:56:43.818Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LSB-00649 --> ATL 38.727125 -9.1347005 Lisboa Av. Alm. Reis 64,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:29.972Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:29.972Z', 'max_amperage': 150, 'max_electric_power': 50000}]
+
+LSB-00667 --> ATL 38.710123 -9.156041 Lisboa Rua do Quelhas Nº 8
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:05.572Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:05.572Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'last_updated': '2023-11-15T10:57:05.572Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MAI-00041 --> ATL 41.2553187 -8.6500958 Maia Rua Engº Frederico Ulrich, 3369
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-15T10:57:51.768Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:51.768Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-15T10:57:51.768Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:['GDM-00032']
