@@ -2534,3 +2534,18 @@ TBU-00005 --> EDP 40.360829 -8.027819 Tábua Av. Professor Dr. Caeiro da Matta
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-16T10:57:20.484Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-16T10:57:20.484Z'}]
 Removidos:[]
+
+2023-11-16 16:24:22
+Adicionados:['MGR-00012', 'STB-00064']
+
+MGR-00012 --> KLS 39.742903 -8.928569 Marinha Grande Avenida 1.º de Maio, Marinha Grande
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-16T15:46:56.919Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-16T15:46:56.919Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-16T15:46:56.919Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+STB-00064 --> HRZ 38.542143 -9.027058 Setúbal R. João Vaz lote 96
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-11-16T16:09:25.641Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-16T16:09:25.641Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-16T16:09:25.641Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-11-16T16:09:25.641Z'}]
+Removidos:[]
