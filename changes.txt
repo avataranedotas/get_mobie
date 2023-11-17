@@ -2581,3 +2581,33 @@ CBC-00011 --> EVI 41.50755 -7.98925 Cabeceiras de Basto Avenida Rei Dom Manuel I
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2023-08-21T14:02:30.250Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2023-08-21T14:02:30.250Z'}]
 Removidos:[]
+
+2023-11-17 12:34:06
+Adicionados:['AND-00007', 'BGC-00014', 'LSB-00636', 'PRT-00215', 'VGS-00007']
+
+AND-00007 --> ATL 40.441741 -8.440605 Anadia Av. José Luciano de Castro 24
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-17T11:33:17.108Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-17T11:33:17.108Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T11:33:17.108Z'}]
+
+BGC-00014 --> EDP 41.787519 -6.780847 Bragança RUA DE PEREIROS
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-17T12:07:18.823Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2023-11-17T12:07:18.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-11-17T12:07:18.823Z'}]
+
+LSB-00636 --> CAP 38.755031 -9.189442 Lisboa AVENIDA LUSÍADA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T10:42:43.286Z'}]
+
+PRT-00215 --> LOG 41.145707 -8.606811 Porto Rua Praça da Batalha 32-34
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T12:14:48.058Z'}]
+
+VGS-00007 --> ATL 40.5522792 -8.6775385 Vagos R. dos Bombeiros Voluntários de Vagos
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-17T11:04:15.020Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-17T11:04:15.020Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T11:04:15.020Z'}]
+Removidos:[]
