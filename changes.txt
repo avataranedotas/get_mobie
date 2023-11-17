@@ -2573,3 +2573,11 @@ LSB-00673 --> GLP 38.747232 -9.163681 Lisboa Avenida dos Combatentes 45
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T09:47:50.944Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T09:47:50.944Z'}]
 Removidos:[]
+
+2023-11-17 10:39:00
+Adicionados:['CBC-00011']
+
+CBC-00011 --> EVI 41.50755 -7.98925 Cabeceiras de Basto Avenida Rei Dom Manuel I
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2023-08-21T14:02:30.250Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2023-08-21T14:02:30.250Z'}]
+Removidos:[]
