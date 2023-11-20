@@ -2717,3 +2717,11 @@ MLD-00012 --> EZU 40.370071 -8.483496 Mealhada Zona Industrial da Pedrulha, Lote
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T15:23:50.863Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T15:23:50.863Z'}]
 Removidos:[]
+
+2023-11-20 16:23:28
+Adicionados:['LRA-00113']
+
+LRA-00113 --> KLS 39.749179 -8.802798 Leiria Rua da Europa
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-20T12:02:54.814Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-20T12:02:54.814Z'}]
+Removidos:[]
