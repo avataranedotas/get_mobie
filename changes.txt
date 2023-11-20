@@ -2725,3 +2725,15 @@ LRA-00113 --> KLS 39.749179 -8.802798 Leiria Rua da Europa
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-20T12:02:54.814Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2023-11-20T12:02:54.814Z'}]
 Removidos:[]
+
+2023-11-20 17:13:41
+Adicionados:['MTS-00125', 'PNF-00021']
+
+MTS-00125 --> LOG 41.180359 -8.653020 Matosinhos Rua Henrique Pousão
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T16:42:30.688Z'}]
+
+PNF-00021 --> EDP 41.19432 -8.30143 Penafiel RUA TAPADINHO
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-11-20T16:57:05.904Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-20T16:57:05.904Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T16:57:05.904Z'}]
+Removidos:[]
