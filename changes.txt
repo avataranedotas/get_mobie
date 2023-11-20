@@ -2637,3 +2637,59 @@ Adicionados:['MTS-00127']
 MTS-00127 --> LOG 41.180359 -8.653020 Matosinhos Rua Henrique Pousão
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-17T15:50:44.867Z'}]
 Removidos:[]
+
+2023-11-20 12:35:26
+Adicionados:['AVR-00053', 'CSC-00169', 'CSC-00170', 'LSB-00663', 'LSB-00668', 'LSB-00670', 'OER-00190', 'OER-00192', 'TRF-00015', 'VIS-00090', 'VIS-00091']
+
+AVR-00053 --> ATL 40.65083 -8.620334 Aveiro Estrada Nacional 109 - Aveiro
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:59:51.332Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:59:51.332Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+
+CSC-00169 --> ATL 38.699554 -9.380682 Cascais R: Egas Moniz 173 S. João Estoril
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:00:34.745Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:00:34.745Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:00:34.745Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CSC-00170 --> ATL 38.7151975 -9.4242548 Cascais R. de Alvide 987
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-11-20T12:00:56.668Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-20T12:00:56.668Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:00:56.668Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00663 --> ATL 38.7539676 -9.1659787 Lisboa Azinhaga das Galhardas, Lt 19
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:06:26.440Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:06:26.440Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:06:26.440Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00668 --> ATL 38.7497968 -9.2037139 Lisboa Av. Grão Vasco 56,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-11-20T12:06:51.699Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-20T12:06:51.699Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:06:51.699Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00670 --> ATL 38.768484 -9.1728882 Lisboa Rua Cesar de Oliveira A
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 35000, 'last_updated': '2023-11-20T12:07:13.094Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 35000, 'last_updated': '2023-11-20T12:07:13.094Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T12:07:13.094Z'}]
+
+OER-00190 --> ATL 38.714744 -9.240297 Oeiras Av. 25 de Abril de 1974 25
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-20T11:58:01.502Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-20T11:58:01.502Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T11:58:01.502Z'}]
+
+OER-00192 --> ATL 38.718489 -9.229577 Oeiras Rua Fernando Almeida nº22
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:07:36.117Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:07:36.117Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:07:36.117Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+TRF-00015 --> ATL 41.326205 -8.570253 Trofa Rua de Aldeias de Cima
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:07:55.814Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T12:07:55.814Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-20T12:07:55.814Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+VIS-00090 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:58:35.731Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:58:35.731Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+VIS-00091 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:59:03.662Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-20T11:59:03.662Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+Removidos:['LSB-00596', 'OER-00184']
