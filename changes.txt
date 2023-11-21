@@ -2755,3 +2755,10 @@ VFR-00060
 : 
  NEW coordinates : {'latitude': '40.929456', 'longitude': '-8.554637'}
  OLD coordinates : {'latitude': '40.929426', 'longitude': '-8.512906'}
+
+2023-11-21 16:24:55
+Adicionados:['CSC-00135']
+
+CSC-00135 --> HRZ 38.685725 -9.343966 Cascais Rua Bartolomeu Dias
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-21T16:22:55.596Z'}]
+Removidos:[]
