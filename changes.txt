@@ -2737,3 +2737,21 @@ PNF-00021 --> EDP 41.19432 -8.30143 Penafiel RUA TAPADINHO
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-20T16:57:05.904Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-20T16:57:05.904Z'}]
 Removidos:[]
+
+2023-11-21 12:35:12
+VFR-00060
+: 
+ NEW address : R. Antero Andrade e Silva
+ OLD address : GALP - Rua Dr. Alfredo Valente da Silva Terra
+VFR-00060
+coordinates: 
+ NEW latitude : 40.929456
+ OLD latitude : 40.929426
+VFR-00060
+coordinates: 
+ NEW longitude : -8.554637
+ OLD longitude : -8.512906
+VFR-00060
+: 
+ NEW coordinates : {'latitude': '40.929456', 'longitude': '-8.554637'}
+ OLD coordinates : {'latitude': '40.929426', 'longitude': '-8.512906'}
