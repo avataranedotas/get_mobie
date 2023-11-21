@@ -2774,3 +2774,13 @@ CSC-00134 --> HRZ 38.685725 -9.343966 Cascais Rua Bartolomeu Dias
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2023-11-21T16:26:26.794Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-21T16:26:26.794Z'}]
 Removidos:[]
+
+2023-11-21 19:14:35
+BRG-00085
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 23000
+ OLD max_electric_power : 40000
+BRG-00085
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 23000
+ OLD max_electric_power : 40000
