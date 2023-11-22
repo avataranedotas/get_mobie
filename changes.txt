@@ -2784,3 +2784,22 @@ BRG-00085
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 23000
  OLD max_electric_power : 40000
+
+2023-11-22 09:18:02
+Adicionados:['AMD-00095', 'AMD-00096', 'LRS-00102']
+
+AMD-00095 --> ATL 38.7786519 -9.2324638 Amadora Av. Dr. Fernando Piteira Santos 5
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-11-22T09:15:23.568Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-22T09:15:23.568Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:15:23.568Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+AMD-00096 --> ATL 38.7786519 -9.2324638 Amadora Av. Dr. Fernando Piteira Santos 5
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-11-22T09:15:47.715Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-11-22T09:15:47.715Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:15:47.715Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LRS-00102 --> ATL 38.8164651 -9.1551928 Loures R. Pêro Vaz de Caminha 14,
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-22T09:17:56.105Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-22T09:17:56.105Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-22T09:17:56.105Z'}]
+Removidos:['LRS-00096', 'MAI-00031', 'VNG-00117']
