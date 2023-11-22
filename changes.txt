@@ -2827,3 +2827,11 @@ VVD-00014 --> ATL 41.643342 -8.433532 Vila Verde Lugar da Torre
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:19:18.915Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:19:18.915Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:['LSB-00593']
+
+2023-11-22 17:38:04
+Adicionados:['FNC-00040']
+
+FNC-00040 --> EMA 32.64723 -16.903893 Funchal Rua Artur de Sousa "Pinga"
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2023-11-22T17:17:08.352Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2023-11-22T17:17:08.352Z'}]
+Removidos:[]
