@@ -2803,3 +2803,27 @@ LRS-00102 --> ATL 38.8164651 -9.1551928 Loures R. Pêro Vaz de Caminha 14,
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-22T09:17:56.105Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-22T09:17:56.105Z'}]
 Removidos:['LRS-00096', 'MAI-00031', 'VNG-00117']
+
+2023-11-22 09:38:05
+Adicionados:['LSB-00664', 'LSB-00665', 'LSB-00669', 'VVD-00014']
+
+LSB-00664 --> ATL 38.70199 -9.193662 Lisboa R. Alfredo da Silva, 6 6-A 6-B
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:18:18.453Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:18:18.453Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:18:18.453Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00665 --> ATL 38.7158914 -9.1631245 Lisboa R.Fer. Borges,14 C.Cap. Ourique
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:18:36.693Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:18:36.693Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:18:36.693Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00669 --> ATL 38.7601322 -9.096846 Lisboa Av. Fernando Pessoa,
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-22T09:18:56.035Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-22T09:18:56.035Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-22T09:18:56.035Z'}]
+
+VVD-00014 --> ATL 41.643342 -8.433532 Vila Verde Lugar da Torre
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:19:18.915Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-22T09:19:18.915Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-22T09:19:18.915Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+Removidos:['LSB-00593']
