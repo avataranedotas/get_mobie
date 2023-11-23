@@ -3231,3 +3231,11 @@ AMD-00102 --> HRZ 38.7578692 -9.2305601 Amadora Rua Elias garcia, nº 131
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T17:05:54.857Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-23T17:05:54.857Z'}]
 Removidos:[]
+
+2023-11-23 17:37:50
+Adicionados:['LRS-00100']
+
+LRS-00100 --> EDP 38.852000 -9.076000 Loures RUA Dom Afonso de Albuquerque
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T17:20:43.870Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T17:20:43.870Z'}]
+Removidos:[]
