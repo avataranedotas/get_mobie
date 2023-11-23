@@ -3239,3 +3239,55 @@ LRS-00100 --> EDP 38.852000 -9.076000 Loures RUA Dom Afonso de Albuquerque
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T17:20:43.870Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T17:20:43.870Z'}]
 Removidos:[]
+
+2023-11-23 18:21:44
+Adicionados:['VFX-00039']
+
+VFX-00039 --> EDP 38.864300 -9.072800 Vila Franca de Xira Quinta da Piedade Póvoa de Santa Iria
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T18:03:10.519Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T18:03:10.519Z'}]
+Removidos:[]
+AMD-00091
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 200
+AMD-00091
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+AMD-00091
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 200
+AMD-00091
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+CSC-00129
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 300
+CSC-00129
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 120000
+CSC-00129
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 300
+CSC-00129
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 120000
+CSC-00129
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00129
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
+CSC-00129
+evses -> 5 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 80000
