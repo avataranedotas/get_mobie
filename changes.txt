@@ -3165,3 +3165,11 @@ PNI-00011 --> EDP 39.36371 -9.374441 Peniche Avenida Monsenhor Bastos
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T10:22:26.429Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T10:22:26.429Z'}]
 Removidos:[]
+
+2023-11-23 11:37:43
+Adicionados:['VIS-00081']
+
+VIS-00081 --> EDP 40.529587 -7.851689 Viseu Av. António Joaquim Henriques, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T11:30:18.950Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T11:30:18.950Z'}]
+Removidos:[]
