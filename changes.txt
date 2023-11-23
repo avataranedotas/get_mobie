@@ -3211,3 +3211,14 @@ SNT-00124 --> EDP 38.801600 -9.456600 Sintra CAMI JT QT SARRAZOLA COLARES
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-23T14:52:26.972Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-23T14:52:26.972Z'}]
 Removidos:[]
+
+2023-11-23 16:22:47
+Adicionados:['AMD-00091']
+
+AMD-00091 --> HRZ 38.7745532 -9.2166016 Amadora  Av. Lima de Freitas
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-23T16:11:16.627Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-23T16:11:16.627Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-23T16:11:16.627Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-23T16:11:16.627Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-23T16:11:16.627Z'}]
+Removidos:[]
