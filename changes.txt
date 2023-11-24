@@ -3291,3 +3291,25 @@ CSC-00129
 evses -> 5 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 80000
+
+2023-11-24 01:15:55
+ACB-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+ACB-00010
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+ACB-00010
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 150000
+ACB-00010
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+ACB-00010
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 150000
