@@ -3413,3 +3413,11 @@ SEI-00010 --> MOO 40.4298997 -7.7161660 Seia Av. Terras de Sena n 115 Zona Indus
 SEI-00011 --> MOO 40.4298997 -7.7161660 Seia Av. Terras de Sena n 115 Zona Industrial Seia
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:45:17.552Z'}]
 Removidos:[]
+
+2023-11-24 13:20:57
+Adicionados:['CDN-00002']
+
+CDN-00002 --> EDP 40.121293 -8.498545 Condeixa-a-Nova R. Estr. Nacional 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-24T12:45:42.437Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-24T12:45:42.437Z'}]
+Removidos:[]
