@@ -3380,3 +3380,15 @@ EVR-00036
 : 
  NEW coordinates : {'latitude': '38.5649161', 'longitude': '-7.9129126'}
  OLD coordinates : {'latitude': '38.33537', 'longitude': '-7.54466'}
+
+2023-11-24 11:38:06
+Adicionados:['FLG-00011', 'FLG-00012']
+
+FLG-00011 --> EDP 41.370043 -8.203340 Felgueiras Av. Doutor Magalhães Lemos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:35:59.413Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:35:59.413Z'}]
+
+FLG-00012 --> EDP 41.3700431 -8.2033401 Felgueiras Av Doutor Magalhães Lemos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:24:27.560Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:24:27.560Z'}]
+Removidos:[]
