@@ -3421,3 +3421,11 @@ CDN-00002 --> EDP 40.121293 -8.498545 Condeixa-a-Nova R. Estr. Nacional 1
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-24T12:45:42.437Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-24T12:45:42.437Z'}]
 Removidos:[]
+
+2023-11-24 14:38:05
+Adicionados:['PTG-00017']
+
+PTG-00017 --> EDP 39.289696 -7.394336 Portalegre Estrada dos Moleiros, nº15
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-24T14:18:14.718Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-24T14:18:14.718Z'}]
+Removidos:[]
