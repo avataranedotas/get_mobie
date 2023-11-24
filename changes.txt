@@ -3366,3 +3366,17 @@ EVR-00036 --> LUZ 38.33537 -7.54466 Évora Rua de Viana
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2023-11-24T10:04:58.236Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2023-11-24T10:04:58.236Z'}]
 Removidos:[]
+
+2023-11-24 10:39:14
+EVR-00036
+coordinates: 
+ NEW latitude : 38.5649161
+ OLD latitude : 38.33537
+EVR-00036
+coordinates: 
+ NEW longitude : -7.9129126
+ OLD longitude : -7.54466
+EVR-00036
+: 
+ NEW coordinates : {'latitude': '38.5649161', 'longitude': '-7.9129126'}
+ OLD coordinates : {'latitude': '38.33537', 'longitude': '-7.54466'}
