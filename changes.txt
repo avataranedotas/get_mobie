@@ -3392,3 +3392,24 @@ FLG-00012 --> EDP 41.3700431 -8.2033401 Felgueiras Av Doutor Magalhães Lemos
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:24:27.560Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:24:27.560Z'}]
 Removidos:[]
+
+2023-11-24 12:33:20
+Adicionados:['CNT-00015', 'OER-00185', 'OER-00186', 'SEI-00010', 'SEI-00011']
+
+CNT-00015 --> EDP 40.35598 -8.58927 Cantanhede EN 234 - Nº 99914
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-11-24T12:04:05.435Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-24T12:04:05.435Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T12:04:05.435Z'}]
+
+OER-00185 --> GRN 38.714511 -9.309663 Oeiras Rua Encostas das Lagoas, Oeiras
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:38:17.679Z'}]
+
+OER-00186 --> GRN 38.676760 -9.321974 Oeiras Estacionamento Praia da Torre, Oeiras
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T12:11:58.305Z'}]
+
+SEI-00010 --> MOO 40.4298997 -7.7161660 Seia Av. Terras de Sena n 115 Zona Industrial Seia
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 30000, 'last_updated': '2023-11-24T12:03:19.219Z'}]
+
+SEI-00011 --> MOO 40.4298997 -7.7161660 Seia Av. Terras de Sena n 115 Zona Industrial Seia
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:45:17.552Z'}]
+Removidos:[]
