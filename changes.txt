@@ -3442,3 +3442,16 @@ VFR-00078 --> PTE 40.921125 -8.502492 Santa Maria da Feira N1
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-23T14:53:24.335Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-23T14:53:24.335Z'}]
 Removidos:[]
+
+2023-11-24 15:38:20
+Adicionados:['PLM-00031', 'PLM-00032']
+
+PLM-00031 --> HRZ 38.582970 -8.892423 Palmela Rua de São Julião
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 200000, 'last_updated': '2023-11-24T15:26:20.347Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-24T15:26:20.347Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2023-11-24T15:26:20.347Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2023-11-24T15:26:20.347Z'}]
+
+PLM-00032 --> HRZ 38.582970 -8.892423 Palmela Rua de São Julião
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T15:24:45.252Z'}]
+Removidos:[]
