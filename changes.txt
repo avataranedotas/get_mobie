@@ -3429,3 +3429,16 @@ PTG-00017 --> EDP 39.289696 -7.394336 Portalegre Estrada dos Moleiros, nº15
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-24T14:18:14.718Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-24T14:18:14.718Z'}]
 Removidos:[]
+
+2023-11-24 15:18:00
+Adicionados:['PBL-00011', 'VFR-00078']
+
+PBL-00011 --> REP 39.922349 -8.629167 Pombal Cruzamento da E.N.1 com a E.N. 237
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-24T14:58:10.292Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-24T14:58:10.292Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-24T14:58:10.292Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00078 --> PTE 40.921125 -8.502492 Santa Maria da Feira N1
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-23T14:53:24.335Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-23T14:53:24.335Z'}]
+Removidos:[]
