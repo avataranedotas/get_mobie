@@ -3463,3 +3463,95 @@ CSC-00177 --> LOG 38.70966 -9.33560 Cascais Quinta da Torre de Aguilha, Av. Aris
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T17:31:19.579Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T17:31:19.579Z'}]
 Removidos:[]
+
+2023-11-27 10:19:56
+Adicionados:['ALM-90005', 'ALM-90006', 'AZB-00009', 'LSB-00631', 'VFR-00018', 'VFR-00019', 'VFR-00020', 'VFR-00021', 'VFR-00023', 'VFR-00024', 'VFR-00026', 'VFR-00028', 'VFR-00029', 'VFR-00030', 'VFR-00031', 'VFR-00033', 'VFR-00034', 'VFR-00035', 'VFR-00036', 'VFR-00037', 'VFR-00039', 'VFR-00041']
+
+ALM-90005 --> EDP 38.681372 -9.160646 Almada Rua Leonel Duarte Ferreira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2022-12-02T11:08:34.746Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2022-12-02T11:08:34.747Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+ALM-90006 --> EDP 38.675459 -9.166247 Almada Rua Frederico Pinheiro
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:15:52.752Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:15:52.754Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+AZB-00009 --> GLG 39.122353 -8.907745 Azambuja Auto Estrada A1. km 44 (sentido Sul/Norte)
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-01-27T20:46:01.540Z', 'max_amperage': 125, 'max_electric_power': 160000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 920, 'last_updated': '2023-01-27T20:46:01.541Z', 'max_amperage': 350, 'max_electric_power': 160000}]
+
+LSB-00631 --> EDP 38.734889 -9.151056 Lisboa Hotel Príncipe Ávila
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-10T11:39:23.558Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-10T11:39:23.558Z'}]
+
+VFR-00018 --> GLP 40.96833 -8.500821 Santa Maria da Feira Praça de São Jorge, Caldas de São Jorge
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:49:47.010Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:49:47.012Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00019 --> GLP 41.00651 -8.466134 Santa Maria da Feira Av. Eleito Local 4525-011 Canedo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:00.170Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:00.171Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00020 --> GLP 41.009428 -8.461378 Santa Maria da Feira Praceta 4 de Junho 26, 4520-018 Canedo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:13.937Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:13.938Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00021 --> GLP 40.92219 -8.521223 Santa Maria da Feira Rua da Amizade, Escapães
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:27.913Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:27.914Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00023 --> GLP 40.917215 -8.536506 Santa Maria da Feira Rua das Fogaceiras, Fornos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:42.537Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:42.538Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00024 --> GLP 40.983831 -8.491319 Santa Maria da Feira Rua de São Tiago, Lobão
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:54.959Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:50:54.961Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00026 --> GLP 40.988307 -8.53837 Santa Maria da Feira R. Central, Lourosa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:21.635Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:21.636Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00028 --> GLP 40.926004 -8.544418 Santa Maria da Feira Travessa Jornal Correio da Feira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:47.682Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:47.683Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00029 --> GLP 40.92443 -8.552087 Santa Maria da Feira Avenida Dr. Domingos Caetano de Sousa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:00.718Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:00.720Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00030 --> GLP 40.979966 -8.568859 Santa Maria da Feira Avenida Comendador Henrique Amorim
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:13.164Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:13.165Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00031 --> GLP 40.911863 -8.49496 Santa Maria da Feira Av. Corgo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:25.328Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:25.330Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00033 --> GLP 40.979046 -8.4568999 Santa Maria da Feira Rua Central, Louredo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:50.150Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:52:50.152Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00034 --> GLP 41.006669 -8.590087 Santa Maria da Feira Tv. Portela 10-86
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:02.654Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:02.655Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00035 --> GLP 40.975413 -8.590461 Santa Maria da Feira Rua da Mó, Paços de Brandão
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:16.203Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:16.204Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00036 --> GLP 40.958118 -8.580741 Santa Maria da Feira Largo Santo António, Rio Meão
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:28.698Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:28.699Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00037 --> GLP 40.940754 -8.537076 Santa Maria da Feira Rua António Martins Soares Leite
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:41.400Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:41.401Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00039 --> GLP 40.890202 -8.551614 Santa Maria da Feira Travessa do eleito local, São Miguel de Souto
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:06.923Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:06.924Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00041 --> GLP 41.008919 -8.483073 Santa Maria da Feira Rua Dr. Ferreira Pinto, Vila Maior
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:34.392Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:34.394Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
