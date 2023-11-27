@@ -3555,3 +3555,15 @@ VFR-00041 --> GLP 41.008919 -8.483073 Santa Maria da Feira Rua Dr. Ferreira Pint
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:34.392Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:54:34.394Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-11-27 10:39:28
+Adicionados:['VFR-00025', 'VFR-00027']
+
+VFR-00025 --> GLP 40.992635 -8.538722 Santa Maria da Feira Avenida Principal, EN1 Lourosa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:07.533Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:07.534Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00027 --> GLP 41.009399 -8.512906 Santa Maria da Feira Rua Dr. Francisco Sá Carneiro, Sanguedo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:35.522Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:51:35.524Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
