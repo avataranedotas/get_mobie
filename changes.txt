@@ -3579,3 +3579,11 @@ STR-00037 --> GLP 39.244214 -8.703999 Santarém Rua Zeferino Silva
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T11:57:43.038Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T11:57:43.038Z'}]
 Removidos:[]
+
+2023-11-27 14:38:26
+Adicionados:['PTG-00019']
+
+PTG-00019 --> EDP 39.276606 -7.429757 Portalegre Baldio Almagres
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T14:26:27.002Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T14:26:27.002Z'}]
+Removidos:[]
