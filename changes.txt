@@ -3812,3 +3812,23 @@ OER-00215 --> KLS 38.71581 -9.300485 Oeiras Estrada de Paýo de Arcos
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T16:10:18.205Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T16:10:18.205Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-11-27T16:10:18.205Z'}]
 Removidos:[]
+
+2023-11-27 17:16:19
+Adicionados:['SRD-00002']
+
+SRD-00002 --> EDP 39.525659 -8.156125 Sardoal N2 Tv do Ribeiro Barato
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T16:41:50.590Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T16:41:50.590Z'}]
+Removidos:[]
+SVV-00003
+coordinates: 
+ NEW latitude : 40.7246389
+ OLD latitude : 40.7246837
+SVV-00003
+coordinates: 
+ NEW longitude : -8.3636728
+ OLD longitude : -8.6360852
+SVV-00003
+: 
+ NEW coordinates : {'latitude': '40.7246389', 'longitude': '-8.3636728'}
+ OLD coordinates : {'latitude': '40.7246837', 'longitude': '-8.6360852'}
