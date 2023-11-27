@@ -3587,3 +3587,39 @@ PTG-00019 --> EDP 39.276606 -7.429757 Portalegre Baldio Almagres
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T14:26:27.002Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T14:26:27.002Z'}]
 Removidos:[]
+
+2023-11-27 15:18:46
+Adicionados:['ABF-00076', 'ABF-00077', 'ABF-00079', 'ABF-00080', 'ABF-00081', 'AGN-00003', 'AMD-00099', 'AVR-00055']
+
+ABF-00076 --> KLS 37.124474 -8.30046 Albufeira Rua do Mercado
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:11:42.726Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-27T15:11:42.726Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00077 --> KLS 37.093153 -8.18788 Albufeira Rua 25 de Abril
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:05:20.216Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-27T15:05:20.216Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00079 --> KLS 37.126133 -8.237478 Albufeira Avenida 12 de Julho
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:07:34.490Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-27T15:07:34.490Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00080 --> KLS 37.175409 -8.205581 Albufeira Rua das Escolas
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:09:24.368Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-27T15:09:24.368Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00081 --> KLS 37.083682 -8.313905 Albufeira Rua do Barlavento
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:13:22.158Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-27T15:13:22.158Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+AGN-00003 --> EDP 40.218890 -8.057439 Arganil RUA OLIVENÇA Nº 20
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:07:12.037Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-27T15:07:12.037Z'}]
+
+AMD-00099 --> KLS 38.74092 -9.224724 Amadora Estrada da Ponte, Lote 4
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T15:14:40.150Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T15:14:40.150Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-11-27T15:14:40.150Z'}]
+
+AVR-00055 --> KLS 40.6630482 -8.6121601 Aveiro Estrada Nacional 109
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T15:17:41.549Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-27T15:17:41.549Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-11-27T15:17:41.549Z'}]
+Removidos:[]
