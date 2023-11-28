@@ -3876,3 +3876,23 @@ PLM-00029 --> EDP 38.583449 -8.99737 Palmela Parque Industrial da Autoeuropa, Lo
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-28T15:41:26.841Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-28T15:41:26.841Z'}]
 Removidos:[]
+
+2023-11-28 17:16:10
+Adicionados:['MMV-00004']
+
+MMV-00004 --> EDP 40.201274 -8.647246 Montemor-o-Velho Rua do Lavariz
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-28T16:48:24.784Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-28T16:48:24.784Z'}]
+Removidos:[]
+LRS-00107
+coordinates: 
+ NEW latitude : 38.785164
+ OLD latitude : 38.7855487
+LRS-00107
+coordinates: 
+ NEW longitude : -9.116781
+ OLD longitude : -9.119018
+LRS-00107
+: 
+ NEW coordinates : {'latitude': '38.785164', 'longitude': '-9.116781'}
+ OLD coordinates : {'latitude': '38.7855487', 'longitude': '-9.119018'}
