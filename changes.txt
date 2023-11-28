@@ -3848,3 +3848,11 @@ LRA-80008 --> ATL 39.739439 -8.812797 Leiria Rua Doutor João Soares
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.501Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.502Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2023-11-28 14:38:20
+Adicionados:['PTM-00047']
+
+PTM-00047 --> EVP 37.117659 -8.529520 Portimão Marina de Portimão Avenida do Arade
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-28T14:37:04.644Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-28T14:37:04.644Z'}]
+Removidos:[]
