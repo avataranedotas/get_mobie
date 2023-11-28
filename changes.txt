@@ -3832,3 +3832,19 @@ SVV-00003
 : 
  NEW coordinates : {'latitude': '40.7246389', 'longitude': '-8.3636728'}
  OLD coordinates : {'latitude': '40.7246837', 'longitude': '-8.6360852'}
+
+2023-11-28 10:39:30
+Adicionados:['FAR-80006', 'LRA-80008']
+
+FAR-80006 --> ATL 37.028896 -7.924731 Faro Estrada da Penha
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-16T15:31:00.999Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-16T15:31:01.002Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-16T15:31:01.003Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-02-16T15:31:01.005Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+LRA-80008 --> ATL 39.739439 -8.812797 Leiria Rua Doutor João Soares
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.498Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.500Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.501Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T19:48:23.502Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
