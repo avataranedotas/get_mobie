@@ -3933,3 +3933,13 @@ PND-00002 --> EDP 40.991216 -7.391101 Penedono Rua Cabo, Nº 17
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-29T16:14:29.559Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-29T16:14:29.559Z'}]
 Removidos:[]
+
+2023-11-29 17:16:14
+Adicionados:['PTM-00042']
+
+PTM-00042 --> HRZ 37.147728 -8.549117 Portimão R. da Adega Cooperativa 3
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
+Removidos:[]
