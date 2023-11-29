@@ -3943,3 +3943,73 @@ PTM-00042 --> HRZ 37.147728 -8.549117 Portimão R. da Adega Cooperativa 3
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2023-11-29T17:14:20.842Z'}]
 Removidos:[]
+
+2023-11-29 17:37:56
+Adicionados:['ALM-80024', 'ALR-80001', 'ARL-80001', 'ARR-80001', 'ARV-00013', 'AVR-00051', 'BJA-00028', 'CBR-00091', 'CBR-00092', 'CNT-80003', 'CTB-80004', 'CVD-80001', 'LRS-80013', 'LRS-80024', 'LSB-80026', 'PTM-00045']
+
+ALM-80024 --> ATL 38.61761 -9.19113 Almada Rua de Marco Cabaço
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:26:02.251Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:26:02.251Z'}]
+
+ALR-80001 --> ATL 39.201111 -8.62775 Almeirim Rua de Coruche
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:28:56.511Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:28:56.511Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ARL-80001 --> ATL 38.723009 -7.985479 Arraiolos Largo Simão Dórdio Gomes
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:29:34.749Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:29:34.750Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ARR-80001 --> ATL 39.122969 -7.2819982 Arronches Rua B
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:30:24.998Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:30:24.998Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ARV-00013 --> ATL 38.99183 -9.0763184 Arruda dos Vinhos R. Eng. Francisco Borges 6
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:31:00.778Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:31:00.778Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+AVR-00051 --> ATL 40.6302827 -8.6438561 Aveiro Estrada de Vilar, Estr. de São Bernardo,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:31:27.464Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:31:27.464Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+
+BJA-00028 --> ATL 38.010999 -7.855512 Beja Urb. do Seminário, Lt 4 e 5
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T17:31:53.345Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-29T17:31:53.345Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T17:31:53.345Z'}]
+
+CBR-00091 --> ATL 40.252917 -8.42533 Coimbra R. Entre Vinhas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:32:32.433Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:32:32.433Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:32:32.433Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CBR-00092 --> ATL 40.252917 -8.42533 Coimbra R. Entre Vinhas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:33:07.661Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:33:07.661Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:33:07.661Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CNT-80003 --> ATL 40.346295 -8.592531 Cantanhede Largo Cândido dos Reis
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:33:37.036Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:33:37.036Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CTB-80004 --> ATL 39.8244845 -7.4884408 Castelo Branco Avenida General Humberto Delgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:34:06.822Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:34:06.822Z'}]
+
+CVD-80001 --> ATL 39.41109 -7.448935 Castelo de Vide Rua Francisco Bugalho
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:34:31.151Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:34:31.151Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LRS-80013 --> ATL 38.809216 -9.161767 Loures Rua David Mourão Ferreira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:35:11.402Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:35:11.402Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LRS-80024 --> ATL 38.785233 -9.124183 Loures Avenida Severiano Falcão
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-29T17:36:19.728Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-29T17:36:19.728Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+LSB-80026 --> ATL 38.760083 -9.182442 Lisboa Estrada da Luz
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:37:39.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:37:39.457Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PTM-00045 --> HRZ 37.147728 -8.549117 Portimão R. da Adega Cooperativa 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T17:16:09.410Z'}]
+Removidos:['BJA-00019', 'CBR-00075', 'LSB-90026']
