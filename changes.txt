@@ -4013,3 +4013,60 @@ LSB-80026 --> ATL 38.760083 -9.182442 Lisboa Estrada da Luz
 PTM-00045 --> HRZ 37.147728 -8.549117 Portimão R. da Adega Cooperativa 3
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T17:16:09.410Z'}]
 Removidos:['BJA-00019', 'CBR-00075', 'LSB-90026']
+
+2023-11-29 18:22:32
+Adicionados:['LSB-80044', 'LSB-80116', 'LSB-80124', 'MAI-00046', 'ODM-80003', 'ORM-00015', 'PFR-00012', 'SNT-80002', 'STB-80001', 'STB-80003', 'STR-80001', 'VRL-80001', 'VVC-80001']
+
+LSB-80044 --> ATL 38.77804 -9.094709 Lisboa Alameda dos Oceanos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:38:14.323Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:38:14.323Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-80116 --> ATL 38.743478 -9.138381 Lisboa Avenida de Roma
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:38:44.415Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:38:44.415Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-80124 --> ATL 38.741456 -9.135111 Lisboa Rua Presidente Wilson
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:58:47.349Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:58:47.349Z'}]
+
+MAI-00046 --> ATL 41.2127634 -8.5652704 Maia Rua D. Maria Faria N.º 230
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:40:13.425Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:40:13.425Z', 'max_amperage': 160, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:40:13.425Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ODM-80003 --> ATL 37.7268056 -8.7817611 Odemira Rua do Moinho de Vento
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:51:28.279Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:51:28.279Z'}]
+
+ORM-00015 --> EVC 39.653900 -8.5752313 Ourém Rua Mélvin Jones, Nº S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-11-29T18:02:07.056Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-11-29T18:02:07.056Z'}]
+
+PFR-00012 --> ATL 41.2767674 -8.3831903 Paços de Ferreira Rua Dr. Queirós Ribeiro 34
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:41:36.843Z', 'max_amperage': 75, 'max_electric_power': 30000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-29T17:41:36.843Z', 'max_amperage': 75, 'max_electric_power': 30000}]
+
+SNT-80002 --> ATL 38.796794 -9.387974 Sintra Rua Guilherme Gomes Fernandes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:50:24.156Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:50:24.156Z'}]
+
+STB-80001 --> ATL 38.5211389 -9.0168806 Setúbal Rua Dr. Francisco Goncalves Oliveira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:42:33.119Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:42:33.119Z'}]
+
+STB-80003 --> ATL 38.5445778 -8.8200333 Setúbal Rua 1º de Agosto
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:55:00.468Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:55:00.468Z'}]
+
+STR-80001 --> ATL 39.238945 -8.6867353 Santarém Praça do Município
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:43:39.370Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:43:39.370Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VRL-80001 --> ATL 41.3051001 -7.74325 Vila Real Praça de Nossa Senhora da Conceição
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:44:02.912Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-11-29T17:44:02.912Z'}]
+
+VVC-80001 --> ATL 38.77695 -7.41766 Vila Viçosa Rua D. João IV
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:44:43.083Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-29T17:44:43.083Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['PFR-00006']
