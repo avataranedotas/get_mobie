@@ -3917,3 +3917,19 @@ OER-00189 --> ATL 38.7192605 -9.2594618 Oeiras Rua António Feliciano Castilho, 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-29T15:09:31.935Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T15:09:31.935Z'}]
 Removidos:[]
+
+2023-11-29 16:24:13
+Adicionados:['BAO-00002', 'MTG-00004', 'PND-00002']
+
+BAO-00002 --> EDP 41.1048134 -8.0607645 Baião CM Baiao - Praceta Campo Da Aveleira 16
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T16:10:07.654Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T16:10:07.654Z'}]
+
+MTG-00004 --> EDP 40.381865 -7.546034 Manteigas Fonte Santa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-29T15:41:28.196Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-29T15:41:28.196Z'}]
+
+PND-00002 --> EDP 40.991216 -7.391101 Penedono Rua Cabo, Nº 17
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-29T16:14:29.559Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-11-29T16:14:29.559Z'}]
+Removidos:[]
