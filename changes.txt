@@ -3896,3 +3896,11 @@ LRS-00107
 : 
  NEW coordinates : {'latitude': '38.785164', 'longitude': '-9.116781'}
  OLD coordinates : {'latitude': '38.7855487', 'longitude': '-9.119018'}
+
+2023-11-29 12:34:14
+Adicionados:['AMD-00101']
+
+AMD-00101 --> PRI 38.763552 -9.203687 Amadora Av. Ruy Luís Gomes
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T12:06:27.049Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T12:06:27.049Z'}]
+Removidos:[]
