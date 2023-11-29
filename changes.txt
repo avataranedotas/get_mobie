@@ -3904,3 +3904,16 @@ AMD-00101 --> PRI 38.763552 -9.203687 Amadora Av. Ruy Luís Gomes
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T12:06:27.049Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T12:06:27.049Z'}]
 Removidos:[]
+
+2023-11-29 15:18:46
+Adicionados:['BNV-00008', 'OER-00189']
+
+BNV-00008 --> ATL 38.9788385 -8.8094802 Benavente Rua Álvaro Rodrigues de Azevedo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T15:06:30.415Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-29T15:06:30.415Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-29T15:06:30.415Z'}]
+
+OER-00189 --> ATL 38.7192605 -9.2594618 Oeiras Rua António Feliciano Castilho, Lt 26, Lj 5
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-29T15:09:31.935Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-29T15:09:31.935Z'}]
+Removidos:[]
