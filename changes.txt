@@ -4152,3 +4152,11 @@ CTX-00004 --> ATL 39.1690301 -8.7770785 Cartaxo Rua da Ponte 3 Sitio Da Portela,
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-30T14:16:25.350Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T14:16:25.350Z'}]
 Removidos:[]
+
+2023-11-30 14:38:12
+Adicionados:['BRR-00120']
+
+BRR-00120 --> TRK 38.6642001 -9.07942 Barreiro Av. Bento Gonçalves
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-30T14:31:30.208Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-30T14:31:30.208Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+Removidos:[]
