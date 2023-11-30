@@ -4114,3 +4114,25 @@ VCD-00018 --> HLX 41.361667 -8.745000 Vila do Conde Rua 5 de Outubro, nº 1024
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 55000, 'last_updated': '2023-11-16T09:51:03.517Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 55000, 'last_updated': '2023-11-16T09:51:03.517Z'}]
 Removidos:[]
+
+2023-11-30 12:34:17
+Adicionados:['AGN-00004', 'PLM-00030', 'RMZ-00007', 'VCD-00021', 'VCD-00023']
+
+AGN-00004 --> KLS 40.223806 -8.057222 Arganil Rua Comendador Saýl Brandýo
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-30T11:56:27.466Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-30T11:56:27.466Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-11-30T11:56:27.466Z'}]
+
+PLM-00030 --> EDP 38.575490 -8.888147 Palmela Intermarché Palmela
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T11:40:56.735Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T11:40:56.735Z'}]
+
+RMZ-00007 --> ATL 38.4259517 -7.5464662 Reguengos de Monsaraz Avenida do Alentejo (EN 256) Lg de Carapetal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T11:40:15.081Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T11:40:15.081Z'}]
+
+VCD-00021 --> HLX 41.361667 -8.745000 Vila do Conde Rua 5 de Outubro, nº 1024
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 276, 'max_amperage': 32, 'max_electric_power': 7000, 'last_updated': '2023-11-30T11:04:26.217Z'}]
+
+VCD-00023 --> HLX 41.361667 -8.745000 Vila do Conde Rua 5 de Outubro, nº 1024
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 276, 'max_amperage': 32, 'max_electric_power': 7000, 'last_updated': '2023-11-30T11:05:26.174Z'}]
+Removidos:[]
