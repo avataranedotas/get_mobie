@@ -4208,3 +4208,11 @@ RMR-00007 --> ATL 39.340298 -8.930393 Rio Maior Lugar do Espadanal, Av. Dr. Már
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-30T16:40:18.482Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-30T16:40:18.482Z'}]
 Removidos:[]
+
+2023-11-30 17:16:41
+Adicionados:['SNS-00014']
+
+SNS-00014 --> ATL 37.9654927 -8.8574324 Sines IP 8 - Lt Municipal a Norte da R52, Lt 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T16:47:58.084Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T16:47:58.084Z'}]
+Removidos:[]
