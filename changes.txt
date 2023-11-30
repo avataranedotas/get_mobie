@@ -4143,3 +4143,12 @@ Adicionados:['VCD-00022']
 VCD-00022 --> HLX 41.361667 -8.745000 Vila do Conde Rua 5 de Outubro, nº 1024
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2023-11-30T11:04:33.847Z'}]
 Removidos:[]
+
+2023-11-30 14:17:02
+Adicionados:['CTX-00004']
+
+CTX-00004 --> ATL 39.1690301 -8.7770785 Cartaxo Rua da Ponte 3 Sitio Da Portela, EN
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-30T14:16:25.350Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-30T14:16:25.350Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T14:16:25.350Z'}]
+Removidos:[]
