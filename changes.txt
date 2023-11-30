@@ -4160,3 +4160,22 @@ BRR-00120 --> TRK 38.6642001 -9.07942 Barreiro Av. Bento Gonçalves
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-30T14:31:30.208Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-30T14:31:30.208Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-11-30 15:17:38
+Adicionados:['ABF-00074', 'ABF-00075', 'BRR-00066', 'BRR-00107']
+
+ABF-00074 --> EDP 37.100350 -8.228380 Albufeira R. Adriano Correia de Oliveira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-30T15:08:12.901Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-30T15:08:12.901Z'}]
+
+ABF-00075 --> EDP 37.10035 -8.22838 Albufeira R. Adriano Correia de Oliveira 212
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-11-30T15:03:33.510Z'}]
+
+BRR-00066 --> TRK 38.6549722 -9.060475 Barreiro Rua Nuno Tristão 7
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-30T15:12:54.175Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-30T15:12:54.175Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+BRR-00107 --> TRK 38.656158 -9.061839 Barreiro Rua Diogo Cão 9
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-30T14:54:57.975Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-30T14:54:57.975Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
