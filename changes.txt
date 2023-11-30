@@ -4079,3 +4079,15 @@ CSC-00080 --> GLG 38.71973 -9.44139 Cascais Avenida Engenheiro Adelino Amaro da 
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-30T09:14:42.133Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-30T09:14:42.133Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:[]
+
+2023-11-30 10:19:21
+Adicionados:['PRT-00223', 'PRT-00224']
+
+PRT-00223 --> EDP 41.144819 -8.627674 Porto R. de Monchique 35
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T10:08:38.894Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T10:08:38.894Z'}]
+
+PRT-00224 --> EDP 41.144819 -8.627674 Porto R. de Monchique 35
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T09:47:35.317Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-30T09:47:35.317Z'}]
+Removidos:[]
