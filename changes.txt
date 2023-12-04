@@ -4263,3 +4263,55 @@ LLE-00160 --> EDP 37.234252 -8.1757352 Loulé Estrada Ponte 124 Centro Inspeçã
 MTS-00122 --> HRZ 41.210030 -8.682713 Matosinhos Av. Arq. Fernando Tavora
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-04T14:11:22.464Z'}]
 Removidos:[]
+
+2023-12-04 15:18:58
+Adicionados:['GRD-80004', 'LRA-80011', 'LRS-80010', 'LRS-80020', 'LSB-80001', 'LSB-80022', 'LSB-80054', 'LSB-80067', 'LSB-80138', 'LSB-80163', 'STR-80004', 'TVD-80002']
+
+GRD-80004 --> ATL 40.55095 -7.2460999 Guarda Avenida de São Miguel
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:41:39.707Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:41:39.707Z'}]
+
+LRA-80011 --> ATL 39.7341001 -8.79765 Leiria Rua da Assunção
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:01.483Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:01.483Z'}]
+
+LRS-80010 --> ATL 38.816334 -9.156833 Loures Avenida Infante Dom Pedro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:25.413Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:25.413Z'}]
+
+LRS-80020 --> ATL 38.7941001 -9.107283 Loures Rua Auta da Palma Carlos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:47.044Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:43:47.044Z'}]
+
+LSB-80001 --> ATL 38.6948528 -9.2151028 Lisboa Avenida Torre de Belém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:44:08.392Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:44:08.392Z'}]
+
+LSB-80022 --> ATL 38.758642 -9.185511 Lisboa Avenida do Colégio Militar
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:44:52.436Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:44:52.436Z'}]
+
+LSB-80054 --> ATL 38.706917 -9.171578 Lisboa Largo das Necessidades
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:02.118Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:02.118Z'}]
+
+LSB-80067 --> ATL 38.725136 -9.16415 Lisboa Rua do Arco do Carvalhão
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:31.076Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:31.076Z'}]
+
+LSB-80138 --> ATL 38.767778 -9.115556 Lisboa Rua Cidade da Nova Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:50.234Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:46:50.234Z'}]
+
+LSB-80163 --> ATL 38.702749 -9.169882 Lisboa R. da Cintura do Porto de Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:10.045Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:10.045Z'}]
+
+STR-80004 --> ATL 39.22797 -8.6871999 Santarém Avenida Grupo Forcados Amadores de Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:35.455Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:35.455Z'}]
+
+TVD-80002 --> ATL 39.0875001 -9.25582 Torres Vedras Avenida General Humberto Delgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:47.597Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:47.597Z'}]
+Removidos:['STR-90004']
