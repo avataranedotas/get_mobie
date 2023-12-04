@@ -4216,3 +4216,50 @@ SNS-00014 --> ATL 37.9654927 -8.8574324 Sines IP 8 - Lt Municipal a Norte da R52
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T16:47:58.084Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-11-30T16:47:58.084Z'}]
 Removidos:[]
+
+2023-12-04 14:39:09
+Adicionados:['ALM-80007', 'ALM-80021', 'BRG-80007', 'BRG-80012', 'CHV-80001', 'CSC-80003', 'FTR-80001', 'GMR-80003', 'LLE-00160', 'MTS-00122']
+
+ALM-80007 --> ATL 38.669353 -9.165517 Almada Avenida Bento Gonçalves
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:30:29.373Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:30:29.373Z'}]
+
+ALM-80021 --> ATL 38.67035 -9.17038 Almada Rua Abel Salazar
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:33:13.053Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:33:13.053Z'}]
+
+BRG-80007 --> ATL 41.5466828 -8.4229156 Braga Rua Marcelino sá Pires
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:36:25.901Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:36:25.901Z'}]
+
+BRG-80012 --> ATL 41.561766 -8.444903 Braga Rua da Quintã
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:36:57.021Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:36:57.021Z'}]
+
+CHV-80001 --> ATL 41.7370446 -7.4693181 Chaves Alameda Trajano
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-04T14:37:25.407Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-04T14:37:25.407Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CSC-80003 --> ATL 38.7004389 -9.4179528 Cascais Alameda Duquesa de Palmela
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-04T14:37:51.249Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+FTR-80001 --> ATL 39.0538628 -7.6452465 Fronteira Largo Marquês da Fronteira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-04T14:38:33.923Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-04T14:38:33.923Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GMR-80003 --> ATL 41.44167 -8.29498 Guimarães Largo António Leite de Carvalho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:39:02.066Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:39:02.066Z'}]
+
+LLE-00160 --> EDP 37.234252 -8.1757352 Loulé Estrada Ponte 124 Centro Inspeção Automóvel
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-12-04T14:20:18.593Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-12-04T14:20:18.593Z'}]
+
+MTS-00122 --> HRZ 41.210030 -8.682713 Matosinhos Av. Arq. Fernando Tavora
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-04T14:11:22.464Z'}]
+Removidos:[]
