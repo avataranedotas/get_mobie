@@ -4315,3 +4315,11 @@ TVD-80002 --> ATL 39.0875001 -9.25582 Torres Vedras Avenida General Humberto Del
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:47.597Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-04T14:47:47.597Z'}]
 Removidos:['STR-90004']
+
+2023-12-05 14:17:23
+Adicionados:['SEI-00009']
+
+SEI-00009 --> HLX 40.426408 -7.715407 Seia Avenida Terras de Sena nº 83
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-12-05T13:58:41.900Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-12-05T13:58:41.900Z'}]
+Removidos:[]
