@@ -4353,3 +4353,14 @@ MIR-00004 --> TRK 40.45531 -8.80285 Mira AV. Arrais Batista Cera, 23
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-06T14:23:14.061Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-06T14:23:14.061Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-12-06 15:19:26
+Adicionados:['CHV-00019', 'VLC-00011']
+
+CHV-00019 --> REP 41.739750 -7.476045 Chaves Av. Santo Amaro
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-06T15:16:03.632Z'}]
+
+VLC-00011 --> ATL 40.8468683 -8.3989160 Vale de Cambra Rua Granja
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-06T15:07:21.247Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-06T15:07:21.247Z'}]
+Removidos:[]
