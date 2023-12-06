@@ -4345,3 +4345,11 @@ LSB-00640 --> GLP 38.767090 -9.101145 Lisboa Avenida de Berlim Santa Maria dos O
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2023-12-06T09:28:44.102Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-12-06T09:28:44.102Z'}]
 Removidos:[]
+
+2023-12-06 14:38:04
+Adicionados:['MIR-00004']
+
+MIR-00004 --> TRK 40.45531 -8.80285 Mira AV. Arrais Batista Cera, 23
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-06T14:23:14.061Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-06T14:23:14.061Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+Removidos:[]
