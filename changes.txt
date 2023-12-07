@@ -4488,3 +4488,13 @@ VNC-00008 --> GLP 41.937408 -8.745770 Vila Nova de Cerveira Rua Alto das Veigas,
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T16:33:17.456Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T16:33:17.456Z'}]
 Removidos:[]
+
+2023-12-07 17:16:53
+Adicionados:['OER-00181', 'OER-00183']
+
+OER-00181 --> LOG 38.714953 -9.301362 Oeiras Av. Santa Casa da Misericórdia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T12:39:31.180Z'}]
+
+OER-00183 --> LOG 38.714953 -9.301362 Oeiras Av. Santa Casa da Misericórdia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T12:40:07.345Z'}]
+Removidos:[]
