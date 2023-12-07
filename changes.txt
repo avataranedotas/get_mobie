@@ -4466,3 +4466,17 @@ CTB-00034 --> ATL 39.8216975 -7.4941842 Castelo Branco Av. 1 de Maio 60
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
 Removidos:[]
+
+2023-12-07 16:24:40
+Adicionados:['BRG-00086', 'OER-00180', 'OER-00182']
+
+BRG-00086 --> EDP 41.559580 -8.41826 Braga Rua Américo Barbosa, Lote X1 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-07T15:46:33.295Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:46:33.295Z'}]
+
+OER-00180 --> LOG 38.707637 -9.302798 Oeiras Rua do Silval 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T12:39:09.473Z'}]
+
+OER-00182 --> LOG 38.707637 -9.302798 Oeiras Rua do Silval 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T12:39:47.039Z'}]
+Removidos:[]
