@@ -4498,3 +4498,11 @@ OER-00181 --> LOG 38.714953 -9.301362 Oeiras Av. Santa Casa da Misericórdia
 OER-00183 --> LOG 38.714953 -9.301362 Oeiras Av. Santa Casa da Misericórdia
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T12:40:07.345Z'}]
 Removidos:[]
+
+2023-12-07 18:22:55
+Adicionados:['ALM-00080']
+
+ALM-00080 --> GLP 38.676561 -9.178478 Almada Quinta do Bucelinho, Pragal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T17:52:17.750Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T17:52:17.750Z'}]
+Removidos:[]
