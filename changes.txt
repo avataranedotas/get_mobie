@@ -4374,3 +4374,11 @@ LSB-00670
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 35000
+
+2023-12-07 09:38:07
+Adicionados:['EPS-00008']
+
+EPS-00008 --> GLP 41.511013 -8.767554 Esposende Al. do Bom Jesus
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T09:34:23.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T09:34:23.823Z'}]
+Removidos:[]
