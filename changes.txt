@@ -4398,3 +4398,12 @@ OFR-00003 --> ATL 40.7190816 -8.1766807 Oliveira de Frades Rua Nossa Senhora dos
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T10:55:15.848Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-07T10:55:15.848Z'}]
 Removidos:[]
+
+2023-12-07 11:38:05
+Adicionados:['TNV-00013']
+
+TNV-00013 --> EDP 39.467943 -8.524548 Torres Novas Agriloja Torres Novas - Variante do Bom Amor
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-12-07T10:50:46.195Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-12-07T10:50:46.195Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T10:50:46.195Z'}]
+Removidos:[]
