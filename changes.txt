@@ -4426,3 +4426,10 @@ PRT-00236 --> GLP 41.147889 -8.658924 Porto R. de Paulo da Gama 551
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:58:28.359Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:58:28.359Z'}]
 Removidos:[]
+
+2023-12-07 13:25:59
+Adicionados:['LSB-00614']
+
+LSB-00614 --> LOG 38.765525 -9.104374 Lisboa Av. Infante Dom Henrique 341
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T09:27:56.699Z'}]
+Removidos:[]
