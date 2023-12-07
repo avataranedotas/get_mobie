@@ -4382,3 +4382,11 @@ EPS-00008 --> GLP 41.511013 -8.767554 Esposende Al. do Bom Jesus
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T09:34:23.823Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T09:34:23.823Z'}]
 Removidos:[]
+
+2023-12-07 10:19:36
+Adicionados:['TRF-00014']
+
+TRF-00014 --> EDP 41.326529 -8.567383 Trofa Burger King Trofa
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-07T09:47:18.785Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-12-07T09:47:18.785Z'}]
+Removidos:[]
