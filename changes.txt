@@ -4407,3 +4407,22 @@ TNV-00013 --> EDP 39.467943 -8.524548 Torres Novas Agriloja Torres Novas - Varia
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2023-12-07T10:50:46.195Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T10:50:46.195Z'}]
 Removidos:[]
+
+2023-12-07 12:34:31
+Adicionados:['ABF-00072', 'FAL-00002', 'LSB-00613', 'PRT-00236']
+
+ABF-00072 --> EDP 37.0872589 -8.3162845 Albufeira Regency Salgados Hotel - Estrada dos Salgados
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-07T11:00:48.162Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-07T11:00:48.162Z'}]
+
+FAL-00002 --> EDP 38.089157 -8.080851 Ferreira do Alentejo Herdade Vale da Rosa, Apartado 111
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:54:25.385Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:54:25.385Z'}]
+
+LSB-00613 --> LOG 38.765525 -9.104374 Lisboa Av. Infante Dom Henrique 341
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-28T09:29:20.347Z'}]
+
+PRT-00236 --> GLP 41.147889 -8.658924 Porto R. de Paulo da Gama 551
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:58:28.359Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T11:58:28.359Z'}]
+Removidos:[]
