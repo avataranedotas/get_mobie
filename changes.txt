@@ -4390,3 +4390,11 @@ TRF-00014 --> EDP 41.326529 -8.567383 Trofa Burger King Trofa
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-07T09:47:18.785Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-12-07T09:47:18.785Z'}]
 Removidos:[]
+
+2023-12-07 11:15:23
+Adicionados:['OFR-00003']
+
+OFR-00003 --> ATL 40.7190816 -8.1766807 Oliveira de Frades Rua Nossa Senhora dos Milagres Lugar Da Pitei
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T10:55:15.848Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-07T10:55:15.848Z'}]
+Removidos:[]
