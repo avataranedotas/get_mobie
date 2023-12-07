@@ -4453,3 +4453,16 @@ ETZ-00017 --> TRK 38.84485 -7.58747 Estremoz Largo Dragões de Olivença
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-07T15:02:41.124Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-07T15:02:41.124Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-12-07 15:38:24
+Adicionados:['CRS-00003', 'CTB-00034']
+
+CRS-00003 --> PRI 40.424851 -8.017153 Carregal do Sal CC Florida - Av. Nossa Sra. das Febres
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:19:29.023Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:19:29.023Z'}]
+
+CTB-00034 --> ATL 39.8216975 -7.4941842 Castelo Branco Av. 1 de Maio 60
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+Removidos:[]
