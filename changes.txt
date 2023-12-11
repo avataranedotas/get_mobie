@@ -4640,3 +4640,11 @@ OLH-00018 --> TRK 37.029428 -7.839887 Olhão R. Primeiro de Maio, 22
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:40.661Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:40.661Z'}]
 Removidos:[]
+
+2023-12-11 17:16:53
+Adicionados:['OLH-00016']
+
+OLH-00016 --> TRK 37.026921 -7.839943 Olhão Av. da República, 14
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:46.638Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:46.638Z'}]
+Removidos:[]
