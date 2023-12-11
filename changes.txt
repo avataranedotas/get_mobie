@@ -4628,3 +4628,15 @@ OVR-00020 --> GLP 40.871051 -8.645236 Ovar Avenida Dom Manuel I - EN327
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T15:59:39.981Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T15:59:39.981Z'}]
 Removidos:[]
+
+2023-12-11 16:43:24
+Adicionados:['BRG-00095', 'OLH-00018']
+
+BRG-00095 --> EDP 41.374726 -8.281701 Braga Rua do Souto, 47
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T16:43:00.179Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T16:43:00.179Z'}]
+
+OLH-00018 --> TRK 37.029428 -7.839887 Olhão R. Primeiro de Maio, 22
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:40.661Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:40.661Z'}]
+Removidos:[]
