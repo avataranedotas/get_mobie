@@ -4576,3 +4576,23 @@ OLH-00023 --> TRK 37.057146 -7.869926 Olhão Rua da Cruz Vermelha Portuguesa
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:23:25.365Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:23:25.365Z'}]
 Removidos:[]
+
+2023-12-11 15:19:06
+Adicionados:['BRG-00102', 'OLH-00014', 'OLH-00017', 'OLH-00031']
+
+BRG-00102 --> EDP 41.546203 -8.276806 Braga Estrada Nacional Nº 310
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:45:16.212Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:45:16.212Z'}]
+
+OLH-00014 --> TRK 37.041006 -7.85099 Olhão R. Humberto Fernandes, 14
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:42:02.012Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:42:02.012Z'}]
+
+OLH-00017 --> TRK 37.040132 -7.84985 Olhão R. Santa Casa Da Misericordia, 5
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:55:43.979Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:55:43.979Z'}]
+
+OLH-00031 --> TRK 37.039011 -7.851044 Olhão Rua Dâmaso da Encarnação
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:58:56.276Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:58:56.276Z'}]
+Removidos:[]
