@@ -4506,3 +4506,11 @@ ALM-00080 --> GLP 38.676561 -9.178478 Almada Quinta do Bucelinho, Pragal
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T17:52:17.750Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T17:52:17.750Z'}]
 Removidos:[]
+
+2023-12-11 10:20:26
+Adicionados:['ORM-00014']
+
+ORM-00014 --> EVC 39.635093 39.635093 Ourém Rua São João de Eudes, Nº S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-11-29T16:04:02.568Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2023-11-29T16:04:02.568Z'}]
+Removidos:[]
