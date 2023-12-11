@@ -4552,3 +4552,11 @@ VNG-00094
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2023-12-11 11:15:58
+Adicionados:['FAF-00008']
+
+FAF-00008 --> GLP 41.452066 -8.177534 Fafe R. dos Aliados
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-11-08T14:13:16.761Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2023-11-08T14:13:16.761Z'}]
+Removidos:[]
