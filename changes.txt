@@ -4596,3 +4596,11 @@ OLH-00031 --> TRK 37.039011 -7.851044 Olhão Rua Dâmaso da Encarnação
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:58:56.276Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:58:56.276Z'}]
 Removidos:[]
+
+2023-12-11 15:38:39
+Adicionados:['OLH-00034']
+
+OLH-00034 --> TRK 37.04466 -7.817723 Olhão Zona Empresarial de Marim, Lote B
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:04.546Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:59:04.546Z'}]
+Removidos:[]
