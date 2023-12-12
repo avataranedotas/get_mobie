@@ -4801,3 +4801,15 @@ VPT-00001
 : 
  NEW city : Vila do Porto
  OLD city : Vila do Porto 
+
+2023-12-12 17:16:19
+Adicionados:['AVZ-80001', 'PMS-00009']
+
+AVZ-80001 --> ATL 39.82335 -8.38224 Alvaiázere Travessa Colégio Vera Cruz
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-12T17:01:16.821Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-12T17:01:16.821Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PMS-00009 --> GLP 39.553108 -8.768647 Porto de Mós Rua Carreiro da Lebre Nº8
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T16:44:36.080Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T16:44:36.080Z'}]
+Removidos:[]
