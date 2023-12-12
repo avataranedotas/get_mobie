@@ -4781,3 +4781,17 @@ ABT-00032 --> GLP 39.457588 -8.195360 Abrantes Av. Eng. Adelino Amaro da Costa
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T15:31:40.389Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T15:31:40.389Z'}]
 Removidos:[]
+
+2023-12-12 16:22:48
+Adicionados:['BJA-00030', 'STS-00025']
+
+BJA-00030 --> BPP 38.019408 -7.853011 Beja Rua D. Afonso III, nº 43
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-11T15:56:33.323Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-11T15:56:33.323Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-11T15:56:33.323Z'}]
+
+STS-00025 --> BPP 41.3405618 -8.4959754 Santo Tirso R. Fontiscos 693
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2023-12-12T16:06:27.594Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-12T16:06:27.594Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2023-12-12T16:06:27.594Z'}]
+Removidos:[]
