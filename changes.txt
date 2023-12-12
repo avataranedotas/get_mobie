@@ -4795,3 +4795,9 @@ STS-00025 --> BPP 41.3405618 -8.4959754 Santo Tirso R. Fontiscos 693
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-12T16:06:27.594Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2023-12-12T16:06:27.594Z'}]
 Removidos:[]
+
+2023-12-12 16:41:49
+VPT-00001
+: 
+ NEW city : Vila do Porto
+ OLD city : Vila do Porto 
