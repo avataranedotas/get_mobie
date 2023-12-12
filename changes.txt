@@ -4773,3 +4773,11 @@ VVD-80001 --> ATL 41.653222 -8.437028 Vila Verde Avenida do Autarca
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-12T14:44:50.494Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-12T14:44:50.494Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['BRB-00002', 'ETZ-00019', 'EVR-00030', 'RDD-90001']
+
+2023-12-12 15:38:21
+Adicionados:['ABT-00032']
+
+ABT-00032 --> GLP 39.457588 -8.195360 Abrantes Av. Eng. Adelino Amaro da Costa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T15:31:40.389Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T15:31:40.389Z'}]
+Removidos:[]
