@@ -4850,3 +4850,15 @@ CVL-00013 --> EDP 40.265009 -7.490425 Covilhã ALAMEDA PÊRO DA COVILHÃ
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-13T15:37:45.331Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-12-13T15:37:45.331Z'}]
 Removidos:[]
+
+2023-12-13 16:41:49
+Adicionados:['BRG-00103', 'BRG-00104']
+
+BRG-00103 --> HRZ 41.548836 -8.422315 Braga Av. da Liberdade 8 Braga
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-12-13T16:32:19.148Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-13T16:32:19.148Z'}]
+
+BRG-00104 --> HRZ 41.548836 -8.422315 Braga Av. da Liberdade 8 Braga
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T16:32:16.749Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T16:32:16.749Z'}]
+Removidos:[]
