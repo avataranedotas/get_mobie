@@ -4813,3 +4813,16 @@ PMS-00009 --> GLP 39.553108 -8.768647 Porto de Mós Rua Carreiro da Lebre Nº8
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T16:44:36.080Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-12T16:44:36.080Z'}]
 Removidos:[]
+
+2023-12-13 14:38:17
+Adicionados:['MTS-00132', 'VFR-00062']
+
+MTS-00132 --> ATL 41.2542655 -8.7077007 Matosinhos R. dos Castanheiros 119
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-13T14:23:20.826Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-13T14:23:20.826Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T14:23:20.826Z'}]
+
+VFR-00062 --> GLP 40.90942 -8.598732 Santa Maria da Feira GALP - Rua do Troncal, Travanca
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:31:39.568Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:31:39.568Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
