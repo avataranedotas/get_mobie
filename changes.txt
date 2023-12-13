@@ -4826,3 +4826,19 @@ VFR-00062 --> GLP 40.90942 -8.598732 Santa Maria da Feira GALP - Rua do Troncal,
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:31:39.568Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:31:39.568Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-12-13 15:18:52
+Adicionados:['AZB-00012', 'ODM-00015', 'VFR-00058']
+
+AZB-00012 --> EDP 39.220300 -8.972500 Azambuja Estrada Nacional nº1, km 57, Alcoentre
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T15:13:54.537Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T15:13:54.537Z'}]
+
+ODM-00015 --> GLP 37.653715 -8.791534 Odemira R. do Chafariz
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T15:08:38.708Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-13T15:08:38.708Z'}]
+
+VFR-00058 --> GLP 40.922321 -8.552693 Santa Maria da Feira GALP - Praça de São Miguel
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:41:18.467Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-13T14:41:18.467Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
