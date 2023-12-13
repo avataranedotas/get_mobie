@@ -4873,3 +4873,17 @@ LNH-00008 --> HRZ 39.242382 -9.307390 Lourinhã Avenida de Moçambique
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-13T17:30:41.162Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-13T17:30:41.162Z'}]
 Removidos:[]
+
+2023-12-13 19:14:32
+BRG-00103
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 110000
+ OLD max_electric_power : 120000
+BRG-00104
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+BRG-00104
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
