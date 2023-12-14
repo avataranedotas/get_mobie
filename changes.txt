@@ -5038,3 +5038,19 @@ MLG-00004 --> EDP 42.097522 -8.309973 Melgaço Charneca Alvaredo
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T14:41:47.150Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T14:41:47.150Z'}]
 Removidos:[]
+
+2023-12-14 15:38:15
+Adicionados:['LSB-00682', 'LSB-00683', 'MTS-00123']
+
+LSB-00682 --> GLP 38.756366 -9.178773 Lisboa RUA INOCÊNCIO FRANCISCO DA SILVA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T15:27:25.045Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T15:27:25.045Z'}]
+
+LSB-00683 --> GLP 38.756366 -9.178773 Lisboa RUA INOCÊNCIO FRANCISCO DA SILVA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T15:31:26.187Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T15:31:26.187Z'}]
+
+MTS-00123 --> HRZ 41.210030 -8.682713 Matosinhos Av. Arq. Fernando Tavora
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 170000, 'last_updated': '2023-12-14T15:04:50.809Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 170000, 'last_updated': '2023-12-14T15:04:50.809Z'}]
+Removidos:[]
