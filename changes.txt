@@ -4996,3 +4996,21 @@ STB-00065 --> EDP 38.538100 -8.857800 Setúbal RUA ALTO GUERRA
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:32:32.028Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:32:32.028Z'}]
 Removidos:[]
+
+2023-12-14 13:24:55
+Adicionados:['PNF-00035', 'PRD-00018', 'STB-00075']
+
+PNF-00035 --> HRZ 41.2150776 -8.2829915 Penafiel Quinta do Sardoal - Zona Industrial nº 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 200000, 'last_updated': '2023-12-14T12:57:52.073Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T12:57:52.073Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2023-12-14T12:57:52.073Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2023-12-14T12:57:52.073Z'}]
+
+PRD-00018 --> EDP 41.182675 -8.442940 Paredes Burger King Gandra
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-14T12:34:45.850Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-12-14T12:34:45.850Z'}]
+
+STB-00075 --> EDP 38.538100 -8.857800 Setúbal RUA ALTO GUERRA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:51:03.904Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:51:03.904Z'}]
+Removidos:[]
