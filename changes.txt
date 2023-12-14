@@ -4979,3 +4979,12 @@ VRL-00030 --> KLS 41.293053 -7.735832 Vila Real Avenida da Universidade
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:02:08.189Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:02:08.189Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T11:02:08.189Z'}]
 Removidos:[]
+
+2023-12-14 11:38:04
+Adicionados:['ILH-00009']
+
+ILH-00009 --> ATL 40.6036972 -8.6622242 Ílhavo  R. Prof. Júlio Catarino
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 125, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2023-12-14T11:26:40.417Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2023-12-14T11:26:40.417Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T11:26:40.417Z'}]
+Removidos:[]
