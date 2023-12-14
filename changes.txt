@@ -5054,3 +5054,21 @@ MTS-00123 --> HRZ 41.210030 -8.682713 Matosinhos Av. Arq. Fernando Tavora
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 170000, 'last_updated': '2023-12-14T15:04:50.809Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 170000, 'last_updated': '2023-12-14T15:04:50.809Z'}]
 Removidos:[]
+
+2023-12-14 16:39:21
+Adicionados:['CSC-00136', 'CSC-00138', 'GMR-00114']
+
+CSC-00136 --> HRZ 38.710429 -9.45586 Cascais Estrada Nova , Quinta da Marinha
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T16:12:59.702Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T16:12:59.702Z'}]
+
+CSC-00138 --> HRZ 38.710429 -9.455864 Cascais Estrada Nova , Quinta da Marinha
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T16:13:51.337Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T16:13:51.337Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2023-12-14T16:13:51.337Z'}]
+
+GMR-00114 --> EVC 41.460989 -8.426906 Guimarães Rua de S. João Batista
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 440, 'max_amperage': 80, 'max_electric_power': 40000, 'last_updated': '2023-12-14T15:11:42.810Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 440, 'max_amperage': 80, 'max_electric_power': 40000, 'last_updated': '2023-12-14T15:11:42.810Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 440, 'max_amperage': 25, 'max_electric_power': 11000, 'last_updated': '2023-12-14T15:11:42.810Z'}]
+Removidos:[]
