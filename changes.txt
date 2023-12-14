@@ -4988,3 +4988,11 @@ ILH-00009 --> ATL 40.6036972 -8.6622242 Ílhavo  R. Prof. Júlio Catarino
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2023-12-14T11:26:40.417Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T11:26:40.417Z'}]
 Removidos:[]
+
+2023-12-14 12:34:16
+Adicionados:['STB-00065']
+
+STB-00065 --> EDP 38.538100 -8.857800 Setúbal RUA ALTO GUERRA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:32:32.028Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T12:32:32.028Z'}]
+Removidos:[]
