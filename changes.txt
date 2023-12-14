@@ -4895,3 +4895,11 @@ PTM-00055 --> GLP 37.151885 -8.544403 Portimão R. da Pousada da Juventude
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:16:13.856Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:16:13.856Z'}]
 Removidos:[]
+
+2023-12-14 10:39:24
+Adicionados:['ABF-00083']
+
+ABF-00083 --> KLS 37.087239 -8.24759 Albufeira Rua Manuel Bentes Junior
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T09:51:05.510Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T09:51:05.510Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
