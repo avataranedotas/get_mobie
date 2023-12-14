@@ -4887,3 +4887,11 @@ BRG-00104
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2023-12-14 10:19:36
+Adicionados:['PTM-00055']
+
+PTM-00055 --> GLP 37.151885 -8.544403 Portimão R. da Pousada da Juventude
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:16:13.856Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:16:13.856Z'}]
+Removidos:[]
