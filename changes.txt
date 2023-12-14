@@ -4903,3 +4903,79 @@ ABF-00083 --> KLS 37.087239 -8.24759 Albufeira Rua Manuel Bentes Junior
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T09:51:05.510Z'}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T09:51:05.510Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-12-14 11:15:26
+Adicionados:['ABF-00078', 'ABF-00082', 'ABF-00084', 'ACH-00016', 'ALR-00006', 'ASL-00014', 'BGC-00019', 'BRG-00094', 'FLG-00014', 'LLE-00161', 'MDL-00011', 'OLH-00040', 'SLV-00013', 'SRP-00005', 'STC-00011', 'VBP-00008', 'VFR-00083', 'VRL-00030']
+
+ABF-00078 --> KLS 37.0887766 -8.2565522 Albufeira Rua Maria Teresa Semedo de Azevedo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:55:25.256Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T10:55:25.256Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00082 --> KLS 37.090829 -8.2458999 Albufeira Rua do Municipio
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:56:00.952Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T10:56:00.952Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00084 --> KLS 37.117687 -8.245134 Albufeira Zona Industrial de Vale Paraiso
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:56:21.961Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:56:21.961Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:56:21.961Z'}]
+
+ACH-00016 --> KLS 38.7512824 -8.9578271 Alcochete Lagoa do Lýparo
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:56:39.427Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:56:39.427Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:56:39.427Z'}]
+
+ALR-00006 --> KLS 39.2008547 -8.6208093 Almeirim Rua do Matadouro Novo
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:00.821Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:00.821Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:57:00.821Z'}]
+
+ASL-00014 --> KLS 38.380228 -8.512631 Alcácer do Sal Avenida José Saramago
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:17.832Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:17.832Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:57:17.832Z'}]
+
+BGC-00019 --> KLS 41.8106358 -6.7638634 Bragança Rua Doutor Alexandre Faria
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:35.789Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:35.789Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:57:35.789Z'}]
+
+BRG-00094 --> EDP 41.532097 -8.473964 Braga Av. de Sequeira, 133
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:27:49.470Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T10:27:49.470Z'}]
+
+FLG-00014 --> KLS 41.3161183 -8.1414512 Felgueiras Estrada Nacional 15
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:59.116Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:57:59.116Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:57:59.116Z'}]
+
+LLE-00161 --> KLS 37.12905 -8.151675 Loulé Av. Prof. Doutor Aníbal António Cavaco Silva
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:58:32.124Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:58:32.124Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:58:32.124Z'}]
+
+MDL-00011 --> KLS 41.4941762 -7.1841292 Mirandela Lugar da Quinta Branca
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:58:54.587Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:58:54.587Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:58:54.587Z'}]
+
+OLH-00040 --> KLS 37.029572 -7.853464 Olhão Estrada Nacional N125
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:59:12.265Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T10:59:12.265Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T10:59:12.265Z'}]
+
+SLV-00013 --> KLS 37.260219 -8.292558 Silves Rua Joýo de Deus
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-14T11:00:18.747Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T11:00:18.747Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+SRP-00005 --> KLS 37.9426515 -7.6082723 Serpa Circular Interna de Serpa
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:00:38.033Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:00:38.033Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T11:00:38.033Z'}]
+
+STC-00011 --> KLS 38.0577272 -8.7904783 Santiago do Cacém Rua do Mercado 1
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:00:56.165Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:00:56.165Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T11:00:56.165Z'}]
+
+VBP-00008 --> KLS 37.086318 -8.8300734 Vila do Bispo Rua das Areias de Cima, 4
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 22000, 'last_updated': '2023-12-14T11:01:13.917Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-14T11:01:13.917Z', 'max_amperage': 16, 'max_electric_power': 22000}]
+
+VFR-00083 --> KLS 40.930809 -8.552218 Santa Maria da Feira Rua Vale de Santo Andrý
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:01:51.242Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:01:51.242Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T11:01:51.242Z'}]
+
+VRL-00030 --> KLS 41.293053 -7.735832 Vila Real Avenida da Universidade
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:02:08.189Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-14T11:02:08.189Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-14T11:02:08.189Z'}]
+Removidos:[]
