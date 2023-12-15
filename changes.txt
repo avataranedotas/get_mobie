@@ -5136,3 +5136,19 @@ TMR-00036 --> TRK 39.599744 -8.401947 Tomar Rua Alfredo da Maia Pereira, 4 A
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:04:07.617Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:04:07.617Z'}]
 Removidos:[]
+
+2023-12-15 14:39:35
+Adicionados:['PTM-00048', 'TMR-00029', 'TMR-00030']
+
+PTM-00048 --> EDP 37.128620 -8.533730 Portimão Estrada da Rocha 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-15T14:29:00.486Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 74000, 'last_updated': '2023-12-15T14:29:00.486Z'}]
+
+TMR-00029 --> TRK 39.60757 -8.40447 Tomar Rua Carlos Pereira, 13
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:36:35.383Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:36:35.383Z'}]
+
+TMR-00030 --> TRK 39.60360 -8.4075220 Tomar Rua Amorim Rosa, 19
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:20:00.465Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:20:00.465Z'}]
+Removidos:[]
