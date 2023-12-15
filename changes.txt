@@ -5072,3 +5072,11 @@ GMR-00114 --> EVC 41.460989 -8.426906 Guimarães Rua de S. João Batista
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 440, 'max_amperage': 80, 'max_electric_power': 40000, 'last_updated': '2023-12-14T15:11:42.810Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 440, 'max_amperage': 25, 'max_electric_power': 11000, 'last_updated': '2023-12-14T15:11:42.810Z'}]
 Removidos:[]
+
+2023-12-15 10:39:13
+Adicionados:['BGC-00020']
+
+BGC-00020 --> GLP 41.804705 -6.766139 Bragança Avenida 22 de Maio
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T10:24:42.938Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T10:24:42.938Z'}]
+Removidos:[]
