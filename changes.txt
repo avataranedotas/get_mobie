@@ -5096,3 +5096,31 @@ BRG-00092 --> ECI 41.528805 -8.447735 Braga Loteamento Ferreiros, Casa 9501
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-15T11:16:32.671Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-15T11:16:32.671Z'}]
 Removidos:[]
+
+2023-12-15 12:33:51
+Adicionados:['BCL-00024', 'FIG-00016', 'OVR-00017', 'PTM-00049', 'VFX-00037']
+
+BCL-00024 --> HRZ 41.5307393 -8.6212108 Barcelos Praça de Pontevedra
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-12-15T11:53:55.354Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T11:53:55.354Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-15T11:53:55.354Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2023-12-15T11:53:55.354Z'}]
+
+FIG-00016 --> EVP 40.16248 -8.8693617 Figueira da Foz Rua Abade Pedro
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-15T11:49:07.745Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-15T11:49:07.745Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+OVR-00017 --> ATL 40.9539042 -8.6243411 Ovar Rua Alexandre Castro Soares E.N. 109
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-15T11:59:43.884Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-15T11:59:43.884Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T11:59:43.884Z'}]
+
+PTM-00049 --> EDP 37.119500 -8.536640 Portimão Av. Tomás Cabreira 92
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-15T11:55:09.192Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-15T11:55:09.192Z'}]
+
+VFX-00037 --> ATL 38.873045 -9.05406 Vila Franca de Xira N10 1 Polo Industrial, Forte Da Casa LOTE
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-15T12:13:39.298Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-15T12:13:39.298Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T12:13:39.298Z'}]
+Removidos:[]
