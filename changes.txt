@@ -5124,3 +5124,15 @@ VFX-00037 --> ATL 38.873045 -9.05406 Vila Franca de Xira N10 1 Polo Industrial, 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-15T12:13:39.298Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T12:13:39.298Z'}]
 Removidos:[]
+
+2023-12-15 14:16:38
+Adicionados:['MDR-00002', 'TMR-00036']
+
+MDR-00002 --> EDP 41.495122 -6.276047 Miranda do Douro Rua D.Dinis, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:13:20.231Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:13:20.231Z'}]
+
+TMR-00036 --> TRK 39.599744 -8.401947 Tomar Rua Alfredo da Maia Pereira, 4 A
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:04:07.617Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:04:07.617Z'}]
+Removidos:[]
