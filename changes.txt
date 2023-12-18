@@ -5183,3 +5183,19 @@ VFX-00037
 : 
  NEW coordinates : {'latitude': '38.872998', 'longitude': '-9.054038'}
  OLD coordinates : {'latitude': '38.873045', 'longitude': '-9.05406'}
+
+2023-12-18 10:20:21
+Adicionados:['VNG-00145', 'VNG-00146', 'VNG-00147', 'VNG-00148']
+
+VNG-00145 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:56.960Z'}]
+
+VNG-00146 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:52.889Z'}]
+
+VNG-00147 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:50.046Z'}]
+
+VNG-00148 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:46.661Z'}]
+Removidos:[]
