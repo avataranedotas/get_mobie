@@ -5251,3 +5251,13 @@ LRA-00098 --> REP 39.790248 -8.830571 Leiria E.N. 109, Km 163 (Sentido N/S) - Do
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-18T14:34:54.696Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T14:34:54.696Z'}]
 Removidos:[]
+
+2023-12-18 15:18:20
+ORM-00014
+coordinates: 
+ NEW longitude : -8.667316
+ OLD longitude : 39.635093
+ORM-00014
+: 
+ NEW coordinates : {'latitude': '39.635093', 'longitude': '-8.667316'}
+ OLD coordinates : {'latitude': '39.635093', 'longitude': '39.635093'}
