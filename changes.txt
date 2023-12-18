@@ -5261,3 +5261,20 @@ ORM-00014
 : 
  NEW coordinates : {'latitude': '39.635093', 'longitude': '-8.667316'}
  OLD coordinates : {'latitude': '39.635093', 'longitude': '39.635093'}
+
+2023-12-18 16:23:30
+Adicionados:['MCH-00009', 'SNT-80005', 'TBR-00006']
+
+MCH-00009 --> BPP 32.7148013 -16.7670624 Machico Rua da Árvore
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-18T15:10:42.746Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-18T15:10:42.746Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-18T15:10:42.746Z'}]
+
+SNT-80005 --> ATL 38.80294 -9.383853 Sintra Rua Câmara Pestana
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-18T16:10:13.189Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-18T16:10:13.189Z'}]
+
+TBR-00006 --> GLP 41.753065 -8.203095 Terras de Bouro Rua da Pousada
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T15:57:40.294Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T15:57:40.294Z'}]
+Removidos:[]
