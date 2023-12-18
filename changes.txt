@@ -5199,3 +5199,20 @@ VNG-00147 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
 VNG-00148 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:46.661Z'}]
 Removidos:[]
+
+2023-12-18 12:35:00
+Adicionados:['BRR-00128', 'ODM-00013', 'PFR-00011']
+
+BRR-00128 --> REP 38.636062 -9.044441 Barreiro E.M. 510 - Vila Chã
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-18T11:31:07.645Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-18T11:31:07.645Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T11:31:07.645Z'}]
+
+ODM-00013 --> EDP 37.525183 -8.775764 Odemira PARQUE DE CAMPISMO ZAMBUJEIRA MAR SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T12:15:31.362Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T12:15:31.362Z'}]
+
+PFR-00011 --> EDP 41.284882 -8.358267 Paços de Ferreira Burger King Paços de Ferreira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T12:05:11.247Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T12:05:11.247Z'}]
+Removidos:[]
