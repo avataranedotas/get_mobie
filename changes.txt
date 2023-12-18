@@ -5238,3 +5238,16 @@ VNF-00026
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2023-12-18 14:38:29
+Adicionados:['ALJ-00003', 'LRA-00098']
+
+ALJ-00003 --> GLP 41.278289 -7.476089 Alijó R. da Costinha 10
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T14:37:02.843Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T14:37:02.843Z'}]
+
+LRA-00098 --> REP 39.790248 -8.830571 Leiria E.N. 109, Km 163 (Sentido N/S) - Doroan
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-18T14:34:54.696Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-18T14:34:54.696Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-18T14:34:54.696Z'}]
+Removidos:[]
