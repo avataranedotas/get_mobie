@@ -5438,3 +5438,11 @@ VFX-00047 --> ATL 38.8563778 -9.0777783 Vila Franca de Xira Rua do Casal Novo 1 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-19T15:28:41.201Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T15:28:41.201Z'}]
 Removidos:[]
+
+2023-12-19 16:20:14
+Adicionados:['BRR-00131']
+
+BRR-00131 --> ATL 38.6685516 -9.0602206 Barreiro Avenida Das Nacionalizações Quimiparque, Lavr
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T16:06:46.142Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-12-19T16:06:46.142Z'}]
+Removidos:[]
