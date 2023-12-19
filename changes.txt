@@ -5295,3 +5295,74 @@ STN-00004 --> BPP 32.8105907 -16.8849167 Santana Sítio dos Barreiros
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-18T16:42:46.442Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-18T16:42:46.442Z'}]
 Removidos:[]
+
+2023-12-19 12:33:21
+Adicionados:['CBR-00085', 'CNT-00014', 'CNT-00022', 'CSC-00164', 'CVD-00005', 'EVR-00038', 'GMR-00109', 'MFR-00031', 'MMN-00012', 'MTJ-00039', 'OER-00187', 'SNT-00126', 'SSB-00015', 'VFX-00046']
+
+CBR-00085 --> ATL 40.189386 -8.401728 Coimbra R. Q.ta da Portela 6/9
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T12:23:51.740Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T12:23:51.740Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T12:23:51.740Z'}]
+
+CNT-00014 --> REP 40.344426 -8.581964 Cantanhede EN 234, Av. de Portugal
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T12:00:41.691Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-19T12:00:41.691Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T12:00:41.691Z'}]
+
+CNT-00022 --> REP 40.344487 -8.582004 Cantanhede EN 234, Av. de Portugal
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T11:56:37.343Z'}]
+
+CSC-00164 --> ATL 38.728464 -9.328533 Cascais Estr. Conceição da Abóboda 14
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:24:17.823Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:24:17.823Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:24:17.823Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+CVD-00005 --> ATL 39.4051635 -7.4442401 Castelo de Vide N246-1 Quinta Da Moutosa 2,
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T12:28:13.700Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-19T12:28:13.700Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T12:28:13.700Z'}]
+
+EVR-00038 --> ATL 38.5742016 -7.8997122 Évora R. Bento de Jesus Caraça 1
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:24:39.725Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:24:39.725Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:24:39.725Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+GMR-00109 --> ATL 41.437961 -8.294555 Guimarães R. de Vila Verde 64,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:28:23.606Z', 'max_amperage': 16, 'max_electric_power': 11000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:28:23.606Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:28:23.606Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MFR-00031 --> ATL 38.942415 -9.347996 Mafra Largo Mira Parque Quinta Das Pevides
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:25:04.214Z', 'max_amperage': 16, 'max_electric_power': 11000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:04.214Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:04.214Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MMN-00012 --> ATL 38.646248 -8.202257 Montemor-o-Novo Av. Gago Coutinho 114,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:25:21.934Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:21.934Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:21.934Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+MTJ-00039 --> ATL 38.7122787 -8.9695362 Montijo Avenida Maestro Jorge Peixinho
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:25:52.688Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:52.688Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:25:52.688Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+OER-00187 --> ATL 38.747489 -9.283263 Oeiras Av. Infante D. Henrique, Tercena
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:26:30.200Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:26:30.200Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:26:30.200Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+SNT-00126 --> ATL 38.758436 -9.380988 Sintra Av. Pedro Alvares Cabral
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:26:57.049Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:26:57.049Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+SSB-00015 --> ATL 38.573805 -9.037277 Sesimbra Quinta do Conde EN 10, Km 19
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:27:22.440Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:27:22.440Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:27:22.440Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VFX-00046 --> ATL 38.8669688 -9.0967325 Vila Franca de Xira R. do Olival das Minas,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-19T12:27:44.526Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:27:44.526Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-19T12:27:44.526Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:['CBR-00077', 'CVD-00004']
