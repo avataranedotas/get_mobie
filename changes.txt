@@ -5420,3 +5420,12 @@ BRR-00130 --> ATL 38.6685516 -9.0602206 Barreiro Avenida Das Nacionalizações Q
 GRD-00032 --> HGP 40.604506 -7.298386 Guarda Estrada Nacional 16
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-12-19T14:08:08.835Z'}]
 Removidos:[]
+
+2023-12-19 15:18:04
+Adicionados:['ARV-00012']
+
+ARV-00012 --> EVP 38.998045 -9.084937 Arruda dos Vinhos Casal da Cruz
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 550, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-19T15:07:37.802Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-19T15:07:37.802Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T15:07:37.802Z'}]
+Removidos:[]
