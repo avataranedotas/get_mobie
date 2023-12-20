@@ -5521,3 +5521,11 @@ STB-00062 --> ATL 38.5254911 -8.8807354 Setúbal R. Moinho do Frade 2F
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-20T15:29:20.924Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:29:20.924Z'}]
 Removidos:[]
+
+2023-12-20 17:38:02
+Adicionados:['OAZ-00006']
+
+OAZ-00006 --> EDP 40.834189 -8.480674 Oliveira de Azeméis Av. Dona Maria I, S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-20T17:31:55.906Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-20T17:31:55.906Z'}]
+Removidos:[]
