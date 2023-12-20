@@ -5499,3 +5499,25 @@ ABF-00087 --> HLX 37.130216 -8.283583 Albufeira N125 Km. 68
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:11:43.188Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:11:43.188Z'}]
 Removidos:[]
+
+2023-12-20 15:38:02
+Adicionados:['CBR-00083', 'CBT-00004', 'ORM-00011', 'STB-00062']
+
+CBR-00083 --> EDP 40.215930 -8.413785 Coimbra Hotel Melia, Alameda Armando Gonçalves 20
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:35:32.361Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:35:32.361Z'}]
+
+CBT-00004 --> EDP 41.38819 -7.9998999 Celorico de Basto Praça Albino Alves Pereira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-20T15:23:25.279Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-20T15:23:25.279Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ORM-00011 --> ATL 39.6325084 -8.6808700 Ourém Av. de Dom José Alves Correia da Silva
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-15T14:24:30.192Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-15T14:24:30.192Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T14:24:30.192Z'}]
+
+STB-00062 --> ATL 38.5254911 -8.8807354 Setúbal R. Moinho do Frade 2F
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-20T15:29:20.924Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-20T15:29:20.924Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:29:20.924Z'}]
+Removidos:[]
