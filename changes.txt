@@ -5487,3 +5487,15 @@ MGL-00009 --> EDP 40.608080 -7.762942 Mangualde Av. dos Combatentes da Grande Gu
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2023-12-20T14:35:49.592Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-20T14:35:49.592Z'}]
 Removidos:[]
+
+2023-12-20 15:14:56
+Adicionados:['ABF-00086', 'ABF-00087']
+
+ABF-00086 --> HLX 37.130216 -8.283583 Albufeira N125 Km. 68
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-20T15:03:28.710Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-20T15:03:28.710Z'}]
+
+ABF-00087 --> HLX 37.130216 -8.283583 Albufeira N125 Km. 68
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:11:43.188Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-20T15:11:43.188Z'}]
+Removidos:[]
