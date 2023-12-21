@@ -5545,3 +5545,25 @@ VFR-00044 --> GLP 40.987864 -8.523923 Santa Maria da Feira Rua Padre Manuel Fran
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:36:23.933Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:36:23.933Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2023-12-21 12:33:19
+Adicionados:['ELV-00009', 'PBL-00020', 'STB-00036', 'STB-00037', 'VFR-00045']
+
+ELV-00009 --> EDP 38.880643 -7.167130 Elvas Av. 14 de Janeiro 13
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T12:18:01.205Z'}]
+
+PBL-00020 --> HGP 39.968116 -8.792544 Pombal Rua Travessa FE-EN9
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T12:15:31.261Z'}]
+
+STB-00036 --> GLP 38.535335 -8.865241 Setúbal Avenida Álvaro Cunhal
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-12-21T12:08:42.412Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-12-21T12:08:42.412Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+
+STB-00037 --> GLP 38.535335 -8.865241 Setúbal Avenida Álvaro Cunhal
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-12-21T12:03:27.746Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2023-12-21T12:03:27.746Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+
+VFR-00045 --> GLP 40.987864 -8.523923 Santa Maria da Feira Rua Padre Manuel Franciso de Sá, Fiães
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:38:28.496Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:38:28.496Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
