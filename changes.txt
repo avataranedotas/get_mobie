@@ -5595,3 +5595,19 @@ VNG-00141 --> ATL 41.0459512 -8.5686244 Vila Nova de Gaia Rua Boavista Business 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-21T14:38:39.243Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:38:39.243Z'}]
 Removidos:[]
+
+2023-12-21 16:22:35
+Adicionados:['ABF-00059', 'ABF-00060', 'FVN-00003']
+
+ABF-00059 --> HRZ 37.0894852 -8.2129825 Albufeira Praia de Santa Eulália
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T15:51:27.080Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T15:51:27.080Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABF-00060 --> HRZ 37.0894852 -8.2129825 Albufeira Praia de Santa Eulália
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T15:47:41.177Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T15:47:41.177Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FVN-00003 --> EDP 39.896019 -8.284189 Figueiró dos Vinhos Rua do Campo de Futebol
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-12-21T15:43:47.894Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2023-12-21T15:43:47.894Z'}]
+Removidos:[]
