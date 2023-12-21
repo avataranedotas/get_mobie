@@ -5533,3 +5533,15 @@ Removidos:[]
 2023-12-21 11:14:41
 Adicionados:[]
 Removidos:['BRR-00130', 'BRR-00131', 'CHV-00017', 'CTB-00034']
+
+2023-12-21 11:38:11
+Adicionados:['PNH-00002', 'VFR-00044']
+
+PNH-00002 --> EDP 40.667787 -7.0740731 Pinhel Travessa do Parque de Merendas n4
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:32:29.902Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:32:29.902Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00044 --> GLP 40.987864 -8.523923 Santa Maria da Feira Rua Padre Manuel Franciso de Sá, Fiães
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:36:23.933Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-21T11:36:23.933Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
