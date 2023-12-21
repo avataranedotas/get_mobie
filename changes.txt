@@ -5581,3 +5581,17 @@ PST-00005 --> BPP 33.071050 -16.342887 Porto Santo Parque Empresarial do Porto S
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-20T14:37:06.684Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-20T14:37:06.684Z'}]
 Removidos:[]
+
+2023-12-21 15:17:41
+Adicionados:['VNG-00140', 'VNG-00141']
+
+VNG-00140 --> ATL 41.0459512 -8.5686244 Vila Nova de Gaia Rua Boavista Business Park, 552 6
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-21T14:42:36.210Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-21T14:42:36.210Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:42:36.210Z'}]
+
+VNG-00141 --> ATL 41.0459512 -8.5686244 Vila Nova de Gaia Rua Boavista Business Park, 552 6
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-21T14:38:39.243Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-21T14:38:39.243Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:38:39.243Z'}]
+Removidos:[]
