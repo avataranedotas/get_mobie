@@ -5729,3 +5729,12 @@ VFR-00080 --> ATL 40.922002 -8.499182 Santa Maria da Feira Rua Pedro Álvares Ca
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-22T14:04:28.150Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T14:04:28.150Z'}]
 Removidos:[]
+
+2023-12-22 15:17:11
+Adicionados:['VFX-00038']
+
+VFX-00038 --> ATL 38.9092959 -9.0282158 Vila Franca de Xira N10 Km 127 - Lugar dos Álamos - Empreendiment
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-22T14:40:28.870Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-22T14:40:28.870Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T14:40:28.870Z'}]
+Removidos:[]
