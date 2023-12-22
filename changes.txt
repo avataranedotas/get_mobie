@@ -5675,3 +5675,11 @@ VNF-00043 --> KLS 41.4262001 -8.433494 Vila Nova de Famalicão Estrada Nacional 
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-21T17:19:00.868Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-21T17:19:00.868Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2023-12-21T17:19:00.868Z'}]
 Removidos:[]
+
+2023-12-22 09:37:58
+Adicionados:['BAO-00004']
+
+BAO-00004 --> EDP 41.103021 -8.094499 Baião LUGAR DE PORTELA DO RIO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T09:35:33.347Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T09:35:33.347Z'}]
+Removidos:[]
