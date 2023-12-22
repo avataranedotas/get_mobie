@@ -5683,3 +5683,12 @@ BAO-00004 --> EDP 41.103021 -8.094499 Baião LUGAR DE PORTELA DO RIO
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T09:35:33.347Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-22T09:35:33.347Z'}]
 Removidos:[]
+
+2023-12-22 11:14:43
+Adicionados:['AMD-00103']
+
+AMD-00103 --> GLP 38.737326 -9.228860 Amadora Rua Irmãos Siemens 1, Amadora
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2023-12-22T10:37:15.958Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2023-12-22T10:37:15.958Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2023-12-22T10:46:39.462Z'}]
+Removidos:['LRA-00104']
