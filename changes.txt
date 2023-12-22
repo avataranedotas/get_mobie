@@ -5692,3 +5692,31 @@ AMD-00103 --> GLP 38.737326 -9.228860 Amadora Rua Irmãos Siemens 1, Amadora
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2023-12-22T10:37:15.958Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2023-12-22T10:46:39.462Z'}]
 Removidos:['LRA-00104']
+
+2023-12-22 12:32:13
+Adicionados:['GDL-00017']
+
+GDL-00017 --> FCT 38.184275 -8.568808 Grândola Cerrado dos Castanheiros , Lote 20
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-22T12:29:49.538Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-12-22T12:29:49.538Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2023-12-20T16:08:47.096Z'}]
+Removidos:[]
+AMD-00103
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+AMD-00103
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+AMD-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 1000
+AMD-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 400
+AMD-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 180000
