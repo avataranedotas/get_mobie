@@ -5747,3 +5747,57 @@ FLG-00016 --> ATL 41.3608943 -8.1996431 Felgueiras Lugar Da Agra, R. Manuel de F
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-27T14:19:22.664Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T14:19:22.664Z'}]
 Removidos:[]
+
+2023-12-27 15:17:03
+Adicionados:['AVR-80001', 'AVR-80006', 'CBR-80004', 'LSB-80007', 'LSB-80027', 'LSB-80049', 'LSB-80076', 'LSB-80112', 'PRT-00221', 'TVD-80005']
+
+AVR-80001 --> ATL 40.633755 -8.656367 Aveiro Avenida da Universidade
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:46:55.770Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:46:55.770Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:46:55.770Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:46:55.770Z'}]
+
+AVR-80006 --> ATL 40.63903 -8.640332 Aveiro Rua Doutor Orlando Oliveira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:09.324Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:09.324Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:09.324Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:09.324Z'}]
+
+CBR-80004 --> ATL 40.2152917 -8.4133056 Coimbra Alameda Dr. Armando Gonçalves
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:20.076Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:20.076Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:20.076Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:20.076Z'}]
+
+LSB-80007 --> ATL 38.703464 -9.206658 Lisboa Rua Gonçalves Zarco
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:39.568Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:39.568Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:39.568Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:39.568Z'}]
+
+LSB-80027 --> ATL 38.744458 -9.183136 Lisboa Rua Conde de Almoster
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:50.893Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:47:50.893Z'}]
+
+LSB-80049 --> ATL 38.705986 -9.177589 Lisboa Rua José Dias Coelho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:02.289Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:02.289Z'}]
+
+LSB-80076 --> ATL 38.715517 -9.163522 Lisboa Rua Domingos Sequeira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-27T14:48:12.852Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-12-27T14:48:12.852Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+LSB-80112 --> ATL 38.738011 -9.140566 Lisboa Avenida António José de Almeida
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:22.644Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:22.644Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:22.644Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:22.644Z'}]
+
+PRT-00221 --> ATL 41.1624359 -8.6059880 Porto Rua da Constituição 666
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60, 'last_updated': '2023-12-27T15:16:16.250Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-27T15:16:16.250Z'}]
+
+TVD-80005 --> ATL 39.0930035 -9.2638797 Torres Vedras Rua São Gonçalo de Lagos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:32.706Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:32.706Z'}]
+Removidos:[]
