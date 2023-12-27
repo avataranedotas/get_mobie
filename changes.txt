@@ -5801,3 +5801,11 @@ TVD-80005 --> ATL 39.0930035 -9.2638797 Torres Vedras Rua São Gonçalo de Lagos
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:32.706Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-27T14:48:32.706Z'}]
 Removidos:[]
+
+2023-12-27 16:22:15
+Adicionados:['VNG-00157']
+
+VNG-00157 --> GLP 41.096740 -8.538610 Vila Nova de Gaia Rua 5 De Outubro, 4503
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T15:49:41.560Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T15:49:41.560Z'}]
+Removidos:[]
