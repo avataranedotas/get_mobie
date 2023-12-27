@@ -5809,3 +5809,11 @@ VNG-00157 --> GLP 41.096740 -8.538610 Vila Nova de Gaia Rua 5 De Outubro, 4503
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T15:49:41.560Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T15:49:41.560Z'}]
 Removidos:[]
+
+2023-12-27 16:41:52
+Adicionados:['VNG-00156']
+
+VNG-00156 --> GLP 41.096740 -8.538610 Vila Nova de Gaia Rua 5 De Outubro, 4503
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T16:41:37.543Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-27T16:41:37.543Z'}]
+Removidos:[]
