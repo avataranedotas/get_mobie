@@ -5858,3 +5858,16 @@ PRD-00021 --> ATL 41.1840427 -8.4482030 Paredes R. Nova de Fontes 100
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-28T11:04:16.085Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-28T11:04:16.085Z'}]
 Removidos:[]
+
+2023-12-28 15:17:15
+Adicionados:['LRS-00109', 'LRS-00110']
+
+LRS-00109 --> ATL 38.8364702 -9.1673711 Loures Rua Funchal Quinta Das Farinheiras
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-28T14:49:01.886Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-28T14:49:01.886Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-28T14:49:01.886Z'}]
+
+LRS-00110 --> ATL 38.8364702 -9.1673711 Loures Rua Funchal Quinta Das Farinheiras
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 60000, 'last_updated': '2023-12-28T14:57:33.719Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 60000, 'last_updated': '2023-12-28T14:57:33.719Z'}]
+Removidos:[]
