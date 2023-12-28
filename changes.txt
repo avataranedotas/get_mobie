@@ -5849,3 +5849,12 @@ PRD-00022 --> ATL 41.1840399 -8.4482874 Paredes R. Nova de Fontes 100
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-28T11:04:30.412Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-28T11:04:30.412Z'}]
 Removidos:[]
+
+2023-12-28 11:37:59
+Adicionados:['PRD-00021']
+
+PRD-00021 --> ATL 41.1840427 -8.4482030 Paredes R. Nova de Fontes 100
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-28T11:04:16.085Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-28T11:04:16.085Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-28T11:04:16.085Z'}]
+Removidos:[]
