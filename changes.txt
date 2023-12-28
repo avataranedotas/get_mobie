@@ -5871,3 +5871,13 @@ LRS-00110 --> ATL 38.8364702 -9.1673711 Loures Rua Funchal Quinta Das Farinheira
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 60000, 'last_updated': '2023-12-28T14:57:33.719Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 60000, 'last_updated': '2023-12-28T14:57:33.719Z'}]
 Removidos:[]
+
+2023-12-28 16:22:01
+Adicionados:['AZB-00011']
+
+AZB-00011 --> HRZ 39.14409 -8.9004985 Azambuja R. do Chaes lote 1
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
+Removidos:[]
