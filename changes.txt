@@ -5992,3 +5992,11 @@ TRF-00016 --> ATL 41.2816119 -8.5627061 Trofa R. Horizonte S
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-29T14:52:28.986Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-29T14:52:28.986Z'}]
 Removidos:[]
+
+2023-12-29 17:38:05
+Adicionados:['VFX-00051']
+
+VFX-00051 --> GLP 38.953983 -8.993521 Vila Franca de Xira Rua Bartolomeu Dias Vila Franca de Xira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T17:19:32.200Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T17:19:32.200Z'}]
+Removidos:[]
