@@ -5889,3 +5889,61 @@ EPS-00004 --> PRI 41.5048185 -8.7632946 Esposende ESTRADA NACIONAL 13 S/N Fao
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:07:15.925Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:07:15.925Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:[]
+
+2023-12-29 11:38:07
+Adicionados:['ABT-00030', 'ADV-00016', 'CSC-00168', 'GRD-00028', 'LNH-00009', 'PRT-80080', 'SNT-00128', 'TNV-00016', 'TNV-00017', 'VNB-80002', 'VNG-00137']
+
+ABT-00030 --> ATL 39.4666163 -8.2069895 Abrantes R. Cidade de Parthenay 50,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:16.747Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:16.747Z', 'max_amperage': 160, 'max_electric_power': 60000}]
+
+ADV-00016 --> ATL 37.5121713 -8.0656339 Almodôvar .N. 393 Cerca dos Soeiros,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-12-29T11:22:46.146Z', 'max_amperage': 150, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-12-29T11:22:46.146Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:22:46.146Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CSC-00168 --> ATL 38.714384 -9.405743 Cascais Av. João Bosco - Vale da Amoreira
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:22:59.353Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:22:59.353Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:22:59.353Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GRD-00028 --> ATL 40.5546829 -7.253171 Guarda Rua do Camalhão - Bairro de São Domingos
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:42.437Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:42.437Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:23:42.437Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LNH-00009 --> ATL 39.2503499 -9.3125523 Lourinhã Avenida António José de Almeida
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:54.364Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:23:54.364Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:23:54.364Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PRT-80080 --> ATL 41.158942 -8.64407 Porto Rua António Bessa Leite
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-29T11:25:52.890Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-29T11:25:52.890Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-29T11:25:52.890Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2023-12-29T11:25:52.890Z'}]
+
+SNT-00128 --> ATL 38.7756928 -9.2849302 Sintra R.Sebastião Philipe Martins Estácio Veiga
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:21:55.321Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:21:55.321Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:21:55.321Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+TNV-00016 --> ATL 39.462809 -8.6261804 Torres Novas Estrada Nacional 243 - Riachos
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:25:01.949Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:25:01.949Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:25:01.949Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+TNV-00017 --> ATL 39.465228 -8.52366 Torres Novas N3, Torres Novas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:25:24.003Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:25:24.003Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:25:24.003Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VNB-80002 --> ATL 39.461984 -8.443384 Vila Nova da Barquinha R. Dona Maria II
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:25:34.102Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:25:34.102Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VNG-00137 --> ATL 41.137128 -8.630688 Vila Nova de Gaia R. 28 de Janeiro
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:22:16.394Z', 'max_amperage': 125, 'max_electric_power': 43000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:22:16.394Z', 'max_amperage': 125, 'max_electric_power': 43000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:22:16.394Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+Removidos:['ADV-00007']
