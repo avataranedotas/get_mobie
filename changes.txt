@@ -6000,3 +6000,11 @@ VFX-00051 --> GLP 38.953983 -8.993521 Vila Franca de Xira Rua Bartolomeu Dias Vi
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T17:19:32.200Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T17:19:32.200Z'}]
 Removidos:[]
+
+2023-12-29 18:21:14
+Adicionados:['VFX-00054']
+
+VFX-00054 --> GLP 38.8785626 -9.0663538 Vila Franca de Xira Rua 1º de Maio, Vialonga
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-12-29T17:59:03.918Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60, 'last_updated': '2023-12-29T17:59:03.918Z'}]
+Removidos:[]
