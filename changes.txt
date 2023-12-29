@@ -5947,3 +5947,17 @@ VNG-00137 --> ATL 41.137128 -8.630688 Vila Nova de Gaia R. 28 de Janeiro
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:22:16.394Z', 'max_amperage': 125, 'max_electric_power': 43000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-12-29T11:22:16.394Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:['ADV-00007']
+
+2023-12-29 12:29:59
+Adicionados:['SAT-00004', 'SXL-00050']
+
+SAT-00004 --> ATL 40.7497902 -7.7354325 Sátão Avenida Vila Rosa N.º 641 
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-29T11:42:46.857Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-29T11:42:46.857Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T11:42:46.857Z'}]
+
+SXL-00050 --> ATL 38.6271097 -9.1520279 Seixal R. Manuel Ferreira 10 12 Lote,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-09-15T15:18:16.790Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-09-15T15:18:16.790Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-09-15T15:18:16.790Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
