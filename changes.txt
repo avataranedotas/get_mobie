@@ -5975,3 +5975,12 @@ CDN-00004 --> ATL 40.1080227 -8.5111408 Condeixa-a-Nova N342 Quinta da Pereira
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-29T14:15:19.371Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T14:15:19.371Z'}]
 Removidos:[]
+
+2023-12-29 14:38:04
+Adicionados:['ACN-00010']
+
+ACN-00010 --> ATL 39.5195268 -8.6862334 Alcanena R. Nossa Sra. de Fátima, 2395-116 Minde
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-29T14:28:49.058Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-29T14:28:49.058Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-29T14:28:49.058Z'}]
+Removidos:[]
