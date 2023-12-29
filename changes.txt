@@ -5881,3 +5881,11 @@ AZB-00011 --> HRZ 39.14409 -8.9004985 Azambuja R. do Chaes lote 1
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-12-28T16:02:17.677Z'}]
 Removidos:[]
+
+2023-12-29 11:15:04
+Adicionados:['EPS-00004']
+
+EPS-00004 --> PRI 41.5048185 -8.7632946 Esposende ESTRADA NACIONAL 13 S/N Fao
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:07:15.925Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-12-29T11:07:15.925Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:[]
