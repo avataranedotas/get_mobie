@@ -6008,3 +6008,25 @@ VFX-00054 --> GLP 38.8785626 -9.0663538 Vila Franca de Xira Rua 1º de Maio, Via
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2023-12-29T17:59:03.918Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60, 'last_updated': '2023-12-29T17:59:03.918Z'}]
 Removidos:[]
+
+2024-01-02 10:38:28
+Adicionados:['BRR-00130', 'BRR-00131', 'CHV-00017', 'CTB-00034']
+
+BRR-00130 --> ATL 38.6685516 -9.0602206 Barreiro Avenida Das Nacionalizações Quimiparque, Lavr
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T14:37:27.329Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-19T14:37:27.329Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-19T14:37:27.329Z'}]
+
+BRR-00131 --> ATL 38.6685516 -9.0602206 Barreiro Avenida Das Nacionalizações Quimiparque, Lavr
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-19T16:06:46.142Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2023-12-19T16:06:46.142Z'}]
+
+CHV-00017 --> ATL 41.759409 -7.468160 Chaves Av. Cocanha
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-10-26T14:40:27.887Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-10-26T14:40:27.887Z'}]
+
+CTB-00034 --> ATL 39.8216975 -7.4941842 Castelo Branco Av. 1 de Maio 60
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
+Removidos:[]
