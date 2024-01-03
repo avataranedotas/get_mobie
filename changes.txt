@@ -6180,3 +6180,19 @@ OLH-00013 --> TRK 37.031798 -7.84656 Olhão Avenida D. João VI, Lote 199 - N125
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:28:00.092Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:28:00.092Z'}]
 Removidos:[]
+
+2024-01-03 18:04:00
+Adicionados:['OLH-00020', 'OLH-00022', 'OLH-00024']
+
+OLH-00020 --> TRK 37.028944 -7.836674 Olhão Rua Patrão Joaquim Casaca, 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:43.136Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:43.136Z'}]
+
+OLH-00022 --> TRK 37.03465 -7.828644 Olhão R. da Beirinha, 6 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:51.401Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:51.401Z'}]
+
+OLH-00024 --> TRK 37.039046 -7.834772 Olhão Rua do Arrinhado, 10
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:59.907Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:59.907Z'}]
+Removidos:[]
