@@ -6164,3 +6164,11 @@ OLH-00008 --> TRK 37.024544 -7.848042 Olhão R. João Viana Cabrita
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:43.561Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:43.561Z'}]
 Removidos:[]
+
+2024-01-03 17:15:16
+Adicionados:['OLH-00011']
+
+OLH-00011 --> TRK 37.03127 -7.847743 Olhão Av. D. João VI , 157 - N125
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:51.656Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:51.656Z'}]
+Removidos:[]
