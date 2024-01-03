@@ -6156,3 +6156,11 @@ OLH-00026 --> TRK 37.041883 -7.829806 Olhão Rua do José Botelho, 8 - Lote 15
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:02.349Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:02.349Z'}]
 Removidos:[]
+
+2024-01-03 16:40:35
+Adicionados:['OLH-00008']
+
+OLH-00008 --> TRK 37.024544 -7.848042 Olhão R. João Viana Cabrita
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:43.561Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:43.561Z'}]
+Removidos:[]
