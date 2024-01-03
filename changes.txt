@@ -6148,3 +6148,11 @@ OLH-00030 --> TRK 37.082234 -7.787491 Olhão Praceta da Nora, 1
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:02:45.229Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:02:45.229Z'}]
 Removidos:[]
+
+2024-01-03 16:04:50
+Adicionados:['OLH-00026']
+
+OLH-00026 --> TRK 37.041883 -7.829806 Olhão Rua do José Botelho, 8 - Lote 15
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:02.349Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:02.349Z'}]
+Removidos:[]
