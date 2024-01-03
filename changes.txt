@@ -6030,3 +6030,7 @@ CTB-00034 --> ATL 39.8216975 -7.4941842 Castelo Branco Av. 1 de Maio 60
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-07T15:24:40.183Z'}]
 Removidos:[]
+
+2024-01-03 09:18:18
+Adicionados:[]
+Removidos:['LSB-00604', 'RMZ-00006']
