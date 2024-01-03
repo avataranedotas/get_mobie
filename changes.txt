@@ -6122,3 +6122,11 @@ TBC-00003 --> EDP 41.162646 -7.570301 Tabuaço Estrada Nacional 222, SN
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:19:30.899Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:19:30.899Z'}]
 Removidos:[]
+
+2024-01-03 14:16:30
+Adicionados:['AVR-00050']
+
+AVR-00050 --> EDP 40.648834 -8.597910 Aveiro Rua do Monte Novo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-01-03T14:13:10.285Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-01-03T14:13:10.285Z'}]
+Removidos:[]
