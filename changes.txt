@@ -6048,3 +6048,31 @@ CLB-00010 --> KLS 40.6260896 -7.4024528 Celorico da Beira Quinta dos Cedros
 CLB-00011 --> KLS 40.62606 -7.4023528 Celorico da Beira Quinta dos Cedros
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-03T10:17:31.672Z'}]
 Removidos:[]
+
+2024-01-03 10:38:22
+Adicionados:['CLB-00013', 'EVR-00040', 'GMR-00111', 'PTL-00014', 'VCD-00039', 'VCT-00044']
+
+CLB-00013 --> KLS 40.6259746 -7.4024378 Celorico da Beira Quinta dos Cedros
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:19:04.627Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-03T10:19:04.627Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+EVR-00040 --> KLS 38.5589217 -7.9140226 Évora Rua Horta das Figueiras
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:19:18.451Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:19:18.451Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:19:18.451Z'}]
+
+GMR-00111 --> KLS 41.461208 -8.313214 Guimarães Rua Santa Eulália, E.N.101
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:19:40.147Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:19:40.147Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:19:40.147Z'}]
+
+PTL-00014 --> KLS 41.7725023 -8.5773757 Ponte de Lima Rua da Lebre
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:20:11.861Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:20:11.861Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:20:11.861Z'}]
+
+VCD-00039 --> KLS 41.348391 -8.747087 Vila do Conde Avenida Jýlio Graýa
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:10.900Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:10.900Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:22:10.900Z'}]
+
+VCT-00044 --> KLS 41.681339 -8.775156 Viana do Castelo Rua Arriscado Queirýs
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:28.308Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:28.308Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:22:28.308Z'}]
+Removidos:[]
