@@ -6076,3 +6076,49 @@ VCT-00044 --> KLS 41.681339 -8.775156 Viana do Castelo Rua Arriscado Queirýs
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:28.308Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-03T10:22:28.308Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-03T10:22:28.308Z'}]
 Removidos:[]
+
+2024-01-03 11:15:00
+Adicionados:['ABF-00069', 'LMG-00013', 'LNH-00007', 'LRA-00095', 'OHP-00010', 'PRT-00212', 'PRT-00213', 'PRT-00214', 'SNS-00015', 'TBC-00003']
+
+ABF-00069 --> EDP 37.0986269 -8.2591271 Albufeira Sítio da Bolota, Edificio AHETA, Lote 4 A
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-13T09:59:15.951Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-13T09:59:15.951Z'}]
+
+LMG-00013 --> EDP 41.090634 -7.799200 Lamego McDonalds Lamego, Lugar de Rina, EN 226, nº 9
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-12-11T13:09:14.044Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-12-11T13:09:14.044Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T13:09:14.044Z'}]
+
+LNH-00007 --> EDP 39.251100 -9.312900 Lourinhã Lugar Vale de Abrantes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-14T16:35:14.028Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-14T16:35:14.028Z'}]
+
+LRA-00095 --> EDP 39.68491 -8.894934 Leiria Intermaché Maceira - EN 356-1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-23T14:01:45.601Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-08-23T14:01:45.601Z'}]
+
+OHP-00010 --> EDP 40.425854 -7.884490 Oliveira do Hospital Av. Nova, 42
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-07T15:12:10.095Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-07T15:12:10.095Z'}]
+
+PRT-00212 --> EDP 41.1613083 -8.640484 Porto R. do Ten. Valadim 146
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-11-06T13:53:20.511Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-11-06T13:53:20.511Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-06T13:53:20.511Z'}]
+
+PRT-00213 --> EDP 41.161308 -8.640484 Porto R. do Ten. Valadim 146
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:13:33.281Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:13:33.281Z'}]
+
+PRT-00214 --> EDP 41.161308 -8.640484 Porto R. do Ten. Valadim 146
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:27:29.342Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-08T16:27:29.342Z'}]
+
+SNS-00015 --> EDP 37.966340 -8.857960 Sines A26-1 Loteamento Mun Norte da R52
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-11-10T16:21:50.491Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2023-11-10T16:21:50.491Z'}]
+
+TBC-00003 --> EDP 41.162646 -7.570301 Tabuaço Estrada Nacional 222, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:19:30.899Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T13:19:30.899Z'}]
+Removidos:[]
