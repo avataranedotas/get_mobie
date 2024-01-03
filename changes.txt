@@ -6172,3 +6172,11 @@ OLH-00011 --> TRK 37.03127 -7.847743 Olhão Av. D. João VI , 157 - N125
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:51.656Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:27:51.656Z'}]
 Removidos:[]
+
+2024-01-03 17:37:59
+Adicionados:['OLH-00013']
+
+OLH-00013 --> TRK 37.031798 -7.84656 Olhão Avenida D. João VI, Lote 199 - N125
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:28:00.092Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T14:28:00.092Z'}]
+Removidos:[]
