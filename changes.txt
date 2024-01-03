@@ -6140,3 +6140,11 @@ SNT-00116
 : 
  NEW address : R. Henrique Amaro, 
  OLD address : Rua Eça De Queiroz,10, C/V-Esqa,Rio De Mouro
+
+2024-01-03 15:18:03
+Adicionados:['OLH-00030']
+
+OLH-00030 --> TRK 37.082234 -7.787491 Olhão Praceta da Nora, 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:02:45.229Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:02:45.229Z'}]
+Removidos:[]
