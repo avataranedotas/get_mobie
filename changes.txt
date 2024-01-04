@@ -6267,3 +6267,11 @@ LRA-00100 --> EDP 39.730490 -8.826632 Leiria ALTO VIEIRO PARK - ZONA INDUSTRIAL 
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-04T10:30:33.729Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-04T10:30:33.729Z'}]
 Removidos:[]
+
+2024-01-04 14:37:52
+Adicionados:['MTA-00012']
+
+MTA-00012 --> EDP 38.653567 -9.012944 Moita RUA JORGE PEIXINHO FR B
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-04T14:37:33.054Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-04T14:37:33.054Z'}]
+Removidos:[]
