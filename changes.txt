@@ -6196,3 +6196,49 @@ OLH-00024 --> TRK 37.039046 -7.834772 Olhão Rua do Arrinhado, 10
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:59.907Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:59.907Z'}]
 Removidos:[]
+
+2024-01-04 09:17:33
+Adicionados:['ACB-00015', 'ALJ-80001', 'ARC-00006', 'GVA-80001', 'LRA-00101', 'LSB-80042', 'NZR-00027', 'PRG-80001', 'SBG-80001', 'VZL-80003']
+
+ACB-00015 --> ATL 39.551485 -8.977961 Alcobaça Av. Prof. Eng. Joaquim Vieira Natividade 9900
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-04T08:54:59.253Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T08:54:59.253Z'}]
+
+ALJ-80001 --> ATL 41.275881 -7.477031 Alijó Avenida Dr. Francisco Sá Carneiro
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:06.943Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:06.943Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ARC-00006 --> ATL 40.925538 -8.2510113 Arouca Variante à N326-12
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-04T08:55:14.895Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-04T08:55:14.895Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:55:14.895Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GVA-80001 --> ATL 40.4926772 -7.5942083 Gouveia Rua de Casimiro Andrade
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:25.722Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:25.722Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LRA-00101 --> ATL 39.7619431 -8.8207454 Leiria R. Estr. Figueira da Foz,
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T08:56:30.257Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-04T08:56:30.257Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T08:56:30.257Z'}]
+
+LSB-80042 --> ATL 38.7801617 -9.0935641 Lisboa Rua Ilha dos Amores
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:42.211Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:42.211Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+NZR-00027 --> ATL 39.535317 -9.082054 Nazaré Rua do Camarcao - Famalicao
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T08:54:13.128Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T08:54:13.128Z'}]
+
+PRG-80001 --> ATL 41.162533 -7.792471 Peso da Régua Avenida de Ovar
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:57.411Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:57:57.411Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+SBG-80001 --> ATL 40.351311 -7.088964 Sabugal Rua Luís de Camões
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:58:12.158Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:58:12.158Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VZL-80003 --> ATL 40.7213056 -8.1095833 Vouzela R. Bombeiros Voluntários
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:56:48.098Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-04T08:56:48.098Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['ACB-00006', 'LRA-00090', 'NZR-00023']
