@@ -6283,3 +6283,11 @@ PVZ-00030 --> ECI 41.377997 -8.766079 Póvoa de Varzim Avenida dos Descobrimento
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T14:51:48.245Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T14:51:48.245Z'}]
 Removidos:[]
+
+2024-01-04 16:33:59
+Adicionados:['VFX-00052']
+
+VFX-00052 --> GLP 38.88930 -9.046616 Vila Franca de Xira Avenida de Mague, Alverca do Ribatejo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:26:26.884Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:26:26.884Z'}]
+Removidos:[]
