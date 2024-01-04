@@ -6318,3 +6318,10 @@ MTS-00143 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
 MTS-00144 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T15:53:09.883Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T15:53:09.883Z'}]
 Removidos:[]
+
+2024-01-04 18:22:13
+Adicionados:['MTS-00145']
+
+MTS-00145 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T18:01:03.520Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2024-01-04T18:01:03.520Z'}]
+Removidos:[]
