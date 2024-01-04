@@ -6303,3 +6303,18 @@ VFX-00053 --> GLP 38.8677367 -9.0656988 Vila Franca de Xira Rua João da Silva V
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-01-04T16:45:13.514Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-01-04T16:45:13.514Z'}]
 Removidos:[]
+
+2024-01-04 18:01:10
+Adicionados:['MTS-00142', 'MTS-00143', 'MTS-00144']
+
+MTS-00142 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T15:52:26.996Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T15:52:26.996Z'}]
+
+MTS-00143 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T15:53:00.635Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-04T15:53:00.635Z'}]
+
+MTS-00144 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T15:53:09.883Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T15:53:09.883Z'}]
+Removidos:[]
