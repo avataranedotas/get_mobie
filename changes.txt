@@ -6291,3 +6291,15 @@ VFX-00052 --> GLP 38.88930 -9.046616 Vila Franca de Xira Avenida de Mague, Alver
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:26:26.884Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:26:26.884Z'}]
 Removidos:[]
+
+2024-01-04 17:13:53
+Adicionados:['PVZ-00031', 'VFX-00053']
+
+PVZ-00031 --> ECI 41.386508 -8.771117 Póvoa de Varzim Avenida Vasco da Gama 9857
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:14:38.471Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T16:14:38.471Z'}]
+
+VFX-00053 --> GLP 38.8677367 -9.0656988 Vila Franca de Xira Rua João da Silva Vitoriano, Póvoa de Santa I
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-01-04T16:45:13.514Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-01-04T16:45:13.514Z'}]
+Removidos:[]
