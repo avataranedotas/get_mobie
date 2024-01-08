@@ -6325,3 +6325,54 @@ Adicionados:['MTS-00145']
 MTS-00145 --> FCT 41.1843231 -8.6817213 Matosinhos Rua de Goa, nº 2
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-04T18:01:03.520Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2024-01-04T18:01:03.520Z'}]
 Removidos:[]
+
+2024-01-08 09:38:03
+Adicionados:['ALQ-80001', 'BRG-00120', 'BRG-00121', 'BRG-80001', 'FAF-80001', 'PRT-00227', 'PVZ-00037', 'STB-00069', 'VFR-00082', 'VIZ-00010', 'VLP-80002']
+
+ALQ-80001 --> ATL 39.050889 -9.003778 Alenquer Avenida 25 de Abril
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:25:15.570Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:25:15.570Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+BRG-00120 --> ATL 41.5413206 -8.4249637 Braga R. Monsenhor Airosa
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-08T09:28:02.895Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-08T09:28:02.896Z'}]
+
+BRG-00121 --> ATL 41.5413206 -8.4249637 Braga R. Monsenhor Airosa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-08T09:28:33.361Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-08T09:28:33.361Z'}]
+
+BRG-80001 --> ATL 41.5512389 -8.4281365 Braga Praça do Município
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:25:43.080Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:25:43.080Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FAF-80001 --> ATL 41.452419 -8.171622 Fafe Praça Mártires Fascismo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:26:11.776Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:26:11.776Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PRT-00227 --> ATL 41.162879 -8.6678072 Porto RUA JOSE GOMES FERREIRA 10 LT
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:23:57.155Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:23:57.155Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:23:57.155Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PVZ-00037 --> ATL 41.379412 -8.739001 Póvoa de Varzim Rua do Bocal da Gândara
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:20:51.673Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:20:51.673Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:20:51.673Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+STB-00069 --> ATL 38.522804 -8.893194 Setúbal Avenida Luisa Todi nº 149
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:24:15.130Z', 'max_amperage': 200, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:24:15.130Z', 'max_amperage': 200, 'max_electric_power': 60000}]
+
+VFR-00082 --> ATL 40.922391 -8.566144 Santa Maria da Feira R. Dr. Crispim Borges de Castro
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:20:18.252Z', 'max_amperage': 150, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:20:18.252Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VIZ-00010 --> ATL 41.3687792 -8.3056439 Vizela Lugar do Poço Quente
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:24:46.649Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-08T09:24:46.649Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:24:46.649Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+VLP-80002 --> ATL 41.6099499 -7.3137835 Valpaços R. Misericórdia
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:27:35.349Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:27:35.349Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['BRG-00087']
