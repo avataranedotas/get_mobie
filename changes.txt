@@ -6376,3 +6376,11 @@ VLP-80002 --> ATL 41.6099499 -7.3137835 Valpaços R. Misericórdia
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:27:35.349Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-08T09:27:35.349Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['BRG-00087']
+
+2024-01-08 10:20:00
+Adicionados:['MTS-00124']
+
+MTS-00124 --> HRZ 41.2100303 -8.6827139 Matosinhos Av. Arq. Fernando Tavora,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-01-08T09:51:21.363Z', 'max_amperage': 200, 'max_electric_power': 170000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-01-08T09:51:21.363Z', 'max_amperage': 200, 'max_electric_power': 170000}]
+Removidos:[]
