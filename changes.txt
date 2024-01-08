@@ -6384,3 +6384,11 @@ MTS-00124 --> HRZ 41.2100303 -8.6827139 Matosinhos Av. Arq. Fernando Tavora,
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-01-08T09:51:21.363Z', 'max_amperage': 200, 'max_electric_power': 170000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-01-08T09:51:21.363Z', 'max_amperage': 200, 'max_electric_power': 170000}]
 Removidos:[]
+
+2024-01-08 14:17:02
+Adicionados:['MTS-00130']
+
+MTS-00130 --> EDP 41.175934 -8.681411 Matosinhos Avenida D. Afonso Henriques 146
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-08T13:19:23.193Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-08T13:19:23.193Z'}]
+Removidos:[]
