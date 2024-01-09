@@ -6404,3 +6404,10 @@ VNP-00003 --> EDP 40.85673 -7.7366773 Vila Nova de Paiva Rua Egas Moniz, nº6
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-21T14:38:22.332Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2023-08-21T14:38:22.332Z'}]
 Removidos:[]
+
+2024-01-09 12:34:39
+Adicionados:['STR-00034']
+
+STR-00034 --> GLP 39.233951 -8.676641 Santarém Largo do Alcáçova 2000
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T11:35:40.961Z'}]
+Removidos:[]
