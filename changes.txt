@@ -6515,3 +6515,133 @@ TND-00009 --> ATL 40.5291829 -8.0908963 Tondela Avenida Lusiadas
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-09T17:22:20.578Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:22:20.578Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:[]
+
+2024-01-09 23:17:56
+LRA-00096
+coordinates: 
+ NEW latitude : 39.7539774
+ OLD latitude : 39.754600
+LRA-00096
+coordinates: 
+ NEW longitude : -8.8013813
+ OLD longitude : -8.800220
+LRA-00096
+: 
+ NEW coordinates : {'latitude': '39.7539774', 'longitude': '-8.8013813'}
+ OLD coordinates : {'latitude': '39.754600', 'longitude': '-8.800220'}
+LRA-00097
+coordinates: 
+ NEW latitude : 39.7540441
+ OLD latitude : 39.754600
+LRA-00097
+coordinates: 
+ NEW longitude : -8.8013986
+ OLD longitude : -8.800220
+LRA-00097
+: 
+ NEW coordinates : {'latitude': '39.7540441', 'longitude': '-8.8013986'}
+ OLD coordinates : {'latitude': '39.754600', 'longitude': '-8.800220'}
+VFX-00007
+coordinates: 
+ NEW latitude : 38.8887290
+ OLD latitude : 38.888149
+VFX-00007
+coordinates: 
+ NEW longitude : -9.0440504
+ OLD longitude : -9.044784
+VFX-00007
+: 
+ NEW coordinates : {'latitude': '38.8887290', 'longitude': '-9.0440504'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+VFX-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VFX-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VFX-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VFX-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VFX-00008
+coordinates: 
+ NEW latitude : 38.8887290
+ OLD latitude : 38.888149
+VFX-00008
+coordinates: 
+ NEW longitude : -9.0440504
+ OLD longitude : -9.044784
+VFX-00008
+: 
+ NEW coordinates : {'latitude': '38.8887290', 'longitude': '-9.0440504'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+VFX-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VFX-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VFX-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VFX-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VFX-00009
+coordinates: 
+ NEW latitude : 38.8885344
+ OLD latitude : 38.888149
+VFX-00009
+coordinates: 
+ NEW longitude : -9.0436690
+ OLD longitude : -9.044784
+VFX-00009
+: 
+ NEW coordinates : {'latitude': '38.8885344', 'longitude': '-9.0436690'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+VFX-00010
+coordinates: 
+ NEW latitude : 38.8885344
+ OLD latitude : 38.888149
+VFX-00010
+coordinates: 
+ NEW longitude : -9.0436690
+ OLD longitude : -9.044784
+VFX-00010
+: 
+ NEW coordinates : {'latitude': '38.8885344', 'longitude': '-9.0436690'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+VFX-00011
+coordinates: 
+ NEW latitude : 38.8885344
+ OLD latitude : 38.888149
+VFX-00011
+coordinates: 
+ NEW longitude : -9.0436690
+ OLD longitude : -9.044784
+VFX-00011
+: 
+ NEW coordinates : {'latitude': '38.8885344', 'longitude': '-9.0436690'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+VFX-00012
+coordinates: 
+ NEW latitude : 38.8885344
+ OLD latitude : 38.888149
+VFX-00012
+coordinates: 
+ NEW longitude : -9.0436690
+ OLD longitude : -9.044784
+VFX-00012
+: 
+ NEW coordinates : {'latitude': '38.8885344', 'longitude': '-9.0436690'}
+ OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
