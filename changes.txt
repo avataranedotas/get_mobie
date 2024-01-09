@@ -6411,3 +6411,74 @@ Adicionados:['STR-00034']
 STR-00034 --> GLP 39.233951 -8.676641 Santarém Largo do Alcáçova 2000
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T11:35:40.961Z'}]
 Removidos:[]
+
+2024-01-09 16:23:42
+Adicionados:['CBR-00093', 'CBR-00094', 'CBR-00095', 'CBR-00096', 'CBR-00098', 'CSC-00171', 'FIG-00026', 'MTA-00013', 'OER-00195', 'OER-00200', 'OER-00201', 'OER-00202', 'OER-00204', 'OER-00205', 'OER-00207', 'OER-00208', 'OER-00211', 'OHP-00013', 'TNV-00018']
+
+CBR-00093 --> KLS 40.192128 -8.413002 Coimbra Rua da Misericýrdia, Lagar dos Cortiýos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T15:50:29.603Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T15:50:29.603Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CBR-00094 --> KLS 40.211719 -8.453771 Coimbra Rua da Misericýrdia, Lagar dos Cortiýos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T15:51:48.025Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T15:51:48.025Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CBR-00095 --> KLS 40.205076 -8.405942 Coimbra Rua General Humberto Delgado
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:01:39.673Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:01:39.673Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CBR-00096 --> KLS 40.198379 -8.46094 Coimbra Rua da Misericýrdia, Lagar dos Cortiýos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:03:04.879Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:03:04.879Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CBR-00098 --> KLS 40.204868 -8.453723 Coimbra Rua da Misericýrdia, Lagar dos Cortiýos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:05:07.709Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:05:07.709Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CSC-00171 --> KLS 38.737083 -9.383528 Cascais Estrada de Manique
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:05:38.878Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:05:38.878Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FIG-00026 --> KLS 40.12155 -8.852353 Figueira da Foz Av. das Olaias 27, ZI Figueira da Foz
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-09T16:06:13.150Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-09T16:06:13.150Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-01-09T16:06:13.150Z'}]
+
+MTA-00013 --> KLS 38.655028 -9.03921 Moita Rua Augusto Gil
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:06:42.778Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:06:42.778Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+OER-00195 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:07:25.723Z'}]
+
+OER-00200 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:07:55.375Z'}]
+
+OER-00201 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:08:35.265Z'}]
+
+OER-00202 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:09:59.480Z'}]
+
+OER-00204 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:10:29.666Z'}]
+
+OER-00205 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:10:56.609Z'}]
+
+OER-00207 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:11:33.256Z'}]
+
+OER-00208 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:11:59.481Z'}]
+
+OER-00211 --> KLS 38.711073 -9.299473 Oeiras Rua dos Malhýes, Edificio Q53
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:12:34.867Z'}]
+
+OHP-00013 --> KLS 40.361044 -7.860902 Oliveira do Hospital Rua General Santos Costa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:12:55.186Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:12:55.186Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+TNV-00018 --> KLS 39.465087 -8.524621 Torres Novas Rotunda da Ponte do Bico
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:13:18.885Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:13:18.885Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
