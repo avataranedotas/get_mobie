@@ -6482,3 +6482,36 @@ TNV-00018 --> KLS 39.465087 -8.524621 Torres Novas Rotunda da Ponte do Bico
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-09T16:13:18.885Z'}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T16:13:18.885Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-09 17:38:04
+Adicionados:['ABT-00029', 'ABT-80001', 'AMD-00105', 'GRD-70003', 'PNF-00036', 'STR-00039', 'TND-00009']
+
+ABT-00029 --> ATL 39.4666163 -8.2069895 Abrantes R. Cidade de Parthenay 50,
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:21:53.098Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:21:53.098Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ABT-80001 --> ATL 39.4587001 -8.1997999 Abrantes Largo 1º de Maio
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:23:24.819Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:23:24.819Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+AMD-00105 --> ATL 38.7377192 -9.2255139 Amadora Travessa Miradouro UrbanizaÃ§Ã£o QtÂª.Grande
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-01-09T17:23:51.210Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-09T17:23:51.210Z'}]
+
+GRD-70003 --> ATL 40.53755 -7.27709 Guarda Avenida do Estádio Municipal
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:22:53.543Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:22:53.543Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PNF-00036 --> ATL 41.1949662 -8.3056781 Penafiel Av. Central de Guilhufe (EN15)
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2024-01-09T17:24:20.703Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2024-01-09T17:24:20.703Z'}]
+
+STR-00039 --> ATL 39.2216259 -8.9840301 Santarém Lugar de S. Domingos, Estrada nacional 365
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-09T17:24:50.650Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 160, 'max_electric_power': 60000, 'last_updated': '2024-01-09T17:24:50.650Z'}]
+
+TND-00009 --> ATL 40.5291829 -8.0908963 Tondela Avenida Lusiadas
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-09T17:22:20.578Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-09T17:22:20.578Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-09T17:22:20.578Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+Removidos:[]
