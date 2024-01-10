@@ -6667,3 +6667,11 @@ BRR-00099 --> TRK 38.641689 -9.056192 Barreiro Rua José António Cabrita Baptis
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T14:32:36.522Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T14:32:36.522Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-10 15:37:55
+Adicionados:['BRR-00077']
+
+BRR-00077 --> TRK 38.660167 -9.081867 Barreiro Rua Miguel Pais 158
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:21:49.720Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:21:49.720Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+Removidos:[]
