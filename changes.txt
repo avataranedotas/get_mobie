@@ -6659,3 +6659,11 @@ CBR-00079
 : 
  NEW coordinates : {'latitude': '40.1962258', 'longitude': '-8.4023434'}
  OLD coordinates : {'latitude': '40.20076', 'longitude': '-8.4030437'}
+
+2024-01-10 14:37:45
+Adicionados:['BRR-00099']
+
+BRR-00099 --> TRK 38.641689 -9.056192 Barreiro Rua José António Cabrita Baptista 16
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T14:32:36.522Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T14:32:36.522Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+Removidos:[]
