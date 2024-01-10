@@ -6645,3 +6645,17 @@ VFX-00012
 : 
  NEW coordinates : {'latitude': '38.8885344', 'longitude': '-9.0436690'}
  OLD coordinates : {'latitude': '38.888149', 'longitude': '-9.044784'}
+
+2024-01-10 10:19:14
+CBR-00079
+coordinates: 
+ NEW latitude : 40.1962258
+ OLD latitude : 40.20076
+CBR-00079
+coordinates: 
+ NEW longitude : -8.4023434
+ OLD longitude : -8.4030437
+CBR-00079
+: 
+ NEW coordinates : {'latitude': '40.1962258', 'longitude': '-8.4023434'}
+ OLD coordinates : {'latitude': '40.20076', 'longitude': '-8.4030437'}
