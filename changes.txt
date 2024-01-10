@@ -6691,3 +6691,11 @@ BRR-00108 --> TRK 38.6562001 -9.06355 Barreiro Rua Bartolomeu Dias 76
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-10T15:45:14.651Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-10T15:45:14.651Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-10 16:41:26
+Adicionados:['BRR-00084']
+
+BRR-00084 --> TRK 38.669225 -9.048172 Barreiro Rua Maria Lalande 59
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:29:15.758Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:29:15.758Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+Removidos:[]
