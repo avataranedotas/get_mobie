@@ -6699,3 +6699,16 @@ BRR-00084 --> TRK 38.669225 -9.048172 Barreiro Rua Maria Lalande 59
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:29:15.758Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:29:15.758Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-10 17:15:46
+Adicionados:['MTA-00010', 'MTA-00011']
+
+MTA-00010 --> HRZ 38.645780 -8.994189 Moita Quinta de Santa Rosa, R. Classe Operária
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-10T16:42:55.888Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-01-10T16:42:55.888Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-01-10T16:42:55.888Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-01-10T16:42:55.888Z'}]
+
+MTA-00011 --> HRZ 38.645780 -8.994189 Moita Quinta de Santa Rosa, R. Classe Operária, 286
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-10T16:45:08.099Z'}]
+Removidos:[]
