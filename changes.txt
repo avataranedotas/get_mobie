@@ -6675,3 +6675,19 @@ BRR-00077 --> TRK 38.660167 -9.081867 Barreiro Rua Miguel Pais 158
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:21:49.720Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:21:49.720Z', 'max_amperage': 63, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-10 16:24:09
+Adicionados:['BRR-00079', 'BRR-00087', 'BRR-00108']
+
+BRR-00079 --> TRK 38.664528 -9.0501999 Barreiro Rua César Coelho 6
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:10:12.391Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T16:10:12.392Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+BRR-00087 --> TRK 38.660586 -9.056786 Barreiro Rua Bloco Soure 2
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:59:00.140Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-10T15:59:00.140Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+BRR-00108 --> TRK 38.6562001 -9.06355 Barreiro Rua Bartolomeu Dias 76
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-10T15:45:14.651Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-10T15:45:14.651Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
