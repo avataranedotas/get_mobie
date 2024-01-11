@@ -6736,3 +6736,12 @@ ORM-00012 --> EDP 39.630831 -8.676703 Ourém RUA João Paulo II 241
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 74000, 'last_updated': '2024-01-11T15:18:47.813Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-11T15:18:47.813Z'}]
 Removidos:[]
+
+2024-01-11 18:22:26
+Adicionados:['PMS-00010']
+
+PMS-00010 --> REP 39.596498 -8.816882 Porto de Mós E.N. 243 ao km 5,630 Lado Direito
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-11T16:07:57.557Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-11T16:07:57.557Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-11T16:07:57.557Z'}]
+Removidos:[]
