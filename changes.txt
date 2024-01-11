@@ -6712,3 +6712,11 @@ MTA-00010 --> HRZ 38.645780 -8.994189 Moita Quinta de Santa Rosa, R. Classe Oper
 MTA-00011 --> HRZ 38.645780 -8.994189 Moita Quinta de Santa Rosa, R. Classe Operária, 286
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-10T16:45:08.099Z'}]
 Removidos:[]
+
+2024-01-11 11:15:12
+Adicionados:['CPR-00002']
+
+CPR-00002 --> MOB 40.0049417 -8.2119416 Elvas Av. de Garcia da Orta
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
