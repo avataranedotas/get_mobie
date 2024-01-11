@@ -6728,3 +6728,11 @@ PVZ-00032 --> ECI 41.403101 -8.770266 Póvoa de Varzim Largo Dr. João Amorim 12
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-11T11:07:45.299Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-11T11:07:45.299Z'}]
 Removidos:[]
+
+2024-01-11 15:19:01
+Adicionados:['ORM-00012']
+
+ORM-00012 --> EDP 39.630831 -8.676703 Ourém RUA João Paulo II 241
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 74000, 'last_updated': '2024-01-11T15:18:47.813Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-11T15:18:47.813Z'}]
+Removidos:[]
