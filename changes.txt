@@ -6720,3 +6720,11 @@ CPR-00002 --> MOB 40.0049417 -8.2119416 Elvas Av. de Garcia da Orta
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2024-01-11 11:38:06
+Adicionados:['PVZ-00032']
+
+PVZ-00032 --> ECI 41.403101 -8.770266 Póvoa de Varzim Largo Dr. João Amorim 125
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-11T11:07:45.299Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-11T11:07:45.299Z'}]
+Removidos:[]
