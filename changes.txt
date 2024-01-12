@@ -6836,3 +6836,11 @@ VCD-00022
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 24000
  OLD max_electric_power : 22000
+
+2024-01-12 17:38:01
+Adicionados:['MDR-00005']
+
+MDR-00005 --> EDP 41.39263 -6.424693 Miranda do Douro Estrada Nacional nº 221, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-12T17:30:24.446Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-12T17:30:24.446Z'}]
+Removidos:[]
