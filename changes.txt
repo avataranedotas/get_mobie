@@ -6793,3 +6793,23 @@ ILH-00014 --> KLS 40.620022 -8.669976 Ílhavo Parque De Ciencia E Inovacao Sa
 ILH-00015 --> KLS 40.620022 -8.669976 Ílhavo Parque De Ciencia E Inovacao Sa
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-12T13:05:38.701Z'}]
 Removidos:[]
+
+2024-01-12 14:38:04
+Adicionados:['PSR-00010']
+
+PSR-00010 --> EDP 39.244268 -8.021562 Ponte de Sôr HORTAS NOVAS DO DOMINGÃO, EN 119
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-12T14:21:24.797Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-12T14:21:24.797Z'}]
+Removidos:[]
+VCD-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 55000
+VCD-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 55000
+VCD-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
