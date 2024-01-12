@@ -6745,3 +6745,21 @@ PMS-00010 --> REP 39.596498 -8.816882 Porto de Mós E.N. 243 ao km 5,630 Lado Di
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-11T16:07:57.557Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-11T16:07:57.557Z'}]
 Removidos:[]
+
+2024-01-12 09:38:08
+ALB-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 29
+ OLD max_amperage : 32
+ALB-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 20000
+ OLD max_electric_power : 22000
+ALB-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 29
+ OLD max_amperage : 32
+ALB-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 20000
+ OLD max_electric_power : 22000
