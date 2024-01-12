@@ -6813,3 +6813,12 @@ VCD-00019
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 24000
  OLD max_electric_power : 22000
+
+2024-01-12 15:17:44
+Adicionados:['FLG-00015']
+
+FLG-00015 --> REP 41360677 -8.192456 Felgueiras Av. Dr. Ribeiro Magalhaes
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-12T15:08:47.063Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-12T15:08:47.063Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-12T15:08:47.063Z'}]
+Removidos:[]
