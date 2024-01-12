@@ -6763,3 +6763,11 @@ ALB-90002
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 20000
  OLD max_electric_power : 22000
+
+2024-01-12 12:33:35
+Adicionados:['BAO-00005']
+
+BAO-00005 --> EDP 41.109971 -8.006274 Baião Hotel Douro Palace, Lugar do Carrapatelo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-12T12:16:20.756Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-12T12:16:20.756Z'}]
+Removidos:[]
