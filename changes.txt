@@ -6896,3 +6896,12 @@ BBR-00002 --> ATL 39.2645237 -9.1628990 Bombarral Rua Comandante Palmiro Fernand
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T15:23:38.659Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T15:23:38.659Z'}]
 Removidos:[]
+
+2024-01-15 16:23:24
+Adicionados:['STB-00056']
+
+STB-00056 --> HRZ 38.5402859 -8.8698593 Setúbal Av. Mestre Lima de Freitas Lote 89
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 920, 'last_updated': '2024-01-15T16:04:51.817Z', 'max_amperage': 250, 'max_electric_power': 100000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-15T16:04:51.817Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T16:04:51.817Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
