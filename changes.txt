@@ -6844,3 +6844,47 @@ MDR-00005 --> EDP 41.39263 -6.424693 Miranda do Douro Estrada Nacional nº 221, 
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-12T17:30:24.446Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-12T17:30:24.446Z'}]
 Removidos:[]
+
+2024-01-15 11:15:37
+Adicionados:['AVR-00059', 'CBR-80007', 'FEC-00003', 'NZR-00032', 'ODV-00026', 'ODV-00027', 'PNF-00037', 'RMZ-80002', 'STR-00038', 'TBC-80002']
+
+AVR-00059 --> ATL 40.651257 -8.620198 Aveiro Estrada Nacional 109 - Esgueira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:45:27.641Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:45:27.641Z'}]
+
+CBR-80007 --> ATL 40.211579 -8.432404 Coimbra Rua do Carmo
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:44:17.190Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:44:17.190Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FEC-00003 --> ATL 41.09123 -6.811931 Freixo de Espada à Cinta Bairro Samiteiro, Nº 7010 
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:46:13.962Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:46:13.962Z'}]
+
+NZR-00032 --> ATL 39.588788 -9.07439 Nazaré Av. Manuel Remígio - Parque de Estacionamento
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:46:42.104Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:46:42.104Z'}]
+
+ODV-00026 --> ATL 38.7817505 -9.1928885 Odivelas Estrada da Paiã - Strada Outlet
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:47:37.200Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:47:37.200Z'}]
+
+ODV-00027 --> ATL 38.7817505 -9.1928885 Odivelas Estrada da Paiã - Strada Outlet
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:48:25.852Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:48:25.852Z'}]
+
+PNF-00037 --> ATL 41.193342 -8.306424 Penafiel Quinta da Lagarteira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-01-15T10:48:03.401Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-01-15T10:48:03.401Z'}]
+
+RMZ-80002 --> ATL 38.424884 -7.534056 Reguengos de Monsaraz Rua Alberto de Monsaraz
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:44:34.471Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:44:34.471Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+STR-00038 --> ATL 39.2216259 -8.9840301 Santarém Lugar de S. Domingos, Estrada nacional 365
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:47:14.653Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-15T10:47:14.653Z'}]
+
+TBC-80002 --> ATL 41.1228056 -7.6014444 Tabuaço R. Francisco Pereira Macedo Cabral
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:45:03.053Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-15T10:45:03.053Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
