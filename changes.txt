@@ -6961,3 +6961,13 @@ GDM-90001
 : 
  NEW address : Avenida Do Rio Tinto
  OLD address : -
+
+2024-01-16 12:34:47
+FLG-00015
+coordinates: 
+ NEW latitude : 41.360677
+ OLD latitude : 41360677
+FLG-00015
+: 
+ NEW coordinates : {'latitude': '41.360677', 'longitude': '-8.192456'}
+ OLD coordinates : {'latitude': '41360677', 'longitude': '-8.192456'}
