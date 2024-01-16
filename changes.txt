@@ -6947,3 +6947,11 @@ STB-00056
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 22000
+
+2024-01-16 10:39:35
+Adicionados:['GDM-90001']
+
+GDM-90001 --> HRZ 41.139559 -8.529141 Gondomar -
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T10:33:02.006Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T10:33:02.006Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
