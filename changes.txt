@@ -6971,3 +6971,9 @@ FLG-00015
 : 
  NEW coordinates : {'latitude': '41.360677', 'longitude': '-8.192456'}
  OLD coordinates : {'latitude': '41360677', 'longitude': '-8.192456'}
+
+2024-01-16 15:18:40
+AVR-80004
+: 
+ NEW address : Rua Doutor Alberto Souto
+ OLD address : Rua Doutor Alberto Soares Machado
