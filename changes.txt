@@ -6989,3 +6989,19 @@ LSB-00681 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:26.285Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:26.285Z'}]
 Removidos:[]
+
+2024-01-16 17:16:15
+Adicionados:['LSB-00677', 'LSB-00678', 'LSB-00679']
+
+LSB-00677 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-01-16T16:17:01.945Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-01-16T16:17:01.945Z'}]
+
+LSB-00678 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:50.308Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:50.308Z'}]
+
+LSB-00679 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:42.115Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:42.115Z'}]
+Removidos:[]
