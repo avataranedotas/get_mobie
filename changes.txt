@@ -6977,3 +6977,15 @@ AVR-80004
 : 
  NEW address : Rua Doutor Alberto Souto
  OLD address : Rua Doutor Alberto Soares Machado
+
+2024-01-16 16:42:45
+Adicionados:['LSB-00680', 'LSB-00681']
+
+LSB-00680 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:33.165Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:33.165Z'}]
+
+LSB-00681 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:26.285Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:26.285Z'}]
+Removidos:[]
