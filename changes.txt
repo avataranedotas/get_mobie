@@ -6955,3 +6955,9 @@ GDM-90001 --> HRZ 41.139559 -8.529141 Gondomar -
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T10:33:02.006Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T10:33:02.006Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2024-01-16 11:15:18
+GDM-90001
+: 
+ NEW address : Avenida Do Rio Tinto
+ OLD address : -
