@@ -7013,3 +7013,30 @@ ALM-00079 --> KLS 38.658889 -9.203611 Almada E.N. 377-1 - Monte da Caparíca (UN
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2024-01-17T12:41:19.457Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-17T12:41:19.457Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-17T12:41:19.457Z'}]
 Removidos:[]
+
+2024-01-17 16:23:54
+Adicionados:['ACH-00014', 'ACH-00015', 'ARC-00007', 'AVR-00054', 'ETR-00015', 'PLM-00033']
+
+ACH-00014 --> KLS 38.752065 -8.939838 Alcochete Avenida Euro 2004
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T15:48:19.898Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T15:48:19.898Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ACH-00015 --> KLS 38.751757 -8.939855 Alcochete Avenida Euro 2004
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T16:21:21.865Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T16:21:21.865Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ARC-00007 --> KLS 40.992177 -8.2174302 Arouca Lugar espiunca
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T16:22:03.243Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T16:22:03.243Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+AVR-00054 --> KLS 40.641029 -8.652738 Aveiro Rua Batalhýo Caýadores Dez
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T16:22:38.288Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T16:22:38.288Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ETR-00015 --> KLS 40.754147 -8.568886 Estarreja Rua Dr. Souto Alves 134
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T16:23:06.834Z'}]
+
+PLM-00033 --> KLS 38.575556 -9.023333 Palmela Vila Amýlia, Lugar Quinta da Torre
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T16:23:38.707Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T16:23:38.707Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
