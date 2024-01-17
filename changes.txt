@@ -7005,3 +7005,11 @@ LSB-00679 --> HRZ 38.7421512 -9.1460978 Lisboa Av. República
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:42.115Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 23, 'max_electric_power': 22000, 'last_updated': '2024-01-16T16:16:42.115Z'}]
 Removidos:[]
+
+2024-01-17 13:21:16
+Adicionados:['ALM-00079']
+
+ALM-00079 --> KLS 38.658889 -9.203611 Almada E.N. 377-1 - Monte da Caparíca (UNL)
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2024-01-17T12:41:19.457Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-17T12:41:19.457Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-17T12:41:19.457Z'}]
+Removidos:[]
