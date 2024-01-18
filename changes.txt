@@ -7119,3 +7119,13 @@ PSR-00007 --> ATL 39.2678546 -8.0132831 Ponte de Sôr Zona Industrial da Salguei
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-17T17:12:48.858Z', 'max_amperage': 125, 'max_electric_power': 60000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-17T17:12:48.858Z', 'max_amperage': 63, 'max_electric_power': 43000}]
 Removidos:[]
+
+2024-01-18 15:18:44
+Adicionados:['MCN-00013']
+
+MCN-00013 --> HRZ 41.194230 -8.156898 Marco de Canaveses R. Rainha Dona Mafalda 709
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
+Removidos:[]
