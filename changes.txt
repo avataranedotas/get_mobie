@@ -7129,3 +7129,9 @@ MCN-00013 --> HRZ 41.194230 -8.156898 Marco de Canaveses R. Rainha Dona Mafalda 
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2024-01-18T15:00:07.393Z'}]
 Removidos:[]
+
+2024-01-18 17:17:00
+MCN-00013
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
