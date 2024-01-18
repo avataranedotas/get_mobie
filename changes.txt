@@ -7135,3 +7135,13 @@ MCN-00013
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 60000
+
+2024-01-18 18:22:35
+OVR-00018
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 22
+PRT-00221
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 60
