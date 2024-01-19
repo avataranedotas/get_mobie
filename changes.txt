@@ -7209,3 +7209,11 @@ LSB-90099
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 20000
  OLD max_electric_power : 22000
+
+2024-01-19 14:37:58
+Adicionados:['VFX-00040']
+
+VFX-00040 --> EDP 38.974098 -8.980325 Vila Franca de Xira Rua Pery de Linde
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-19T14:37:42.904Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-19T14:37:42.904Z'}]
+Removidos:[]
