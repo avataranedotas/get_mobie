@@ -7217,3 +7217,19 @@ VFX-00040 --> EDP 38.974098 -8.980325 Vila Franca de Xira Rua Pery de Linde
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-19T14:37:42.904Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-19T14:37:42.904Z'}]
 Removidos:[]
+
+2024-01-19 15:19:12
+Adicionados:['LRA-00117', 'VIS-00058', 'VNF-00039']
+
+LRA-00117 --> FCT 39.8282450 -8.6826810 Leiria Rua Central nº 676
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-01-19T15:00:53.919Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-01-19T15:00:53.919Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-01-19T15:00:53.919Z'}]
+
+VIS-00058 --> GLG 40.642322 -7.863146 Viseu EN 16, Km 96,650 Alto do Caçador
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-01-19T15:11:12.885Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-01-19T15:11:12.885Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+
+VNF-00039 --> EDP 41.402190 -8.524194 Vila Nova de Famalicão Rua António Ferreira Magalhães
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-19T15:11:40.059Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-19T15:11:40.059Z'}]
+Removidos:[]
