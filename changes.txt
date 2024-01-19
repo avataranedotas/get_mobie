@@ -7159,3 +7159,35 @@ CSC-00146 --> EDP 38.716343 -9.440170 Cascais Rua das Tulipas
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-19T10:52:34.504Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-19T10:52:34.504Z'}]
 Removidos:[]
+
+2024-01-19 12:34:17
+Adicionados:['BTL-00006', 'FAR-00040', 'FAR-00041', 'LLE-00176', 'OLH-00039', 'PTM-00057']
+
+BTL-00006 --> ATL 39.6640357 -8.8253996 Batalha R. das Piscinas 76
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-19T11:49:51.300Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-19T11:49:51.300Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-19T11:49:51.300Z'}]
+
+FAR-00040 --> ATL 37.027106 -7.9506282 Faro Avenida José Maria Nunes E.N 125,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-19T11:47:52.523Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-19T11:47:52.523Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-19T11:47:52.523Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FAR-00041 --> ATL 37.0250753 -7.9271648 Faro Estrada da Penha - Urb. Horta Laranjas, LT 5
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-19T11:48:21.223Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-19T11:48:21.223Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-19T11:48:21.223Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LLE-00176 --> ATL 37.0900268 -8.0340257 Loulé R. Maria Campina 4-6,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-19T11:49:11.890Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-01-19T11:49:11.890Z'}]
+
+OLH-00039 --> ATL 37.0370382 -7.8343354 Olhão EN 125, Urbanização Patinha, Peares, Nº1,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2024-01-19T11:48:46.504Z', 'max_amperage': 125, 'max_electric_power': 30000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2024-01-19T11:48:46.504Z', 'max_amperage': 150, 'max_electric_power': 30000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-19T11:48:46.504Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PTM-00057 --> ATL 37.1344001 -8.5373737 Portimão R. Dom Carlos I 18A 20,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-19T11:49:33.405Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-01-19T11:49:33.405Z'}]
+Removidos:['BTL-00005', 'OLH-00006']
