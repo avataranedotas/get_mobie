@@ -7145,3 +7145,9 @@ PRT-00221
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 60
+
+2024-01-19 10:19:48
+VFX-00054
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 60
