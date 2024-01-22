@@ -7289,3 +7289,15 @@ VRS-80002 --> GLP 37.190654 -7.4141999 Vila Real de Santo António Av. Ministro 
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-04-04T12:20:22.826Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-04-04T12:20:22.827Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-22 22:15:47
+Adicionados:['LRS-80029', 'STB-80009']
+
+LRS-80029 --> GLP 38.7761001 -9.103767 Loures Rua Almirante Gago Coutinho
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:24:35.879Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:24:35.880Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+STB-80009 --> GLP 38.530987 -8.886267 Setúbal Praça do Brasil
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T19:38:55.390Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T19:38:55.391Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
