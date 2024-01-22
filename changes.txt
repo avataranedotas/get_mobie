@@ -7273,3 +7273,19 @@ LSB-80101
 evses -> 1: 
  NEW evse_id : PT*GLP*E*LSB*80101*2
  OLD evse_id : PT*GLP*E*LSB*90101*2
+
+2024-01-22 17:50:50
+Adicionados:['SBA-80001', 'SLV-80001', 'VRS-80002']
+
+SBA-80001 --> GLP 37.154409 -7.889941 São Brás de Alportel Praça da República
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-03-14T04:15:40.916Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-03-14T04:15:40.918Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+SLV-80001 --> GLP 37.103159 -8.3683333 Silves Avenida Beira Mar
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-06-12T15:51:02.814Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-06-12T15:51:02.815Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VRS-80002 --> GLP 37.190654 -7.4141999 Vila Real de Santo António Av. Ministro Duarte Pacheco, 46 
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-04-04T12:20:22.826Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-04-04T12:20:22.827Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
