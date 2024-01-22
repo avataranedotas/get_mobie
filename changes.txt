@@ -7233,3 +7233,11 @@ VNF-00039 --> EDP 41.402190 -8.524194 Vila Nova de Famalicão Rua António Ferre
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-19T15:11:40.059Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-19T15:11:40.059Z'}]
 Removidos:[]
+
+2024-01-22 11:38:10
+Adicionados:['RSD-00002']
+
+RSD-00002 --> EDP 41.108246 -7.956261 Resende Rua da Ermida, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-22T10:10:59.467Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-22T10:10:59.467Z'}]
+Removidos:[]
