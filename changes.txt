@@ -7333,3 +7333,13 @@ LRS-00090
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 160000
+
+2024-01-23 23:38:17
+ABF-00087
+coordinates: 
+ NEW longitude : -8.28350
+ OLD longitude : -8.283583
+ABF-00087
+: 
+ NEW coordinates : {'latitude': '37.130216', 'longitude': '-8.28350'}
+ OLD coordinates : {'latitude': '37.130216', 'longitude': '-8.283583'}
