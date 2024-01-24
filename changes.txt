@@ -7579,3 +7579,10 @@ LSB-80533 --> GLP 38.748489 -9.190375 Lisboa Rua Paulo Renato
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.992Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.994Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2024-01-24 18:21:32
+Adicionados:['PRT-00237']
+
+PRT-00237 --> GLP 41.161437 -8.628325 Porto Avenida de França
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2024-01-24T17:42:13.107Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2024-01-24T17:42:13.107Z'}]
+Removidos:['PRT-00183']
