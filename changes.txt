@@ -7353,3 +7353,118 @@ ABF-00087
 : 
  NEW address : Leroy Merlin Albufeira
  OLD address : N125 Km. 68
+
+2024-01-24 10:20:06
+Adicionados:['ALM-90014', 'AND-00008', 'AND-00009', 'BRG-00087', 'ESP-00013', 'ETZ-00027', 'EVR-00034', 'EVR-00035', 'LLE-00149', 'LSB-00662', 'OER-00219', 'OLH-00019', 'OLH-00027', 'PDL-00011', 'PRD-00017', 'PTG-00015', 'PVZ-00033', 'SBG-00003', 'TCS-00002', 'TMR-00027', 'TMR-00028', 'TMR-00031', 'VIZ-00008', 'VNG-00128', 'VNG-00149', 'VRL-00027']
+
+ALM-90014 --> EDP 38.61693 -9.21659 Almada Praia da Rainha
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-08T14:31:53.211Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-11-08T14:31:53.211Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+AND-00008 --> GLP 40.443035 -8.438496 Anadia Rua do Vale Santo	3780-202 Anadia
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-01-19T11:22:05.847Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-01-19T11:22:05.847Z'}]
+
+AND-00009 --> GLP 40.443035 -8.438496 Anadia Rua do Vale Santo	3780-202 Anadia
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-01-19T11:19:00.876Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-01-19T11:19:00.876Z'}]
+
+BRG-00087 --> EDP 41.54295 -8.39882 Braga R. Senra de Baixo, S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2023-12-07T15:10:58.709Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2023-12-07T15:10:58.709Z'}]
+
+ESP-00013 --> GLP 40.998189 -8.623194 Espinho Lugar de Sales
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:03:13.455Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-11T14:03:13.455Z'}]
+
+ETZ-00027 --> EDP 38.848339 -7.582984 Estremoz EM504 17
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T15:18:38.734Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-17T15:18:38.734Z'}]
+
+EVR-00034 --> LOG 38.568634 -7.912058 Évora Rua Raimundo 99 ABC
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T15:16:47.040Z'}]
+
+EVR-00035 --> LOG 38.568634 -7.912058 Évora Rua Raimundo 99 ABC
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-29T14:37:30.614Z'}]
+
+LLE-00149 --> HRZ 37.073263 -8.079782 Loulé Avenida da Fonte Santa, Fonte Santa
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-30T14:33:15.896Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2023-11-30T14:31:43.815Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2023-11-30T14:33:15.896Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2023-11-30T14:31:43.815Z'}]
+
+LSB-00662 --> ATL 38.7496394 -9.1165593 Lisboa Avenida Santo Condestável
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2023-11-07T10:07:54.827Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+OER-00219 --> GLP 38.700034 -9.3063576 Oeiras Avenida Engenheiro Álvaro Roquette Estrada
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2024-01-10T11:10:38.239Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 190, 'max_electric_power': 180000, 'last_updated': '2024-01-10T11:10:38.239Z'}]
+
+OLH-00019 --> TRK 37.035758 -7.836998 Olhão Rua João Augusto Saias, 10
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:14.613Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:14.613Z'}]
+
+OLH-00027 --> TRK 37.037556 -7.834635 Olhão Estrada de Quelfes, 33
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:08.683Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-01-03T15:03:08.683Z'}]
+
+PDL-00011 --> EDP 37.751528 -25.65124 Ponta Delgada McDonalds Ponta Delgada
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2023-10-03T11:39:56.553Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2023-10-03T11:39:56.553Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-03T11:39:56.553Z'}]
+
+PRD-00017 --> KLC 41.2315619 -8.4071893 Paredes Rotunda do Padrão,
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2023-09-18T11:15:07.405Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2023-09-18T11:15:07.405Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-09-18T11:15:07.405Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PTG-00015 --> KLC 39.2994121 -7.4287481 Portalegre Av. Mov. Forças Armadas C.C. Fontedeira
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-30T19:22:10.849Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 75, 'max_electric_power': 30000, 'last_updated': '2023-07-30T19:22:10.849Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-07-30T19:22:10.849Z'}]
+
+PVZ-00033 --> ECI 41.381011 -8.761225 Póvoa de Varzim Praça Marques do Pombal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T14:51:58.922Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-04T14:51:58.922Z'}]
+
+SBG-00003 --> GSF 40.358473 -6.968919 Sabugal Avenida de São Cristovão 144
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T13:14:26.907Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-27T13:14:26.907Z'}]
+
+TCS-00002 --> EDP 40.774716 -7.354502 Trancoso Rua Professora Irene Avilez. S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-13T08:39:00.488Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-10-13T08:39:00.488Z'}]
+
+TMR-00027 --> TRK 39.60902 -8.39595 Tomar Alameda 1º Março, 36
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-15T15:12:21.140Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-15T15:12:21.140Z'}]
+
+TMR-00028 --> TRK 39.60264 -8.41065 Tomar Parque Estacionamento do Mercado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:13:21.170Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:13:21.170Z'}]
+
+TMR-00031 --> TRK 39.60033 -8.41043 Tomar Rua do Rio Nabão, 9
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:18:47.944Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2023-12-21T14:18:47.944Z'}]
+
+VIZ-00008 --> ATL 41.393437 -8.3173545 Vizela N106 Km 1
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-24T11:07:06.224Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2023-11-24T11:07:06.224Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T11:07:06.224Z'}]
+
+VNG-00128 --> HRZ 41.076416 -8.601414 Vila Nova de Gaia R. Delfim Lima
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2023-11-24T14:22:12.915Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2023-11-24T14:22:12.915Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-11-24T14:22:12.915Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-11-24T14:22:12.915Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2023-11-24T14:22:12.915Z'}]
+
+VNG-00149 --> HGP 41.138303 -8.620983 Vila Nova de Gaia Cais de Gaia, 380
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2023-12-18T09:39:40.773Z'}]
+
+VRL-00027 --> EDP 41.293384 -7.707254 Vila Real Estrada Nacional 322, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-12T11:37:16.785Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-10-12T11:37:16.785Z'}]
+Removidos:[]
