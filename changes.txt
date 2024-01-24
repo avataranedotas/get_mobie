@@ -7535,3 +7535,11 @@ VIS-00097 --> ATL 40.652777 -7.913096 Viseu R. Mendonça,
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-24T11:47:15.494Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-24T11:47:15.494Z'}]
 Removidos:['ORQ-00003', 'STS-00017', 'VIS-00047']
+
+2024-01-24 15:19:30
+Adicionados:['PRT-00183']
+
+PRT-00183 --> KLC 41.063526 -8.5975363 Porto R. Dr. Carlos Costa 91
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-24T15:15:56.546Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-24T15:15:56.546Z'}]
+Removidos:[]
