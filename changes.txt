@@ -7343,3 +7343,13 @@ ABF-00087
 : 
  NEW coordinates : {'latitude': '37.130216', 'longitude': '-8.28350'}
  OLD coordinates : {'latitude': '37.130216', 'longitude': '-8.283583'}
+
+2024-01-24 01:20:44
+ABF-00086
+: 
+ NEW address : Leroy Merlin Albufeira
+ OLD address : N125 Km. 68
+ABF-00087
+: 
+ NEW address : Leroy Merlin Albufeira
+ OLD address : N125 Km. 68
