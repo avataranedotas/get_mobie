@@ -7563,3 +7563,19 @@ LSB-80532 --> GLP 38.729161 -9.123114 Lisboa Parada Alto de São João
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:59:05.158Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:59:05.159Z', 'max_amperage': 16, 'max_electric_power': 3700}]
 Removidos:[]
+
+2024-01-24 16:42:21
+Adicionados:['LSB-80020', 'LSB-80533']
+
+LSB-80020 --> GLP 38.748489 -9.190375 Lisboa Rua Paulo Renato
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.988Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.990Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.992Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.994Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+LSB-80533 --> GLP 38.748489 -9.190375 Lisboa Rua Paulo Renato
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.988Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.990Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.992Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-01-13T17:55:31.994Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+Removidos:[]
