@@ -7597,3 +7597,11 @@ TNV-00020 --> EDP 39.470699 -8.541465 Torres Novas Av. Xanana Gusmão
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-25T11:45:15.850Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-25T11:45:15.850Z'}]
 Removidos:[]
+
+2024-01-25 15:19:22
+Adicionados:['ORM-00017']
+
+ORM-00017 --> EDP 39.633943 -8.683723 Ourém Rotunda dos Peregrinos
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-25T14:41:18.569Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-25T14:41:18.569Z'}]
+Removidos:[]
