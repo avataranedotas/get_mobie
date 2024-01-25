@@ -7605,3 +7605,11 @@ ORM-00017 --> EDP 39.633943 -8.683723 Ourém Rotunda dos Peregrinos
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-25T14:41:18.569Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-25T14:41:18.569Z'}]
 Removidos:[]
+
+2024-01-25 16:24:22
+Adicionados:['LRA-00114']
+
+LRA-00114 --> EDP 39.899986 -8.826248 Leiria Rua Doutor Luis Pereira da Costa Nº 81
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-25T16:04:39.842Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-25T16:04:39.842Z'}]
+Removidos:['ARV-00004']
