@@ -7637,3 +7637,14 @@ PMS-00011 --> EDP 39.639887 -8.844562 Porto de Mós AV. D. NUNO ÁVARES PREREIRA
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:04:57.478Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:04:57.478Z'}]
 Removidos:[]
+
+2024-01-26 15:38:50
+Adicionados:['OBD-00024']
+
+OBD-00024 --> HRZ 39.3754834 -9.1386150 Óbidos Estrada Nacional 8, Rua do Casadinho, nº1, 25
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
+Removidos:[]
