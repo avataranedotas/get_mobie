@@ -7613,3 +7613,11 @@ LRA-00114 --> EDP 39.899986 -8.826248 Leiria Rua Doutor Luis Pereira da Costa NÂ
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-25T16:04:39.842Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-01-25T16:04:39.842Z'}]
 Removidos:['ARV-00004']
+
+2024-01-26 10:38:25
+Adicionados:['MTJ-00043']
+
+MTJ-00043 --> EDP 38.708749 -8.975266 Montijo Av. Dom Afonso Henriques 32
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-26T10:37:27.005Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-26T10:37:27.005Z'}]
+Removidos:[]
