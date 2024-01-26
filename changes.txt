@@ -7648,3 +7648,11 @@ OBD-00024 --> HRZ 39.3754834 -9.1386150 Óbidos Estrada Nacional 8, Rua do Casad
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-01-26T15:11:17.263Z'}]
 Removidos:[]
+
+2024-01-26 16:21:26
+Adicionados:['TBR-00005']
+
+TBR-00005 --> EDP 41.707768 -8.168524 Terras de Bouro Rua Costa Banga, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:46:49.865Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:46:49.865Z'}]
+Removidos:[]
