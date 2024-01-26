@@ -7629,3 +7629,11 @@ MTJ-00044 --> EDP 38.708749 -8.975266 Montijo Av. Dom Afonso Henriques 32
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-26T10:40:08.218Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-26T10:40:08.218Z'}]
 Removidos:[]
+
+2024-01-26 15:17:11
+Adicionados:['PMS-00011']
+
+PMS-00011 --> EDP 39.639887 -8.844562 Porto de Mós AV. D. NUNO ÁVARES PREREIRA, N.120
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:04:57.478Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-26T15:04:57.478Z'}]
+Removidos:[]
