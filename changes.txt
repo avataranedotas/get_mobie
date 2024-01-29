@@ -7741,3 +7741,45 @@ OVR-00015 --> HRZ 40.8643479 -8.6084484 Ovar Rua Machado de Santos nº109/135
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-29T14:17:20.270Z', 'max_amperage': 125, 'max_electric_power': 60000}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T14:17:20.270Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-01-29 15:16:33
+OVR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+OVR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+OVR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+OVR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+OVR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000
+OVR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+OVR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+OVR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+OVR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 32
+OVR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
