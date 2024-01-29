@@ -7671,3 +7671,60 @@ BCL-00027 --> IOY 41.605470 -8.551002 Barcelos Área de Serviço de Barcelos N/S
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-29T10:13:08.000Z', 'max_electric_power': 350000}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-29T10:13:08.000Z', 'max_electric_power': 350000}]
 Removidos:[]
+
+2024-01-29 10:37:55
+Adicionados:['CHM-00005', 'FAR-80008', 'GMR-00115', 'GMR-00116', 'GMR-00117', 'GMR-00120', 'GMR-70012', 'LRS-00103', 'LSB-00689', 'PTM-00050', 'TVR-00021', 'TVR-00022']
+
+CHM-00005 --> ATL 39.3685184 -8.4711982 Chamusca R. Direita de São Pedro Km 99,78
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:32:40.897Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:32:40.897Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-29T10:32:40.897Z'}]
+
+FAR-80008 --> ATL 37.012269 -7.932681 Faro Largo de S. Francisco
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T10:34:33.288Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T10:34:33.288Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GMR-00115 --> ATL 41.448042 -8.298205 Guimarães Rua Teixeira de Pascoais
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:34:44.032Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:34:44.032Z'}]
+
+GMR-00116 --> ATL 41.447802 -8.2984402 Guimarães Rua Teixeira de Pascoais
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 800, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:35:04.084Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 800, 'max_amperage': 350, 'max_electric_power': 150000, 'last_updated': '2024-01-29T10:35:04.084Z'}]
+
+GMR-00117 --> ATL 41.448192 -8.298083 Guimarães Rua Teixeira de Pascoais
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:35:42.139Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:35:42.139Z'}]
+
+GMR-00120 --> ATL 41.447932 -8.29835 Guimarães Rua Teixeira de Pascoais
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:35:21.349Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:35:21.349Z'}]
+
+GMR-70012 --> ATL 41.4413001 -8.3042667 Guimarães Alameda Mariano Felgueiras
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 30, 'max_electric_power': 7400, 'last_updated': '2024-01-29T10:34:17.952Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 30, 'max_electric_power': 7400, 'last_updated': '2024-01-29T10:34:17.952Z'}]
+
+LRS-00103 --> ATL 38.7978661 -9.1150275 Loures Rua Marechal António de Spínola
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:31:58.945Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:31:58.945Z'}]
+
+LSB-00689 --> ATL 38.72172 -9.13880 Lisboa Lgo do Mastro 29B,
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-29T10:35:54.451Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-29T10:35:54.451Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-29T10:35:54.451Z'}]
+
+PTM-00050 --> ATL 37.133995 -8.591067 Portimão Rua Zózimo de Alvor Urbanização S. Pedro
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T10:32:24.822Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:32:24.822Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:32:24.822Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+TVR-00021 --> ATL 37.123309 -7.659869 Tavira E.N. 125,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:32:55.712Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:32:55.712Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T10:32:55.712Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+TVR-00022 --> ATL 37.12652 -7.644986 Tavira M514 Rua Silva Domingues,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:34:03.248Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-29T10:34:03.248Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-29T10:34:03.248Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['CHM-00004', 'LSB-00615']
