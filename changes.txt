@@ -7663,3 +7663,11 @@ Adicionados:['GDM-00045']
 GDM-00045 --> CPS 41.165703 -8.544065 Gondomar AV. CARVALHA, 662
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-01-23T14:35:02.468Z'}]
 Removidos:[]
+
+2024-01-29 10:18:18
+Adicionados:['BCL-00027']
+
+BCL-00027 --> IOY 41.605470 -8.551002 Barcelos Área de Serviço de Barcelos N/S, A3 Km 56.4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-29T10:13:08.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-29T10:13:08.000Z', 'max_electric_power': 350000}]
+Removidos:[]
