@@ -7798,3 +7798,15 @@ ETR-00013 --> EDP 38.835216 -7.682042 Estarreja Estrada N109 741
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-01-30T11:35:56.338Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-01-30T11:35:56.338Z'}]
 Removidos:[]
+
+2024-01-30 14:38:06
+Adicionados:['PVZ-00038', 'PVZ-00039']
+
+PVZ-00038 --> EDP 41.391475 -8.773494 Póvoa de Varzim Rua da Imprensa Regional, 90
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-30T14:34:16.902Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-30T14:34:16.902Z'}]
+
+PVZ-00039 --> EDP 41.391475 -8.773494 Póvoa de Varzim Rua da Imprensa Regional, 90
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-30T14:27:21.608Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-30T14:27:21.608Z'}]
+Removidos:[]
