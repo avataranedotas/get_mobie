@@ -7829,3 +7829,45 @@ ADV-00018 --> IOY 37.536329 -8.182924 Almodôvar Área de Serviço de Almodôvar
 LRA-00115 --> IOY 39.712783 -8.711451 Leiria Area de servicio Cepsa, A1 - Sublanço Fátima
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:36:57.000Z', 'max_electric_power': 350000}]
 Removidos:[]
+
+2024-01-30 16:21:15
+Adicionados:['ADV-00017', 'ALB-00019', 'BCL-00028', 'CTB-00037', 'CTB-00038', 'ETZ-00025', 'ETZ-00026', 'LRA-00116']
+
+ADV-00017 --> IOY 37.535858 -8.184742 Almodôvar Área de Serviço de Almodôvar N/S, km 193 A2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:15:59.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:15:59.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:15:59.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:15:59.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:15:59.000Z', 'max_electric_power': 350000}]
+
+ALB-00019 --> IOY 40.677898 -8.472228 Albergaria-a-Velha N1-IC2 Km245,5 – Cavada Nova
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:18.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:18.000Z', 'max_electric_power': 350000}]
+
+BCL-00028 --> IOY 41.604243 -8.549764 Barcelos Área de Serviço de Barcelos S/N, A3 Km 56.4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:05:50.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:05:50.000Z', 'max_electric_power': 350000}]
+
+CTB-00037 --> IOY 39.887759 -7.488116 Castelo Branco Cepsa Castelo Branco Oeste (N-S), A23
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:08:38.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:08:38.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:08:38.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:08:38.000Z', 'max_electric_power': 350000}]
+
+CTB-00038 --> IOY 39.888322 -7.486825 Castelo Branco Cepsa Castelo Branco Leste (S-N), A23
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:10.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:10.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:10.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:00:10.000Z', 'max_electric_power': 350000}]
+
+ETZ-00025 --> IOY 38.800411 -7.661351 Estremoz Area de servicio, Cepsa Estremoz Norte
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:50:44.000Z', 'max_electric_power': 350000}]
+
+ETZ-00026 --> IOY 38.799534 -7.659698 Estremoz Area de servicio, Cepsa Estremoz Sul
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:45:23.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:45:23.000Z', 'max_electric_power': 350000}]
+
+LRA-00116 --> IOY 39.712916 -8.709630 Leiria Area de servicio Cepsa, A1 - Sublanço Fátima
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:18:29.000Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:18:29.000Z', 'max_electric_power': 350000}]
+Removidos:[]
