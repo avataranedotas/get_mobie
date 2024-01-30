@@ -7819,3 +7819,13 @@ VGS-00009 --> REP 40.509093 -8.667309 Vagos A17-NO DA PONTE VAGOS-POENTE
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-30T14:30:18.921Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-30T14:30:18.921Z'}]
 Removidos:[]
+
+2024-01-30 15:37:58
+Adicionados:['ADV-00018', 'LRA-00115']
+
+ADV-00018 --> IOY 37.536329 -8.182924 Almodôvar Área de Serviço de Almodôvar S/N, km 193 A2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:36:02.000Z', 'max_electric_power': 350000}]
+
+LRA-00115 --> IOY 39.712783 -8.711451 Leiria Area de servicio Cepsa, A1 - Sublanço Fátima
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T15:36:57.000Z', 'max_electric_power': 350000}]
+Removidos:[]
