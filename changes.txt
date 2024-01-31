@@ -7877,3 +7877,11 @@ GDM-00045
 : 
  NEW address : CEPSA GONDOMAR - AV. CARVALHA, 662
  OLD address : AV. CARVALHA, 662
+
+2024-01-31 11:13:38
+Adicionados:['MTA-00016']
+
+MTA-00016 --> EDP 38.649200 -8.999600 Moita Estrada Nacional 11 - Fonte da Prata 11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T10:37:58.384Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T10:37:58.384Z'}]
+Removidos:[]
