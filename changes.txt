@@ -7905,3 +7905,24 @@ Removidos:[]
 2024-01-31 16:20:08
 Adicionados:[]
 Removidos:['CPR-00002', 'GMR-00002']
+
+2024-01-31 19:12:30
+Adicionados:['LSB-00696', 'LSB-00697', 'LSB-00698', 'LSB-00699', 'VGS-00010']
+
+LSB-00696 --> GLP 38.726546 -9.155526 Lisboa Rua Castilho 149, 1099-034 Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-25T12:09:00.416Z'}]
+
+LSB-00697 --> GLP 38.726546 -9.155526 Lisboa Rua Castilho 149, 1099-034 Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-25T12:01:43.935Z'}]
+
+LSB-00698 --> GLP 38.72654 -9.155526 Lisboa Rua Castilho 149, 1099-034 Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-25T11:53:14.210Z'}]
+
+LSB-00699 --> GLP 38.72654 -9.155526 Lisboa Rua Castilho 149, 1099-034 Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-01-25T11:40:12.405Z'}]
+
+VGS-00010 --> REP 40.507326 -8.667452 Vagos A17-NO DA PONTE VAGOS, NASCENTE
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-01-30T14:33:15.086Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-01-30T14:33:15.086Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-30T14:33:15.086Z'}]
+Removidos:[]
