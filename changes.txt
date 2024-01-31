@@ -7901,3 +7901,7 @@ OHP-00015 --> KLS 40.356972 -7.856194 Oliveira do Hospital Rua Comendador Manuel
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T14:41:09.074Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T14:41:09.074Z'}]
 Removidos:[]
+
+2024-01-31 16:20:08
+Adicionados:[]
+Removidos:['CPR-00002', 'GMR-00002']
