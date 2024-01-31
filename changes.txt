@@ -7871,3 +7871,9 @@ LRA-00116 --> IOY 39.712916 -8.709630 Leiria Area de servicio Cepsa, A1 - Sublan
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:18:29.000Z', 'max_electric_power': 350000}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-01-30T16:18:29.000Z', 'max_electric_power': 350000}]
 Removidos:[]
+
+2024-01-31 10:18:11
+GDM-00045
+: 
+ NEW address : CEPSA GONDOMAR - AV. CARVALHA, 662
+ OLD address : AV. CARVALHA, 662
