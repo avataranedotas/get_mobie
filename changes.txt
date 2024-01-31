@@ -7885,3 +7885,11 @@ MTA-00016 --> EDP 38.649200 -8.999600 Moita Estrada Nacional 11 - Fonte da Prata
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T10:37:58.384Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-01-31T10:37:58.384Z'}]
 Removidos:[]
+
+2024-01-31 14:15:20
+Adicionados:['GRD-00027']
+
+GRD-00027 --> PRI 40.55236 -7.24887 Guarda Av. de São Miguel 13a
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-01-31T14:15:01.336Z', 'max_amperage': 120, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-01-31T14:15:01.336Z', 'max_amperage': 200, 'max_electric_power': 90000}]
+Removidos:[]
