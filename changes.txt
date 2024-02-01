@@ -7994,3 +7994,11 @@ CSC-00162
 : 
  NEW coordinates : {'latitude': '38.7194221', 'longitude': '-9.3396249'}
  OLD coordinates : {'latitude': '38.733644', 'longitude': '-9.140048'}
+
+2024-02-01 15:38:09
+Adicionados:['STS-00018']
+
+STS-00018 --> EDP 41.362265 -8.394517 Santo Tirso CALÇADA AZENHA DO PISCO, Nº 223
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T15:24:48.658Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T15:24:48.658Z'}]
+Removidos:[]
