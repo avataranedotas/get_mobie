@@ -8002,3 +8002,29 @@ STS-00018 --> EDP 41.362265 -8.394517 Santo Tirso CALÇADA AZENHA DO PISCO, Nº 
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T15:24:48.658Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T15:24:48.658Z'}]
 Removidos:[]
+
+2024-02-01 17:37:48
+STB-00076
+coordinates: 
+ NEW latitude : 38.53753
+ OLD latitude : 38,53753
+STB-00076
+coordinates: 
+ NEW longitude : -8.876342
+ OLD longitude : -8,876342
+STB-00076
+: 
+ NEW coordinates : {'latitude': '38.53753', 'longitude': '-8.876342'}
+ OLD coordinates : {'latitude': '38,53753', 'longitude': '-8,876342'}
+STB-00077
+coordinates: 
+ NEW latitude : 38.53753
+ OLD latitude : 38,53753
+STB-00077
+coordinates: 
+ NEW longitude : -8.876342
+ OLD longitude : -8,876342
+STB-00077
+: 
+ NEW coordinates : {'latitude': '38.53753', 'longitude': '-8.876342'}
+ OLD coordinates : {'latitude': '38,53753', 'longitude': '-8,876342'}
