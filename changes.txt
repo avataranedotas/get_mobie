@@ -7974,3 +7974,23 @@ STB-00077 --> HLX 38,53753 -8,876342 Setúbal  Av. Antero de Quental 2
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:58:42.651Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:58:42.651Z'}]
 Removidos:[]
+
+2024-02-01 14:15:51
+Adicionados:['ABF-00062']
+
+ABF-00062 --> IBD 37.0804692 -8.2873056 Albufeira Estrada das Sesmarias
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-01T14:14:56.422Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-01T14:14:56.422Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+CSC-00162
+coordinates: 
+ NEW latitude : 38.7194221
+ OLD latitude : 38.733644
+CSC-00162
+coordinates: 
+ NEW longitude : -9.3396249
+ OLD longitude : -9.140048
+CSC-00162
+: 
+ NEW coordinates : {'latitude': '38.7194221', 'longitude': '-9.3396249'}
+ OLD coordinates : {'latitude': '38.733644', 'longitude': '-9.140048'}
