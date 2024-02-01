@@ -7957,3 +7957,20 @@ VNG-00159 --> REP 41.085263 -8.619112 Vila Nova de Gaia A29 (S/N) sub-lanco IC1/
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-01T11:29:00.825Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:29:00.825Z'}]
 Removidos:[]
+
+2024-02-01 12:31:00
+Adicionados:['CSC-00162', 'STB-00076', 'STB-00077']
+
+CSC-00162 --> HRZ 38.733644 -9.140048 Cascais Rua do Funchal, 2,2785-259
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-01T12:24:58.460Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T12:24:58.460Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2024-02-01T12:24:58.460Z'}]
+
+STB-00076 --> HLX 38,53753 -8,876342 Setúbal  Av. Antero de Quental 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-02-01T11:54:25.089Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-02-01T11:54:25.089Z'}]
+
+STB-00077 --> HLX 38,53753 -8,876342 Setúbal  Av. Antero de Quental 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:58:42.651Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:58:42.651Z'}]
+Removidos:[]
