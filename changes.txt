@@ -7939,3 +7939,21 @@ VNG-00158 --> REP 41.084366 -8.619093 Vila Nova de Gaia A29 (N/S) sub-lanco IC1/
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-01T10:54:44.431Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T10:54:44.431Z'}]
 Removidos:[]
+
+2024-02-01 11:37:57
+Adicionados:['TMR-00039', 'TMR-00040', 'TMR-00041', 'VNG-00159']
+
+TMR-00039 --> EDP 39.604320 -8.410150 Tomar R. Santa Iria, 8
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-01T11:23:31.293Z'}]
+
+TMR-00040 --> EDP 39.604320 -8.410150 Tomar R. Santa Iria, 8
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-01T11:24:43.348Z'}]
+
+TMR-00041 --> EDP 39.604320 -8.410150 Tomar R. Santa Iria, 8
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-01T11:27:22.375Z'}]
+
+VNG-00159 --> REP 41.085263 -8.619112 Vila Nova de Gaia A29 (S/N) sub-lanco IC1/IP1, km 0.6
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-01T11:29:00.825Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-01T11:29:00.825Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-01T11:29:00.825Z'}]
+Removidos:[]
