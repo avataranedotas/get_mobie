@@ -8078,3 +8078,7 @@ PRT-00229 --> ATL 41.1783086 -8.6550969 Porto Estr. da Circunvalação 12 843,
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-02T14:26:18.892Z', 'max_amperage': 100, 'max_electric_power': 30000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-02T14:26:18.892Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['LSB-90049']
+
+2024-02-02 15:17:10
+Adicionados:[]
+Removidos:['ACB-00007', 'AJT-00009']
