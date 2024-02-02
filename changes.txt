@@ -8036,3 +8036,36 @@ STB-00078 --> HLX 38.53753 -8.876342 Setúbal  Av. Antero de Quental 2
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-02T09:40:07.109Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-02T09:40:07.109Z'}]
 Removidos:[]
+
+2024-02-02 14:15:34
+Adicionados:['AGB-80001', 'LLE-00164', 'LLE-00169', 'LLE-00171', 'LNH-00011', 'LNH-00012', 'VLG-00034']
+
+AGB-80001 --> ATL 40.8179452 -7.5413015 Aguiar da Beira Av. dos Combatentes do Ultramar
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-02T14:06:10.678Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-02T14:06:10.678Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LLE-00164 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-02T14:07:25.321Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-02-02T14:07:25.321Z'}]
+
+LLE-00169 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-02T14:11:03.282Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-02T14:11:03.282Z'}]
+
+LLE-00171 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-02T14:09:37.745Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-02T14:09:37.745Z'}]
+
+LNH-00011 --> ATL 39.244284 -9.313484 Lourinhã Av. António José de Almeida 19-15
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-02T14:08:22.757Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-02T14:08:22.757Z'}]
+
+LNH-00012 --> ATL 39.239295 -9.309598 Lourinhã R. Eng. Adelino Amaro da Costa
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-02T14:12:03.077Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-02T14:12:03.077Z'}]
+
+VLG-00034 --> ATL 41.201904 -8.50662 Valongo Lugar Campo Barreiro, Susão, R. Dom Pedro IV
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-02T14:04:18.961Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-02T14:04:18.961Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-02T14:04:18.961Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
