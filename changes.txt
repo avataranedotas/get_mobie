@@ -8028,3 +8028,11 @@ STB-00077
 : 
  NEW coordinates : {'latitude': '38.53753', 'longitude': '-8.876342'}
  OLD coordinates : {'latitude': '38,53753', 'longitude': '-8,876342'}
+
+2024-02-02 10:18:13
+Adicionados:['STB-00078']
+
+STB-00078 --> HLX 38.53753 -8.876342 Setúbal  Av. Antero de Quental 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-02T09:40:07.109Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-02T09:40:07.109Z'}]
+Removidos:[]
