@@ -8091,3 +8091,7 @@ SNT-00138 --> HRZ 38.7803580 -9.3534294 Sintra Av. Raul Solnado 23 23A
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-05T14:34:15.388Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-02-05T14:34:15.388Z'}]
 Removidos:[]
+
+2024-02-05 19:15:03
+Adicionados:[]
+Removidos:['ADV-00008', 'ADV-00009', 'ADV-00010', 'ADV-00011', 'ADV-00012', 'ADV-00013', 'ADV-00014', 'ADV-00015', 'CTB-00019', 'CTB-00020', 'CTB-00021', 'CTB-00022', 'CTB-00023', 'CTB-00024', 'CTB-00025', 'CTB-00026']
