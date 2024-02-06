@@ -8150,3 +8150,41 @@ ALM-00084 --> GLP 38.630377 -9.176507 Almada ESTRADA QUINTA DA CARCEREIRA S/N VA
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T14:26:58.097Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-02-06T14:26:58.097Z'}]
 Removidos:[]
+
+2024-02-06 15:38:08
+Adicionados:['OER-00193', 'OER-00194', 'OER-00196', 'OER-00198', 'OER-00199', 'OER-00203', 'OER-00206', 'OER-00209', 'OER-00212', 'OER-00213', 'SNT-00129']
+
+OER-00193 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:19:00.615Z'}]
+
+OER-00194 --> KLS 38.741306 -9.302067 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:19:55.807Z'}]
+
+OER-00196 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:17:27.658Z'}]
+
+OER-00198 --> KLS 38.741306 -9.302067 Oeiras Av. Dr. Jacques Delors
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:20:24.918Z'}]
+
+OER-00199 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:19:33.809Z'}]
+
+OER-00203 --> KLS 38.7408878 -9.3024368 Oeiras Avenida Jacques Delors 3B
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:20:56.877Z'}]
+
+OER-00206 --> KLS 38.7408878 -9.3024368 Oeiras Avenida Jacques Delors 3B
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:21:42.005Z'}]
+
+OER-00209 --> KLS 38.7408878 -9.3024368 Oeiras Avenida Jacques Delors 3B
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:21:16.185Z'}]
+
+OER-00212 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2024-02-06T15:22:28.357Z'}]
+
+OER-00213 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2024-02-06T15:22:06.374Z'}]
+
+SNT-00129 --> KLS 38.758436 -9.380988 Sintra Av. Pedro Alvares Cabral
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:22:54.375Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T15:22:54.375Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
