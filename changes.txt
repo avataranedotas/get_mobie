@@ -8188,3 +8188,72 @@ SNT-00129 --> KLS 38.758436 -9.380988 Sintra Av. Pedro Alvares Cabral
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T15:22:54.375Z'}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T15:22:54.375Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-02-06 17:14:56
+Adicionados:['ALQ-00015', 'ESP-00011', 'FAR-00039', 'LOU-00005', 'LRA-80004', 'MTS-00149', 'MTS-00150', 'MTS-00151', 'MTS-00152', 'NZR-00031', 'NZR-00035', 'OER-00197', 'SLV-00012', 'VFR-00081', 'VNG-00144']
+
+ALQ-00015 --> ATL 39.0266814 -8.9807458 Alenquer Quinta do Poço, Guizandeira
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:05:52.261Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2024-02-06T17:05:52.261Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:05:52.261Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+ESP-00011 --> ATL 41.0020703 -8.6402206 Espinho R. 20 1286,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:06:10.241Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:06:10.241Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:06:10.241Z'}]
+
+FAR-00039 --> ATL 37.0276289 -7.9679667 Faro N125 10,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:06:50.277Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:06:50.277Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:06:50.277Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LOU-00005 --> ATL 41.270201 -8.2880999 Lousada Rua de Santo André
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:10:23.961Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:10:23.961Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-02-06T17:10:23.961Z'}]
+
+LRA-80004 --> ATL 39.7516001 -8.80917 Leiria Avenida 22 de Maio
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:08:16.353Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:08:16.353Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MTS-00149 --> ATL 41.174658 -8.687685 Matosinhos R. Dr. Manuel Rodrigues de Sousa 92
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:08:36.596Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-06T17:08:36.596Z'}]
+
+MTS-00150 --> ATL 41.174677 -8.687469 Matosinhos R. Dr. Manuel Rodrigues de Sousa 92
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:10:01.210Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-06T17:10:01.210Z'}]
+
+MTS-00151 --> ATL 41.174666 -8.68758 Matosinhos R. Dr. Manuel Rodrigues de Sousa 92
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:08:58.666Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-06T17:08:58.666Z'}]
+
+MTS-00152 --> ATL 41.174653 -8.687745 Matosinhos R. Dr. Manuel Rodrigues de Sousa 92
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:09:41.353Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-02-06T17:09:41.353Z'}]
+
+NZR-00031 --> ATL 39.596858 -9.071444 Nazaré Av. Do Município
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:14:01.509Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:14:01.509Z'}]
+
+NZR-00035 --> ATL 39.588788 -9.07439 Nazaré Av. Manuel Remígio - Parque de Estacionamento
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:14:27.095Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:14:27.095Z'}]
+
+OER-00197 --> KLS 38.7394527 -9.3039625 Oeiras Av. Prof. Dr. Cavaco Silva
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:05:08.509Z'}]
+
+SLV-00012 --> ATL 37.106297 -8.359473 Silves Lugar da Torre, Lote C1
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:30.794Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:07:30.794Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:07:30.794Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VFR-00081 --> ATL 40.9855695 -8.5901032 Santa Maria da Feira R. Valado
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:12.232Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:07:12.232Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-06T17:07:12.232Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+VNG-00144 --> ATL 41.137462 -8.632254 Vila Nova de Gaia Rua 28 de Janeiro 350
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:47.387Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:47.387Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['ALQ-00012', 'ESP-00009']
