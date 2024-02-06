@@ -8107,3 +8107,37 @@ LGS-00031 --> KLS 37.100086 -8.683575 Lagos Lugar da Pedra Alýada - Ameijeira V
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T10:09:23.638Z'}]
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T10:09:23.638Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['VCT-00015']
+
+2024-02-06 14:15:53
+PVZ-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00033
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
+PVZ-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 120000
