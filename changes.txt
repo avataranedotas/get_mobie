@@ -8095,3 +8095,15 @@ Removidos:[]
 2024-02-05 19:15:03
 Adicionados:[]
 Removidos:['ADV-00008', 'ADV-00009', 'ADV-00010', 'ADV-00011', 'ADV-00012', 'ADV-00013', 'ADV-00014', 'ADV-00015', 'CTB-00019', 'CTB-00020', 'CTB-00021', 'CTB-00022', 'CTB-00023', 'CTB-00024', 'CTB-00025', 'CTB-00026']
+
+2024-02-06 10:18:36
+Adicionados:['CBR-00097', 'LGS-00031']
+
+CBR-00097 --> KLS 40.210094 -8.453217 Coimbra Rua da Misericýrdia, Lagar dos Cortiýos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T10:09:09.314Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T10:09:09.314Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LGS-00031 --> KLS 37.100086 -8.683575 Lagos Lugar da Pedra Alýada - Ameijeira Verde
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T10:09:23.638Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T10:09:23.638Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['VCT-00015']
