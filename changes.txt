@@ -8257,3 +8257,24 @@ VNG-00144 --> ATL 41.137462 -8.632254 Vila Nova de Gaia Rua 28 de Janeiro 350
 [{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:47.387Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-06T17:07:47.387Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['ALQ-00012', 'ESP-00009']
+
+2024-02-06 17:37:57
+Adicionados:['ORM-00018', 'PVZ-00041']
+
+ORM-00018 --> ATL 39.6240461 -8.66222 Ourém Av. Irmã Lúcia de Jesus 356,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:15:30.241Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-02-06T17:15:30.241Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-06T17:15:30.241Z'}]
+
+PVZ-00041 --> ATL 41.378654 -8.739915 Póvoa de Varzim Lugar da Gandra-Argivai
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:15:07.148Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T17:15:07.148Z'}]
+Removidos:['ORM-00008']
+VNG-00122
+: 
+ NEW address : Rua da Bélgica 86
+ OLD address : Rua da Béligca 86
+VNG-00123
+: 
+ NEW address : Rua da Bélgica 86
+ OLD address : Rua da Béligca 86
