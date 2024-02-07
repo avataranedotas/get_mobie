@@ -8338,3 +8338,31 @@ STB-00080 --> EDP 38.530523 -8.901851 Setúbal R. Irene Lisboa 15
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T13:43:20.950Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T13:43:20.950Z'}]
 Removidos:[]
+
+2024-02-07 16:22:32
+Adicionados:['AJZ-00005', 'AVV-00011', 'CSC-90001', 'MLD-00015', 'SNT-90001', 'VFX-00073']
+
+AJZ-00005 --> EDP 37.339593 -8.812697 Aljezur Aldeia Velha 70
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T16:06:15.037Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T16:06:15.037Z'}]
+
+AVV-00011 --> EVC 41.850767 -8.423483 Arcos de Valdevez Pct Dr. Joaquim Carlos da Cunha Cerqueira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T15:45:00.297Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T15:45:00.297Z'}]
+
+CSC-90001 --> EDP 38.694608 -9.420383 Cascais Avenida Dom Carlos I
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.512Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.512Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MLD-00015 --> EDP 40.383600 -8.442083 Mealhada TRAVESSA CHURRASQUEIRA S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T15:49:53.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T15:49:53.823Z'}]
+
+SNT-90001 --> EDP 38.798507 -9.386674 Sintra Avenida Doutor Miguel Bombarda
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.536Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.536Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFX-00073 --> GLP 38.914707 -9.027756 Vila Franca de Xira Rua 4 de Junho
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-02-07T16:15:56.560Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-02-07T16:15:56.560Z'}]
+Removidos:[]
