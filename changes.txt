@@ -8278,3 +8278,11 @@ VNG-00123
 : 
  NEW address : Rua da Bélgica 86
  OLD address : Rua da Béligca 86
+
+2024-02-07 09:38:08
+Adicionados:['LRS-00114']
+
+LRS-00114 --> EDP 38.786147 -9.117150 Loures R. Vasco da Gama 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T09:22:24.182Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T09:22:24.182Z'}]
+Removidos:[]
