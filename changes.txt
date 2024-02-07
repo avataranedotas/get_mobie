@@ -8294,3 +8294,15 @@ FLG-00010 --> GLG 41.366704 -8.201061 Felgueiras AV. AGOSTINHO RIBEIRO - MARGARI
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-02-07T10:07:24.665Z', 'max_amperage': 200, 'max_electric_power': 120000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-02-07T10:07:24.665Z', 'max_amperage': 200, 'max_electric_power': 120000}]
 Removidos:[]
+
+2024-02-07 11:14:31
+Adicionados:['MCV-00003', 'MCV-00004']
+
+MCV-00003 --> EDP 40.0838701 -8.3349214 Miranda do Corvo Quinta da Paiva
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T10:44:56.660Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-07T10:44:56.660Z'}]
+
+MCV-00004 --> EDP 40.0838701 -8.3349214 Miranda do Corvo Quinta da Paiva
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T10:51:02.492Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T10:51:02.492Z'}]
+Removidos:[]
