@@ -8306,3 +8306,15 @@ MCV-00004 --> EDP 40.0838701 -8.3349214 Miranda do Corvo Quinta da Paiva
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T10:51:02.492Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T10:51:02.492Z'}]
 Removidos:[]
+
+2024-02-07 11:38:09
+Adicionados:['CPR-90002', 'OER-00221']
+
+CPR-90002 --> HRZ 40.0049417 -8.2119416 Elvas Av. de Garcia da Orta
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-11T10:42:08.563Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+OER-00221 --> EDP 38.699312 -9.304083 Oeiras Rua José Malhoa 27
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T11:33:31.167Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T11:33:31.167Z'}]
+Removidos:[]
