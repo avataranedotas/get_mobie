@@ -8286,3 +8286,11 @@ LRS-00114 --> EDP 38.786147 -9.117150 Loures R. Vasco da Gama 4
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T09:22:24.182Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-07T09:22:24.182Z'}]
 Removidos:[]
+
+2024-02-07 10:18:30
+Adicionados:['FLG-00010']
+
+FLG-00010 --> GLG 41.366704 -8.201061 Felgueiras AV. AGOSTINHO RIBEIRO - MARGARIDE
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-02-07T10:07:24.665Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 950, 'last_updated': '2024-02-07T10:07:24.665Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+Removidos:[]
