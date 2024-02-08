@@ -8366,3 +8366,11 @@ VFX-00073 --> GLP 38.914707 -9.027756 Vila Franca de Xira Rua 4 de Junho
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-02-07T16:15:56.560Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-02-07T16:15:56.560Z'}]
 Removidos:[]
+
+2024-02-08 10:37:51
+Adicionados:['STB-00066']
+
+STB-00066 --> EDP 38.548889 -8.884655 Setúbal RUA QUINTA DA VARZINHA, LOTE 1 - TORRES DO CR
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T10:32:28.604Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T10:32:28.604Z'}]
+Removidos:[]
