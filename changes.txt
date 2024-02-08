@@ -8374,3 +8374,15 @@ STB-00066 --> EDP 38.548889 -8.884655 Setúbal RUA QUINTA DA VARZINHA, LOTE 1 - 
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T10:32:28.604Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T10:32:28.604Z'}]
 Removidos:[]
+
+2024-02-08 15:17:31
+Adicionados:['LRS-00115', 'SNT-00064']
+
+LRS-00115 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250	2660-001 Loures
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:15:11.635Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:15:11.635Z'}]
+
+SNT-00064 --> PLG 38.810429 -9.273648 Sintra Rua da Graça Real
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-08T14:59:01.538Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-08T14:59:01.538Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:[]
