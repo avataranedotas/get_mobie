@@ -8386,3 +8386,27 @@ SNT-00064 --> PLG 38.810429 -9.273648 Sintra Rua da Graça Real
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-08T14:59:01.538Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-08T14:59:01.538Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:[]
+
+2024-02-08 15:38:36
+Adicionados:['LRS-00116', 'LRS-00117', 'LRS-00118', 'LRS-00119', 'LRS-00120']
+
+LRS-00116 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250	2660-001 Loures
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:24:38.325Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:24:38.325Z'}]
+
+LRS-00117 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:28:18.890Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:28:18.890Z'}]
+
+LRS-00118 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:33:00.863Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:33:00.863Z'}]
+
+LRS-00119 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:35:16.735Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:35:16.735Z'}]
+
+LRS-00120 --> GLP 38.816518 -9.147985 Loures Rua 28 Setembro 250
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:37:47.933Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-08T15:37:47.934Z'}]
+Removidos:[]
