@@ -8458,3 +8458,11 @@ MTJ-00032
 evses -> 3 -> connectors -> 0: 
  NEW max_electric_power : 200000
  OLD max_electric_power : 50000
+
+2024-02-12 13:20:14
+Adicionados:['BAO-00003']
+
+BAO-00003 --> EDP 41.142805 -7.9499511 Baião CM Baiao - Rua 20 de Junho
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-12T12:44:47.392Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-12T12:44:47.392Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
