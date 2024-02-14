@@ -8550,3 +8550,11 @@ TBU-00006 --> EDP 40.362064 -8.032863 Tábua JARDIM SARAH BEIRÃO
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T14:12:45.109Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T14:12:45.109Z'}]
 Removidos:[]
+
+2024-02-14 15:17:09
+Adicionados:['ETR-00014']
+
+ETR-00014 --> ATL 40.7625326 -8.5704565 Estarreja Tv. Dr. Tavares Silva 1,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-14T15:09:54.655Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-14T15:09:54.655Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:[]
