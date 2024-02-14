@@ -8558,3 +8558,19 @@ ETR-00014 --> ATL 40.7625326 -8.5704565 Estarreja Tv. Dr. Tavares Silva 1,
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-02-14T15:09:54.655Z', 'max_amperage': 150, 'max_electric_power': 60000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-14T15:09:54.655Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:[]
+
+2024-02-14 16:21:35
+Adicionados:['TBU-00007']
+
+TBU-00007 --> EDP 40.356489 -8.025729 Tábua R. DR. FORTUNATO VIEIRA DAS NEVES
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T15:39:43.964Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T15:39:43.964Z'}]
+Removidos:[]
+PNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+PNF-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
