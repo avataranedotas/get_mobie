@@ -8481,3 +8481,56 @@ BRR-00132 --> ATL 38.654526 -9.078367 Barreiro Av. da Liberdade
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-14T10:37:58.700Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-14T10:37:58.700Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:[]
+
+2024-02-14 11:16:39
+Adicionados:['BRR-00135', 'GMR-00118', 'GMR-00119', 'GMR-00121', 'GMR-00122', 'GMR-00123', 'LLE-00162', 'LLE-00165', 'LLE-00174', 'MGL-80004', 'NZR-00033', 'SXL-00051']
+
+BRR-00135 --> ATL 38.6545269 -9.0783676 Barreiro Terminal Rodo Ferro Fluvial 0
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T10:39:34.071Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T10:39:34.071Z'}]
+
+GMR-00118 --> ATL 41.447992 -8.2986302 Guimarães Rua Teixeira de Pascoais
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:06:57.940Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:06:57.940Z'}]
+
+GMR-00119 --> ATL 41.447992 -8.2986302 Guimarães Rua Teixeira de Pascoais
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:05:52.995Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:05:52.995Z'}]
+
+GMR-00121 --> ATL 41.447992 -8.2986302 Guimarães Rua Teixeira de Pascoais
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T10:39:58.228Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T10:39:58.228Z'}]
+
+GMR-00122 --> ATL 41.447992 -8.2986302 Guimarães Rua Teixeira de Pascoais
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:07:44.709Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:07:44.709Z'}]
+
+GMR-00123 --> ATL 41.447992 -8.2986302 Guimarães Rua Teixeira de Pascoais
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:07:22.335Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:07:22.335Z'}]
+
+LLE-00162 --> ATL 37.0829012 -8.119517 Loulé Rua das Amoreiras
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:06:19.736Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:06:19.736Z'}]
+
+LLE-00165 --> ATL 37.084102 -8.084785 Loulé Rua 3, Vila Sol
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:08:10.176Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:08:10.176Z'}]
+
+LLE-00174 --> ATL 37.0760122 -8.118283 Loulé Av. da Marina
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:08:50.721Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:08:50.721Z'}]
+
+MGL-80004 --> ATL 40.60048 -7.75272 Mangualde Rua José Maria de Almeida
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-14T10:38:42.092Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-14T10:38:42.092Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+NZR-00033 --> ATL 39.588788 -9.07439 Nazaré Av. Manuel Remígio - Parque de Estacionamento
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:09:31.486Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-14T11:09:31.486Z'}]
+
+SXL-00051 --> ATL 38.6345607 -9.1425677 Seixal Quinta da Argena, R. Azedo Gneco Lt 8
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 750, 'last_updated': '2024-02-14T10:38:16.972Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2024-02-14T10:38:16.972Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-14T10:38:16.972Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['BRR-00104', 'BRR-00105', 'MGL-90004']
