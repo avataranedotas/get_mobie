@@ -8574,3 +8574,10 @@ PNF-00022
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 150
  OLD max_amperage : 125
+
+2024-02-14 18:21:50
+Adicionados:['PTG-00023']
+
+PTG-00023 --> CPS 39.278958 -7.431854 Portalegre AV. DA ESTREMADURA ESPANHOLA Nº 37 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-14T18:12:07.744Z'}]
+Removidos:[]
