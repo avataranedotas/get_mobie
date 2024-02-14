@@ -8534,3 +8534,11 @@ SXL-00051 --> ATL 38.6345607 -9.1425677 Seixal Quinta da Argena, R. Azedo Gneco 
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 750, 'last_updated': '2024-02-14T10:38:16.972Z', 'max_amperage': 150, 'max_electric_power': 60000}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-14T10:38:16.972Z', 'max_amperage': 32, 'max_electric_power': 22000}]
 Removidos:['BRR-00104', 'BRR-00105', 'MGL-90004']
+
+2024-02-14 11:38:08
+Adicionados:['CBR-00103']
+
+CBR-00103 --> EDP 40.199293 -8.506811 Coimbra R. PADRE MANUEL MARCELINO 12
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-02-14T11:20:39.056Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-02-14T11:20:39.056Z'}]
+Removidos:[]
