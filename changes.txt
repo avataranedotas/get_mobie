@@ -8623,3 +8623,9 @@ BCL-00024
 evses -> 3 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : IEC_62196_T2
+
+2024-02-15 22:14:46
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423902
+ OLD evse_id : PT*IOY*E423901
