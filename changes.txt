@@ -8581,3 +8581,21 @@ Adicionados:['PTG-00023']
 PTG-00023 --> CPS 39.278958 -7.431854 Portalegre AV. DA ESTREMADURA ESPANHOLA Nº 37 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-14T18:12:07.744Z'}]
 Removidos:[]
+
+2024-02-15 11:14:55
+ETR-00013
+coordinates: 
+ NEW latitude : 40.763018
+ OLD latitude : 38.835216
+ETR-00013
+coordinates: 
+ NEW longitude : -8.571671
+ OLD longitude : -7.682042
+ETR-00013
+: 
+ NEW coordinates : {'latitude': '40.763018', 'longitude': '-8.571671'}
+ OLD coordinates : {'latitude': '38.835216', 'longitude': '-7.682042'}
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423901
+ OLD evse_id : PT*IOY*E423902
