@@ -8599,3 +8599,11 @@ ETZ-00026
 evses -> 0: 
  NEW evse_id : PT*IOY*E423901
  OLD evse_id : PT*IOY*E423902
+
+2024-02-15 11:37:55
+Adicionados:['PNI-00012']
+
+PNI-00012 --> EDP 39.364583 -9.374635 Peniche AV. MONSENHOR MANUEL BASTOS, N.135
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-15T11:26:51.537Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-02-15T11:26:51.537Z'}]
+Removidos:[]
