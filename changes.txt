@@ -8617,3 +8617,9 @@ CDN-00004
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 60000
+
+2024-02-15 17:16:23
+BCL-00024
+evses -> 3 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
