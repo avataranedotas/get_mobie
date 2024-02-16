@@ -8659,3 +8659,9 @@ ALM-00072 --> EDP 38.634410 -9.145129 Almada RUA BENTO GONCALVES 12
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-16T14:50:11.028Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-02-16T14:50:11.028Z'}]
 Removidos:[]
+
+2024-02-16 15:37:53
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423603
+ OLD evse_id : PT*IOY*E423606
