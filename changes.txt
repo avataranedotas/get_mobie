@@ -8665,3 +8665,41 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423603
  OLD evse_id : PT*IOY*E423606
+
+2024-02-16 16:21:09
+AMD-00054
+evses -> 5 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+AMD-00054
+evses -> 6 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+AMD-00054
+evses -> 7 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+BRG-00069
+evses -> 5 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+BRG-00069
+evses -> 6 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+BRG-00069
+evses -> 7 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+CMN-00002
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+CMN-00003
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423902
+ OLD evse_id : PT*IOY*E423901
