@@ -8635,3 +8635,11 @@ ETZ-00026
 evses -> 0: 
  NEW evse_id : PT*IOY*E423901
  OLD evse_id : PT*IOY*E423902
+
+2024-02-16 12:30:36
+Adicionados:['VRL-00013']
+
+VRL-00013 --> EDP 41.2922786 -7.7368594 Vila Real KFC de Vila Real - Praça da Galiza
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-02-16T12:14:16.087Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-02-16T12:14:16.087Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+Removidos:[]
