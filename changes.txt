@@ -8821,3 +8821,15 @@ VNG-00059
 evses -> 1 -> connectors -> 0: 
  NEW format : CABLE
  OLD format : SOCKET
+
+2024-02-16 17:14:36
+Adicionados:['SNT-00140']
+
+SNT-00140 --> EDP 38.750915 -9.305303 Sintra Estr. de São Marcos 9857
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-16T16:57:37.847Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-02-16T16:57:37.847Z'}]
+Removidos:[]
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423605
+ OLD evse_id : PT*IOY*E423601
