@@ -8703,3 +8703,121 @@ ETZ-00026
 evses -> 0: 
  NEW evse_id : PT*IOY*E423902
  OLD evse_id : PT*IOY*E423901
+
+2024-02-16 16:39:34
+CSC-00103
+evses -> 5 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+FLG-00006
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+FLG-00007
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+FLG-00009
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+GDM-00017
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+GDM-00018
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423603
+MAI-00025
+evses -> 5 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MAI-00025
+evses -> 6 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MAI-00025
+evses -> 7 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTJ-00008
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTJ-00009
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTS-00046
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTS-00051
+evses -> 5 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTS-00051
+evses -> 6 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MTS-00051
+evses -> 7 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00015
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00016
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00017
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00017
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00018
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+NZR-00018
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+SNT-00097
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VNF-00031
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VNG-00059
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VNG-00059
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
