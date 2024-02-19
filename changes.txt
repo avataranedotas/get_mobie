@@ -9381,3 +9381,9 @@ MTJ-00034
 : 
  NEW coordinates : {'latitude': '38.6804381', 'longitude': '-8.9665386'}
  OLD coordinates : {'latitude': '38.7345661', 'longitude': '-9.1447852'}
+
+2024-02-19 17:15:36
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423603
+ OLD evse_id : PT*IOY*E423602
