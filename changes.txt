@@ -9339,3 +9339,21 @@ VLG-00038 --> GLP 41.238021 -8.532692 Valongo E.N. 105, R. 1º de Maio 1070 Km 8
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-02-19T14:32:38.998Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-02-19T14:32:38.998Z'}]
 Removidos:[]
+
+2024-02-19 15:17:38
+Adicionados:['FAF-00009', 'MTJ-00034']
+
+FAF-00009 --> EDP 41.447877 -8.170991 Fafe Rua Monsenhor Vieira de Castro, SN
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-02-19T14:39:10.113Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2024-02-19T14:39:10.113Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-19T14:39:10.113Z'}]
+
+MTJ-00034 --> HRZ 38.7345661 -9.1447852 Montijo Quinta da Facada
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-19T14:59:26.376Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-19T14:59:26.376Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2024-02-19T14:59:26.376Z'}]
+Removidos:[]
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423602
+ OLD evse_id : PT*IOY*E423603
