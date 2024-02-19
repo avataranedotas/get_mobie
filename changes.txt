@@ -9363,3 +9363,21 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423606
  OLD evse_id : PT*IOY*E423602
+
+2024-02-19 16:23:01
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423602
+ OLD evse_id : PT*IOY*E423606
+MTJ-00034
+coordinates: 
+ NEW latitude : 38.6804381
+ OLD latitude : 38.7345661
+MTJ-00034
+coordinates: 
+ NEW longitude : -8.9665386
+ OLD longitude : -9.1447852
+MTJ-00034
+: 
+ NEW coordinates : {'latitude': '38.6804381', 'longitude': '-8.9665386'}
+ OLD coordinates : {'latitude': '38.7345661', 'longitude': '-9.1447852'}
