@@ -9297,3 +9297,15 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423604
  OLD evse_id : PT*IOY*E423601
+
+2024-02-19 11:37:54
+Adicionados:['VNG-00162']
+
+VNG-00162 --> GLP 41.0926998 -8.542618 Vila Nova de Gaia AV. VASCO DA GAMA, 6615	4430-000 Vila Nova de
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-02-19T11:13:26.910Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-19T11:13:26.910Z'}]
+Removidos:[]
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423604
