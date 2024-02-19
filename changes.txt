@@ -9399,3 +9399,9 @@ ETZ-00026
 evses -> 0: 
  NEW evse_id : PT*IOY*E423902
  OLD evse_id : PT*IOY*E423901
+
+2024-02-19 18:37:52
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423605
+ OLD evse_id : PT*IOY*E423606
