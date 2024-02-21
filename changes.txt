@@ -11152,3 +11152,9 @@ VVD-00012
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2024-02-21 18:21:46
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423602
