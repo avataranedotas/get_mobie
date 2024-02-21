@@ -10698,3 +10698,209 @@ SSB-00006
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 30000
+
+2024-02-21 16:21:45
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423604
+ OLD evse_id : PT*IOY*E423606
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 400
+STS-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+STS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+STS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+STS-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+SXL-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+SXL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+SXL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+SXL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+TMR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+TMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+TMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+TMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+TNV-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+TNV-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+TNV-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 139
+TNV-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+TNV-00013
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+TNV-00013
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+TNV-00013
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+TRF-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+TRF-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+TRF-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+TRF-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+TVD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+TVD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+TVD-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+TVD-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 77
+TVD-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+VCD-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+VCD-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+VCD-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VCD-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+VCT-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+VCT-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+VCT-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VCT-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+VFR-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+VFR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+VFR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VFR-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+VFX-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+VFX-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+VFX-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 139
+VFX-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+VFX-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+VFX-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+VFX-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+VFX-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 77
+VFX-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
