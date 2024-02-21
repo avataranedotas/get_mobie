@@ -10342,3 +10342,9 @@ MTS-00046
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2024-02-21 13:38:04
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423602
+ OLD evse_id : PT*IOY*E423604
