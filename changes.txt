@@ -11263,3 +11263,194 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423606
  OLD evse_id : PT*IOY*E423602
+
+2024-02-22 21:48:43
+Adicionados:['BRG-00106', 'PNV-00003', 'SMG-00012']
+
+BRG-00106 --> EVC 41.555639 -8.376638 Braga BOM JESUS DO MONTE
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-22T11:33:28.899Z'}]
+
+PNV-00003 --> IBD 39.7495313 -7.9197387 Proença-a-Nova Rua Comendador Assis Roda, 25
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-22T11:54:28.378Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-22T11:54:28.378Z'}]
+
+SMG-00012 --> FCT 39.021619 -8.794586 Salvaterra de Magos Estrada Nacional 118, km 46+800, nº 194
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-22T16:44:25.206Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-02-22T16:44:25.206Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-22T16:44:25.206Z'}]
+Removidos:[]
+AGH-00003
+: 
+ NEW address : Circular de  Angra do Heroísmo
+ OLD address : Circular de Angra do Heroísmo
+AMD-00103
+: 
+ NEW address : Rua Irmãos Siemens 1,  Amadora
+ OLD address : Rua Irmãos Siemens 1, Amadora
+ASL-00012
+: 
+ NEW address : Avenida José Saramago, Nº S/N  
+ OLD address : Avenida José Saramago, Nº S/N 
+BRG-00086
+: 
+ NEW address : Rua Américo Barbosa,  Lote X1 
+ OLD address : Rua Américo Barbosa, Lote X1 
+CBR-00080
+: 
+ NEW address : R. Entre Vinhas 3,  Taveiro
+ OLD address : R. Entre Vinhas 3, Taveiro
+CHT-00001
+: 
+ NEW address : Travessas - Ribeira Seca  
+ OLD address : Travessas - Ribeira Seca 
+ETR-00009
+: 
+ NEW address : Área de Serviço - Antuã, A1,  km 254,9
+ OLD address : Área de Serviço - Antuã, A1, km 254,9
+ETR-00010
+: 
+ NEW address : Área de Serviço - Antuã, A1,  km 254,9
+ OLD address : Área de Serviço - Antuã, A1, km 254,9
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423902
+ OLD evse_id : PT*IOY*E423901
+FEC-00003
+: 
+ NEW address : Bairro Samiteiro, Nº 7010  
+ OLD address : Bairro Samiteiro, Nº 7010 
+FEC-90001
+: 
+ NEW address : Av. Guerra Junqueiro  
+ OLD address : Av. Guerra Junqueiro 
+LGA-00005
+: 
+ NEW address : Pestana Golf Resort  Gramacho
+ OLD address : Pestana Golf Resort Gramacho
+LGA-00009
+: 
+ NEW address : Estrada Nacional  125
+ OLD address : Estrada Nacional 125
+LGA-00024
+: 
+ NEW address : Rua Foz do  Arade
+ OLD address : Rua Foz do Arade
+LRA-00115
+: 
+ NEW address : Area de servicio Cepsa,  A1 - Sublanço Fátima
+ OLD address : Area de servicio Cepsa, A1 - Sublanço Fátima
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423604
+ OLD evse_id : PT*IOY*E423606
+LRA-00116
+: 
+ NEW address : Area de servicio Cepsa,  A1 - Sublanço Fátima
+ OLD address : Area de servicio Cepsa, A1 - Sublanço Fátima
+LRS-00097
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+LRS-00097
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+LRS-00097
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 32
+LRS-00097
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
+LRS-00097
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+LRS-00097
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LRS-00097
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 120
+LRS-00097
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000
+LSB-00469
+: 
+ NEW address : Tv.  Légua da Póvoa, 11C
+ OLD address : Tv. Légua da Póvoa, 11C
+LSB-00523
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00524
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00525
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00526
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00527
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00528
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00529
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00532
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00533
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00534
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00535
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+LSB-00536
+: 
+ NEW address : Avenida  Marechal Gomes da Costa N9
+ OLD address : Avenida Marechal Gomes da Costa N9
+MGR-00012
+: 
+ NEW address : Avenida 1.º de Maio,  Marinha Grande
+ OLD address : Avenida 1.º de Maio, Marinha Grande
+PSR-00006
+: 
+ NEW address : R. Olivença  10 - A
+ OLD address : R. Olivença 10 - A
+STB-00023
+: 
+ NEW address : E.N. 10 ao km 24+324  - Brejos de Azeitão
+ OLD address : E.N. 10 ao km 24+324 - Brejos de Azeitão
+STR-00034
+: 
+ NEW address : Largo do Alcáçova  2000
+ OLD address : Largo do Alcáçova 2000
+VFX-00051
+: 
+ NEW address : Rua Bartolomeu Dias  Vila Franca de Xira
+ OLD address : Rua Bartolomeu Dias Vila Franca de Xira
+VIZ-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 90000
