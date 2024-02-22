@@ -11252,3 +11252,14 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423602
  OLD evse_id : PT*IOY*E423601
+
+2024-02-22 11:13:58
+Adicionados:['LOU-00006']
+
+LOU-00006 --> FRR 41.270422 -8.271375 Lousada RUA NOVA DO AVELAR 212
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-22T10:50:18.391Z'}]
+Removidos:[]
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423606
+ OLD evse_id : PT*IOY*E423602
