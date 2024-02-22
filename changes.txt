@@ -11454,3 +11454,9 @@ VIZ-00009
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 90000
+
+2024-02-22 23:25:17
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423604
