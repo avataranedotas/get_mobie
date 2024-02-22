@@ -11206,3 +11206,9 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423604
  OLD evse_id : PT*IOY*E423601
+
+2024-02-22 07:38:08
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423602
+ OLD evse_id : PT*IOY*E423604
