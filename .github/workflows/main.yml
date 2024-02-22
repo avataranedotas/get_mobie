@@ -3,8 +3,8 @@ name: Obter dados
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '*/30 * * * *'
+  #schedule:
+  #  - cron:  '*/30 * * * *'
 
 jobs:
   scheduled:
@@ -19,11 +19,11 @@ jobs:
       uses: actions/setup-python@v2
       with:
          python-version: 3.8 #install the python needed    
-    - name: Get the data
-      run: |
-        chmod +x ./get_mobie_20231006.sh
-        ./get_mobie_20231006.sh
-      shell: bash
+    #- name: Get the data
+    #  run: |
+    #    chmod +x ./get_mobie_20231006.sh
+    #    ./get_mobie_20231006.sh
+    #  shell: bash
     - name: compare
       run: |
         python compare_20231006.py
