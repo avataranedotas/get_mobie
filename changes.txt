@@ -11460,3 +11460,67 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423601
  OLD evse_id : PT*IOY*E423604
+
+2024-02-23 19:41:40
+Adicionados:['AVR-00058', 'CSC-00132', 'LLE-00163', 'LLE-00173', 'LLE-00177', 'LLE-00178', 'LLE-00179', 'VIS-00092', 'VIS-00094', 'VIS-00095']
+
+AVR-00058 --> ATL 40.661956 -8.612366 Aveiro Est.Nacional16, Km3, Quinta do Simão
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-23T10:27:25.665Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-23T10:27:25.665Z'}]
+
+CSC-00132 --> HEX 38.71281 -9.34819 Cascais Rua do Mercado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-23T14:41:36.444Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-23T14:41:36.444Z'}]
+
+LLE-00163 --> ATL 37.073759 -8.118317 Loulé Alameda Praia da Marina
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-23T10:27:36.693Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-23T10:27:36.693Z'}]
+
+LLE-00173 --> ATL 37.0791223 -8.1226992 Loulé AVENIDA DO CERRO DA VILA S/N
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2024-02-23T10:27:59.468Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-23T10:27:59.468Z'}]
+
+LLE-00177 --> ATL 37.0865548 -8.1108187 Loulé RUA DA INGLATERRA S/N
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-02-23T10:28:15.258Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-23T10:28:15.258Z'}]
+
+LLE-00178 --> ATL 37.0924202 -8.0935292 Loulé VOLTA FLORBELA ESPANCA S/N MORGADINHO
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-02-23T10:28:31.498Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-23T10:28:31.498Z'}]
+
+LLE-00179 --> ATL 37.1063746 -8.1415516 Loulé RUA VOLTA QUADRANTE S/N
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-02-23T10:28:48.941Z'}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-23T10:28:48.941Z'}]
+
+VIS-00092 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:25:45.028Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:25:45.028Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VIS-00094 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:26:56.606Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:26:56.606Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VIS-00095 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:27:14.261Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-23T10:27:14.261Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423901
+ OLD evse_id : PT*IOY*E423902
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423605
+ OLD evse_id : PT*IOY*E423601
+RPN-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+RPN-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+SEI-00009
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
