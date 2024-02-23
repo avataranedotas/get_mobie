@@ -11524,3 +11524,9 @@ SEI-00009
 : 
  NEW mobie_voltage_level : MT
  OLD mobie_voltage_level : BTE
+
+2024-02-23 21:32:43
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423605
