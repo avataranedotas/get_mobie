@@ -11551,3 +11551,13 @@ VZL-00002 24072 --> GLG 40.68667 -8.23278 Vouzela A25 / IP5, KM 7.9
 {'refillPointIndex': 3, 'electricChargingPoint': {'externalIdentifier': 'PT*GLG*VZL*00002*03', 'connector': {'chargingMode': 'mode3AC3p', 'connectorFormat': 'cableMode3', 'connectorType': 'iec62196T2', 'maximumCurrent': 63, 'maxPowerAtSocket': 43000, 'voltage': 400}}}
 
 Removidos:
+
+2024-02-24 13:18:32
+ETZ-00026
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423901
+ OLD evse_id : PT*IOY*E423902
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423601
+ OLD evse_id : PT*IOY*E423604
