@@ -11567,3 +11567,67 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423602
  OLD evse_id : PT*IOY*E423601
+
+2024-02-26 19:58:59
+Adicionados:['BCL-00029', 'BCL-00030', 'FND-00017', 'GDL-00014', 'OLR-00003', 'PTM-00061', 'PTM-00062', 'VCD-00025', 'VCD-00027', 'VCD-00028', 'VCD-00029', 'VCD-00031', 'VCD-00033', 'VFR-00048']
+
+BCL-00029 --> PRI 41.464924 -8.575801 Barcelos Rua Principal 101
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T12:08:00.251Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T12:08:00.251Z'}]
+
+BCL-00030 --> PRI 41.464963 -8.575692 Barcelos Rua Principal 101
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T12:13:34.258Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T12:13:34.258Z'}]
+
+FND-00017 --> EDP 40.136739 -7.505128 Fundão Avenida Monsenhor Santos Carreto
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T16:28:10.986Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T16:28:10.986Z'}]
+
+GDL-00014 --> KLS 38.185025 -8.568542 Grândola Rua Dom Nuno Alvares Pereira
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-26T16:33:30.393Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-26T16:33:30.393Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-02-26T16:33:30.393Z'}]
+
+OLR-00003 --> EDP 39.915435 -7.910170 Oleiros RUA PRINCIPAL S/N, TORNA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T11:30:35.052Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T11:30:35.052Z'}]
+
+PTM-00061 --> EDP 37.119051 -8.536049 Portimão Av. Tomás Cabreira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T15:49:27.481Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T15:49:27.481Z'}]
+
+PTM-00062 --> EDP 37.119051 -8.536049 Portimão Av. Tomás Cabreira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T15:52:29.292Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-26T15:52:29.292Z'}]
+
+VCD-00025 --> EDP 41.364791 -8.756234 Vila do Conde AVENIDA CIDADE DE GUIMARAES, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T14:22:26.390Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T14:22:26.390Z'}]
+
+VCD-00027 --> EDP 41.352101 -8.747311 Vila do Conde PRACA LUIS DE CAMOES, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T14:40:36.573Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T14:40:36.573Z'}]
+
+VCD-00028 --> EDP 41.358838 -8.746102 Vila do Conde RUA DA RAINHA DONA LEONOR, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T15:27:48.566Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T15:27:48.566Z'}]
+
+VCD-00029 --> EDP 41.312870 -8.721058 Vila do Conde RUA DA PRAIA, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T16:23:23.655Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T16:23:23.655Z'}]
+
+VCD-00031 --> EDP 41.295668 -8.695337 Vila do Conde RUA DA ARROTEIA, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T17:10:28.170Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T17:10:28.170Z'}]
+
+VCD-00033 --> EDP 41.274178 -8.727629 Vila do Conde RUA DA MARGINAL, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T17:32:07.159Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T17:32:07.159Z'}]
+
+VFR-00048 --> GLP 40.94286 -8.458451 Santa Maria da Feira R. António José Paiva e Sousa, Romariz
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-26T15:38:53.045Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-26T15:38:53.045Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+ALB-00019
+: 
+ NEW address : N1-IC2 Km245,5 - Cavada Nova
+ OLD address : N1-IC2 Km245,5 – Cavada Nova
