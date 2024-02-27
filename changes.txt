@@ -11682,3 +11682,11 @@ VVD-00016 --> IBD 41.5890294 -8.5359986 Vila Verde Av. Sobral Castelo 76
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T11:51:56.382Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T11:51:56.382Z'}]
 Removidos:[]
+
+2024-02-27 20:40:53
+Adicionados:['ORM-00019']
+
+ORM-00019 --> EDP 39.657190 -8.585010 Ourém Estr. Da Caridade
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-27T16:26:13.095Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-02-27T16:26:13.095Z'}]
+Removidos:[]
