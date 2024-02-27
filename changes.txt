@@ -11631,3 +11631,54 @@ ALB-00019
 : 
  NEW address : N1-IC2 Km245,5 - Cavada Nova
  OLD address : N1-IC2 Km245,5 – Cavada Nova
+
+2024-02-27 16:42:30
+Adicionados:['ABT-00033', 'BRR-00067', 'BRR-00101', 'BRR-00111', 'BRR-00121', 'CSC-00178', 'FAR-00055', 'FAR-00056', 'FAR-00057', 'TVR-00019', 'TVR-00020', 'VVD-00016']
+
+ABT-00033 --> EDP 39.472247 -8.195149 Abrantes Av. Dom João I s/n
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-02-27T11:24:34.366Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-02-27T11:24:34.366Z'}]
+
+BRR-00067 --> TRK 38.6534778 -9.0662444 Barreiro Rua Dom João de La Concha
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T14:37:45.233Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T14:37:45.233Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+BRR-00101 --> TRK 38.653378 -9.068892 Barreiro Av. Dom Afonso Henriques 75
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:37:30.944Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:37:30.944Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+BRR-00111 --> TRK 38.652283 -9.070486 Barreiro Rua Armindo de Almeida 44
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T14:54:12.469Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T14:54:12.469Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+BRR-00121 --> TRK 38.6444001 -9.0589999 Barreiro Dom Afonso de Albuquerque 83
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:31:26.352Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:31:26.352Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+CSC-00178 --> GLP 38.683702 -9.343149 Cascais Praça do Junqueiro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2024-02-22T10:30:58.321Z'}]
+
+FAR-00055 --> EDP 37.130623 -8.580400 Faro Sítio do Galo Loiro, 101
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T14:15:11.682Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T14:15:11.682Z'}]
+
+FAR-00056 --> EDP 37.130623 -8.580400 Faro Sítio do Galo Loiro, 101
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-27T14:23:38.222Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-02-27T14:23:38.222Z'}]
+
+FAR-00057 --> EDP 37.130623 -8.580400 Faro Sítio do Galo Loiro, 101
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T14:19:20.259Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T14:19:20.259Z'}]
+
+TVR-00019 --> ATL 37.1307958 -7.6368657 Tavira Rua Almirante Cândido dos Reis, 247
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T09:59:54.133Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-27T09:59:54.133Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+TVR-00020 --> ATL 37.1307958 -7.6368657 Tavira Rua Almirante Cândido dos Reis
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T09:59:08.627Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T09:59:08.627Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+VVD-00016 --> IBD 41.5890294 -8.5359986 Vila Verde Av. Sobral Castelo 76
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T11:51:56.382Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-27T11:51:56.382Z'}]
+Removidos:[]
