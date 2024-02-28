@@ -11714,3 +11714,15 @@ PRT-00240 --> FCT 41.182264 -8.646414 Porto Estrada da Circunvalação
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-28T11:15:28.103Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-02-28T11:15:28.103Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-28T11:15:28.103Z'}]
 Removidos:[]
+
+2024-02-28 19:04:30
+Adicionados:['PBL-00018']
+
+PBL-00018 --> ATL 39.9732942 -8.7949785 Pombal Estrada Nacional 109
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-28T15:11:08.475Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-28T15:11:08.475Z'}]
+Removidos:[]
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425802
+ OLD evse_id : PT*IOY*E425804
