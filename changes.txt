@@ -11732,3 +11732,11 @@ ADV-00018
 evses -> 0: 
  NEW evse_id : PT*IOY*E425801
  OLD evse_id : PT*IOY*E425802
+
+2024-02-29 11:22:59
+Adicionados:['PTG-00024']
+
+PTG-00024 --> FCT 39.280353 -7.431447 Portalegre Av. da Extremadura Espanhola
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-29T10:34:00.745Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-02-29T10:34:00.745Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-29T10:34:00.745Z'}]
+Removidos:[]
