@@ -11848,3 +11848,27 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423604
  OLD evse_id : PT*IOY*E423605
+
+2024-03-01 18:36:48
+Adicionados:['RDD-00002']
+
+RDD-00002 --> EDP 38.653623 -7.547828 Redondo Rua Almagre S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-03-01T16:58:40.456Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-03-01T16:58:40.456Z'}]
+Removidos:['SJM-00012']
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425802
+ OLD evse_id : PT*IOY*E425804
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423603
+ OLD evse_id : PT*IOY*E423604
+VVD-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VVD-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
