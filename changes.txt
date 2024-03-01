@@ -11784,3 +11784,18 @@ ADV-00018
 evses -> 0: 
  NEW evse_id : PT*IOY*E425802
  OLD evse_id : PT*IOY*E425804
+
+2024-03-01 12:55:12
+Adicionados:['LSB-00659']
+
+LSB-00659 --> ATL 38.727125 -9.1347005 Lisboa Av. Alm. Reis 64,
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-01T09:46:55.516Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425801
+ OLD evse_id : PT*IOY*E425802
+BCL-00028
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423702
+ OLD evse_id : PT*IOY*E423701
