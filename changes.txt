@@ -11832,3 +11832,19 @@ ADV-00018
 evses -> 0: 
  NEW evse_id : PT*IOY*E425806
  OLD evse_id : PT*IOY*E425801
+
+2024-03-01 15:16:48
+Adicionados:['SXL-00057']
+
+SXL-00057 --> KLS 38.556036 -9.087206 Seixal Rua da República
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-01T13:59:25.700Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-01T13:59:25.700Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-01T13:59:25.700Z'}]
+Removidos:[]
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425804
+ OLD evse_id : PT*IOY*E425806
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423604
+ OLD evse_id : PT*IOY*E423605
