@@ -11884,3 +11884,9 @@ ADV-00018
 evses -> 0: 
  NEW evse_id : PT*IOY*E425803
  OLD evse_id : PT*IOY*E425801
+
+2024-03-02 14:46:46
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425805
+ OLD evse_id : PT*IOY*E425803
