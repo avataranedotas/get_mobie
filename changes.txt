@@ -11872,3 +11872,9 @@ VVD-00004
 evses -> 1 -> connectors -> 0: 
  NEW standard : CHADEMO
  OLD standard : IEC_62196_T2_COMBO
+
+2024-03-02 10:37:40
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425801
+ OLD evse_id : PT*IOY*E425802
