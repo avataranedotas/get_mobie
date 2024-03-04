@@ -11890,3 +11890,52 @@ ADV-00018
 evses -> 0: 
  NEW evse_id : PT*IOY*E425805
  OLD evse_id : PT*IOY*E425803
+
+2024-03-04 19:17:52
+Adicionados:['ACH-00018', 'ACT-80002', 'EPS-00005', 'LGA-80001', 'STS-00026']
+
+ACH-00018 --> EDP 38.751251 -8.958342 Alcochete Av. da Sociedade Imparcial 15 Janeiro 1988
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 139, 'max_electric_power': 90000, 'last_updated': '2024-03-04T14:48:52.844Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-03-04T14:48:52.844Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-04T14:48:52.844Z'}]
+
+ACT-80002 --> ATL 37.441631 -7.770256 Alcoutim Rua Portas do Laborato
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-04T15:45:08.049Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-04T15:45:08.049Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+EPS-00005 --> VEI 41.599506 -8.785155 Esposende Avenida de Belinho nº 64
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-03-04T16:11:57.881Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-03-04T16:11:57.881Z'}]
+
+LGA-80001 --> ATL 37.133711 -8.454528 Lagoa, Faro Rua Jacinto Correia
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-04T15:51:45.631Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-04T15:51:45.631Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+STS-00026 --> FCT 41.3405618 -8.4959754 Santo Tirso R. Fontiscos, nº 693
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2024-03-04T09:39:25.129Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-04T09:39:25.129Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2024-03-04T09:39:25.129Z'}]
+Removidos:[]
+ADV-00018
+evses -> 0: 
+ NEW evse_id : PT*IOY*E425806
+ OLD evse_id : PT*IOY*E425805
+BCL-00028
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423701
+ OLD evse_id : PT*IOY*E423702
+CBR-00057
+coordinates: 
+ NEW latitude : 40.1171091
+ OLD latitude : 40.1529726
+CBR-00057
+coordinates: 
+ NEW longitude : -8.4969695
+ OLD longitude : -8.6944283
+CBR-00057
+: 
+ NEW coordinates : {'latitude': '40.1171091', 'longitude': '-8.4969695'}
+ OLD coordinates : {'latitude': '40.1529726', 'longitude': '-8.6944283'}
+LRA-00115
+evses -> 0: 
+ NEW evse_id : PT*IOY*E423602
+ OLD evse_id : PT*IOY*E423603
