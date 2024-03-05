@@ -11953,3 +11953,68 @@ LRA-00115
 evses -> 0: 
  NEW evse_id : PT*IOY*E423606
  OLD evse_id : PT*IOY*E423602
+
+2024-03-05 20:31:06
+Adicionados:['ABF-00070', 'ACH-00019', 'CLD-00033', 'ELV-80001', 'GMR-00110', 'GMR-00112', 'LLE-00180', 'MOBI-PRT-00089', 'OER-00222', 'SPS-00006', 'VCD-00040', 'VCD-00041']
+
+ABF-00070 --> EDP 37.093515 -8.232346 Albufeira Luna Hotel da Oura - Rua de Dunfermline
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T12:06:19.278Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T12:06:19.278Z'}]
+
+ACH-00019 --> FCT 38.751594 -8.946375 Alcochete N 119 Sítio Da Quebrada, Ladeira Das Enguias
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-05T16:02:27.081Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-05T16:02:27.081Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-05T16:21:02.968Z'}]
+
+CLD-00033 --> FCT 39.417353 -9.151678 Caldas da Rainha Avenida Infante Dom Henrique, nº 9970
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-04T16:32:56.329Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 100000, 'last_updated': '2024-03-04T16:32:56.329Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-04T16:32:56.329Z'}]
+
+ELV-80001 --> ATL 38.877338 -7.163423 Elvas Av. de Garcia da Orta
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-05T09:31:19.078Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-05T09:31:19.078Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+GMR-00110 --> KLS 41.4539116 -8.2789733 Guimarães Rua da Arcela, n,2064
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:29.934Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:29.934Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-05T11:50:29.934Z'}]
+
+GMR-00112 --> KLS 41.447389 -8.344222 Guimarães Rua de Ardão
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:47.630Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 920, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:47.630Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-05T11:50:47.630Z'}]
+
+LLE-00180 --> EDP 37.260275 -8.124241 Loulé Quinta do Freixo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T10:27:27.246Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T10:27:27.246Z'}]
+
+MOBI-PRT-00089 --> MOO 41.175813 -8.646222 Porto Rua Eng. Ferreira Dias, 828
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 75000, 'last_updated': '2024-03-05T15:06:18.751Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 75000, 'last_updated': '2024-03-05T15:06:18.751Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T15:06:18.751Z'}]
+
+OER-00222 --> FCT 38.75117 -9.304846 Oeiras Estrada de São Marcos nº4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-05T09:35:30.282Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-03-05T09:35:30.282Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-05T09:35:30.282Z'}]
+
+SPS-00006 --> KLS 40.7610215 -8.0628096 São Pedro do Sul Avenida da Ponte
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:05.106Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-05T11:50:05.106Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-05T11:50:05.106Z'}]
+
+VCD-00040 --> VEI 41.360207 -8.739357 Vila do Conde Rua da Lapa nº 293
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-03-05T16:23:17.506Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-03-05T16:23:17.506Z'}]
+
+VCD-00041 --> VEI 41.363366 -8.674802 Vila do Conde Rua Luís de Camões
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-05T16:50:31.718Z'}]
+Removidos:['ACH-00012', 'BJA-00030', 'CLD-00026', 'STS-00025']
+STS-00026
+coordinates: 
+ NEW latitude : 41.3405954
+ OLD latitude : 41.3405618
+STS-00026
+coordinates: 
+ NEW longitude : -8.4929942
+ OLD longitude : -8.4959754
+STS-00026
+: 
+ NEW coordinates : {'latitude': '41.3405954', 'longitude': '-8.4929942'}
+ OLD coordinates : {'latitude': '41.3405618', 'longitude': '-8.4959754'}
