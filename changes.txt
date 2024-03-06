@@ -12034,3 +12034,11 @@ NZR-00030 --> EDP 39.596349 -9.067935 Nazaré R. RANCHO TÁ-MAR 3
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-06T11:44:02.149Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-06T11:44:02.149Z'}]
 Removidos:[]
+
+2024-03-06 16:57:22
+Adicionados:['FAR-00059']
+
+FAR-00059 --> LUZ 37.04564 -7.96849 Faro SITIO GAMBELAS
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-03-06T15:43:27.061Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-03-06T15:43:27.061Z'}]
+Removidos:[]
