@@ -12018,3 +12018,19 @@ STS-00026
 : 
  NEW coordinates : {'latitude': '41.3405954', 'longitude': '-8.4929942'}
  OLD coordinates : {'latitude': '41.3405618', 'longitude': '-8.4959754'}
+
+2024-03-06 13:18:15
+Adicionados:['CBT-00002', 'EVR-00045', 'NZR-00030']
+
+CBT-00002 --> EDP 41.45956 -8.02981 Celorico de Basto Rua Fundo da Feira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-06T11:01:25.620Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-06T11:01:25.620Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+EVR-00045 --> FCT 38.5736000 -7.9005000 Évora Av. Dona Leonor de Oliveira Fernandes
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-06T10:40:43.343Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-06T10:40:43.343Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-06T10:40:43.343Z'}]
+
+NZR-00030 --> EDP 39.596349 -9.067935 Nazaré R. RANCHO TÁ-MAR 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-06T11:44:02.149Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-06T11:44:02.149Z'}]
+Removidos:[]
