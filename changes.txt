@@ -12293,3 +12293,197 @@ MAI-00029
 : 
  NEW address : ArdegÃ£es, Ãguas Santas, Maia
  OLD address : Ardegães, Águas Santas, Maia
+
+2024-03-08 20:15:30
+LSB-90004
+: 
+ NEW address : Rua Gregório Lopes
+ OLD address : Rua Greg³rio Lopes
+LSB-90005
+: 
+ NEW address : Praça do Império
+ OLD address : PraÃ§a do ImpÃ©rio
+LSB-90016
+: 
+ NEW address : Avenida da Universidade Técnica
+ OLD address : Avenida da Universidade TÃ©cnica
+LSB-90017
+: 
+ NEW address : Travessa da Boa-Hora à Ajuda
+ OLD address : Travessa da Boa-Hora Ã  Ajuda
+LSB-90018
+: 
+ NEW address : Avenida de Brasília
+ OLD address : Avenida de BrasÃ­lia
+LSB-90021
+: 
+ NEW address : Calçada da Tapada
+ OLD address : CalÃ§ada da Tapada
+LSB-90025
+: 
+ NEW address : Rua João Morais Barbosa
+ OLD address : Rua JoÃ£o Morais Barbosa
+LSB-90032
+: 
+ NEW address : Avenida Dom João II
+ OLD address : Avenida Dom JoÃ£o II
+LSB-90033
+: 
+ NEW address : Rua do Pólo Norte
+ OLD address : Rua do PÃ³lo Norte
+LSB-90035
+: 
+ NEW address : Rua Pedro e Inês
+ OLD address : Rua Pedro e InÃªs
+LSB-90039
+: 
+ NEW address : Avenida do Mediterrâneo
+ OLD address : Avenida do MediterrÃ¢neo
+LSB-90040
+: 
+ NEW address : Passeio do Báltico
+ OLD address : Passeio do BÃ¡ltico
+LSB-90041
+: 
+ NEW address : Rua do Pólo Sul
+ OLD address : Rua do PÃ³lo Sul
+LSB-90046
+: 
+ NEW address : Rua João de Freitas Branco
+ OLD address : Rua JoÃ£o de Freitas Branco
+LSB-90048
+: 
+ NEW address : Rua Leão de Oliveira
+ OLD address : Rua LeÃ£o de Oliveira
+LSB-90051
+: 
+ NEW address : Rua António Macedo
+ OLD address : Rua AntÃ³nio Macedo
+LSB-90056
+: 
+ NEW address : Rua Fernando Lopes Graça
+ OLD address : Rua Fernando Lopes GraÃ§a
+LSB-90057
+: 
+ NEW address : Rua José Escada
+ OLD address : Rua JosÃ© Escada
+LSB-90061
+: 
+ NEW address : Praça Afonso do Paço
+ OLD address : PraÃ§a Afonso do PaÃ§o
+LSB-90063
+: 
+ NEW address : Calçada dos Mestres
+ OLD address : CalÃ§ada dos Mestres
+LSB-90064
+: 
+ NEW address : Avenida Estados Unidos da América
+ OLD address : Avenida Estados Unidos da AmÃ©rica
+LSB-90083
+: 
+ NEW address : Rua Marquês de Fronteira
+ OLD address : Rua MarquÃªs de Fronteira
+LSB-90092
+: 
+ NEW address : Avenida Sidónio Pais
+ OLD address : Avenida SidÃ³nio Pais
+LSB-90102
+: 
+ NEW address : Rua de O Século
+ OLD address : Rua de O SÃ©culo
+LSB-90103
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da RepÃºblica
+LSB-90110
+: 
+ NEW address : Rua António Maria Cardoso
+ OLD address : Rua AntÃ³nio Maria Cardoso
+LSB-90123
+: 
+ NEW address : Travessa do Cidadão João Gonçalves
+ OLD address : Travessa do CidadÃ£o JoÃ£o GonÃ§alves
+LSB-90129
+: 
+ NEW address : Avenida General Roçadas
+ OLD address : Avenida General RoÃ§adas
+LSB-90134
+: 
+ NEW address : Parada Alto de São João
+ OLD address : Parada Alto de SÃ£o JoÃ£o
+LSB-90135
+: 
+ NEW address : Rua da Cruz de Santa Apolónia
+ OLD address : Rua da Cruz de Santa ApolÃ³nia
+LSB-90136
+: 
+ NEW address : Avenida Cidade de Lourenço Marques
+ OLD address : Avenida Cidade de LourenÃ§o Marques
+LSB-90137
+: 
+ NEW address : Rua Conselheiro Emídio Navarro
+ OLD address : Rua Conselheiro EmÃ­dio Navarro
+LSB-90141
+: 
+ NEW address : Praça de Londres
+ OLD address : PraÃ§a de Londres
+LSB-90143
+: 
+ NEW address : Praça da Estrela
+ OLD address : PraÃ§a da Estrela
+LSB-90145
+: 
+ NEW address : Rua Doutor José Espírito Santo
+ OLD address : Rua Doutor JosÃ© EspÃ­rito Santo
+LSB-90175
+: 
+ NEW address : Rua do Comércio
+ OLD address : Rua do ComÃ©rcio
+LSB-90500
+: 
+ NEW address : Avenida da Índia
+ OLD address : Avenida da Ãndia
+LSB-90501
+: 
+ NEW address : Avenida da Índia
+ OLD address : Avenida da Ãndia
+LSB-90520
+: 
+ NEW address : Praça Afonso de Albuquerque
+ OLD address : PraÃ§a Afonso de Albuquerque
+LSB-90521
+: 
+ NEW address : Praça Afonso de Albuquerque
+ OLD address : PraÃ§a Afonso de Albuquerque
+LSB-91090
+: 
+ NEW address : Rua Cecília Meireles
+ OLD address : Rua CecÃ­lia Meireles
+MAC-90001
+: 
+ NEW city : Mação
+ OLD city : MaÃ§Ã£o
+MAI-00016
+: 
+ NEW address : Av. Eng. José Afonso Moreira de Figueiredo
+ OLD address : Av. Eng. JosÃ© Afonso Moreira de Figueiredo
+MAI-00017
+: 
+ NEW address : Rua da Fábrica
+ OLD address : Rua da FÃ¡brica
+MAI-00028
+: 
+ NEW address : Via Periférica c/Av. Sts de Leite, L de Cat.
+ OLD address : Via PerifÃ©rica c/Av. Sts de Leite, L de Cat.
+MAI-00029
+: 
+ NEW address : Ardegães, Águas Santas, Maia
+ OLD address : ArdegÃ£es, Ãguas Santas, Maia
+MGR-00013
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
+MGR-00013
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
