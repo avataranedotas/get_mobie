@@ -12051,3 +12051,245 @@ MLD-00016 --> KLS 40.375861 -8.450444 Mealhada Rua Dr. Luiz Correia Navega
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-03-07T10:58:16.400Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-07T10:58:16.400Z'}]
 Removidos:[]
+
+2024-03-08 17:46:10
+Adicionados:['BRG-00117', 'CHV-00021', 'FND-00018', 'LLE-00158', 'LLE-00166', 'LLE-00167', 'LLE-00168', 'LLE-00170', 'LLE-00172', 'PTM-00046', 'VIS-00093', 'VIS-00096', 'VNG-00143']
+
+BRG-00117 --> EDP 41.552666 -8.395134 Braga Avenida D. João II, 75
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-08T10:30:53.301Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-08T10:30:53.301Z'}]
+
+CHV-00021 --> EVC 41.709178 -7.566888 Chaves Alde. Casas Novas, s/n
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T09:31:10.379Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T09:31:10.379Z'}]
+
+FND-00018 --> ATL 40.1626071 -7.5005714 Fundão Quinta da Areeira, Travessa do Passal 8
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:22:31.584Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-03-08T14:22:31.584Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-08T14:22:31.584Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LLE-00158 --> ATL 37.077561 -8.094257 Loulé Sítio do Semino
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:22:48.711Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-03-08T14:22:48.711Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-08T14:22:48.711Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+LLE-00166 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:03.229Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:03.229Z'}]
+
+LLE-00167 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:25:12.124Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:25:12.124Z'}]
+
+LLE-00168 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:19.238Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:19.238Z'}]
+
+LLE-00170 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:37.219Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:37.219Z'}]
+
+LLE-00172 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:54.444Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-08T14:24:54.444Z'}]
+
+PTM-00046 --> EVP 37.117659 -8.529520 Portimão Marina de Portimão Avenida do Arade
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 180000, 'last_updated': '2024-03-08T14:11:40.609Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 180000, 'last_updated': '2024-03-08T14:11:40.609Z'}]
+
+VIS-00093 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:23:06.315Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:23:06.315Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VIS-00096 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:23:24.920Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T14:23:24.920Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VNG-00143 --> ATL 41.137128 -8.630688 Vila Nova de Gaia R. 28 de Janeiro
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T13:57:06.440Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-08T13:57:06.440Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['FND-00010', 'PTG-00015']
+LSB-90004
+: 
+ NEW address : Rua Greg³rio Lopes
+ OLD address : Rua Gregório Lopes
+LSB-90005
+: 
+ NEW address : PraÃ§a do ImpÃ©rio
+ OLD address : Praça do Império
+LSB-90016
+: 
+ NEW address : Avenida da Universidade TÃ©cnica
+ OLD address : Avenida da Universidade Técnica
+LSB-90017
+: 
+ NEW address : Travessa da Boa-Hora Ã  Ajuda
+ OLD address : Travessa da Boa-Hora à Ajuda
+LSB-90018
+: 
+ NEW address : Avenida de BrasÃ­lia
+ OLD address : Avenida de Brasília
+LSB-90021
+: 
+ NEW address : CalÃ§ada da Tapada
+ OLD address : Calçada da Tapada
+LSB-90025
+: 
+ NEW address : Rua JoÃ£o Morais Barbosa
+ OLD address : Rua João Morais Barbosa
+LSB-90032
+: 
+ NEW address : Avenida Dom JoÃ£o II
+ OLD address : Avenida Dom João II
+LSB-90033
+: 
+ NEW address : Rua do PÃ³lo Norte
+ OLD address : Rua do Pólo Norte
+LSB-90035
+: 
+ NEW address : Rua Pedro e InÃªs
+ OLD address : Rua Pedro e Inês
+LSB-90039
+: 
+ NEW address : Avenida do MediterrÃ¢neo
+ OLD address : Avenida do Mediterrâneo
+LSB-90040
+: 
+ NEW address : Passeio do BÃ¡ltico
+ OLD address : Passeio do Báltico
+LSB-90041
+: 
+ NEW address : Rua do PÃ³lo Sul
+ OLD address : Rua do Pólo Sul
+LSB-90046
+: 
+ NEW address : Rua JoÃ£o de Freitas Branco
+ OLD address : Rua João de Freitas Branco
+LSB-90048
+: 
+ NEW address : Rua LeÃ£o de Oliveira
+ OLD address : Rua Leão de Oliveira
+LSB-90051
+: 
+ NEW address : Rua AntÃ³nio Macedo
+ OLD address : Rua António Macedo
+LSB-90056
+: 
+ NEW address : Rua Fernando Lopes GraÃ§a
+ OLD address : Rua Fernando Lopes Graça
+LSB-90057
+: 
+ NEW address : Rua JosÃ© Escada
+ OLD address : Rua José Escada
+LSB-90061
+: 
+ NEW address : PraÃ§a Afonso do PaÃ§o
+ OLD address : Praça Afonso do Paço
+LSB-90063
+: 
+ NEW address : CalÃ§ada dos Mestres
+ OLD address : Calçada dos Mestres
+LSB-90064
+: 
+ NEW address : Avenida Estados Unidos da AmÃ©rica
+ OLD address : Avenida Estados Unidos da América
+LSB-90083
+: 
+ NEW address : Rua MarquÃªs de Fronteira
+ OLD address : Rua Marquês de Fronteira
+LSB-90092
+: 
+ NEW address : Avenida SidÃ³nio Pais
+ OLD address : Avenida Sidónio Pais
+LSB-90102
+: 
+ NEW address : Rua de O SÃ©culo
+ OLD address : Rua de O Século
+LSB-90103
+: 
+ NEW address : Avenida da RepÃºblica
+ OLD address : Avenida da República
+LSB-90110
+: 
+ NEW address : Rua AntÃ³nio Maria Cardoso
+ OLD address : Rua António Maria Cardoso
+LSB-90123
+: 
+ NEW address : Travessa do CidadÃ£o JoÃ£o GonÃ§alves
+ OLD address : Travessa do Cidadão João Gonçalves
+LSB-90129
+: 
+ NEW address : Avenida General RoÃ§adas
+ OLD address : Avenida General Roçadas
+LSB-90134
+: 
+ NEW address : Parada Alto de SÃ£o JoÃ£o
+ OLD address : Parada Alto de São João
+LSB-90135
+: 
+ NEW address : Rua da Cruz de Santa ApolÃ³nia
+ OLD address : Rua da Cruz de Santa Apolónia
+LSB-90136
+: 
+ NEW address : Avenida Cidade de LourenÃ§o Marques
+ OLD address : Avenida Cidade de Lourenço Marques
+LSB-90137
+: 
+ NEW address : Rua Conselheiro EmÃ­dio Navarro
+ OLD address : Rua Conselheiro Emídio Navarro
+LSB-90141
+: 
+ NEW address : PraÃ§a de Londres
+ OLD address : Praça de Londres
+LSB-90143
+: 
+ NEW address : PraÃ§a da Estrela
+ OLD address : Praça da Estrela
+LSB-90145
+: 
+ NEW address : Rua Doutor JosÃ© EspÃ­rito Santo
+ OLD address : Rua Doutor José Espírito Santo
+LSB-90175
+: 
+ NEW address : Rua do ComÃ©rcio
+ OLD address : Rua do Comércio
+LSB-90500
+: 
+ NEW address : Avenida da Ãndia
+ OLD address : Avenida da Índia
+LSB-90501
+: 
+ NEW address : Avenida da Ãndia
+ OLD address : Avenida da Índia
+LSB-90520
+: 
+ NEW address : PraÃ§a Afonso de Albuquerque
+ OLD address : Praça Afonso de Albuquerque
+LSB-90521
+: 
+ NEW address : PraÃ§a Afonso de Albuquerque
+ OLD address : Praça Afonso de Albuquerque
+LSB-91090
+: 
+ NEW address : Rua CecÃ­lia Meireles
+ OLD address : Rua Cecília Meireles
+MAC-90001
+: 
+ NEW city : MaÃ§Ã£o
+ OLD city : Mação
+MAI-00016
+: 
+ NEW address : Av. Eng. JosÃ© Afonso Moreira de Figueiredo
+ OLD address : Av. Eng. José Afonso Moreira de Figueiredo
+MAI-00017
+: 
+ NEW address : Rua da FÃ¡brica
+ OLD address : Rua da Fábrica
+MAI-00028
+: 
+ NEW address : Via PerifÃ©rica c/Av. Sts de Leite, L de Cat.
+ OLD address : Via Periférica c/Av. Sts de Leite, L de Cat.
+MAI-00029
+: 
+ NEW address : ArdegÃ£es, Ãguas Santas, Maia
+ OLD address : Ardegães, Águas Santas, Maia
