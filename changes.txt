@@ -12487,3 +12487,18 @@ MGR-00013
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 30000
  OLD max_electric_power : 50000
+
+2024-03-11 18:59:33
+Adicionados:['AVV-00009', 'FZZ-00003']
+
+AVV-00009 --> EDP 41.852035 -8.424343 Arcos de Valdevez R.C.Dr. Francisco Rodrigues de Araújo, nº 146
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-11T11:45:32.402Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-11T11:45:32.402Z'}]
+
+FZZ-00003 --> CPS 39.693670 -8.294943 Ferreira do Zêzere RUA BRIGADEIRO LINO VALENTE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-11T15:17:46.337Z'}]
+Removidos:[]
+OER-00222
+evses -> 0 -> connectors -> 1: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 150000
