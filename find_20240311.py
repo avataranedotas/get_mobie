@@ -8,6 +8,8 @@ import csv
 
 from datetime import datetime
 
+now = datetime.now()
+date_time = now.strftime("%Y-%m-%d %H:%M:%S")
 
 # Ler ficheiro latest
 
@@ -32,6 +34,8 @@ with open('./watchbusy.txt', newline='') as busy_file:
     reader = csv.reader(busy_file)
     watchbusy = list (reader)
 
+escreverfich=0
+
 
 for x in datalatest:
     #procurar em cada um dos elementos
@@ -43,11 +47,20 @@ for x in datalatest:
             if str(y[0]) in str(x[0]):
                 #print (y[0])
                 print ("Está na watchlist",str(y[0]))
+                if (escreverfich==0) :                
+                    escreverfich=1
+                    fich = open("charging.txt", "a") 
+                    fich.write("\n")
+                    fich.write(date_time)
+                    fich.write("\n")    
+                result = [ "%s " %x[0] ]
+                print("".join(result)) 
+                #fich.write("".join(result))
+                #fich.write("\n") 
 
 
 
 
 
-
-
-
+if escreverfich == 1:
+    fich.close()
