@@ -55,8 +55,8 @@ for x in datalatest:
                     fich.write("\n")    
                 result = [ "%s " %x[0] ]
                 print("".join(result)) 
-                #fich.write("".join(result))
-                #fich.write("\n") 
+                fich.write("".join(result))
+                fich.write("\n") 
 
 
 
