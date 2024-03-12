@@ -12502,3 +12502,19 @@ OER-00222
 evses -> 0 -> connectors -> 1: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 150000
+
+2024-03-12 14:20:02
+Adicionados:['MCH-00010', 'STN-00005', 'VNF-00036']
+
+MCH-00010 --> FCT 32.714833 -16.766861 Machico Rua da Árvore
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-12T09:58:14.951Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-12T09:58:14.951Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-12T09:58:14.951Z'}]
+
+STN-00005 --> FCT 32.810694 -16.884417 Santana Sítio dos Barreiros
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-01-18T15:16:17.566Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-02-28T15:02:40.857Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-02-28T15:02:40.857Z'}]
+
+VNF-00036 --> GLP 41.415160 -8.519926 Vila Nova de Famalicão R. do Talvai
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:16:51.975Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:16:51.975Z'}]
+Removidos:['MCH-00009', 'STN-00004']
