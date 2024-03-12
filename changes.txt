@@ -12542,3 +12542,14 @@ VNF-00038 --> GLP 41.415160 -8.519926 Vila Nova de Famalicão R. do Talvai
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:21:39.846Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:21:39.846Z'}]
 Removidos:[]
+
+2024-03-12 20:40:43
+Adicionados:['VBP-00009', 'VBP-00010']
+
+VBP-00009 --> HRZ 37.0149238 -8.9412289 Vila do Bispo R. da Escola das Cercas Velhas
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-03-12T19:25:41.942Z'}]
+
+VBP-00010 --> HRZ 37.0149238 -8.9412289 Vila do Bispo R. da Escola das Cercas Velhas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-03-12T19:27:44.440Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-12T19:27:44.440Z'}]
+Removidos:[]
