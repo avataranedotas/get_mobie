@@ -12518,3 +12518,27 @@ VNF-00036 --> GLP 41.415160 -8.519926 Vila Nova de Famalicão R. do Talvai
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:16:51.975Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:16:51.975Z'}]
 Removidos:['MCH-00009', 'STN-00004']
+
+2024-03-12 17:35:33
+Adicionados:['FNC-00044', 'FND-00016', 'GMR-00113', 'VNF-00037', 'VNF-00038']
+
+FNC-00044 --> FCT 32.655361 -16.914778 Funchal Rua 31 de Janeiro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-12T15:38:18.534Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-12T15:38:18.534Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-12T15:38:18.534Z'}]
+
+FND-00016 --> EDP 40.136739 -7.505128 Fundão Avenida Monsenhor Santos Carreto
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T16:24:17.946Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T16:24:17.946Z'}]
+
+GMR-00113 --> GLP 41.492799 -8.360946 Guimarães R. de São Martinho
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-03-12T16:09:46.782Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-03-12T16:09:46.782Z'}]
+
+VNF-00037 --> GLP 41.415160 -8.519926 Vila Nova de Famalicão R. do Talvai
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-03-12T14:19:20.416Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-03-12T14:19:20.416Z'}]
+
+VNF-00038 --> GLP 41.415160 -8.519926 Vila Nova de Famalicão R. do Talvai
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:21:39.846Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-12T14:21:39.846Z'}]
+Removidos:[]
