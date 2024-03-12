@@ -6,6 +6,7 @@ echo Hoje  : $AGORA
 
 #copiar LATEST para PREVIOUS
 cp LATEST.json PREVIOUS.json
+cp latest.csv previous.csv
 
 
 #teste
