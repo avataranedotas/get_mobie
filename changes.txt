@@ -12553,3 +12553,27 @@ VBP-00010 --> HRZ 37.0149238 -8.9412289 Vila do Bispo R. da Escola das Cercas Ve
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-03-12T19:27:44.440Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-12T19:27:44.440Z'}]
 Removidos:[]
+
+2024-03-13 14:24:17
+Adicionados:['MLD-00014', 'MMV-00005', 'PTB-00002']
+
+MLD-00014 --> KLS 40.373692 -8.449236 Mealhada Rua das Padeiras da Mealhada
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-13T11:35:23.299Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-13T11:35:23.299Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-13T11:35:23.299Z'}]
+
+MMV-00005 --> KLS 40.183889 -8.670556 Montemor-o-Velho Vale do Louro, Loteamento 4/90, Lote C
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-13T11:33:50.768Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-13T11:33:50.768Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-13T11:33:50.768Z'}]
+
+PTB-00002 --> EDP 41.795170 -8.434125 Ponte da Barca LUGAR DE QUINTAO, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-13T10:42:45.273Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-13T10:42:45.273Z'}]
+Removidos:[]
+PNF-00006
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+PNF-00006
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
