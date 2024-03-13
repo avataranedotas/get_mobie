@@ -12577,3 +12577,23 @@ PNF-00006
 evses -> 1 -> connectors -> 0: 
  NEW format : CABLE
  OLD format : SOCKET
+
+2024-03-13 19:35:57
+Adicionados:['PST-00006', 'STB-00070', 'STB-00071', 'STB-00081']
+
+PST-00006 --> FCT 33.071033 -16.342708 Porto Santo Parque Empresarial do Porto Santo, Lote 7, Lo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-13T15:28:24.549Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-13T15:28:24.549Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-13T15:28:24.549Z'}]
+
+STB-00070 --> HRZ 38.534750 -8.873883 Setúbal R Alexandre O'Neill
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.940Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.940Z'}]
+
+STB-00071 --> HRZ 38.5347500 -8.8738831 Setúbal R Alexandre O'Neill N°, 2910-509 Setúbal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-13T17:30:04.184Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-13T17:30:04.184Z'}]
+
+STB-00081 --> HRZ 38.534750 -8.873883 Setúbal R Alexandre O'Neill
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.941Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.941Z'}]
+Removidos:['PST-00005']
