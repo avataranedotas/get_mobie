@@ -12597,3 +12597,76 @@ STB-00081 --> HRZ 38.534750 -8.873883 Setúbal R Alexandre O'Neill
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.941Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-03-13T18:49:08.941Z'}]
 Removidos:['PST-00005']
+
+2024-03-14 11:13:49
+Adicionados:['ACH-00020', 'ACH-00021', 'LSB-80081', 'MFR-00034', 'NZR-00034', 'OBR-00006', 'SLV-80002']
+
+ACH-00020 --> ATL 38.752065 -8.939838 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:50:52.039Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:50:52.039Z'}]
+
+ACH-00021 --> ATL 38.751757 -8.939855 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:51:55.065Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:51:55.065Z'}]
+
+LSB-80081 --> ATL 38.735367 -9.158403 Lisboa Rua da Mesquita
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-14T10:48:09.502Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-14T10:48:09.502Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MFR-00034 --> ATL 38.9309347 -9.2467531 Mafra Estrada Nacional Nº8
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-03-14T10:50:00.369Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-03-14T10:50:00.369Z'}]
+
+NZR-00034 --> ATL 39.610146 -9.06203 Nazaré Praça Mário Botas
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:50:26.227Z'}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:50:26.227Z'}]
+
+OBR-00006 --> ATL 40.5080709 -8.4859759 Oliveira do Bairro Rua São Sebastião EN235, Qt. S. Sebastião
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2024-03-14T10:47:32.265Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2024-03-14T10:47:32.266Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-14T10:47:32.266Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+SLV-80002 --> ATL 37.185671 -8.441622 Silves Nacional 194 S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:49:34.531Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T10:49:34.531Z'}]
+Removidos:['ACH-00014', 'ACH-00015', 'LSB-00546', 'NZR-00022', 'OBR-00003']
+MMN-00013
+coordinates: 
+ NEW latitude : 38.647877
+ OLD latitude : 38.648025
+MMN-00013
+coordinates: 
+ NEW longitude : -8.222552
+ OLD longitude : -8.617964
+MMN-00013
+: 
+ NEW coordinates : {'latitude': '38.647877', 'longitude': '-8.222552'}
+ OLD coordinates : {'latitude': '38.648025', 'longitude': '-8.617964'}
+VFR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VFR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 125
+VFR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+VFR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VFR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+VFR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 125
+VFR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
