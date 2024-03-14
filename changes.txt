@@ -12670,3 +12670,49 @@ VFR-00078
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 50000
+
+2024-03-14 19:58:15
+Adicionados:['CSC-00163', 'VNT-00004', 'VRL-00033', 'VRL-00034', 'VRL-00035', 'VRL-00036']
+
+CSC-00163 --> HRZ 38.713301 -9.460135 Cascais Rua São Rafael 715
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T16:18:11.607Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T16:18:11.607Z'}]
+
+VNT-00004 --> TRK 38.3342916 -8.0019805 Viana do Alentejo Rua António José D. Almeida, 42
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T15:25:33.063Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T15:25:33.063Z'}]
+
+VRL-00033 --> GRC 41.32448 -7.64073 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-03-14T17:06:58.024Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-14T17:06:58.024Z'}]
+
+VRL-00034 --> GRC 41.32448 -7.64073 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-03-14T17:12:09.364Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-14T17:12:09.364Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T17:12:09.364Z'}]
+
+VRL-00035 --> GRC 41.32364 -7.64166 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-03-14T16:42:52.086Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-14T16:42:52.086Z'}]
+
+VRL-00036 --> GRC 41.32364 -7.64166 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-03-14T16:57:36.576Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-03-14T16:57:36.576Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-14T16:57:36.576Z'}]
+Removidos:[]
+AVV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 440
+ OLD max_voltage : 400
+AVV-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 14080
+ OLD max_electric_power : 22000
+FZZ-00003
+: 
+ NEW address : CEPSA FERREIRA - RUA BRIGADEIRO LINO VALENTE
+ OLD address : RUA BRIGADEIRO LINO VALENTE
+PRD-00020
+: 
+ NEW address : CEPSA PAREDES -AVDA DOS BOMBEIROS VOLUNTARIOS
+ OLD address : AVENIDA DOS BOMBEIROS VOLUNTÁRIOS
+PTG-00023
+: 
+ NEW address : CEPSA PORTALEGRE - AV ESTREMADURA ESPANHOLA
+ OLD address : AV. DA ESTREMADURA ESPANHOLA Nº 37 
