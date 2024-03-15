@@ -12716,3 +12716,11 @@ PTG-00023
 : 
  NEW address : CEPSA PORTALEGRE - AV ESTREMADURA ESPANHOLA
  OLD address : AV. DA ESTREMADURA ESPANHOLA Nº 37 
+
+2024-03-15 11:26:59
+Adicionados:['MDB-00004']
+
+MDB-00004 --> NRG 41.378618 -7.951641 Mondim de Basto Praça de São Domingos
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-15T10:35:36.309Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-15T10:35:36.309Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
