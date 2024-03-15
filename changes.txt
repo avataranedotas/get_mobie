@@ -12732,3 +12732,21 @@ PTL-00016 --> IBD 41.809270 -8.676523 Ponte de Lima Rua da Bouça de Abade
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-03-15T12:06:11.545Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-03-15T12:06:11.545Z'}]
 Removidos:[]
+
+2024-03-15 19:20:54
+TMR-00027
+: 
+ NEW address : Alameda 1º Março, 45
+ OLD address : Alameda 1º Março, 36
+TMR-00027
+coordinates: 
+ NEW latitude : 39.60482
+ OLD latitude : 39.60902
+TMR-00027
+coordinates: 
+ NEW longitude : -8.408697
+ OLD longitude : -8.39595
+TMR-00027
+: 
+ NEW coordinates : {'latitude': '39.60482', 'longitude': '-8.408697'}
+ OLD coordinates : {'latitude': '39.60902', 'longitude': '-8.39595'}
