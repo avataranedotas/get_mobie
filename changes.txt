@@ -12764,3 +12764,16 @@ AMT-00023 --> IBD 41.320123 -8.120283 Amarante Qta de Sanguinhedo 166, Castanhei
 AMT-00024 --> IBD 41.320123 -8.120283 Amarante Qta de Sanguinhedo 166, Castanheiro Redondo
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:32.346Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:32.346Z'}]
 Removidos:[]
+
+2024-03-18 17:20:55
+Adicionados:['AJZ-00006', 'RMR-00010']
+
+AJZ-00006 --> IBD 37.2610998 -8.8291397 Aljezur Herdade Vale dos Polvos - Valinhos
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-18T15:51:23.634Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-18T15:51:23.634Z'}]
+
+RMR-00010 --> EDP 39.340472 -8.859694 Rio Maior Avenida Doutor Mário Soares
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 139, 'max_electric_power': 90000, 'last_updated': '2024-03-18T14:11:13.419Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-03-18T14:11:13.419Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-18T14:11:13.419Z'}]
+Removidos:[]
