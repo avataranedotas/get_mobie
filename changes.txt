@@ -12750,3 +12750,17 @@ TMR-00027
 : 
  NEW coordinates : {'latitude': '39.60482', 'longitude': '-8.408697'}
  OLD coordinates : {'latitude': '39.60902', 'longitude': '-8.39595'}
+
+2024-03-18 13:10:14
+Adicionados:['AMT-00022', 'AMT-00023', 'AMT-00024']
+
+AMT-00022 --> IBD 41.320123 -8.120283 Amarante Qta de Sanguinhedo 166, Castanheiro Redondo
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-18T12:25:12.928Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-18T12:25:12.928Z'}]
+
+AMT-00023 --> IBD 41.320123 -8.120283 Amarante Qta de Sanguinhedo 166, Castanheiro Redondo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:36.291Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:36.291Z'}]
+
+AMT-00024 --> IBD 41.320123 -8.120283 Amarante Qta de Sanguinhedo 166, Castanheiro Redondo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:32.346Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-18T12:27:32.346Z'}]
+Removidos:[]
