@@ -12801,3 +12801,22 @@ LSB-00646 --> ATL 38.7208238 -9.1548132 Lisboa Cç. Bento da Rocha Cabral 16 A
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-03-19T09:20:35.471Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 [{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-19T09:20:35.471Z', 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:[]
+
+2024-03-19 19:09:03
+Adicionados:['AMD-00098', 'LSB-00712', 'LSB-00713']
+
+AMD-00098 --> HRZ 38.7249242 -9.2085480 Amadora Alto De Cabreira Estrada Da Circunvalação, 26
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-19T16:28:32.224Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-03-19T16:28:32.224Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-19T16:28:32.224Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-03-19T16:28:32.224Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-03-19T16:28:32.224Z'}]
+
+LSB-00712 --> GLP 38.759707 -9.153599 Lisboa AV. MAL. CRAVEIRO LOPES 2A 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-03-19T15:10:38.754Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-03-19T15:10:38.754Z'}]
+
+LSB-00713 --> GLP 38.764127 -9.096776 Lisboa RUA MAR DO NORTE 1C
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-03-19T15:40:12.846Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-03-19T15:40:12.846Z'}]
+Removidos:[]
