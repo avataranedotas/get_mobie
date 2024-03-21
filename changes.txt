@@ -12886,3 +12886,39 @@ ETR-00016
 : 
  NEW coordinates : {'latitude': '40.764622', 'longitude': '-8.568518'}
  OLD coordinates : {'latitude': '40.7612803', 'longitude': '-8.5724483'}
+
+2024-03-21 19:14:36
+Adicionados:['BRR-00119', 'BRR-00124', 'BRR-00126']
+
+BRR-00119 --> TRK 38.637194 -9.047411 Barreiro Rua da Boa Esperança, 1
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-03-21T14:35:06.827Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-03-21T14:35:06.827Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+BRR-00124 --> TRK 38.6488001 -9.04835 Barreiro Rua João Azevedo do Carmo 4 B
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-03-21T14:59:43.223Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-03-21T14:59:43.223Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+BRR-00126 --> TRK 38.651511 -9.067986 Barreiro Rua do Adamastor 10
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-02-06T01:08:30.707Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-06T01:08:30.707Z'}]
+Removidos:[]
+ETR-00016
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+ETR-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 32
+ETR-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+ETR-00016
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+ETR-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
