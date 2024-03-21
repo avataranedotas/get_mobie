@@ -12861,3 +12861,28 @@ VFX-00071 --> GLP 38.871834 -9.083698 Vila Franca de Xira Avenida Flamenga
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-03-20T16:11:51.436Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 94, 'max_electric_power': 90000, 'last_updated': '2024-03-20T16:11:51.436Z'}]
 Removidos:[]
+
+2024-03-21 11:34:28
+Adicionados:['PTM-00056']
+
+PTM-00056 --> REP 37.150064 -8.539514 Portimão E.N. 124 - Poço Seco, Cardosas
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-21T11:24:50.321Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-03-21T11:24:50.321Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-21T11:24:50.321Z'}]
+Removidos:[]
+ETR-00016
+: 
+ NEW address : R. Alexandre Miranda, 1 
+ OLD address : Rua Alexandre Miranda
+ETR-00016
+coordinates: 
+ NEW latitude : 40.764622
+ OLD latitude : 40.7612803
+ETR-00016
+coordinates: 
+ NEW longitude : -8.568518
+ OLD longitude : -8.5724483
+ETR-00016
+: 
+ NEW coordinates : {'latitude': '40.764622', 'longitude': '-8.568518'}
+ OLD coordinates : {'latitude': '40.7612803', 'longitude': '-8.5724483'}
