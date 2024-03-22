@@ -12922,3 +12922,20 @@ ETR-00016
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 43000
  OLD max_electric_power : 50000
+
+2024-03-22 19:01:15
+Adicionados:['BRG-00105', 'CBR-00101', 'VNG-00093']
+
+BRG-00105 --> EDP 41.566134 -8.440278 Braga Av. Dra. Assunção Vasconcelos Chaves
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-03-22T14:45:24.265Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 30000, 'last_updated': '2024-03-22T14:45:24.265Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-22T14:45:24.265Z'}]
+
+CBR-00101 --> EDP 40.237404 -8.435729 Coimbra RUA ADRIANO LUCAS, R. MONTE DE SÃO MIGUEL
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-03-22T11:21:24.914Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-03-22T11:21:24.914Z'}]
+
+VNG-00093 --> EDP 41.1023434 -8.5889163 Vila Nova de Gaia R. Conceição Fernandes 99
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 1000, 'last_updated': '2024-03-22T14:39:07.773Z', 'max_amperage': 200, 'max_electric_power': 120000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-22T14:39:07.773Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+Removidos:[]
