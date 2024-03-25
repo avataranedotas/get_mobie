@@ -12951,3 +12951,67 @@ MRV-00002 --> EDP 39.381812 -7.383475 Marvão ESTR. DO RIO SEVER 4
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-25T12:11:36.379Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-25T12:11:36.379Z'}]
 Removidos:[]
+
+2024-03-25 19:38:34
+Adicionados:['CMN-00014', 'CMN-00015', 'CMN-00016', 'CMN-00017', 'CMN-00018', 'CMN-00019', 'CMN-00023', 'LNH-00010', 'OLH-00012', 'PTM-00054', 'PVZ-00040', 'TBU-00008', 'VIS-00099', 'VNF-00044', 'VVC-00003']
+
+CMN-00014 --> TRK 41.849594 -8.862088 Caminha Av. Santana, 113
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:25:44.493Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:25:44.493Z'}]
+
+CMN-00015 --> TRK 41.816175 -8.860002 Caminha Rua Prof. Maria Portela
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:53:55.648Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:53:55.648Z'}]
+
+CMN-00016 --> TRK 41.816027 -8.867616 Caminha Av. Campo do Castelo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:01:54.105Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:01:54.105Z'}]
+
+CMN-00017 --> TRK 41.802994 -8.856383 Caminha Travessa da Areia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:35:11.966Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:35:11.966Z'}]
+
+CMN-00018 --> TRK 41.814297 -8.858494 Caminha Rua Rodrigo Lourenço da Rocha, 80
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:22:41.859Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T15:22:41.859Z'}]
+
+CMN-00019 --> TRK 41.847838 -8.866002 Caminha Av. 25 Abril, 550
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:14:39.838Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:14:39.838Z'}]
+
+CMN-00023 --> TRK 41.821977 -8.866272 Caminha Rua de Sodes, 283
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:51:07.092Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:51:07.092Z'}]
+
+LNH-00010 --> KLS 39.250278 -9.313333 Lourinhã Av. António José de Almeida (EN 247), n 49
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:28:04.503Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:04.503Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:04.503Z'}]
+
+OLH-00012 --> TRK 37.032881 -7.848272 Olhão Rua Bartolomeu Constantino, 8 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-02-06T01:12:10.388Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-02-06T01:12:10.388Z'}]
+
+PTM-00054 --> KLS 37.134242 -8.5460999 Portimão Barranco do Rodrigo - V7
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 43000, 'last_updated': '2024-03-25T14:29:09.098Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:09.098Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:09.098Z'}]
+
+PVZ-00040 --> KLS 41.395103 -8.766531 Póvoa de Varzim Rua Eng. Ezequiel de Campos,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:29:53.581Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:53.581Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:53.581Z'}]
+
+TBU-00008 --> KLS 40.3643799 -8.0256937 Tábua Quinta de Fora,
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 43000, 'last_updated': '2024-03-25T14:29:36.240Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:36.240Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:36.240Z'}]
+
+VIS-00099 --> KLS 40.663694 -7.8984999 Viseu Rua António Augusto Ferreira
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:18.463Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:29:18.463Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-03-25T14:29:18.463Z'}]
+
+VNF-00044 --> KLS 41.415972 -8.518583 Vila Nova de Famalicão Avenida Engenheiro Pinheiro Braga
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:28:42.895Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:42.895Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:42.895Z'}]
+
+VVC-00003 --> KLS 38.785908 -7.422575 Vila Viçosa Estrada Nacional N. 255 - Porta do Nó
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:28:58.665Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:58.665Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:58.665Z'}]
+Removidos:[]
