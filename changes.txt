@@ -13015,3 +13015,15 @@ VVC-00003 --> KLS 38.785908 -7.422575 Vila Viçosa Estrada Nacional N. 255 - Por
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:28:58.665Z'}]
 [{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:58.665Z'}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-03-25T14:28:58.665Z'}]
 Removidos:[]
+
+2024-03-26 13:19:35
+Adicionados:['VCT-00047', 'VCT-00048']
+
+VCT-00047 --> EDP 41.703244 -8.8197219 Viana do Castelo Av. Cap. Gaspar de Castro, 866
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-26T10:49:47.998Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-03-26T10:49:47.998Z'}]
+
+VCT-00048 --> EDP 41.703244 -8.819721 Viana do Castelo Av. Cap. Gaspar de Castro, 866
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T10:16:11.252Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T10:16:11.252Z'}]
+Removidos:[]
