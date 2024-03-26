@@ -13027,3 +13027,21 @@ VCT-00048 --> EDP 41.703244 -8.819721 Viana do Castelo Av. Cap. Gaspar de Castro
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T10:16:11.252Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T10:16:11.252Z'}]
 Removidos:[]
+
+2024-03-26 19:09:17
+Adicionados:['CBR-00072', 'LSB-00703', 'LSB-00704']
+
+CBR-00072 --> REP 40.227401 -8.446229 Coimbra EN 111-1-ST CRUZ-JTO ACADEM CHOUPAL
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-26T14:43:01.398Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-03-26T14:43:01.398Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-26T14:43:01.398Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00703 --> MOO 38.756600 -9.106630 Lisboa AVENIDA MARECHAL GOMES DA COSTA, 15
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 350, 'max_electric_power': 180000, 'last_updated': '2024-03-26T15:52:16.650Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T15:52:16.650Z'}]
+
+LSB-00704 --> MOO 38.756100 -9.106710 Lisboa AVENIDA MARECHAL GOMES DA COSTA, 15
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 75000, 'last_updated': '2024-03-26T15:52:01.223Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 63000, 'last_updated': '2024-03-26T15:52:01.223Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T15:52:01.223Z'}]
+Removidos:[]
