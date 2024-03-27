@@ -13045,3 +13045,32 @@ LSB-00704 --> MOO 38.756100 -9.106710 Lisboa AVENIDA MARECHAL GOMES DA COSTA, 15
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 63000, 'last_updated': '2024-03-26T15:52:01.223Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-26T15:52:01.223Z'}]
 Removidos:[]
+
+2024-03-27 14:42:00
+Adicionados:['AFE-00002', 'CSC-80002', 'STC-80001']
+
+AFE-00002 --> EDP 41.34163 -6.9624442 Alfândega da Fé Praça do Municipio, S/N - EN 215
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-03-27T13:00:40.396Z', 'max_amperage': 120, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-03-27T13:00:40.396Z', 'max_amperage': 120, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-27T13:00:40.396Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+
+CSC-80002 --> ATL 38.6944694 -9.4229083 Cascais Avenida da República
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-27T11:40:36.497Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-27T11:40:36.497Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+STC-80001 --> ATL 38.011176 -8.693212 Santiago do Cacém Avenida D. Nuno Alvares Pereira
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-27T11:42:21.589Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-03-27T11:42:21.589Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+VRS-80002
+coordinates: 
+ NEW latitude : 37.190643
+ OLD latitude : 37.190654
+VRS-80002
+coordinates: 
+ NEW longitude : -7.417702
+ OLD longitude : -7.4141999
+VRS-80002
+: 
+ NEW coordinates : {'latitude': '37.190643', 'longitude': '-7.417702'}
+ OLD coordinates : {'latitude': '37.190654', 'longitude': '-7.4141999'}
