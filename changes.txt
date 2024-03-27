@@ -13074,3 +13074,7 @@ VRS-80002
 : 
  NEW coordinates : {'latitude': '37.190643', 'longitude': '-7.417702'}
  OLD coordinates : {'latitude': '37.190654', 'longitude': '-7.4141999'}
+
+2024-03-27 19:36:28
+Adicionados:[]
+Removidos:['FZZ-00003']
