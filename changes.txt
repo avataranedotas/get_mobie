@@ -13078,3 +13078,16 @@ VRS-80002
 2024-03-27 19:36:28
 Adicionados:[]
 Removidos:['FZZ-00003']
+
+2024-03-28 14:58:01
+Adicionados:['EVR-00033', 'MDR-00007']
+
+EVR-00033 --> HRZ 38.5659324 -7.9128064 Évora Qta. Tapada Urb. Muralha, R. de Viana 18
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 100000, 'last_updated': '2024-03-28T12:26:46.663Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-28T12:26:46.663Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-03-28T12:26:46.663Z'}]
+
+MDR-00007 --> GLP 41.496622 -6.273355 Miranda do Douro RUA DOM DINIS	5210-217 MIRANDA DO DOURO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-28T13:17:44.755Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-28T13:17:44.755Z'}]
+Removidos:[]
