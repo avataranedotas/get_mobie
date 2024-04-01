@@ -13913,3 +13913,835 @@ VZL-80003
 : 
  NEW address : R. Bombeiros VoluntÃ¡rios
  OLD address : R. Bombeiros Voluntários
+
+2024-04-01 11:43:38
+Adicionados:['BGC-00017', 'BGC-00018']
+
+BGC-00017 --> ATL 41.7934661 -6.7217271 Bragança R. das Quintas da Seara 427
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-04-01T08:34:39.086Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-04-01T08:34:39.086Z'}]
+
+BGC-00018 --> ATL 41.7934661 -6.7217271 Bragança R. das Quintas da Seara 427
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-04-01T08:22:06.474Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-04-01T08:22:06.474Z'}]
+Removidos:[]
+VFX-00042
+: 
+ NEW address : Rua António Lúcio Batista
+ OLD address : Rua Ant³nio LÃºcio Batista
+VFX-00043
+: 
+ NEW address : Rua António Lúcio Batista
+ OLD address : Rua AntÃ³nio LÃºcio Batista
+VFX-00044
+: 
+ NEW address : Rua António Lúcio Batista
+ OLD address : Rua AntÃ³nio LÃºcio Batista
+VFX-00045
+: 
+ NEW address : Praça Dr. Francisco Câncio
+ OLD address : PraÃ§a Dr. Francisco CÃ¢ncio
+VFX-00047
+: 
+ NEW address : Rua do Casal Novo 1 Urbanização Tágides Parqu
+ OLD address : Rua do Casal Novo 1 UrbanizaÃ§Ã£o TÃ¡gides Parqu
+VFX-00053
+: 
+ NEW address : Rua João da Silva Vitoriano, Póvoa de Santa I
+ OLD address : Rua JoÃ£o da Silva Vitoriano, PÃ³voa de Santa I
+VFX-00054
+: 
+ NEW address : Rua 1º de Maio, Vialonga
+ OLD address : Rua 1Âº de Maio, Vialonga
+VFX-90001
+: 
+ NEW address : Praceta da Justiça
+ OLD address : Praceta da JustiÃ§a
+VGS-00003
+: 
+ NEW address : Avenida Dr. Lúcio Vidal
+ OLD address : Avenida Dr. LÃºcio Vidal
+VGS-00007
+: 
+ NEW address : R. dos Bombeiros Voluntários de Vagos
+ OLD address : R. dos Bombeiros VoluntÃ¡rios de Vagos
+VGS-00008
+: 
+ NEW address : Rua Cýndido dos Reis
+ OLD address : Rua CÃ½ndido dos Reis
+VIS-00012
+: 
+ NEW address : Avenida da Bélgica
+ OLD address : Avenida da BÃ©lgica
+VIS-00013
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. JosÃ© da Cruz Moreira Pinto, 32
+VIS-00014
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. JosÃ© da Cruz Moreira Pinto, 32
+VIS-00015
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. JosÃ© da Cruz Moreira Pinto, 32
+VIS-00016
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto, 32
+ OLD address : Rua D. JosÃ© da Cruz Moreira Pinto, 32
+VIS-00019
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -2
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -2
+VIS-00020
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -2
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -2
+VIS-00021
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -1
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+VIS-00022
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso -1
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso -1
+VIS-00023
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso P0
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso P0
+VIS-00024
+: 
+ NEW address : Rua do Palácio do Gelo 1, Piso P0
+ OLD address : Rua do PalÃ¡cio do Gelo 1, Piso P0
+VIS-00044
+: 
+ NEW address : Av. Luís Martins Lugar de Repezes-Km178 EN 2
+ OLD address : Av. LuÃ­s Martins Lugar de Repezes-Km178 EN 2
+VIS-00056
+: 
+ NEW address : Rua D. José da Cruz Moreira Pinto
+ OLD address : Rua D. JosÃ© da Cruz Moreira Pinto
+VIS-00058
+: 
+ NEW address : EN 16, Km 96,650 Alto do Caçador
+ OLD address : EN 16, Km 96,650 Alto do CaÃ§ador
+VIS-00059
+: 
+ NEW address : Praça Carlos Lopes
+ OLD address : PraÃ§a Carlos Lopes
+VIS-00060
+: 
+ NEW address : R. Príncipe Perfeito
+ OLD address : R. PrÃ­ncipe Perfeito
+VIS-00061
+: 
+ NEW address : R. Príncipe Perfeito
+ OLD address : R. PrÃ­ncipe Perfeito
+VIS-00062
+: 
+ NEW address : R. Príncipe Perfeito
+ OLD address : R. PrÃ­ncipe Perfeito
+VIS-00063
+: 
+ NEW address : R. Príncipe Perfeito
+ OLD address : R. PrÃ­ncipe Perfeito
+VIS-00068
+: 
+ NEW address : Urbanização, Q.ta do Bosque
+ OLD address : UrbanizaÃ§Ã£o, Q.ta do Bosque
+VIS-00069
+: 
+ NEW address : Urbanização, Q.ta do Bosque
+ OLD address : UrbanizaÃ§Ã£o, Q.ta do Bosque
+VIS-00070
+: 
+ NEW address : Urbanização, Q.ta do Bosque
+ OLD address : UrbanizaÃ§Ã£o, Q.ta do Bosque
+VIS-00071
+: 
+ NEW address : Urbanização, Q.ta do Bosque
+ OLD address : UrbanizaÃ§Ã£o, Q.ta do Bosque
+VIS-00072
+: 
+ NEW address : Urbanização, Q.ta do Bosque
+ OLD address : UrbanizaÃ§Ã£o, Q.ta do Bosque
+VIS-00073
+: 
+ NEW address : Av. Ten-Cel. Silva Simões
+ OLD address : Av. Ten-Cel. Silva SimÃµes
+VIS-00074
+: 
+ NEW address : Av. Ten-Cel. Silva Simões
+ OLD address : Av. Ten-Cel. Silva SimÃµes
+VIS-00075
+: 
+ NEW address : Av. Ten-Cel. Silva Simões
+ OLD address : Av. Ten-Cel. Silva SimÃµes
+VIS-00076
+: 
+ NEW address : Av. Ten-Cel. Silva Simões
+ OLD address : Av. Ten-Cel. Silva SimÃµes
+VIS-00079
+: 
+ NEW address : Rio de Loba Nó 20 (A25)
+ OLD address : Rio de Loba NÃ³ 20 (A25)
+VIS-00081
+: 
+ NEW address : Av. António Joaquim Henriques, S/N
+ OLD address : Av. AntÃ³nio Joaquim Henriques, S/N
+VIS-00088
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00089
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00090
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00091
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00092
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00093
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00094
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00095
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00096
+: 
+ NEW address : Rua Dom António Alves Martins, 9990
+ OLD address : Rua Dom AntÃ³nio Alves Martins, 9990
+VIS-00097
+: 
+ NEW address : R. Mendonça,
+ OLD address : R. MendonÃ§a,
+VIS-00099
+: 
+ NEW address : Rua António Augusto Ferreira
+ OLD address : Rua AntÃ³nio Augusto Ferreira
+VIZ-00010
+: 
+ NEW address : Lugar do Poço Quente
+ OLD address : Lugar do PoÃ§o Quente
+VLC-00003
+: 
+ NEW address : R. Dr. Domingos de Almeida Brandão
+ OLD address : R. Dr. Domingos de Almeida BrandÃ£o
+VLC-00009
+: 
+ NEW address : Avenida Doutor António Fonseca
+ OLD address : Avenida Doutor AntÃ³nio Fonseca
+VLF-00004
+: 
+ NEW city : Vila Nova de Foz Côa
+ OLD city : Vila Nova de Foz CÃ´a
+VLF-00004
+: 
+ NEW address : Caminho Vicinal Currauteles Nº 5
+ OLD address : Caminho Vicinal Currauteles NÂº 5
+VLF-90001
+: 
+ NEW city : Vila Nova de Foz Côa
+ OLD city : Vila Nova de Foz CÃ´a
+VLF-90002
+: 
+ NEW city : Vila Nova de Foz Côa
+ OLD city : Vila Nova de Foz CÃ´a
+VLG-00002
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. TristÃ£o Vaz Teixeira 260
+VLG-00003
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. TristÃ£o Vaz Teixeira 260
+VLG-00006
+: 
+ NEW address : Rua José Joaquim Ribeiro Teles
+ OLD address : Rua JosÃ© Joaquim Ribeiro Teles
+VLG-00007
+: 
+ NEW address : Rua José Joaquim Ribeiro Teles
+ OLD address : Rua JosÃ© Joaquim Ribeiro Teles
+VLG-00009
+: 
+ NEW address : Travessa António Augusto Castro Paupério
+ OLD address : Travessa AntÃ³nio Augusto Castro PaupÃ©rio
+VLG-00011
+: 
+ NEW address : Av. José Joaquim Ribeiro Teles 280
+ OLD address : Av. JosÃ© Joaquim Ribeiro Teles 280
+VLG-00012
+: 
+ NEW address : Rua do Borbulhão
+ OLD address : Rua do BorbulhÃ£o
+VLG-00019
+: 
+ NEW address : McDonald´s Valongo - Rua Fonseca Dias,169
+ OLD address : McDonaldÂ´s Valongo - Rua Fonseca Dias,169
+VLG-00024
+: 
+ NEW address : R. Tristão Vaz Teixeira 260
+ OLD address : R. TristÃ£o Vaz Teixeira 260
+VLG-00028
+: 
+ NEW address : R. Nossa Sra. Mão Poderosa 220
+ OLD address : R. Nossa Sra. MÃ£o Poderosa 220
+VLG-00029
+: 
+ NEW address : R. Ciclo Preparatório nº 200
+ OLD address : R. Ciclo PreparatÃ³rio nÂº 200
+VLG-00032
+: 
+ NEW address : Gaveto - Praceta de Moçambique
+ OLD address : Gaveto - Praceta de MoÃ§ambique
+VLG-00034
+: 
+ NEW address : Lugar Campo Barreiro, Susão, R. Dom Pedro IV
+ OLD address : Lugar Campo Barreiro, SusÃ£o, R. Dom Pedro IV
+VLG-00036
+: 
+ NEW address : Rua 1. de Maio - Sýo Vicente de Alfena
+ OLD address : Rua 1. de Maio - SÃ½o Vicente de Alfena
+VLG-00038
+: 
+ NEW address : E.N. 105, R. 1º de Maio 1070 Km 8,4
+ OLD address : E.N. 105, R. 1Âº de Maio 1070 Km 8,4
+VLG-90001
+: 
+ NEW address : R. Emídio Navarro
+ OLD address : R. EmÃ­dio Navarro
+VLN-00001
+: 
+ NEW address : Avenida do Colégio Português 
+ OLD address : Avenida do ColÃ©gio PortuguÃªs 
+VLN-00001
+: 
+ NEW city : Valença
+ OLD city : ValenÃ§a
+VLN-00004
+: 
+ NEW city : Valença
+ OLD city : ValenÃ§a
+VLN-00005
+: 
+ NEW city : Valença
+ OLD city : ValenÃ§a
+VLN-00006
+: 
+ NEW city : Valença
+ OLD city : ValenÃ§a
+VLN-90002
+: 
+ NEW city : Valença
+ OLD city : ValenÃ§a
+VLP-00003
+: 
+ NEW city : Valpaços
+ OLD city : ValpaÃ§os
+VLP-80002
+: 
+ NEW city : Valpaços
+ OLD city : ValpaÃ§os
+VLP-80002
+: 
+ NEW address : R. Misericórdia
+ OLD address : R. MisericÃ³rdia
+VMS-90001
+: 
+ NEW address : Largo de São Sebastião
+ OLD address : Largo de SÃ£o SebastiÃ£o
+VNC-00006
+: 
+ NEW address : Av. Manuel José Lebrão
+ OLD address : Av. Manuel JosÃ© LebrÃ£o
+VND-00005
+: 
+ NEW address : Rua São João de Deus nº 2
+ OLD address : Rua SÃ£o JoÃ£o de Deus nÂº 2
+VND-00012
+: 
+ NEW address : Rua do Polýgono
+ OLD address : Rua do PolÃ½gono
+VND-90004
+: 
+ NEW address : Rua da Escola Prática de Artilharia
+ OLD address : Rua da Escola PrÃ¡tica de Artilharia
+VNF-00003
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00004
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00008
+: 
+ NEW address : Rua Luís Barroso
+ OLD address : Rua LuÃ­s Barroso
+VNF-00008
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00009
+: 
+ NEW address : Rua Luís Barroso
+ OLD address : Rua LuÃ­s Barroso
+VNF-00009
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00013
+: 
+ NEW address : Rua Álvaro de Castelões
+ OLD address : Rua Ãlvaro de CastelÃµes
+VNF-00013
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00014
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00015
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00016
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00017
+: 
+ NEW address : Rua São João de Deus
+ OLD address : Rua SÃ£o JoÃ£o de Deus
+VNF-00017
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00018
+: 
+ NEW address : Avenida de França
+ OLD address : Avenida de FranÃ§a
+VNF-00018
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00020
+: 
+ NEW address : Rua António Ferreira Magalhães
+ OLD address : Rua AntÃ³nio Ferreira MagalhÃ£es
+VNF-00020
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00023
+: 
+ NEW address : Rua José António Vidal 81
+ OLD address : Rua JosÃ© AntÃ³nio Vidal 81
+VNF-00023
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00024
+: 
+ NEW address : Rua José António Vidal 81
+ OLD address : Rua JosÃ© AntÃ³nio Vidal 81
+VNF-00024
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00025
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00026
+: 
+ NEW address : Rua Alfredo Correia nº 1440
+ OLD address : Rua Alfredo Correia nÂº 1440
+VNF-00026
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00030
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00031
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00034
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00035
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00035
+: 
+ NEW address : R. José de Freitas Dias
+ OLD address : R. JosÃ© de Freitas Dias
+VNF-00036
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00037
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00038
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00039
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00039
+: 
+ NEW address : Rua António Ferreira Magalhães
+ OLD address : Rua AntÃ³nio Ferreira MagalhÃ£es
+VNF-00040
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00040
+: 
+ NEW address : Praça Mouzinho de Albuquerque,
+ OLD address : PraÃ§a Mouzinho de Albuquerque,
+VNF-00041
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00042
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00043
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-00044
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNF-90007
+: 
+ NEW city : Vila Nova de Famalicão
+ OLD city : Vila Nova de FamalicÃ£o
+VNG-00041
+: 
+ NEW address : Rua Rocha Leão
+ OLD address : Rua Rocha LeÃ£o
+VNG-00042
+: 
+ NEW address : Rua Rocha Leão
+ OLD address : Rua Rocha LeÃ£o
+VNG-00043
+: 
+ NEW address : Avenida Poeta Eugénio de Andrade
+ OLD address : Avenida Poeta EugÃ©nio de Andrade
+VNG-00044
+: 
+ NEW address : Avenida João Paulo II
+ OLD address : Avenida JoÃ£o Paulo II
+VNG-00051
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua Ãlvares Cabral
+VNG-00052
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua Ãlvares Cabral
+VNG-00053
+: 
+ NEW address : Rua Álvares Cabral
+ OLD address : Rua Ãlvares Cabral
+VNG-00060
+: 
+ NEW address : Rua da Bélgica
+ OLD address : Rua da BÃ©lgica
+VNG-00065
+: 
+ NEW address : Rua General Humberto Delgado, nº9899
+ OLD address : Rua General Humberto Delgado, nÂº9899
+VNG-00068
+: 
+ NEW address : McDonald´s - Gaia
+ OLD address : McDonaldÂ´s - Gaia
+VNG-00072
+: 
+ NEW address : Área de Serviço de V. N. de Gaia, A1 km 295,7
+ OLD address : Ãrea de ServiÃ§o de V. N. de Gaia, A1 km 295,7
+VNG-00073
+: 
+ NEW address : Área de Serviço de V. N. de Gaia, A1 km 295,7
+ OLD address : Ãrea de ServiÃ§o de V. N. de Gaia, A1 km 295,7
+VNG-00092
+: 
+ NEW address : R. Fernão de Magalhães 1
+ OLD address : R. FernÃ£o de MagalhÃ£es 1
+VNG-00093
+: 
+ NEW address : R. Conceição Fernandes 99
+ OLD address : R. ConceiÃ§Ã£o Fernandes 99
+VNG-00094
+: 
+ NEW address : R. Heróis da Pátria 956
+ OLD address : R. HerÃ³is da PÃ¡tria 956
+VNG-00095
+: 
+ NEW address : Av. Da República, n.º 1435
+ OLD address : Av. Da RepÃºblica, n.Âº 1435
+VNG-00096
+: 
+ NEW address : Av. Da República, n.º 1435
+ OLD address : Av. Da RepÃºblica, n.Âº 1435
+VNG-00097
+: 
+ NEW address : Av. Da República, n.º 1435
+ OLD address : Av. Da RepÃºblica, n.Âº 1435
+VNG-00098
+: 
+ NEW address : Av. Da República, n.º 1435
+ OLD address : Av. Da RepÃºblica, n.Âº 1435
+VNG-00099
+: 
+ NEW address : Av. Da República, n.º 1435
+ OLD address : Av. Da RepÃºblica, n.Âº 1435
+VNG-00102
+: 
+ NEW address : R. Gonçalves de Castro 780
+ OLD address : R. GonÃ§alves de Castro 780
+VNG-00122
+: 
+ NEW address : Rua da Bélgica 86
+ OLD address : Rua da BÃ©lgica 86
+VNG-00123
+: 
+ NEW address : Rua da Bélgica 86
+ OLD address : Rua da BÃ©lgica 86
+VNG-00124
+: 
+ NEW address : AV. DOS DESCOBRIMENTOS, Nº 333
+ OLD address : AV. DOS DESCOBRIMENTOS, NÂº 333
+VNG-00136
+: 
+ NEW address : Rua Rio do Paço
+ OLD address : Rua Rio do PaÃ§o
+VNG-00150
+: 
+ NEW address : Rua Doutor Francisco Sý Carneiro
+ OLD address : Rua Doutor Francisco SÃ½ Carneiro
+VNG-80009
+: 
+ NEW address : Rua São Cristóvão Mafamude
+ OLD address : Rua SÃ£o CristÃ³vÃ£o Mafamude
+VNG-90001
+: 
+ NEW address : Rua das Camélias
+ OLD address : Rua das CamÃ©lias
+VNG-90003
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da RepÃºblica
+VNG-90005
+: 
+ NEW address : Rua Barão Corvo 
+ OLD address : Rua BarÃ£o Corvo 
+VNG-90007
+: 
+ NEW address : Rua dos Mourões
+ OLD address : Rua dos MourÃµes
+VNP-00003
+: 
+ NEW address : Rua Egas Moniz, nº6
+ OLD address : Rua Egas Moniz, nÂº6
+VNT-00004
+: 
+ NEW address : Rua António José D. Almeida, 42
+ OLD address : Rua AntÃ³nio JosÃ© D. Almeida, 42
+VPA-00002
+: 
+ NEW address : Avenida Dr. Abílio Ribeiro
+ OLD address : Avenida Dr. AbÃ­lio Ribeiro
+VPT-00003
+: 
+ NEW address : Rua Dr. Luís Bettencourt
+ OLD address : Rua Dr. LuÃ­s Bettencourt
+VPV-00001
+: 
+ NEW address : Via Vitorino Nemésio km 17,75
+ OLD address : Via Vitorino NemÃ©sio km 17,75
+VPV-00001
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00002
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00003
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00003
+: 
+ NEW address : AVENIDA ÁLVARO MARTINS HOMEM
+ OLD address : AVENIDA ÃLVARO MARTINS HOMEM
+VPV-00004
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00005
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00006
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00007
+: 
+ NEW city : Praia da Vitória
+ OLD city : Praia da VitÃ³ria
+VPV-00007
+: 
+ NEW address : RUA PADRE LOURENÇO AVILA
+ OLD address : RUA PADRE LOURENÃO AVILA
+VRL-00007
+: 
+ NEW address : Rua Dom António Valente da Fonseca
+ OLD address : Rua Dom AntÃ³nio Valente da Fonseca
+VRL-00011
+: 
+ NEW address : Zona Industrial de Bóbeda, N2 Km 6.3
+ OLD address : Zona Industrial de BÃ³beda, N2 Km 6.3
+VRL-00013
+: 
+ NEW address : KFC de Vila Real - Praça da Galiza
+ OLD address : KFC de Vila Real - PraÃ§a da Galiza
+VRL-00019
+: 
+ NEW address : Rua Monsenhor Jerónimo de Amaral
+ OLD address : Rua Monsenhor JerÃ³nimo de Amaral
+VRL-00023
+: 
+ NEW address : Av. Dr. Francisco Sá Carneiro,6
+ OLD address : Av. Dr. Francisco SÃ¡ Carneiro,6
+VRL-00026
+: 
+ NEW address : AV. DA NORUEGA, Nº 6
+ OLD address : AV. DA NORUEGA, NÂº 6
+VRL-80001
+: 
+ NEW address : Praça de Nossa Senhora da Conceição
+ OLD address : PraÃ§a de Nossa Senhora da ConceiÃ§Ã£o
+VRM-00005
+: 
+ NEW address : Largo Professor Brás da Mota
+ OLD address : Largo Professor BrÃ¡s da Mota
+VRM-00006
+: 
+ NEW address : Avenida Joýo da Torre - Lugar de Sobreiro,
+ OLD address : Avenida JoÃ½o da Torre - Lugar de Sobreiro,
+VRS-00004
+: 
+ NEW address : Rua do Norte nº 8 a 10
+ OLD address : Rua do Norte nÂº 8 a 10
+VRS-00004
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-00007
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-00008
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-00009
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-80002
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-90001
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VRS-90002
+: 
+ NEW city : Vila Real de Santo António
+ OLD city : Vila Real de Santo AntÃ³nio
+VVC-00003
+: 
+ NEW city : Vila Viçosa
+ OLD city : Vila ViÃ§osa
+VVC-00003
+: 
+ NEW address : Estrada Nacional N. 255 - Porta do Nó
+ OLD address : Estrada Nacional N. 255 - Porta do NÃ³
+VVC-80001
+: 
+ NEW city : Vila Viçosa
+ OLD city : Vila ViÃ§osa
+VVC-80001
+: 
+ NEW address : Rua D. João IV
+ OLD address : Rua D. JoÃ£o IV
+VVD-00004
+: 
+ NEW address : Intermarché de Vila de Prado
+ OLD address : IntermarchÃ© de Vila de Prado
+VVD-00011
+: 
+ NEW address : Av. António Sérgio, 232
+ OLD address : Av. AntÃ³nio SÃ©rgio, 232
+VVD-00012
+: 
+ NEW address : McDonalds Vila Verde - Av António Sérgio
+ OLD address : McDonalds Vila Verde - Av AntÃ³nio SÃ©rgio
+VVR-00002
+: 
+ NEW address : A23 Km 80 - A.S. VILA VELHA RODÃO (N/S) 
+ OLD address : A23 Km 80 - A.S. VILA VELHA RODÃO (N/S) 
+VVR-00002
+: 
+ NEW city : Vila Velha de Ródão
+ OLD city : Vila Velha de RÃ³dÃ£o
+VVR-00003
+: 
+ NEW address : A23 Km 80 - A.S. VILA VELHA RODÃO (S/N)
+ OLD address : A23 Km 80 - A.S. VILA VELHA RODÃO (S/N)
+VVR-00003
+: 
+ NEW city : Vila Velha de Ródão
+ OLD city : Vila Velha de RÃ³dÃ£o
+VVR-90001
+: 
+ NEW city : Vila Velha de Ródão
+ OLD city : Vila Velha de RÃ³dÃ£o
+VZL-80003
+: 
+ NEW address : R. Bombeiros Voluntários
+ OLD address : R. Bombeiros VoluntÃ¡rios
