@@ -14745,3 +14745,11 @@ VZL-80003
 : 
  NEW address : R. Bombeiros Voluntários
  OLD address : R. Bombeiros VoluntÃ¡rios
+
+2024-04-01 19:18:49
+Adicionados:['FLG-00017']
+
+FLG-00017 --> FCT 41.3768000 -8.1740000 Felgueiras Estrada Nacional 207, km 40, Lameiro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-01T14:55:54.926Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-04-01T14:55:54.926Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-01T14:55:54.926Z'}]
+Removidos:[]
