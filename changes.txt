@@ -14753,3 +14753,63 @@ FLG-00017 --> FCT 41.3768000 -8.1740000 Felgueiras Estrada Nacional 207, km 40, 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-01T14:55:54.926Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-04-01T14:55:54.926Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-01T14:55:54.926Z'}]
 Removidos:[]
+
+2024-04-02 23:04:14
+Adicionados:['AGN-00006', 'PTL-00015']
+
+AGN-00006 --> LUZ 40.258219 -7.942912 Arganil ESTRADA NACIONAL 344
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:15:01.291Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-03-25T14:15:01.291Z'}]
+
+PTL-00015 --> EDP 41.750856 -8.573198 Ponte de Lima Rua dos Sobreiros, 346
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-02T16:26:23.861Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-02T16:26:23.861Z'}]
+Removidos:[]
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 40000
+ OLD max_electric_power : 50000
+LSB-00670
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 40000
+ OLD max_electric_power : 60000
+LSB-00670
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 10000
+ OLD max_electric_power : 22000
+MCH-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 125
+MCH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+MCH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MCH-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+MCH-00002
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+MCH-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 400
+MCH-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 63
+MCH-00002
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 43000
+VNG-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
