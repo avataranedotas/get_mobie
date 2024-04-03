@@ -14813,3 +14813,42 @@ VNG-00093
 evses -> 0 -> connectors -> 0: 
  NEW max_amperage : 300
  OLD max_amperage : 200
+
+2024-04-03 18:32:07
+Adicionados:['AMD-00108', 'PRT-00247', 'SSB-00019']
+
+AMD-00108 --> EGR 38.7348738 -9.2214234 Amadora Estrada Alfragide Lt 107 Portaria Alfragide
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-03T10:15:30.754Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-03T10:15:30.754Z'}]
+
+PRT-00247 --> CAB 41.147129 -8.631777 Porto Alameda Basílio Teles 29
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 375, 'max_electric_power': 175000, 'last_updated': '2024-04-03T11:41:07.175Z'}]
+
+SSB-00019 --> IBD 38.543755 -9.053495 Sesimbra Alameda da Serra 2, Quinta do Conde
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-03T13:09:10.194Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-03T13:09:10.194Z'}]
+Removidos:[]
+ETR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+ETR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 50000
+ETR-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 32
+ETR-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+GRD-00014
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+GRD-00014
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
