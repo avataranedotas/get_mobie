@@ -14852,3 +14852,19 @@ GRD-00014
 evses -> 1 -> connectors -> 0: 
  NEW standard : CHADEMO
  OLD standard : IEC_62196_T2_COMBO
+
+2024-04-04 16:53:10
+Adicionados:['STR-00041', 'STR-00042', 'STR-00043', 'STR-00044']
+
+STR-00041 --> REP 39.22118 -8.69860 Santarém Quinta das Cegonhas, Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-04T13:47:22.056Z'}]
+
+STR-00042 --> REP 39.22119 -8.69860 Santarém Quinta das Cegonhas, Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-04T13:40:34.383Z'}]
+
+STR-00043 --> REP 39.22117 -8.69860 Santarém Quinta das Cegonhas, Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-04T14:12:26.480Z'}]
+
+STR-00044 --> REP 39.22116 -8.69860 Santarém Quinta das Cegonhas, Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-04T13:43:36.354Z'}]
+Removidos:[]
