@@ -14868,3 +14868,11 @@ STR-00043 --> REP 39.22117 -8.69860 Santarém Quinta das Cegonhas, Santarém
 STR-00044 --> REP 39.22116 -8.69860 Santarém Quinta das Cegonhas, Santarém
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-04T13:43:36.354Z'}]
 Removidos:[]
+
+2024-04-05 12:29:26
+Adicionados:['VCT-00050']
+
+VCT-00050 --> FCT 41.70710 -8.82160 Viana do Castelo Estrada da Abelheira - Via Entre Santos, s/n
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-05T09:05:19.484Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-04-05T09:05:19.484Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-05T09:05:19.484Z'}]
+Removidos:[]
