@@ -16712,3 +16712,26 @@ PRT-00034
 : 
  NEW address : Hotel Vila Galé Porto Ribeira
  OLD address : Hotel Vila GalÃ© Porto Ribeira
+
+2024-04-09 12:09:29
+Adicionados:['AGH-00011', 'OAZ-00008', 'VCD-00024', 'VCD-00026', 'VCD-00032']
+
+AGH-00011 --> EDP 38.660756 -27.233998 Angra do Heroísmo Burger King Terceira, M505
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-15T16:26:47.527Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-15T16:26:47.527Z'}]
+
+OAZ-00008 --> REP 40.88386 -8.45188 Oliveira de Azeméis AV DESCOB BRITES, Nogueira do Cravo
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-09T09:42:12.535Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-04-09T09:42:12.535Z'}, {'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T09:42:12.535Z'}]
+
+VCD-00024 --> EDP 41.358838 -8.754521 Vila do Conde AVENIDA COMANDANTE COUTINHO LANHOSO, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T09:16:10.412Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T09:16:10.412Z'}]
+
+VCD-00026 --> EDP 41.349534 -8.753271 Vila do Conde AVENIDA BRASIL, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T15:43:27.783Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-02-26T15:43:27.783Z'}]
+
+VCD-00032 --> EDP 41.294995 -8.689876 Vila do Conde RUA DO PADRAO, S/N 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T08:10:19.305Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T08:10:19.305Z'}]
+Removidos:[]
