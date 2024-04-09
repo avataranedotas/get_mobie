@@ -16735,3 +16735,15 @@ VCD-00032 --> EDP 41.294995 -8.689876 Vila do Conde RUA DO PADRAO, S/N
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T08:10:19.305Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T08:10:19.305Z'}]
 Removidos:[]
+
+2024-04-09 19:33:33
+Adicionados:['FNC-00045', 'FNC-00046']
+
+FNC-00045 --> HLX 32.646210 -16.939250 Funchal R. do Engenho Velho 4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-09T14:14:02.961Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-09T14:14:02.961Z'}]
+
+FNC-00046 --> HLX 32.646210 -16.939250 Funchal R. do Engenho Velho 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T14:08:56.245Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T14:08:56.245Z'}]
+Removidos:[]
