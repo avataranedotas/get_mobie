@@ -16747,3 +16747,154 @@ FNC-00046 --> HLX 32.646210 -16.939250 Funchal R. do Engenho Velho 4
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T14:08:56.245Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-09T14:08:56.245Z'}]
 Removidos:[]
+
+2024-04-10 19:18:26
+Adicionados:['ALQ-00017', 'ALQ-00020', 'ASL-00015', 'SBR-00002', 'SBR-00003', 'VLP-00004', 'VRL-00028', 'VRL-00029', 'VRL-00032']
+
+ALQ-00017 --> ATL 39.0219756 -8.9750328 Alenquer Avenida Cabo da Boa Esperança
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-10T14:46:46.488Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-04-10T14:46:46.488Z'}]
+
+ALQ-00020 --> ATL 39.024304 -8.979769 Alenquer Rua Primeiro de Maio
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:20:48.646Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:20:48.646Z'}]
+
+ASL-00015 --> EDP 38.389146 -8.640356 Alcácer do Sal Estrada Nacional 253, km 14.7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T10:04:44.284Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T10:04:44.284Z'}]
+
+SBR-00002 --> GLP 41.162048 -7.595809 Sabrosa Quinta Nova - 5085-222 Covas do Douro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:32:13.858Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:32:13.858Z'}]
+
+SBR-00003 --> GLP 41.162048 -7.595809 Sabrosa Quinta Nova - 5085-222 Covas do Douro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:34:06.673Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T14:34:06.673Z'}]
+
+VLP-00004 --> IBD 41.592693 -7.303186 Valpaços Rua do Pomar, Lugar da Ribeira
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-10T10:54:34.698Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-10T10:54:34.698Z'}]
+
+VRL-00028 --> GLP 41.315184 -7.730298 Vila Real R. da Levada 70
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-04-10T09:45:20.342Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-04-10T09:45:20.342Z'}]
+
+VRL-00029 --> GLP 41.315184 -7.730298 Vila Real R. da Levada 70
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T09:48:24.512Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-10T09:48:24.512Z'}]
+
+VRL-00032 --> EDP 41.279569 -7.706180 Vila Real Zona Industrial de Constantim Lote 132
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 235, 'max_electric_power': 150000, 'last_updated': '2024-04-01T15:48:48.828Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 235, 'max_electric_power': 150000, 'last_updated': '2024-04-01T15:48:48.828Z'}]
+Removidos:[]
+BRG-00085
+: 
+ NEW party_id : ZUN
+ OLD party_id : ZND
+CVL-00016
+coordinates: 
+ NEW latitude : 40.268694
+ OLD latitude : 40.2689923
+CVL-00016
+coordinates: 
+ NEW longitude : -7.505110
+ OLD longitude : -7.508165
+CVL-00016
+: 
+ NEW coordinates : {'latitude': '40.268694', 'longitude': '-7.505110'}
+ OLD coordinates : {'latitude': '40.2689923', 'longitude': '-7.508165'}
+MFR-00009
+coordinates: 
+ NEW latitude : 38.967073
+ OLD latitude : 38.96647
+MFR-00009
+coordinates: 
+ NEW longitude : -9.405713
+ OLD longitude : -9.407817
+MFR-00009
+: 
+ NEW coordinates : {'latitude': '38.967073', 'longitude': '-9.405713'}
+ OLD coordinates : {'latitude': '38.96647', 'longitude': '-9.407817'}
+MFR-00013
+coordinates: 
+ NEW latitude : 38.966211
+ OLD latitude : 38.965519
+MFR-00013
+coordinates: 
+ NEW longitude : -9.407412
+ OLD longitude : -9.407682
+MFR-00013
+: 
+ NEW coordinates : {'latitude': '38.966211', 'longitude': '-9.407412'}
+ OLD coordinates : {'latitude': '38.965519', 'longitude': '-9.407682'}
+MFR-00014
+coordinates: 
+ NEW latitude : 38.966211
+ OLD latitude : 38.965519
+MFR-00014
+coordinates: 
+ NEW longitude : -9.407509
+ OLD longitude : -9.407682
+MFR-00014
+: 
+ NEW coordinates : {'latitude': '38.966211', 'longitude': '-9.407509'}
+ OLD coordinates : {'latitude': '38.965519', 'longitude': '-9.407682'}
+MFR-00020
+coordinates: 
+ NEW latitude : 38.940962
+ OLD latitude : 38.9407047
+MFR-00020
+coordinates: 
+ NEW longitude : -9.250381
+ OLD longitude : -9.2507482
+MFR-00020
+: 
+ NEW coordinates : {'latitude': '38.940962', 'longitude': '-9.250381'}
+ OLD coordinates : {'latitude': '38.9407047', 'longitude': '-9.2507482'}
+MFR-00022
+coordinates: 
+ NEW latitude : 38.943417
+ OLD latitude : 38.943049
+MFR-00022
+coordinates: 
+ NEW longitude : -9.342269
+ OLD longitude : -9.3421052
+MFR-00022
+: 
+ NEW coordinates : {'latitude': '38.943417', 'longitude': '-9.342269'}
+ OLD coordinates : {'latitude': '38.943049', 'longitude': '-9.3421052'}
+MFR-00032
+coordinates: 
+ NEW latitude : 38.930826
+ OLD latitude : 38.9311871
+MFR-00032
+coordinates: 
+ NEW longitude : -9.251945
+ OLD longitude : -9.2528819
+MFR-00032
+: 
+ NEW coordinates : {'latitude': '38.930826', 'longitude': '-9.251945'}
+ OLD coordinates : {'latitude': '38.9311871', 'longitude': '-9.2528819'}
+MFR-00033
+coordinates: 
+ NEW latitude : 38.965116
+ OLD latitude : 38.9648701
+MFR-00033
+coordinates: 
+ NEW longitude : -9.407725
+ OLD longitude : -9.4104692
+MFR-00033
+: 
+ NEW coordinates : {'latitude': '38.965116', 'longitude': '-9.407725'}
+ OLD coordinates : {'latitude': '38.9648701', 'longitude': '-9.4104692'}
+MFR-00034
+coordinates: 
+ NEW latitude : 38.929944
+ OLD latitude : 38.9309347
+MFR-00034
+coordinates: 
+ NEW longitude : -9.245412
+ OLD longitude : -9.2467531
+MFR-00034
+: 
+ NEW coordinates : {'latitude': '38.929944', 'longitude': '-9.245412'}
+ OLD coordinates : {'latitude': '38.9309347', 'longitude': '-9.2467531'}
