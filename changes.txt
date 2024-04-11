@@ -16898,3 +16898,44 @@ MFR-00034
 : 
  NEW coordinates : {'latitude': '38.929944', 'longitude': '-9.245412'}
  OLD coordinates : {'latitude': '38.9309347', 'longitude': '-9.2467531'}
+
+2024-04-11 13:07:56
+Adicionados:['LSB-00553', 'ODV-00025']
+
+LSB-00553 --> REP 38.73891 -9.202623 Lisboa Estrada da Portela (Alto da Boavista)
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-04-11T09:55:11.958Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-04-11T09:55:11.958Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-04-11T09:55:11.958Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+ODV-00025 --> KLS 38.7957222 -9.1987537 Odivelas Avenida das Acácias
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-11T11:47:59.084Z'}, {'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-11T11:47:59.084Z'}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-04-11T11:47:59.084Z'}]
+Removidos:[]
+OVR-00019
+: 
+ NEW address : Loja Rua da Pardala, 1
+ OLD address : EN n. 109, Ponte Nova
+OVR-00019
+coordinates: 
+ NEW latitude : 40.884296
+ OLD latitude : 40.880208
+OVR-00019
+coordinates: 
+ NEW longitude : -8.615851
+ OLD longitude : -8.617964
+OVR-00019
+: 
+ NEW coordinates : {'latitude': '40.884296', 'longitude': '-8.615851'}
+ OLD coordinates : {'latitude': '40.880208', 'longitude': '-8.617964'}
+OVR-00019
+evses -> 0: 
+ NEW evse_id : PT*KLS*EOVR*00019*02
+ OLD evse_id : PT*KLS*E*OVR*00019*01
+OVR-00019
+evses -> 1: 
+ NEW evse_id : PT*KLS*EOVR*00019*01
+ OLD evse_id : PT*KLS*E*OVR*00019*02
+OVR-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
