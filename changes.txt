@@ -16939,3 +16939,22 @@ OVR-00019
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-04-12 19:12:57
+Adicionados:['EPS-00007', 'ODV-00033', 'RMR-00009']
+
+EPS-00007 --> EDP 41.517297 -8.785227 Esposende Rua Raúl Sousa Martins, 99
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-12T09:13:33.189Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-12T09:13:33.189Z'}]
+
+ODV-00033 --> FCT 38.8105123 -9.2341513 Odivelas Rua Major Rosa Bastos (EN 250 ao Km 19,5)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-12T09:32:18.244Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-04-12T09:32:18.244Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-12T09:32:18.244Z'}]
+
+RMR-00009 --> HRZ 39.3704813 -8.9640874 Rio Maior S/N ALTO DA SERRA; CASAL ALEXANDRE
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-12T11:52:07.636Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-04-12T14:16:31.690Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000, 'last_updated': '2024-04-12T11:52:07.636Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-04-12T14:16:31.690Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-04-12T11:52:07.636Z'}]
+Removidos:[]
