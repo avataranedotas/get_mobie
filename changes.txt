@@ -16958,3 +16958,34 @@ RMR-00009 --> HRZ 39.3704813 -8.9640874 Rio Maior S/N ALTO DA SERRA; CASAL ALEXA
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-04-12T14:16:31.690Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-04-12T11:52:07.636Z'}]
 Removidos:[]
+
+2024-04-15 17:54:46
+Adicionados:['CSC-00181', 'FZZ-00003', 'LGS-00033', 'MTS-00165', 'MTS-00166', 'PFR-00014', 'SNT-00142']
+
+CSC-00181 --> IBD 38.7283074 -9.4760426 Cascais Estrada do Guincho 2413
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T13:22:09.156Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T13:22:09.156Z'}]
+
+FZZ-00003 --> CPS 39.693670 -8.294943 Ferreira do Zêzere CEPSA FERREIRA - RUA BRIGADEIRO LINO VALENTE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-03-12T13:52:46.905Z'}]
+
+LGS-00033 --> EVI 37.106790 -8.687493 Lagos Rua do Bairro da Abrótea
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2024-04-15T14:41:16.153Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2024-04-15T14:41:16.153Z'}]
+
+MTS-00165 --> EDP 41.184574 -8.621494 Matosinhos Serai, Rua do Tronco 375
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T14:53:30.168Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T14:53:30.168Z'}]
+
+MTS-00166 --> EDP 41.184574 -8.621494 Matosinhos Serai, Rua do Tronco 375
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-15T14:47:57.991Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-15T14:47:57.991Z'}]
+
+PFR-00014 --> ATL 41.2867076 -8.3324566 Paços de Ferreira Rua de Santa Cruz - Lugar do Leigal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-04-15T09:12:07.753Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-15T09:12:07.753Z'}]
+
+SNT-00142 --> GLP 38.824974 -9.468177 Sintra RUA NOSSA SENHORA DA PRAIA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T16:23:05.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T16:23:05.823Z'}]
+Removidos:[]
