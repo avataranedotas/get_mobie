@@ -16989,3 +16989,47 @@ SNT-00142 --> GLP 38.824974 -9.468177 Sintra RUA NOSSA SENHORA DA PRAIA
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T16:23:05.823Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-15T16:23:05.823Z'}]
 Removidos:[]
+
+2024-04-16 19:11:49
+Adicionados:['FLG-00020', 'SJP-00003', 'SMP-00002', 'SMP-00003', 'SRN-00002', 'VMS-00003']
+
+FLG-00020 --> PRI 41.377250 -8.172793 Felgueiras N207 207
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-04-16T08:31:03.937Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-04-16T08:31:03.937Z'}]
+
+SJP-00003 --> EDP 41.151711 -7.423602 São João da Pesqueira Av. Dessarges, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T11:45:37.748Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T11:45:37.748Z'}]
+
+SMP-00002 --> IBD 41.2565318 -7.7692467 Santa Marta de Penaguião R. Mal. Teixeira Rebelo 136
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T13:17:30.663Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T13:17:30.663Z'}]
+
+SMP-00003 --> IBD 41.2565318 -7.7692467 Santa Marta de Penaguião  R. Mal. Teixeira Rebelo 136
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T13:15:17.645Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T13:15:17.645Z'}]
+
+SRN-00002 --> EDP 40.898878 -7.486381 Sernancelhe Lugar da Veiga de Cima, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T10:30:08.886Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T10:30:08.886Z'}]
+
+VMS-00003 --> EDP 41.583580 -6.531861 Vimioso Hotel Vileira, Avenida de Alcanices, 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T14:28:27.485Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-16T14:28:27.485Z'}]
+Removidos:[]
+MGR-00008
+: 
+ NEW address : R. 25 de Abril 30
+ OLD address : R. 25 de Abril 28 30
+MGR-00008
+coordinates: 
+ NEW latitude : 39.750495
+ OLD latitude : 39.5037302
+MGR-00008
+coordinates: 
+ NEW longitude : -8.926718
+ OLD longitude : -8.9266593
+MGR-00008
+: 
+ NEW coordinates : {'latitude': '39.750495', 'longitude': '-8.926718'}
+ OLD coordinates : {'latitude': '39.5037302', 'longitude': '-8.9266593'}
