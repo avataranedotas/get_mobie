@@ -17033,3 +17033,46 @@ MGR-00008
 : 
  NEW coordinates : {'latitude': '39.750495', 'longitude': '-8.926718'}
  OLD coordinates : {'latitude': '39.5037302', 'longitude': '-8.9266593'}
+
+2024-04-18 12:30:54
+Adicionados:['AGH-00012', 'AGH-00013', 'AGH-00014', 'FAR-00043', 'FAR-00048', 'FAR-00053', 'GDM-00047', 'MAI-00051', 'VLG-00039', 'VPV-00008']
+
+AGH-00012 --> SEG 38.668397 -27.263500 Angra do Heroísmo EN6-2A 33
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T10:18:24.210Z'}]
+
+AGH-00013 --> SEG 38.657730 -27.214412 Angra do Heroísmo Rua Nova
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T10:17:33.659Z'}]
+
+AGH-00014 --> SEG 38.659440 -27.119179 Angra do Heroísmo EN1-1A 11
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T09:09:19.244Z'}]
+
+FAR-00043 --> HRZ 37.0317331 -7.9639104 Faro R. Prof. José Sousa Ferradeira 4
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T14:12:34.513Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T14:12:34.513Z'}]
+
+FAR-00048 --> HRZ 37.0180514 -7.9250707 Faro Av. 5 de Outubro 68
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T10:10:17.023Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T10:10:17.023Z'}]
+
+FAR-00053 --> HRZ 37.0285536 -7.9284103 Faro Rua Dr. José Filipe Alvares 20-34
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T11:28:47.610Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T11:28:47.610Z'}]
+
+GDM-00047 --> CPS 41.165572 -8.544005 Gondomar Av. Carvalha 662, 4510-518 Fânzeres, Portugal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'max_voltage': 99, 'max_amperage': 1515, 'max_electric_power': 150000, 'last_updated': '2024-04-17T15:21:30.000Z'}]
+
+MAI-00051 --> EDP 41.236041 -8.615650 Maia Av. Dom Manuel II 1385
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-04-17T15:02:29.868Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-04-17T15:02:29.868Z'}]
+
+VLG-00039 --> EDP 41.234074 -8.539092 Valongo R. Primeiro de Maio 430
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-04-17T10:07:28.131Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-04-17T10:07:28.131Z'}]
+
+VPV-00008 --> SEG 38.731334 -27.064859 Praia da Vitória Rua Comendador Francisco José J. Barcelos
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-17T09:44:09.767Z'}]
+Removidos:[]
+CPR-90002
+: 
+ NEW city : Castanheira de Pêra
+ OLD city : Elvas
