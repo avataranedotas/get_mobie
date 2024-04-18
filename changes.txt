@@ -17076,3 +17076,63 @@ CPR-90002
 : 
  NEW city : Castanheira de Pêra
  OLD city : Elvas
+
+2024-04-18 18:13:54
+Adicionados:['FAR-00054', 'GMR-00129']
+
+FAR-00054 --> HRZ 37.0317330 -7.9639103 Faro R. Prof. José Sousa Ferradeira 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T11:30:26.824Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-18T11:32:17.821Z'}]
+
+GMR-00129 --> EDP 41.43659 -8.29611 Guimarães  Av. Dom Afonso Henriques, 740
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-18T14:09:12.425Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-18T14:09:12.425Z'}]
+Removidos:[]
+ACH-00019
+coordinates: 
+ NEW latitude : 38.751684
+ OLD latitude : 38.751594
+ACH-00019
+coordinates: 
+ NEW longitude : -8.946112
+ OLD longitude : -8.946375
+ACH-00019
+: 
+ NEW coordinates : {'latitude': '38.751684', 'longitude': '-8.946112'}
+ OLD coordinates : {'latitude': '38.751594', 'longitude': '-8.946375'}
+EVR-00045
+coordinates: 
+ NEW latitude : 38.574109
+ OLD latitude : 38.5736000
+EVR-00045
+coordinates: 
+ NEW longitude : -7.900347
+ OLD longitude : -7.9005000
+EVR-00045
+: 
+ NEW coordinates : {'latitude': '38.574109', 'longitude': '-7.900347'}
+ OLD coordinates : {'latitude': '38.5736000', 'longitude': '-7.9005000'}
+LRA-00117
+coordinates: 
+ NEW latitude : 39.828206
+ OLD latitude : 39.8282450
+LRA-00117
+coordinates: 
+ NEW longitude : -8.682973
+ OLD longitude : -8.6826810
+LRA-00117
+: 
+ NEW coordinates : {'latitude': '39.828206', 'longitude': '-8.682973'}
+ OLD coordinates : {'latitude': '39.8282450', 'longitude': '-8.6826810'}
+VCT-00050
+coordinates: 
+ NEW latitude : 41.7073333
+ OLD latitude : 41.70710
+VCT-00050
+coordinates: 
+ NEW longitude : -8.8222777
+ OLD longitude : -8.82160
+VCT-00050
+: 
+ NEW coordinates : {'latitude': '41.7073333', 'longitude': '-8.8222777'}
+ OLD coordinates : {'latitude': '41.70710', 'longitude': '-8.82160'}
