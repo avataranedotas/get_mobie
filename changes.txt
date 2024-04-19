@@ -17136,3 +17136,9 @@ VCT-00050
 : 
  NEW coordinates : {'latitude': '41.7073333', 'longitude': '-8.8222777'}
  OLD coordinates : {'latitude': '41.70710', 'longitude': '-8.82160'}
+
+2024-04-19 19:14:12
+OAZ-00008
+evses -> 0 -> connectors -> 1: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 6000
