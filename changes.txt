@@ -262,3 +262,118 @@ VFR-00061
 : 
  NEW coordinates : {'latitude': '40.967991', 'longitude': '-8.538044'}
  OLD coordinates : {'latitude': '40.967994', 'longitude': '-8.552656'}
+
+2024-04-29 19:34:15
+Adicionados:['BJA-00053', 'BJA-00054', 'BJA-00055', 'BJA-00056', 'BNV-00007', 'CBR-00109', 'GDL-00020', 'GDL-00021', 'GDL-00022', 'LLE-00203', 'LLE-00204', 'LLE-00209', 'LLE-00212', 'LLE-00213', 'LLE-00214', 'LRS-00123', 'LSB-00792', 'LSB-00794', 'MTS-00168', 'MTS-00169', 'SLV-00015']
+
+BJA-00053 --> TRK 38.004889 -7.857278 Beja Rua Cidade de São Paulo 36
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:45:33.717Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:45:33.717Z'}]
+
+BJA-00054 --> TRK 38.004889 -7.857278 Beja Rua Cidade de São Paulo 36
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:54:27.203Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:54:27.203Z'}]
+
+BJA-00055 --> TRK 38.004889 -7.857278 Beja Rua Cidade de São Paulo 36
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:56:33.870Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T14:56:33.870Z'}]
+
+BJA-00056 --> TRK 38.004889 -7.857278 Beja Rua Cidade de São Paulo 36
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T15:00:38.004Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T15:00:38.004Z'}]
+
+BNV-00007 --> PRI 38.947913 -8.8300983 Benavente ESTRADA NACIONAL 118
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-04-29T16:29:43.746Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-04-29T16:29:43.746Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+CBR-00109 --> EDP 40.196004 -8.43219 Coimbra Rua Amorim Girão
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:52:45.964Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:52:45.964Z'}]
+
+GDL-00020 --> EDP 38.4664941 -8.877387 Grândola Via Longitudinal de Tróia, Estrada Nacional 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:53:22.913Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:53:22.913Z'}]
+
+GDL-00021 --> EDP 38.4652327 -8.8760545 Grândola Via Longitudinal de Tróia, Estrada Nacional 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:53:50.904Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:53:50.904Z'}]
+
+GDL-00022 --> EDP 38.4652327 -8.8760545 Grândola Via Longitudinal de Tróia, Estrada Nacional 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:54:16.690Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:54:16.690Z'}]
+
+LLE-00203 --> GLP 37.107249 -8.121997 Loulé URBANIZACAO ENCOSTA OLIVEIRAS 9516
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-04-29T15:42:51.731Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-04-29T15:42:51.731Z'}]
+
+LLE-00204 --> GLP 37.090901 -8.113092 Loulé RUA DE FRANCA 9517
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-04-29T14:39:26.461Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-04-29T14:39:26.461Z'}]
+
+LLE-00209 --> GLP 37.085867 -8.094076 Loulé URBANIZACAO SEMINO VILA SOL 9521
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-04-29T14:03:02.912Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-04-29T14:03:02.912Z'}]
+
+LLE-00212 --> EDP 37.080715 -8.106866 Loulé Praça dos Largo dos Três Caminhos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:54:59.089Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:54:59.089Z'}]
+
+LLE-00213 --> EDP 37.080715 -8.106866 Loulé Praça dos Largo dos Três Caminhos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:55:25.031Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:55:25.031Z'}]
+
+LLE-00214 --> EDP 37.080715 -8.106866 Loulé Praça dos Largo dos Três Caminhos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:55:59.062Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-29T15:55:59.062Z'}]
+
+LRS-00123 --> EDP 38.844400 -9.165500 Loures Rua Gil Vicente 26
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:06:39.269Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:06:39.269Z'}]
+
+LSB-00792 --> EDP 38.711463 -9.139265 Lisboa R. do Crucifixo 114
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T15:56:23.157Z'}]
+
+LSB-00794 --> EDP 38.729124 -9.140919 Lisboa R. Gen. Garcia Rosado nº11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-29T15:58:43.710Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-04-29T15:58:43.710Z'}]
+
+MTS-00168 --> EDP 41.18995 -8.59922 Matosinhos ISCAP , R. Jaime Lopes Amorim
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:00:01.474Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:00:01.474Z'}]
+
+MTS-00169 --> EDP 41.189957 -8.59922 Matosinhos ISCAP 2, R. Jaime Lopes Amorim
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:00:23.262Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T16:00:23.262Z'}]
+
+SLV-00015 --> EDP 37.109179 -8.353025 Silves ESTRADA NACIONAL 269
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-16T10:17:04.260Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-16T10:17:04.260Z'}]
+Removidos:['OER-00176']
+ORM-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+VRL-00010
+coordinates: 
+ NEW latitude : 41.308867
+ OLD latitude : 41.308868
+VRL-00010
+coordinates: 
+ NEW longitude : -7.738608
+ OLD longitude : -7.738615
+VRL-00010
+: 
+ NEW coordinates : {'latitude': '41.308867', 'longitude': '-7.738608'}
+ OLD coordinates : {'latitude': '41.308868', 'longitude': '-7.738615'}
+VRL-00024
+coordinates: 
+ NEW latitude : 41.3144927
+ OLD latitude : 41.314201
+VRL-00024
+coordinates: 
+ NEW longitude : -7.7316691
+ OLD longitude : -7.7316236
+VRL-00024
+: 
+ NEW coordinates : {'latitude': '41.3144927', 'longitude': '-7.7316691'}
+ OLD coordinates : {'latitude': '41.314201', 'longitude': '-7.7316236'}
