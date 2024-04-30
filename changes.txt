@@ -377,3 +377,168 @@ VRL-00024
 : 
  NEW coordinates : {'latitude': '41.3144927', 'longitude': '-7.7316691'}
  OLD coordinates : {'latitude': '41.314201', 'longitude': '-7.7316236'}
+
+2024-04-30 15:07:06
+Adicionados:['CLD-00031', 'CLD-00032', 'GDL-00018', 'GDL-00019', 'GMR-00124', 'GMR-00125', 'LSB-00791', 'PRT-00242', 'STB-00082']
+
+CLD-00031 --> HRZ 39.4023755 -9.1386285 Caldas da Rainha R. Filinto Elísio  
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:56:10.773Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:56:10.773Z'}]
+
+CLD-00032 --> HRZ 39.4023755 -9.1386285 Caldas da Rainha R. Filinto Elísio
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:58:44.598Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:58:44.598Z'}]
+
+GDL-00018 --> IBD 38.271417 -8.641917 Grândola Estrada das Bicas
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:52:54.164Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T10:52:54.164Z'}]
+
+GDL-00019 --> EDP 38.4664941 -8.877387 Grândola Via Longitudinal de Tróia, Estrada Nacional 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T08:54:00.247Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T08:54:00.247Z'}]
+
+GMR-00124 --> EDP 41.444829 -8.297907 Guimarães Alameda Dr Alfredo Pimenta , S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T09:58:48.206Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T09:58:48.206Z'}]
+
+GMR-00125 --> EDP 41.450493 -8.293908 Guimarães Alameda Universidade Guimarães, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T13:42:52.182Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-30T13:42:52.182Z'}]
+
+LSB-00791 --> EDP 38.711463 -9.139265 Lisboa R. do Crucifixo 114
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-04-30T13:11:16.201Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-04-30T13:11:16.201Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-04-30T13:11:16.201Z'}]
+
+PRT-00242 --> HRZ 41.1709332 -8.5703247 Porto Rua das Linhas de Torres 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T13:51:13.330Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-30T13:51:13.330Z'}]
+
+STB-00082 --> FCT 38.53260 -8.88440 Setúbal Estrada dos Ciprestes
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-12T14:37:39.748Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-04-12T14:37:39.748Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-04-12T14:37:39.748Z'}]
+Removidos:['FIG-00032', 'LSB-00705', 'LSB-00706', 'LSB-00707']
+LSB-00652
+: 
+ NEW address : Azinhaga Ulmeiros Rua Projectada À
+ OLD address : Rua Cesar de Oliveira A
+LSB-00652
+coordinates: 
+ NEW longitude : -9.172888
+ OLD longitude : -9.1728882
+LSB-00652
+: 
+ NEW coordinates : {'latitude': '38.768484', 'longitude': '-9.172888'}
+ OLD coordinates : {'latitude': '38.768484', 'longitude': '-9.1728882'}
+LSB-00652
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELSB*00652*1
+ OLD evse_id : PT*ATL*E*LSB*00652*01
+LSB-00652
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 75
+LSB-00652
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 45000
+ OLD max_electric_power : 50000
+LSB-00652
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELSB*00652*2
+ OLD evse_id : PT*ATL*E*LSB*00652*02
+LSB-00652
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 75
+LSB-00652
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 45000
+ OLD max_electric_power : 50000
+LSB-00670
+: 
+ NEW address : Azinhaga Ulmeiros Rua Projectada À
+ OLD address : Rua Cesar de Oliveira A
+LSB-00670
+coordinates: 
+ NEW longitude : -9.172888
+ OLD longitude : -9.1728882
+LSB-00670
+: 
+ NEW coordinates : {'latitude': '38.768484', 'longitude': '-9.172888'}
+ OLD coordinates : {'latitude': '38.768484', 'longitude': '-9.1728882'}
+LSB-00670
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELSB*00670*1
+ OLD evse_id : PT*ATL*E*LSB*00670*01
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 750
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 45000
+ OLD max_electric_power : 40000
+LSB-00670
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELSB*00670*2
+ OLD evse_id : PT*ATL*E*LSB*00670*02
+LSB-00670
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 750
+LSB-00670
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 45000
+ OLD max_electric_power : 40000
+LSB-00670
+evses -> 2: 
+ NEW evse_id : PT*ATL*ELSB*00670*3
+ OLD evse_id : PT*ATL*E*LSB*00670*03
+LSB-00670
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 10000
+OER-00190
+evses -> 1: 
+ NEW evse_id : PT*ATL*EOER*00190*2
+ OLD evse_id : PT*ATL*EOER*00190*3
+OER-00190
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+OER-00190
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 400
+OER-00190
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 32
+OER-00190
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 22000
+OER-00190
+evses -> 2: 
+ NEW evse_id : PT*ATL*EOER*00190*3
+ OLD evse_id : PT*ATL*EOER*00190*2
+OER-00190
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+OER-00190
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+OER-00190
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 150
+OER-00190
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 60000
