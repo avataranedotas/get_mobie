@@ -542,3 +542,69 @@ OER-00190
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 60000
+
+2024-05-01 08:52:42
+BGC-00017
+: 
+ NEW address : Rua das Quintas da Seara 427
+ OLD address : R. das Quintas da Seara 427
+BGC-00017
+coordinates: 
+ NEW latitude : 41.793370
+ OLD latitude : 41.7934661
+BGC-00017
+coordinates: 
+ NEW longitude : -6.721500
+ OLD longitude : -6.7217271
+BGC-00017
+: 
+ NEW coordinates : {'latitude': '41.793370', 'longitude': '-6.721500'}
+ OLD coordinates : {'latitude': '41.7934661', 'longitude': '-6.7217271'}
+BGC-00017
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBGC*00017*1
+ OLD evse_id : PT*ATL*E*BGC*00017*01
+BGC-00017
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBGC*00017*2
+ OLD evse_id : PT*ATL*E*BGC*00017*02
+BGC-00018
+: 
+ NEW address : Rua das Quintas da Seara 427
+ OLD address : R. das Quintas da Seara 427
+BGC-00018
+coordinates: 
+ NEW latitude : 41.793370
+ OLD latitude : 41.7934661
+BGC-00018
+coordinates: 
+ NEW longitude : -6.721500
+ OLD longitude : -6.7217271
+BGC-00018
+: 
+ NEW coordinates : {'latitude': '41.793370', 'longitude': '-6.721500'}
+ OLD coordinates : {'latitude': '41.7934661', 'longitude': '-6.7217271'}
+BGC-00018
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBGC*00018*1
+ OLD evse_id : PT*ATL*E*BGC*00018*01
+BGC-00018
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBGC*00018*2
+ OLD evse_id : PT*ATL*E*BGC*00018*02
+PFR-00014
+: 
+ NEW address : Rua de Santa Cruz
+ OLD address : Rua de Santa Cruz - Lugar do Leigal
+PFR-00014
+coordinates: 
+ NEW latitude : 41.286820
+ OLD latitude : 41.2867076
+PFR-00014
+coordinates: 
+ NEW longitude : -8.332640
+ OLD longitude : -8.3324566
+PFR-00014
+: 
+ NEW coordinates : {'latitude': '41.286820', 'longitude': '-8.332640'}
+ OLD coordinates : {'latitude': '41.2867076', 'longitude': '-8.3324566'}
