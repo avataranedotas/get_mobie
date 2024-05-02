@@ -608,3 +608,147 @@ PFR-00014
 : 
  NEW coordinates : {'latitude': '41.286820', 'longitude': '-8.332640'}
  OLD coordinates : {'latitude': '41.2867076', 'longitude': '-8.3324566'}
+
+2024-05-02 16:06:12
+Adicionados:['IDN-00002', 'IDN-00003', 'MTS-00164']
+
+IDN-00002 --> IBD 40.0003800 -6.8768375 Idanha-a-Nova Rua Dr. José Gardete Martins, Monfortinho
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T13:44:44.853Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T13:44:44.853Z'}]
+
+IDN-00003 --> IBD 40.0003800 -6.8768375 Idanha-a-Nova Rua Dr. José Gardete Martins, Monfortinho
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T13:47:24.476Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T13:47:24.476Z'}]
+
+MTS-00164 --> EDP 41.198323 -8.610140 Matosinhos R. Laranjeiras 891
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-05-02T10:53:09.916Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-05-02T10:53:09.916Z'}]
+Removidos:[]
+ABF-00066
+coordinates: 
+ NEW latitude : 37.084349
+ OLD latitude : 37.11211
+ABF-00066
+coordinates: 
+ NEW longitude : -8.314354
+ OLD longitude : -8.234128
+ABF-00066
+: 
+ NEW coordinates : {'latitude': '37.084349', 'longitude': '-8.314354'}
+ OLD coordinates : {'latitude': '37.11211', 'longitude': '-8.234128'}
+ABF-00067
+coordinates: 
+ NEW latitude : 37.090511
+ OLD latitude : 37.11211
+ABF-00067
+coordinates: 
+ NEW longitude : -8.243906
+ OLD longitude : -8.234128
+ABF-00067
+: 
+ NEW coordinates : {'latitude': '37.090511', 'longitude': '-8.243906'}
+ OLD coordinates : {'latitude': '37.11211', 'longitude': '-8.234128'}
+ABF-00068
+coordinates: 
+ NEW latitude : 37.084349
+ OLD latitude : 37.11211
+ABF-00068
+coordinates: 
+ NEW longitude : -8.314354
+ OLD longitude : -8.234128
+ABF-00068
+: 
+ NEW coordinates : {'latitude': '37.084349', 'longitude': '-8.314354'}
+ OLD coordinates : {'latitude': '37.11211', 'longitude': '-8.234128'}
+AMD-00105
+: 
+ NEW address : Travessa do Miradouro, Avenida da Qta Grande
+ OLD address : Travessa Miradouro UrbanizaÃ§Ã£o QtÂª.Grande
+AMD-00105
+coordinates: 
+ NEW latitude : 38.737780
+ OLD latitude : 38.7377192
+AMD-00105
+coordinates: 
+ NEW longitude : -9.225550
+ OLD longitude : -9.2255139
+AMD-00105
+: 
+ NEW coordinates : {'latitude': '38.737780', 'longitude': '-9.225550'}
+ OLD coordinates : {'latitude': '38.7377192', 'longitude': '-9.2255139'}
+AMD-00105
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAMD*00105*1
+ OLD evse_id : PT*ATL*E*AMD*00105*01
+AMD-00105
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 800
+AMD-00105
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAMD*00105*2
+ OLD evse_id : PT*ATL*E*AMD*00105*02
+LLE-00175
+: 
+ NEW address : Rua das Amoreiras
+ OLD address : Rua das Amoreiras, 9010
+LLE-00175
+coordinates: 
+ NEW latitude : 37.082260
+ OLD latitude : 37.082317
+LLE-00175
+coordinates: 
+ NEW longitude : -8.120140
+ OLD longitude : -8.120097
+LLE-00175
+: 
+ NEW coordinates : {'latitude': '37.082260', 'longitude': '-8.120140'}
+ OLD coordinates : {'latitude': '37.082317', 'longitude': '-8.120097'}
+LLE-00175
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00175*1
+ OLD evse_id : PT*ATL*E*LLE*00175*01
+LLE-00175
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00175*2
+ OLD evse_id : PT*ATL*E*LLE*00175*02
+PRT-00228
+: 
+ NEW address : Avenida do Marechal Gomes da Costa 855
+ OLD address : Avenida Marechal Gomes da Costa, 855
+PRT-00228
+coordinates: 
+ NEW latitude : 41.158110
+ OLD latitude : 41.1578651
+PRT-00228
+coordinates: 
+ NEW longitude : -8.664160
+ OLD longitude : -8.6642763
+PRT-00228
+: 
+ NEW coordinates : {'latitude': '41.158110', 'longitude': '-8.664160'}
+ OLD coordinates : {'latitude': '41.1578651', 'longitude': '-8.6642763'}
+PRT-00228
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPRT*00228*1
+ OLD evse_id : PT*ATL*E*PRT*00228*01
+PRT-00228
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPRT*00228*2
+ OLD evse_id : PT*ATL*E*PRT*00228*02
+PRT-00228
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+PRT-00228
+evses -> 2: 
+ NEW evse_id : PT*ATL*EPRT*00228*3
+ OLD evse_id : PT*ATL*E*PRT*00228*03
+PRT-00228
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+PRT-00228
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
