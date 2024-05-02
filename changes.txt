@@ -752,3 +752,29 @@ PRT-00228
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-05-02 18:27:40
+PNF-00014
+coordinates: 
+ NEW latitude : 41.23247
+ OLD latitude : 41.23268
+PNF-00014
+coordinates: 
+ NEW longitude : -8.17898
+ OLD longitude : -8.1782999
+PNF-00014
+: 
+ NEW coordinates : {'latitude': '41.23247', 'longitude': '-8.17898'}
+ OLD coordinates : {'latitude': '41.23268', 'longitude': '-8.1782999'}
+PNF-00015
+coordinates: 
+ NEW latitude : 41.23247
+ OLD latitude : 41.23268
+PNF-00015
+coordinates: 
+ NEW longitude : -8.17898
+ OLD longitude : -8.1782999
+PNF-00015
+: 
+ NEW coordinates : {'latitude': '41.23247', 'longitude': '-8.17898'}
+ OLD coordinates : {'latitude': '41.23268', 'longitude': '-8.1782999'}
