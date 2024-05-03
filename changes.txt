@@ -778,3 +778,198 @@ PNF-00015
 : 
  NEW coordinates : {'latitude': '41.23247', 'longitude': '-8.17898'}
  OLD coordinates : {'latitude': '41.23268', 'longitude': '-8.1782999'}
+
+2024-05-03 19:59:29
+Adicionados:['LSB-00705', 'LSB-00706', 'LSB-00707', 'MOBI-VCT-00010', 'PBL-00021', 'PBL-00022', 'PDL-00012', 'PDL-00013', 'PDL-00014', 'RGR-00009', 'VFC-00006']
+
+LSB-00705 --> HLX 38.720753 -9.151440 Lisboa Rua Castilho nº 11
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-04-23T09:14:43.431Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-04-23T09:14:43.431Z'}]
+
+LSB-00706 --> HLX 38.720753 -9.151440 Lisboa Rua Castilho nº 11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-23T09:13:16.555Z'}]
+
+LSB-00707 --> HLX 38.720753 -9.151440 Lisboa Rua Castilho nº 11
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-23T09:17:35.511Z'}]
+
+MOBI-VCT-00010 --> INT 42.1208995 -8.2744365 Viana do Castelo Rua Lugar S. Amaro, sn-1, Bajo Prado
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T10:00:54.314Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-02T10:00:54.314Z'}]
+
+PBL-00021 --> GLP 40.014272 -8.600257 Pombal (A1) KM 166,7 - PORTO/LISBOA	3100-480
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 200000, 'last_updated': '2024-05-03T15:30:41.183Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 200000, 'last_updated': '2024-05-03T15:30:41.183Z'}]
+
+PBL-00022 --> GLP 40.012310 -8.599994 Pombal (A1) KM 166,7 - LISBOA/PORTO	3100-480
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 200000, 'last_updated': '2024-05-03T16:08:46.137Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 200000, 'last_updated': '2024-05-03T16:08:46.137Z'}]
+
+PDL-00012 --> SEG 37.752043 -25.656593 Ponta Delgada Rua de São Gonçalo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:55:16.334Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:55:16.334Z'}]
+
+PDL-00013 --> SEG 37.759472 -25.704903 Ponta Delgada Rua António Resendes Tavares, 9
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T15:41:31.239Z'}]
+
+PDL-00014 --> SEG 37.739204 -25.676759 Ponta Delgada Rua de Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T15:08:02.911Z'}]
+
+RGR-00009 --> SEG 37.787007 -25.603542 Ribeira Grande Estrada da Ribeira Grande, Km 8 - Giestas
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:27:02.639Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:27:02.639Z'}]
+
+VFC-00006 --> SEG 37.718618 -25.442122 Vila Franca do Campo Avenida das Comunidades Emigrantes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:03:51.188Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-03T13:03:51.188Z'}]
+Removidos:[]
+AMD-00095
+: 
+ NEW address : Avenida Doutor Fernando Piteira Santos 5
+ OLD address : Av. Dr. Fernando Piteira Santos 5
+AMD-00095
+coordinates: 
+ NEW latitude : 38.778470
+ OLD latitude : 38.7786519
+AMD-00095
+coordinates: 
+ NEW longitude : -9.232530
+ OLD longitude : -9.2324638
+AMD-00095
+: 
+ NEW coordinates : {'latitude': '38.778470', 'longitude': '-9.232530'}
+ OLD coordinates : {'latitude': '38.7786519', 'longitude': '-9.2324638'}
+AMD-00095
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAMD*00095*1
+ OLD evse_id : PT*ATL*E*AMD*00095*01
+AMD-00095
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAMD*00095*2
+ OLD evse_id : PT*ATL*E*AMD*00095*02
+AMD-00095
+evses -> 2: 
+ NEW evse_id : PT*ATL*EAMD*00095*3
+ OLD evse_id : PT*ATL*E*AMD*00095*03
+AMD-00096
+: 
+ NEW address : Avenida Doutor Fernando Piteira Santos 5
+ OLD address : Av. Dr. Fernando Piteira Santos 5
+AMD-00096
+coordinates: 
+ NEW latitude : 38.778460
+ OLD latitude : 38.7786519
+AMD-00096
+coordinates: 
+ NEW longitude : -9.232530
+ OLD longitude : -9.2324638
+AMD-00096
+: 
+ NEW coordinates : {'latitude': '38.778460', 'longitude': '-9.232530'}
+ OLD coordinates : {'latitude': '38.7786519', 'longitude': '-9.2324638'}
+AMD-00096
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAMD*00096*1
+ OLD evse_id : PT*ATL*E*AMD*00096*01
+AMD-00096
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAMD*00096*2
+ OLD evse_id : PT*ATL*E*AMD*00096*02
+AMD-00096
+evses -> 2: 
+ NEW evse_id : PT*ATL*EAMD*00096*3
+ OLD evse_id : PT*ATL*E*AMD*00096*03
+MAI-00046
+: 
+ NEW address : Rua Dona Maria Faria
+ OLD address : Rua D. Maria Faria N.º 230
+MAI-00046
+coordinates: 
+ NEW latitude : 41.212430
+ OLD latitude : 41.2127634
+MAI-00046
+coordinates: 
+ NEW longitude : -8.563360
+ OLD longitude : -8.5652704
+MAI-00046
+: 
+ NEW coordinates : {'latitude': '41.212430', 'longitude': '-8.563360'}
+ OLD coordinates : {'latitude': '41.2127634', 'longitude': '-8.5652704'}
+MAI-00046
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMAI*00046*1
+ OLD evse_id : PT*ATL*E*MAI*00046*01
+MAI-00046
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MAI-00046
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMAI*00046*2
+ OLD evse_id : PT*ATL*E*MAI*00046*02
+MAI-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MAI-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 160
+MAI-00046
+evses -> 2: 
+ NEW evse_id : PT*ATL*EMAI*00046*3
+ OLD evse_id : PT*ATL*E*MAI*00046*03
+MAI-00046
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VFR-00082
+: 
+ NEW address : Rua Doutor Crispim Borges de Castro
+ OLD address : R. Dr. Crispim Borges de Castro
+VFR-00082
+coordinates: 
+ NEW latitude : 40.922230
+ OLD latitude : 40.922391
+VFR-00082
+coordinates: 
+ NEW longitude : -8.565480
+ OLD longitude : -8.566144
+VFR-00082
+: 
+ NEW coordinates : {'latitude': '40.922230', 'longitude': '-8.565480'}
+ OLD coordinates : {'latitude': '40.922391', 'longitude': '-8.566144'}
+VFR-00082
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVFR*00082*1
+ OLD evse_id : PT*ATL*E*VFR*00082*01
+VFR-00082
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+VFR-00082
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 150
+VFR-00082
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVFR*00082*2
+ OLD evse_id : PT*ATL*E*VFR*00082*02
+VFR-00082
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+VFR-00082
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+VNG-00136
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVNG*00136*1
+ OLD evse_id : PT*ATL*E*VNG*00136*01
+VNG-00136
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVNG*00136*2
+ OLD evse_id : PT*ATL*E*VNG*00136*02
+VNG-00136
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVNG*00136*3
+ OLD evse_id : PT*ATL*E*VNG*00136*03
