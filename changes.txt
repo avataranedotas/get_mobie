@@ -973,3 +973,106 @@ VNG-00136
 evses -> 2: 
  NEW evse_id : PT*ATL*EVNG*00136*3
  OLD evse_id : PT*ATL*E*VNG*00136*03
+
+2024-05-07 16:56:36
+Adicionados:['LSB-00726', 'LSB-00727', 'LSB-00728', 'LSB-00729', 'LSB-00730', 'LSB-00731', 'LSB-00732', 'LSB-00733', 'LSB-00746', 'LSB-00747', 'LSB-00754', 'LSB-00755', 'LSB-00756', 'LSB-00769', 'LSB-00770', 'LSB-00771', 'LSB-00776', 'LSB-00777', 'LSB-00783', 'LSB-00784', 'LSB-00785', 'LSB-00793', 'LSB-00795', 'LSB-00796', 'RMR-00011', 'RMR-00012']
+
+LSB-00726 --> MAK 38.7239963 -9.1523617 Lisboa Rua Castilho 39
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T15:16:01.608Z'}]
+
+LSB-00727 --> MAK 38.7239963 -9.1523617 Lisboa Rua Castilho 39
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T15:16:05.859Z'}]
+
+LSB-00728 --> MAK 38.7239963 -9.1523617 Lisboa Rua Castilho 39
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T15:15:12.656Z'}]
+
+LSB-00729 --> MAK 38.7360467 -9.1403576 Lisboa Rua Alves Redol
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T15:03:49.432Z'}]
+
+LSB-00730 --> MAK 38.7360467 -9.1403576 Lisboa Rua Alves Redol
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T15:08:35.644Z'}]
+
+LSB-00731 --> MAK 38.7360467 -9.1403576 Lisboa Rua Alves Redol
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T15:12:05.457Z'}]
+
+LSB-00732 --> MAK 38.7363758 -9.1430396 Lisboa Avenida João Crisóstomo
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T15:42:46.845Z'}]
+
+LSB-00733 --> MAK 38.7363758 -9.1430396 Lisboa Avenida João Crisóstomo
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T15:50:09.919Z'}]
+
+LSB-00746 --> MAK 38.7153491 9.16668 Lisboa Rua Padre Francisco
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T08:52:44.034Z'}]
+
+LSB-00747 --> MAK 38.7153491 9.16668 Lisboa Rua Padre Francisco
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T08:49:47.578Z'}]
+
+LSB-00754 --> MAK 38.7068867 -9.1684606 Lisboa Rua Embaixador Teixeira de Sampaio
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T10:30:58.279Z'}]
+
+LSB-00755 --> MAK 38.7068867 -9.1684606 Lisboa Rua Embaixador Teixeira de Sampaio
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T10:31:31.087Z'}]
+
+LSB-00756 --> MAK 38.7068867 -9.1684606 Lisboa Rua Embaixador Teixeira de Sampaio
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T10:31:36.095Z'}]
+
+LSB-00769 --> MAK 38.7167956 -9.1429162 Lisboa Praça dos Restauradores
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:43:15.270Z'}]
+
+LSB-00770 --> MAK 38.7167956 -9.1429162 Lisboa Praça dos Restauradores
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:45:44.375Z'}]
+
+LSB-00771 --> MAK 38.7167956 -9.1429162 Lisboa Praça dos Restauradores
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:48:02.414Z'}]
+
+LSB-00776 --> MAK 38.7319014 -9.1465638 Lisboa Rua Latino Coelho
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:08:06.219Z'}]
+
+LSB-00777 --> MAK 38.7319014 -9.1465638 Lisboa Rua Latino Coelho
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:09:52.730Z'}]
+
+LSB-00783 --> MAK 38.737518 -9.1344577 Lisboa Alameda D. Afonso Henriques
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T13:12:30.753Z'}]
+
+LSB-00784 --> MAK 38.737518 -9.1344577 Lisboa Alameda D. Afonso Henriques
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T13:16:59.865Z'}]
+
+LSB-00785 --> MAK 38.737518 -9.1344577 Lisboa Alameda D. Afonso Henriques
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T13:20:43.697Z'}]
+
+LSB-00793 --> EDP 38.757700 -9.161200 Lisboa CAMPO Grande - Hipódromo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-06T15:39:43.889Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-06T15:39:43.889Z'}]
+
+LSB-00795 --> GLP 38.704730 -9.176386 Lisboa R. Fradesso da Silveira E
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:46:38.603Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T14:46:38.603Z'}]
+
+LSB-00796 --> MAK 38.737518 -9.1344577 Lisboa Alameda D. Afonso Henriques
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-06T13:23:37.268Z'}]
+
+RMR-00011 --> HRZ 39.3882132 -8.961593 Rio Maior Estrada nacional n°1, km 76,6m, 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-07T15:49:08.426Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-07T15:49:08.426Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-07T15:49:08.426Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-05-07T15:49:08.426Z'}]
+
+RMR-00012 --> HRZ 39.3882132 -8.961593 Rio Maior Estrada nacional n°1, km 76,6m
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-07T15:49:39.203Z'}]
+Removidos:[]
+LSB-00652
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 45000
+LSB-00652
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 45000
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 45000
+LSB-00670
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 45000
