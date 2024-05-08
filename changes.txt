@@ -1076,3 +1076,36 @@ LSB-00670
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 45000
+
+2024-05-08 10:46:07
+Adicionados:['BRR-00138', 'BRR-00140', 'BRR-00141', 'CSC-00184', 'PNF-00033', 'VFR-00084']
+
+BRR-00138 --> MAK 38.662092 -9.07823 Barreiro Rua Dr. Câmara Pestana Garage
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T10:04:36.872Z'}]
+
+BRR-00140 --> MAK 38.662092 -9.07823 Barreiro Rua Dr. Câmara Pestana Garage
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T10:11:02.388Z'}]
+
+BRR-00141 --> MAK 38.662092 -9.07823 Barreiro Rua Dr. Câmara Pestana Garage
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T10:14:20.211Z'}]
+
+CSC-00184 --> FCT 38.7283542 -9.3284687 Cascais Estrada Conceição da Abóboda
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-05-08T10:21:43.443Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-05-08T10:21:43.443Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-05-08T10:21:43.443Z'}]
+
+PNF-00033 --> GLP 41.052157 -8.368250 Penafiel RUA DA FONTANHEIRA S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-08T09:04:09.628Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-08T09:04:09.628Z'}]
+
+VFR-00084 --> EDP 40.9420067 -8.5757403 Santa Maria da Feira RUA DO FEIRA PARK, 21
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T08:34:35.673Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T08:34:35.673Z'}]
+Removidos:[]
+RMR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+RMR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
