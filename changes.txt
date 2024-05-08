@@ -1109,3 +1109,102 @@ RMR-00012
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2024-05-08 18:14:13
+Adicionados:['BJA-00033', 'BJA-00035', 'BJA-00037', 'BJA-00039', 'BRR-00139', 'MDR-00003', 'PNF-00029', 'VNT-00002', 'VNT-00003', 'VNT-00005']
+
+BJA-00033 --> TRK 38.01740 -7.86830 Beja Rua de Lisboa, 51
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:26:58.419Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:26:58.419Z'}]
+
+BJA-00035 --> TRK 38.0153037 -7.87288 Beja Av. Cmte. Ramiro Correia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:13:10.575Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:13:10.575Z'}]
+
+BJA-00037 --> TRK 38.01452 -7.86328 Beja Largo da Conceição, 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:08:37.705Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:08:37.705Z'}]
+
+BJA-00039 --> TRK 38.0102383 -7.86542 Beja Rua dos Açores, 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:48:26.733Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:48:26.733Z'}]
+
+BRR-00139 --> MAK 38.662092 -9.07823 Barreiro Rua Dr. Câmara Pestana Garage
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T10:07:17.002Z'}]
+
+MDR-00003 --> EDP 41.493744 -6.273399 Miranda do Douro Largo da Sé, S/N 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:27:34.863Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:27:34.863Z'}]
+
+PNF-00029 --> GLP 41.218291 -8.292209 Penafiel Av. Manuel da Rocha Melo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-08T11:09:03.641Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-08T11:09:03.641Z'}]
+
+VNT-00002 --> TRK 38.3376277 8.0072972 Viana do Alentejo Rua da Quinta de Santa Maria, 22
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:10:37.712Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T14:10:37.712Z'}]
+
+VNT-00003 --> TRK 38.3904139 -7.9671361 Viana do Alentejo Rua 5 de Outubro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:02:36.264Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:02:36.264Z'}]
+
+VNT-00005 --> TRK 38.3896861 -8.149275 Viana do Alentejo Rua Dom Afonso V
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:23:21.195Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-08T15:23:21.195Z'}]
+Removidos:[]
+ALB-00019
+: 
+ NEW address : N1-IC2 Km245,5 – Cavada Nova
+ OLD address : N1-IC2 Km245,5 - Cavada Nova
+ALQ-00017
+evses -> 0: 
+ NEW evse_id : PT*ATL*EALQ*00017*1
+ OLD evse_id : PT*ATL*EALQ*00017*2
+ALQ-00017
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+ALQ-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+ALQ-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 120000
+ALQ-00017
+evses -> 1: 
+ NEW evse_id : PT*ATL*EALQ*00017*2
+ OLD evse_id : PT*ATL*EALQ*00017*1
+ALQ-00017
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+ALQ-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+ALQ-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 50000
+BRG-00104
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+BRG-00104
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+PNF-00033
+coordinates: 
+ NEW latitude : 41.052469
+ OLD latitude : 41.052157
+PNF-00033
+coordinates: 
+ NEW longitude : -8.375268
+ OLD longitude : -8.368250
+PNF-00033
+: 
+ NEW coordinates : {'latitude': '41.052469', 'longitude': '-8.375268'}
+ OLD coordinates : {'latitude': '41.052157', 'longitude': '-8.368250'}
