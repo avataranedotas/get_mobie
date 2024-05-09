@@ -1208,3 +1208,45 @@ PNF-00033
 : 
  NEW coordinates : {'latitude': '41.052469', 'longitude': '-8.375268'}
  OLD coordinates : {'latitude': '41.052157', 'longitude': '-8.368250'}
+
+2024-05-09 19:37:20
+Adicionados:['ALR-00007', 'CBR-00107', 'CBR-00108', 'EVR-00046', 'EVR-00047', 'FIG-00031', 'FIG-00032', 'GRD-00033', 'TMR-00037']
+
+ALR-00007 --> EDP 39.20080 -8.618500 Almeirim Rua Condessa da Junqueira 178
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-09T13:26:36.420Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-09T13:26:36.420Z'}]
+
+CBR-00107 --> PRI 40.194213 -8.432725 Coimbra Rua António Gonçalves 28/29
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-05-09T11:45:57.135Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-05-09T11:45:57.135Z'}]
+
+CBR-00108 --> PRI 40.194212 -8.432690 Coimbra Rua António Gonçalves 28/29
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-09T11:47:33.954Z'}]
+
+EVR-00046 --> HRZ 38.5596852 -7.8949452 Évora Lote, R. Luís Adelino Fonseca 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-09T13:19:58.044Z'}]
+
+EVR-00047 --> HRZ 38.5596852 -7.8949452 Évora Lote, R. Luís Adelino Fonseca 3
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-05-09T13:18:37.891Z'}]
+
+FIG-00031 --> HLX 40.159093 -8.864847 Figueira da Foz Rua de Os Luzíadas, nº 14
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-04-26T08:35:36.363Z'}]
+
+FIG-00032 --> HLX 40.159093 -8.864847 Figueira da Foz Rua de Os Luzíadas, nº 14
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-26T08:35:31.090Z'}]
+
+GRD-00033 --> IBD 40.552027 -7.246854 Guarda Avenida Sao Miguel
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-09T13:47:34.505Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-09T13:47:34.505Z'}]
+
+TMR-00037 --> HRZ 39.6072418 -8.3963574 Tomar Lameirão, Avessadas Edifício "Roady"
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T15:58:09.562Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-05-09T15:58:09.562Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-09T15:58:09.562Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-05-09T15:58:09.562Z'}]
+Removidos:[]
