@@ -1260,3 +1260,260 @@ EVR-00047
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 187500
+
+2024-05-10 18:08:17
+Adicionados:['FAR-00044', 'FAR-00047', 'FAR-00050', 'LSB-00709', 'LSB-00710', 'LSB-00711', 'MDR-00006', 'VRL-00037']
+
+FAR-00044 --> HRZ 37.0170770 -7.9288568 Faro Av. 5 de Outubro 8-18
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T11:04:56.160Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T11:04:56.160Z'}]
+
+FAR-00047 --> HRZ 37.0208331 -7.9375638 Faro Jardim do Largo de S. Sebastião
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T13:02:10.006Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T13:02:10.007Z'}]
+
+FAR-00050 --> HRZ 37.0140510 -7.9262839 Faro Rua da Policia da Seguranca Publica
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T11:48:41.034Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T11:48:41.034Z'}]
+
+LSB-00709 --> HLX 38.720383 -9.150590 Lisboa R. Rodrigo da Fonseca 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T14:26:25.547Z'}]
+
+LSB-00710 --> HLX 38.720383 -9.150590 Lisboa R. Rodrigo da Fonseca 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T15:29:37.742Z'}]
+
+LSB-00711 --> HLX 38.720383 -9.150590 Lisboa R. Rodrigo da Fonseca 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-10T14:21:05.929Z'}]
+
+MDR-00006 --> GLP 41.392277 -6.424596 Miranda do Douro ESTRADA NACIONAL 221 - POENTE S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2024-05-10T13:44:12.584Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 125, 'max_electric_power': 120000, 'last_updated': '2024-05-10T13:44:12.584Z'}]
+
+VRL-00037 --> ATL 41.3121858 -7.7602926 Vila Real R. da Barra, Vila Real
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-05-10T14:25:59.336Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-10T14:25:59.336Z'}]
+Removidos:[]
+AMD-00104
+: 
+ NEW address : Rua Elías Garcia 23H
+ OLD address : Rua Elias Garcia, 23
+AMD-00104
+coordinates: 
+ NEW latitude : 38.754890
+ OLD latitude : 38.7549592
+AMD-00104
+coordinates: 
+ NEW longitude : -9.216940
+ OLD longitude : -9.2164701
+AMD-00104
+: 
+ NEW coordinates : {'latitude': '38.754890', 'longitude': '-9.216940'}
+ OLD coordinates : {'latitude': '38.7549592', 'longitude': '-9.2164701'}
+AMD-00104
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAMD*00104*1
+ OLD evse_id : PT*ATL*E*AMD*00104*01
+AMD-00104
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+AMD-00104
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAMD*00104*2
+ OLD evse_id : PT*ATL*E*AMD*00104*02
+AMD-00104
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+AMD-00104
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+CSC-00101
+: 
+ NEW address : McDonalds Birre, Rua Birre 581
+ OLD address : Rua Birre 581
+ESP-00006
+: 
+ NEW address : McDonald´s Espinho, R. 20 nº 1
+ OLD address : R. 20 nº 1
+LSB-00434
+: 
+ NEW address : McDonalds, Avª Drº, Av. Dr. Augusto de Castro
+ OLD address : McDonalds - Marechal Gomes da Costa
+LSB-00703
+coordinates: 
+ NEW latitude : 38.756116
+ OLD latitude : 38.756600
+LSB-00703
+coordinates: 
+ NEW longitude : -9.1067255
+ OLD longitude : -9.106630
+LSB-00703
+: 
+ NEW coordinates : {'latitude': '38.756116', 'longitude': '-9.1067255'}
+ OLD coordinates : {'latitude': '38.756600', 'longitude': '-9.106630'}
+LSB-00704
+coordinates: 
+ NEW latitude : 38.756651
+ OLD latitude : 38.756100
+LSB-00704
+coordinates: 
+ NEW longitude : -9.1066424
+ OLD longitude : -9.106710
+LSB-00704
+: 
+ NEW coordinates : {'latitude': '38.756651', 'longitude': '-9.1066424'}
+ OLD coordinates : {'latitude': '38.756100', 'longitude': '-9.106710'}
+MFR-00027
+: 
+ NEW address : BK Malveira, Estrada Nacional 8
+ OLD address : Estrada Nacional 8
+MTS-00149
+: 
+ NEW address : Rua Doutor Manuel Rodrigues de Sousa
+ OLD address : R. Dr. Manuel Rodrigues de Sousa 92
+MTS-00149
+coordinates: 
+ NEW latitude : 41.174600
+ OLD latitude : 41.174658
+MTS-00149
+coordinates: 
+ NEW longitude : -8.687600
+ OLD longitude : -8.687685
+MTS-00149
+: 
+ NEW coordinates : {'latitude': '41.174600', 'longitude': '-8.687600'}
+ OLD coordinates : {'latitude': '41.174658', 'longitude': '-8.687685'}
+MTS-00149
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMTS*00149*1
+ OLD evse_id : PT*ATL*E*MTS*00149*01
+MTS-00149
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00149
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMTS*00149*2
+ OLD evse_id : PT*ATL*E*MTS*00149*02
+MTS-00149
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+MTS-00149
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00150
+: 
+ NEW address : Rua Doutor Manuel Rodrigues de Sousa
+ OLD address : R. Dr. Manuel Rodrigues de Sousa 92
+MTS-00150
+coordinates: 
+ NEW latitude : 41.174650
+ OLD latitude : 41.174677
+MTS-00150
+coordinates: 
+ NEW longitude : -8.687530
+ OLD longitude : -8.687469
+MTS-00150
+: 
+ NEW coordinates : {'latitude': '41.174650', 'longitude': '-8.687530'}
+ OLD coordinates : {'latitude': '41.174677', 'longitude': '-8.687469'}
+MTS-00150
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMTS*00150*1
+ OLD evse_id : PT*ATL*E*MTS*00150*01
+MTS-00150
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 929
+ OLD max_voltage : 500
+MTS-00150
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMTS*00150*2
+ OLD evse_id : PT*ATL*E*MTS*00150*02
+MTS-00150
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+MTS-00150
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00151
+: 
+ NEW address : Rua Doutor Manuel Rodrigues de Sousa 92
+ OLD address : R. Dr. Manuel Rodrigues de Sousa 92
+MTS-00151
+coordinates: 
+ NEW latitude : 41.174620
+ OLD latitude : 41.174666
+MTS-00151
+coordinates: 
+ NEW longitude : -8.687560
+ OLD longitude : -8.68758
+MTS-00151
+: 
+ NEW coordinates : {'latitude': '41.174620', 'longitude': '-8.687560'}
+ OLD coordinates : {'latitude': '41.174666', 'longitude': '-8.68758'}
+MTS-00151
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMTS*00151*1
+ OLD evse_id : PT*ATL*E*MTS*00151*01
+MTS-00151
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00151
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMTS*00151*2
+ OLD evse_id : PT*ATL*E*MTS*00151*02
+MTS-00151
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00152
+: 
+ NEW address : Rua Doutor Manuel Rodrigues de Sousa
+ OLD address : R. Dr. Manuel Rodrigues de Sousa 92
+MTS-00152
+coordinates: 
+ NEW latitude : 41.174600
+ OLD latitude : 41.174653
+MTS-00152
+coordinates: 
+ NEW longitude : -8.687750
+ OLD longitude : -8.687745
+MTS-00152
+: 
+ NEW coordinates : {'latitude': '41.174600', 'longitude': '-8.687750'}
+ OLD coordinates : {'latitude': '41.174653', 'longitude': '-8.687745'}
+MTS-00152
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMTS*00152*1
+ OLD evse_id : PT*ATL*E*MTS*00152*01
+MTS-00152
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+MTS-00152
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMTS*00152*2
+ OLD evse_id : PT*ATL*E*MTS*00152*02
+MTS-00152
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 500
+SNT-00082
+: 
+ NEW address : McDonalds Mercês - Estrada Mercês-Algueirão
+ OLD address : Estrada Mercês-Algueirão
+VCT-00028
+: 
+ NEW address : McDonalds Viana do Castelo, Estr. da Papanata
+ OLD address : Estr. da Papanata
+VNG-00068
+: 
+ NEW address : McDonald´s - Gaia Drive, Av. Dom João II 1701
+ OLD address : McDonald´s - Gaia
