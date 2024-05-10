@@ -1250,3 +1250,13 @@ TMR-00037 --> HRZ 39.6072418 -8.3963574 Tomar Lameirão, Avessadas Edifício "Ro
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-09T15:58:09.562Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-05-09T15:58:09.562Z'}]
 Removidos:[]
+
+2024-05-10 08:59:57
+EVR-00047
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 187500
+EVR-00047
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 187500
