@@ -1601,3 +1601,127 @@ RMR-00012
 : 
  NEW coordinates : {'latitude': '39.3824121', 'longitude': '-8.9620996'}
  OLD coordinates : {'latitude': '39.3882132', 'longitude': '-8.961593'}
+
+2024-05-14 17:38:03
+Adicionados:['ALB-00010', 'ALB-00015', 'ALB-00016', 'LLE-00202', 'LLE-00205', 'PPS-00002', 'PTG-00021', 'STC-00015']
+
+ALB-00010 --> GLP 40.690038 -8.474710 Albergaria-a-Velha R. Eng. Brito Rebelo,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T10:09:23.793Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T10:09:23.793Z'}]
+
+ALB-00015 --> GLP 40.671360 -8.557929 Albergaria-a-Velha R. Cubo 66,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:01:59.928Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:01:59.928Z'}]
+
+ALB-00016 --> GLP 40.639041 -8.547412 Albergaria-a-Velha Viela Agro s/n,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:41:05.491Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:41:05.491Z'}]
+
+LLE-00202 --> GLP 37.106264 -8.129801 Loulé URBANIZACAO TERRACOS PINHAL 9514
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-05-14T09:06:45.838Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-05-14T09:06:45.838Z'}]
+
+LLE-00205 --> GLP 37.091476 -8.104199 Loulé RUA DO BRASIL 9518
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-05-14T14:29:44.022Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-05-14T14:29:44.022Z'}]
+
+PPS-00002 --> HLX 40.042119 -7.949036 Pampilhosa da Serra R. do Bairro São Martinho Lote 7 E
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-05-14T13:54:18.148Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-05-14T13:54:18.149Z'}]
+
+PTG-00021 --> ATL 39.299010 -7.428920 Portalegre Avenida Movimento das Forças Armadas
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2024-05-14T17:06:30.768Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 30000, 'last_updated': '2024-05-14T17:06:30.768Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T17:06:30.768Z'}]
+
+STC-00015 --> EDP 38.0646064 -8.7805135 Santiago do Cacém BAIRRO Petrogal - PT | Vila Nova de Santo And
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:00:38.377Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-14T14:00:38.377Z'}]
+Removidos:[]
+MTS-00142
+coordinates: 
+ NEW latitude : 41.1843434
+ OLD latitude : 41.1843231
+MTS-00142
+coordinates: 
+ NEW longitude : -8.6816900
+ OLD longitude : -8.6817213
+MTS-00142
+: 
+ NEW coordinates : {'latitude': '41.1843434', 'longitude': '-8.6816900'}
+ OLD coordinates : {'latitude': '41.1843231', 'longitude': '-8.6817213'}
+MTS-00143
+coordinates: 
+ NEW latitude : 41.1843341
+ OLD latitude : 41.1843231
+MTS-00143
+coordinates: 
+ NEW longitude : -8.6817307
+ OLD longitude : -8.6817213
+MTS-00143
+: 
+ NEW coordinates : {'latitude': '41.1843341', 'longitude': '-8.6817307'}
+ OLD coordinates : {'latitude': '41.1843231', 'longitude': '-8.6817213'}
+MTS-00144
+coordinates: 
+ NEW latitude : 41.1843158
+ OLD latitude : 41.1843231
+MTS-00144
+coordinates: 
+ NEW longitude : -8.6817672
+ OLD longitude : -8.6817213
+MTS-00144
+: 
+ NEW coordinates : {'latitude': '41.1843158', 'longitude': '-8.6817672'}
+ OLD coordinates : {'latitude': '41.1843231', 'longitude': '-8.6817213'}
+MTS-00145
+coordinates: 
+ NEW latitude : 41.1843002
+ OLD latitude : 41.1843231
+MTS-00145
+coordinates: 
+ NEW longitude : -8.6818049
+ OLD longitude : -8.6817213
+MTS-00145
+: 
+ NEW coordinates : {'latitude': '41.1843002', 'longitude': '-8.6818049'}
+ OLD coordinates : {'latitude': '41.1843231', 'longitude': '-8.6817213'}
+PRT-00181
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PRT-00181
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+PRT-00181
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 80000
+PRT-00181
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+PRT-00181
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+PRT-00181
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 60000
+PRT-00181
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+PRT-00181
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+PRT-00181
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+PRT-00181
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
