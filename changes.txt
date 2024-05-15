@@ -1725,3 +1725,163 @@ PRT-00181
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 150000
  OLD max_electric_power : 80000
+
+2024-05-15 17:36:46
+Adicionados:['ALB-00012', 'BRG-00090', 'BRG-00093', 'EPS-00019', 'EPS-00023', 'FAR-00046', 'VIS-00104']
+
+ALB-00012 --> GLP 40.686540 -8.472074 Albergaria-a-Velha R. Comendador Augusto Martins Pereira 68-94,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T14:19:36.469Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T14:19:36.469Z'}]
+
+BRG-00090 --> ECI 41.445844 -8.175813 Braga Avenida Brasil, 4820-121 Fafe
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-15T09:49:11.984Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-15T09:49:11.984Z'}]
+
+BRG-00093 --> ECI 41.445844 -8.175813 Braga Avenida Brasil, 4820-121 Fafe
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-15T09:50:50.153Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-15T09:50:50.153Z'}]
+
+EPS-00019 --> GLP 41.558437 -8.736831 Esposende Rua Sobreira da Costa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T08:57:05.980Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T08:57:05.980Z'}]
+
+EPS-00023 --> GLP 41.557690 -8.780770 Esposende RUA DE SAO MIGUEL S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-15T09:55:13.640Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-15T09:55:13.640Z'}]
+
+FAR-00046 --> HRZ 37.0230385 -7.9305663 Faro Praceta Salgueiro Maia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T10:46:29.564Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-15T10:46:29.564Z'}]
+
+VIS-00104 --> ATL 40.671540 -7.888290 Viseu Rotunda João Félix
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-05-15T09:28:55.646Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-05-15T09:28:55.646Z'}]
+Removidos:[]
+ABT-00006
+: 
+ NEW address : McDonalds AbrantAv. António Farinha Pereira 1
+ OLD address : Av. António Farinha Pereira 1
+ACH-00013
+: 
+ NEW address : Avenida Euro 2004
+ OLD address : Avenida Euro 2004 - Sítio da Quebrada
+ACH-00013
+coordinates: 
+ NEW latitude : 38.751720
+ OLD latitude : 38.7517808
+ACH-00013
+coordinates: 
+ NEW longitude : -8.945100
+ OLD longitude : -8.9454778
+ACH-00013
+: 
+ NEW coordinates : {'latitude': '38.751720', 'longitude': '-8.945100'}
+ OLD coordinates : {'latitude': '38.7517808', 'longitude': '-8.9454778'}
+ACH-00013
+evses -> 0: 
+ NEW evse_id : PT*ATL*EACH*00013*1
+ OLD evse_id : PT*ATL*E*ACH*00013*01
+ACH-00013
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+ACH-00013
+evses -> 1: 
+ NEW evse_id : PT*ATL*EACH*00013*2
+ OLD evse_id : PT*ATL*E*ACH*00013*02
+ACH-00013
+evses -> 2: 
+ NEW evse_id : PT*ATL*EACH*00013*3
+ OLD evse_id : PT*ATL*E*ACH*00013*03
+CPR-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+CPR-90002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22
+ OLD max_electric_power : 3700
+CPR-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+CPR-90002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22
+ OLD max_electric_power : 3700
+FUN-00031
+: 
+ NEW address : McDonald´s Funchal Rua Nova do Engenho Velho
+ OLD address : Rua Nova do Engenho Velho - McDonald´s - Func
+LSB-00746
+coordinates: 
+ NEW longitude : -9.16668
+ OLD longitude : 9.16668
+LSB-00746
+: 
+ NEW coordinates : {'latitude': '38.7153491', 'longitude': '-9.16668'}
+ OLD coordinates : {'latitude': '38.7153491', 'longitude': '9.16668'}
+LSB-00747
+coordinates: 
+ NEW longitude : -9.16668
+ OLD longitude : 9.16668
+LSB-00747
+: 
+ NEW coordinates : {'latitude': '38.7153491', 'longitude': '-9.16668'}
+ OLD coordinates : {'latitude': '38.7153491', 'longitude': '9.16668'}
+SNT-00140
+: 
+ NEW address : Estr. de São Marcos 1
+ OLD address : Estr. de São Marcos 9857
+VLG-00033
+coordinates: 
+ NEW latitude : 41.187980
+ OLD latitude : 41.1883198
+VLG-00033
+coordinates: 
+ NEW longitude : -8.498220
+ OLD longitude : -8.5003957
+VLG-00033
+: 
+ NEW coordinates : {'latitude': '41.187980', 'longitude': '-8.498220'}
+ OLD coordinates : {'latitude': '41.1883198', 'longitude': '-8.5003957'}
+VLG-00033
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVLG*00033*1
+ OLD evse_id : PT*ATL*E*VLG*00033*01
+VLG-00033
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+VLG-00033
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVLG*00033*2
+ OLD evse_id : PT*ATL*E*VLG*00033*02
+VLG-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+VLG-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+VLG-00033
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVLG*00033*3
+ OLD evse_id : PT*ATL*E*VLG*00033*03
+VLG-00033
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+VLG-00033
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+VNT-00002
+coordinates: 
+ NEW longitude : -8.0072972
+ OLD longitude : 8.0072972
+VNT-00002
+: 
+ NEW coordinates : {'latitude': '38.3376277', 'longitude': '-8.0072972'}
+ OLD coordinates : {'latitude': '38.3376277', 'longitude': '8.0072972'}
