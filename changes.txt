@@ -1885,3 +1885,111 @@ VNT-00002
 : 
  NEW coordinates : {'latitude': '38.3376277', 'longitude': '-8.0072972'}
  OLD coordinates : {'latitude': '38.3376277', 'longitude': '8.0072972'}
+
+2024-05-16 18:38:30
+Adicionados:['AVR-00062', 'LSB-00798', 'LSB-00799', 'LSB-00800', 'LSB-00801', 'LSB-00802', 'LSB-00803', 'LSB-00804', 'LSB-00805', 'LSB-00806', 'LSB-00807']
+
+AVR-00062 --> ATL 40.647320 -8.646320 Aveiro Rua Francisco Ferreira Neves 15
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-05-16T15:17:57.515Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-16T15:17:57.515Z'}]
+
+LSB-00798 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:49:35.514Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:49:35.514Z'}]
+
+LSB-00799 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:49:44.683Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11, 'last_updated': '2024-05-16T09:49:44.683Z'}]
+
+LSB-00800 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:49:54.980Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:49:54.980Z'}]
+
+LSB-00801 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:07.135Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:07.135Z'}]
+
+LSB-00802 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:18.532Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:18.532Z'}]
+
+LSB-00803 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:28.825Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:28.825Z'}]
+
+LSB-00804 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:50:43.134Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11, 'last_updated': '2024-05-16T09:50:43.134Z'}]
+
+LSB-00805 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:04.240Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:04.240Z'}]
+
+LSB-00806 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:22.246Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:22.246Z'}]
+
+LSB-00807 --> EDP 38.754695 -9.190028 Lisboa Torre Ocidente Rua Galileu Galilei
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:36.528Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-05-16T09:51:36.528Z'}]
+Removidos:[]
+CHV-00017
+: 
+ NEW address : Rua António Carvalho Sousa
+ OLD address : Av. Cocanha
+CHV-00017
+coordinates: 
+ NEW latitude : 41.759430
+ OLD latitude : 41.759409
+CHV-00017
+coordinates: 
+ NEW longitude : -7.468380
+ OLD longitude : -7.468160
+CHV-00017
+: 
+ NEW coordinates : {'latitude': '41.759430', 'longitude': '-7.468380'}
+ OLD coordinates : {'latitude': '41.759409', 'longitude': '-7.468160'}
+CHV-00017
+evses -> 0: 
+ NEW evse_id : PT*ATL*ECHV*00017*1
+ OLD evse_id : PT*ATL*E*CHV*00017*01
+CHV-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+CHV-00017
+evses -> 1: 
+ NEW evse_id : PT*ATL*ECHV*00017*2
+ OLD evse_id : PT*ATL*E*CHV*00017*02
+CHV-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+CHV-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+TMR-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+TMR-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 187500
+TMR-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+TMR-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 187500
+TMR-00037
+evses -> 3 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+TMR-00037
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 100000
