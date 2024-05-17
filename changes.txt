@@ -2003,3 +2003,137 @@ VIS-00104
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 85000
  OLD max_electric_power : 80000
+
+2024-05-17 19:24:28
+Adicionados:['AVZ-00005', 'IDN-00004', 'LLE-00156', 'LSB-00598', 'MIR-00006', 'PRS-00003', 'VCT-00049']
+
+AVZ-00005 --> EDP 39.805525 -8.358913 Alvaiázere Rua Visconde de Souzel 3250-389 Pussos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-17T15:03:46.803Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-17T15:03:46.803Z'}]
+
+IDN-00004 --> IBD 40.0003800 -6.8768375 Idanha-a-Nova Rua Dr. José Gardete Martins, Monfortinho
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-17T13:44:23.362Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 180000, 'last_updated': '2024-05-17T13:44:23.362Z'}]
+
+LLE-00156 --> KLS 37.102056 -8.001583 Loulé Estrada do Matadouro, lote 4 C
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-17T09:44:18.959Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 49000, 'last_updated': '2024-05-17T09:44:18.959Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 49000, 'last_updated': '2024-05-17T09:44:18.959Z'}]
+
+LSB-00598 --> KLS 38.732278 -9.142056 Lisboa Avenida Casal Ribeiro, n18 A/B
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-05-17T13:10:11.799Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-05-17T13:10:11.799Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-05-17T13:10:11.799Z'}]
+
+MIR-00006 --> HRZ 40.455668 -8.787924 Mira Av. Cidade de Coimbra 31
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2024-05-17T14:45:33.836Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-17T14:45:33.836Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-17T14:45:33.836Z'}]
+
+PRS-00003 --> LOG 41.65088 -8.62280 Vila Nova de Poiares Largo Terreiro de São Roque nº 51
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-17T15:14:27.597Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-17T15:14:27.597Z'}]
+
+VCT-00049 --> EDP 41.695143  -8.819850 Viana do Castelo Zona Portuaria , S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-17T13:53:33.020Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-17T13:53:33.020Z'}]
+Removidos:['LSB-00709', 'LSB-00710', 'LSB-00711', 'PPS-00002']
+BGC-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 600
+ OLD max_voltage : 1000
+BGC-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 600
+ OLD max_voltage : 1000
+BGC-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 600
+ OLD max_voltage : 1000
+BGC-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 600
+ OLD max_voltage : 1000
+CSC-00099
+: 
+ NEW address : BK Aboboda, Praceta José António Beja 25
+ OLD address : Praceta José António Beja 25
+LSB-00705
+coordinates: 
+ NEW latitude : 38.720784
+ OLD latitude : 38.720753
+LSB-00705
+coordinates: 
+ NEW longitude : -9.150065
+ OLD longitude : -9.151440
+LSB-00705
+: 
+ NEW coordinates : {'latitude': '38.720784', 'longitude': '-9.150065'}
+ OLD coordinates : {'latitude': '38.720753', 'longitude': '-9.151440'}
+LSB-00706
+coordinates: 
+ NEW latitude : 38.720784
+ OLD latitude : 38.720753
+LSB-00706
+coordinates: 
+ NEW longitude : -9.150065
+ OLD longitude : -9.151440
+LSB-00706
+: 
+ NEW coordinates : {'latitude': '38.720784', 'longitude': '-9.150065'}
+ OLD coordinates : {'latitude': '38.720753', 'longitude': '-9.151440'}
+LSB-00707
+coordinates: 
+ NEW latitude : 38.720784
+ OLD latitude : 38.720753
+LSB-00707
+coordinates: 
+ NEW longitude : -9.150065
+ OLD longitude : -9.151440
+LSB-00707
+: 
+ NEW coordinates : {'latitude': '38.720784', 'longitude': '-9.150065'}
+ OLD coordinates : {'latitude': '38.720753', 'longitude': '-9.151440'}
+OER-00192
+: 
+ NEW address : Rua Fernando Almeida 22
+ OLD address : Rua Fernando Almeida nº22
+OER-00192
+coordinates: 
+ NEW latitude : 38.717910
+ OLD latitude : 38.718489
+OER-00192
+coordinates: 
+ NEW longitude : -9.230610
+ OLD longitude : -9.229577
+OER-00192
+: 
+ NEW coordinates : {'latitude': '38.717910', 'longitude': '-9.230610'}
+ OLD coordinates : {'latitude': '38.718489', 'longitude': '-9.229577'}
+OER-00192
+evses -> 0: 
+ NEW evse_id : PT*ATL*EOER*00192*1
+ OLD evse_id : PT*ATL*E*OER*00192*01
+OER-00192
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+OER-00192
+evses -> 1: 
+ NEW evse_id : PT*ATL*EOER*00192*2
+ OLD evse_id : PT*ATL*E*OER*00192*02
+OER-00192
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 750
+ OLD max_voltage : 500
+OER-00192
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+OER-00192
+evses -> 2: 
+ NEW evse_id : PT*ATL*EOER*00192*3
+ OLD evse_id : PT*ATL*E*OER*00192*03
+OER-00192
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
