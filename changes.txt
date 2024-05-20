@@ -2261,3 +2261,211 @@ VLG-00028
 : 
  NEW address : BK Ermesinde, R. Nossa Sra. Mão Poderosa 220
  OLD address : R. Nossa Sra. Mão Poderosa 220
+
+2024-05-20 18:40:53
+Adicionados:['BJA-00034', 'BJA-00041', 'BJA-00042', 'BJA-00043', 'BJA-00044', 'BJA-00046', 'BJA-00047', 'BJA-00048', 'BJA-00050', 'BJA-00052', 'BRR-00123', 'OLH-00035']
+
+BJA-00034 --> TRK 38.013883 -7.8732209 Beja Rua dePedro Soares, 38
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:35:02.877Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:35:02.877Z'}]
+
+BJA-00041 --> TRK 38.007641 -7.86486 Beja Avª Fialho de Almeida
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:43:54.901Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:43:54.901Z'}]
+
+BJA-00042 --> TRK 38.015195 -7.8690833 Beja Rua Dr. António Fernando Covas Lima, 4
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:52:02.810Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:52:02.810Z'}]
+
+BJA-00043 --> TRK 38.01353 -7.8604360 Beja Tv. Almeida Garret, 18
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:43:54.838Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:43:54.838Z'}]
+
+BJA-00044 --> TRK 38.009967 -7.8603245 Beja Rua Afonso de Albuquerque, 9
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:57:28.134Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T13:57:28.134Z'}]
+
+BJA-00046 --> TRK 38.0114995 -7.868146 Beja Rua 25 de Abril, 17
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:03:40.962Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:03:40.962Z'}]
+
+BJA-00047 --> TRK 38.00722 38.00722 Beja Rua Prof. Bento de Jesus Caraca, 57
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:13:42.724Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:13:42.724Z'}]
+
+BJA-00048 --> TRK 38.056156 -7.985202 Beja Praça Dr. Carlos Moreira, 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:39:24.150Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:39:24.150Z'}]
+
+BJA-00050 --> TRK 38.020901 -7.809315 Beja Rua Bento Jesus Caraça
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:29:05.573Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:29:05.573Z'}]
+
+BJA-00052 --> TRK 38.018347 -7.854745 Beja Rua Jorge de Sena, 7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:24:31.872Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:24:31.872Z'}]
+
+BRR-00123 --> TRK 38.6551001 -9.07223 Barreiro Rua Júlio Diniz, 48
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-05-20T13:24:36.899Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-05-20T13:24:36.899Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+OLH-00035 --> TRK 37.028027 -7.848400 Olhão R. Luciano Jorge Fernandes, 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 96, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:33:08.993Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-05-20T14:33:08.993Z'}]
+Removidos:[]
+ABF-00055
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+ABF-00055
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 80000
+ABF-00055
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+ABF-00055
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 15000
+ OLD max_electric_power : 80000
+ALB-00019
+: 
+ NEW address : N1-IC2 Km245,5 - Cavada Nova
+ OLD address : N1-IC2 Km245,5 – Cavada Nova
+BGC-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+BRG-00090
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 1000
+BRG-00090
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 200
+BRG-00090
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+BRG-00090
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 1000
+BRG-00090
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 200
+BRG-00090
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+BRG-00105
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 90000
+ OLD max_electric_power : 60000
+BRG-00105
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+BRG-00105
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+BRR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+CNT-00016
+: 
+ NEW address : BIOCANT - Parque Tecnológico de Cantanhede
+ OLD address : BIOCANT – Parque Tecnológico de Cantanhede
+CSC-00101
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+CSC-00184
+coordinates: 
+ NEW latitude : 38.7283384
+ OLD latitude : 38.7283542
+CSC-00184
+coordinates: 
+ NEW longitude : -9.3285458
+ OLD longitude : -9.3284687
+CSC-00184
+: 
+ NEW coordinates : {'latitude': '38.7283384', 'longitude': '-9.3285458'}
+ OLD coordinates : {'latitude': '38.7283542', 'longitude': '-9.3284687'}
+MFR-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MGR-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+PBL-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+PDL-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+RMR-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+RMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+RMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 62500
+RMR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+RMR-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 187500
+RMR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+RMR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 187500
+RMR-00011
+evses -> 3 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+RMR-00011
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 100000
+SNT-00076
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SNT-00079
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SNT-00082
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SSB-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+SXL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
