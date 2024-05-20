@@ -2137,3 +2137,127 @@ OER-00192
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-05-20 13:28:52
+Adicionados:['BRR-00122', 'FLG-00013', 'LSB-00421', 'LSB-00708', 'VFR-00017', 'VFR-00038']
+
+BRR-00122 --> TRK 38.6529001 -9.06776 Barreiro Av.  D. João I , 1
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-05-20T13:16:03.531Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-05-20T13:16:03.531Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+FLG-00013 --> EDP 41.364009 -8.200589 Felgueiras Av. Dr. Leonardo Coimbra 576
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-10T14:25:30.685Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-04-10T14:25:30.685Z'}]
+
+LSB-00421 --> EML 38.773375 -9.15959 Lisboa Largo da República da Turquia
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-05-09T14:07:48.693Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-05-09T14:07:48.694Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+LSB-00708 --> HLX 38.720383 -9.150590 Lisboa R. Rodrigo da Fonseca 4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2024-05-20T10:35:29.109Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2024-05-20T10:35:29.109Z'}]
+
+VFR-00017 --> GLP 41.024062 -8.541995 Santa Maria da Feira Rua São Martinho 4505-164 Argoncilhe
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:49:31.727Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:49:31.728Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFR-00038 --> GLP 40.954317 -8.552656 Santa Maria da Feira Rua Dr. António Sampaio Maia, São João de Vêr
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:54.173Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-01-13T19:53:54.174Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+BRR-00017
+: 
+ NEW address : McDonalds Barreiro, Barreiro Retail Park
+ OLD address : KFC - Barreiro Retail Park
+GDM-00019
+: 
+ NEW address : BK Baguim, Rua Nossa Srª do Amparo, nº 1033
+ OLD address : Rua Nossa Srª do Amparo, nº 1033
+GDM-00036
+: 
+ NEW address : BK Rio Tinto, Av. da Conduta
+ OLD address : Av. da Conduta, 4435-485 Rio Tinto, Portugal
+MCN-00004
+: 
+ NEW address : McDonals Marco,Av. Sta.Teresa do Menino Jesus
+ OLD address : Av. Sta. Teresa do Menino Jesus - LT 1
+NZR-00019
+: 
+ NEW address : McDonalds Nazare,Av. Nogent Sur Marne, EN 242
+ OLD address : Av. Nogent Sur Marne, EN 242 Km 32+500
+SNT-00076
+: 
+ NEW address : BK , R. General Joaquim Filipe Nery Delgado
+ OLD address : R. General Joaquim Filipe Nery Delgado
+SNT-00079
+: 
+ NEW address : BK Mem Martins, Rua António Feijó
+ OLD address : Rua António Feijó
+TND-00009
+coordinates: 
+ NEW latitude : 40.529010
+ OLD latitude : 40.5291829
+TND-00009
+coordinates: 
+ NEW longitude : -8.088340
+ OLD longitude : -8.0908963
+TND-00009
+: 
+ NEW coordinates : {'latitude': '40.529010', 'longitude': '-8.088340'}
+ OLD coordinates : {'latitude': '40.5291829', 'longitude': '-8.0908963'}
+TND-00009
+evses -> 0: 
+ NEW evse_id : PT*ATL*ETND*00009*1
+ OLD evse_id : PT*ATL*E*TND*00009*01
+TND-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TND-00009
+evses -> 1: 
+ NEW evse_id : PT*ATL*ETND*00009*2
+ OLD evse_id : PT*ATL*E*TND*00009*02
+TND-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TND-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+TND-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+TND-00009
+evses -> 2: 
+ NEW evse_id : PT*ATL*ETND*00009*3
+ OLD evse_id : PT*ATL*E*TND*00009*03
+TND-00009
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+TND-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+TND-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+TND-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+TRF-00011
+: 
+ NEW address : McDonalds Trofa, Av. Trofa Velha, 61
+ OLD address : Av. Trofa Velha, 61
+VCD-00009
+: 
+ NEW address : McD  Vila do C.EN 13, Lugar da Portas Fronhas
+ OLD address : EN 13, Lugar da Portas Fronhas
+VLG-00028
+: 
+ NEW address : BK Ermesinde, R. Nossa Sra. Mão Poderosa 220
+ OLD address : R. Nossa Sra. Mão Poderosa 220
