@@ -3071,3 +3071,330 @@ VRL-00027
 : 
  NEW coordinates : {'latitude': '41.292892', 'longitude': '-7.7073882'}
  OLD coordinates : {'latitude': '41.293384', 'longitude': '-7.707254'}
+
+2024-05-23 18:29:10
+Adicionados:['ALM-00083', 'LSB-00797']
+
+ALM-00083 --> EDP 38.625085 -9.126106 Almada Praceta Quinta dos Pinheiros e Girassóis,
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-05-23T15:06:38.983Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-05-23T15:06:38.983Z'}]
+
+LSB-00797 --> IMG 38.702136 -9.208864 Lisboa Estádio do Restelo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-05-23T10:49:49.656Z'}]
+Removidos:[]
+AVR-00049
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAVR*00049*1
+ OLD evse_id : PT*ATL*E*AVR*00049*01
+AVR-00049
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+AVR-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+AVR-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+AVR-00049
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+AVR-00049
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAVR*00049*2
+ OLD evse_id : PT*ATL*E*AVR*00049*02
+AVR-00049
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+AVR-00049
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+AVR-00049
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+AVR-00049
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+MOBI-PRT-00089
+coordinates: 
+ NEW latitude : 41.17548
+ OLD latitude : 41.175813
+MOBI-PRT-00089
+coordinates: 
+ NEW longitude : -8.64640
+ OLD longitude : -8.646222
+MOBI-PRT-00089
+: 
+ NEW coordinates : {'latitude': '41.17548', 'longitude': '-8.64640'}
+ OLD coordinates : {'latitude': '41.175813', 'longitude': '-8.646222'}
+NZR-00028
+coordinates: 
+ NEW latitude : 39.605051
+ OLD latitude : 39.6050508
+NZR-00028
+coordinates: 
+ NEW longitude : -9.067085
+ OLD longitude : -9.0670854
+NZR-00028
+: 
+ NEW coordinates : {'latitude': '39.605051', 'longitude': '-9.067085'}
+ OLD coordinates : {'latitude': '39.6050508', 'longitude': '-9.0670854'}
+NZR-00028
+evses -> 0: 
+ NEW evse_id : PT*ATL*ENZR*00028*1
+ OLD evse_id : PT*ATL*E*NZR*00028*01
+NZR-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+NZR-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 75
+NZR-00028
+evses -> 1: 
+ NEW evse_id : PT*ATL*ENZR*00028*2
+ OLD evse_id : PT*ATL*E*NZR*00028*02
+NZR-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+NZR-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 75
+OFR-00003
+coordinates: 
+ NEW latitude : 40.719082
+ OLD latitude : 40.7190816
+OFR-00003
+coordinates: 
+ NEW longitude : -8.176681
+ OLD longitude : -8.1766807
+OFR-00003
+: 
+ NEW coordinates : {'latitude': '40.719082', 'longitude': '-8.176681'}
+ OLD coordinates : {'latitude': '40.7190816', 'longitude': '-8.1766807'}
+OFR-00003
+evses -> 0: 
+ NEW evse_id : PT*ATL*EOFR*00003*1
+ OLD evse_id : PT*ATL*E*OFR*00003*01
+OFR-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+OFR-00003
+evses -> 1: 
+ NEW evse_id : PT*ATL*EOFR*00003*2
+ OLD evse_id : PT*ATL*E*OFR*00003*02
+OFR-00003
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+PRT-00221
+coordinates: 
+ NEW latitude : 41.162436
+ OLD latitude : 41.1624359
+PRT-00221
+coordinates: 
+ NEW longitude : -8.605988
+ OLD longitude : -8.6059880
+PRT-00221
+: 
+ NEW coordinates : {'latitude': '41.162436', 'longitude': '-8.605988'}
+ OLD coordinates : {'latitude': '41.1624359', 'longitude': '-8.6059880'}
+PRT-00221
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPRT*00221*1
+ OLD evse_id : PT*ATL*E*PRT*00221*01
+PRT-00221
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PRT-00221
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPRT*00221*2
+ OLD evse_id : PT*ATL*E*PRT*00221*02
+PRT-00221
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SNS-00014
+coordinates: 
+ NEW latitude : 37.965493
+ OLD latitude : 37.9654927
+SNS-00014
+coordinates: 
+ NEW longitude : -8.857432
+ OLD longitude : -8.8574324
+SNS-00014
+: 
+ NEW coordinates : {'latitude': '37.965493', 'longitude': '-8.857432'}
+ OLD coordinates : {'latitude': '37.9654927', 'longitude': '-8.8574324'}
+SNS-00014
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESNS*00014*1
+ OLD evse_id : PT*ATL*E*SNS*00014*01
+SNS-00014
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+SNS-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+SNS-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 75
+SNS-00014
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESNS*00014*2
+ OLD evse_id : PT*ATL*E*SNS*00014*02
+SNS-00014
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+SNS-00014
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 75
+SRE-00005
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESRE*00005*1
+ OLD evse_id : PT*ATL*E*SRE*00005*01
+SRE-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+SRE-00005
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESRE*00005*2
+ OLD evse_id : PT*ATL*E*SRE*00005*02
+SRE-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+SRE-00005
+evses -> 2: 
+ NEW evse_id : PT*ATL*ESRE*00005*3
+ OLD evse_id : PT*ATL*E*SRE*00005*03
+STB-00060
+coordinates: 
+ NEW latitude : 38.527260
+ OLD latitude : 38.526885
+STB-00060
+coordinates: 
+ NEW longitude : -9.002260
+ OLD longitude : -9.002459
+STB-00060
+: 
+ NEW coordinates : {'latitude': '38.527260', 'longitude': '-9.002260'}
+ OLD coordinates : {'latitude': '38.526885', 'longitude': '-9.002459'}
+STB-00060
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESTB*00060*1
+ OLD evse_id : PT*ATL*E*STB*00060*01
+STB-00060
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+STB-00060
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESTB*00060*2
+ OLD evse_id : PT*ATL*E*STB*00060*02
+STB-00060
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+TMR-00034
+coordinates: 
+ NEW latitude : 39.611524
+ OLD latitude : 39.6115242
+TMR-00034
+coordinates: 
+ NEW longitude : -8.395394
+ OLD longitude : -8.3953938
+TMR-00034
+: 
+ NEW coordinates : {'latitude': '39.611524', 'longitude': '-8.395394'}
+ OLD coordinates : {'latitude': '39.6115242', 'longitude': '-8.3953938'}
+TMR-00034
+evses -> 0: 
+ NEW evse_id : PT*ATL*ETMR*00034*1
+ OLD evse_id : PT*ATL*E*TMR*00034*01
+TMR-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TMR-00034
+evses -> 1: 
+ NEW evse_id : PT*ATL*ETMR*00034*2
+ OLD evse_id : PT*ATL*E*TMR*00034*02
+TMR-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TVD-00040
+evses -> 0: 
+ NEW evse_id : PT*ATL*ETVD*00040*1
+ OLD evse_id : PT*ATL*E*TVD*00040*01
+TVD-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TVD-00040
+evses -> 1: 
+ NEW evse_id : PT*ATL*ETVD*00040*2
+ OLD evse_id : PT*ATL*E*TVD*00040*02
+TVD-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VFR-00038
+coordinates: 
+ NEW latitude : 40.953771
+ OLD latitude : 40.954317
+VFR-00038
+coordinates: 
+ NEW longitude : -8.551564
+ OLD longitude : -8.552656
+VFR-00038
+: 
+ NEW coordinates : {'latitude': '40.953771', 'longitude': '-8.551564'}
+ OLD coordinates : {'latitude': '40.954317', 'longitude': '-8.552656'}
+VLC-00011
+coordinates: 
+ NEW latitude : 40.846868
+ OLD latitude : 40.8468683
+VLC-00011
+coordinates: 
+ NEW longitude : -8.398916
+ OLD longitude : -8.3989160
+VLC-00011
+: 
+ NEW coordinates : {'latitude': '40.846868', 'longitude': '-8.398916'}
+ OLD coordinates : {'latitude': '40.8468683', 'longitude': '-8.3989160'}
+VLC-00011
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVLC*00011*1
+ OLD evse_id : PT*ATL*E*VLC*00011*01
+VLC-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VLC-00011
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVLC*00011*2
+ OLD evse_id : PT*ATL*E*VLC*00011*02
+VLC-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
