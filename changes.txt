@@ -3405,3 +3405,77 @@ Adicionados:['VCT-00051']
 VCT-00051 --> INT 42.1208995 -8.2744365 Viana do Castelo Rua Lugar S. Amaro, sn-1, Bajo Prado
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T15:23:40.677Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-29T15:23:40.677Z'}]
 Removidos:[]
+
+2024-05-24 20:01:13
+Adicionados:['EPS-00006', 'GMR-00065', 'MOBI-LGA-00001', 'MOBI-LGA-00002', 'MOBI-LGA-00003']
+
+EPS-00006 --> EDP 41.517297 -8.785227 Esposende Rua Raúl Sousa Martins, 99
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-23T15:50:06.016Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-05-23T15:50:06.016Z'}]
+
+GMR-00065 --> HEX 41.437655 -8.292227 Guimarães Rua Comandante José Luis de Pina
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 20, 'max_electric_power': 13600, 'last_updated': '2024-05-24T14:15:37.727Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 20, 'max_electric_power': 13600, 'last_updated': '2024-05-24T14:15:37.727Z'}]
+
+MOBI-LGA-00001 --> GLP 37.101902 -8.380403 Lagoa, Faro Rua Anneliese Pohl
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-01T12:49:59.261Z'}]
+
+MOBI-LGA-00002 --> GLP 37.101902 -8.380403 Lagoa, Faro Rua Anneliese Pohl
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-03-01T12:50:31.278Z'}]
+
+MOBI-LGA-00003 --> GLP 37.101902 -8.380403 Lagoa, Faro Rua Anneliese Pohl
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-07T15:05:52.308Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-05-07T15:05:52.308Z'}]
+Removidos:['LSB-00708']
+GMR-00061
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00061
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 13600
+ OLD max_electric_power : 8300
+GMR-00061
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 12
+GMR-00061
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 13600
+ OLD max_electric_power : 8300
+PRT-00225
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPRT*00225*1
+ OLD evse_id : PT*ATL*E*PRT*00225*01
+PRT-00225
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PRT-00225
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPRT*00225*2
+ OLD evse_id : PT*ATL*E*PRT*00225*02
+PRT-00225
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PRT-00225
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+PRT-00225
+evses -> 2: 
+ NEW evse_id : PT*ATL*EPRT*00225*3
+ OLD evse_id : PT*ATL*E*PRT*00225*03
+PRT-00225
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+PRT-00225
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+PRT-00225
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
