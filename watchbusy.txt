@@ -1,7 +1,6 @@
 ********Construcao******
 STB-00085
 EPS-00024
-EPS-00016
 CBT-00005
 OLH-00035
 BRR-00123
