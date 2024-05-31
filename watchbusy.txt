@@ -1,6 +1,5 @@
 ********Construcao******
 VFX-00072
-VFX-00060
 VFX-00056
 VFX-00057
 VCD-00035
@@ -322,7 +321,6 @@ VNG-00101
 CSC-00120
 FIG-00009
 *******Privados_por_confirmar******
-LSB-00790
 VCT-00051
 FLG-00022
 MTS-00169
