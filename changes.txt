@@ -6116,3 +6116,299 @@ VCT-80003
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2024-06-04 11:43:49
+Adicionados:['ACB-00024']
+
+ACB-00024 --> GLP 39.508311 -9.1326237 Alcobaça Largo 28 de Maio
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-06-04T10:29:57.283Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-06-04T10:29:57.283Z'}]
+Removidos:[]
+ALM-00076
+: 
+ NEW address : Rua Quinta do Salgado n. 14
+ OLD address : Rua Quinta do Salgado, n.º 14
+ALM-00076
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+ALM-00076
+evses -> 0: 
+ NEW evse_id : PT*KLS*EALM*00076*01
+ OLD evse_id : PT*KLS*E*ALM*00076*01
+ALM-00076
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ALM-00076
+evses -> 1: 
+ NEW evse_id : PT*KLS*EALM*00076*02
+ OLD evse_id : PT*KLS*E*ALM*00076*02
+ALM-00076
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ALM-00076
+evses -> 2: 
+ NEW evse_id : PT*KLS*EALM*00076*03
+ OLD evse_id : PT*KLS*E*ALM*00076*03
+ALM-00079
+: 
+ NEW address : E.N. 377-1 - Monte da Caparica (UNL)
+ OLD address : E.N. 377-1 - Monte da Caparíca (UNL)
+CBR-00086
+: 
+ NEW address : Rua do Lagar Lote 1
+ OLD address : Rua do Lagar, Lote 1
+CBR-00086
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+CBR-00086
+evses -> 0: 
+ NEW evse_id : PT*KLS*ECBR*00086*01
+ OLD evse_id : PT*KLS*E*CBR*00086*01
+CBR-00086
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CBR-00086
+evses -> 1: 
+ NEW evse_id : PT*KLS*ECBR*00086*02
+ OLD evse_id : PT*KLS*E*CBR*00086*02
+CBR-00086
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CBR-00086
+evses -> 2: 
+ NEW evse_id : PT*KLS*ECBR*00086*03
+ OLD evse_id : PT*KLS*E*CBR*00086*03
+CSC-00174
+: 
+ NEW address : Rua da Torre n. 831 - Guia
+ OLD address : Rua da Torre, n. 831 - Guia
+GDM-00040
+coordinates: 
+ NEW latitude : 41.151688
+ OLD latitude : 41.1516875
+GDM-00040
+coordinates: 
+ NEW longitude : -8.515944
+ OLD longitude : -8.5159439
+GDM-00040
+: 
+ NEW coordinates : {'latitude': '41.151688', 'longitude': '-8.515944'}
+ OLD coordinates : {'latitude': '41.1516875', 'longitude': '-8.5159439'}
+GDM-00040
+evses -> 0: 
+ NEW evse_id : PT*ATL*EGDM*00040*1
+ OLD evse_id : PT*ATL*E*GDM*00040*01
+GDM-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+GDM-00040
+evses -> 1: 
+ NEW evse_id : PT*ATL*EGDM*00040*2
+ OLD evse_id : PT*ATL*E*GDM*00040*02
+GDM-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+GDM-00040
+evses -> 2: 
+ NEW evse_id : PT*ATL*EGDM*00040*3
+ OLD evse_id : PT*ATL*E*GDM*00040*03
+GDM-00040
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LRA-00112
+: 
+ NEW address : Avenida 25 de Abril - Bairro de Sao Francisco
+ OLD address : Avenida 25 de Abril - Bairro de Sýo Francisco
+MTS-00141
+: 
+ NEW address : Rua Eng. Antonio Costa Reis 302/494
+ OLD address : Rua Eng. Antýnio Costa Reis, 302/494
+OER-00217
+: 
+ NEW address : Rua Joao Chagas n. 130 loja A
+ OLD address : Rua Joýo Chagas, n. 130, loja A,
+OER-00217
+: 
+ NEW mobie_voltage_level : MT
+ OLD mobie_voltage_level : BTE
+OHP-00014
+: 
+ NEW address : Rotunda do Empresyrio - Zona Industrial
+ OLD address : Rotunda do Empresýrio - Zona Industrial
+OHP-00014
+coordinates: 
+ NEW latitude : 40.361250
+ OLD latitude : 40.36125
+OHP-00014
+: 
+ NEW coordinates : {'latitude': '40.361250', 'longitude': '-7.855306'}
+ OLD coordinates : {'latitude': '40.36125', 'longitude': '-7.855306'}
+ORM-00018
+coordinates: 
+ NEW latitude : 39.624046
+ OLD latitude : 39.6240461
+ORM-00018
+coordinates: 
+ NEW longitude : -8.662220
+ OLD longitude : -8.66222
+ORM-00018
+: 
+ NEW coordinates : {'latitude': '39.624046', 'longitude': '-8.662220'}
+ OLD coordinates : {'latitude': '39.6240461', 'longitude': '-8.66222'}
+ORM-00018
+evses -> 0: 
+ NEW evse_id : PT*ATL*EORM*00018*1
+ OLD evse_id : PT*ATL*E*ORM*00018*01
+ORM-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+ORM-00018
+evses -> 1: 
+ NEW evse_id : PT*ATL*EORM*00018*2
+ OLD evse_id : PT*ATL*E*ORM*00018*02
+ORM-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+ORM-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+ORM-00018
+evses -> 2: 
+ NEW evse_id : PT*ATL*EORM*00018*3
+ OLD evse_id : PT*ATL*E*ORM*00018*03
+ORM-00018
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+PBL-00019
+: 
+ NEW address : Estrada de Ansiao
+ OLD address : Estrada de Ansiýo,
+PRT-00235
+: 
+ NEW address : Estrada da Circunvalacao n. 13941 a 13975
+ OLD address : Estrada da Circunvalaýýoo, n. 13941 a 13975
+SNT-00130
+: 
+ NEW address : Rua da Chamuscada n. 6
+ OLD address : Rua da Chamuscada, n. 6
+SNT-00135
+: 
+ NEW address : Avenida 29 de Agosto n. 80
+ OLD address : Avenida 29 de Agosto, n. 80,
+SSB-00015
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESSB*00015*1
+ OLD evse_id : PT*ATL*E*SSB*00015*01
+SSB-00015
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+SSB-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+SSB-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+SSB-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+SSB-00015
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESSB*00015*2
+ OLD evse_id : PT*ATL*E*SSB*00015*02
+SSB-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SSB-00015
+evses -> 2: 
+ NEW evse_id : PT*ATL*ESSB*00015*3
+ OLD evse_id : PT*ATL*E*SSB*00015*03
+SSB-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SSB-00016
+: 
+ NEW address : Urbanização Cova dos Vidros
+ OLD address : Urbanizaýýoo Cova dos Vidros
+SSB-00016
+coordinates: 
+ NEW latitude : 38.566218
+ OLD latitude : 38.5662185
+SSB-00016
+: 
+ NEW coordinates : {'latitude': '38.566218', 'longitude': '-9.040185'}
+ OLD coordinates : {'latitude': '38.5662185', 'longitude': '-9.040185'}
+SSB-00017
+: 
+ NEW address : Avenida Joao Paulo II
+ OLD address : Avenida Joýo Paulo II
+STS-00024
+: 
+ NEW address : Calyada da Azenha do Pisco
+ OLD address : Calýada da Azenha do Pisco
+SXL-00056
+: 
+ NEW address : Avenida Baia Natural do Seixal
+ OLD address : Avenida Baia Natural do Seixal,
+TNV-00019
+: 
+ NEW address : Estrada de Varzea
+ OLD address : Estrada de Výrzea,
+VFX-00050
+: 
+ NEW address : Rua de Santa Maria 2-2A
+ OLD address : Rua de Santa Maria, 2-2A
+VLG-00035
+: 
+ NEW address : Rua Professor Joaquim Teixeira n. 41/71
+ OLD address : Rua Professor Joaquim Teixeira, n. 41/71
+VLG-00036
+: 
+ NEW address : Rua 1. de Maio - Sao Vicente de Alfena
+ OLD address : Rua 1. de Maio - Sýo Vicente de Alfena
+VNG-00153
+: 
+ NEW address : Avenida dos Descobrimentos
+ OLD address : Avenida dos Descobrimentos,
+VRM-00006
+: 
+ NEW address : Avenida Joao da Torre - Lugar de Sobreiro
+ OLD address : Avenida Joýo da Torre - Lugar de Sobreiro,
+VVD-00015
+: 
+ NEW address : Rua dos Bombeiros
+ OLD address : Rua dos Bombeiros, 4730-752 Vila Verde
+VVD-80001
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVVD*80001*1
+ OLD evse_id : PT*ATL*E*VVD*80001*1
+VVD-80001
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VVD-80001
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVVD*80001*2
+ OLD evse_id : PT*ATL*E*VVD*80001*2
+VVD-80001
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
