@@ -8477,3 +8477,63 @@ VNF-00041
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 120000
+
+2024-06-07 10:40:40
+Adicionados:['CVL-00018']
+
+CVL-00018 --> PRI 40.294812 -7.481170 Covilhã R. Humberto Delgado
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-06-07T10:22:45.486Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-06-07T10:22:45.486Z'}]
+Removidos:[]
+ABF-00073
+coordinates: 
+ NEW latitude : 37.092000
+ OLD latitude : 37.092254
+ABF-00073
+coordinates: 
+ NEW longitude : -8.241200
+ OLD longitude : -8.2404471
+ABF-00073
+: 
+ NEW coordinates : {'latitude': '37.092000', 'longitude': '-8.241200'}
+ OLD coordinates : {'latitude': '37.092254', 'longitude': '-8.2404471'}
+ABF-00073
+evses -> 0: 
+ NEW evse_id : PT*ATL*EABF*00073*1
+ OLD evse_id : PT*ATL*E*ABF*00073*01
+ABF-00073
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+ABF-00073
+evses -> 1: 
+ NEW evse_id : PT*ATL*EABF*00073*2
+ OLD evse_id : PT*ATL*E*ABF*00073*02
+ABF-00073
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+ABF-00073
+evses -> 2: 
+ NEW evse_id : PT*ATL*EABF*00073*3
+ OLD evse_id : PT*ATL*E*ABF*00073*03
+ABF-00073
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+ABF-00073
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LLE-00157
+coordinates: 
+ NEW latitude : 37.104130
+ OLD latitude : 37.104589
+LLE-00157
+coordinates: 
+ NEW longitude : -8.126060
+ OLD longitude : -8.125961
+LLE-00157
+: 
+ NEW coordinates : {'latitude': '37.104130', 'longitude': '-8.126060'}
+ OLD coordinates : {'latitude': '37.104589', 'longitude': '-8.125961'}
