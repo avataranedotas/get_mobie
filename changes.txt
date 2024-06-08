@@ -8966,3 +8966,41 @@ SLV-00012
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-06-08 09:28:23
+BRR-00132
+: 
+ NEW address : Terminal Rodo Ferro Fluvial 
+ OLD address : Av. da Liberdade
+BRR-00132
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBRR*00132*1
+ OLD evse_id : PT*ATL*E*BRR*00132*01
+BRR-00132
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRR-00132
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+BRR-00132
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBRR*00132*2
+ OLD evse_id : PT*ATL*E*BRR*00132*02
+BRR-00132
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRR-00132
+evses -> 2: 
+ NEW evse_id : PT*ATL*EBRR*00132*3
+ OLD evse_id : PT*ATL*E*BRR*00132*03
+BRR-00132
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+BRR-00132
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
