@@ -10260,3 +10260,125 @@ VNG-00140
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-06-17 13:21:34
+CNT-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+CNT-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 160000
+CNT-00007
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CNT-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+CNT-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 500
+ OLD max_amperage : 125
+CNT-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 50000
+CNT-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+CNT-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 160000
+CNT-00008
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+CNT-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+CNT-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 500
+ OLD max_amperage : 125
+CNT-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 60000
+ETR-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+ETR-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 160000
+ETR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+ETR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+ETR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 500
+ OLD max_amperage : 125
+ETR-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 50000
+ETR-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+ETR-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 160000
+ETR-00009
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+ETR-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 500
+ETR-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 500
+ OLD max_amperage : 125
+ETR-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 75000
+VRL-00037
+: 
+ NEW address : R. da Barra
+ OLD address : R. da Barra, Vila Real
+VRL-00037
+coordinates: 
+ NEW latitude : 41.312186
+ OLD latitude : 41.3121858
+VRL-00037
+coordinates: 
+ NEW longitude : -7.760293
+ OLD longitude : -7.7602926
+VRL-00037
+: 
+ NEW coordinates : {'latitude': '41.312186', 'longitude': '-7.760293'}
+ OLD coordinates : {'latitude': '41.3121858', 'longitude': '-7.7602926'}
+VRL-00037
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVRL*00037*1
+ OLD evse_id : PT*ATL*E*VRL*00037*01
+VRL-00037
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVRL*00037*2
+ OLD evse_id : PT*ATL*E*VRL*00037*02
