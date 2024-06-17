@@ -10382,3 +10382,168 @@ VRL-00037
 evses -> 1: 
  NEW evse_id : PT*ATL*EVRL*00037*2
  OLD evse_id : PT*ATL*E*VRL*00037*02
+
+2024-06-17 19:54:26
+Adicionados:['BRG-00055', 'MCD-00005', 'VNG-00101']
+
+BRG-00055 --> EVC 41.5813467 -8.425582 Braga Rua dos Pintancinhos, 20
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-06-19T20:47:41.940Z', 'max_amperage': 32, 'max_electric_power': 11000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-06-19T20:47:41.941Z', 'max_amperage': 32, 'max_electric_power': 11000}]
+
+MCD-00005 --> HRZ 41.5778460 -6.9467970 Macedo de Cavaleiros Pontão de Lamas, Lamas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-06-17T15:33:09.017Z'}]
+
+VNG-00101 --> REP 41.048028 -8.628077 Vila Nova de Gaia R. Corvo 719, 4410-439 Arcozelo
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-06-17T13:51:25.054Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-06-17T13:51:25.054Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-06-17T13:51:25.054Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['BRR-00135', 'STR-00038']
+ALR-00005
+coordinates: 
+ NEW latitude : 39.190390
+ OLD latitude : 39.1908372
+ALR-00005
+coordinates: 
+ NEW longitude : -8.624190
+ OLD longitude : -8.6264192
+ALR-00005
+: 
+ NEW coordinates : {'latitude': '39.190390', 'longitude': '-8.624190'}
+ OLD coordinates : {'latitude': '39.1908372', 'longitude': '-8.6264192'}
+ALR-00005
+evses -> 0: 
+ NEW evse_id : PT*ATL*EALR*00005*1
+ OLD evse_id : PT*ATL*E*ALR*00005*01
+ALR-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ALR-00005
+evses -> 1: 
+ NEW evse_id : PT*ATL*EALR*00005*2
+ OLD evse_id : PT*ATL*E*ALR*00005*02
+ALR-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ALR-00005
+evses -> 2: 
+ NEW evse_id : PT*ATL*EALR*00005*3
+ OLD evse_id : PT*ATL*E*ALR*00005*03
+ALR-00005
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+ALR-00005
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LSB-00642
+coordinates: 
+ NEW latitude : 38.754981
+ OLD latitude : 38.7549812
+LSB-00642
+coordinates: 
+ NEW longitude : -9.181252
+ OLD longitude : -9.1812524
+LSB-00642
+: 
+ NEW coordinates : {'latitude': '38.754981', 'longitude': '-9.181252'}
+ OLD coordinates : {'latitude': '38.7549812', 'longitude': '-9.1812524'}
+LSB-00642
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELSB*00642*1
+ OLD evse_id : PT*ATL*E*LSB*00642*01
+LSB-00642
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+LSB-00642
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELSB*00642*2
+ OLD evse_id : PT*ATL*E*LSB*00642*02
+LSB-00642
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+LSB-00642
+evses -> 2: 
+ NEW evse_id : PT*ATL*ELSB*00642*3
+ OLD evse_id : PT*ATL*E*LSB*00642*03
+LSB-00642
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LSB-00652
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+PMS-00008
+coordinates: 
+ NEW longitude : -8.856517
+ OLD longitude : -8.8565174
+PMS-00008
+: 
+ NEW coordinates : {'latitude': '39.623371', 'longitude': '-8.856517'}
+ OLD coordinates : {'latitude': '39.623371', 'longitude': '-8.8565174'}
+PMS-00008
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPMS*00008*1
+ OLD evse_id : PT*ATL*E*PMS*00008*01
+PMS-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PMS-00008
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPMS*00008*2
+ OLD evse_id : PT*ATL*E*PMS*00008*02
+PMS-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PMS-00008
+evses -> 2: 
+ NEW evse_id : PT*ATL*EPMS*00008*3
+ OLD evse_id : PT*ATL*E*PMS*00008*03
+PMS-00008
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PRT-00227
+coordinates: 
+ NEW longitude : -8.667807
+ OLD longitude : -8.6678072
+PRT-00227
+: 
+ NEW coordinates : {'latitude': '41.162879', 'longitude': '-8.667807'}
+ OLD coordinates : {'latitude': '41.162879', 'longitude': '-8.6678072'}
+PRT-00227
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPRT*00227*1
+ OLD evse_id : PT*ATL*E*PRT*00227*01
+PRT-00227
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PRT-00227
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPRT*00227*2
+ OLD evse_id : PT*ATL*E*PRT*00227*02
+PRT-00227
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PRT-00227
+evses -> 2: 
+ NEW evse_id : PT*ATL*EPRT*00227*3
+ OLD evse_id : PT*ATL*E*PRT*00227*03
+PRT-00227
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
