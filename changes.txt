@@ -10547,3 +10547,163 @@ PRT-00227
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-06-18 19:19:39
+Adicionados:['BJA-00051', 'VFX-00059', 'VFX-00065', 'VFX-00066']
+
+BJA-00051 --> TRK 38.110444 -7.85678 Beja Largo da Igreja , 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-18T14:27:46.413Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-18T14:27:46.413Z'}]
+
+VFX-00059 --> GLP 38.905147 -9.044475 Vila Franca de Xira Rua do Norte
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-18T11:54:48.408Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-18T11:54:48.408Z'}]
+
+VFX-00065 --> GLP 38.872141 -9.090587 Vila Franca de Xira Rua Maria Pia
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-18T14:17:37.329Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-18T14:17:37.329Z'}]
+
+VFX-00066 --> GLP 38.9953342 -8.971644 Vila Franca de Xira Rua de Palha Blanco
+[{'standard': 'CHADEMO', 'format': 'SOCKET', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-06-18T10:35:45.100Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-06-18T10:35:45.100Z'}]
+Removidos:['MDB-00004']
+BJA-00047
+coordinates: 
+ NEW longitude : -7.8539664
+ OLD longitude : 38.00722
+BJA-00047
+: 
+ NEW coordinates : {'latitude': '38.00722', 'longitude': '-7.8539664'}
+ OLD coordinates : {'latitude': '38.00722', 'longitude': '38.00722'}
+LRS-00110
+coordinates: 
+ NEW latitude : 38.836470
+ OLD latitude : 38.8364702
+LRS-00110
+coordinates: 
+ NEW longitude : -9.167371
+ OLD longitude : -9.1673711
+LRS-00110
+: 
+ NEW coordinates : {'latitude': '38.836470', 'longitude': '-9.167371'}
+ OLD coordinates : {'latitude': '38.8364702', 'longitude': '-9.1673711'}
+LRS-00110
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELRS*00110*1
+ OLD evse_id : PT*ATL*E*LRS*00110*01
+LRS-00110
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+LRS-00110
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 400
+ OLD max_amperage : 300
+LRS-00110
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+LRS-00110
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELRS*00110*2
+ OLD evse_id : PT*ATL*E*LRS*00110*02
+LRS-00110
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 300
+LRS-00110
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+MDL-00010
+coordinates: 
+ NEW latitude : 41.496340
+ OLD latitude : 41.4962118
+MDL-00010
+coordinates: 
+ NEW longitude : -7.178930
+ OLD longitude : -7.180711
+MDL-00010
+: 
+ NEW coordinates : {'latitude': '41.496340', 'longitude': '-7.178930'}
+ OLD coordinates : {'latitude': '41.4962118', 'longitude': '-7.180711'}
+MDL-00010
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMDL*00010*1
+ OLD evse_id : PT*ATL*E*MDL*00010*01
+MDL-00010
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MDL-00010
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMDL*00010*2
+ OLD evse_id : PT*ATL*E*MDL*00010*02
+MDL-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MDL-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+MDL-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+MDL-00010
+evses -> 2: 
+ NEW evse_id : PT*ATL*EMDL*00010*3
+ OLD evse_id : PT*ATL*E*MDL*00010*03
+MDL-00010
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+MDL-00010
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+MDL-00010
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+VRS-00007
+coordinates: 
+ NEW latitude : 37.191380
+ OLD latitude : 37.191276
+VRS-00007
+coordinates: 
+ NEW longitude : -7.430170
+ OLD longitude : -7.430549
+VRS-00007
+: 
+ NEW coordinates : {'latitude': '37.191380', 'longitude': '-7.430170'}
+ OLD coordinates : {'latitude': '37.191276', 'longitude': '-7.430549'}
+VRS-00007
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVRS*00007*1
+ OLD evse_id : PT*ATL*E*VRS*00007*01
+VRS-00007
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VRS-00007
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVRS*00007*2
+ OLD evse_id : PT*ATL*E*VRS*00007*02
+VRS-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VRS-00007
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVRS*00007*3
+ OLD evse_id : PT*ATL*E*VRS*00007*03
+VRS-00007
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VRS-00007
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
