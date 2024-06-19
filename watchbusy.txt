@@ -1,4 +1,6 @@
 ********Construcao******
+OVR-00021
+ORM-00013
 VFX-00066
 VFX-00065
 VFX-00059
@@ -306,6 +308,8 @@ SNT-00098
 CSC-00120
 FIG-00009
 *******Privados_por_confirmar******
+PNI-00017
+LMG-00015
 STB-00086
 LSB-00808
 SNT-00148
