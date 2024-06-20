@@ -10952,3 +10952,75 @@ PTM-00050
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-06-20 22:59:11
+Adicionados:[]
+Removidos:['AVR-90002']
+OER-00189
+coordinates: 
+ NEW latitude : 38.719261
+ OLD latitude : 38.7192605
+OER-00189
+coordinates: 
+ NEW longitude : -9.259462
+ OLD longitude : -9.2594618
+OER-00189
+: 
+ NEW coordinates : {'latitude': '38.719261', 'longitude': '-9.259462'}
+ OLD coordinates : {'latitude': '38.7192605', 'longitude': '-9.2594618'}
+OER-00189
+evses -> 0: 
+ NEW evse_id : PT*ATL*EOER*00189*1
+ OLD evse_id : PT*ATL*E*OER*00189*01
+OER-00189
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+OER-00189
+evses -> 1: 
+ NEW evse_id : PT*ATL*EOER*00189*2
+ OLD evse_id : PT*ATL*E*OER*00189*02
+OER-00189
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VNG-00141
+coordinates: 
+ NEW latitude : 41.045951
+ OLD latitude : 41.0459512
+VNG-00141
+coordinates: 
+ NEW longitude : -8.568624
+ OLD longitude : -8.5686244
+VNG-00141
+: 
+ NEW coordinates : {'latitude': '41.045951', 'longitude': '-8.568624'}
+ OLD coordinates : {'latitude': '41.0459512', 'longitude': '-8.5686244'}
+VNG-00141
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVNG*00141*1
+ OLD evse_id : PT*ATL*E*VNG*00141*01
+VNG-00141
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VNG-00141
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVNG*00141*2
+ OLD evse_id : PT*ATL*E*VNG*00141*02
+VNG-00141
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VNG-00141
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVNG*00141*3
+ OLD evse_id : PT*ATL*E*VNG*00141*03
+VNG-00141
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VNG-00141
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
