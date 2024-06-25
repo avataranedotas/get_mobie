@@ -13321,3 +13321,2589 @@ TRF-00016
 evses -> 1: 
  NEW evse_id : PT*ATL*ETRF*00016*2
  OLD evse_id : PT*ATL*E*TRF*00016*02
+
+2024-06-25 12:16:32
+Adicionados:['BBR-00006', 'CTM-00005', 'CTM-00006', 'VDG-00002']
+
+BBR-00006 --> GLP 39.2700412 -9.162343 Bombarral Rua Cidade de Nampula
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-25T08:54:25.530Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-25T08:54:25.530Z'}]
+
+CTM-00005 --> HGP 37.1759392 -7.4808597 Castro Marim Urbanização Real Village
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-24T13:59:59.250Z'}]
+
+CTM-00006 --> HGP 37.1759392 -7.4808597 Castro Marim Urbanização Real Village
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-24T14:01:21.318Z'}]
+
+VDG-00002 --> KLS 38.20564 -7.80081 Vidigueira  E.N. 18 - Zona Industrial
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-25T10:53:28.540Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-25T10:53:28.540Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-25T10:53:28.540Z'}]
+Removidos:[]
+BRG-00107
+: 
+ NEW address : Avenida Robert Smith 
+ OLD address : Avenida Robert Smith
+BRG-00107
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+BRG-00107
+evses -> 0: 
+ NEW evse_id : PT*KLS*EBRG*00107*01
+ OLD evse_id : PT*KLS*E*BRG*00107*01
+BRG-00107
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRG-00107
+evses -> 1: 
+ NEW evse_id : PT*KLS*EBRG*00107*02
+ OLD evse_id : PT*KLS*E*BRG*00107*02
+BRG-00107
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRG-00107
+evses -> 2: 
+ NEW evse_id : PT*KLS*EBRG*00107*03
+ OLD evse_id : PT*KLS*E*BRG*00107*03
+BRG-00108
+: 
+ NEW address : Av. da Imaculada Conceição, 
+ OLD address : Av. da Imaculada Conceição,
+BRG-00108
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+BRG-00108
+evses -> 0: 
+ NEW evse_id : PT*KLS*EBRG*00108*01
+ OLD evse_id : PT*KLS*E*BRG*00108*01
+BRG-00108
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRG-00108
+evses -> 1: 
+ NEW evse_id : PT*KLS*EBRG*00108*02
+ OLD evse_id : PT*KLS*E*BRG*00108*02
+BRG-00108
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRG-00108
+evses -> 2: 
+ NEW evse_id : PT*KLS*EBRG*00108*03
+ OLD evse_id : PT*KLS*E*BRG*00108*03
+BRR-00129
+: 
+ NEW address : Av. da Escola dos Fuzileiros Navais (Sul) 
+ OLD address : Av. da Escola dos Fuzileiros Navais (Sul)
+BRR-00129
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+BRR-00129
+evses -> 0: 
+ NEW evse_id : PT*KLS*EBRR*00129*01
+ OLD evse_id : PT*KLS*E*BRR*00129*01
+BRR-00129
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRR-00129
+evses -> 1: 
+ NEW evse_id : PT*KLS*EBRR*00129*02
+ OLD evse_id : PT*KLS*E*BRR*00129*02
+BRR-00129
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+BRR-00129
+evses -> 2: 
+ NEW evse_id : PT*KLS*EBRR*00129*03
+ OLD evse_id : PT*KLS*E*BRR*00129*03
+CTX-00005
+: 
+ NEW address : Rua do Progresso 
+ OLD address : Rua do Progresso
+CTX-00005
+coordinates: 
+ NEW latitude : 39.165362
+ OLD latitude : 39.1653624
+CTX-00005
+coordinates: 
+ NEW longitude : -8.782801
+ OLD longitude : -8.7828014
+CTX-00005
+: 
+ NEW coordinates : {'latitude': '39.165362', 'longitude': '-8.782801'}
+ OLD coordinates : {'latitude': '39.1653624', 'longitude': '-8.7828014'}
+CTX-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CTX-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
+CTX-00005
+evses -> 0: 
+ NEW evse_id : PT*KLS*ECTX*00005*01
+ OLD evse_id : PT*KLS*E*CTX*00005*01
+CTX-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CTX-00005
+evses -> 1: 
+ NEW evse_id : PT*KLS*ECTX*00005*02
+ OLD evse_id : PT*KLS*E*CTX*00005*02
+CTX-00005
+evses -> 2: 
+ NEW evse_id : PT*KLS*ECTX*00005*03
+ OLD evse_id : PT*KLS*E*CTX*00005*03
+CVR-00006
+: 
+ NEW address : Rua Nova da Feira, Castro Verde 
+ OLD address : Rua Nova da Feira, Castro Verde
+CVR-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+CVR-00006
+evses -> 0: 
+ NEW evse_id : PT*KLS*ECVR*00006*01
+ OLD evse_id : PT*KLS*E*CVR*00006*01
+CVR-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CVR-00006
+evses -> 1: 
+ NEW evse_id : PT*KLS*ECVR*00006*02
+ OLD evse_id : PT*KLS*E*CVR*00006*02
+CVR-00006
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CVR-00006
+evses -> 2: 
+ NEW evse_id : PT*KLS*ECVR*00006*03
+ OLD evse_id : PT*KLS*E*CVR*00006*03
+HRT-00001
+: 
+ NEW address : Estrada Príncipe Alberto do Mónaco
+ OLD address : Estrada Príncipe Alberto do M³naco
+HRT-00003
+: 
+ NEW address : Estrada Regional 1-1.ª, Praça
+ OLD address : Estrada Regional 1-1.Âª, PraÃ§a
+IDN-00002
+: 
+ NEW address : Rua Dr. José Gardete Martins, Monfortinho
+ OLD address : Rua Dr. JosÃ© Gardete Martins, Monfortinho
+IDN-00003
+: 
+ NEW address : Rua Dr. José Gardete Martins, Monfortinho
+ OLD address : Rua Dr. JosÃ© Gardete Martins, Monfortinho
+IDN-00004
+: 
+ NEW address : Rua Dr. José Gardete Martins, Monfortinho
+ OLD address : Rua Dr. JosÃ© Gardete Martins, Monfortinho
+IDN-80001
+: 
+ NEW address : Largo do Município
+ OLD address : Largo do MunicÃ­pio
+ILH-00002
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00005
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00006
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00007
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00008
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00009
+: 
+ NEW address :  R. Prof. Júlio Catarino
+ OLD address :  R. Prof. JÃºlio Catarino
+ILH-00009
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00010
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00011
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00012
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00013
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00014
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-00015
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+ILH-90001
+: 
+ NEW address : Av. José Estevão
+ OLD address : Av. JosÃ© EstevÃ£o
+ILH-90001
+: 
+ NEW city : Ílhavo
+ OLD city : Ãlhavo
+LAG-00001
+: 
+ NEW address : Rua Agente Técnico João Mota Amaral
+ OLD address : Rua Agente TÃ©cnico JoÃ£o Mota Amaral
+LGA-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LGA-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LGA-00016
+: 
+ NEW address : Urbanização Rocha Brava - Sitio Alfanzina
+ OLD address : UrbanizaÃ§Ã£o Rocha Brava - Sitio Alfanzina
+LGA-00023
+: 
+ NEW address : Rua Marquês de Pombal 51
+ OLD address : Rua MarquÃªs de Pombal 51
+LGP-00001
+: 
+ NEW address : Rua Capitão-Mor Garcia Gonçalves Madruga
+ OLD address : Rua CapitÃ£o-Mor Garcia GonÃ§alves Madruga
+LGS-00008
+: 
+ NEW address : EN 125 - Sítio da Ponte
+ OLD address : EN 125 - SÃ­tio da Ponte
+LGS-00009
+: 
+ NEW address : Rua Pedra Alçada
+ OLD address : Rua Pedra AlÃ§ada
+LGS-00011
+: 
+ NEW address : Estrada de Porto de Mós
+ OLD address : Estrada de Porto de MÃ³s
+LGS-00012
+: 
+ NEW address : Urbanização Varandas de São João, Lote 14
+ OLD address : UrbanizaÃ§Ã£o Varandas de SÃ£o JoÃ£o, Lote 14
+LGS-00028
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da RepÃºblica
+LGS-00031
+: 
+ NEW address : Lugar da Pedra Alýada - Ameijeira Verde
+ OLD address : Lugar da Pedra AlÃ½ada - Ameijeira Verde
+LGS-00032
+: 
+ NEW address : Avenida da Repýblica
+ OLD address : Avenida da RepÃ½blica
+LGS-00033
+: 
+ NEW address : Rua do Bairro da Abrótea
+ OLD address : Rua do Bairro da AbrÃ³tea
+LGS-00034
+: 
+ NEW address : Urbanização Quinta da Boavista Sítio Atalaia
+ OLD address : UrbanizaÃ§Ã£o Quinta da Boavista SÃ­tio Atalaia
+LGS-00035
+: 
+ NEW address : Urbanização Quinta da Boavista Sítio Atalaia
+ OLD address : UrbanizaÃ§Ã£o Quinta da Boavista SÃ­tio Atalaia
+LGS-00036
+: 
+ NEW address : Urbanização Quinta da Boavista Sítio Atalaia
+ OLD address : UrbanizaÃ§Ã£o Quinta da Boavista SÃ­tio Atalaia
+LLE-00002
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00003
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00021
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00022
+: 
+ NEW address : Avenida José da Costa Mealha
+ OLD address : Avenida JosÃ© da Costa Mealha
+LLE-00022
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00024
+: 
+ NEW address : Hotel Vila Galé Ampalius
+ OLD address : Hotel Vila GalÃ© Ampalius
+LLE-00024
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00025
+: 
+ NEW address : Hotel Vila Galé Ampalius
+ OLD address : Hotel Vila GalÃ© Ampalius
+LLE-00025
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00026
+: 
+ NEW address : Hotel Vila Galé Marina
+ OLD address : Hotel Vila GalÃ© Marina
+LLE-00026
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00027
+: 
+ NEW address : Hotel Vila Galé Marina
+ OLD address : Hotel Vila GalÃ© Marina
+LLE-00027
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00028
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00041
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00042
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00043
+: 
+ NEW address : Centro Comercial Buganvília
+ OLD address : Centro Comercial BuganvÃ­lia
+LLE-00043
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00044
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00045
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00048
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00049
+: 
+ NEW address : Rua de São Paulo
+ OLD address : Rua de SÃ£o Paulo
+LLE-00049
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00051
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00052
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00053
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00054
+: 
+ NEW address : Avenida Eng. João Meireles
+ OLD address : Avenida Eng. JoÃ£o Meireles
+LLE-00054
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00056
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00057
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00058
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00059
+: 
+ NEW address : Rua Manuel Dourado Eusébio
+ OLD address : Rua Manuel Dourado EusÃ©bio
+LLE-00059
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00060
+: 
+ NEW address : Fundação Manuel Viegas Guerreiro
+ OLD address : FundaÃ§Ã£o Manuel Viegas Guerreiro
+LLE-00060
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00061
+: 
+ NEW address : Urbanização Quinta do Romão
+ OLD address : UrbanizaÃ§Ã£o Quinta do RomÃ£o
+LLE-00061
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00062
+: 
+ NEW address : Rua Cónego Clemente Brito Pinto
+ OLD address : Rua CÃ³nego Clemente Brito Pinto
+LLE-00062
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00063
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00064
+: 
+ NEW address : Avenida André Jordan
+ OLD address : Avenida AndrÃ© Jordan
+LLE-00064
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00065
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00066
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00067
+: 
+ NEW address : Rua Cristóvão Pires Norte
+ OLD address : Rua CristÃ³vÃ£o Pires Norte
+LLE-00067
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00068
+: 
+ NEW address : Avenida José dos Santos Farias
+ OLD address : Avenida JosÃ© dos Santos Farias
+LLE-00068
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00069
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00070
+: 
+ NEW address : Avenida Francisco Sá Carneiro
+ OLD address : Avenida Francisco SÃ¡ Carneiro
+LLE-00070
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00071
+: 
+ NEW address : Avenida Francisco Sá Carneiro
+ OLD address : Avenida Francisco SÃ¡ Carneiro
+LLE-00071
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00072
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00073
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00074
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00079
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00083
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00084
+: 
+ NEW address : AVENIDA ENG. JOÃO MEIRELES
+ OLD address : AVENIDA ENG. JOÃO MEIRELES
+LLE-00084
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00085
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00087
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00088
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00089
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00099
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00100
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00101
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00102
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00103
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00104
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00105
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00106
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00107
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00108
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00109
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00110
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00111
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00112
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00113
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00114
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00115
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00116
+: 
+ NEW address : Aldeia Hípica, Rua Quinta de Quarteira
+ OLD address : Aldeia HÃ­pica, Rua Quinta de Quarteira
+LLE-00116
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00117
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00118
+: 
+ NEW address : Sítio das Quintinhas
+ OLD address : SÃ­tio das Quintinhas
+LLE-00118
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00119
+: 
+ NEW address : R. de Volta dos Jacarandás 5
+ OLD address : R. de Volta dos JacarandÃ¡s 5
+LLE-00119
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00120
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00121
+: 
+ NEW address : R. dos Estados Unidos da América
+ OLD address : R. dos Estados Unidos da AmÃ©rica
+LLE-00121
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00122
+: 
+ NEW address : Largo dos Três Caminhos
+ OLD address : Largo dos TrÃªs Caminhos
+LLE-00122
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00127
+: 
+ NEW address : R. da Torre dÁgua 4.11 1.B
+ OLD address : R. da Torre dÃgua 4.11 1.B
+LLE-00127
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00128
+: 
+ NEW address : R. da Torre dÁgua 4.11 1.B
+ OLD address : R. da Torre dÃgua 4.11 1.B
+LLE-00128
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00129
+: 
+ NEW address : R. da Torre dÁgua 4.11 1.B
+ OLD address : R. da Torre dÃgua 4.11 1.B
+LLE-00129
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00130
+: 
+ NEW address : R. da Torre dÁgua 4.11 1.B
+ OLD address : R. da Torre dÃgua 4.11 1.B
+LLE-00130
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00132
+: 
+ NEW address : Largo da Estátua
+ OLD address : Largo da EstÃ¡tua
+LLE-00132
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00133
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00140
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00140
+: 
+ NEW address : Dunas Douradas, Sítio do Garrão
+ OLD address : Dunas Douradas, SÃ­tio do GarrÃ£o
+LLE-00141
+: 
+ NEW address : Dunas Douradas, Sítio do Garrão
+ OLD address : Dunas Douradas, SÃ­tio do GarrÃ£o
+LLE-00141
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00142
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00142
+: 
+ NEW address : A Floresta do José - Encosta do Lobo
+ OLD address : A Floresta do JosÃ© - Encosta do Lobo
+LLE-00144
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00147
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00147
+: 
+ NEW address : Rua Cristovão Pires Norte - Valverde
+ OLD address : Rua CristovÃ£o Pires Norte - Valverde
+LLE-00148
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00149
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00150
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00151
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00152
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00153
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00154
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00155
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00155
+: 
+ NEW address : Rua do Oceano Atlântico,
+ OLD address : Rua do Oceano AtlÃ¢ntico,
+LLE-00156
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00157
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00158
+: 
+ NEW address : Sítio do Semino
+ OLD address : SÃ­tio do Semino
+LLE-00158
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00159
+: 
+ NEW address : Av. Andrade de Sousa, - Loulé
+ OLD address : Av. Andrade de Sousa, - LoulÃ©
+LLE-00159
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00160
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00160
+: 
+ NEW address : Estrada Ponte 124 Centro Inspeção Automóvel
+ OLD address : Estrada Ponte 124 Centro InspeÃ§Ã£o AutomÃ³vel
+LLE-00161
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00161
+: 
+ NEW address : Av. Prof. Doutor Aníbal António Cavaco Silva
+ OLD address : Av. Prof. Doutor AnÃ­bal AntÃ³nio Cavaco Silva
+LLE-00162
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00163
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00164
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00165
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00166
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00167
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00168
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00169
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00170
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00171
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00172
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00173
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00174
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00175
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00176
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00177
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00178
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00179
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00180
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00191
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00191
+: 
+ NEW address : Quinta do Lago, Av. André Jordan, Almancil
+ OLD address : Quinta do Lago, Av. AndrÃ© Jordan, Almancil
+LLE-00192
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00192
+: 
+ NEW address : Quinta do Lago, Av. André Jordan 39, Almancil
+ OLD address : Quinta do Lago, Av. AndrÃ© Jordan 39, Almancil
+LLE-00202
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00203
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00204
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00205
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00208
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00209
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00211
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00212
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00212
+: 
+ NEW address : Praça dos Largo dos Três Caminhos
+ OLD address : PraÃ§a dos Largo dos TrÃªs Caminhos
+LLE-00213
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00213
+: 
+ NEW address : Praça dos Largo dos Três Caminhos
+ OLD address : PraÃ§a dos Largo dos TrÃªs Caminhos
+LLE-00214
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00214
+: 
+ NEW address : Praça dos Largo dos Três Caminhos
+ OLD address : PraÃ§a dos Largo dos TrÃªs Caminhos
+LLE-90001
+: 
+ NEW address : Av. Francisco Sá Carneiro
+ OLD address : Av. Francisco SÃ¡ Carneiro
+LLE-90001
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-90023
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LMG-00005
+: 
+ NEW address : Hotel Vila Galé-VILA GALÉ COLLECTION DOURO
+ OLD address : Hotel Vila GalÃ©-VILA GALÃ COLLECTION DOURO
+LMG-00006
+: 
+ NEW address : Hotel Vila Galé-VILA GALÉ COLLECTION DOURO
+ OLD address : Hotel Vila GalÃ©-VILA GALÃ COLLECTION DOURO
+LMG-00007
+: 
+ NEW address : N226, nº3
+ OLD address : N226, nÂº3
+LMG-00008
+: 
+ NEW address : N226, nº3
+ OLD address : N226, nÂº3
+LMG-00009
+: 
+ NEW address : Rua de São João
+ OLD address : Rua de SÃ£o JoÃ£o
+LMG-00012
+: 
+ NEW address : Rua de São João
+ OLD address : Rua de SÃ£o JoÃ£o
+LMG-00013
+: 
+ NEW address : McDonalds Lamego, Lugar de Rina, EN 226, nº 9
+ OLD address : McDonalds Lamego, Lugar de Rina, EN 226, nÂº 9
+LNH-00006
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00007
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00008
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00008
+: 
+ NEW address : Avenida de Moçambique
+ OLD address : Avenida de MoÃ§ambique
+LNH-00009
+: 
+ NEW address : Avenida António José de Almeida
+ OLD address : Avenida AntÃ³nio JosÃ© de Almeida
+LNH-00009
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00010
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00010
+: 
+ NEW address : Av. António José de Almeida (EN 247), n 49
+ OLD address : Av. AntÃ³nio JosÃ© de Almeida (EN 247), n 49
+LNH-00011
+: 
+ NEW address : Av. António José de Almeida 19-15
+ OLD address : Av. AntÃ³nio JosÃ© de Almeida 19-15
+LNH-00011
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00011
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELNH*00011*1
+ OLD evse_id : PT*ATL*E*LNH*00011*01
+LNH-00011
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LNH-00011
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELNH*00011*2
+ OLD evse_id : PT*ATL*E*LNH*00011*02
+LNH-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LNH-00012
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-00012
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELNH*00012*1
+ OLD evse_id : PT*ATL*E*LNH*00012*01
+LNH-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LNH-00012
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELNH*00012*2
+ OLD evse_id : PT*ATL*E*LNH*00012*02
+LNH-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LNH-00014
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LNH-90001
+: 
+ NEW city : Lourinhã
+ OLD city : LourinhÃ£
+LOU-00005
+: 
+ NEW address : Rua de Santo André
+ OLD address : Rua de Santo AndrÃ©
+LOU-90001
+: 
+ NEW address : Av. Amílcar Neto
+ OLD address : Av. AmÃ­lcar Neto
+LOU-90002
+: 
+ NEW address : Av. do Santuário
+ OLD address : Av. do SantuÃ¡rio
+LRA-00017
+: 
+ NEW address : Praça Goa Damão e Diu
+ OLD address : PraÃ§a Goa DamÃ£o e Diu
+LRA-00022
+: 
+ NEW address : Rua do Pisão
+ OLD address : Rua do PisÃ£o
+LRA-00023
+: 
+ NEW address : Rua do Pisão
+ OLD address : Rua do PisÃ£o
+LRA-00075
+: 
+ NEW address : R. Virgílio Vieira da Cunha
+ OLD address : R. VirgÃ­lio Vieira da Cunha
+LRA-00076
+: 
+ NEW address : R. Virgílio Vieira da Cunha
+ OLD address : R. VirgÃ­lio Vieira da Cunha
+LRA-00077
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00078
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00079
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00080
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00081
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00082
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00083
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00084
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00085
+: 
+ NEW address : Rua Santo André, Leiria
+ OLD address : Rua Santo AndrÃ©, Leiria
+LRA-00093
+: 
+ NEW address : Rua da Comissão Iniciativa 13
+ OLD address : Rua da ComissÃ£o Iniciativa 13
+LRA-00094
+: 
+ NEW address : Rua da Comissão Iniciativa 13
+ OLD address : Rua da ComissÃ£o Iniciativa 13
+LRA-00095
+: 
+ NEW address : Intermaché Maceira - EN 356-1
+ OLD address : IntermachÃ© Maceira - EN 356-1
+LRA-00096
+: 
+ NEW address : Rua Álvaro Pires Miranda 95
+ OLD address : Rua Ãlvaro Pires Miranda 95
+LRA-00097
+: 
+ NEW address : Rua Álvaro Pires Miranda 95
+ OLD address : Rua Ãlvaro Pires Miranda 95
+LRA-00114
+: 
+ NEW address : Rua Doutor Luis Pereira da Costa Nº 81
+ OLD address : Rua Doutor Luis Pereira da Costa NÂº 81
+LRA-00115
+: 
+ NEW address : Area de servicio Cepsa,  A1 - Sublanço Fátima
+ OLD address : Area de servicio Cepsa,  A1 - SublanÃ§o FÃ¡tima
+LRA-00116
+: 
+ NEW address : Area de servicio Cepsa,  A1 - Sublanço Fátima
+ OLD address : Area de servicio Cepsa,  A1 - SublanÃ§o FÃ¡tima
+LRA-00117
+: 
+ NEW address : Rua Central nº 676
+ OLD address : Rua Central nÂº 676
+LRA-00123
+: 
+ NEW address : Rua Luís Pereira da Costa EN109 Km 150,5
+ OLD address : Rua LuÃ­s Pereira da Costa EN109 Km 150,5
+LRA-80008
+: 
+ NEW address : Rua Doutor João Soares
+ OLD address : Rua Doutor JoÃ£o Soares
+LRA-80011
+: 
+ NEW address : Rua da Assunção
+ OLD address : Rua da AssunÃ§Ã£o
+LRA-90006
+: 
+ NEW address : Avenida Heróis de Angola
+ OLD address : Avenida HerÃ³is de Angola
+LRA-90007
+: 
+ NEW address : Largo da República
+ OLD address : Largo da RepÃºblica
+LRA-90009
+: 
+ NEW address : Rua Luís Silveira Charters Azevedo
+ OLD address : Rua LuÃ­s Silveira Charters Azevedo
+LRS-00045
+: 
+ NEW address : Rua da Cidade de Gôa
+ OLD address : Rua da Cidade de GÃ´a
+LRS-00046
+: 
+ NEW address : Avenida São João
+ OLD address : Avenida SÃ£o JoÃ£o
+LRS-00050
+: 
+ NEW address : Rua Pedro Álvares Cabral
+ OLD address : Rua Pedro Ãlvares Cabral
+LRS-00055
+: 
+ NEW address : Rua da República 5
+ OLD address : Rua da RepÃºblica 5
+LRS-00064
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da RepÃºblica
+LRS-00066
+: 
+ NEW address : R. Álvaro Pedro Gomes 13
+ OLD address : R. Ãlvaro Pedro Gomes 13
+LRS-00076
+: 
+ NEW address : Rotunda Nuno Rodrigues dos Santos nº2 a 2C
+ OLD address : Rotunda Nuno Rodrigues dos Santos nÂº2 a 2C
+LRS-00097
+: 
+ NEW address : R. Estado da Índia pav 9
+ OLD address : R. Estado da Ãndia pav 9
+LRS-00102
+: 
+ NEW address : R. Pêro Vaz de Caminha 14,
+ OLD address : R. PÃªro Vaz de Caminha 14,
+LRS-00103
+: 
+ NEW address : Rua Marechal António de Spínola
+ OLD address : Rua Marechal AntÃ³nio de SpÃ­nola
+LRS-00104
+: 
+ NEW address : Avenida Capitão Salgueiro Maia
+ OLD address : Avenida CapitÃ£o Salgueiro Maia
+LSB-00799
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 11
+LSB-00804
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 11
+LSB-00815
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LSB-00815
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MGR-00012
+: 
+ NEW address : Avenida 1.º de Maio, Marinha Grande
+ OLD address : Avenida 1.º de Maio,  Marinha Grande
+MGR-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+MGR-00012
+evses -> 0: 
+ NEW evse_id : PT*KLS*EMGR*00012*01
+ OLD evse_id : PT*KLS*E*MGR*00012*01
+MGR-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MGR-00012
+evses -> 1: 
+ NEW evse_id : PT*KLS*EMGR*00012*02
+ OLD evse_id : PT*KLS*E*MGR*00012*02
+MGR-00012
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MGR-00012
+evses -> 2: 
+ NEW evse_id : PT*KLS*EMGR*00012*03
+ OLD evse_id : PT*KLS*E*MGR*00012*03
+NZR-00029
+evses -> 0: 
+ NEW evse_id : PT*ATL*ENZR*00029*1
+ OLD evse_id : PT*ATL*E*NZR*00029*01
+NZR-00029
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+NZR-00029
+evses -> 1: 
+ NEW evse_id : PT*ATL*ENZR*00029*2
+ OLD evse_id : PT*ATL*E*NZR*00029*02
+NZR-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+NZR-00029
+evses -> 2: 
+ NEW evse_id : PT*ATL*ENZR*00029*3
+ OLD evse_id : PT*ATL*E*NZR*00029*03
+NZR-00029
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+OHP-00003
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+OHP-00003
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+PNV-00002
+: 
+ NEW city : Proença-a-Nova
+ OLD city : Proen§a-a-Nova
+PNV-00003
+: 
+ NEW city : Proença-a-Nova
+ OLD city : ProenÃ§a-a-Nova
+PNV-90001
+: 
+ NEW city : Proença-a-Nova
+ OLD city : ProenÃ§a-a-Nova
+PPS-00002
+: 
+ NEW address : R. do Bairro São Martinho Lote 7 E
+ OLD address : R. do Bairro SÃ£o Martinho Lote 7 E
+PPS-90001
+: 
+ NEW address : Largo José Henriques da Cunha
+ OLD address : Largo JosÃ© Henriques da Cunha
+PRD-00008
+: 
+ NEW address : Via Rota dos Móveis, 50
+ OLD address : Via Rota dos MÃ³veis, 50
+PRD-00009
+: 
+ NEW address : Av. Dr. Francisco Sá Carneiro
+ OLD address : Av. Dr. Francisco SÃ¡ Carneiro
+PRD-00010
+: 
+ NEW address : Av. dos Bombeiros Voluntários E.N 15
+ OLD address : Av. dos Bombeiros VoluntÃ¡rios E.N 15
+PRD-00013
+: 
+ NEW address : Rua São Sebastião 300
+ OLD address : Rua SÃ£o SebastiÃ£o 300
+PRD-00016
+: 
+ NEW address : Rua José Mendes Moreira
+ OLD address : Rua JosÃ© Mendes Moreira
+PRD-00019
+: 
+ NEW address : Rampa do Padrão
+ OLD address : Rampa do PadrÃ£o
+PRD-00023
+: 
+ NEW address : Circular Rodoviária Interna de Paredes, nº 51
+ OLD address : Circular RodoviÃ¡ria Interna de Paredes, nÂº 51
+PRG-00002
+: 
+ NEW address : Rua da Ferreirinha, n.º 128
+ OLD address : Rua da Ferreirinha, n.Âº 128
+PRG-00002
+: 
+ NEW city : Peso da Régua
+ OLD city : Peso da RÃ©gua
+PRG-80001
+: 
+ NEW city : Peso da Régua
+ OLD city : Peso da RÃ©gua
+PRS-00003
+: 
+ NEW address : Largo Terreiro de São Roque nº 51
+ OLD address : Largo Terreiro de SÃ£o Roque nÂº 51
+PRS-90001
+: 
+ NEW address : Largo República
+ OLD address : Largo RepÃºblica
+PRT-00001
+: 
+ NEW address : Avenida de França
+ OLD address : Avenida de FranÃ§a
+PRT-00019
+: 
+ NEW address : Av. Sidónio Pais
+ OLD address : Av. SidÃ³nio Pais
+PRT-00022
+: 
+ NEW address : Rua dos Campeões Europeus
+ OLD address : Rua dos CampeÃµes Europeus
+PRT-00023
+: 
+ NEW address : Rua Dr. António Bernardino de Almeida
+ OLD address : Rua Dr. AntÃ³nio Bernardino de Almeida
+PRT-00024
+: 
+ NEW address : Rua Dr. António Bernardino de Almeida
+ OLD address : Rua Dr. AntÃ³nio Bernardino de Almeida
+PRT-00025
+: 
+ NEW address : Rua Dr. António Bernardino de Almeida
+ OLD address : Rua Dr. AntÃ³nio Bernardino de Almeida
+PRT-00031
+: 
+ NEW address : Hotel Vila Galé Porto
+ OLD address : Hotel Vila GalÃ© Porto
+PRT-00032
+: 
+ NEW address : Hotel Vila Galé Porto
+ OLD address : Hotel Vila GalÃ© Porto
+PRT-00033
+: 
+ NEW address : Hotel Vila Galé Porto Ribeira
+ OLD address : Hotel Vila GalÃ© Porto Ribeira
+PRT-00034
+: 
+ NEW address : Hotel Vila Galé Porto Ribeira
+ OLD address : Hotel Vila GalÃ© Porto Ribeira
+PRT-00040
+: 
+ NEW address : Praça de Mouzinho de Albuquerque
+ OLD address : PraÃ§a de Mouzinho de Albuquerque
+PRT-00041
+: 
+ NEW address : Praça de Mouzinho de Albuquerque
+ OLD address : PraÃ§a de Mouzinho de Albuquerque
+PRT-00042
+: 
+ NEW address : Praça de Mouzinho de Albuquerque
+ OLD address : PraÃ§a de Mouzinho de Albuquerque
+PRT-00043
+: 
+ NEW address : Praça de Lisboa
+ OLD address : PraÃ§a de Lisboa
+PRT-00044
+: 
+ NEW address : Praça de Lisboa
+ OLD address : PraÃ§a de Lisboa
+PRT-00045
+: 
+ NEW address : Praça de Lisboa
+ OLD address : PraÃ§a de Lisboa
+PRT-00051
+: 
+ NEW address : Estrada da Circunvalação 10853
+ OLD address : Estrada da CircunvalaÃ§Ã£o 10853
+PRT-00053
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00054
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00055
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00056
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00057
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00058
+: 
+ NEW address : Praça D. João I
+ OLD address : PraÃ§a D. JoÃ£o I
+PRT-00071
+: 
+ NEW address : Rua São Roque da Lameira
+ OLD address : Rua SÃ£o Roque da Lameira
+PRT-00072
+: 
+ NEW address : Rua da Constituição
+ OLD address : Rua da ConstituiÃ§Ã£o
+PRT-00076
+: 
+ NEW address : Rua do Doutor José António Marques
+ OLD address : Rua do Doutor JosÃ© AntÃ³nio Marques
+PRT-00077
+: 
+ NEW address : Praça de Francisco Sá Carneiro
+ OLD address : PraÃ§a de Francisco SÃ¡ Carneiro
+PRT-00078
+: 
+ NEW address : Praça de Francisco Sá Carneiro
+ OLD address : PraÃ§a de Francisco SÃ¡ Carneiro
+PRT-00087
+: 
+ NEW address : Rua João Pedro Ribeiro
+ OLD address : Rua JoÃ£o Pedro Ribeiro
+PRT-00092
+: 
+ NEW address : Rua de Gonçalo Cristóvão
+ OLD address : Rua de GonÃ§alo CristÃ³vÃ£o
+PRT-00093
+: 
+ NEW address : Rua de Gonçalo Cristóvão
+ OLD address : Rua de GonÃ§alo CristÃ³vÃ£o
+PRT-00094
+: 
+ NEW address : Rua do Elísio e do Almada
+ OLD address : Rua do ElÃ­sio e do Almada
+PRT-00095
+: 
+ NEW address : Rua do Elísio e do Almada
+ OLD address : Rua do ElÃ­sio e do Almada
+PRT-00097
+: 
+ NEW address : Rua Conde da Covilhã
+ OLD address : Rua Conde da CovilhÃ£
+PRT-00098
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00099
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00106
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00107
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00108
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00109
+: 
+ NEW address : Rua de Sá da Bandeira
+ OLD address : Rua de SÃ¡ da Bandeira
+PRT-00116
+: 
+ NEW address : Estrada da Circunvalação
+ OLD address : Estrada da CircunvalaÃ§Ã£o
+PRT-00117
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade CatÃ³lica Portuguesa
+PRT-00118
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade CatÃ³lica Portuguesa
+PRT-00119
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade CatÃ³lica Portuguesa
+PRT-00120
+: 
+ NEW address : Universidade Católica Portuguesa
+ OLD address : Universidade CatÃ³lica Portuguesa
+PRT-00121
+: 
+ NEW address : Estrada da Circunvalação
+ OLD address : Estrada da CircunvalaÃ§Ã£o
+PRT-00122
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : PraÃ§a do Bom Sucesso 123
+PRT-00123
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : PraÃ§a do Bom Sucesso 123
+PRT-00124
+: 
+ NEW address : Praça do Bom Sucesso 123
+ OLD address : PraÃ§a do Bom Sucesso 123
+PRT-00128
+: 
+ NEW address : Estrada Exterior da Circunvalação, 82-130
+ OLD address : Estrada Exterior da CircunvalaÃ§Ã£o, 82-130
+PRT-00132
+: 
+ NEW address : Avenida Fernão de Magalhães
+ OLD address : Avenida FernÃ£o de MagalhÃ£es
+PRT-00140
+: 
+ NEW address : Rua da Constituição, nº 2570
+ OLD address : Rua da ConstituiÃ§Ã£o, nÂº 2570
+PRT-00152
+: 
+ NEW address : Rua Monte dos Burgos, nº 316
+ OLD address : Rua Monte dos Burgos, nÂº 316
+PRT-00159
+: 
+ NEW address : Rua Júlio Dinis, 844
+ OLD address : Rua JÃºlio Dinis, 844
+PRT-00171
+: 
+ NEW address : RUA DO GÓLGOTA
+ OLD address : RUA DO GÃLGOTA
+PRT-00173
+: 
+ NEW address : Estr. da Circunvalação 10853
+ OLD address : Estr. da CircunvalaÃ§Ã£o 10853
+PRT-00176
+: 
+ NEW address : R. de Serralves, nº 124
+ OLD address : R. de Serralves, nÂº 124
+PRT-00177
+: 
+ NEW address : R. de Serralves, nº 124
+ OLD address : R. de Serralves, nÂº 124
+PRT-00178
+: 
+ NEW address : R. de Serralves, nº 124
+ OLD address : R. de Serralves, nÂº 124
+PRT-00180
+: 
+ NEW address : Rua de Júlio Dinis 320
+ OLD address : Rua de JÃºlio Dinis 320
+PRT-00182
+: 
+ NEW address : KFC - Rua das Palmeiras, nº51
+ OLD address : KFC - Rua das Palmeiras, nÂº51
+PRT-00185
+: 
+ NEW address : PRAÇA DOUTOR FRANCISCO SÁ CARNEIRO, PORTO
+ OLD address : PRAÃA DOUTOR FRANCISCO SÃ CARNEIRO, PORTO
+PRT-00186
+: 
+ NEW address : PRAÇA DOUTOR FRANCISCO SÁ CARNEIRO, PORTO
+ OLD address : PRAÃA DOUTOR FRANCISCO SÃ CARNEIRO, PORTO
+PRT-00189
+: 
+ NEW address : RUA ENG FERREIRA DIAS, Nº728
+ OLD address : RUA ENG FERREIRA DIAS, NÂº728
+PRT-00190
+: 
+ NEW address : RUA ENG FERREIRA DIAS, Nº728
+ OLD address : RUA ENG FERREIRA DIAS, NÂº728
+PRT-00191
+: 
+ NEW address : RUA ENG FERREIRA DIAS, Nº728
+ OLD address : RUA ENG FERREIRA DIAS, NÂº728
+PRT-00192
+: 
+ NEW address : RUA ENG FERREIRA DIAS, Nº728
+ OLD address : RUA ENG FERREIRA DIAS, NÂº728
+PRT-00197
+: 
+ NEW address : Av. de Fernão de Magalhães 7
+ OLD address : Av. de FernÃ£o de MagalhÃ£es 7
+PRT-00198
+: 
+ NEW address :  R. do Bolhão 128, Porto
+ OLD address :  R. do BolhÃ£o 128, Porto
+PRT-00199
+: 
+ NEW address :  R. do Bolhão 128, Porto
+ OLD address :  R. do BolhÃ£o 128, Porto
+PRT-00200
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00201
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00202
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00203
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00204
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00205
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00206
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00207
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00208
+: 
+ NEW address : Praça D. João I, s/n
+ OLD address : PraÃ§a D. JoÃ£o I, s/n
+PRT-00209
+: 
+ NEW address : Rua Amândio Galhano
+ OLD address : Rua AmÃ¢ndio Galhano
+PRT-00210
+: 
+ NEW address : Rua Amândio Galhano
+ OLD address : Rua AmÃ¢ndio Galhano
+PRT-00211
+: 
+ NEW address : Rua Amândio Galhano
+ OLD address : Rua AmÃ¢ndio Galhano
+PRT-00215
+: 
+ NEW address : Rua Praça da Batalha 32-34
+ OLD address : Rua PraÃ§a da Batalha 32-34
+PRT-00218
+: 
+ NEW address : Estrada Exterior da Circunvalação (EN 12)
+ OLD address : Estrada Exterior da CircunvalaÃ§Ã£o (EN 12)
+PRT-00221
+: 
+ NEW address : Rua da Constituição 666
+ OLD address : Rua da ConstituiÃ§Ã£o 666
+PRT-00225
+: 
+ NEW address : Rua da Constituição 666
+ OLD address : Rua da ConstituiÃ§Ã£o 666
+PRT-00229
+: 
+ NEW address : Estr. da Circunvalação 12 843,
+ OLD address : Estr. da CircunvalaÃ§Ã£o 12 843,
+PRT-00230
+: 
+ NEW address : Rua da Constituiýýo 666
+ OLD address : Rua da ConstituiÃ½Ã½o 666
+PRT-00237
+: 
+ NEW address : Avenida de França
+ OLD address : Avenida de FranÃ§a
+PRT-00239
+: 
+ NEW address : Estr. da Circunvalação 12 843
+ OLD address : Estr. da CircunvalaÃ§Ã£o 12 843
+PRT-00240
+: 
+ NEW address : Estrada da Circunvalação
+ OLD address : Estrada da CircunvalaÃ§Ã£o
+PRT-00247
+: 
+ NEW address : Alameda Basílio Teles 29
+ OLD address : Alameda BasÃ­lio Teles 29
+PRT-80080
+: 
+ NEW address : Rua António Bessa Leite
+ OLD address : Rua AntÃ³nio Bessa Leite
+PRT-90082
+: 
+ NEW address : Rua Duque de Loulé
+ OLD address : Rua Duque de LoulÃ©
+PRT-90086
+: 
+ NEW address : Rua Ofélia Diogo da Costa
+ OLD address : Rua OfÃ©lia Diogo da Costa
+PSR-00007
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de SÃ´r
+PSR-00010
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de SÃ´r
+PSR-00010
+: 
+ NEW address : HORTAS NOVAS DO DOMINGÃO, EN 119
+ OLD address : HORTAS NOVAS DO DOMINGÃO, EN 119
+PSR-90001
+: 
+ NEW address : R. dos Bombeiros Voluntários
+ OLD address : R. dos Bombeiros VoluntÃ¡rios
+PSR-90001
+: 
+ NEW city : Ponte de Sôr
+ OLD city : Ponte de SÃ´r
+PST-00003
+: 
+ NEW address : Sítio do Espírito Santo
+ OLD address : SÃ­tio do EspÃ­rito Santo
+PST-00004
+: 
+ NEW address : Sítio do Espírito Santo
+ OLD address : SÃ­tio do EspÃ­rito Santo
+PTG-00017
+: 
+ NEW address : Estrada dos Moleiros, nº15
+ OLD address : Estrada dos Moleiros, nÂº15
+PTG-00021
+: 
+ NEW address : Avenida Movimento das Forças Armadas
+ OLD address : Avenida Movimento das ForÃ§as Armadas
+PTG-90002
+: 
+ NEW address : Rua de Olivença
+ OLD address : Rua de OlivenÃ§a
+PTG-90003
+: 
+ NEW address : Praça da República
+ OLD address : PraÃ§a da RepÃºblica
+PTG-90004
+: 
+ NEW address : Rua Engenheiro Óscar Malcata
+ OLD address : Rua Engenheiro Ãscar Malcata
+PTL-00003
+: 
+ NEW address : Calçada dos Quarteis
+ OLD address : CalÃ§ada dos Quarteis
+PTL-00006
+: 
+ NEW address : Refóios do Lima
+ OLD address : RefÃ³ios do Lima
+PTL-00011
+: 
+ NEW address : R. Salvato Feijó 17
+ OLD address : R. Salvato FeijÃ³ 17
+PTL-00013
+: 
+ NEW address : Rua Santiago da Gemieira nº10
+ OLD address : Rua Santiago da Gemieira nÂº10
+PTL-00016
+: 
+ NEW address : Rua da Bouça de Abade
+ OLD address : Rua da BouÃ§a de Abade
+PTM-00003
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00004
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00005
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00006
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00007
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00009
+: 
+ NEW address : Leroy Merlin Portimão
+ OLD address : Leroy Merlin PortimÃ£o
+PTM-00009
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00010
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00011
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00012
+: 
+ NEW address : Pestana D João II
+ OLD address : Pestana D JoÃ£o II
+PTM-00012
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00013
+: 
+ NEW address : Pestana D João II
+ OLD address : Pestana D JoÃ£o II
+PTM-00013
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00014
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00015
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00016
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00017
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00018
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua FranÃ§a Borges
+PTM-00018
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00019
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua FranÃ§a Borges
+PTM-00019
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00020
+: 
+ NEW address : Rua França Borges
+ OLD address : Rua FranÃ§a Borges
+PTM-00020
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00021
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00025
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00026
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00027
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00031
+: 
+ NEW address : R. de São Pedro 72
+ OLD address : R. de SÃ£o Pedro 72
+PTM-00031
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00032
+: 
+ NEW address : R. de São Pedro 72
+ OLD address : R. de SÃ£o Pedro 72
+PTM-00032
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00033
+: 
+ NEW address : R. de São Pedro 72
+ OLD address : R. de SÃ£o Pedro 72
+PTM-00033
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00034
+: 
+ NEW address : R. de São Pedro 72
+ OLD address : R. de SÃ£o Pedro 72
+PTM-00034
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00037
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00038
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00039
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00039
+: 
+ NEW address : Avenida de Guarané - Largo do Dique
+ OLD address : Avenida de GuaranÃ© - Largo do Dique
+PTM-00040
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00040
+: 
+ NEW address : Avenida de Guarané - Largo do Dique
+ OLD address : Avenida de GuaranÃ© - Largo do Dique
+PTM-00041
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00041
+: 
+ NEW address : Avenida de Guarané - Largo do Dique
+ OLD address : Avenida de GuaranÃ© - Largo do Dique
+PTM-00042
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00043
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00043
+: 
+ NEW address : Horta de S. Pedro, Lt A St do Poço Fojo
+ OLD address : Horta de S. Pedro, Lt A St do PoÃ§o Fojo
+PTM-00044
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00044
+: 
+ NEW address : Horta de S. Pedro, Lt A St do Poço Fojo
+ OLD address : Horta de S. Pedro, Lt A St do PoÃ§o Fojo
+PTM-00045
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00046
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00046
+: 
+ NEW address : Marina de Portimão Avenida do Arade
+ OLD address : Marina de PortimÃ£o Avenida do Arade
+PTM-00047
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00047
+: 
+ NEW address : Marina de Portimão Avenida do Arade
+ OLD address : Marina de PortimÃ£o Avenida do Arade
+PTM-00048
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00049
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00049
+: 
+ NEW address : Av. Tomás Cabreira 92
+ OLD address : Av. TomÃ¡s Cabreira 92
+PTM-00050
+: 
+ NEW address : Rua Zózimo de Alvor Urbanização S. Pedro
+ OLD address : Rua ZÃ³zimo de Alvor UrbanizaÃ§Ã£o S. Pedro
+PTM-00050
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00051
+: 
+ NEW address : Av. Dr. Francisco Sá Carneiro,
+ OLD address : Av. Dr. Francisco SÃ¡ Carneiro,
+PTM-00051
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00052
+: 
+ NEW address : Rua da Esperança Lugar Dos Craveiros
+ OLD address : Rua da EsperanÃ§a Lugar Dos Craveiros
+PTM-00052
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00053
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00054
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00055
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00056
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00056
+: 
+ NEW address : E.N. 124 - Poço Seco, Cardosas
+ OLD address : E.N. 124 - PoÃ§o Seco, Cardosas
+PTM-00057
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00061
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00061
+: 
+ NEW address : Av. Tomás Cabreira
+ OLD address : Av. TomÃ¡s Cabreira
+PTM-00062
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-00062
+: 
+ NEW address : Av. Tomás Cabreira
+ OLD address : Av. TomÃ¡s Cabreira
+PTM-90001
+: 
+ NEW address : Rua António Feu
+ OLD address : Rua AntÃ³nio Feu
+PTM-90001
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTM-90008
+: 
+ NEW city : Portimão
+ OLD city : PortimÃ£o
+PTS-00001
+: 
+ NEW address : Azinhaga do Poço Barral N 23
+ OLD address : Azinhaga do PoÃ§o Barral N 23
+PVC-00001
+: 
+ NEW city : Povoação
+ OLD city : PovoaÃ§Ã£o
+PVC-00003
+: 
+ NEW address : Praça do Município
+ OLD address : PraÃ§a do MunicÃ­pio
+PVC-00003
+: 
+ NEW city : Povoação
+ OLD city : PovoaÃ§Ã£o
+PVL-00003
+: 
+ NEW address : Rua da Misericórdia, 141
+ OLD address : Rua da MisericÃ³rdia, 141
+PVL-00003
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : PÃ³voa de Lanhoso
+PVL-00004
+: 
+ NEW address : Rua da Misericórdia, 141
+ OLD address : Rua da MisericÃ³rdia, 141
+PVL-00004
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : PÃ³voa de Lanhoso
+PVL-00005
+: 
+ NEW address : Rua da Misericórdia, 141
+ OLD address : Rua da MisericÃ³rdia, 141
+PVL-00005
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : PÃ³voa de Lanhoso
+PVL-00006
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : PÃ³voa de Lanhoso
+PVL-90001
+: 
+ NEW city : Póvoa de Lanhoso
+ OLD city : PÃ³voa de Lanhoso
+PVZ-00002
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00003
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : PraÃ§a LuÃ­s de CamÃµes
+PVZ-00003
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00004
+: 
+ NEW address : Praça Luís de Camões
+ OLD address : PraÃ§a LuÃ­s de CamÃµes
+PVZ-00004
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00005
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00006
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00011
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00012
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00013
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento PraÃ§a do Almada
+PVZ-00013
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00014
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento PraÃ§a do Almada
+PVZ-00014
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00015
+: 
+ NEW address : Estacionamento Praça do Almada
+ OLD address : Estacionamento PraÃ§a do Almada
+PVZ-00015
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00016
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00017
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00018
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00019
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00020
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00023
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00026
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00027
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00028
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00029
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00029
+: 
+ NEW address : Praça do Almada, 4490-438 Póvoa de Varzim
+ OLD address : PraÃ§a do Almada, 4490-438 PÃ³voa de Varzim
+PVZ-00030
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00031
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00032
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00032
+: 
+ NEW address : Largo Dr. João Amorim 125
+ OLD address : Largo Dr. JoÃ£o Amorim 125
+PVZ-00033
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00033
+: 
+ NEW address : Praça Marques do Pombal
+ OLD address : PraÃ§a Marques do Pombal
+PVZ-00034
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00034
+: 
+ NEW address : RUA DE SÃO FÉLIX Nº 1125
+ OLD address : RUA DE SÃO FÃLIX NÂº 1125
+PVZ-00037
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00037
+: 
+ NEW address : Rua do Bocal da Gândara
+ OLD address : Rua do Bocal da GÃ¢ndara
+PVZ-00038
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00039
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+PVZ-00040
+: 
+ NEW city : Póvoa de Varzim
+ OLD city : PÃ³voa de Varzim
+RAM-CML-00001
+: 
+ NEW city : Câmara de Lobos
+ OLD city : CÃ¢mara de Lobos
+RBR-00003
+: 
+ NEW address : Estrada Regional n.º 104 - Sítio da Murteira
+ OLD address : Estrada Regional n.Âº 104 - SÃ­tio da Murteira
+RGR-00004
+: 
+ NEW address : Rua da Praça
+ OLD address : Rua da PraÃ§a
+RGR-00005
+: 
+ NEW address : Rua Areal St B arbara (Praia Santa Bárbara)
+ OLD address : Rua Areal St B arbara (Praia Santa BÃ¡rbara)
+RGR-00006
+: 
+ NEW address : Trav. Aresta (Passeio Atlântico)
+ OLD address : Trav. Aresta (Passeio AtlÃ¢ntico)
+RMR-00003
+: 
+ NEW address : BURGUER KING Rio Maior - Avenida Dr. Mário So
+ OLD address : BURGUER KING Rio Maior - Avenida Dr. MÃ¡rio So
+RMR-00007
+: 
+ NEW address : Lugar do Espadanal, Av. Dr. Mário Soares
+ OLD address : Lugar do Espadanal, Av. Dr. MÃ¡rio Soares
+RMR-00008
+: 
+ NEW address : Avenida Doutor Mýrio Soares, Lugar do Gato
+ OLD address : Avenida Doutor MÃ½rio Soares, Lugar do Gato
+RMR-00010
+: 
+ NEW address : Avenida Doutor Mário Soares
+ OLD address : Avenida Doutor MÃ¡rio Soares
+RMR-00011
+: 
+ NEW address : Estrada nacional n°1, km 76,6m, 
+ OLD address : Estrada nacional nÂ°1, km 76,6m, 
+RMR-00012
+: 
+ NEW address : Estrada nacional n°1, km 76,6m
+ OLD address : Estrada nacional nÂ°1, km 76,6m
+SNT-00137
+: 
+ NEW address : Estrada de Mafra 
+ OLD address : Estrada de Mafra
+SNT-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+SNT-00137
+evses -> 0: 
+ NEW evse_id : PT*KLS*ESNT*00137*01
+ OLD evse_id : PT*KLS*E*SNT*00137*01
+SNT-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SNT-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 49000
+SNT-00137
+evses -> 1: 
+ NEW evse_id : PT*KLS*ESNT*00137*02
+ OLD evse_id : PT*KLS*E*SNT*00137*02
+SNT-00137
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+SNT-00137
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 49000
+SNT-00137
+evses -> 2: 
+ NEW evse_id : PT*KLS*ESNT*00137*03
+ OLD evse_id : PT*KLS*E*SNT*00137*03
+STB-00013
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+STB-00013
+evses -> 1 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STB-00062
+coordinates: 
+ NEW latitude : 38.525491
+ OLD latitude : 38.5254911
+STB-00062
+coordinates: 
+ NEW longitude : -8.880735
+ OLD longitude : -8.8807354
+STB-00062
+: 
+ NEW coordinates : {'latitude': '38.525491', 'longitude': '-8.880735'}
+ OLD coordinates : {'latitude': '38.5254911', 'longitude': '-8.8807354'}
+STB-00062
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESTB*00062*1
+ OLD evse_id : PT*ATL*E*STB*00062*01
+STB-00062
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+STB-00062
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESTB*00062*2
+ OLD evse_id : PT*ATL*E*STB*00062*02
+STB-00062
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+STB-00062
+evses -> 2: 
+ NEW evse_id : PT*ATL*ESTB*00062*3
+ OLD evse_id : PT*ATL*E*STB*00062*03
+STB-00062
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VCT-00046
+: 
+ NEW address : Rua Eça de Queirós, n. 111
+ OLD address : Rua Eýa de Queirýs, n. 111
+VFX-00038
+coordinates: 
+ NEW latitude : 38.909296
+ OLD latitude : 38.9092959
+VFX-00038
+coordinates: 
+ NEW longitude : -9.028216
+ OLD longitude : -9.0282158
+VFX-00038
+: 
+ NEW coordinates : {'latitude': '38.909296', 'longitude': '-9.028216'}
+ OLD coordinates : {'latitude': '38.9092959', 'longitude': '-9.0282158'}
+VFX-00038
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVFX*00038*1
+ OLD evse_id : PT*ATL*E*VFX*00038*01
+VFX-00038
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+VFX-00038
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVFX*00038*2
+ OLD evse_id : PT*ATL*E*VFX*00038*02
+VFX-00038
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+VFX-00038
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVFX*00038*3
+ OLD evse_id : PT*ATL*E*VFX*00038*03
+VFX-00038
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VFX-00047
+coordinates: 
+ NEW latitude : 38.856378
+ OLD latitude : 38.8563778
+VFX-00047
+coordinates: 
+ NEW longitude : -9.077778
+ OLD longitude : -9.0777783
+VFX-00047
+: 
+ NEW coordinates : {'latitude': '38.856378', 'longitude': '-9.077778'}
+ OLD coordinates : {'latitude': '38.8563778', 'longitude': '-9.0777783'}
+VFX-00047
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVFX*00047*1
+ OLD evse_id : PT*ATL*E*VFX*00047*01
+VFX-00047
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VFX-00047
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVFX*00047*2
+ OLD evse_id : PT*ATL*E*VFX*00047*02
+VFX-00047
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VFX-00047
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVFX*00047*3
+ OLD evse_id : PT*ATL*E*VFX*00047*03
+VFX-00047
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
