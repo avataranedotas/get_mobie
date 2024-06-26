@@ -15907,3 +15907,115 @@ VFX-00047
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-06-26 21:29:20
+Adicionados:['ABT-00034', 'BTL-00009', 'BTL-00010', 'LOU-00008', 'LSB-80047', 'VND-00014']
+
+ABT-00034 --> ATL 39.465920 -8.204170 Abrantes Rua Cidade de Parthenay 50
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-26T14:06:40.745Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-26T14:06:40.745Z'}]
+
+BTL-00009 --> IBD 39.663786 -8.824387 Batalha Rua D. Duarte I, nº 248
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-26T10:22:54.861Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-26T10:22:54.861Z'}]
+
+BTL-00010 --> IBD 39.663786 -8.824387 Batalha Rua D. Duarte I, nº 248
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-06-26T10:23:14.573Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-06-26T10:23:14.573Z'}]
+
+LOU-00008 --> EDP 41.2804779 -8.2781816 Lousada Hosp Lares - Avenida Major Arruchela Lobo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-26T10:50:56.557Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 220000, 'last_updated': '2024-06-26T10:50:56.557Z'}]
+
+LSB-80047 --> GLP 38.734772 -9.179733 Lisboa Caminho das Pedreiras 
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T21:53:57.393Z', 'max_amperage': 16, 'max_electric_power': 7400}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-03-13T21:53:57.394Z', 'max_amperage': 16, 'max_electric_power': 7400}]
+
+VND-00014 --> ATL 38.675080 -8.448520 Vendas Novas Rua São João de Deus LOTE 4
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-26T14:52:08.303Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-26T14:52:08.303Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-26T14:52:08.303Z'}]
+Removidos:['LSB-00794', 'VCD-00037', 'VCD-00038']
+ABT-00030
+: 
+ NEW address : Rua Cidade de Parthenay 50
+ OLD address : R. Cidade de Parthenay 50,
+ABT-00030
+coordinates: 
+ NEW latitude : 39.466350
+ OLD latitude : 39.4666163
+ABT-00030
+coordinates: 
+ NEW longitude : -8.205100
+ OLD longitude : -8.2069895
+ABT-00030
+: 
+ NEW coordinates : {'latitude': '39.466350', 'longitude': '-8.205100'}
+ OLD coordinates : {'latitude': '39.4666163', 'longitude': '-8.2069895'}
+ABT-00030
+evses -> 0: 
+ NEW evse_id : PT*ATL*EABT*00030*1
+ OLD evse_id : PT*ATL*E*ABT*00030*01
+ABT-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ABT-00030
+evses -> 1: 
+ NEW evse_id : PT*ATL*EABT*00030*2
+ OLD evse_id : PT*ATL*E*ABT*00030*02
+ABT-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ABT-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 160
+PVL-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+PVL-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+PVL-00005
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+PVL-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 3700
+ OLD max_electric_power : 11000
+TNV-00017
+coordinates: 
+ NEW longitude : -8.523660
+ OLD longitude : -8.52366
+TNV-00017
+: 
+ NEW coordinates : {'latitude': '39.465228', 'longitude': '-8.523660'}
+ OLD coordinates : {'latitude': '39.465228', 'longitude': '-8.52366'}
+TNV-00017
+evses -> 0: 
+ NEW evse_id : PT*ATL*ETNV*00017*1
+ OLD evse_id : PT*ATL*E*TNV*00017*01
+TNV-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TNV-00017
+evses -> 1: 
+ NEW evse_id : PT*ATL*ETNV*00017*2
+ OLD evse_id : PT*ATL*E*TNV*00017*02
+TNV-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TNV-00017
+evses -> 2: 
+ NEW evse_id : PT*ATL*ETNV*00017*3
+ OLD evse_id : PT*ATL*E*TNV*00017*03
+TNV-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
