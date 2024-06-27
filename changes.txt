@@ -16019,3 +16019,168 @@ TNV-00017
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-06-27 19:18:21
+Adicionados:['GDL-00023', 'GDL-00024', 'GDL-00025', 'GDL-00026', 'ODV-00036', 'PVZ-00042', 'STR-00047', 'STR-00048', 'STR-00049', 'STR-00050', 'STR-00051', 'VCD-00034', 'VFX-00058', 'VFX-00069', 'VNG-00169']
+
+GDL-00023 --> GLP 38.2932690 -8.7758467 Grândola Alameda da Praia do Pego
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-06-27T14:55:52.778Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-06-27T14:55:52.778Z'}]
+
+GDL-00024 --> GLP 38.2932690 -8.7758467 Grândola Alameda da Praia do Pego
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-27T15:00:57.933Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-27T15:00:57.933Z'}]
+
+GDL-00025 --> GLP 38.2932690 -8.7758467 Grândola Alameda da Praia do Pego
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T15:04:39.050Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T15:04:39.050Z'}]
+
+GDL-00026 --> GLP 38.2932690 -8.7758467 Grândola Alameda da Praia do Pego
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T15:06:47.159Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T15:06:47.159Z'}]
+
+ODV-00036 --> CPS 38.805703 -9.197556 Odivelas R. Alm. Gago Coutinho 54, 2620 Ramada,
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 750, 'max_electric_power': 300000, 'last_updated': '2024-06-27T07:14:34.000Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 750, 'max_electric_power': 300000, 'last_updated': '2024-06-27T10:14:48.651Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 750, 'max_electric_power': 300000, 'last_updated': '2024-06-27T07:14:34.000Z'}]
+
+PVZ-00042 --> ATL 41.378010 -8.738790 Póvoa de Varzim Lugar da Gandra-Argivai
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-27T11:08:02.176Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-27T11:08:02.176Z'}]
+
+STR-00047 --> IBD 39.1972779 -8.7503205 Santarém Rua dos Marecos, 15
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T14:19:01.327Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T14:19:01.327Z'}]
+
+STR-00048 --> IBD 39.257892 -8.682028 Santarém Rua Sociedade Jardim de Cima
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T13:15:06.394Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T13:15:06.394Z'}]
+
+STR-00049 --> IBD 39.261829 -8.695441 Santarém Estrada Nacional 3, nº 28
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T12:29:39.666Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T12:29:39.666Z'}]
+
+STR-00050 --> IBD 39.261829 -8.695441 Santarém Estrada Nacional 3, nº 28
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T12:30:29.680Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-06-27T12:30:29.680Z'}]
+
+STR-00051 --> EDP 39.3925096 -8.63892 Santarém A1, km 84.3, sentido Porto-Lisboa
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-06-27T09:48:51.686Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-06-27T09:48:51.686Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-06-27T09:48:51.686Z'}]
+
+VCD-00034 --> EDP 41.358962 -8.739169 Vila do Conde AVENIDA DA LIBERDADE, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T09:30:30.780Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-27T09:30:30.780Z'}]
+
+VFX-00058 --> GLP 38.928799 -9.005751 Vila Franca de Xira Rua Miguel Bombarda 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-27T09:44:20.080Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-06-27T09:44:20.080Z'}]
+
+VFX-00069 --> GLP 38.962901 -8.988294 Vila Franca de Xira Rua António Sérgio
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 94, 'max_electric_power': 90000, 'last_updated': '2024-06-27T10:50:55.102Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 94, 'max_electric_power': 90000, 'last_updated': '2024-06-27T10:50:55.102Z'}]
+
+VNG-00169 --> ATL 41.116220 -8.647880 Vila Nova de Gaia Avenida Poeta Eugénio de Andrade
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-27T08:34:10.958Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-27T08:34:10.958Z'}]
+Removidos:[]
+CSC-00170
+coordinates: 
+ NEW latitude : 38.715198
+ OLD latitude : 38.7151975
+CSC-00170
+coordinates: 
+ NEW longitude : -9.424255
+ OLD longitude : -9.4242548
+CSC-00170
+: 
+ NEW coordinates : {'latitude': '38.715198', 'longitude': '-9.424255'}
+ OLD coordinates : {'latitude': '38.7151975', 'longitude': '-9.4242548'}
+CSC-00170
+evses -> 0: 
+ NEW evse_id : PT*ATL*ECSC*00170*1
+ OLD evse_id : PT*ATL*E*CSC*00170*01
+CSC-00170
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+CSC-00170
+evses -> 1: 
+ NEW evse_id : PT*ATL*ECSC*00170*2
+ OLD evse_id : PT*ATL*E*CSC*00170*02
+CSC-00170
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+CSC-00170
+evses -> 2: 
+ NEW evse_id : PT*ATL*ECSC*00170*3
+ OLD evse_id : PT*ATL*E*CSC*00170*03
+CSC-00170
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+OER-00223
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 12000
+ORM-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 74000
+PTM-00048
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 74000
+PVZ-00037
+coordinates: 
+ NEW latitude : 41.378150
+ OLD latitude : 41.379412
+PVZ-00037
+coordinates: 
+ NEW longitude : -8.739080
+ OLD longitude : -8.739001
+PVZ-00037
+: 
+ NEW coordinates : {'latitude': '41.378150', 'longitude': '-8.739080'}
+ OLD coordinates : {'latitude': '41.379412', 'longitude': '-8.739001'}
+PVZ-00037
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPVZ*00037*1
+ OLD evse_id : PT*ATL*E*PVZ*00037*01
+PVZ-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PVZ-00037
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPVZ*00037*2
+ OLD evse_id : PT*ATL*E*PVZ*00037*02
+PVZ-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PVZ-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+PVZ-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+PVZ-00037
+evses -> 2: 
+ NEW evse_id : PT*ATL*EPVZ*00037*3
+ OLD evse_id : PT*ATL*E*PVZ*00037*03
+PVZ-00037
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PVZ-00037
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+PVZ-00037
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
