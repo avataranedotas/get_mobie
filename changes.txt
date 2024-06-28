@@ -16184,3 +16184,73 @@ PVZ-00037
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 43000
+
+2024-06-28 20:07:23
+Adicionados:['LNH-00013', 'ODV-00029', 'PNF-00042', 'SNT-00154', 'SSL-00002', 'TVD-00044', 'VRL-00025']
+
+LNH-00013 --> ATL 39.244000 -9.308750 Lourinhã Rua da Cegonha 2
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-28T13:15:56.145Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-28T13:15:56.145Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T13:15:56.145Z'}]
+
+ODV-00029 --> CPS 38.806574 -9.2003474 Odivelas EST. NAC. 250/2  KM 0,600
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-06-28T15:36:45.527Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-06-28T15:36:45.527Z'}]
+
+PNF-00042 --> ATL 41.194740 -8.306640 Penafiel Quinta da Lagarteira
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-28T09:34:03.116Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-28T09:34:03.116Z'}]
+
+SNT-00154 --> EVI 38.801445 -9.33613 Sintra Avenida Capitães de Abril, Lote 103
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 60, 'max_electric_power': 30, 'last_updated': '2024-06-28T09:51:00.164Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 60, 'max_electric_power': 30, 'last_updated': '2024-06-28T09:51:00.164Z'}]
+
+SSL-00002 --> TRK 38.9530650 -7.6743796 Sousel Rua de São Sebastião, 10
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T15:36:16.219Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T15:36:16.219Z'}]
+
+TVD-00044 --> ATL 39.108300 -9.366680 Torres Vedras Rua Moinho do Espanhol
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-06-28T15:34:51.276Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-06-28T15:34:51.276Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T15:34:51.276Z'}]
+
+VRL-00025 --> EDP 41.256153 -7.651992 Vila Real Quinta do Barroco, S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T09:11:29.481Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-28T09:11:29.481Z'}]
+Removidos:[]
+LSB-00708
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
+LSB-00708
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 22000
+PNF-00022
+coordinates: 
+ NEW latitude : 41.194740
+ OLD latitude : 41.193192
+PNF-00022
+coordinates: 
+ NEW longitude : -8.306610
+ OLD longitude : -8.306424
+PNF-00022
+: 
+ NEW coordinates : {'latitude': '41.194740', 'longitude': '-8.306610'}
+ OLD coordinates : {'latitude': '41.193192', 'longitude': '-8.306424'}
+PNF-00022
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPNF*00022*1
+ OLD evse_id : PT*ATL*E*PNF*00022*01
+PNF-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PNF-00022
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPNF*00022*2
+ OLD evse_id : PT*ATL*E*PNF*00022*02
+PNF-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
