@@ -18054,3 +18054,179 @@ TRF-00015
 evses -> 2 -> connectors -> 0: 
  NEW format : SOCKET
  OLD format : CABLE
+
+2024-07-03 18:14:14
+Adicionados:['PRT-00246']
+
+PRT-00246 --> HLX 41.159838 -8.609555 Porto Rua Camões, nº 850
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-06-26T15:57:07.159Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-06-26T15:57:07.159Z'}]
+Removidos:[]
+LLE-00173
+coordinates: 
+ NEW latitude : 37.079122
+ OLD latitude : 37.0791223
+LLE-00173
+coordinates: 
+ NEW longitude : -8.122699
+ OLD longitude : -8.1226992
+LLE-00173
+: 
+ NEW coordinates : {'latitude': '37.079122', 'longitude': '-8.122699'}
+ OLD coordinates : {'latitude': '37.0791223', 'longitude': '-8.1226992'}
+LLE-00173
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00173*1
+ OLD evse_id : PT*ATL*E*LLE*00173*01
+LLE-00173
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00173*2
+ OLD evse_id : PT*ATL*E*LLE*00173*02
+LLE-00178
+coordinates: 
+ NEW latitude : 37.092420
+ OLD latitude : 37.0924202
+LLE-00178
+coordinates: 
+ NEW longitude : -8.093529
+ OLD longitude : -8.0935292
+LLE-00178
+: 
+ NEW coordinates : {'latitude': '37.092420', 'longitude': '-8.093529'}
+ OLD coordinates : {'latitude': '37.0924202', 'longitude': '-8.0935292'}
+LLE-00178
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00178*1
+ OLD evse_id : PT*ATL*E*LLE*00178*01
+LLE-00178
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 1000
+LLE-00178
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 250
+LLE-00178
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00178*2
+ OLD evse_id : PT*ATL*E*LLE*00178*02
+LLE-00178
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 1000
+LLE-00178
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 350
+ OLD max_amperage : 125
+ODV-00021
+coordinates: 
+ NEW longitude : -9.188558
+ OLD longitude : -9.1885584
+ODV-00021
+: 
+ NEW coordinates : {'latitude': '38.813959', 'longitude': '-9.188558'}
+ OLD coordinates : {'latitude': '38.813959', 'longitude': '-9.1885584'}
+ODV-00021
+evses -> 0: 
+ NEW evse_id : PT*ATL*EODV*00021*1
+ OLD evse_id : PT*ATL*E*ODV*00021*01
+ODV-00021
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ODV-00021
+evses -> 1: 
+ NEW evse_id : PT*ATL*EODV*00021*2
+ OLD evse_id : PT*ATL*E*ODV*00021*02
+ODV-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ODV-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+ODV-00021
+evses -> 2: 
+ NEW evse_id : PT*ATL*EODV*00021*3
+ OLD evse_id : PT*ATL*E*ODV*00021*03
+ODV-00021
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+ODV-00021
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 22000
+VLG-00034
+coordinates: 
+ NEW longitude : -8.506620
+ OLD longitude : -8.50662
+VLG-00034
+: 
+ NEW coordinates : {'latitude': '41.201904', 'longitude': '-8.506620'}
+ OLD coordinates : {'latitude': '41.201904', 'longitude': '-8.50662'}
+VLG-00034
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVLG*00034*1
+ OLD evse_id : PT*ATL*E*VLG*00034*01
+VLG-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VLG-00034
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVLG*00034*2
+ OLD evse_id : PT*ATL*E*VLG*00034*02
+VLG-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VLG-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+VLG-00034
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVLG*00034*3
+ OLD evse_id : PT*ATL*E*VLG*00034*03
+VLG-00034
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+VLG-00034
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 22000
+VNG-00137
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVNG*00137*1
+ OLD evse_id : PT*ATL*E*VNG*00137*01
+VNG-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VNG-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+VNG-00137
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVNG*00137*2
+ OLD evse_id : PT*ATL*E*VNG*00137*02
+VNG-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VNG-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 43000
+VNG-00137
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVNG*00137*3
+ OLD evse_id : PT*ATL*E*VNG*00137*03
+VNG-00137
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
