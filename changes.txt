@@ -18230,3 +18230,163 @@ VNG-00137
 evses -> 2 -> connectors -> 0: 
  NEW format : SOCKET
  OLD format : CABLE
+
+2024-07-04 18:09:29
+Adicionados:['BRR-00144', 'EVR-00037', 'EVR-00048', 'LLE-00217', 'LLE-00218', 'LLE-00219', 'MCQ-00003', 'PTM-00064', 'PTM-00065', 'SRN-00003', 'STB-00090', 'VFR-00088']
+
+BRR-00144 --> PAC 38.589203 -9.0380107 Barreiro Parque Proclama, Quinta da Areia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 220, 'max_amperage': 30, 'max_electric_power': 7400, 'last_updated': '2024-07-04T13:11:33.389Z'}]
+
+EVR-00037 --> ATL 38.566380 -7.942570 Évora N114-4
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-04T16:30:44.445Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-07-04T16:30:44.445Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T16:30:44.445Z'}]
+
+EVR-00048 --> ATL 38.566380 -7.942570 Évora N114-4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-07-04T16:51:11.039Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-07-04T16:51:11.039Z'}]
+
+LLE-00217 --> MOT 37.091872 -8.073870 Loulé Volta do Parque, n.º 2 Aquashow Park
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-07-04T09:31:11.246Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-07-04T09:39:47.718Z'}]
+
+LLE-00218 --> MOT 37.091872 -8.073870 Loulé Volta do Parque, n.º 2 Aquashow Park
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-07-04T09:44:56.853Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-07-04T09:45:39.615Z'}]
+
+LLE-00219 --> MOT 37.091872 -8.073870 Loulé Volta do Parque, n.º 2 Aquashow Park
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T09:35:26.962Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T09:35:26.962Z'}]
+
+MCQ-00003 --> EDP 37.3122576 -8.5564939 Monchique LARGO DO PÉ DA CRUZ - CEICEIRA, Pé Da Cruz
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T09:13:28.319Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T09:13:28.319Z'}]
+
+PTM-00064 --> LUZ 37.13104 -8.58176 Portimão SITIO CRUZ BOTA LT 27
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-07-04T15:32:43.611Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-07-04T15:32:43.611Z'}]
+
+PTM-00065 --> LUZ 37.13109 -8.58443 Portimão SITIO CRUZ BOTA MT 28
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-07-04T15:54:13.740Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-07-04T15:54:13.740Z'}]
+
+SRN-00003 --> TRK 40.896411 -7.494398 Sernancelhe Rua do colegio - Bairro da lage nova S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 288, 'max_electric_power': 150000, 'last_updated': '2024-07-04T14:17:41.754Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 288, 'max_electric_power': 150000, 'last_updated': '2024-07-04T14:17:41.754Z'}]
+
+STB-00090 --> EDP 38.5387353 -8.8661440 Setúbal Estr. de Algeruz
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-07-04T09:06:09.835Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-07-04T09:06:09.835Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-04T09:06:09.835Z'}]
+
+VFR-00088 --> EDP 40.916314 -8.569409 Santa Maria da Feira Volvo Feirauto,R. Zona Industrial, S. M. da F
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 80, 'max_electric_power': 30000, 'last_updated': '2024-07-04T13:37:02.855Z'}]
+Removidos:[]
+ACB-00019
+evses -> 0: 
+ NEW evse_id : PT*ATL*EACB*00019*1
+ OLD evse_id : PT*ATL*E*ACB*00019*01
+ACB-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+ACB-00019
+evses -> 1: 
+ NEW evse_id : PT*ATL*EACB*00019*2
+ OLD evse_id : PT*ATL*E*ACB*00019*02
+ACB-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+EVR-00038
+coordinates: 
+ NEW latitude : 38.574202
+ OLD latitude : 38.5742016
+EVR-00038
+coordinates: 
+ NEW longitude : -7.899712
+ OLD longitude : -7.8997122
+EVR-00038
+: 
+ NEW coordinates : {'latitude': '38.574202', 'longitude': '-7.899712'}
+ OLD coordinates : {'latitude': '38.5742016', 'longitude': '-7.8997122'}
+EVR-00038
+evses -> 0: 
+ NEW evse_id : PT*ATL*EEVR*00038*1
+ OLD evse_id : PT*ATL*E*EVR*00038*01
+EVR-00038
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+EVR-00038
+evses -> 1: 
+ NEW evse_id : PT*ATL*EEVR*00038*2
+ OLD evse_id : PT*ATL*E*EVR*00038*02
+EVR-00038
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+EVR-00038
+evses -> 2: 
+ NEW evse_id : PT*ATL*EEVR*00038*3
+ OLD evse_id : PT*ATL*E*EVR*00038*03
+EVR-00038
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+LLE-00179
+coordinates: 
+ NEW latitude : 37.106375
+ OLD latitude : 37.1063746
+LLE-00179
+coordinates: 
+ NEW longitude : -8.141552
+ OLD longitude : -8.1415516
+LLE-00179
+: 
+ NEW coordinates : {'latitude': '37.106375', 'longitude': '-8.141552'}
+ OLD coordinates : {'latitude': '37.1063746', 'longitude': '-8.1415516'}
+LLE-00179
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00179*1
+ OLD evse_id : PT*ATL*E*LLE*00179*01
+LLE-00179
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+LLE-00179
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 1000
+LLE-00179
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00179*2
+ OLD evse_id : PT*ATL*E*LLE*00179*02
+LLE-00179
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 1000
+MMN-00012
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMMN*00012*1
+ OLD evse_id : PT*ATL*E*MMN*00012*01
+MMN-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+MMN-00012
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMMN*00012*2
+ OLD evse_id : PT*ATL*E*MMN*00012*02
+MMN-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MMN-00012
+evses -> 2: 
+ NEW evse_id : PT*ATL*EMMN*00012*3
+ OLD evse_id : PT*ATL*E*MMN*00012*03
+MMN-00012
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
