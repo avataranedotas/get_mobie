@@ -18446,3 +18446,11 @@ CSC-00185
 : 
  NEW coordinates : {'latitude': '38.7283384', 'longitude': '-9.3285458'}
  OLD coordinates : {'latitude': '38.7283357', 'longitude': '-9.3285287'}
+
+2024-07-05 19:03:58
+Adicionados:['ACB-00020']
+
+ACB-00020 --> EDP 39.545744 -8.970067 Alcobaça Av. Associação Alcobacense de Farmingville
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-07-05T12:44:30.971Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-07-05T12:44:30.971Z'}]
+Removidos:[]
