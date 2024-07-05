@@ -18390,3 +18390,59 @@ MMN-00012
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-07-05 11:48:05
+Adicionados:['SLV-00020', 'SLV-00027', 'SLV-00029']
+
+SLV-00020 --> GLP 37.254888 -8.285605 Silves Rua Primeiro de Maio - S-B Messines
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:06:04.657Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:06:04.657Z'}]
+
+SLV-00027 --> GLP 37.256421 -8.288932 Silves Rua Tenente Coronel Jorge Vargas Mogo - S.B.
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:07:07.295Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:07:07.295Z'}]
+
+SLV-00029 --> GLP 37.164985 -8.256978 Silves Largo 1º de Dezembro - Tunes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:06:43.634Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-05T09:06:43.634Z'}]
+Removidos:[]
+ACB-00015
+evses -> 0: 
+ NEW evse_id : PT*ATL*EACB*00015*1
+ OLD evse_id : PT*ATL*E*ACB*00015*01
+ACB-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ACB-00015
+evses -> 1: 
+ NEW evse_id : PT*ATL*EACB*00015*2
+ OLD evse_id : PT*ATL*E*ACB*00015*02
+ACB-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+CSC-00184
+coordinates: 
+ NEW latitude : 38.7283357
+ OLD latitude : 38.7283384
+CSC-00184
+coordinates: 
+ NEW longitude : -9.3285287
+ OLD longitude : -9.3285458
+CSC-00184
+: 
+ NEW coordinates : {'latitude': '38.7283357', 'longitude': '-9.3285287'}
+ OLD coordinates : {'latitude': '38.7283384', 'longitude': '-9.3285458'}
+CSC-00185
+coordinates: 
+ NEW latitude : 38.7283384
+ OLD latitude : 38.7283357
+CSC-00185
+coordinates: 
+ NEW longitude : -9.3285458
+ OLD longitude : -9.3285287
+CSC-00185
+: 
+ NEW coordinates : {'latitude': '38.7283384', 'longitude': '-9.3285458'}
+ OLD coordinates : {'latitude': '38.7283357', 'longitude': '-9.3285287'}
