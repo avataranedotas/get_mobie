@@ -18454,3 +18454,90 @@ ACB-00020 --> EDP 39.545744 -8.970067 Alcobaça Av. Associação Alcobacense de 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-07-05T12:44:30.971Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-07-05T12:44:30.971Z'}]
 Removidos:[]
+
+2024-07-08 18:02:56
+Adicionados:['PNF-00041']
+
+PNF-00041 --> MOT 41.2050574 -8.2751354 Penafiel Rua província de Pontevedra , s/n
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22, 'last_updated': '2024-07-08T09:44:56.086Z'}]
+Removidos:[]
+LLE-00172
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00172*1
+ OLD evse_id : PT*ATL*E*LLE*00172*01
+LLE-00172
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LLE-00172
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00172*2
+ OLD evse_id : PT*ATL*E*LLE*00172*02
+LLE-00172
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00092
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVIS*00092*1
+ OLD evse_id : PT*ATL*E*VIS*00092*01
+VIS-00092
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00092
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVIS*00092*2
+ OLD evse_id : PT*ATL*E*VIS*00092*02
+VIS-00092
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00093
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVIS*00093*1
+ OLD evse_id : PT*ATL*E*VIS*00093*01
+VIS-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00093
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVIS*00093*2
+ OLD evse_id : PT*ATL*E*VIS*00093*02
+VIS-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00094
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVIS*00094*1
+ OLD evse_id : PT*ATL*E*VIS*00094*01
+VIS-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00094
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVIS*00094*2
+ OLD evse_id : PT*ATL*E*VIS*00094*02
+VIS-00094
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00096
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVIS*00096*1
+ OLD evse_id : PT*ATL*E*VIS*00096*01
+VIS-00096
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VIS-00096
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVIS*00096*2
+ OLD evse_id : PT*ATL*E*VIS*00096*02
+VIS-00096
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
