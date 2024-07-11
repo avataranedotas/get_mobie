@@ -19043,3 +19043,123 @@ VIS-00091
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 125
  OLD max_amperage : 150
+
+2024-07-11 23:08:59
+Adicionados:['CBR-00110', 'CBR-00111', 'FAR-00049', 'OHP-00018']
+
+CBR-00110 --> HLX 40.197694 -8.433083 Coimbra Rua António Augusto Gonçalves
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-11T15:43:55.454Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-11T15:43:55.454Z'}]
+
+CBR-00111 --> HLX 40.197694 -8.433083 Coimbra Rua António Augusto Gonçalves
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T15:37:30.046Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T15:37:30.046Z'}]
+
+FAR-00049 --> HRZ 37.0142604 -7.9276555 Faro Praceta José Júlio Rodrigues 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T10:32:25.039Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T10:32:25.039Z'}]
+
+OHP-00018 --> HLX 40.326278 -7.842056 Oliveira do Hospital Rua Principal 1, Penalva do alva
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T10:39:37.714Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-11T10:39:37.714Z'}]
+Removidos:['AMT-00009', 'AMT-00010']
+CHM-00005
+coordinates: 
+ NEW latitude : 39.368518
+ OLD latitude : 39.3685184
+CHM-00005
+coordinates: 
+ NEW longitude : -8.471198
+ OLD longitude : -8.4711982
+CHM-00005
+: 
+ NEW coordinates : {'latitude': '39.368518', 'longitude': '-8.471198'}
+ OLD coordinates : {'latitude': '39.3685184', 'longitude': '-8.4711982'}
+CHM-00005
+evses -> 0: 
+ NEW evse_id : PT*ATL*ECHM*00005*1
+ OLD evse_id : PT*ATL*E*CHM*00005*01
+CHM-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+CHM-00005
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+CHM-00005
+evses -> 1: 
+ NEW evse_id : PT*ATL*ECHM*00005*2
+ OLD evse_id : PT*ATL*E*CHM*00005*02
+CHM-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+CHM-00005
+evses -> 2: 
+ NEW evse_id : PT*ATL*ECHM*00005*3
+ OLD evse_id : PT*ATL*E*CHM*00005*03
+CHM-00005
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+GMR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GMR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+GMR-00078
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+GMR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GMR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+GMR-00078
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+PNF-00036
+coordinates: 
+ NEW latitude : 41.194966
+ OLD latitude : 41.1949662
+PNF-00036
+coordinates: 
+ NEW longitude : -8.305678
+ OLD longitude : -8.3056781
+PNF-00036
+: 
+ NEW coordinates : {'latitude': '41.194966', 'longitude': '-8.305678'}
+ OLD coordinates : {'latitude': '41.1949662', 'longitude': '-8.3056781'}
+PNF-00036
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPNF*00036*1
+ OLD evse_id : PT*ATL*E*PNF*00036*01
+PNF-00036
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PNF-00036
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 75
+PNF-00036
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPNF*00036*2
+ OLD evse_id : PT*ATL*E*PNF*00036*02
+PNF-00036
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PNF-00036
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 75
