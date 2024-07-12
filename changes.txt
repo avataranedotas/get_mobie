@@ -19163,3 +19163,56 @@ PNF-00036
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 125
  OLD max_amperage : 75
+
+2024-07-12 19:36:24
+Adicionados:['BRR-00132']
+
+BRR-00132 --> ATL 38.654526 -9.078367 Barreiro Terminal Rodo Ferro Fluvial 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-07-12T14:54:58.555Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-12T14:54:58.555Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-12T14:54:58.555Z'}]
+Removidos:[]
+BBR-00002
+coordinates: 
+ NEW latitude : 39.264524
+ OLD latitude : 39.2645237
+BBR-00002
+coordinates: 
+ NEW longitude : -9.162899
+ OLD longitude : -9.1628990
+BBR-00002
+: 
+ NEW coordinates : {'latitude': '39.264524', 'longitude': '-9.162899'}
+ OLD coordinates : {'latitude': '39.2645237', 'longitude': '-9.1628990'}
+BBR-00002
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBBR*00002*1
+ OLD evse_id : PT*ATL*E*BBR*00002*01
+BBR-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+BBR-00002
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBBR*00002*2
+ OLD evse_id : PT*ATL*E*BBR*00002*02
+BBR-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+MTS-00146
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMTS*00146*1
+ OLD evse_id : PT*ATL*E*MTS*00146*01
+MTS-00146
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+MTS-00146
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMTS*00146*2
+ OLD evse_id : PT*ATL*E*MTS*00146*02
+MTS-00146
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
