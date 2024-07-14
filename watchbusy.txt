@@ -1,5 +1,4 @@
 ********Construcao******
-BBR-00008
 BRR-00132
 FAR-00049
 VCT-00054
@@ -52,7 +51,6 @@ LRS-00117
 **Constricao-offline**
 MTS-00120
 MTS-00121
-BRG-00102
 AVR-00048
 RDD-00002
 PTS-00001
@@ -303,8 +301,6 @@ SNT-00098
 CSC-00120
 FIG-00009
 *******Privados_por_confirmar******
-CBR-00110
-CBR-00111
 VFR-00088
 PTM-00064
 PTM-00065
