@@ -1,6 +1,5 @@
 ********Construcao******
 BRR-00132
-FAR-00049
 VCT-00054
 SLV-00021
 PTM-00059
