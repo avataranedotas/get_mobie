@@ -19216,3 +19216,103 @@ MTS-00146
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-07-15 18:02:13
+Adicionados:['BMT-00003', 'MCH-00013']
+
+BMT-00003 --> EDP 40.3567789 -7.3533716 Belmonte Largo de São Sebastião
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-15T15:38:14.868Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-15T15:38:14.868Z'}]
+
+MCH-00013 --> FAC 32.724363 -16.816902 Machico Estrada Fonte de Santo António nº 67
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-26T15:22:37.086Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-26T15:22:37.086Z'}]
+Removidos:[]
+BNV-00008
+coordinates: 
+ NEW latitude : 38.978839
+ OLD latitude : 38.9788385
+BNV-00008
+coordinates: 
+ NEW longitude : -8.809480
+ OLD longitude : -8.8094802
+BNV-00008
+: 
+ NEW coordinates : {'latitude': '38.978839', 'longitude': '-8.809480'}
+ OLD coordinates : {'latitude': '38.9788385', 'longitude': '-8.8094802'}
+BNV-00008
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBNV*00008*1
+ OLD evse_id : PT*ATL*E*BNV*00008*01
+BNV-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+BNV-00008
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBNV*00008*2
+ OLD evse_id : PT*ATL*E*BNV*00008*02
+BNV-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+BNV-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+BNV-00008
+evses -> 2: 
+ NEW evse_id : PT*ATL*EBNV*00008*3
+ OLD evse_id : PT*ATL*E*BNV*00008*03
+BNV-00008
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+BNV-00008
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+CTX-00004
+coordinates: 
+ NEW latitude : 39.169030
+ OLD latitude : 39.1690301
+CTX-00004
+coordinates: 
+ NEW longitude : -8.777079
+ OLD longitude : -8.7770785
+CTX-00004
+: 
+ NEW coordinates : {'latitude': '39.169030', 'longitude': '-8.777079'}
+ OLD coordinates : {'latitude': '39.1690301', 'longitude': '-8.7770785'}
+CTX-00004
+evses -> 0: 
+ NEW evse_id : PT*ATL*ECTX*00004*1
+ OLD evse_id : PT*ATL*E*CTX*00004*01
+CTX-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+CTX-00004
+evses -> 1: 
+ NEW evse_id : PT*ATL*ECTX*00004*2
+ OLD evse_id : PT*ATL*E*CTX*00004*02
+CTX-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+CTX-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 150
+CTX-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+CTX-00004
+evses -> 2: 
+ NEW evse_id : PT*ATL*ECTX*00004*3
+ OLD evse_id : PT*ATL*E*CTX*00004*03
+CTX-00004
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
