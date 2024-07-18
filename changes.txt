@@ -20344,3 +20344,295 @@ VNG-00138
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 30000
+
+2024-07-18 20:14:04
+Adicionados:['ALT-00006', 'AZB-00013', 'AZB-00014', 'BRG-00126', 'MOBI-AVR-00011', 'MTS-00131', 'OHP-00017', 'PTL-00017', 'SNT-00150', 'TMR-00042', 'VNG-00165']
+
+ALT-00006 --> EDP 39.1968721 -7.6666652 Alter do Chão Rua de Corredoura, 2 - Alter Do Chão
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-07-18T11:27:44.284Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-07-18T11:27:44.284Z'}]
+
+AZB-00013 --> GLP 39.122353 -8.907745 Azambuja (A1) KM 44 (SENTIDO SUL/NORTE)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 200000, 'last_updated': '2024-07-18T10:12:10.953Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 200000, 'last_updated': '2024-07-18T10:12:10.953Z'}]
+
+AZB-00014 --> GLP 39.123986 -8.907095 Azambuja (A1) KM 44 (SENTIDO NORTE/SUL)
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 200000, 'last_updated': '2024-07-18T10:06:49.633Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 200000, 'last_updated': '2024-07-18T10:06:49.633Z'}]
+
+BRG-00126 --> GLP 41.564721 -8.420062 Braga Rua Lugar de Cabanas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-18T08:58:59.720Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-18T08:58:59.720Z'}]
+
+MOBI-AVR-00011 --> HRZ 40.6385087 -8.6450232 Aveiro Cais da Fonte Nova 5
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-18T12:10:16.632Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2023-09-18T12:10:16.632Z'}]
+
+MTS-00131 --> EDP 41.180923 -8.681610 Matosinhos Burger King Amadeus Matosinhos
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-07-18T14:40:58.151Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-07-18T14:40:58.151Z'}]
+
+OHP-00017 --> HLX 40.326278 -7.842056 Oliveira do Hospital Rua Principal 1, Penalva do alva
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-18T10:11:35.654Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-18T10:11:35.654Z'}]
+
+PTL-00017 --> KLS 41.761358 -8.588931 Ponte de Lima Rua Agostinho José Taveira 661 
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-18T10:34:01.073Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-18T10:34:01.073Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-18T10:34:01.073Z'}]
+
+SNT-00150 --> KLS 38.780000 -9.348889 Sintra Estrada de Mem Martins
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-18T15:07:08.953Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-18T15:07:08.953Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-18T15:07:08.953Z'}]
+
+TMR-00042 --> KLS 39.609617 -8.397525 Tomar Avenida Maria de Lourdes de Mello e Castro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-18T13:27:02.149Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-18T13:27:02.149Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-18T13:27:02.149Z'}]
+
+VNG-00165 --> PRI 41.108737 -8.573904 Vila Nova de Gaia  Avenida Vasco da Gama
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-07-18T08:32:42.290Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-07-18T08:32:42.290Z'}]
+Removidos:[]
+ETR-00009
+: 
+ NEW address : Área de Serviço - Antuã, A1 - NS,  km 254,9
+ OLD address : Área de Serviço - Antuã, A1,  km 254,9
+EVR-00011
+: 
+ NEW city : Évora
+ OLD city : vora
+EVR-00012
+: 
+ NEW address : Hotel Pestana Pousada Convento Évora
+ OLD address : Hotel Pestana Pousada Convento Ãvora
+EVR-00012
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00013
+: 
+ NEW address : Hotel Pestana Pousada Convento Évora
+ OLD address : Hotel Pestana Pousada Convento Ãvora
+EVR-00013
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00014
+: 
+ NEW address : Hotel Vila Galé Evora
+ OLD address : Hotel Vila GalÃ© Evora
+EVR-00014
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00015
+: 
+ NEW address : Hotel Vila Galé Evora
+ OLD address : Hotel Vila GalÃ© Evora
+EVR-00015
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00016
+: 
+ NEW address : Ecorkhotel Évora
+ OLD address : Ecorkhotel Ãvora
+EVR-00016
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00018
+: 
+ NEW address : Avenida Túlio Espanca
+ OLD address : Avenida TÃºlio Espanca
+EVR-00018
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00019
+: 
+ NEW address : Rua Dionísio de Aires Moleiro
+ OLD address : Rua DionÃ­sio de Aires Moleiro
+EVR-00019
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00021
+: 
+ NEW address : R. da Quinta da Alcântara
+ OLD address : R. da Quinta da AlcÃ¢ntara
+EVR-00021
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00022
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00023
+: 
+ NEW address : Évora Hotel - Av. Túlio Espanca
+ OLD address : Ãvora Hotel - Av. TÃºlio Espanca
+EVR-00023
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00024
+: 
+ NEW address : Everybody Fitness - Rua Luís Adelino Fonseca
+ OLD address : Everybody Fitness - Rua LuÃ­s Adelino Fonseca
+EVR-00024
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00026
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00027
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00031
+: 
+ NEW address : R114-4 Praça Porta Da Lagoa
+ OLD address : R114-4 PraÃ§a Porta Da Lagoa
+EVR-00031
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00032
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00032
+: 
+ NEW address : Avenida Túlio Espanca
+ OLD address : Avenida TÃºlio Espanca
+EVR-00033
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00034
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00035
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00036
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00037
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00038
+: 
+ NEW address : R. Bento de Jesus Caraça 1
+ OLD address : R. Bento de Jesus CaraÃ§a 1
+EVR-00038
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00039
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00040
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00042
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00042
+: 
+ NEW address : R. Cândido dos Reis 72
+ OLD address : R. CÃ¢ndido dos Reis 72
+EVR-00043
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00045
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00046
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00046
+: 
+ NEW address : Lote, R. Luís Adelino Fonseca 3
+ OLD address : Lote, R. LuÃ­s Adelino Fonseca 3
+EVR-00047
+: 
+ NEW city : Évora
+ OLD city : Ãvora
+EVR-00047
+: 
+ NEW address : Lote, R. Luís Adelino Fonseca 3
+ OLD address : Lote, R. LuÃ­s Adelino Fonseca 3
+LGA-00004
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+LGA-00004
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MFR-00034
+evses -> 0: 
+ NEW evse_id : PT*ATL*EMFR*00034*1
+ OLD evse_id : PT*ATL*E*MFR*00034*01
+MFR-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MFR-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 120
+MFR-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 60000
+MFR-00034
+evses -> 1: 
+ NEW evse_id : PT*ATL*EMFR*00034*2
+ OLD evse_id : PT*ATL*E*MFR*00034*02
+MFR-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+MFR-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 120
+OHP-00003
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+OHP-00003
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+STB-00013
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+STB-00013
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VNG-00034
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VNG-00034
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
