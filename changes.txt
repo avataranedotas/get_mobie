@@ -20636,3 +20636,19 @@ VNG-00034
 evses -> 1 -> connectors -> 0: 
  NEW standard : IEC_62196_T2_COMBO
  OLD standard : CHADEMO
+
+2024-07-19 12:08:38
+Adicionados:['BTL-00007', 'EPS-00027', 'MGR-00017']
+
+BTL-00007 --> KLS 39.645950 -8.842106 Batalha E.N. 1 - Casal da Amieira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T10:10:40.514Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T10:10:40.514Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T10:10:40.514Z'}]
+
+EPS-00027 --> GLP 41.533513 -8.779028 Esposende TRAVESSA DOS BOMBEIROS 9857 PC ESPOSENDE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-19T08:28:33.538Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-19T08:28:33.538Z'}]
+
+MGR-00017 --> KLS 39.869028 -8.939972 Marinha Grande Rua da Marinha Grande 
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T08:37:31.617Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T08:37:31.617Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T08:37:31.617Z'}]
+Removidos:[]
