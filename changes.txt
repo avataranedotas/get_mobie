@@ -20652,3 +20652,63 @@ MGR-00017 --> KLS 39.869028 -8.939972 Marinha Grande Rua da Marinha Grande
 [{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T08:37:31.617Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T08:37:31.617Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T08:37:31.617Z'}]
 Removidos:[]
+
+2024-07-19 18:59:13
+Adicionados:['ALB-00013', 'ALB-00014', 'GDM-00048', 'GDM-00049', 'LGA-00025', 'OER-00231', 'SRE-00006', 'STC-00016']
+
+ALB-00013 --> GLP 40.687316 -8.474934 Albergaria-a-Velha R. Padre Matos,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T15:17:33.979Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T15:17:33.979Z'}]
+
+ALB-00014 --> GLP 40.747133 -8.485678 Albergaria-a-Velha RUA DO BARRO BRANCO,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:04:17.080Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:04:17.080Z'}]
+
+GDM-00048 --> HLX 41.185578 -8.558999 Gondomar Rua Bazar nº332
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:19:09.624Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:19:09.624Z'}]
+
+GDM-00049 --> HLX 41.185578 -8.558999 Gondomar Rua Bazar nº 332
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T14:53:56.313Z'}]
+
+LGA-00025 --> EDP 37.1366722 -8.5203248 Lagoa, Faro Rua Infante de Sagres/Rua Inf. D. Henrique
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 139, 'max_electric_power': 90000, 'last_updated': '2024-07-10T12:00:10.120Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-07-10T12:00:10.120Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-10T12:00:10.120Z'}]
+
+OER-00231 --> GLP 38.71584 -9.26334 Oeiras ESTRADA DAS VARZEAS
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-19T15:10:09.990Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-19T14:57:02.072Z'}]
+
+SRE-00006 --> KLS 40.064119 -8.619289 Soure Lugar de Fujaco
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T13:50:10.613Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T13:50:10.613Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-19T13:50:10.613Z'}]
+
+STC-00016 --> PRI 38.066046 -8.776388 Santiago do Cacém Cavaleiros de Madina,  Lote 1
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-07-19T13:00:10.495Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-07-19T13:00:10.495Z'}]
+Removidos:[]
+GMR-00083
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GMR-00083
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+GMR-00083
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+GMR-00083
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GMR-00083
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+GMR-00083
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
