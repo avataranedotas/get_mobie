@@ -20712,3 +20712,63 @@ GMR-00083
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 7400
+
+2024-07-22 18:55:52
+Adicionados:['GDL-00031', 'GDL-00032', 'LLE-00166', 'LLE-00168', 'LSB-00717', 'LSB-00718', 'PMS-00013', 'SLV-00016', 'TMC-00003']
+
+GDL-00031 --> HLX 38.493056 -8.903056 Grândola Urb Torralta Unop 1-S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:33.910Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:33.910Z'}]
+
+GDL-00032 --> HLX 38.493056 -8.903056 Grândola  Urb Torralta Unop 1-S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:42.264Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:42.264Z'}]
+
+LLE-00166 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:39:16.990Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:39:16.990Z'}]
+
+LLE-00168 --> ATL 37.082317 -8.120097 Loulé Rua das Amoreiras, 9010
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:38:23.147Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:38:23.147Z'}]
+
+LSB-00717 --> EDP 38.707679 -9.148907 Lisboa Rua Dom Luís I, nº 12-16
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:08:55.830Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:08:55.830Z'}]
+
+LSB-00718 --> EDP 38.707679 -9.148907 Lisboa Rua Dom Luís I nº12-16
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:09:20.520Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T16:09:20.520Z'}]
+
+PMS-00013 --> FCT 39.6241391 -8.8573209 Porto de Mós E.N. 1 (IC2), Km 107, 4 E
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-07-15T13:39:19.242Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 500, 'max_electric_power': 100000, 'last_updated': '2024-07-15T13:39:19.242Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-07-15T13:39:19.242Z'}]
+
+SLV-00016 --> KLS 37.186328 -8.440358 Silves  E.N. 124/Rua Cruz da Palmeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T10:16:40.875Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-22T10:16:40.875Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-22T10:16:40.875Z'}]
+
+TMC-00003 --> GLP 41.178074 -7.041857 Torre de Moncorvo R. Tomé Rodrigues Sobral, Torre de Moncorvo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-22T11:32:20.921Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-07-22T11:32:20.921Z'}]
+Removidos:['GDM-00048', 'GDM-00049']
+ALB-00019
+: 
+ NEW address : N1-IC2 Km245,5 – Cavada Nova
+ OLD address : N1-IC2 Km245,5 - Cavada Nova
+VNG-00128
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 375
+VNG-00128
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 125000
+ OLD max_electric_power : 200000
+VNG-00128
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 375
+VNG-00128
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 125000
+ OLD max_electric_power : 200000
