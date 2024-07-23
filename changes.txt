@@ -20772,3 +20772,126 @@ VNG-00128
 evses -> 4 -> connectors -> 0: 
  NEW max_electric_power : 125000
  OLD max_electric_power : 200000
+
+2024-07-23 20:00:10
+Adicionados:['ALD-00007', 'STR-00046', 'VBP-00012']
+
+ALD-00007 --> PRI 40.6085122 -6.8279467 Almeida Avenida da Fronteira
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-07-23T11:14:29.999Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-07-23T11:14:29.999Z'}]
+
+STR-00046 --> HLX 39.2569063 -8.7137787 Santarém R. Dr. António Passos Canavarro lote 12
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 11000, 'last_updated': '2024-07-23T09:39:01.994Z'}]
+
+VBP-00012 --> KLS 37.080331 -8.913081 Vila do Bispo E.N. 268 - Senhora do Amparo
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-23T10:03:59.853Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-23T10:03:59.853Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-23T10:03:59.853Z'}]
+Removidos:[]
+ABF-00055
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 150000
+ OLD max_electric_power : 15000
+AGD-00016
+coordinates: 
+ NEW latitude : 40.590554
+ OLD latitude : 40.5905539
+AGD-00016
+coordinates: 
+ NEW longitude : -8.457343
+ OLD longitude : -8.4573434
+AGD-00016
+: 
+ NEW coordinates : {'latitude': '40.590554', 'longitude': '-8.457343'}
+ OLD coordinates : {'latitude': '40.5905539', 'longitude': '-8.4573434'}
+AGD-00016
+evses -> 0: 
+ NEW evse_id : PT*ATL*EAGD*00016*1
+ OLD evse_id : PT*ATL*E*AGD*00016*01
+AGD-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+AGD-00016
+evses -> 1: 
+ NEW evse_id : PT*ATL*EAGD*00016*2
+ OLD evse_id : PT*ATL*E*AGD*00016*02
+AGD-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+AGD-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+AGD-00016
+evses -> 2: 
+ NEW evse_id : PT*ATL*EAGD*00016*3
+ OLD evse_id : PT*ATL*E*AGD*00016*03
+AGD-00016
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+ALQ-00020
+evses -> 0: 
+ NEW evse_id : PT*ATL*EALQ*00020*1
+ OLD evse_id : PT*ATL*E*ALQ*00020*01
+ALQ-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+ALQ-00020
+evses -> 1: 
+ NEW evse_id : PT*ATL*EALQ*00020*2
+ OLD evse_id : PT*ATL*E*ALQ*00020*02
+ALQ-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LOU-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 220000
+LSB-80081
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 74000
+STS-00022
+evses -> 0: 
+ NEW evse_id : PT*ATL*ESTS*00022*1
+ OLD evse_id : PT*ATL*E*STS*00022*01
+STS-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+STS-00022
+evses -> 1: 
+ NEW evse_id : PT*ATL*ESTS*00022*2
+ OLD evse_id : PT*ATL*E*STS*00022*02
+STS-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+STS-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 125
+STS-00022
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 50000
+STS-00022
+evses -> 2: 
+ NEW evse_id : PT*ATL*ESTS*00022*3
+ OLD evse_id : PT*ATL*E*STS*00022*03
+STS-00022
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+STS-00022
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+STS-00022
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 43000
