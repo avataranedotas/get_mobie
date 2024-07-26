@@ -21242,3 +21242,143 @@ VNC-00007
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 43000
+
+2024-07-26 17:39:26
+Adicionados:['ALB-00025', 'ALB-00027', 'ALB-00028', 'ALB-00029', 'AVS-00003', 'AVS-00004', 'ENT-00009', 'ETR-00018', 'ETR-00019', 'PNI-00016', 'RPN-00005', 'SLV-00017', 'SLV-00018', 'SLV-00019', 'SLV-00023', 'SLV-00025', 'SLV-00026', 'SLV-00028', 'SLV-00031', 'VNG-00166', 'VNG-00167']
+
+ALB-00025 --> GLP 40.696738 -8.480413 Albergaria-a-Velha R. 1º de Dezembro 2-8, 3850-011 Albergaria-a-
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T09:40:49.579Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T09:40:49.579Z'}]
+
+ALB-00027 --> GLP 40.658837 -8.536374 Albergaria-a-Velha R. Igreja 24-32, 3850-630
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T08:06:37.953Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T08:06:37.953Z'}]
+
+ALB-00028 --> GLP 40.741261 -8.445631 Albergaria-a-Velha Rua do Fílveda, 3850-703
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:40:51.917Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:40:51.917Z'}]
+
+ALB-00029 --> GLP 40.699080 -8.461610 Albergaria-a-Velha Albergaria-a-Velha e Valmaior, 3850-835
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:25:29.255Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:25:29.255Z'}]
+
+AVS-00003 --> HLX 39.050689 -7.909778 Avis Rua Loteamento H3- Herdade da Cortesia
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-26T13:52:17.877Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-07-26T13:52:17.877Z'}]
+
+AVS-00004 --> HLX 39.050689 -7.909778 Avis rua loteamento H3-Herdade da Cortesia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:47:11.530Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:47:11.530Z'}]
+
+ENT-00009 --> KLS 39.473239 -8.476550 Entroncamento  Rua Doutor Francisco Sá Carneiro
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T14:01:02.201Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-07-26T15:37:09.819Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-07-26T15:37:09.819Z'}]
+
+ETR-00018 --> EDP 40.7553823 -8.5352604 Estarreja AS Antuã, A1 KM 254.9, S-N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-26T10:17:39.487Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-26T10:17:39.487Z'}]
+
+ETR-00019 --> EDP 40.7553823 -8.5352604 Estarreja AS Antuã, A1 KM 254.9, S-N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-26T10:22:35.890Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-26T10:22:35.890Z'}]
+
+PNI-00016 --> GLP 39.3608960 -9.3800676 Peniche Avenida Papa Paulo VI
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T14:04:38.587Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T14:04:38.587Z'}]
+
+RPN-00005 --> SLX 41.5056906 -7.7995734 Ribeira de Pena Rua complexo Turístico de Lamelas nº 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 690, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T16:00:05.250Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 690, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T16:00:05.250Z'}]
+
+SLV-00017 --> GLP 37.131725 -8.346431 Silves Rua dos Bombeiros Voluntários - Alcantarilha
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:15:22.734Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:15:22.734Z'}]
+
+SLV-00018 --> GLP 37.165174 -8.304891 Silves Perpendicular à Rua do Ribeiro em Algoz
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T11:13:58.631Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T11:13:58.631Z'}]
+
+SLV-00019 --> GLP 37.123067 -8.337854 Silves Rua 19 de Abril - Pêra
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:25:45.760Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:25:45.760Z'}]
+
+SLV-00023 --> GLP 37.130514 -8.349906 Silves Retail park Alcantarilha
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:52:31.079Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:52:31.079Z'}]
+
+SLV-00025 --> GLP 37.104204 -8.360883 Silves Rua Álvaro Gomes - Armação de Pêra
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:12:23.657Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:12:23.657Z'}]
+
+SLV-00026 --> GLP 37.119889 -8.340179 Silves Rua Pêra de Cima - Pêra
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T14:18:13.050Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T14:18:13.050Z'}]
+
+SLV-00028 --> GLP 37.190112 -8.447055 Silves Jardim da Republica - Silves
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:37:18.280Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T10:37:18.280Z'}]
+
+SLV-00031 --> GLP 37.101909 -8.356396 Silves Avenida do Rio - Armação de Pêra
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:31:28.027Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:31:28.027Z'}]
+
+VNG-00166 --> IBD 41.132539 -8.575016 Vila Nova de Gaia Rua Quinta Fonte da Vinha, nº 383
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:31:03.940Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:31:03.940Z'}]
+
+VNG-00167 --> IBD 41.132539 -8.575016 Vila Nova de Gaia Rua Quinta Fonte da Vinha, nº 383
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:33:26.581Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:33:26.581Z'}]
+Removidos:['GDL-00031', 'GDL-00032', 'LSB-00714', 'LSB-00715', 'LSB-00722']
+CSC-00140
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
+LSB-00616
+coordinates: 
+ NEW longitude : -9.130995
+ OLD longitude :  -9.130995
+LSB-00616
+: 
+ NEW coordinates : {'latitude': '38.744257', 'longitude': '-9.130995'}
+ OLD coordinates : {'latitude': '38.744257', 'longitude': ' -9.130995'}
+LSB-00617
+coordinates: 
+ NEW longitude : -9.130995
+ OLD longitude :  -9.130995
+LSB-00617
+: 
+ NEW coordinates : {'latitude': '38.744257', 'longitude': '-9.130995'}
+ OLD coordinates : {'latitude': '38.744257', 'longitude': ' -9.130995'}
+LSB-00618
+coordinates: 
+ NEW longitude : -9.130995
+ OLD longitude :  -9.130995
+LSB-00618
+: 
+ NEW coordinates : {'latitude': '38.744257', 'longitude': '-9.130995'}
+ OLD coordinates : {'latitude': '38.744257', 'longitude': ' -9.130995'}
+LSB-00619
+coordinates: 
+ NEW longitude : -9.130995
+ OLD longitude :  -9.130995
+LSB-00619
+: 
+ NEW coordinates : {'latitude': '38.744257', 'longitude': '-9.130995'}
+ OLD coordinates : {'latitude': '38.744257', 'longitude': ' -9.130995'}
+LSB-00620
+coordinates: 
+ NEW longitude : -9.130995
+ OLD longitude :  -9.130995
+LSB-00620
+: 
+ NEW coordinates : {'latitude': '38.744257', 'longitude': '-9.130995'}
+ OLD coordinates : {'latitude': '38.744257', 'longitude': ' -9.130995'}
+LSB-00625
+coordinates: 
+ NEW longitude : -9.128695
+ OLD longitude :  -9.128695
+LSB-00625
+: 
+ NEW coordinates : {'latitude': '38.716167', 'longitude': '-9.128695'}
+ OLD coordinates : {'latitude': '38.716167', 'longitude': ' -9.128695'}
