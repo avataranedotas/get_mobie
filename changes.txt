@@ -21630,3 +21630,101 @@ VNG-00142
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-08-01 21:49:41
+Adicionados:['AGB-00002', 'CBR-00104', 'CBR-00105', 'CBR-00106', 'EPS-90001', 'ETR-00020', 'ETR-00021', 'FAR-00051', 'FAR-00052', 'GDL-00031', 'GDL-00032', 'LRA-00126', 'LSB-00714', 'LSB-00715', 'LSB-00722', 'LSB-00816', 'MOBI-PNI-00003', 'ORM-00020', 'PNV-00004', 'PNV-00005', 'PNV-00006', 'PNV-00007', 'PRT-00253', 'STS-00021']
+
+AGB-00002 --> EDP 40.857139 -7.506791 Aguiar da Beira CRUZAMENTO EN226 / 229
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T16:13:55.366Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T16:13:55.366Z'}]
+
+CBR-00104 --> EDP 40.2184667 -8.4084915 Coimbra R. Dr. José Alberto Reis
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T10:14:02.375Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T10:14:02.375Z'}]
+
+CBR-00105 --> EDP 40.1974586 -8.4612221 Coimbra Rua 5 de Outubro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T09:08:26.824Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T09:08:26.824Z'}]
+
+CBR-00106 --> EDP 40.1974586 -8.4612221 Coimbra Rua 5 de Outubro, São Martinho do Bispo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T09:08:37.729Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T09:08:37.729Z'}]
+
+EPS-90001 --> EDP 41.530918 -8.780565 Esposende Rua Rodrigues Faria
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-04-27T11:06:02.551Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-04-27T11:06:02.553Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+ETR-00020 --> EDP 40.7557690 -8.5369427 Estarreja AS Antuã, A1 KM 254.9, N-S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-31T11:43:59.865Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-31T11:43:59.865Z'}]
+
+ETR-00021 --> EDP 40.7557690 -8.5369427 Estarreja AS Antuã, A1 KM 254.9, N-S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-31T11:45:56.522Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-31T11:45:56.522Z'}]
+
+FAR-00051 --> HRZ 37.0278031 -7.9196313 Faro Av. Cidade de Hayward
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T14:53:53.578Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T14:53:53.578Z'}]
+
+FAR-00052 --> HRZ 37.0278058 -7.91964 Faro Av. Cidade de Hayward
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 188, 'max_electric_power': 150000, 'last_updated': '2024-07-31T14:52:29.286Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T14:52:29.286Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-31T14:52:29.286Z'}]
+
+GDL-00031 --> HLX 38.493056 -8.903056 Grândola Urb Torralta Unop 1-S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:33.910Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:33.910Z'}]
+
+GDL-00032 --> HLX 38.493056 -8.903056 Grândola  Urb Torralta Unop 1-S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:42.264Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-22T14:30:42.264Z'}]
+
+LRA-00126 --> MOT 39.85171 -8.87049 Leiria Rua Dr. Oliveira Salazar 19
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T15:06:07.496Z'}, {'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 380, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T15:06:07.496Z'}]
+
+LSB-00714 --> HLX 38.693711 -9.210698 Lisboa Doca do Bom Sucesso
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:23:57.299Z'}]
+
+LSB-00715 --> HLX 38.693711 -9.210698 Lisboa Doca do Bom Sucesso
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-26T13:24:59.988Z'}]
+
+LSB-00722 --> HLX 38.693711 -9.210698 Lisboa Doca do Bom sucesso
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-08-01T10:19:26.768Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-08-01T10:19:26.768Z'}]
+
+LSB-00816 --> EPO 38.73908 -9.14453 Lisboa Av. Defensores de Chaves, 71
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T08:06:29.875Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-31T08:08:53.978Z'}]
+
+MOBI-PNI-00003 --> HRZ 39.3582218 -9.3633117 Peniche Av. da Praia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T14:43:27.376Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-04-16T14:43:27.376Z'}]
+
+ORM-00020 --> KLS 39.656667 -8.583611 Ourém Avenida Dom Nuno Alvares Pereira, 351
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T14:32:23.823Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-01T15:16:41.112Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-01T15:16:41.112Z'}]
+
+PNV-00004 --> HGP 39.771252 -7.849930 Proença-a-Nova RUA DE SANTO ANTONIO 70
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T11:12:32.611Z'}]
+
+PNV-00005 --> HGP 39.749748 -7.920522 Proença-a-Nova RUA PADRE MANUEL ALVES CATARINO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T10:23:27.666Z'}]
+
+PNV-00006 --> HGP 39.771252 -7.849930 Proença-a-Nova RUA DE SANTO ANTONIO 70
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T11:10:29.083Z'}]
+
+PNV-00007 --> HGP 39.749748 -7.920522 Proença-a-Nova RUA PADRE MANUEL ALVES CATARINO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-01T10:17:29.131Z'}]
+
+PRT-00253 --> EDP 41.1698947 -8.5710824 Porto BK Fabrica Cobre, R. das Linhas de Torres 56
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-01T12:35:37.082Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-01T12:35:37.082Z'}]
+
+STS-00021 --> EDP 41.337070 -8.478448 Santo Tirso Burger King Santo Tirso, R. das Rãs
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-01T15:39:23.892Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-01T15:39:23.892Z'}]
+Removidos:[]
+ORM-00012
+: 
+ NEW address : Hotel Fátima - RUA João Paulo II 241
+ OLD address : RUA João Paulo II 241
