@@ -21728,3 +21728,36 @@ ORM-00012
 : 
  NEW address : Hotel Fátima - RUA João Paulo II 241
  OLD address : RUA João Paulo II 241
+
+2024-08-02 23:02:35
+Adicionados:['AVT-00002', 'AVT-00003', 'AVT-00004', 'BJA-00049', 'SNS-00009', 'STR-00052', 'STR-00054']
+
+AVT-00002 --> TRK 38.259690 -7.993317 Alvito Rua da Tapadinha Dom António
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:10:44.273Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:10:44.273Z'}]
+
+AVT-00003 --> TRK 38.289982 -8.03919 Alvito Avenida 1º de Maio (mercado municipal)
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:20:45.630Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:20:45.630Z'}]
+
+AVT-00004 --> TRK 38.293528 -8.03535 Alvito Avenida 1º de Maio, s/n (estação ferroviária)
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:36:15.475Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:36:15.475Z'}]
+
+BJA-00049 --> TRK 37.92456 -7.7936420 Beja Praça Magalhães Lima, 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:42:12.191Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T14:42:12.191Z'}]
+
+SNS-00009 --> HRZ 37.9646194 -8.85723 Sines Loteamento municipal R52
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-02T17:12:20.006Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-02T17:12:20.006Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 63, 'max_electric_power': 50000, 'last_updated': '2024-08-02T17:12:20.006Z'}]
+
+STR-00052 --> EDP 39.3917312 -8.6384185 Santarém A1 km 84,3 sentido Sul-Norte, E80
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:03:29.098Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:03:29.098Z'}]
+
+STR-00054 --> EDP 39.3917312 -8.6384185 Santarém A1 km 84,3 sentido Sul-Norte, E80
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:46:03.764Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:46:03.764Z'}]
+Removidos:[]
