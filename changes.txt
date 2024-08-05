@@ -21761,3 +21761,36 @@ STR-00054 --> EDP 39.3917312 -8.6384185 Santarém A1 km 84,3 sentido Sul-Norte, 
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:46:03.764Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-08-02T09:46:03.764Z'}]
 Removidos:[]
+
+2024-08-05 18:06:05
+Adicionados:['AMT-00025', 'LOU-00009', 'VFR-00056']
+
+AMT-00025 --> MOT 41.2540935 -8.0734160 Amarante Rua da Fontainhas 874, Lomba
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-08-05T11:17:19.001Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-08-05T11:17:19.001Z'}]
+
+LOU-00009 --> MOT 41.2721598 -8.2088006 Lousada Avenida da Estrada Real, N.º 825
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-08-05T09:38:10.802Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-08-05T09:38:10.802Z'}]
+
+VFR-00056 --> GLP 40.929017 -8.547181 Santa Maria da Feira GALP - Rua Dr. Cândido Pinho
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-08-05T11:20:46.182Z', 'max_amperage': 120, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-08-05T11:20:46.182Z', 'max_amperage': 120, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-08-05T11:20:46.182Z', 'max_amperage': 63, 'max_electric_power': 43000}]
+Removidos:[]
+GMR-00008
+coordinates: 
+ NEW latitude : 41.4909489
+ OLD latitude : 41.4917727
+GMR-00008
+coordinates: 
+ NEW longitude : -8.3410824
+ OLD longitude : -8.340513
+GMR-00008
+: 
+ NEW coordinates : {'latitude': '41.4909489', 'longitude': '-8.3410824'}
+ OLD coordinates : {'latitude': '41.4917727', 'longitude': '-8.340513'}
+LGS-00032
+: 
+ NEW address : Avenida da República
+ OLD address : Avenida da Repýblica
