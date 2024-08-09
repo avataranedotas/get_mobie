@@ -21794,3 +21794,350 @@ LGS-00032
 : 
  NEW address : Avenida da República
  OLD address : Avenida da Repýblica
+
+2024-08-09 19:39:37
+Adicionados:['AVR-00041', 'BRG-00127', 'CBA-00002', 'CCH-00005', 'EPS-00020', 'ETR-00022', 'FAR-00045', 'ILH-00016', 'LLE-00222', 'LSB-00809', 'MCD-00006', 'MDL-00012', 'MOBI-CTB-00004', 'OFR-00004', 'OFR-00005', 'SMA-00003', 'VNG-00171']
+
+AVR-00041 --> REP 40.651464 -8.608606 Aveiro Estr. da Taboeira 1
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-08-07T11:33:28.132Z', 'max_amperage': 125, 'max_electric_power': 50000}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-07T11:33:28.132Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-07T11:33:28.132Z'}]
+
+BRG-00127 --> ATL 41.564900 -8.449650 Braga Rua de Cima 58
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-09T11:25:31.240Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-09T11:25:31.240Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-09T11:25:31.240Z'}]
+
+CBA-00002 --> MOT 38.17063 -7.89397 Cuba EN 258-1, Edifício Intermarché
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-08-07T13:28:12.504Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-08-07T13:28:12.504Z'}]
+
+CCH-00005 --> KLS 38.961028 -8.520147 Coruche Quinta das Baleias, lote 18
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-06T09:30:58.307Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-06T11:42:46.013Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-06T11:42:46.013Z'}]
+
+EPS-00020 --> GLP 41.485194 -8.778872 Esposende RUA DO CONEGO 9000 14 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-07T14:31:58.308Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-07T14:31:58.308Z'}]
+
+ETR-00022 --> EDP 40.7593266 -8.5701824 Estarreja R PROF. DR. EGAS MONI
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-08-08T14:34:42.774Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-08T14:34:42.774Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T14:34:42.774Z'}]
+
+FAR-00045 --> HRZ 37.0188142 -7.9383718 Faro Praceta Pintor Lyster Franco 5
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T14:46:17.590Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T14:46:17.590Z'}]
+
+ILH-00016 --> EDP 40.5973668 -8.6650512 Ílhavo VIA DO MERCADO S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-08-08T10:48:42.548Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-08T10:48:42.548Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T10:48:42.548Z'}]
+
+LLE-00222 --> BLU 37.0417636 -8.0277359 Loulé Av. Ayrton Senna da Silva, Lote 79
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-09T14:22:14.815Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-09T14:22:14.815Z'}]
+
+LSB-00809 --> CAB 38.721971 -9.151513 Lisboa Rua Rosa Araújo, 16
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-06T15:15:12.196Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-06T15:15:12.196Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-06T15:15:12.196Z'}]
+
+MCD-00006 --> HRZ 41.5778460 -6.9467970 Macedo de Cavaleiros Pontão de Lamas, Lamas
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-07T14:23:01.347Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-07T14:23:01.347Z'}]
+
+MDL-00012 --> EDP 41.485247 -7.1881735 Mirandela Avenida Nossa Sra. do Amparo, 144
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-08-07T11:56:44.324Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-07T11:56:44.324Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-07T11:56:44.324Z'}]
+
+MOBI-CTB-00004 --> MOO 39.812878 -7.519497 Castelo Branco RUA F 9004 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 40, 'max_electric_power': 24000, 'last_updated': '2024-08-06T09:49:04.557Z'}]
+
+OFR-00004 --> TRK 40.7265653 -8.1745439 Oliveira de Frades Rua Sra. dos Milagres, 22
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T11:18:19.037Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T11:18:19.037Z'}]
+
+OFR-00005 --> TRK 40.728363 -8.1721687 Oliveira de Frades Largo Feira, 34
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T11:44:05.541Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-08T11:44:05.541Z'}]
+
+SMA-00003 --> GLP 38.9683959 -9.1972719 Sobral de Monte Agraço Rua da Liberdade, Sapataria
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-07T09:34:57.110Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-07T09:34:57.110Z'}]
+
+VNG-00171 --> ATL 41.129280 -8.629940 Vila Nova de Gaia Rua de Bombeiros Voluntários de Coimbrões 99
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-06T13:44:08.818Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-06T13:44:08.818Z'}]
+Removidos:['AJT-00013', 'AZB-00009', 'PNF-00037']
+ACH-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 62500
+ACH-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+BGC-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+BJA-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+BRR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+CLD-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+CLD-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+CSC-00101
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+CSC-00184
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+CSC-00185
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 400
+CSC-00185
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 400
+EVR-00045
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+FAR-00054
+coordinates: 
+ NEW latitude : 37.0332551
+ OLD latitude : 37.0317330
+FAR-00054
+coordinates: 
+ NEW longitude : -7.9597622
+ OLD longitude : -7.9639103
+FAR-00054
+: 
+ NEW coordinates : {'latitude': '37.0332551', 'longitude': '-7.9597622'}
+ OLD coordinates : {'latitude': '37.0317330', 'longitude': '-7.9639103'}
+FLG-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+FNC-00044
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+GDL-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+GDL-00024
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 63
+GDL-00024
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 63
+LRA-00117
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+LRA-00123
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+MAI-00052
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+MCH-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+MFR-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+MGR-00004
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+ODV-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+OER-00014
+coordinates: 
+ NEW latitude : 38.7227556
+ OLD latitude : 38.7226531
+OER-00014
+coordinates: 
+ NEW longitude : -9.2471237
+ OLD longitude : -9.2490845
+OER-00014
+: 
+ NEW coordinates : {'latitude': '38.7227556', 'longitude': '-9.2471237'}
+ OLD coordinates : {'latitude': '38.7226531', 'longitude': '-9.2490845'}
+OER-00192
+coordinates: 
+ NEW latitude : 38.718520
+ OLD latitude : 38.717910
+OER-00192
+coordinates: 
+ NEW longitude : -9.229510
+ OLD longitude : -9.230610
+OER-00192
+: 
+ NEW coordinates : {'latitude': '38.718520', 'longitude': '-9.229510'}
+ OLD coordinates : {'latitude': '38.717910', 'longitude': '-9.230610'}
+OER-00222
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+OER-00223
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 800
+OVR-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+OVR-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+OVR-00021
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 90000
+PBL-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+PFR-00011
+: 
+ NEW address : BK Paços de Ferreira, R. Dom Afonso III
+ OLD address : Burger King Paços de Ferreira
+PMS-00013
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+PRT-00240
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+PST-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+PTG-00024
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+PTM-00038
+coordinates: 
+ NEW latitude : 37.120827
+ OLD latitude : 37.0417636
+PTM-00038
+coordinates: 
+ NEW longitude : -8.560028
+ OLD longitude : -8.0277359
+PTM-00038
+: 
+ NEW coordinates : {'latitude': '37.120827', 'longitude': '-8.560028'}
+ OLD coordinates : {'latitude': '37.0417636', 'longitude': '-8.0277359'}
+RMR-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+SMG-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+SNT-00082
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+SSB-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+STB-00082
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+STB-00090
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 62500
+STN-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+STS-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+SXL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+VCT-00050
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+VFR-00056
+: 
+ NEW address : Av. Dr. Belchior Cardoso da Costa
+ OLD address : GALP - Rua Dr. Cândido Pinho
+VFR-00056
+coordinates: 
+ NEW latitude : 40.927165
+ OLD latitude : 40.929017
+VFR-00056
+coordinates: 
+ NEW longitude : -8.542030
+ OLD longitude : -8.547181
+VFR-00056
+: 
+ NEW coordinates : {'latitude': '40.927165', 'longitude': '-8.542030'}
+ OLD coordinates : {'latitude': '40.929017', 'longitude': '-8.547181'}
+VIZ-00008
+coordinates: 
+ NEW latitude : 41.393480
+ OLD latitude : 41.393437
+VIZ-00008
+coordinates: 
+ NEW longitude : -8.318040
+ OLD longitude : -8.317355
+VIZ-00008
+: 
+ NEW coordinates : {'latitude': '41.393480', 'longitude': '-8.318040'}
+ OLD coordinates : {'latitude': '41.393437', 'longitude': '-8.317355'}
+VNF-00045
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 100000
+VRL-00025
+coordinates: 
+ NEW latitude : 41.257300
+ OLD latitude : 41.256153
+VRL-00025
+coordinates: 
+ NEW longitude : -7.651727
+ OLD longitude : -7.651992
+VRL-00025
+: 
+ NEW coordinates : {'latitude': '41.257300', 'longitude': '-7.651727'}
+ OLD coordinates : {'latitude': '41.256153', 'longitude': '-7.651992'}
