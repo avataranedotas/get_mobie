@@ -22141,3 +22141,83 @@ VRL-00025
 : 
  NEW coordinates : {'latitude': '41.257300', 'longitude': '-7.651727'}
  OLD coordinates : {'latitude': '41.256153', 'longitude': '-7.651992'}
+
+2024-08-12 19:35:12
+Adicionados:['EPS-00010', 'EPS-00012', 'EPS-00033', 'MTS-00171']
+
+EPS-00010 --> GLP 41.557239 -8.760416 Esposende Rua de São Lourenço
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:08:23.912Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:08:23.912Z'}]
+
+EPS-00012 --> GLP 41.607322 -8.782967 Esposende R. de Alvre 16
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:36:16.249Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:36:16.249Z'}]
+
+EPS-00033 --> GLP 41.604881 -8.741808 Esposende R. Prof. José Alvino Faria 184-76
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:25:16.912Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-12T13:25:16.912Z'}]
+
+MTS-00171 --> IBD 41.2176228 -8.6953021 Matosinhos Rua do Progresso, 329
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-08-12T09:32:12.689Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-08-12T09:32:12.689Z'}]
+Removidos:[]
+ACH-00018
+: 
+ NEW address : McD, Av. Sociedade Imparcial 15 Janeiro 1988
+ OLD address : Av. da Sociedade Imparcial 15 Janeiro 1988
+ACH-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+ALB-00007
+: 
+ NEW address : Burger King Albergaria-a-Velha, IC 2, nº3 LT
+ OLD address : BK Albergaria-a-Velha, IC 2, nº3 LT
+BRG-00105
+: 
+ NEW address : McD Braga,Av. Dra Assunção Vasconcelos Chaves
+ OLD address : Av. Dra. Assunção Vasconcelos Chaves
+BRG-00105
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+LGA-00025
+: 
+ NEW address : McDonalds Parchal, Rua Inf. D. Henrique, 1
+ OLD address : Rua Infante de Sagres/Rua Inf. D. Henrique
+LGA-00025
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 139
+MTS-00131
+: 
+ NEW address : R. Silva Pinheiro 170
+ OLD address : Burger King Amadeus Matosinhos
+SNT-00076
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+SNT-00079
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+TRF-00014
+: 
+ NEW address : Burger King Trofa,  R. das Indústrias 475
+ OLD address : Burger King Trofa
+VIZ-00009
+: 
+ NEW address : Burger King Vizela, Rua Armindo Freitas
+ OLD address : Rua Armindo Freitas
+VIZ-00009
+coordinates: 
+ NEW latitude : 41.3712215
+ OLD latitude : 41.371968
+VIZ-00009
+coordinates: 
+ NEW longitude : -8.3112981
+ OLD longitude : -8.311395
+VIZ-00009
+: 
+ NEW coordinates : {'latitude': '41.3712215', 'longitude': '-8.3112981'}
+ OLD coordinates : {'latitude': '41.371968', 'longitude': '-8.311395'}
