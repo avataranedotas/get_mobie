@@ -22221,3 +22221,251 @@ VIZ-00009
 : 
  NEW coordinates : {'latitude': '41.3712215', 'longitude': '-8.3112981'}
  OLD coordinates : {'latitude': '41.371968', 'longitude': '-8.311395'}
+
+2024-08-14 09:10:49
+Adicionados:['ALR-00008', 'BBR-00009', 'GMR-00127', 'GMR-00128', 'LNH-00015', 'PNF-00024', 'PNF-00025', 'PNF-00028']
+
+ALR-00008 --> EDP 39.19690 -8.62560 Almeirim Rua de Coruche, Almeirim
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-08-13T13:40:04.268Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-08-13T13:40:04.268Z'}]
+
+BBR-00009 --> KLS 39.264636 -9.155136 Bombarral Rua Mouzinho de Albuquerque
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-13T13:35:29.961Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-13T13:35:29.961Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-13T13:35:29.961Z'}]
+
+GMR-00127 --> EDP 41.4366911 -8.29682 Guimarães Rua Eduardo Manuel de Almeida, 202
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-13T15:11:31.369Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-13T15:11:31.369Z'}]
+
+GMR-00128 --> EDP 41.4366911 -8.29682 Guimarães Rua Eduardo Manuel de Almeida 202
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-08-13T16:19:59.239Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-08-13T16:19:59.239Z'}]
+
+LNH-00015 --> EDP 39.2472253 -9.3122561 Lourinhã Av. António José de Almeida 24, 2530-921
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-08-13T10:07:26.423Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-13T10:07:26.423Z'}]
+
+PNF-00024 --> GLP 41.230643 -8.188969 Penafiel AVENIDA DO FOLFORINHO S/N
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-13T10:13:20.004Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-13T10:13:20.004Z'}]
+
+PNF-00025 --> GLP 41.206376 -8.274392 Penafiel R. das Lajes 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-13T10:15:49.744Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-13T10:15:49.744Z'}]
+
+PNF-00028 --> GLP 41.202026 -8.289191 Penafiel R. Victorino da Costa, Penafiel
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-08-13T10:36:10.771Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 180000, 'last_updated': '2024-08-13T10:36:10.771Z'}]
+Removidos:['MOBI-MTS-00067']
+ABT-00033
+: 
+ NEW address : Burger King Abrantes, Av. Dom João I s/n
+ OLD address : Av. Dom João I s/n
+ACB-00020
+: 
+ NEW address : Burger King, Av Ass. Alcobacense Farmingville
+ OLD address : Av. Associação Alcobacense de Farmingville
+ALM-00072
+: 
+ NEW address : Burger King Corroios, RUA BENTO GONCALVES 12
+ OLD address : RUA BENTO GONCALVES 12
+BGC-00010
+: 
+ NEW address : Burger King, Rua Arquiteto Viana de Lima
+ OLD address : Rua Arquiteto Viana de Lima - Burger King
+BRG-00071
+: 
+ NEW address : Burger King Braga Frossos, R. do Feital, 4700
+ OLD address : Rua do Feital nº 4700
+CSC-00146
+: 
+ NEW address : Burger King Birre, Rua das Tulipas
+ OLD address : Rua das Tulipas
+LLE-00142
+: 
+ NEW address : A Floresta do Jos© - Encosta do Lobo
+ OLD address : A Floresta do José - Encosta do Lobo
+LLE-00144
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00147
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00147
+: 
+ NEW address : Rua CristovÃ£o Pires Norte - Valverde
+ OLD address : Rua Cristovão Pires Norte - Valverde
+LLE-00148
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00149
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00150
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00151
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00152
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00153
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00154
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00155
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00155
+: 
+ NEW address : Rua do Oceano AtlÃ¢ntico,
+ OLD address : Rua do Oceano Atlântico,
+LLE-00156
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00157
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+LLE-00158
+: 
+ NEW address : SÃ­tio do Semino
+ OLD address : Sítio do Semino
+LLE-00158
+: 
+ NEW city : LoulÃ©
+ OLD city : Loulé
+MMN-00011
+: 
+ NEW address : Burger King, N114, 7050-909 Montemor-o-Novo
+ OLD address : N114, 7050-909 Montemor-o-Novo
+MTS-00131
+: 
+ NEW address : Burger King, R. Silva Pinheiro 170
+ OLD address : R. Silva Pinheiro 170
+NZR-00007
+: 
+ NEW address : Rua Doutor Ant³nio Duarte PimpÃ£o
+ OLD address : Rua Doutor António Duarte Pimpão
+NZR-00007
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00008
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00009
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00010
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00011
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00012
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00013
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00014
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00015
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00016
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00017
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00018
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00019
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+NZR-00025
+: 
+ NEW city : NazarÃ©
+ OLD city : Nazaré
+OAZ-00009
+evses -> 2 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+OAZ-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 1000
+ OLD max_voltage : 400
+OAZ-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 32
+OAZ-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 22000
+PRD-00014
+: 
+ NEW address : Burger King Paredes, R. da Igreja Velha
+ OLD address : BK Paredes R. da Igreja Velha
+SNS-00015
+: 
+ NEW address : Burger King,A26-1 Loteamento Mun Norte da R52
+ OLD address : A26-1 Loteamento Mun Norte da R52
+SSB-00014
+: 
+ NEW address : Burger King Sesimbra, Rua Quinta do Sobreiro
+ OLD address : Rua Quinta do Sobreiro
+VFR-00016
+: 
+ NEW address : Burger King St Maria F, R. S. Paulo Cruz 9220
+ OLD address : R. São Paulo da Cruz 9220
+VFX-00040
+: 
+ NEW address : Burger King V. Franca Xira, Rua Pery de Linde
+ OLD address : Rua Pery de Linde
+VNC-00005
+: 
+ NEW address : Burger King V. Nv Cerv, Qta Belo Cais, Lote 7
+ OLD address : Quinta Belo Cais, Lote 7
+VNF-00025
+: 
+ NEW address : Burger King Famalicão, Av. Mal. H. Delgado 91
+ OLD address : Av. Mal. Humberto Delgado 91
+VNF-00041
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+VNF-00041
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 50000
