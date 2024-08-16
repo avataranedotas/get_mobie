@@ -22469,3 +22469,191 @@ VNF-00041
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 120000
  OLD max_electric_power : 50000
+
+2024-08-16 18:18:15
+Adicionados:['ACB-00023', 'LRS-00129', 'MTS-00172', 'ODV-00037', 'PNI-00013', 'SNT-00146', 'VNG-00168']
+
+ACB-00023 --> KLS 39.547642 -8.967203 Alcobaça Estrada de Leiria
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-14T15:07:07.003Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T15:07:07.003Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T15:07:07.003Z'}]
+
+LRS-00129 --> PRI 38.8171907 -9.1000789 Loures R. Dom Afonso Henriques Nº35,  Lisboa
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-08-14T14:28:18.755Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-14T14:28:18.755Z'}]
+
+MTS-00172 --> ATL 41.191080 -8.636850 Matosinhos Rua Nova dos Fogueteiros 564
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T09:48:21.563Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-14T09:48:21.563Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-14T09:48:21.563Z'}]
+
+ODV-00037 --> PRI 38.7961718 -9.1693160 Odivelas R. Heróis de Chaimite 16,  Odivelas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T10:42:04.974Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T10:42:04.974Z'}]
+
+PNI-00013 --> KLS 39.365628 -9.380628 Peniche Rua Azeredo Perdigão
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-14T10:36:37.163Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T10:36:37.163Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-14T10:36:37.163Z'}]
+
+SNT-00146 --> EDP 38.8442103 -9.3208013 Sintra RUA DA CAPELA NOSSA SENHORA DA CONC 5
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-16T14:30:51.684Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-16T14:30:51.684Z'}]
+
+VNG-00168 --> ATL 41.129580 -8.651920 Vila Nova de Gaia Rua da Quinta do Castro 44
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-08-16T16:05:31.904Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-16T16:05:31.904Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-16T16:05:31.904Z'}]
+Removidos:[]
+LLE-00142
+: 
+ NEW address : A Floresta do José - Encosta do Lobo
+ OLD address : A Floresta do Jos© - Encosta do Lobo
+LLE-00144
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00147
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00147
+: 
+ NEW address : Rua Cristovão Pires Norte - Valverde
+ OLD address : Rua CristovÃ£o Pires Norte - Valverde
+LLE-00148
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00149
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00150
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00151
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00152
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00153
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00154
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00155
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00155
+: 
+ NEW address : Rua do Oceano Atlântico,
+ OLD address : Rua do Oceano AtlÃ¢ntico,
+LLE-00156
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00157
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00158
+: 
+ NEW address : Sítio do Semino
+ OLD address : SÃ­tio do Semino
+LLE-00158
+: 
+ NEW city : Loulé
+ OLD city : LoulÃ©
+LLE-00170
+coordinates: 
+ NEW latitude : 37.082140
+ OLD latitude : 37.082317
+LLE-00170
+coordinates: 
+ NEW longitude : -8.119790
+ OLD longitude : -8.120097
+LLE-00170
+: 
+ NEW coordinates : {'latitude': '37.082140', 'longitude': '-8.119790'}
+ OLD coordinates : {'latitude': '37.082317', 'longitude': '-8.120097'}
+LLE-00170
+evses -> 0: 
+ NEW evse_id : PT*ATL*ELLE*00170*1
+ OLD evse_id : PT*ATL*E*LLE*00170*01
+LLE-00170
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LLE-00170
+evses -> 1: 
+ NEW evse_id : PT*ATL*ELLE*00170*2
+ OLD evse_id : PT*ATL*E*LLE*00170*02
+LLE-00170
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+NZR-00007
+: 
+ NEW address : Rua Doutor António Duarte Pimpão
+ OLD address : Rua Doutor Ant³nio Duarte PimpÃ£o
+NZR-00007
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00008
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00009
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00010
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00011
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00012
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00013
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00014
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00015
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00016
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00017
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00018
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00019
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
+NZR-00025
+: 
+ NEW city : Nazaré
+ OLD city : NazarÃ©
