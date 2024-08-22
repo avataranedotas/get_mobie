@@ -22799,3 +22799,94 @@ VIS-00103
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2024-08-22 12:06:38
+Adicionados:['BGC-00021', 'FAF-00011', 'GMR-00126', 'MAI-00055', 'MTS-00120', 'MTS-00121', 'ODV-00038', 'STS-00027', 'TRF-00017', 'VIS-00102', 'VIS-00107']
+
+BGC-00021 --> FCT 41.8080974 -6.7928513 Bragança Cruzamento de Donai - Estrada de Vinhais
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-08-21T10:00:46.389Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-08-21T10:00:46.389Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-08-21T10:00:46.389Z'}]
+
+FAF-00011 --> KLS 41.451906 -8.188453 Fafe Rua Cidade de Guimarães, 285
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-21T14:19:52.566Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:55:47.988Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:55:47.988Z'}]
+
+GMR-00126 --> KLS 41.421486 -8.355444 Guimarães Avenida Sociedade Musical de Pevidém
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-21T12:58:14.439Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:55:15.040Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:55:15.040Z'}]
+
+MAI-00055 --> PFU 41.2740014 -8.6001929 Maia R. Sr. da Agonia 330 4910
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-08-20T15:12:20.640Z'}]
+
+MTS-00120 --> PRI 41.2182404 -8.6950114 Matosinhos R. Dom Marcos da Cruz 2013
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-08-21T14:22:56.774Z', 'max_amperage': 120, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-08-21T14:22:56.774Z', 'max_amperage': 120, 'max_electric_power': 60000}]
+
+MTS-00121 --> PRI 41.218345 -8.6947999 Matosinhos R. Dom Marcos da Cruz 2013
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 900, 'last_updated': '2024-08-21T14:18:36.201Z', 'max_amperage': 200, 'max_electric_power': 180000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 900, 'last_updated': '2024-08-21T14:18:36.201Z', 'max_amperage': 200, 'max_electric_power': 180000}]
+
+ODV-00038 --> PRI 38.7962546 -9.1692988 Odivelas R. Heróis de Chaimite 16,  Odivelas
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 150000, 'last_updated': '2024-08-14T10:44:53.042Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 150000, 'last_updated': '2024-08-14T10:44:53.042Z'}]
+
+STS-00027 --> KLS 41.346469 -8.482361 Santo Tirso  Rua Jornal de Santo Tirso - Lugar da Vilalva
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-21T10:34:23.075Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:54:34.396Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-08-22T08:54:34.396Z'}]
+
+TRF-00017 --> PRI 41.338526 -8.552054 Trofa R. Costa Ferreira 25
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-08-21T15:39:09.535Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-08-21T15:39:09.535Z'}]
+
+VIS-00102 --> KLS 40.692536 -7.929758 Viseu Estrada Nacional n.º 16 - Lugar de Pascoal 
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-20T14:17:02.314Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-20T14:17:02.314Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-20T14:17:02.314Z'}]
+
+VIS-00107 --> MOT 40.6955316 -7.9103310 Viseu Igreja de Moure de Madalena, Estrada Naci. 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-08-22T08:51:36.266Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-08-22T08:51:36.266Z'}]
+Removidos:['MOBI-MTS-00059', 'MOBI-MTS-00060', 'MOBI-MTS-00061', 'MOBI-MTS-00062', 'MOBI-MTS-00063', 'MOBI-MTS-00064', 'MOBI-MTS-00065', 'MOBI-MTS-00066', 'MTS-00117']
+ALB-00019
+: 
+ NEW address : N1-IC2 Km245,5 - Cavada Nova
+ OLD address : N1-IC2 Km245,5 – Cavada Nova
+LLE-00194
+: 
+ NEW address : Urbanização 'Al-Sakia'Fonte Santa, lote LEE 2
+ OLD address : Urbanização ‘Al-Sakia’Fonte Santa, lote LEE 2
+LRA-00126
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 380
+LRA-00126
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LRA-00126
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MGD-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+MGD-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VFL-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VFL-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+VNF-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+VNF-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
