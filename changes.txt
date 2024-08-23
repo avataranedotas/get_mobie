@@ -22890,3 +22890,35 @@ VNF-00040
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2024-08-23 11:36:09
+Adicionados:['AGD-00012', 'CBR-00112', 'OBR-00008']
+
+AGD-00012 --> KLS 40.57765 -8.450683 Águeda Travessa 1, n.º 35, 3750-130 Águeda
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-08-23T09:00:50.311Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-08-23T09:00:50.311Z', 'max_amperage': 125, 'max_electric_power': 50000}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-23T09:03:01.054Z'}]
+
+CBR-00112 --> IBD 40.206306 -8.401444 Coimbra Rua Infanta Dona Maria
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-22T15:09:52.633Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-22T15:09:52.633Z'}]
+
+OBR-00008 --> KLS 40.522181 -8.503400 Oliveira do Bairro   Nó Oliveira do Bairro Norte da E.N. 235
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-23T09:42:12.120Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-23T09:42:12.120Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-23T09:42:12.120Z'}]
+Removidos:[]
+LRA-00126
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LRA-00126
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+VMS-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VMS-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
