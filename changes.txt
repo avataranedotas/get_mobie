@@ -22986,3 +22986,68 @@ OHP-00019 --> FCT 40.35837 -7.8579002 Oliveira do Hospital R. Ameal 12
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-08-26T13:03:56.361Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-08-26T13:03:56.361Z'}]
 Removidos:[]
+
+2024-08-27 20:09:48
+Adicionados:['BNV-00012', 'FAR-00062', 'LOU-00007', 'OLH-00045', 'PRD-00024']
+
+BNV-00012 --> EDP 38.922080 -8.882840 Benavente Av. das Nações Unidas, 9998VE
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-27T16:05:44.762Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T16:05:44.762Z'}]
+
+FAR-00062 --> HRZ 37.0119125 -7.9311836 Faro Largo de São Francisco, Faro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T14:21:38.475Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 140000, 'last_updated': '2024-08-27T14:21:38.475Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-27T14:21:38.475Z'}]
+
+LOU-00007 --> KLS 41.271067 -8.284650 Lousada Rua António Gomes Ribeiro, 123
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-27T10:24:59.979Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T10:24:59.979Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T10:24:59.979Z'}]
+
+OLH-00045 --> LUZ 37.02963 -7.82817 Olhão Zona Industrial Lote 204/9
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-08-27T15:31:07.746Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 22000, 'last_updated': '2024-08-27T15:31:07.746Z'}]
+
+PRD-00024 --> KLS 41.199044 -8.333242 Paredes Rua Dona Maria Sotto Mayor Meneses,
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-27T08:43:48.413Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T08:43:48.413Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-27T08:43:48.413Z'}]
+Removidos:['SNT-00140']
+AGD-00018
+coordinates: 
+ NEW latitude : 40.5280955
+ OLD latitude : 40.5282780
+AGD-00018
+coordinates: 
+ NEW longitude : -8.4486913
+ OLD longitude : -8.4486340
+AGD-00018
+: 
+ NEW coordinates : {'latitude': '40.5280955', 'longitude': '-8.4486913'}
+ OLD coordinates : {'latitude': '40.5282780', 'longitude': '-8.4486340'}
+CTB-00027
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+CTB-00027
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 180000
+ OLD max_electric_power : 100000
+OHP-00019
+coordinates: 
+ NEW latitude : 40.3583954
+ OLD latitude : 40.35837
+OHP-00019
+coordinates: 
+ NEW longitude : -7.8579275
+ OLD longitude : -7.8579002
+OHP-00019
+: 
+ NEW coordinates : {'latitude': '40.3583954', 'longitude': '-7.8579275'}
+ OLD coordinates : {'latitude': '40.35837', 'longitude': '-7.8579002'}
+VLR-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VLR-00002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
