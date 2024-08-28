@@ -23051,3 +23051,13 @@ VLR-00002
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2024-08-28 18:01:53
+Adicionados:['SNT-00140']
+
+SNT-00140 --> EDP 38.750671 -9.305353 Sintra Estrada de Sao Marcos 9857
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-08-28T14:35:21.000Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-28T14:35:21.000Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-28T14:40:14.000Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-28T14:40:14.000Z'}]
+Removidos:[]
