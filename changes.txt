@@ -23061,3 +23061,32 @@ SNT-00140 --> EDP 38.750671 -9.305353 Sintra Estrada de Sao Marcos 9857
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-28T14:40:14.000Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-28T14:40:14.000Z'}]
 Removidos:[]
+
+2024-08-29 14:00:14
+Adicionados:['GRD-00018', 'MFR-00037', 'MGR-00016']
+
+GRD-00018 --> REP 40.610646 -6.830446 Guarda Rua do Comércio 5-1
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-08-29T09:48:50.553Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-08-29T09:48:50.553Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-08-29T09:48:50.553Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MFR-00037 --> EDP 38.965367 -9.409188 Mafra N116 78,
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-29T10:01:58.005Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-29T10:01:58.005Z'}]
+
+MGR-00016 --> EDP 39.7471507 -8.9334322 Marinha Grande Av. Vitor Gallo 1
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-08-29T11:51:00.083Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-08-29T11:51:00.083Z'}]
+Removidos:[]
+AMT-00027
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 250
+FAR-00062
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+SNS-00009
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
