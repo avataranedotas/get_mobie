@@ -23090,3 +23090,39 @@ SNS-00009
 evses -> 2 -> connectors -> 0: 
  NEW max_amperage : 125
  OLD max_amperage : 63
+
+2024-08-30 10:40:22
+Adicionados:['BJA-00057', 'GDM-00048', 'LRS-00124', 'MFR-00038']
+
+BJA-00057 --> FCT 38.0098376 -7.8749775 Beja Rua António Sardinha
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-08-29T14:05:09.506Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-08-29T14:05:09.506Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-08-29T14:05:09.506Z'}]
+
+GDM-00048 --> HLX 41.185578 -8.558999 Gondomar Rua Bazar nº332
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:19:09.624Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-19T14:19:09.624Z'}]
+
+LRS-00124 --> HRZ 38.8368773 -9.1667684 Loures Rua do Funchal Farinheiras, Urbanização Quint
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-29T15:07:11.121Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-08-29T15:07:11.121Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-29T15:07:11.121Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-08-29T15:07:11.121Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-08-29T15:07:11.121Z'}]
+
+MFR-00038 --> EDP 38.932799 -9.329856 Mafra R. Alm. Gago Coutinho n. 7,
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-08-29T15:07:24.202Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-08-29T15:07:24.202Z'}]
+Removidos:[]
+OER-00096
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+OER-00096
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 125
+OER-00096
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 50000
