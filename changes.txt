@@ -23126,3 +23126,83 @@ OER-00096
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 100000
  OLD max_electric_power : 50000
+
+2024-08-30 17:48:53
+Adicionados:['CHV-00024', 'MTJ-00045', 'MTJ-00046', 'MTJ-00049', 'MTJ-00059', 'MTJ-00079', 'PTM-00060', 'PTM-00063', 'SXL-00059']
+
+CHV-00024 --> ATL 41.782670 -7.438280 Chaves Estrada das Antas, Nº s/n Outeiro Seco
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 100, 'max_electric_power': 40000, 'last_updated': '2024-08-30T12:01:09.000Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 100, 'max_electric_power': 40000, 'last_updated': '2024-08-30T12:01:10.000Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T12:01:11.000Z'}]
+
+MTJ-00045 --> TRK 38.706313 -8.9748286 Montijo Praça da República, 59
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T14:09:26.774Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T14:09:26.774Z'}]
+
+MTJ-00046 --> TRK 38.708458 -8.9869600 Montijo Av. Infante Dom Henrique, 726
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T14:59:46.177Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T14:59:46.177Z'}]
+
+MTJ-00049 --> TRK 38.711963 -8.9840000 Montijo Praceta do Minho, 9999
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T15:09:05.606Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T15:09:05.606Z'}]
+
+MTJ-00059 --> TRK 38.7161031 -8.9671784 Montijo Rua Dom Nuno Álvares Pereira, 30
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T13:52:52.056Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T13:52:52.056Z'}]
+
+MTJ-00079 --> TRK 38.708195 -8.9536535 Montijo Rua Aquilino Ribeiro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T15:20:04.755Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T15:20:04.755Z'}]
+
+PTM-00060 --> EDP 37.1203143 -8.5443489 Portimão AV. DAS COMUNIDADES LUSÍADAS
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T13:32:50.987Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T13:32:50.987Z'}]
+
+PTM-00063 --> EDP 37.1203143 -8.5443489 Portimão AV. DAS COMUNIDADES LUSÍADAS
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 11, 'max_electric_power': 7400, 'last_updated': '2024-08-30T13:53:47.195Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 11, 'max_electric_power': 7400, 'last_updated': '2024-08-30T13:53:47.195Z'}]
+
+SXL-00059 --> HRZ 38.6328125 -9.1449493 Seixal R. Bento Gonçalves 47
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-08-30T13:43:56.401Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-08-30T12:59:11.862Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-08-30T12:59:11.862Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-08-30T12:59:11.862Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-08-30T12:59:11.862Z'}]
+Removidos:[]
+ARC-00006
+coordinates: 
+ NEW longitude : -8.251011
+ OLD longitude : -8.2510113
+ARC-00006
+: 
+ NEW coordinates : {'latitude': '40.925538', 'longitude': '-8.251011'}
+ OLD coordinates : {'latitude': '40.925538', 'longitude': '-8.2510113'}
+ARC-00006
+evses -> 0: 
+ NEW evse_id : PT*ATL*EARC*00006*1
+ OLD evse_id : PT*ATL*E*ARC*00006*01
+ARC-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ARC-00006
+evses -> 1: 
+ NEW evse_id : PT*ATL*EARC*00006*2
+ OLD evse_id : PT*ATL*E*ARC*00006*02
+ARC-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+ARC-00006
+evses -> 2: 
+ NEW evse_id : PT*ATL*EARC*00006*3
+ OLD evse_id : PT*ATL*E*ARC*00006*03
+ARC-00006
+evses -> 2 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+ARC-00006
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
