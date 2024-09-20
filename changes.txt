@@ -23988,3 +23988,199 @@ VNF-00025
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 60000
  OLD max_electric_power : 120000
+
+2024-09-20 12:05:46
+Adicionados:['CBR-00113', 'CBR-00114', 'CBR-00115', 'CBR-00116', 'CTB-00040', 'FNC-00050', 'FNC-00051', 'FNC-00055', 'FNC-00057', 'FNC-00059', 'FNC-00060', 'FNC-00061', 'FNC-00062', 'LMG-00016', 'MGL-00010', 'MTJ-00053', 'MTJ-00054', 'MTJ-00058', 'MTJ-00064', 'MTJ-00068', 'MTJ-00069', 'MTJ-00071', 'MTJ-00073', 'MTJ-00077', 'MTJ-00082', 'OBR-00009', 'OFR-00007', 'OVR-00023', 'TND-00010', 'TNV-00022']
+
+CBR-00113 --> ATL 40.235330 -8.416700 Coimbra Avenida José Rua Sousa Fernandes
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-18T14:55:04.821Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-09-18T14:55:04.821Z'}]
+
+CBR-00114 --> ATL 40.235330 -8.416610 Coimbra Avenida José Rua Sousa Fernandes
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2024-09-18T15:15:57.703Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 30000, 'last_updated': '2024-09-18T15:15:57.703Z'}]
+
+CBR-00115 --> ATL 40.235330 -8.416510 Coimbra Avenida José Rua Sousa Fernandes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T18:03:02.000Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T18:03:03.000Z'}]
+
+CBR-00116 --> ATL 40.235330 -8.416480 Coimbra Avenida José Rua Sousa Fernandes
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T17:53:01.489Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T17:53:01.489Z'}]
+
+CTB-00040 --> KLS 39.820881 -7.486308 Castelo Branco Rua Camilo Castelo Branco nº18
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T13:55:10.969Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:41:50.723Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:41:50.723Z'}]
+
+FNC-00050 --> ECI 32.65637 -16.94318 Funchal Caminho do Poço Barral 28, 9020-148 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:14:12.971Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:14:12.971Z'}]
+
+FNC-00051 --> ECI 32.65939 -16.94055 Funchal Pico dos Barcelos, 9020-148
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:47:31.086Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:47:31.086Z'}]
+
+FNC-00055 --> ECI 32.64394 -16.92142 Funchal Av. do Infante 62C, 9000-015 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T10:03:02.542Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T10:03:02.542Z'}]
+
+FNC-00057 --> ECI 32.65313 -16.91123 Funchal Rua 5 de Outubro 91B, 9000-079 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T13:43:57.207Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T13:43:57.207Z'}]
+
+FNC-00059 --> ECI 32.64923 -16.88286 Funchal R. Nova da Igreja 32, 9060-053 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T14:40:00.556Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T14:40:00.556Z'}]
+
+FNC-00060 --> ECI 32.64758 -16.91610 Funchal Av. Calouste Gulbenkian 9, 9000-044 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T11:12:23.493Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T11:12:23.493Z'}]
+
+FNC-00061 --> FAC 32.655458 -16.914231 Funchal Rua Nova da Quinta Deão, nº64
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:42:21.720Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:42:21.720Z'}]
+
+FNC-00062 --> FAC 32.649956 -16.915425 Funchal Rua das Cruzes nº1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:30:24.433Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:30:24.433Z'}]
+
+LMG-00016 --> GLP 41.099363 -7.807246 Lamego R. INFANTARIA 9 LAMEGO	5100-147
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-09-19T14:47:39.236Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-09-19T14:47:39.236Z'}]
+
+MGL-00010 --> KLS 40.608972 -7.762319 Mangualde Avenida dos Combatentes da Grande Guerra, 1
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T11:28:12.350Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:40:01.560Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:40:01.560Z'}]
+
+MTJ-00053 --> TRK 38.707474 -8.981136 Montijo Praça Vitorino Nemésio, 14
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:40:29.292Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:40:29.292Z'}]
+
+MTJ-00054 --> TRK 38.7115195 -8.9771090 Montijo Rua Joaquim Serra, 161
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:52:13.477Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:52:13.477Z'}]
+
+MTJ-00058 --> TRK 38.704972 -8.95157 Montijo Rua Fontes Pereira de Melo, 197
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:06:26.643Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:06:26.643Z'}]
+
+MTJ-00064 --> TRK 38.706542 -8.9494262 Montijo Rua Frei Luís de Sousa, 9999
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:36:33.921Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:36:33.921Z'}]
+
+MTJ-00068 --> TRK 38.707358 -8.9862600 Montijo Praceta Cidade de Bragança	
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:31:57.115Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:31:57.115Z'}]
+
+MTJ-00069 --> TRK 38.7059416 -8.980359 Montijo Rua José Ladislau de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:44:48.919Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:44:48.919Z'}]
+
+MTJ-00071 --> TRK 38.7007798 -8.9573918 Montijo Rua Cristóvão Colombo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:58:21.063Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:58:21.063Z'}]
+
+MTJ-00073 --> TRK 38.714271 -8.963760 Montijo Rua Miguel Torga
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:03:25.952Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:03:25.952Z'}]
+
+MTJ-00077 --> TRK 38.7039457 -8.9494851 Montijo Rua Dom Sancho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:26:36.229Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:26:36.229Z'}]
+
+MTJ-00082 --> TRK 38.710432 -8.9595262 Montijo Av. Amália Rodrigues
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:42:28.345Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:42:28.345Z'}]
+
+OBR-00009 --> EDP 40.5223245 -8.5042986 Oliveira do Bairro N 235, Estrada Nacional 1
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T08:55:13.069Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T08:55:13.069Z'}]
+
+OFR-00007 --> TRK 40.739183 -8.1726710 Oliveira de Frades Rua D. Afonso Henriques, 9999
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:53:00.151Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T15:53:00.151Z'}]
+
+OVR-00023 --> EDP 40.8821362 -8.6220923 Ovar Zona Industrial, Av. 16 de Maio 8
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T12:59:40.718Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-19T12:59:40.718Z'}]
+
+TND-00010 --> KLS 40.505767 -8.080397 Tondela Rua Maestro Joaquim Ribeiro Azevedo, 199
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-19T13:35:43.524Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:41:02.050Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-09-19T18:41:02.050Z'}]
+
+TNV-00022 --> PRI 39.4763062 -8.5658539 Torres Novas  EN 3,  Torres Novas
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-09-19T11:07:20.101Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-09-19T11:07:20.101Z'}]
+Removidos:[]
+CTB-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+CTB-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+CTB-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+CTB-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+LRA-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LRA-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+LRA-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LRA-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+LRA-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LRA-00094
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+LRA-00094
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+LRA-00094
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+MCN-00012
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+MCN-00012
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+PST-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PST-00003
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
+PST-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PST-00004
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 22000
