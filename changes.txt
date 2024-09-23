@@ -24184,3 +24184,44 @@ PST-00004
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 7400
  OLD max_electric_power : 22000
+
+2024-09-23 21:55:48
+Adicionados:['ARV-00018', 'FNC-00049', 'FNC-00052', 'LLE-00201', 'SNT-00149', 'SNT-00152', 'STR-00040', 'VNF-00048']
+
+ARV-00018 --> GLP 38.980645 -9.080626 Arruda dos Vinhos Rua Luís Camões
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-09-23T14:08:21.464Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-09-23T14:08:21.464Z'}]
+
+FNC-00049 --> ECI 32.63620 -16.94239 Funchal Rua Nova do Vale da Ajuda
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-23T15:30:15.518Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-23T15:30:15.518Z'}]
+
+FNC-00052 --> ECI 32.63624 -16.93235 Funchal R. do Gorgulho 11, 9000-107 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-20T13:57:56.531Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-20T13:57:56.531Z'}]
+
+LLE-00201 --> GLP 37.102752 -8.133107 Loulé LOTEAMENTO MONTE LAGUNA S/N
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-23T14:01:36.822Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-09-23T14:01:36.822Z'}]
+
+SNT-00149 --> GLP 38.781886 -9.349009 Sintra ESTRADA DE MEM MARTINS S/N ALGUEIRAO-MEM MART
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-09-23T13:50:18.360Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-09-23T13:50:18.360Z'}]
+
+SNT-00152 --> KLS 38.783194 -9.336583 Sintra Rua São Francisco Xavier
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-17T09:55:32.997Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-17T09:55:32.997Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-17T09:55:32.997Z'}]
+
+STR-00040 --> EDP 39.244076 -8.691400 Santarém Burger King Santarém,R. Prof. Pinto Correia 3
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-09-23T14:00:04.505Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-09-23T14:00:04.505Z'}]
+
+VNF-00048 --> ATL 41.438710 -8.412850 Vila Nova de Famalicão Rua de Leognan 243
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-23T10:10:39.660Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-09-23T10:10:39.660Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-23T10:10:39.660Z'}]
+Removidos:['SBR-00002', 'SBR-00003']
+MTJ-00063
+: 
+ NEW address : Rua Regina Quintanilha, 12
+ OLD address : Rua Regina Quintanilh, 12
