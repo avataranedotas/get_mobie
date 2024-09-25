@@ -24445,3 +24445,51 @@ STS-00023
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-09-25 19:20:02
+Adicionados:['CPV-00002', 'EPS-00026', 'FNC-00063', 'FNC-00064', 'LMG-00014', 'VCD-00046', 'VFX-00067', 'VFX-00068', 'VFX-00077', 'VFX-00078', 'VFX-00079']
+
+CPV-00002 --> KLS 41.038281 -8.261994 Castelo de Paiva Variante á EN 222
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T12:55:59.822Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T12:55:59.822Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T12:55:59.822Z'}]
+
+EPS-00026 --> KLS 41.501667 -8.759722 Esposende E.N. 13 - Lugar de Areia - Fonte Boa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T08:03:46.949Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T08:03:46.949Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T08:03:46.949Z'}]
+
+FNC-00063 --> ECI 32.65033 -16.90822 Funchal Praca do Município, 9004-512 Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T14:21:42.998Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T14:21:42.998Z'}]
+
+FNC-00064 --> ECI 32.66208 -16.92060 Funchal Rua Mestre Sidónio nº 28, Funchal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T16:03:29.489Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T16:03:29.489Z'}]
+
+LMG-00014 --> KLS 41.081139 -7.799092 Lamego Lugar de Calvilhe
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T15:44:50.851Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T15:44:50.851Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T15:44:50.851Z'}]
+
+VCD-00046 --> KLS 41.368006 -8.749539 Vila do Conde Rua 5 de Outubro-Avenida das Portas Fronhas
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-25T09:36:36.984Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T09:36:36.984Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-09-25T09:36:36.984Z'}]
+
+VFX-00067 --> GLP 38.955026 -8.997993 Vila Franca de Xira Rua Eça de Queirós
+[{'standard': 'CHADEMO', 'format': 'SOCKET', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-25T09:08:53.158Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 126, 'max_electric_power': 120000, 'last_updated': '2024-09-25T09:08:53.158Z'}]
+
+VFX-00068 --> GLP 38.873902 -9.056810 Vila Franca de Xira Largo Forte da Casa
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-17T13:56:09.254Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 94, 'max_electric_power': 90000, 'last_updated': '2024-09-17T13:56:09.254Z'}]
+
+VFX-00077 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10,  Alverca do Riba
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-09-25T09:07:54.189Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-09-25T09:21:29.448Z'}]
+
+VFX-00078 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10, Alverca do Ribatejo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:27:30.668Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:27:30.668Z'}]
+
+VFX-00079 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10, Alverca do Ribatejo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
+Removidos:[]
