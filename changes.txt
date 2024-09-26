@@ -24493,3 +24493,19 @@ VFX-00079 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10, A
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
 Removidos:[]
+
+2024-09-26 18:53:14
+Adicionados:['ALT-00007', 'OHP-00021', 'SNT-00147']
+
+ALT-00007 --> GLP 39.189630 -7.656211 Alter do Chão Zona Industrial Tapada do Lago - Lote L9A
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 225, 'max_electric_power': 90000, 'last_updated': '2024-09-26T10:59:21.531Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 225, 'max_electric_power': 90000, 'last_updated': '2024-09-26T10:59:21.531Z'}]
+
+OHP-00021 --> PRI 40.3616785 -7.8608590 Oliveira do Hospital Av. Dr. Carlos Campos 3, Oliveira do Hospital
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 60000, 'last_updated': '2024-09-26T09:33:58.470Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 60000, 'last_updated': '2024-09-26T09:33:58.470Z'}]
+
+SNT-00147 --> EDP 38.8442103 -9.3208013 Sintra RUA DA CAPELA NOSSA SENHORA DA CONC 5
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-26T12:59:33.435Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-26T12:59:33.435Z'}]
+Removidos:[]
