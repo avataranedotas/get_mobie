@@ -24509,3 +24509,116 @@ SNT-00147 --> EDP 38.8442103 -9.3208013 Sintra RUA DA CAPELA NOSSA SENHORA DA CO
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-26T12:59:33.435Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-26T12:59:33.435Z'}]
 Removidos:[]
+
+2024-09-27 15:49:29
+Adicionados:['ASL-00018', 'BJA-00059', 'CNF-00003', 'EPS-00037', 'FCR-00002', 'MAI-00053', 'MTJ-00047', 'MTJ-00050', 'MTJ-00075', 'MTJ-00096', 'MTS-00170', 'PST-00008', 'PST-00009', 'PST-00010', 'PST-00011', 'PST-00012', 'PST-00013', 'PST-00014', 'PST-00015', 'PST-00016', 'PTL-00019', 'VIS-00108', 'VIS-00109', 'VIS-00110', 'VIS-00111', 'VNF-00050']
+
+ASL-00018 --> EDP 38.380278 -8.512222 Alcácer do Sal Rua Olival da Capela 234
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-27T09:22:59.125Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-27T14:05:55.563Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:22:59.125Z'}]
+
+BJA-00059 --> FCT 38.010448 -7.8643302 Beja Rua Ramalho Ortigão
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-09-27T09:43:52.640Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-09-27T09:43:52.640Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-09-27T09:43:52.640Z'}]
+
+CNF-00003 --> HGP 41.08885 -8.08403 Cinfães RUA QUINTA DA SOALHEIRA
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-09-27T10:16:03.627Z'}]
+
+EPS-00037 --> GLP 41.558683 -8.734740 Esposende Rua da Igreja, 4740-183 Curvos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-17T14:56:46.566Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-17T14:56:46.566Z'}]
+
+FCR-00002 --> EDP 40.8842288 -6.9653717 Figueira de Castelo Rodrigo VALE BARROSO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T13:32:51.758Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T13:32:51.758Z'}]
+
+MAI-00053 --> EDP 41.141332 -8.483111 Maia Entroncamento da Rua Júlio Dinis 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:21:00.335Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:21:00.335Z'}]
+
+MTJ-00047 --> TRK 38.707147 -8.9877230 Montijo Rua Cidade de Coimbra, 139
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:23:06.712Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:23:06.712Z'}]
+
+MTJ-00050 --> TRK 38.7125926 -8.9815318 Montijo Rua do Ribatejo, 114
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:35:56.219Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T14:35:56.219Z'}]
+
+MTJ-00075 --> TRK 38.712598 -8.969086 Montijo Av. Maestro Jorge Peixinho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:21:26.379Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:21:26.379Z'}]
+
+MTJ-00096 --> TRK 38.708522 -8.976438 Montijo Av. 25 de Abril
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:57:30.065Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-18T15:57:30.065Z'}]
+
+MTS-00170 --> EDP 41.1877976 -8.597406 Matosinhos Axis Porto, R. Maria Feliciana 100
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-27T09:56:48.577Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-27T09:56:48.577Z'}]
+
+PST-00008 --> EMA 33.0585245 -16.3369623 Porto Santo Rua Manuel Gregório Pestana
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T14:03:37.671Z'}]
+
+PST-00009 --> EMA 33.0585245 -16.3369623 Porto Santo Rua Manuel Gregório Pestana
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T14:01:52.435Z'}]
+
+PST-00010 --> EMA 33.0571581 -16.3390678 Porto Santo Estrada Regional nº111
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T13:46:01.437Z'}]
+
+PST-00011 --> EMA 33.0571581 -16.3390678 Porto Santo Estrada Regional nº111
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T13:44:28.136Z'}]
+
+PST-00012 --> EMA 33.0540497 -16.341374 Porto Santo Pé na Água - Porto Santo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T13:40:05.067Z'}]
+
+PST-00013 --> EMA 33.0540497 -16.341374 Porto Santo Pé na Água
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T15:10:08.679Z'}]
+
+PST-00014 --> EMA 33.0540737 -16.3426931 Porto Santo Pé na Água - Porto Santo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T13:35:01.989Z'}]
+
+PST-00015 --> EMA 33.0540737 -16.3426931 Porto Santo Pé na Água - Porto Santo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T13:36:45.831Z'}]
+
+PST-00016 --> EMA 33.0516705 -16.3705542 Porto Santo Sítio das Marinhas
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-17T10:56:27.369Z'}]
+
+PTL-00019 --> EDP 41.761358 -8.588931 Ponte de Lima Rua Agostinho José Taveira 661 
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-27T09:21:41.424Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-27T14:06:26.421Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:21:41.424Z'}]
+
+VIS-00108 --> EDP 40.670442 -7.918664 Viseu Rua 21 de Agosto, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T13:10:37.297Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T13:10:37.297Z'}]
+
+VIS-00109 --> EDP 40.67044 -7.918664 Viseu Rua 21 de Agosto, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 2200, 'last_updated': '2024-09-27T13:06:06.111Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T13:06:06.111Z'}]
+
+VIS-00110 --> EDP 40.665755 -7.91317 Viseu Rua do Hospital, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 2200, 'last_updated': '2024-09-27T14:29:33.640Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T14:29:33.640Z'}]
+
+VIS-00111 --> EDP 40.665755 -7.913171 Viseu Rua do Hospital, SN
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T14:27:25.179Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T14:27:25.179Z'}]
+
+VNF-00050 --> EDP 41.432917 -8.416056 Vila Nova de Famalicão Av. Padre Silva Rego
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T14:52:50.393Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T14:52:50.393Z'}]
+Removidos:['ASL-00012', 'PTL-00017', 'VFX-00077', 'VFX-00078', 'VFX-00079']
+ACH-90006
+coordinates: 
+ NEW latitude : 38.754553
+ OLD latitude : 38.755972
+ACH-90006
+coordinates: 
+ NEW longitude : -8.964003
+ OLD longitude : -8.9599999
+ACH-90006
+: 
+ NEW coordinates : {'latitude': '38.754553', 'longitude': '-8.964003'}
+ OLD coordinates : {'latitude': '38.755972', 'longitude': '-8.9599999'}
