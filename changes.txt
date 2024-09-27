@@ -24622,3 +24622,37 @@ ACH-90006
 : 
  NEW coordinates : {'latitude': '38.754553', 'longitude': '-8.964003'}
  OLD coordinates : {'latitude': '38.755972', 'longitude': '-8.9599999'}
+
+2024-09-27 18:17:41
+ALT-00007
+coordinates: 
+ NEW latitude : 39.189592
+ OLD latitude : 39.189630
+ALT-00007
+coordinates: 
+ NEW longitude : -7.655618
+ OLD longitude : -7.656211
+ALT-00007
+: 
+ NEW coordinates : {'latitude': '39.189592', 'longitude': '-7.655618'}
+ OLD coordinates : {'latitude': '39.189630', 'longitude': '-7.656211'}
+VCD-00020
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+VCD-00020
+evses -> 0 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VCD-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 920
+ OLD max_voltage : 276
+VCD-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 60
+ OLD max_amperage : 32
+VCD-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 24000
+ OLD max_electric_power : 7400
