@@ -24656,3 +24656,119 @@ VCD-00020
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 24000
  OLD max_electric_power : 7400
+
+2024-09-30 19:12:24
+Adicionados:['ACB-00026', 'BJA-00058', 'CSC-00190', 'FAF-00013', 'FND-00022', 'LLE-00221', 'LNH-00017', 'LRA-00128', 'MCN-00015', 'MLD-00020', 'MLD-00023', 'MTS-00173', 'OER-00234', 'OER-00236', 'PNI-00018', 'PNI-00019', 'PRD-00028', 'VVD-00017']
+
+ACB-00026 --> EDP 39.544444 -8.969139 Alcobaça Av. Assoc. Alcobacense de Farmingville 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:04:53.063Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 32, 'max_amperage': 400, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:04:53.063Z'}]
+
+BJA-00058 --> EDP 38.004278 -7.865361 Beja Av. Fialho de Almeida
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:11:59.303Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:11:59.303Z'}]
+
+CSC-00190 --> EDP 38.737083 -9.383528 Cascais Estrada de Manique
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:25:59.297Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:25:59.297Z'}]
+
+FAF-00013 --> EDP 41.447639 -8.170778 Fafe Rua Monsenhor Vieira de Castro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:23:42.389Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:23:42.389Z'}]
+
+FND-00022 --> EDP 40.15675 -7.49725 Fundão E.N.18, R. Cidade da Covilhã
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T14:58:44.669Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T14:58:44.669Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:58:44.669Z'}]
+
+LLE-00221 --> EDP 37.136944 -8.009222 Loulé Rua Afonso de Albuquerque, EN 270. 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:16:53.657Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:16:53.657Z'}]
+
+LNH-00017 --> EDP 39.219806 -9.310528 Lourinhã Avenida de Angola 40
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:21:18.087Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:21:18.087Z'}]
+
+LRA-00128 --> EDP 39.758361 -8.791342 Leiria R. da Escola 309
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:10:07.300Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:10:07.300Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:10:07.300Z'}]
+
+MCN-00015 --> EDP 41.177167 -8.150694 Marco de Canaveses Avenida Futebol Clube do Porto
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:30:19.728Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:30:19.728Z'}]
+
+MLD-00020 --> ECI 40.380000 -8.452417 Mealhada Praça do Choupal
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:38:20.312Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-09-30T16:23:30.313Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T16:23:30.313Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-09-30T16:23:30.313Z'}]
+
+MLD-00023 --> ECI 40.3381824 -8.4276960 Mealhada Rua Mário Silva Henriques
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T16:26:52.573Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-09-30T16:26:52.573Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T16:26:52.573Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-09-30T16:26:52.573Z'}]
+
+MTS-00173 --> EDP 41.194861 -8.660778 Matosinhos Av. Dr. Salgado Zenha 371
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:04:16.531Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:04:16.531Z'}]
+
+OER-00234 --> EDP 38.7363401 -9.3022374 Oeiras Av. Prof. Dr. Aníbal Cavaco Silva
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-30T14:44:37.699Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-30T14:44:37.699Z'}]
+
+OER-00236 --> EDP 38.7363401 -9.3022374 Oeiras Av. Prof. Dr. Aníbal Cavaco Silva
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-30T14:37:43.673Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-30T14:37:43.673Z'}]
+
+PNI-00018 --> GLP 39.3556634 -9.3571392 Peniche Rua do Salgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:07:51.012Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:07:51.012Z'}]
+
+PNI-00019 --> GLP 39.3556634 -9.3571392 Peniche Rua do Salgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:13:37.466Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T14:13:37.466Z'}]
+
+PRD-00028 --> EDP 41.207796 -8.327753 Paredes Circular Rodoviária Interna Paredes, nº 512
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+
+VVD-00017 --> EDP 41.6542140 -8.4316417 Vila Verde Avenida Dr. Bernardo Brito Ferreira 304
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T09:56:09.521Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T09:56:09.521Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T09:56:09.521Z'}]
+Removidos:['ACB-00018', 'CSC-00171', 'FAF-00006', 'FND-00015', 'LLE-00151', 'LRA-00124', 'MCN-00008', 'MTS-00133', 'PRD-00023']
+CBR-00110
+coordinates: 
+ NEW latitude : 40.197693
+ OLD latitude : 40.197694
+CBR-00110
+coordinates: 
+ NEW longitude : -8.433082
+ OLD longitude : -8.433083
+CBR-00110
+: 
+ NEW coordinates : {'latitude': '40.197693', 'longitude': '-8.433082'}
+ OLD coordinates : {'latitude': '40.197694', 'longitude': '-8.433083'}
+CBR-00111
+coordinates: 
+ NEW latitude : 40.197695
+ OLD latitude : 40.197694
+CBR-00111
+coordinates: 
+ NEW longitude : -8.433086
+ OLD longitude : -8.433083
+CBR-00111
+: 
+ NEW coordinates : {'latitude': '40.197695', 'longitude': '-8.433086'}
+ OLD coordinates : {'latitude': '40.197694', 'longitude': '-8.433083'}
+CBR-00111
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+CBR-00111
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
