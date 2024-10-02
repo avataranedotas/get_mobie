@@ -24772,3 +24772,94 @@ CBR-00111
 evses -> 1 -> connectors -> 0: 
  NEW format : SOCKET
  OLD format : CABLE
+
+2024-10-02 14:24:25
+Adicionados:['CDR-00002', 'GDM-00046', 'LRS-00131', 'PSR-00011', 'SEI-00015', 'SNT-00157', 'VFR-00089']
+
+CDR-00002 --> EDP 40.8968632 -7.9286071 Castro Daire AVENIDA 25 DE ABRIL N. 5
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-02T13:19:08.858Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-02T13:19:08.858Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-02T13:19:08.858Z'}]
+
+GDM-00046 --> KLS 41.153783 -8.516492 Gondomar Estrada de Dom Miguel, lote 3
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-01T12:01:04.201Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-01T12:01:04.201Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-01T12:01:04.201Z'}]
+
+LRS-00131 --> EDP 38.794528 -9.104111 Loures R. Estado da Índia pav 9
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T19:57:06.091Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T19:57:06.091Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T19:57:06.091Z'}]
+
+PSR-00011 --> KLS 39.258147 -8.016239 Ponte de Sôr Rua de Angola
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-02T11:16:41.629Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-02T11:16:41.629Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-02T11:16:41.629Z'}]
+
+SEI-00015 --> EDP 40.420689 -7.706978 Seia Avenida Dr. Afonso Costa 
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T16:07:23.527Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T16:07:23.527Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T16:07:23.527Z'}]
+
+SNT-00157 --> EDP 38.839556 -9.372444 Sintra Av. 29 de Agosto e Av. da Aviação Portuguesa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T20:04:57.672Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T20:04:57.672Z'}]
+
+VFR-00089 --> EDP 40.9316131 -8.5245117 Santa Maria da Feira R. do Areal 345, 4520-512
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-01T14:39:23.495Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-01T14:39:23.495Z'}]
+Removidos:['LRS-00097', 'OER-00223', 'OHP-00003', 'SNT-00118']
+CBR-00087
+coordinates: 
+ NEW latitude : 40.227301
+ OLD latitude : 40.2275335
+CBR-00087
+coordinates: 
+ NEW longitude : -8.438700
+ OLD longitude : -8.4404412
+CBR-00087
+: 
+ NEW coordinates : {'latitude': '40.227301', 'longitude': '-8.438700'}
+ OLD coordinates : {'latitude': '40.2275335', 'longitude': '-8.4404412'}
+ILH-00009
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
+ILH-00009
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 60000
+MAI-00042
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+MAI-00042
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 0
+MAI-00042
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 0
+MAI-00042
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 0
+MDR-00004
+coordinates: 
+ NEW latitude : 41.38825
+ OLD latitude : 41.434960
+MDR-00004
+coordinates: 
+ NEW longitude : -6.349035
+ OLD longitude : -6.348498
+MDR-00004
+: 
+ NEW coordinates : {'latitude': '41.38825', 'longitude': '-6.349035'}
+ OLD coordinates : {'latitude': '41.434960', 'longitude': '-6.348498'}
+OVR-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+OVR-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 22000
