@@ -24863,3 +24863,69 @@ OVR-00019
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 50000
  OLD max_electric_power : 22000
+
+2024-10-03 19:34:43
+Adicionados:['ALB-00030', 'ARV-00017', 'EVR-00051', 'MGR-00018', 'MGR-00019', 'OER-00232', 'OER-00233', 'STR-00056', 'SXL-00060', 'SXL-00062', 'VFX-00080', 'VNG-00177']
+
+ALB-00030 --> GLP 40.620829 -8.508360 Albergaria-a-Velha RUA MAJOR GERALDO 3850-360
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T14:02:30.350Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T14:02:30.350Z'}]
+
+ARV-00017 --> GLP 38.998271 -9.08295 Arruda dos Vinhos RUA ORDEM DE SANTIAGO
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-03T13:57:06.731Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-03T13:57:06.731Z'}]
+
+EVR-00051 --> EDP 38.5510893 -7.9114254 Évora Rua da Barba Rala, Pite
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-03T13:05:39.972Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-03T13:05:39.972Z'}]
+
+MGR-00018 --> REP 39.7349308 -8.9323514 Marinha Grande EN242 KM13,7-ROTUNDA ZONA DESPORTIV, 2430-000
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-03T08:38:14.193Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-03T08:38:14.193Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T08:38:14.193Z'}]
+
+MGR-00019 --> REP 39.7348874 -8.9323131 Marinha Grande EN242 KM13,7-ROTUNDA ZONA DESPORTIV, 2430-000
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T08:38:32.635Z'}]
+
+OER-00232 --> HRZ 38.7048710 -9.3017925 Oeiras Av. António Bernardo Cabral de Macedo 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:28:04.557Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:28:04.557Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:28:04.557Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:28:04.557Z'}]
+
+OER-00233 --> HRZ 38.7048710 -9.3017925 Oeiras Av. António Bernardo Cabral de Macedo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:30:53.896Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-02T15:30:53.896Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:30:53.896Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-10-02T15:30:53.896Z'}]
+
+STR-00056 --> EDP 39.2410086 -8.7014191 Santarém Rua De Angola, Santarém
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-03T10:02:35.011Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-03T10:02:35.011Z'}]
+
+SXL-00060 --> GLP 38.602857 -9.060898 Seixal Av. Aureliano Mira Fernandes, Seixal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-10-03T15:47:00.746Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-10-03T15:47:00.747Z'}]
+
+SXL-00062 --> GLP 38.602857 -9.060898 Seixal Av. Aureliano Mira Fernandes, Seixal
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-10-03T15:42:32.161Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-10-03T15:42:32.161Z'}]
+
+VFX-00080 --> EDP 38.9779115 -8.9768038 Vila Franca de Xira Estrada Nacional 1 KM 2, Quinta das Areias
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-02T14:40:29.679Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-02T14:40:29.679Z'}]
+
+VNG-00177 --> IBD 41.092278 -8.595194 Vila Nova de Gaia Rua da Rechousa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T10:28:01.447Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-03T10:28:01.447Z'}]
+Removidos:[]
+VFL-00002
+coordinates: 
+ NEW latitude : 41.308743
+ OLD latitude : 41.3072083
+VFL-00002
+coordinates: 
+ NEW longitude : -7.153633
+ OLD longitude : -7.1539275
+VFL-00002
+: 
+ NEW coordinates : {'latitude': '41.308743', 'longitude': '-7.153633'}
+ OLD coordinates : {'latitude': '41.3072083', 'longitude': '-7.1539275'}
