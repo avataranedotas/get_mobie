@@ -25076,3 +25076,271 @@ CBR-00111
 : 
  NEW coordinates : {'latitude': '40.19771', 'longitude': '-8.43301'}
  OLD coordinates : {'latitude': '40.197695', 'longitude': '-8.433086'}
+
+2024-10-08 19:18:30
+Adicionados:['ALM-00087', 'CCH-00006', 'GDL-00044', 'GDM-00050', 'OAZ-00012', 'PFR-00016', 'PNF-00045', 'PTM-00067', 'SNT-00161', 'VIS-00112']
+
+ALM-00087 --> EGR 38.633083 -9.1790104 Almada Rua Leite de Faria 4 Charneca da Caparica
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22, 'last_updated': '2024-10-08T14:06:05.387Z'}]
+
+CCH-00006 --> HLX 38.965283 -8.535102 Coruche Rua do Açude da Agolada 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-10-08T10:41:19.829Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-10-08T10:41:19.829Z'}]
+
+GDL-00044 --> EDP 38.1890076 -8.5656571 Grândola R. Bartolomeu Vaz Frayão
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-10-07T13:18:27.653Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-10-07T13:18:27.653Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-07T13:18:27.653Z'}]
+
+GDM-00050 --> IBD 41.0692383 -8.4022181 Gondomar Avenida José Joaquim Ferreira 3666
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T10:10:24.978Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T10:10:24.978Z'}]
+
+OAZ-00012 --> GLP 40.838166 -8.479888 Oliveira de Azeméis R. Luís de Camões 44, 3720 PT Oliveira de Aze
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-07T16:17:38.475Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-07T16:17:38.475Z'}]
+
+PFR-00016 --> KLS 41.279736 -8.375858 Paços de Ferreira Avenida Doutor Jaime Barros
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T08:50:01.725Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-08T08:50:01.725Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-08T08:50:01.725Z'}]
+
+PNF-00045 --> IBD 41.1676317 -8.3494779 Penafiel Avenida Egas Moniz, 1801
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T14:23:03.443Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T14:23:03.443Z'}]
+
+PTM-00067 --> EDP 37.1451011 -8.5551802 Portimão Pedra Mourinha, R. da Pedra 3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-08T09:53:46.849Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-08T09:53:46.849Z'}]
+
+SNT-00161 --> IBD 38.7844790 -9.3386770 Sintra Rua das Vagens
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T13:22:17.199Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T13:22:17.199Z'}]
+
+VIS-00112 --> EDP 40.6740033 -7.9140846 Viseu Rua Seixo, R. do Salgueiro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T08:19:45.447Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-08T08:19:45.447Z'}]
+Removidos:['CNT-00023', 'CNT-00024']
+AFE-00002
+: 
+ NEW city : Alf¢ndega da FÃ©
+ OLD city : Alfândega da Fé
+AFE-00002
+: 
+ NEW address : PraÃ§a do Municipio, S/N - EN 215
+ OLD address : Praça do Municipio, S/N - EN 215
+AFE-90001
+: 
+ NEW address : Avenida EngÂº. Manuel Cunha
+ OLD address : Avenida Engº. Manuel Cunha
+AFE-90001
+: 
+ NEW city : AlfÃ¢ndega da FÃ©
+ OLD city : Alfândega da Fé
+AGD-00005
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00007
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00008
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00009
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00012
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00012
+: 
+ NEW address : Travessa 1, n.Âº 35, 3750-130 Ãgueda
+ OLD address : Travessa 1, n.º 35, 3750-130 Águeda
+AGD-00013
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00014
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00014
+: 
+ NEW address : PraÃ§a Conde de Ãgueda, S/N
+ OLD address : Praça Conde de Águeda, S/N
+AGD-00015
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00016
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00017
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-00018
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGD-90001
+: 
+ NEW city : Ãgueda
+ OLD city : Águeda
+AGH-00001
+: 
+ NEW address : Rua de SÃ£o Pedro, Circular Externa
+ OLD address : Rua de São Pedro, Circular Externa
+AGH-00001
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00002
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00003
+: 
+ NEW address : Circular de  Angra do HeroÃ­smo
+ OLD address : Circular de  Angra do Heroísmo
+AGH-00003
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00004
+: 
+ NEW address : SÃ© de Angra do HeroÃ­smo
+ OLD address : Sé de Angra do Heroísmo
+AGH-00004
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00005
+: 
+ NEW address : Avenida Infante Dom Henrique nÂº 1241
+ OLD address : Avenida Infante Dom Henrique nº 1241
+AGH-00005
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00006
+: 
+ NEW address : CERRADO DO BAILÃO (PARQUE DE ESTACIONAMENTO)
+ OLD address : CERRADO DO BAILÃO (PARQUE DE ESTACIONAMENTO)
+AGH-00006
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00007
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00008
+: 
+ NEW address : RUA DOUTOR LUÃS RIBEIRO
+ OLD address : RUA DOUTOR LUÍS RIBEIRO
+AGH-00008
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00010
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00010
+: 
+ NEW address : Rua do MarquÃªs
+ OLD address : Rua do Marquês
+AGH-00011
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00012
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00013
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGH-00014
+: 
+ NEW city : Angra do HeroÃ­smo
+ OLD city : Angra do Heroísmo
+AGN-00003
+: 
+ NEW address : RUA OLIVENÃA NÂº 20
+ OLD address : RUA OLIVENÇA Nº 20
+AGN-00004
+: 
+ NEW address : Rua Comendador SaÃ½l BrandÃ½o
+ OLD address : Rua Comendador Saýl Brandýo
+AGN-90001
+: 
+ NEW address : Avenida IrmÃ£os Duarte
+ OLD address : Avenida Irmãos Duarte
+AJT-90004
+: 
+ NEW address : Rua Catarina EufÃ©mia
+ OLD address : Rua Catarina Eufémia
+BCL-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+BCL-00031
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+CBR-00114
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+CBR-00114
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 30000
+CPV-00002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+CPV-00002
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LMG-00014
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LMG-00014
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+OAZ-00010
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+OAZ-00010
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SJM-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SJM-00020
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SNT-00152
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SNT-00152
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
