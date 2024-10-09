@@ -25344,3 +25344,203 @@ SNT-00152
 evses -> 1 -> connectors -> 1: 
  NEW max_electric_power : 49000
  OLD max_electric_power : 50000
+
+2024-10-09 18:10:01
+Adicionados:['CLD-00036', 'CNT-00023', 'CNT-00024', 'LLE-00193', 'STB-00092', 'VNG-00170']
+
+CLD-00036 --> EDP 39.4114934 -9.1426524 Caldas da Rainha RUA INFANTE D. HENRIQUE, CASAL DA EIRA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-09T10:28:57.107Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-09T10:28:57.107Z'}]
+
+CNT-00023 --> EDP 40.33179 -8.49385 Cantanhede AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:30:33.884Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:30:33.884Z'}]
+
+CNT-00024 --> EDP 40.33179 -8.49385 Cantanhede AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:29:31.979Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:29:31.979Z'}]
+
+LLE-00193 --> PRI 37.137751 -7.998705 Loulé Rua Leonel Neves, 21
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-10-09T11:55:12.471Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 450, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-10-09T11:55:12.471Z'}]
+
+STB-00092 --> EDP 38.5395364 -8.8699764 Setúbal Av Mestre Lima de Freitas, Cruz do Peixe,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-09T13:05:25.691Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-09T13:05:25.691Z'}]
+
+VNG-00170 --> KLS 41.108667 -8.593000 Vila Nova de Gaia   Rua São Bartolomeu
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-09T08:43:39.586Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-09T08:43:39.586Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-09T08:43:39.586Z'}]
+Removidos:['CCH-00006', 'CNT-00025', 'CNT-00026']
+AFE-00002
+: 
+ NEW city : Alfândega da Fé
+ OLD city : Alf¢ndega da FÃ©
+AFE-00002
+: 
+ NEW address : Praça do Municipio, S/N - EN 215
+ OLD address : PraÃ§a do Municipio, S/N - EN 215
+AFE-90001
+: 
+ NEW address : Avenida Engº. Manuel Cunha
+ OLD address : Avenida EngÂº. Manuel Cunha
+AFE-90001
+: 
+ NEW city : Alfândega da Fé
+ OLD city : AlfÃ¢ndega da FÃ©
+AGD-00005
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00007
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00008
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00009
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00012
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00012
+: 
+ NEW address : Travessa 1, n.º 35, 3750-130 Águeda
+ OLD address : Travessa 1, n.Âº 35, 3750-130 Ãgueda
+AGD-00013
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00014
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00014
+: 
+ NEW address : Praça Conde de Águeda, S/N
+ OLD address : PraÃ§a Conde de Ãgueda, S/N
+AGD-00015
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00016
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00017
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-00018
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGD-90001
+: 
+ NEW city : Águeda
+ OLD city : Ãgueda
+AGH-00001
+: 
+ NEW address : Rua de São Pedro, Circular Externa
+ OLD address : Rua de SÃ£o Pedro, Circular Externa
+AGH-00001
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00002
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00003
+: 
+ NEW address : Circular de  Angra do Heroísmo
+ OLD address : Circular de  Angra do HeroÃ­smo
+AGH-00003
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00004
+: 
+ NEW address : Sé de Angra do Heroísmo
+ OLD address : SÃ© de Angra do HeroÃ­smo
+AGH-00004
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00005
+: 
+ NEW address : Avenida Infante Dom Henrique nº 1241
+ OLD address : Avenida Infante Dom Henrique nÂº 1241
+AGH-00005
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00006
+: 
+ NEW address : CERRADO DO BAILÃO (PARQUE DE ESTACIONAMENTO)
+ OLD address : CERRADO DO BAILÃO (PARQUE DE ESTACIONAMENTO)
+AGH-00006
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00007
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00008
+: 
+ NEW address : RUA DOUTOR LUÍS RIBEIRO
+ OLD address : RUA DOUTOR LUÃS RIBEIRO
+AGH-00008
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00010
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00010
+: 
+ NEW address : Rua do Marquês
+ OLD address : Rua do MarquÃªs
+AGH-00011
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00012
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00013
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGH-00014
+: 
+ NEW city : Angra do Heroísmo
+ OLD city : Angra do HeroÃ­smo
+AGN-00003
+: 
+ NEW address : RUA OLIVENÇA Nº 20
+ OLD address : RUA OLIVENÃA NÂº 20
+AGN-00004
+: 
+ NEW address : Rua Comendador Saýl Brandýo
+ OLD address : Rua Comendador SaÃ½l BrandÃ½o
+AGN-90001
+: 
+ NEW address : Avenida Irmãos Duarte
+ OLD address : Avenida IrmÃ£os Duarte
+AJT-90004
+: 
+ NEW address : Rua Catarina Eufémia
+ OLD address : Rua Catarina EufÃ©mia
+MTJ-00080
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 220000
