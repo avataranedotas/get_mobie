@@ -25544,3 +25544,822 @@ MTJ-00080
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 220000
+
+2024-10-10 17:59:49
+Adicionados:['CBR-00118', 'LSB-00684', 'LSB-00685', 'LSB-00686', 'STR-00046']
+
+CBR-00118 --> EDP 40.2376493 -8.4382680 Coimbra Rua do Alto da Relvinha
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-10T10:05:17.446Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-10T10:05:17.446Z'}]
+
+LSB-00684 --> TRK 38.774230 -9.096580 Lisboa Avenida do Atlântico nº 7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:34:45.339Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:34:45.339Z'}]
+
+LSB-00685 --> TRK 38.774230 -9.096580 Lisboa Avenida do Atlântico nº 7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:16:00.028Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:16:00.028Z'}]
+
+LSB-00686 --> TRK 38.774230 -9.096580 Lisboa Avenida do Atlântico nº 7
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:10:07.899Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-10T14:10:07.899Z'}]
+
+STR-00046 --> HLX 39.2569063 -8.7137787 Santarém R. Dr. António Passos Canavarro lote 12
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 11000, 'last_updated': '2024-07-23T09:39:01.994Z'}]
+Removidos:[]
+OER-00175
+: 
+ NEW address : Largo Conde das Alcá§ovas 3,
+ OLD address : Largo Conde das Alcáçovas 3,
+OER-00181
+: 
+ NEW address : Av. Santa Casa da MisericÃ³rdia
+ OLD address : Av. Santa Casa da Misericórdia
+OER-00183
+: 
+ NEW address : Av. Santa Casa da MisericÃ³rdia
+ OLD address : Av. Santa Casa da Misericórdia
+OER-00189
+: 
+ NEW address : Rua AntÃ³nio Feliciano Castilho, Lt 26, Lj 5
+ OLD address : Rua António Feliciano Castilho, Lt 26, Lj 5
+OER-00195
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00200
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00201
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00202
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00204
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00205
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00207
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00208
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00211
+: 
+ NEW address : Rua dos MalhÃ½es, Edificio Q53
+ OLD address : Rua dos Malhýes, Edificio Q53
+OER-00215
+: 
+ NEW address : Estrada de PaÃ½o de Arcos
+ OLD address : Estrada de Paýo de Arcos
+OER-00219
+: 
+ NEW address : Avenida Engenheiro Ãlvaro Roquette Estrada
+ OLD address : Avenida Engenheiro Álvaro Roquette Estrada
+OER-00221
+: 
+ NEW address : Rua JosÃ© Malhoa 27
+ OLD address : Rua José Malhoa 27
+OER-00222
+: 
+ NEW address : Estrada de SÃ£o Marcos nÂº4
+ OLD address : Estrada de São Marcos nº4
+OER-00232
+: 
+ NEW address : Av. AntÃ³nio Bernardo Cabral de Macedo 
+ OLD address : Av. António Bernardo Cabral de Macedo 
+OER-00233
+: 
+ NEW address : Av. AntÃ³nio Bernardo Cabral de Macedo
+ OLD address : Av. António Bernardo Cabral de Macedo
+OER-00234
+: 
+ NEW address : Av. Prof. Dr. AnÃ­bal Cavaco Silva
+ OLD address : Av. Prof. Dr. Aníbal Cavaco Silva
+OER-00236
+: 
+ NEW address : Av. Prof. Dr. AnÃ­bal Cavaco Silva
+ OLD address : Av. Prof. Dr. Aníbal Cavaco Silva
+OER-90013
+: 
+ NEW address : Largo MarquÃªs Pombal
+ OLD address : Largo Marquês Pombal
+OHP-00009
+: 
+ NEW address : R. MisericÃ³rdia 60
+ OLD address : R. Misericórdia 60
+OHP-00011
+: 
+ NEW address : R. AntÃ³nio Dias 3400-160
+ OLD address : R. António Dias 3400-160
+OHP-00016
+: 
+ NEW address : R. ANTÃNIO MENDES MONTEIRO, QUINTA DA COMENDA
+ OLD address : R. ANTÓNIO MENDES MONTEIRO, QUINTA DA COMENDA
+OLH-00004
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00008
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00008
+: 
+ NEW address : R. JoÃ£o Viana Cabrita
+ OLD address : R. João Viana Cabrita
+OLH-00009
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00009
+: 
+ NEW address : R. JosÃ© DamÃ¡sio dos Santos
+ OLD address : R. José Damásio dos Santos
+OLH-00010
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00010
+: 
+ NEW address : Av dos Bombeiros Municipais de OlhÃ£o, 6/8
+ OLD address : Av dos Bombeiros Municipais de Olhão, 6/8
+OLH-00011
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00011
+: 
+ NEW address : Av. D. JoÃ£o VI , 157 - N125
+ OLD address : Av. D. João VI , 157 - N125
+OLH-00012
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00013
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00013
+: 
+ NEW address : Avenida D. JoÃ£o VI, Lote 199 - N125
+ OLD address : Avenida D. João VI, Lote 199 - N125
+OLH-00014
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00016
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00016
+: 
+ NEW address : Av. da RepÃºblica, 14
+ OLD address : Av. da República, 14
+OLH-00017
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00018
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00019
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00019
+: 
+ NEW address : Rua JoÃ£o Augusto Saias, 10
+ OLD address : Rua João Augusto Saias, 10
+OLH-00020
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00020
+: 
+ NEW address : Rua PatrÃ£o Joaquim Casaca, 37
+ OLD address : Rua Patrão Joaquim Casaca, 37
+OLH-00021
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00021
+: 
+ NEW address : Rua de OlivenÃ§a, 3 
+ OLD address : Rua de Olivença, 3 
+OLH-00022
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00023
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00024
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00025
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00025
+: 
+ NEW address : Rua Doutor JosÃ© Afonso, 15
+ OLD address : Rua Doutor José Afonso, 15
+OLH-00026
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00026
+: 
+ NEW address : Rua do JosÃ© Botelho, 8 - Lote 15
+ OLD address : Rua do José Botelho, 8 - Lote 15
+OLH-00027
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00030
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00031
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00031
+: 
+ NEW address : Rua DÃ¢maso da EncarnaÃ§Ã£o
+ OLD address : Rua Dâmaso da Encarnação
+OLH-00034
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00035
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00036
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00038
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00039
+: 
+ NEW address : EN 125, UrbanizaÃ§Ã£o Patinha, Peares, NÂº1,
+ OLD address : EN 125, Urbanização Patinha, Peares, Nº1,
+OLH-00039
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00040
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00045
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-90001
+: 
+ NEW address : Avenida D. JoÃ£o VI
+ OLD address : Avenida D. João VI
+OLH-90001
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-90002
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLR-00001
+: 
+ NEW address : PraÃ§a do MunicÃ­pio
+ OLD address : Praça do Município
+ORM-00002
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00003
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00004
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00005
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00006
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00009
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00009
+: 
+ NEW address : Av. de Dom JosÃ© Alves Correia da Silva 279
+ OLD address : Av. de Dom José Alves Correia da Silva 279
+ORM-00011
+: 
+ NEW address : Av. de Dom JosÃ© Alves Correia da Silva
+ OLD address : Av. de Dom José Alves Correia da Silva
+ORM-00011
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00012
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00012
+: 
+ NEW address : Hotel FÃ¡tima - RUA JoÃ£o Paulo II 241
+ OLD address : Hotel Fátima - RUA João Paulo II 241
+ORM-00013
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00014
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00014
+: 
+ NEW address : Rua SÃ£o JoÃ£o de Eudes, NÂº S/N
+ OLD address : Rua São João de Eudes, Nº S/N
+ORM-00015
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00015
+: 
+ NEW address : Rua MÃ©lvin Jones, NÂº S/N
+ OLD address : Rua Mélvin Jones, Nº S/N
+ORM-00017
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00018
+: 
+ NEW address : Av. IrmÃ£ LÃºcia de Jesus 356,
+ OLD address : Av. Irmã Lúcia de Jesus 356,
+ORM-00018
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00019
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00020
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00021
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00022
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-90001
+: 
+ NEW address : Rua AntÃ³nio LeitÃ£o
+ OLD address : Rua António Leitão
+ORM-90001
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORQ-00002
+: 
+ NEW address : Rua Padre AntÃ³nio Pereira
+ OLD address : Rua Padre António Pereira
+OVR-00003
+: 
+ NEW address : Av. 29 de MarÃ§o
+ OLD address : Av. 29 de Março
+OVR-00009
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00010
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00011
+: 
+ NEW address : R. FamÃ­lia Colares Pinto 1695
+ OLD address : R. Família Colares Pinto 1695
+OVR-00012
+: 
+ NEW address : R. FamÃ­lia Colares Pinto 1695
+ OLD address : R. Família Colares Pinto 1695
+OVR-00015
+: 
+ NEW address : Rua Machado de Santos nÂº109/135
+ OLD address : Rua Machado de Santos nº109/135
+OVR-00018
+: 
+ NEW address : Lavouras de S. JoÃ£o, R. Monsenhor Miguel de O
+ OLD address : Lavouras de S. João, R. Monsenhor Miguel de O
+OVR-00021
+: 
+ NEW address : Rua De SÃ£o JoÃ£o, 470
+ OLD address : Rua De São João, 470
+OVR-00022
+: 
+ NEW address : Av. 29 de MarÃ§o 654 Esmoriz
+ OLD address : Av. 29 de Março 654 Esmoriz
+PBL-00015
+: 
+ NEW address : Rua 31 de Agosto, nÂº 7
+ OLD address : Rua 31 de Agosto, nº 7
+PBL-00017
+: 
+ NEW address : R. do ComÃ©rcio nÂº5
+ OLD address : R. do Comércio nº5
+PBL-90003
+: 
+ NEW address : Avenida HerÃ³is do Ultramar
+ OLD address : Avenida Heróis do Ultramar
+PCR-80001
+: 
+ NEW address : R. dos HerÃ³is do Ultramar
+ OLD address : R. dos Heróis do Ultramar
+PCT-00003
+: 
+ NEW address : Hotel Parador Casa da Ãnsua
+ OLD address : Hotel Parador Casa da Ínsua
+PCT-00004
+: 
+ NEW address : Hotel Parador Casa da Ãnsua
+ OLD address : Hotel Parador Casa da Ínsua
+PCT-00005
+: 
+ NEW address : Hotel Parador Casa da Ãnsua
+ OLD address : Hotel Parador Casa da Ínsua
+PCT-00006
+: 
+ NEW address : Hotel Parador Casa da Ãnsua
+ OLD address : Hotel Parador Casa da Ínsua
+PCV-00005
+: 
+ NEW address : Zona Industrial da Espinheira, nÃ³ do IP3
+ OLD address : Zona Industrial da Espinheira, nó do IP3
+PCV-00006
+: 
+ NEW address : Zona Industrial da Espinheira, nÃ³ do IP3
+ OLD address : Zona Industrial da Espinheira, nó do IP3
+PDL-00003
+: 
+ NEW address : Rua de SÃ£o Joaquim
+ OLD address : Rua de São Joaquim
+PDL-00005
+: 
+ NEW address : Rua Eng.Âº Deodato de MagalhÃ£es
+ OLD address : Rua Eng.º Deodato de Magalhães
+PDL-00009
+: 
+ NEW address : Parque AtlÃ¢ntico - Rua da Juventude
+ OLD address : Parque Atlântico - Rua da Juventude
+PDL-00010
+: 
+ NEW address : Parque AtlÃ¢ntico - Rua da Juventude
+ OLD address : Parque Atlântico - Rua da Juventude
+PDL-00012
+: 
+ NEW address : Rua de SÃ£o GonÃ§alo
+ OLD address : Rua de São Gonçalo
+PDL-00013
+: 
+ NEW address : Rua AntÃ³nio Resendes Tavares, 9
+ OLD address : Rua António Resendes Tavares, 9
+PFR-00002
+: 
+ NEW address : Rua AntÃ³nio Matos
+ OLD address : Rua António Matos
+PFR-00002
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00003
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00004
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00005
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00007
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00009
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00010
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00011
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00011
+: 
+ NEW address : BK PaÃ§os de Ferreira, R. Dom Afonso III
+ OLD address : BK Paços de Ferreira, R. Dom Afonso III
+PFR-00012
+: 
+ NEW address : Rua Dr. QueirÃ³s Ribeiro 34
+ OLD address : Rua Dr. Queirós Ribeiro 34
+PFR-00012
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00013
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00014
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-00016
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PFR-80001
+: 
+ NEW address : Rua Dom JosÃ© de Lencastre
+ OLD address : Rua Dom José de Lencastre
+PFR-80001
+: 
+ NEW city : PaÃ§os de Ferreira
+ OLD city : Paços de Ferreira
+PGR-80001
+: 
+ NEW address : Av. Miguel LeitÃ£o de Andrada
+ OLD address : Av. Miguel Leitão de Andrada
+PGR-80001
+: 
+ NEW city : PedrÃ³gÃ£o Grande
+ OLD city : Pedrógão Grande
+PLM-00011
+: 
+ NEW address : Avenida AntÃ³nio Velge, E.N. 252 - Km 15.460
+ OLD address : Avenida António Velge, E.N. 252 - Km 15.460
+PLM-00014
+: 
+ NEW address : PraÃ§a IndependÃªncia-Mercado Mun. Pinhal Novo
+ OLD address : Praça Independência-Mercado Mun. Pinhal Novo
+PLM-00016
+: 
+ NEW address : Ãrea de ServiÃ§o A2 - KM 31,2 (Norte/Sul)
+ OLD address : Área de Serviço A2 - KM 31,2 (Norte/Sul)
+PLM-00018
+: 
+ NEW address : Ãrea de ServiÃ§o A2 - KM 31,2 (Sul/Norte)
+ OLD address : Área de Serviço A2 - KM 31,2 (Sul/Norte)
+PLM-00030
+: 
+ NEW address : IntermarchÃ© Palmela
+ OLD address : Intermarché Palmela
+PLM-00031
+: 
+ NEW address : Rua de SÃ£o JuliÃ£o
+ OLD address : Rua de São Julião
+PLM-00032
+: 
+ NEW address : Rua de SÃ£o JuliÃ£o
+ OLD address : Rua de São Julião
+PLM-00033
+: 
+ NEW address : Vila AmÃ½lia, Lugar Quinta da Torre
+ OLD address : Vila Amýlia, Lugar Quinta da Torre
+PMS-00003
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00006
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00007
+: 
+ NEW address : McDonalds Porto de MÃ³s - IC2 Km 107
+ OLD address : McDonalds Porto de Mós - IC2 Km 107
+PMS-00007
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00008
+: 
+ NEW address : IC2 km 107,4 ChÃ£o da Feira
+ OLD address : IC2 km 107,4 Chão da Feira
+PMS-00008
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00009
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00009
+: 
+ NEW address : Rua Carreiro da Lebre NÂº8
+ OLD address : Rua Carreiro da Lebre Nº8
+PMS-00010
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00011
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00011
+: 
+ NEW address : AV. D. NUNO ÃVARES PREREIRA, N.120
+ OLD address : AV. D. NUNO ÁVARES PREREIRA, N.120
+PMS-00012
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-00012
+: 
+ NEW address : Avenida de SÃ£o Pedro 5 2480-303 Corredoura
+ OLD address : Avenida de São Pedro 5 2480-303 Corredoura
+PMS-00013
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMS-90001
+: 
+ NEW city : Porto de MÃ³s
+ OLD city : Porto de Mós
+PMZ-00004
+: 
+ NEW address : PraÃ§a do Lyra
+ OLD address : Praça do Lyra
+PMZ-00006
+: 
+ NEW address : Caminho do TelefÃ©rico das Achadas da Cruz
+ OLD address : Caminho do Teleférico das Achadas da Cruz
+PNC-00002
+: 
+ NEW address : PÃ£o de AÃ§ucar Penamacor, En Norte 233
+ OLD address : Pão de Açucar Penamacor, En Norte 233
+PND-00002
+: 
+ NEW address : Rua Cabo, NÂº 17
+ OLD address : Rua Cabo, Nº 17
+PNF-00007
+: 
+ NEW address : Avenida Dr. Francisco SÃ¡ Carneiro Cruce
+ OLD address : Avenida Dr. Francisco Sá Carneiro Cruce
+PNF-00008
+: 
+ NEW address : Avenida Dr. Francisco SÃ¡ Carneiro Cruce
+ OLD address : Avenida Dr. Francisco Sá Carneiro Cruce
+PNF-00011
+: 
+ NEW address : Ãrea de ServiÃ§o de Penafiel, A4, km 47,6
+ OLD address : Área de Serviço de Penafiel, A4, km 47,6
+PNF-00012
+: 
+ NEW address : Ãrea de ServiÃ§o de Penafiel, A4, km 47,6
+ OLD address : Área de Serviço de Penafiel, A4, km 47,6
+PNF-00014
+: 
+ NEW address : Ãrea de ServiÃ§o de Penafiel, A4, km 47,6
+ OLD address : Área de Serviço de Penafiel, A4, km 47,6
+PNF-00015
+: 
+ NEW address : Ãrea de ServiÃ§o de Penafiel, A4, km 47,6
+ OLD address : Área de Serviço de Penafiel, A4, km 47,6
+PNF-00017
+: 
+ NEW address : LUGAR DO TAPADINHO NÂº1 LJ
+ OLD address : LUGAR DO TAPADINHO Nº1 LJ
+PNF-00019
+: 
+ NEW address : Quinta do Sardoal - Zona Industrial nÂº 2
+ OLD address : Quinta do Sardoal - Zona Industrial nº 2
+PNF-00020
+: 
+ NEW address : RUA FONTE DA CRUZ, NÂº24B
+ OLD address : RUA FONTE DA CRUZ, Nº24B
+PNF-00034
+: 
+ NEW address : Rua Central de RibaÃ§ais
+ OLD address : Rua Central de Ribaçais
+PNF-00035
+: 
+ NEW address : Quinta do Sardoal - Zona Industrial nÂº 2
+ OLD address : Quinta do Sardoal - Zona Industrial nº 2
+PNF-00039
+: 
+ NEW address : Avenida Egas Moniz, n.Âº 255 Lugar da Ribeira 
+ OLD address : Avenida Egas Moniz, n.º 255 Lugar da Ribeira 
+PNF-00040
+: 
+ NEW address : Rua provÃ­ncia de Pontevedra , s/n
+ OLD address : Rua província de Pontevedra , s/n
+PNF-00041
+: 
+ NEW address : Rua provÃ­ncia de Pontevedra , s/n
+ OLD address : Rua província de Pontevedra , s/n
+PNI-00001
+: 
+ NEW address : SantuÃ¡rio de Nossa Senhora dos RemÃ©dios
+ OLD address : Santuário de Nossa Senhora dos Remédios
+PNI-00013
+: 
+ NEW address : Rua Azeredo PerdigÃ£o
+ OLD address : Rua Azeredo Perdigão
+PNL-90001
+: 
+ NEW address : Avenida Bombeiros VoluntÃ¡rios de Penela
+ OLD address : Avenida Bombeiros Voluntários de Penela
+PNV-00002
+: 
+ NEW address : Lugar SÃ£o Bartolomeu
+ OLD address : Lugar São Bartolomeu
+PNV-00002
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-00003
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-00004
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-00005
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-00006
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-00007
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PNV-90001
+: 
+ NEW city : ProenÃ§a-a-Nova
+ OLD city : Proença-a-Nova
+PPS-00002
+: 
+ NEW address : R. do Bairro SÃ£o Martinho Lote 7 E
+ OLD address : R. do Bairro São Martinho Lote 7 E
+PPS-90001
+: 
+ NEW address : Largo JosÃ© Henriques da Cunha
+ OLD address : Largo José Henriques da Cunha
+PRD-00008
+: 
+ NEW address : Via Rota dos MÃ³veis, 50
+ OLD address : Via Rota dos Móveis, 50
+PRD-00009
+: 
+ NEW address : Av. Dr. Francisco SÃ¡ Carneiro
+ OLD address : Av. Dr. Francisco Sá Carneiro
+PRD-00010
+: 
+ NEW address : Av. dos Bombeiros VoluntÃ¡rios E.N 15
+ OLD address : Av. dos Bombeiros Voluntários E.N 15
+PRD-00013
+: 
+ NEW address : Rua SÃ£o SebastiÃ£o 300
+ OLD address : Rua São Sebastião 300
