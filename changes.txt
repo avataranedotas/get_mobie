@@ -27245,3 +27245,16 @@ PRT-00229
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 230
  OLD max_voltage : 400
+
+2024-10-11 18:21:10
+Adicionados:['LRA-00129', 'VCT-00056']
+
+LRA-00129 --> EDP 39.7207050 -8.8306538 Leiria ESTRADA NACIONAL 1, ALTO DO VIEIRO. AZÓIA, 24
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-11T14:46:14.343Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-11T14:46:14.343Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-11T14:46:14.343Z'}]
+
+VCT-00056 --> EDP 41.7025027 -8.8196131 Viana do Castelo Av. Capitão Gaspar de Castro, 866
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-11T13:49:37.129Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-11T13:49:37.129Z'}]
+Removidos:[]
