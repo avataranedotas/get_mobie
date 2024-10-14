@@ -27258,3 +27258,31 @@ VCT-00056 --> EDP 41.7025027 -8.8196131 Viana do Castelo Av. Capitão Gaspar de 
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-11T13:49:37.129Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-11T13:49:37.129Z'}]
 Removidos:[]
+
+2024-10-14 19:12:51
+Adicionados:['LRA-00119', 'LRA-00120', 'MLD-00018']
+
+LRA-00119 --> EDP 39.7442586 -8.8073646 Leiria Praça Goa Damão e Diu, 2400-171 Leiria
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-14T10:55:20.277Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-14T10:55:20.277Z'}]
+
+LRA-00120 --> EDP 39.7442586 -8.8073646 Leiria Praça Goa Damão e Diu, 2400-171 Leiria
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-14T10:52:28.349Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-14T10:52:28.349Z'}]
+
+MLD-00018 --> PRI 40.3338651 -8.4504441 Mealhada EN1, IC2 km 204 Malaposta
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 60000, 'last_updated': '2024-10-14T13:00:32.513Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-10-14T13:00:32.513Z'}]
+Removidos:[]
+ACH-00020
+coordinates: 
+ NEW latitude : 38.751776
+ OLD latitude : 38.752065
+ACH-00020
+coordinates: 
+ NEW longitude : -8.943016
+ OLD longitude : -8.939838
+ACH-00020
+: 
+ NEW coordinates : {'latitude': '38.751776', 'longitude': '-8.943016'}
+ OLD coordinates : {'latitude': '38.752065', 'longitude': '-8.939838'}
