@@ -27286,3 +27286,75 @@ ACH-00020
 : 
  NEW coordinates : {'latitude': '38.751776', 'longitude': '-8.943016'}
  OLD coordinates : {'latitude': '38.752065', 'longitude': '-8.939838'}
+
+2024-10-17 18:27:29
+Adicionados:['CCH-00003', 'CNT-00023', 'CNT-00024', 'FAR-00064', 'GDM-00051', 'GMR-00136', 'LSB-00837', 'MAI-00058', 'MLD-00021', 'MLD-00022', 'OER-00237', 'PLM-00040', 'SNT-00143', 'VZL-00004', 'VZL-00005']
+
+CCH-00003 --> REP 38.90229 -8.6362445 Coruche E.N. 119 ao km 34,400 (Lado Norte)
+[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2024-10-17T13:24:35.388Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-10-17T13:24:35.388Z', 'max_amperage': 150, 'max_electric_power': 60000}]
+[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-10-17T13:24:35.388Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+CNT-00023 --> EDP 40.33179 -8.49385 Cantanhede AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:30:33.884Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:30:33.884Z'}]
+
+CNT-00024 --> EDP 40.33179 -8.49385 Cantanhede AS BP - Cantanhede/Mealhada, A1, km 204,6 N/S
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:29:31.979Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-07-25T10:29:31.979Z'}]
+
+FAR-00064 --> HRZ 37.0609202 -7.9674160 Faro Estrada Nacional 125. Vale da Venda Faro, 813
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-17T15:18:49.747Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 113, 'max_electric_power': 90000, 'last_updated': '2024-10-17T15:18:49.747Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-17T15:18:49.747Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 113, 'max_electric_power': 90000, 'last_updated': '2024-10-17T15:18:49.747Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 113, 'max_electric_power': 90000, 'last_updated': '2024-10-17T15:18:49.747Z'}]
+
+GDM-00051 --> HLX 41.170658 -8.568603 Gondomar  Estr. da Circunvalação 1518
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-17T08:46:19.856Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-17T08:46:19.856Z'}]
+
+GMR-00136 --> EDP 41.4373014 -8.3101658 Guimarães LUGR S MIGUEL CIMA-CREIX, 9600
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T08:43:32.005Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T08:43:32.005Z'}]
+
+LSB-00837 --> EDP 38.7080377 -9.1392850 Lisboa Praça do Município
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T15:10:57.236Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T15:10:57.236Z'}]
+
+MAI-00058 --> IBD 41.254884 -8.651952 Maia Rua Mestre Clara
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-17T09:21:30.334Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-17T09:21:30.334Z'}]
+
+MLD-00021 --> SLX 40.38999 -8.45104 Mealhada Avenida da Restauração, 17
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-15T15:40:01.856Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-15T15:40:01.856Z'}]
+
+MLD-00022 --> SLX 40.38999 -8.45104 Mealhada Avenida da Restauração, 17
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-15T14:58:42.953Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-15T14:58:42.953Z'}]
+
+OER-00237 --> EDP 38.7214483 -9.2160413 Oeiras R. Q.ta do Paizinho 4,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T10:38:36.715Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T10:38:36.715Z'}]
+
+PLM-00040 --> EDP 38.5771824 -9.0146216 Palmela Av. António Xavier de Lima,  Q.ta do Anjo
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T11:29:58.664Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T11:29:58.664Z'}]
+
+SNT-00143 --> KLS 38.771111 -9.287778 Sintra Rua António Antunes Martins de Oliveira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-17T13:59:54.235Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-17T13:59:54.235Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-17T13:59:54.235Z'}]
+
+VZL-00004 --> EDP 40.6730493 -8.2178997 Vouzela RUA DA IGREJA S/N, CAMPIA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T09:55:15.945Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T09:55:15.945Z'}]
+
+VZL-00005 --> EDP 40.7210184 -8.1153522 Vouzela R. RIBEIRO CARDOSO 47
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T13:02:32.776Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-15T13:02:32.776Z'}]
+Removidos:['MOBI-MLD-00002']
+ABF-00008
+: 
+ NEW address : Vila Galé Cerro Alagoaa
+ OLD address : Vila Galé Cerro Alagoa
