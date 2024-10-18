@@ -27358,3 +27358,183 @@ ABF-00008
 : 
  NEW address : Vila Galé Cerro Alagoaa
  OLD address : Vila Galé Cerro Alagoa
+
+2024-10-18 16:36:59
+Adicionados:['CCH-00006', 'EPS-00028', 'EPS-00035', 'LRS-00122', 'MLG-00005', 'SRN-00004']
+
+CCH-00006 --> HLX 38.965283 -8.535102 Coruche Rua do Açude da Agolada 2
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-10-08T10:41:19.829Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-10-08T10:41:19.829Z'}]
+
+EPS-00028 --> GLP 41.573745 -8.790288 Esposende N13 29, 4740-512 Mar
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-18T14:09:23.938Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-18T14:09:23.938Z'}]
+
+EPS-00035 --> GLP 41.572585 -8.746960 Esposende RUA DO OUTEIRO S/N OUTEIRO 4740-637 VILA CHA 
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-18T13:44:27.497Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-18T13:44:27.497Z'}]
+
+LRS-00122 --> KLS 38.780833 -9.103611 Loures Rua Cidade de Goa Multiusos Oriente, lj.B2.01
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 22000, 'last_updated': '2024-10-18T11:29:17.388Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-18T11:29:17.388Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-18T11:29:17.388Z'}]
+
+MLG-00005 --> HLX 42.1097935 -8.2710743 Melgaço R. da Igreja 570
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-10-18T13:29:40.352Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-10-18T13:29:40.352Z'}]
+
+SRN-00004 --> GLP 40.898623 -7.485915 Sernancelhe Bairro do Sulminheiro, 3640-229 Sernancelhe
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-18T14:18:09.775Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-18T14:18:09.775Z'}]
+Removidos:[]
+BTL-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+BTL-00007
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+EPS-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+EPS-00026
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+FAR-00061
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+FAR-00061
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+FND-00019
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+FND-00019
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+GDM-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+GDM-00046
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LOU-00007
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LOU-00007
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LRS-00121
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+LRS-00121
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MCV-00005
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MCV-00005
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MGR-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MGR-00017
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+NZR-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+NZR-00037
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PFR-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PFR-00016
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PRD-00024
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PRD-00024
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PSR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+PSR-00011
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SCD-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SCD-00006
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SRE-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+SRE-00006
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VCD-00046
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VCD-00046
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VFR-00086
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VFR-00086
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VIS-00102
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VIS-00102
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VNG-00170
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VNG-00170
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
