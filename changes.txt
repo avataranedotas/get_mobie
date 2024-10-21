@@ -27538,3 +27538,72 @@ VNG-00170
 evses -> 1 -> connectors -> 1: 
  NEW max_electric_power : 49000
  OLD max_electric_power : 50000
+
+2024-10-21 19:05:29
+Adicionados:['LLE-00223', 'LSB-00839', 'MAI-00057', 'VCD-00052', 'VFX-00077', 'VFX-00078', 'VFX-00079', 'VIS-00095']
+
+LLE-00223 --> FCT 37.0922000 -8.0267000 Loulé Rua do Vale Formoso
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-21T16:13:17.551Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-10-21T16:13:17.551Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-21T18:42:07.022Z'}]
+
+LSB-00839 --> EDP 38.7420751 -9.1433789 Lisboa Av. João XXI 80, 1000-081 Lisboa
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-07T14:58:35.384Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-07T14:58:35.384Z'}]
+
+MAI-00057 --> EDP 41.2463269 -8.6253461 Maia RUA CMD VALENTIM S DINIS, 999
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-21T14:11:07.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-21T14:11:07.823Z'}]
+
+VCD-00052 --> EDP 41.3700800 -8.7432731 Vila do Conde Junto ao Continente, Av. Gn. Humberto Delgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T15:23:57.878Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T15:23:57.878Z'}]
+
+VFX-00077 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10,  Alverca do Riba
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-09-25T09:07:54.189Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-09-25T09:21:29.448Z'}]
+
+VFX-00078 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10, Alverca do Ribatejo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:27:30.668Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:27:30.668Z'}]
+
+VFX-00079 --> HLX 38.9057626 -9.03378 Vila Franca de Xira Estrada Nacional 10, Alverca do Ribatejo
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-09-25T09:32:21.716Z'}]
+
+VIS-00095 --> ATL 40.656592 -7.908968 Viseu Rua Dom António Alves Martins, 9990
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T17:57:04.067Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T17:57:04.067Z'}]
+Removidos:['MLG-00005']
+PST-00008
+coordinates: 
+ NEW latitude : 33.05842
+ OLD latitude : 33.0585245
+PST-00008
+coordinates: 
+ NEW longitude : -16.336631
+ OLD longitude : -16.3369623
+PST-00008
+: 
+ NEW coordinates : {'latitude': '33.05842', 'longitude': '-16.336631'}
+ OLD coordinates : {'latitude': '33.0585245', 'longitude': '-16.3369623'}
+PST-00014
+coordinates: 
+ NEW latitude : 33.0544085
+ OLD latitude : 33.0540737
+PST-00014
+coordinates: 
+ NEW longitude : -16.3415472
+ OLD longitude : -16.3426931
+PST-00014
+: 
+ NEW coordinates : {'latitude': '33.0544085', 'longitude': '-16.3415472'}
+ OLD coordinates : {'latitude': '33.0540737', 'longitude': '-16.3426931'}
+PST-00015
+coordinates: 
+ NEW longitude : -16.3415472
+ OLD longitude : -16.3426931
+PST-00015
+: 
+ NEW coordinates : {'latitude': '33.0540737', 'longitude': '-16.3415472'}
+ OLD coordinates : {'latitude': '33.0540737', 'longitude': '-16.3426931'}
