@@ -27607,3 +27607,38 @@ PST-00015
 : 
  NEW coordinates : {'latitude': '33.0540737', 'longitude': '-16.3415472'}
  OLD coordinates : {'latitude': '33.0540737', 'longitude': '-16.3426931'}
+
+2024-10-22 16:39:18
+Adicionados:['ABF-00095', 'ACB-00028', 'ACB-00029', 'PBL-00023', 'PBL-00024', 'PBL-00025', 'PLM-00038']
+
+ABF-00095 --> IBD 37.1940729 -8.2225720 Albufeira Estrada do Foral, Cabanita - Paderne
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T13:14:51.134Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T13:14:51.134Z'}]
+
+ACB-00028 --> GLP 39.5488085 -8.975896 Alcobaça Rua Costa Veiga, Alcobaça
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-22T14:27:03.413Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-22T14:27:03.413Z'}]
+
+ACB-00029 --> GLP 39.5488085 -8.975896 Alcobaça Rua Costa Veiga, Alcobaça
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T14:37:47.480Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T14:37:47.480Z'}]
+
+PBL-00023 --> FCT 39.8880980 -8.7584390 Pombal Estrada da Guia 13, lugar de Carnide
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2024-10-22T15:27:50.012Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-10-22T09:03:30.908Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 125000, 'last_updated': '2024-10-22T15:27:50.012Z'}]
+
+PBL-00024 --> FCT 39.9255571 -8.6282094 Pombal Estrada Nacional 1 Km 152
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-22T11:06:29.016Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-10-22T11:06:29.016Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-22T11:06:29.016Z'}]
+
+PBL-00025 --> FCT 39.9255318 -8.6282489 Pombal Estrada Nacional 1 Km 152
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-22T11:10:07.392Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-10-22T11:10:07.392Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-10-22T11:10:07.392Z'}]
+
+PLM-00038 --> EDP 38.575556 -9.023333 Palmela Av. António Xavier de Lima
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T15:45:52.030Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T15:45:52.030Z'}]
+Removidos:['PLM-00033']
