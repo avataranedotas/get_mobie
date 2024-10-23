@@ -27642,3 +27642,53 @@ PLM-00038 --> EDP 38.575556 -9.023333 Palmela Av. António Xavier de Lima
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T15:45:52.030Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T15:45:52.030Z'}]
 Removidos:['PLM-00033']
+
+2024-10-23 15:43:00
+Adicionados:['BCL-00039', 'BRG-00128', 'CSC-00191', 'GMR-00135', 'MAI-00059', 'MLD-00025', 'MTJ-00103']
+
+BCL-00039 --> EDP 41.5207867 -8.6306812 Barcelos Tv. de Mereces 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T15:14:04.944Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T15:14:04.944Z'}]
+
+BRG-00128 --> EDP 41.5406160 -8.3980770 Braga Junto ao Continente e ao AKI, R. de Bretas 4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+
+CSC-00191 --> IBD 38.7005284 -9.4257767 Cascais Avenida 25 de Abril, 528
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T10:10:21.693Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T10:10:21.693Z'}]
+
+GMR-00135 --> IBD 41.4318959 -8.3447827 Guimarães Rua D. Guilherme Augusto, 1163
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-23T09:37:16.121Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-23T09:37:16.121Z'}]
+
+MAI-00059 --> REP 41.2391776 -8.6253116 Maia N14 KM 7, 4470-273 Maia
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-23T11:05:41.518Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-23T11:05:41.518Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T11:21:24.549Z'}]
+
+MLD-00025 --> ECI 40.3855271 -8.3820283 Mealhada Rua Igreja
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T14:23:15.948Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-10-23T14:23:15.948Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T14:23:15.948Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-10-23T14:23:15.948Z'}]
+
+MTJ-00103 --> EDP 38.6888838 -8.9455311 Montijo Estr. DO PAU QUEIMADO E.N 5, Ind, Lavradio
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T13:12:06.011Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T13:12:06.011Z'}]
+Removidos:[]
+ACB-00029
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+ACB-00029
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+ACB-00029
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+ACB-00029
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
