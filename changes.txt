@@ -27692,3 +27692,188 @@ ACB-00029
 evses -> 1 -> connectors -> 0: 
  NEW format : SOCKET
  OLD format : CABLE
+
+2024-10-24 17:33:26
+Adicionados:['AVR-00066', 'AVR-00067', 'BRR-00101', 'MTJ-00072', 'VNG-00180']
+
+AVR-00066 --> EDP 40.6464099 -8.5991464 Aveiro R. MÁRIO DUARTE FILHO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T09:33:59.368Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T09:33:59.368Z'}]
+
+AVR-00067 --> EDP 40.6464099 -8.5991464 Aveiro R. MÁRIO DUARTE FILHO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T09:37:27.782Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T09:37:27.782Z'}]
+
+BRR-00101 --> TRK 38.653378 -9.068892 Barreiro Av. Dom Afonso Henriques 75
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:37:30.944Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-02-27T14:37:30.944Z', 'max_amperage': 63, 'max_electric_power': 22000}]
+
+MTJ-00072 --> TRK 38.7015786 -8.9586910 Montijo Rua Rui de Pina
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T15:08:18.439Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T15:08:18.439Z'}]
+
+VNG-00180 --> ATL 41.110030 -8.631610 Vila Nova de Gaia Rua António Fernando Almeida Pinto Tavares
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-24T12:43:20.156Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-24T12:43:20.156Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-24T12:43:20.156Z'}]
+Removidos:['BCL-00039']
+LGA-00016
+: 
+ NEW address : Urbanizaç£o Rocha Brava - Sitio Alfanzina
+ OLD address : Urbanização Rocha Brava - Sitio Alfanzina
+LGA-00023
+: 
+ NEW address : Rua MarquÃªs de Pombal 51
+ OLD address : Rua Marquês de Pombal 51
+LGA-00026
+: 
+ NEW address : EN 124 1 UrbanizaÃ§Ã£o do Gramital Lote 2
+ OLD address : EN 124 1 Urbanização do Gramital Lote 2
+LGA-00027
+: 
+ NEW address : EN 124 1 UrbanizaÃ§Ã£o do Gramital Lote 2
+ OLD address : EN 124 1 Urbanização do Gramital Lote 2
+LGP-00001
+: 
+ NEW address : Rua CapitÃ£o-Mor Garcia GonÃ§alves Madruga
+ OLD address : Rua Capitão-Mor Garcia Gonçalves Madruga
+LSB-00207
+: 
+ NEW address : Praça Gin¡sio Clube PortuguÃªs
+ OLD address : Praça Ginásio Clube Português
+LSB-00208
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00209
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00210
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00211
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00212
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00213
+: 
+ NEW address : Rua Dom JoÃ£o V
+ OLD address : Rua Dom João V
+LSB-00215
+: 
+ NEW address : Rua 1Âº de Maio
+ OLD address : Rua 1º de Maio
+LSB-00216
+: 
+ NEW address : Hotel Vila GalÃ© Opera
+ OLD address : Hotel Vila Galé Opera
+LSB-00217
+: 
+ NEW address : Hotel Vila GalÃ© Opera
+ OLD address : Hotel Vila Galé Opera
+LSB-00223
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00224
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00225
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00226
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00227
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00228
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00229
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00230
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00231
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00245
+: 
+ NEW address : R. MarquÃªs SÃ¡ da Bandeira
+ OLD address : R. Marquês Sá da Bandeira
+LSB-00246
+: 
+ NEW address : R. MarquÃªs SÃ¡ da Bandeira
+ OLD address : R. Marquês Sá da Bandeira
+LSB-00247
+: 
+ NEW address : R. MarquÃªs SÃ¡ da Bandeira
+ OLD address : R. Marquês Sá da Bandeira
+LSB-00259
+: 
+ NEW address : Rua da AlfÃ¢ndega
+ OLD address : Rua da Alfândega
+LSB-00260
+: 
+ NEW address : Rua da AlfÃ¢ndega
+ OLD address : Rua da Alfândega
+LSB-00261
+: 
+ NEW address : Rua da AlfÃ¢ndega
+ OLD address : Rua da Alfândega
+LSB-00262
+: 
+ NEW address : Rua da AlfÃ¢ndega
+ OLD address : Rua da Alfândega
+LSB-00263
+: 
+ NEW address : Rua da AlfÃ¢ndega
+ OLD address : Rua da Alfândega
+LSB-00264
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
+LSB-00265
+: 
+ NEW address :  Av. EusÃ©bio da Silva Ferreira
+ OLD address :  Av. Eusébio da Silva Ferreira
+LSB-00270
+: 
+ NEW address : Ãrea ServiÃ§o Repsol 2a Circular Sentido N/S
+ OLD address : Área Serviço Repsol 2a Circular Sentido N/S
+LSB-00282
+: 
+ NEW address : Avenida de PÃ¡dua
+ OLD address : Avenida de Pádua
+LSB-00309
+: 
+ NEW address : Rua AbÃ­lio Mendes 62
+ OLD address : Rua Abílio Mendes 62
+LSB-00310
+: 
+ NEW address : AvÂª Da Ãndia E Rua FernÃ£o Mendes Pinto
+ OLD address : Avª Da Índia E Rua Fernão Mendes Pinto
+LSB-00318
+: 
+ NEW address : Av. EusÃ©bio da Silva Ferreira
+ OLD address : Av. Eusébio da Silva Ferreira
+LSB-00335
+: 
+ NEW address : PraÃ§a Aeroporto, Av. Marechal Gomes da Costa
+ OLD address : Praça Aeroporto, Av. Marechal Gomes da Costa
