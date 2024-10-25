@@ -28039,3 +28039,115 @@ LSB-00335
 : 
  NEW address : Praça Aeroporto, Av. Marechal Gomes da Costa
  OLD address : PraÃ§a Aeroporto, Av. Marechal Gomes da Costa
+
+2024-10-25 17:46:55
+Adicionados:['VFX-00055', 'VFX-00061', 'VFX-00062', 'VFX-00064', 'VFX-00070']
+
+VFX-00055 --> GLP 38.989632 -8.971767 Vila Franca de Xira Rua Padre António Bianchi
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-25T14:29:59.973Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-25T14:29:59.973Z'}]
+
+VFX-00061 --> GLP 38.893288 -9.034831 Vila Franca de Xira Avenida Infante Dom Pedro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-10-25T12:07:58.975Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-10-25T12:07:58.975Z'}]
+
+VFX-00062 --> GLP 38.893288 -9.034831 Vila Franca de Xira Avenida Infante Dom Pedro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-10-25T11:20:38.748Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 63, 'max_electric_power': 60000, 'last_updated': '2024-10-25T11:20:38.748Z'}]
+
+VFX-00064 --> GLP 38.893288 -9.034831 Vila Franca de Xira Avenida Infante Dom Pedro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-25T11:08:20.008Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-25T11:08:20.008Z'}]
+
+VFX-00070 --> GLP 38.893288 -9.034831 Vila Franca de Xira Avenida Infante Dom Pedro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 225, 'max_electric_power': 90000, 'last_updated': '2024-10-25T14:00:25.674Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 225, 'max_electric_power': 90000, 'last_updated': '2024-10-25T11:27:46.797Z'}]
+Removidos:[]
+ARV-00005
+: 
+ NEW address : Rua União Recreativa e Desportiva de Arranh³
+ OLD address : Rua União Recreativa e Desportiva de Arranhó
+ARV-00008
+: 
+ NEW address : Rua JoÃ£o Deus
+ OLD address : Rua João Deus
+ARV-00018
+: 
+ NEW address : Rua LuÃ­s CamÃµes
+ OLD address : Rua Luís Camões
+ARV-90003
+: 
+ NEW address : R. HerÃ³is do Ultramar
+ OLD address : R. Heróis do Ultramar
+ASL-00001
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00002
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00005
+: 
+ NEW address : Castelo de AlcÃ¡cer do Sal
+ OLD address : Castelo de Alcácer do Sal
+ASL-00005
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00006
+: 
+ NEW address : Castelo de AlcÃ¡cer do Sal
+ OLD address : Castelo de Alcácer do Sal
+ASL-00006
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00007
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00009
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00011
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00011
+: 
+ NEW address : Herdade da AlÃ¡pega de Cima
+ OLD address : Herdade da Alápega de Cima
+ASL-00014
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00014
+: 
+ NEW address : Avenida JosÃ© Saramago
+ OLD address : Avenida José Saramago
+ASL-00015
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00016
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00017
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-00018
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+ASL-80003
+: 
+ NEW city : AlcÃ¡cer do Sal
+ OLD city : Alcácer do Sal
+AVR-00010
+: 
+ NEW address : PraÃ§a MarquÃªs de Pombal
+ OLD address : Praça Marquês de Pombal
