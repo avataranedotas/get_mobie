@@ -28151,3 +28151,139 @@ AVR-00010
 : 
  NEW address : PraÃ§a MarquÃªs de Pombal
  OLD address : Praça Marquês de Pombal
+
+2024-10-28 23:05:54
+Adicionados:['ACB-00030', 'CSC-00197', 'LGA-00028', 'LGA-00029', 'MTA-00017']
+
+ACB-00030 --> GLP 39.6680677 -8.9998288 Alcobaça Rua do Ginja, Pataias
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-28T15:29:14.696Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-10-28T15:29:14.696Z'}]
+
+CSC-00197 --> EDP 38.72907 -9.41682 Cascais Av. Brigadeiro Victor Novais Gonçalves 164
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-28T15:44:32.081Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-28T15:44:32.081Z'}]
+
+LGA-00028 --> HLX 37.099444 -8.380000 Lagoa, Faro Praia das Gaivotas, Alporchinho
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-28T10:27:19.949Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-28T10:27:19.949Z'}]
+
+LGA-00029 --> HLX 37.099444 -8.380000 Lagoa, Faro Praia das Gaivotas, Alporchinho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-28T10:39:46.385Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-28T10:39:46.385Z'}]
+
+MTA-00017 --> EDP 38.6494800 -8.9969333 Moita Fonte da Prata 2860, 2860-006 Alhos Vedros
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-10-28T12:42:07.271Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-10-28T12:42:07.271Z'}]
+Removidos:[]
+ARV-00005
+: 
+ NEW address : Rua União Recreativa e Desportiva de Arranhó
+ OLD address : Rua União Recreativa e Desportiva de Arranh³
+ARV-00008
+: 
+ NEW address : Rua João Deus
+ OLD address : Rua JoÃ£o Deus
+ARV-00018
+: 
+ NEW address : Rua Luís Camões
+ OLD address : Rua LuÃ­s CamÃµes
+ARV-90003
+: 
+ NEW address : R. Heróis do Ultramar
+ OLD address : R. HerÃ³is do Ultramar
+ASL-00001
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00002
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00005
+: 
+ NEW address : Castelo de Alcácer do Sal
+ OLD address : Castelo de AlcÃ¡cer do Sal
+ASL-00005
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00006
+: 
+ NEW address : Castelo de Alcácer do Sal
+ OLD address : Castelo de AlcÃ¡cer do Sal
+ASL-00006
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00007
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00009
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00011
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00011
+: 
+ NEW address : Herdade da Alápega de Cima
+ OLD address : Herdade da AlÃ¡pega de Cima
+ASL-00014
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00014
+: 
+ NEW address : Avenida José Saramago
+ OLD address : Avenida JosÃ© Saramago
+ASL-00015
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00016
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00017
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-00018
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+ASL-80003
+: 
+ NEW city : Alcácer do Sal
+ OLD city : AlcÃ¡cer do Sal
+AVR-00010
+: 
+ NEW address : Praça Marquês de Pombal
+ OLD address : PraÃ§a MarquÃªs de Pombal
+BRG-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 230
+BRG-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+BRG-00093
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+BRG-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 230
+BRG-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+BRG-00093
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
