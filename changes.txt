@@ -28287,3 +28287,36 @@ BRG-00093
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 7400
+
+2024-10-29 17:54:02
+Adicionados:['CHV-00023', 'FAR-00071', 'MCN-00016', 'VCD-00054', 'VCD-00055', 'VLG-00041', 'VNG-00176']
+
+CHV-00023 --> EDP 41.632934 -7.572579 Chaves Avenida Teixeira de Sousa, 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-29T14:05:58.402Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-10-29T14:05:58.402Z'}]
+
+FAR-00071 --> EDP 37.0313003 -7.9479663 Faro Av. Dr. Gordinho Moreira 20
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T11:22:42.646Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T11:22:42.646Z'}]
+
+MCN-00016 --> ATL 41.177690 -8.150860 Marco de Canaveses Avenida Futebol Clube do Porto 411
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-29T14:12:12.079Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-29T14:12:12.079Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T14:12:12.079Z'}]
+
+VCD-00054 --> ATL 41.300350 -8.706140 Vila do Conde Avenida Fonte Cova
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T15:32:29.000Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T15:32:30.000Z'}]
+
+VCD-00055 --> ATL 41.300330 -8.706190 Vila do Conde Avenida Fonte Cova
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T15:37:08.000Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T15:37:09.000Z'}]
+
+VLG-00041 --> EDP 41.2065107 -8.5396623 Valongo Santa Rita, R. Dr. Faria Sampaio 37, 4445-671
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T10:59:59.633Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T10:59:59.633Z'}]
+
+VNG-00176 --> EDP 41.1179026 -8.6280799 Vila Nova de Gaia R. Florinda Gomes 191, Vila Nova de Gaia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
+Removidos:['BRG-00128', 'GMR-00136', 'LGA-00028', 'LGA-00029', 'MAI-00057']
