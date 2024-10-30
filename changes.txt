@@ -28320,3 +28320,51 @@ VNG-00176 --> EDP 41.1179026 -8.6280799 Vila Nova de Gaia R. Florinda Gomes 191,
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
 [{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
 Removidos:['BRG-00128', 'GMR-00136', 'LGA-00028', 'LGA-00029', 'MAI-00057']
+
+2024-10-30 20:29:42
+Adicionados:['CSC-00186', 'CSC-00198', 'GRD-00034', 'LGA-00033', 'SNT-00141']
+
+CSC-00186 --> CPS 38.715581 -9.417943 Cascais CEPSA DRAMÁTICO - E.N. 9 - Abuxarda
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-10-30T14:02:53.502Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-10-30T14:02:53.502Z'}]
+
+CSC-00198 --> EDP 38.72907 -9.41682 Cascais Av. Brigadeiro Victor Novais Gonçalves 164
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 185, 'max_electric_power': 120000, 'last_updated': '2024-10-30T15:04:45.395Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 185, 'max_electric_power': 120000, 'last_updated': '2024-10-30T15:04:45.395Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-30T15:04:45.395Z'}]
+
+GRD-00034 --> IOY 40.552154 -7.248783 Guarda Largo de Sao Miguel 13
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 350000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 200000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 200000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 200000}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 500, 'last_updated': '2024-10-30T09:58:39.407Z', 'max_electric_power': 200000}]
+
+LGA-00033 --> EDP 37.1377551 -8.5195438 Lagoa, Faro R. Infante de Sagres 6
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-30T11:21:30.849Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-30T11:21:30.849Z'}]
+
+SNT-00141 --> EDP 38.766975 -9.279027 Sintra McDonald's - Massamá, Av. Salgueiro Maia 98
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-10-30T16:54:08.950Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-10-30T16:54:08.950Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-30T16:54:08.950Z'}]
+Removidos:['VNG-00176']
+LSB-00837
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00837
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LSB-00837
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+LSB-00837
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
