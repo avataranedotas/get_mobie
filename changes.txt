@@ -28368,3 +28368,91 @@ LSB-00837
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 22000
+
+2024-10-31 20:38:47
+Adicionados:['ALB-00023', 'ALB-00024', 'AMT-00026', 'BCL-00039', 'BRG-00128', 'CTM-00007', 'GDL-00047', 'GDL-00048', 'MAI-00057', 'MLD-00026', 'VNG-00176']
+
+ALB-00023 --> GLP 40.685981 -8.481938 Albergaria-a-Velha R. 25 de Abril 1-9, Albergaria-a-Velha
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-10-31T16:07:51.708Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2024-10-31T16:07:51.708Z'}]
+
+ALB-00024 --> GLP 40.685981 -8.481938 Albergaria-a-Velha R. 25 de Abril 1-9, Albergaria-a-Velha
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T16:13:35.905Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T16:13:35.905Z'}]
+
+AMT-00026 --> GLP 41.272575 -8.089541 Amarante R. dos Pinheiros Mansos
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-10-31T10:28:18.742Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-10-31T10:28:18.742Z'}]
+
+BCL-00039 --> EDP 41.5207867 -8.6306812 Barcelos Tv. de Mereces 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T15:14:04.944Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T15:14:04.944Z'}]
+
+BRG-00128 --> EDP 41.5406160 -8.3980770 Braga Junto ao Continente e ao AKI, R. de Bretas 4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-23T13:02:46.965Z'}]
+
+CTM-00007 --> ATL 37.180260 -7.498450 Castro Marim Rua João de Deus
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-10-31T16:03:00.000Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-10-31T16:03:01.000Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T16:03:02.000Z'}]
+
+GDL-00047 --> IBD 38.2833785 -8.7494807 Grândola Estrada N261, km 12,3
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T14:13:46.795Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T14:13:46.795Z'}]
+
+GDL-00048 --> IBD 38.2833785 -8.7494807 Grândola Estrada N261, km 12,3
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T14:16:41.665Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T14:16:41.665Z'}]
+
+MAI-00057 --> EDP 41.2463269 -8.6253461 Maia RUA CMD VALENTIM S DINIS, 999
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-21T14:11:07.823Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-10-21T14:11:07.823Z'}]
+
+MLD-00026 --> ECI 40.3790615 -8.4533704 Mealhada Rua José Branquinho de Carvalho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T16:13:43.978Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-10-31T16:13:43.978Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-31T16:13:43.978Z'}]
+[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-10-31T16:13:43.978Z'}]
+
+VNG-00176 --> EDP 41.1179026 -8.6280799 Vila Nova de Gaia R. Florinda Gomes 191, Vila Nova de Gaia
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T09:32:10.307Z'}]
+Removidos:[]
+ALR-00008
+coordinates: 
+ NEW latitude : 39.196201
+ OLD latitude : 39.19690
+ALR-00008
+coordinates: 
+ NEW longitude : -8.6260923
+ OLD longitude : -8.62560
+ALR-00008
+: 
+ NEW coordinates : {'latitude': '39.196201', 'longitude': '-8.6260923'}
+ OLD coordinates : {'latitude': '39.19690', 'longitude': '-8.62560'}
+FAR-00071
+coordinates: 
+ NEW latitude : 37.0315379
+ OLD latitude : 37.0313003
+FAR-00071
+coordinates: 
+ NEW longitude : -7.9481042
+ OLD longitude : -7.9479663
+FAR-00071
+: 
+ NEW coordinates : {'latitude': '37.0315379', 'longitude': '-7.9481042'}
+ OLD coordinates : {'latitude': '37.0313003', 'longitude': '-7.9479663'}
+ORQ-00005
+coordinates: 
+ NEW latitude : 37.653400
+ OLD latitude : 37.653643
+ORQ-00005
+coordinates: 
+ NEW longitude : -8.234070
+ OLD longitude : -8.236401
+ORQ-00005
+: 
+ NEW coordinates : {'latitude': '37.653400', 'longitude': '-8.234070'}
+ OLD coordinates : {'latitude': '37.653643', 'longitude': '-8.236401'}
