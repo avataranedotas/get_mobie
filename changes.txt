@@ -28468,3 +28468,28 @@ CMN-00026
 evses -> 0 -> connectors -> 0: 
  NEW max_amperage : 250
  OLD max_amperage : 200
+
+2024-11-04 13:38:44
+Adicionados:['ACB-00031', 'BBR-00010', 'LGS-00037', 'LLE-00225']
+
+ACB-00031 --> GLP 39.6680677 -8.9998288 Alcobaça Rua do Ginja, Pataias
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T12:28:03.883Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T12:28:03.883Z'}]
+
+BBR-00010 --> GLP 39.2662658 -9.1570322 Bombarral Rua Heróis do Ultramar
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-04T09:37:11.949Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-04T09:37:11.949Z'}]
+
+LGS-00037 --> FCT 37.1196000 -8.6730000 Lagos E. N. 125 - Telheiro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-11-04T12:33:56.040Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-11-04T12:33:56.040Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-11-04T12:33:56.040Z'}]
+
+LLE-00225 --> FCT 37.0759400 -8.0955700 Loulé Av. de Ceuta
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-04T10:21:37.307Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-04T10:21:37.307Z'}]
+Removidos:['OER-00106', 'OER-00108']
+PRT-00240
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 20
+ OLD max_amperage : 200
