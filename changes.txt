@@ -28493,3 +28493,51 @@ PRT-00240
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 20
  OLD max_amperage : 200
+
+2024-11-04 20:27:29
+Adicionados:['CSC-00218', 'FAR-00072', 'FAR-00073', 'MMV-00006', 'MMV-00007', 'MMV-00008', 'MMV-00009', 'SNS-00018']
+
+CSC-00218 --> GLP 38.683764 -9.343098 Cascais PRAÇA DO JUNQUEIRO
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2024-11-04T16:07:07.917Z'}]
+
+FAR-00072 --> EVI 37.034325 -7.929160 Faro LUGAR DE CAMPINAS - EDIFICIO INTERMARCHÉ
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 720, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-11-04T14:48:41.719Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 720, 'max_amperage': 250, 'max_electric_power': 180000, 'last_updated': '2024-11-04T14:48:41.719Z'}]
+
+FAR-00073 --> EVI 37.033704 -7.928629 Faro LUGAR DE CAMPINAS - EDIFICIO INTERMARCHÉ
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 480, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-11-04T14:07:13.052Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 480, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-11-04T14:07:13.052Z'}]
+
+MMV-00006 --> BEL 40.282244 -8.651673 Montemor-o-Velho Rua Professor Manuel de Melo, Arazede
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-04T17:47:45.326Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-04T17:47:45.326Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T17:47:45.326Z'}]
+
+MMV-00007 --> BEL 40.276668 -8.723447 Montemor-o-Velho Rua Igreja Nossa Senhora da Graça, Tojeiro
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T15:33:05.614Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T15:33:05.614Z'}]
+
+MMV-00008 --> BEL 40.119046 -8.725390 Montemor-o-Velho Praça Dr. José Regalão, 9898, Abrunheira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T16:24:14.785Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T16:24:14.785Z'}]
+
+MMV-00009 --> BEL 40.149536 -8.712824 Montemor-o-Velho Largo do Rossio, Ereira
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T15:50:46.762Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-04T15:50:46.762Z'}]
+
+SNS-00018 --> FCT 37.966168 -8.857926 Sines Loteamento Municipal Norte da R52, Lote 8
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-04T16:08:20.124Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-04T16:08:20.124Z'}]
+Removidos:[]
+GMR-00052
+coordinates: 
+ NEW latitude : 41.48629
+ OLD latitude : 41.485863
+GMR-00052
+coordinates: 
+ NEW longitude : -8.35114
+ OLD longitude : -8.348277
+GMR-00052
+: 
+ NEW coordinates : {'latitude': '41.48629', 'longitude': '-8.35114'}
+ OLD coordinates : {'latitude': '41.485863', 'longitude': '-8.348277'}
