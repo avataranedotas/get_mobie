@@ -28770,3 +28770,33 @@ VNG-00121
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 800
  OLD max_voltage : 500
+
+2024-11-06 23:20:32
+Adicionados:['CBR-00121', 'LSB-00734', 'LSB-00735', 'LSB-00736', 'LSB-00737', 'LSB-00738', 'LSB-00739']
+
+CBR-00121 --> FCT 40.2009699 -8.4306099 Coimbra Avenida Inês de Castro - Santa Clara
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T16:07:42.554Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T16:07:42.554Z'}]
+
+LSB-00734 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:36:51.041Z'}]
+
+LSB-00735 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:27:13.438Z'}]
+
+LSB-00736 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:43:30.900Z'}]
+
+LSB-00737 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:40:50.488Z'}]
+
+LSB-00738 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:50:20.679Z'}]
+
+LSB-00739 --> MAK 38.738591 -9.152627 Lisboa R. Marquês Sá da Bandeira
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T16:48:12.388Z'}]
+Removidos:[]
+CVL-00030
+: 
+ NEW address : Rua Centro de Artes
+ OLD address : Rua Centro Artes
