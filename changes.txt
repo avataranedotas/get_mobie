@@ -28541,3 +28541,232 @@ GMR-00052
 : 
  NEW coordinates : {'latitude': '41.48629', 'longitude': '-8.35114'}
  OLD coordinates : {'latitude': '41.485863', 'longitude': '-8.348277'}
+
+2024-11-06 16:13:26
+Adicionados:['ACB-00027', 'CSC-00194', 'CSC-00195', 'CSC-00196', 'CSC-00219', 'CVL-00027', 'CVL-00030', 'ENT-00010', 'FIG-00035', 'FLG-00023', 'LRA-00133', 'LRS-00132', 'LSB-00748', 'LSB-00749', 'LSB-00750', 'LSB-00751', 'LSB-00752', 'LSB-00753', 'LSB-00778', 'LSB-00779', 'LSB-00780', 'LSB-00781', 'LSB-00782', 'MGR-00020', 'MLG-00005', 'OBD-00019', 'OBD-00020', 'ODV-00035', 'PBL-00026', 'PNF-00044', 'PRT-00263', 'PRT-00264', 'PRT-00265', 'PRT-00266', 'PRT-00267', 'PRT-00268', 'PRT-00269', 'PRT-00270', 'PRT-00271', 'PRT-00272', 'PRT-00273', 'PRT-00274', 'PRT-00275', 'PRT-00276', 'PRT-00277', 'PRT-00278', 'PRT-00279', 'PRT-00280', 'PRT-00281', 'SNT-00163', 'SXL-00064', 'TVD-00047', 'VLG-00042']
+
+ACB-00027 --> FCT 39.547888 -8.962101 Alcobaça EN 8, Urbanização Nova, Lote 1, fracção 1
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T14:33:19.246Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T14:33:19.246Z'}]
+
+CSC-00194 --> EDP 38.72907 -9.41682 Cascais Av. Brigadeiro Victor Novais Gonçalves 164
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:39:46.470Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:39:46.470Z'}]
+
+CSC-00195 --> EDP 38.72907 -9.41682 Cascais Av. Brigadeiro Victor Novais Gonçalves 164
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:41:55.008Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:41:55.008Z'}]
+
+CSC-00196 --> EDP 38.72907 -9.41682 Cascais Av. Brigadeiro Victor Novais Gonçalves 164
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:44:14.312Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T15:44:14.312Z'}]
+
+CSC-00219 --> GLP 38.683931 -9.342365 Cascais PRAÇA DO JUNQUEIRO
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3700, 'last_updated': '2024-11-04T16:24:02.672Z'}]
+
+CVL-00027 --> DTE 40.27071 -7.503542 Covilhã Rua Urbanização Quinta do Pinheiro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-06T09:32:38.142Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-06T09:32:38.142Z'}]
+
+CVL-00030 --> DTE 40.272126 -7.498623 Covilhã Rua Centro Artes
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-06T10:33:17.226Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-06T10:33:17.226Z'}]
+
+ENT-00010 --> FCT 39.460893 -8.493327 Entroncamento EN 3, KM 81,Lote S1, Nº 124
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T17:14:27.403Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T17:14:27.403Z'}]
+
+FIG-00035 --> FCT 40.1622029 -8.8478785 Figueira da Foz Av. Prof. Dr. Bissaya Barreto, Tavarede
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T14:23:09.522Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T14:23:09.522Z'}]
+
+FLG-00023 --> EDP 41.3166737 -8.1432527 Felgueiras Av. do Alto da Lixa, 4615-013, Freixo de Cima
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T10:00:08.531Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T10:00:08.531Z'}]
+
+LRA-00133 --> FCT 39.714575 -8.831857 Leiria Cruz de S. Tom, Estr. da Maceira 1076
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T10:40:52.514Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T10:40:52.514Z'}]
+
+LRS-00132 --> FCT 38.82300 -9.08840 Loures E.N. 10, km 138.4
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T12:08:32.016Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T12:08:32.016Z'}]
+
+LSB-00748 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:03:23.931Z'}]
+
+LSB-00749 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:14:42.123Z'}]
+
+LSB-00750 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:09:49.604Z'}]
+
+LSB-00751 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:07:14.441Z'}]
+
+LSB-00752 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:04:12.470Z'}]
+
+LSB-00753 --> MAK 38.727099 -9.161716 Lisboa Av. Conselheiro Fernando de Sousa
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T14:26:50.852Z'}]
+
+LSB-00778 --> MAK 38.73711 -9.14782 Lisboa Avenida Miguel Bombarda
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T15:33:17.202Z'}]
+
+LSB-00779 --> MAK 38.73711 -9.14782 Lisboa Avenida Miguel Bombarda
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T15:35:07.290Z'}]
+
+LSB-00780 --> MAK 38.73711 -9.14782 Lisboa Avenida Miguel Bombarda
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T15:46:38.504Z'}]
+
+LSB-00781 --> MAK 38.73711 -9.14782 Lisboa Avenida Miguel Bombarda
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T15:42:43.820Z'}]
+
+LSB-00782 --> MAK 38.73711 -9.14782 Lisboa Avenida Miguel Bombarda
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T15:41:12.950Z'}]
+
+MGR-00020 --> FCT 39.747473 -8.904661 Marinha Grande R. de Leiria EN 242 Km 9.894
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T09:33:37.743Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T09:33:37.743Z'}]
+
+MLG-00005 --> HLX 42.1097935 -8.2710743 Melgaço R. da Igreja 570
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-10-18T13:29:40.352Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-10-18T13:29:40.352Z'}]
+
+OBD-00019 --> PRI 39.3866977 -9.1502209 Óbidos Auto-estrada do Oeste A8
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-05T15:50:11.158Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-05T15:50:11.158Z'}]
+
+OBD-00020 --> PRI 39.388207 -9.1490551 Óbidos Auto-estrada do Oeste A8
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-05T16:12:01.909Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 900, 'max_amperage': 200, 'max_electric_power': 150000, 'last_updated': '2024-11-05T16:12:01.909Z'}]
+
+ODV-00035 --> PRI 38.7904046 -9.2142984 Odivelas Alameda Silva Porto,  Famões
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-11-06T14:49:48.553Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-11-06T14:49:48.553Z'}]
+
+PBL-00026 --> FCT 39.9086471 -8.6329270 Pombal E. N. 1 - Km 148,35
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T11:48:46.134Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-06T11:48:46.134Z'}]
+
+PNF-00044 --> EDP 41.1912159 -8.2994965 Penafiel R. da Igreja, Marecos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T11:24:56.723Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T11:24:56.723Z'}]
+
+PRT-00263 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:14.152Z'}]
+
+PRT-00264 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-22T16:06:38.335Z'}]
+
+PRT-00265 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:25.810Z'}]
+
+PRT-00266 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:33.059Z'}]
+
+PRT-00267 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:38.992Z'}]
+
+PRT-00268 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:44.920Z'}]
+
+PRT-00269 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:13:56.594Z'}]
+
+PRT-00270 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:02.223Z'}]
+
+PRT-00271 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:07.346Z'}]
+
+PRT-00272 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:24.999Z'}]
+
+PRT-00273 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:30.624Z'}]
+
+PRT-00274 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:35.398Z'}]
+
+PRT-00275 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:44.628Z'}]
+
+PRT-00276 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:14:53.938Z'}]
+
+PRT-00277 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T13:31:03.327Z'}]
+
+PRT-00278 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:15:00.059Z'}]
+
+PRT-00279 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:15:06.182Z'}]
+
+PRT-00280 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:15:12.464Z'}]
+
+PRT-00281 --> MAK 41.1626499 -8.6667184 Porto R. Pedro Homem de Melo 327
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T09:15:19.125Z'}]
+
+SNT-00163 --> EDP 38.751240 -9.305478 Sintra Estrada de São Marcos, RC, 1
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-05T12:37:26.001Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-05T12:37:26.001Z'}]
+
+SXL-00064 --> FCT 38.6096720 -9.0992040 Seixal Casal do Marco Interface do Fogueteiro
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T09:55:27.576Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-05T09:55:27.576Z'}]
+
+TVD-00047 --> EDP 39.1002768 -9.2567441 Torres Vedras Avenida Das Guerras Peninsulares,
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T12:53:02.835Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-06T12:53:02.835Z'}]
+
+VLG-00042 --> EDP 41.1910144 -8.4893309 Valongo R. Eduardo Joaquim Reis Figueira 750
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T12:15:13.816Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T12:15:13.816Z'}]
+Removidos:[]
+FAR-00073
+: 
+ NEW address : LUGAR DE CAMPINAS - EDIFICIO BRICOMARCHÉ
+ OLD address : LUGAR DE CAMPINAS - EDIFICIO INTERMARCHÉ
+LRA-00061
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+LRA-00061
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 120
+LRA-00061
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+VCD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+VCD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VCD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 276
+ OLD max_voltage : 920
+VCD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 60
+VCD-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 7400
+ OLD max_electric_power : 24000
+VNG-00121
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+VNG-00121
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
