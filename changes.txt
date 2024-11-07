@@ -28800,3 +28800,66 @@ CVL-00030
 : 
  NEW address : Rua Centro de Artes
  OLD address : Rua Centro Artes
+
+2024-11-07 19:20:05
+Adicionados:['AVR-00064', 'EPS-00009', 'EPS-00018', 'LSB-00786', 'LSB-00787', 'LSB-00788', 'LSB-00789', 'MFR-00041', 'MOBI-PRT-00116', 'MTS-00175', 'PLM-00041', 'VIZ-00014', 'VNG-00178', 'VVD-00020', 'VVD-00021']
+
+AVR-00064 --> FCT 40.6318899 -8.6409300 Aveiro Avenida Europa, nº 631
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T14:31:54.794Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T14:31:54.794Z'}]
+
+EPS-00009 --> GLP 41.546256 -8.744053 Esposende R. Padre José Pires Afonso 48-2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:43:20.850Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:43:20.850Z'}]
+
+EPS-00018 --> GLP 41.516913 -8.744172 Esposende Jardim da Nossa Senhora do Lago
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:06:21.292Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:06:21.292Z'}]
+
+LSB-00786 --> MAK 38.7110696 -9.1275202 Lisboa Cais Jardim do Tabaco 5
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:53:57.549Z'}]
+
+LSB-00787 --> MAK 38.7110696 -9.1275202 Lisboa Cais Jardim do Tabaco 5
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:51:01.243Z'}]
+
+LSB-00788 --> MAK 38.7110696 -9.1275202 Lisboa Cais Jardim do Tabaco 5
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T14:57:19.470Z'}]
+
+LSB-00789 --> MAK 38.7110696 -9.1275202 Lisboa Cais Jardim do Tabaco 5
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T15:00:40.465Z'}]
+
+MFR-00041 --> FCT 38.919657 -9.230326 Mafra Av. 9 Julho EN 8 Km19, Terra da Eira
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T16:31:34.921Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T16:31:34.921Z'}]
+
+MOBI-PRT-00116 --> HLX 41.160565 -8.610620 Porto Travessa Antero Quental, nº 312
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-09-03T09:10:06.525Z'}]
+
+MTS-00175 --> FCT 41.1858599 -8.6242800 Matosinhos Amieira - Via Norte
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T11:11:33.075Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T11:11:33.075Z'}]
+
+PLM-00041 --> FCT 38.616922 -8.913491 Palmela Rua Gago Coutinho e Sacadura Cabral EN 252, K
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T10:27:04.933Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T10:27:04.933Z'}]
+
+VIZ-00014 --> FCT 41.3965439 -8.3193900 Vizela Estrada Nacional 106, KM 0.5 Lugar de fundos 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T09:39:32.234Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T09:39:32.234Z'}]
+
+VNG-00178 --> FCT 41.0277600 -8.6419920 Vila Nova de Gaia Av. da Liberdade, 213
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T12:22:20.617Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-07T12:22:20.617Z'}]
+
+VVD-00020 --> IBD 41.6626651 -8.4734055 Vila Verde Av. da Câmara 22
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T10:34:10.068Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T10:34:10.068Z'}]
+
+VVD-00021 --> IBD 41.6626651 -8.4734055 Vila Verde Av. da Câmara 22
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T10:36:21.884Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-07T10:36:21.884Z'}]
+Removidos:[]
+PDL-00008
+: 
+ NEW address : KFC - Ponta Delgada, R. de São Gonçalo 232
+ OLD address : KFC - Ponta Delgada
