@@ -28863,3 +28863,65 @@ PDL-00008
 : 
  NEW address : KFC - Ponta Delgada, R. de São Gonçalo 232
  OLD address : KFC - Ponta Delgada
+
+2024-11-08 19:58:39
+Adicionados:['CSC-00212', 'CSC-00213', 'CSC-00214', 'IDN-00005', 'SXL-00063']
+
+CSC-00212 --> MAK 38.7009551 -9.4189543 Cascais Alameda Duquesa Palmela
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-08T09:37:11.912Z'}]
+
+CSC-00213 --> MAK 38.7009551 -9.4189543 Cascais Alameda Duquesa Palmela
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-08T09:34:52.857Z'}]
+
+CSC-00214 --> MAK 38.7009551 -9.4189543 Cascais Alameda Duquesa Palmela
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-08T09:33:25.699Z'}]
+
+IDN-00005 --> FCT 40.0326100 -7.0094000 Idanha-a-Nova Estrada Nacional 239, Km 36,4 6060-302 Penha 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-11-08T14:02:41.731Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-11-08T14:02:41.731Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-11-08T14:02:41.731Z'}]
+
+SXL-00063 --> IBD 38.5824351 -9.1006231 Seixal AVENIDA DA LIBERDADE
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-08T12:53:18.472Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-08T12:53:18.472Z'}]
+Removidos:[]
+MTS-00150
+coordinates: 
+ NEW latitude : 41.174600
+ OLD latitude : 41.174650
+MTS-00150
+coordinates: 
+ NEW longitude : -8.687500
+ OLD longitude : -8.687530
+MTS-00150
+: 
+ NEW coordinates : {'latitude': '41.174600', 'longitude': '-8.687500'}
+ OLD coordinates : {'latitude': '41.174650', 'longitude': '-8.687530'}
+NZR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 63
+ OLD max_amperage : 32
+NZR-00015
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 43000
+ OLD max_electric_power : 22000
+PLM-00027
+: 
+ NEW address : Área de Serviço Palmela A2 - S/N 
+ OLD address : Estrada Nacional 1 118 - Peneireiro
+PLM-00028
+: 
+ NEW address : Área de Serviço Palmela A2 - N/S 
+ OLD address : Estrada Nacional 1 118 - Peneireiro
+VFL-00002
+: 
+ NEW address : Av. Marechal Carmona
+ OLD address : Rua Miguel Corte Real, S/N
+VFL-90001
+: 
+ NEW address : Av. Marechal Carmona
+ OLD address : Av. Prof. Maximino Correia
+VND-00009
+: 
+ NEW address : A6, km 6.3, sentido Marateca - Caia
+ OLD address : A6, km 6.3, sentido Caia - Marateca
