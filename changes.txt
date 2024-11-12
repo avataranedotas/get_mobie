@@ -28925,3 +28925,219 @@ VND-00009
 : 
  NEW address : A6, km 6.3, sentido Marateca - Caia
  OLD address : A6, km 6.3, sentido Caia - Marateca
+
+2024-11-12 14:44:25
+Adicionados:['BTL-00011', 'MLD-00019', 'MTJ-00065', 'MTJ-00066', 'PNF-00031', 'TMR-00045', 'VCT-00055']
+
+BTL-00011 --> EDP 39.6490644 -8.8397202 Batalha IC2, Casal da Amieira n.º 33
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-12T13:58:03.908Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-12T13:58:03.908Z'}]
+
+MLD-00019 --> EDP 40.375861 -8.450444 Mealhada Rua Dr. Luiz Correia Navega 41
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-11-11T10:07:50.292Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-11-11T10:07:50.292Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-11T10:07:50.292Z'}]
+
+MTJ-00065 --> ITV 38.683602 -8.611916 Montijo Largo Capitão João Duarte, 2985-217 Pegões
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-11-12T11:00:45.491Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 160000, 'last_updated': '2024-11-12T11:00:45.491Z'}]
+
+MTJ-00066 --> ITV 38.683579 -8.611910 Montijo Largo Capitão João Duarte, 2985-217 Pegões
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 400, 'max_electric_power': 160000, 'last_updated': '2024-11-12T11:01:19.386Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2024-11-12T11:01:19.386Z'}]
+
+PNF-00031 --> GLP 41.107564 -8.265413 Penafiel Praça 20 de Junho
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-11-11T09:44:35.811Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-11-11T09:44:35.811Z'}]
+
+TMR-00045 --> EDP 39.609617 -8.397525 Tomar Avenida Maria de Lourdes de Mello e Castro
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-11-11T11:28:24.456Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-11-11T11:28:24.456Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-11T11:28:24.456Z'}]
+
+VCT-00055 --> EDP 41.695056 -8.843389 Viana do Castelo R. de Monserrate EN 13
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-11T10:07:38.141Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-11T10:07:38.141Z'}]
+Removidos:[]
+BRG-00128
+: 
+ NEW address : Staples Braga, Av D. Joao II
+ OLD address : Junto ao Continente e ao AKI, R. de Bretas 4
+BRR-00004
+coordinates: 
+ NEW latitude : 38.5837214
+ OLD latitude : 38.583751
+BRR-00004
+coordinates: 
+ NEW longitude : -9.0444991
+ OLD longitude : -9.044251
+BRR-00004
+: 
+ NEW coordinates : {'latitude': '38.5837214', 'longitude': '-9.0444991'}
+ OLD coordinates : {'latitude': '38.583751', 'longitude': '-9.044251'}
+BRR-00005
+coordinates: 
+ NEW latitude : 38.5837600
+ OLD latitude : 38.583767
+BRR-00005
+coordinates: 
+ NEW longitude : -9.0437876
+ OLD longitude : -9.043872
+BRR-00005
+: 
+ NEW coordinates : {'latitude': '38.5837600', 'longitude': '-9.0437876'}
+ OLD coordinates : {'latitude': '38.583767', 'longitude': '-9.043872'}
+CBR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+CBR-00042
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+CBR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+CBR-00042
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+LGA-00033
+coordinates: 
+ NEW latitude : 37.1374459
+ OLD latitude : 37.1377551
+LGA-00033
+coordinates: 
+ NEW longitude : -8.5195097
+ OLD longitude : -8.5195438
+LGA-00033
+: 
+ NEW coordinates : {'latitude': '37.1374459', 'longitude': '-8.5195097'}
+ OLD coordinates : {'latitude': '37.1377551', 'longitude': '-8.5195438'}
+MTJ-00006
+coordinates: 
+ NEW latitude : 38.6958138
+ OLD latitude : 38.695748
+MTJ-00006
+coordinates: 
+ NEW longitude : -8.9426771
+ OLD longitude : -8.941579
+MTJ-00006
+: 
+ NEW coordinates : {'latitude': '38.6958138', 'longitude': '-8.9426771'}
+ OLD coordinates : {'latitude': '38.695748', 'longitude': '-8.941579'}
+MTJ-00007
+coordinates: 
+ NEW latitude : 38.6958235
+ OLD latitude : 38.695598
+MTJ-00007
+coordinates: 
+ NEW longitude : -8.9426626
+ OLD longitude : -8.941729
+MTJ-00007
+: 
+ NEW coordinates : {'latitude': '38.6958235', 'longitude': '-8.9426626'}
+ OLD coordinates : {'latitude': '38.695598', 'longitude': '-8.941729'}
+MTJ-00008
+coordinates: 
+ NEW latitude : 38.6958389
+ OLD latitude : 38.695598
+MTJ-00008
+coordinates: 
+ NEW longitude : -8.9426024
+ OLD longitude : -8.941429
+MTJ-00008
+: 
+ NEW coordinates : {'latitude': '38.6958389', 'longitude': '-8.9426024'}
+ OLD coordinates : {'latitude': '38.695598', 'longitude': '-8.941429'}
+MTJ-00009
+coordinates: 
+ NEW latitude : 38.6958495
+ OLD latitude : 38.695448
+MTJ-00009
+coordinates: 
+ NEW longitude : -8.9426024
+ OLD longitude : -8.941579
+MTJ-00009
+: 
+ NEW coordinates : {'latitude': '38.6958495', 'longitude': '-8.9426024'}
+ OLD coordinates : {'latitude': '38.695448', 'longitude': '-8.941579'}
+MTS-00113
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+MTS-00113
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MTS-00149
+coordinates: 
+ NEW latitude : 41.174686
+ OLD latitude : 41.174600
+MTS-00149
+coordinates: 
+ NEW longitude : -8.687362
+ OLD longitude : -8.687600
+MTS-00149
+: 
+ NEW coordinates : {'latitude': '41.174686', 'longitude': '-8.687362'}
+ OLD coordinates : {'latitude': '41.174600', 'longitude': '-8.687600'}
+MTS-00150
+coordinates: 
+ NEW latitude : 41.174686
+ OLD latitude : 41.174600
+MTS-00150
+coordinates: 
+ NEW longitude : -8.687362
+ OLD longitude : -8.687500
+MTS-00150
+: 
+ NEW coordinates : {'latitude': '41.174686', 'longitude': '-8.687362'}
+ OLD coordinates : {'latitude': '41.174600', 'longitude': '-8.687500'}
+MTS-00151
+coordinates: 
+ NEW latitude : 41.174686
+ OLD latitude : 41.174620
+MTS-00151
+coordinates: 
+ NEW longitude : -8.687362
+ OLD longitude : -8.687560
+MTS-00151
+: 
+ NEW coordinates : {'latitude': '41.174686', 'longitude': '-8.687362'}
+ OLD coordinates : {'latitude': '41.174620', 'longitude': '-8.687560'}
+MTS-00152
+coordinates: 
+ NEW latitude : 41.174686
+ OLD latitude : 41.174600
+MTS-00152
+coordinates: 
+ NEW longitude : -8.687362
+ OLD longitude : -8.687750
+MTS-00152
+: 
+ NEW coordinates : {'latitude': '41.174686', 'longitude': '-8.687362'}
+ OLD coordinates : {'latitude': '41.174600', 'longitude': '-8.687750'}
+PRT-00220
+evses -> 2 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+SNT-00117
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 150000
+SNT-00117
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 100000
+ OLD max_electric_power : 150000
+STR-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 110000
+ OLD max_electric_power : 120000
+VNP-00002
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2_COMBO
+VNP-00002
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
