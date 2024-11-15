@@ -29482,3 +29482,53 @@ VFX-00072
 evses -> 0 -> connectors -> 0: 
  NEW max_electric_power : 90000
  OLD max_electric_power : 60000
+
+2024-11-15 13:34:29
+MTS-00074
+coordinates: 
+ NEW latitude : 41.209173
+ OLD latitude : 41.20918
+MTS-00074
+coordinates: 
+ NEW longitude : -8.687990
+ OLD longitude : -8.687993
+MTS-00074
+: 
+ NEW coordinates : {'latitude': '41.209173', 'longitude': '-8.687990'}
+ OLD coordinates : {'latitude': '41.20918', 'longitude': '-8.687993'}
+MTS-00074
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+MTS-00074
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00074*01
+ OLD evse_id : PT*GLP*E*MTS*00074*01
+MTS-00074
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+MTS-00074
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00074*02
+ OLD evse_id : PT*GLP*E*MTS*00074*02
+MTS-00075
+coordinates: 
+ NEW latitude : 41.209173
+ OLD latitude : 41.20918
+MTS-00075
+coordinates: 
+ NEW longitude : -8.687990
+ OLD longitude : -8.687993
+MTS-00075
+: 
+ NEW coordinates : {'latitude': '41.209173', 'longitude': '-8.687990'}
+ OLD coordinates : {'latitude': '41.20918', 'longitude': '-8.687993'}
+MTS-00075
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00075*01
+ OLD evse_id : PT*GLP*E*MTS*00075*01
+MTS-00075
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00075*02
+ OLD evse_id : PT*GLP*E*MTS*00075*02
