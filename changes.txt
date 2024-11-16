@@ -29532,3 +29532,27 @@ MTS-00075
 evses -> 1: 
  NEW evse_id : PT*GLP*EMTS*00075*02
  OLD evse_id : PT*GLP*E*MTS*00075*02
+
+2024-11-16 10:57:45
+Adicionados:['BCL-00033']
+
+BCL-00033 --> EVC 41.54060 -8.61477 Barcelos PRACETA DO CORREIO-MOR S/N
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-11-15T15:21:13.481Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-11-15T15:21:13.481Z'}]
+Removidos:[]
+OBR-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 75
+ OLD max_amperage : 125
+OBR-00006
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 50000
+OBR-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 75
+ OLD max_amperage : 150
+OBR-00006
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 30000
+ OLD max_electric_power : 60000
