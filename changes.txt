@@ -29596,3 +29596,97 @@ VIS-00109
 : 
  NEW coordinates : {'latitude': '40.658466', 'longitude': '-7.916168'}
  OLD coordinates : {'latitude': '40.67044', 'longitude': '-7.918664'}
+
+2024-11-20 11:52:18
+Adicionados:['BNV-00015', 'BNV-00016', 'GRD-00037', 'LGA-00028', 'LGA-00029', 'MGR-00014', 'PRT-00284']
+
+BNV-00015 --> HLX 38.960647 -8.818967 Benavente Nacional 118
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-07T11:46:09.556Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-07T11:46:09.556Z'}]
+
+BNV-00016 --> HLX 38.960647 -8.818967 Benavente Nacional 118
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-07T11:03:29.399Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-07T11:03:29.399Z'}]
+
+GRD-00037 --> CAB 40.565841 -7.224364 Guarda Rua do Repouso
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-19T15:22:07.381Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-19T15:22:07.381Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T15:22:07.381Z'}]
+
+LGA-00028 --> HLX 37.099444 -8.380000 Lagoa, Faro Praia das Gaivotas, Alporchinho
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-28T10:27:19.949Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-10-28T10:27:19.949Z'}]
+
+LGA-00029 --> HLX 37.099444 -8.380000 Lagoa, Faro Praia das Gaivotas, Alporchinho
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-28T10:39:46.385Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-28T10:39:46.385Z'}]
+
+MGR-00014 --> EDP 39.743006 -8.903196 Marinha Grande R. DA INDÚSTRIA METALÚRGICA
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T11:09:35.755Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T11:09:35.755Z'}]
+
+PRT-00284 --> ATL 41.168260 -8.598470 Porto Rua do Aval de Baixo 99
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-19T15:46:47.792Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-19T15:46:47.792Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T15:46:47.792Z'}]
+Removidos:[]
+LNH-00017
+coordinates: 
+ NEW latitude : 39.2371104
+ OLD latitude : 39.219806
+LNH-00017
+coordinates: 
+ NEW longitude : -9.3079521
+ OLD longitude : -9.310528
+LNH-00017
+: 
+ NEW coordinates : {'latitude': '39.2371104', 'longitude': '-9.3079521'}
+ OLD coordinates : {'latitude': '39.219806', 'longitude': '-9.310528'}
+LOU-00009
+coordinates: 
+ NEW latitude : 41.271940
+ OLD latitude : 41.2721598
+LOU-00009
+coordinates: 
+ NEW longitude : -8.208489
+ OLD longitude : -8.2088006
+LOU-00009
+: 
+ NEW coordinates : {'latitude': '41.271940', 'longitude': '-8.208489'}
+ OLD coordinates : {'latitude': '41.2721598', 'longitude': '-8.2088006'}
+MTA-00018
+coordinates: 
+ NEW latitude : 38.655194
+ OLD latitude : 38.655028
+MTA-00018
+coordinates: 
+ NEW longitude : -9.039565
+ OLD longitude : -9.03921
+MTA-00018
+: 
+ NEW coordinates : {'latitude': '38.655194', 'longitude': '-9.039565'}
+ OLD coordinates : {'latitude': '38.655028', 'longitude': '-9.03921'}
+MTS-00025
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00025*01
+ OLD evse_id : PT*GLP*E*MTS*00025*01
+MTS-00025
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00025*02
+ OLD evse_id : PT*GLP*E*MTS*00025*02
+PRT-00107
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00107*01
+ OLD evse_id : PT*GLP*E*PRT*00107*1
+STR-00051
+coordinates: 
+ NEW latitude : 39.3924888
+ OLD latitude : 39.3925096
+STR-00051
+coordinates: 
+ NEW longitude : -8.6397523
+ OLD longitude : -8.63892
+STR-00051
+: 
+ NEW coordinates : {'latitude': '39.3924888', 'longitude': '-8.6397523'}
+ OLD coordinates : {'latitude': '39.3925096', 'longitude': '-8.63892'}
