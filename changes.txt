@@ -29690,3 +29690,129 @@ STR-00051
 : 
  NEW coordinates : {'latitude': '39.3924888', 'longitude': '-8.6397523'}
  OLD coordinates : {'latitude': '39.3925096', 'longitude': '-8.63892'}
+
+2024-11-21 14:55:46
+Adicionados:['AVR-00065', 'CBR-00117', 'EVR-00052', 'MOBI-LSB-01051', 'PCV-00004', 'STB-00093']
+
+AVR-00065 --> EDP 40.6464099 -8.5991464 Aveiro R. MÁRIO DUARTE FILHO
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-11-20T15:09:41.988Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-11-20T15:09:41.988Z'}]
+
+CBR-00117 --> IBD 40.253167 -8.434417 Coimbra Estrada de Eiras
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-21T14:21:48.073Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-21T14:21:48.073Z'}]
+
+EVR-00052 --> REP 38.5667546 -7.9024707 Évora R. do Chafariz Del Rei
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-20T15:02:00.984Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-20T15:02:00.984Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 43000, 'last_updated': '2024-11-20T15:02:00.984Z'}]
+
+MOBI-LSB-01051 --> GLP 38.702375 -9.176277 Lisboa Av. da Índia, 30B
+[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2024-11-21T12:39:54.996Z', 'max_voltage': 220, 'max_amperage': 32, 'max_electric_power': 7400}]
+
+PCV-00004 --> TRK 40.3032621 -8.3214577 Penacova Zona Industrial da Espinheira, nó do IP3
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-20T16:23:03.075Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-20T16:23:03.075Z'}]
+
+STB-00093 --> HLX 38.539338 -8.8753882 Setúbal Rua Azeda de Baixo, São Sebastião, 
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-11-21T10:08:29.827Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-11-21T10:08:29.827Z'}]
+Removidos:['ABT-00028', 'ALM-00076', 'ALM-00079', 'AMD-00094', 'BNV-00009', 'BRG-00107', 'BRG-00108', 'BRR-00129', 'CBR-00086', 'CTX-00005', 'CVR-00006', 'GDM-00044', 'LRA-00112', 'MCD-00004', 'MCN-00014', 'MFR-00033', 'MGR-00012', 'MTS-00141', 'NLS-00003', 'ODV-00024', 'OER-00217', 'OHP-00014', 'PBL-00019', 'PVZ-00040', 'RMZ-00008', 'SNS-00016', 'SNT-00130', 'SNT-00132', 'SNT-00133', 'SNT-00135', 'SNT-00136', 'SNT-00137', 'SSB-00016', 'SSB-00017', 'SXL-00053', 'SXL-00054', 'SXL-00056', 'TBU-00008', 'TNV-00019', 'TVD-00042', 'VCT-00046', 'VFX-00050', 'VIS-00099', 'VLG-00035', 'VLG-00036', 'VLG-00037', 'VNG-00153', 'VRM-00006', 'VVD-00015']
+ABF-00055
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 280
+ OLD max_amperage : 300
+ABF-00055
+evses -> 3 -> connectors -> 0: 
+ NEW max_electric_power : 140000
+ OLD max_electric_power : 150000
+ABF-00055
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 280
+ OLD max_amperage : 300
+ABF-00055
+evses -> 4 -> connectors -> 0: 
+ NEW max_electric_power : 140000
+ OLD max_electric_power : 150000
+ABF-00071
+: 
+ NEW address : RUA JOSÉ FONTANA
+ OLD address : RUA SOLAR AREIAS S. JOÃO
+ABF-00071
+coordinates: 
+ NEW latitude : 37.0902058
+ OLD latitude : 37.0915408
+ABF-00071
+coordinates: 
+ NEW longitude : -8.3073333
+ OLD longitude : -8.0498326
+ABF-00071
+: 
+ NEW coordinates : {'latitude': '37.0902058', 'longitude': '-8.3073333'}
+ OLD coordinates : {'latitude': '37.0915408', 'longitude': '-8.0498326'}
+ALM-00087
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 22
+CNT-00010
+coordinates: 
+ NEW latitude : 40.3317394
+ OLD latitude : 40.33426
+CNT-00010
+coordinates: 
+ NEW longitude : -8.4937921
+ OLD longitude : -8.49234
+CNT-00010
+: 
+ NEW coordinates : {'latitude': '40.3317394', 'longitude': '-8.4937921'}
+ OLD coordinates : {'latitude': '40.33426', 'longitude': '-8.49234'}
+MAI-90004
+coordinates: 
+ NEW latitude : 41.264296
+ OLD latitude : 41.2643056
+MAI-90004
+coordinates: 
+ NEW longitude : -8.613410
+ OLD longitude : -8.6134167
+MAI-90004
+: 
+ NEW coordinates : {'latitude': '41.264296', 'longitude': '-8.613410'}
+ OLD coordinates : {'latitude': '41.2643056', 'longitude': '-8.6134167'}
+MAI-90004
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMAI*90004*01
+ OLD evse_id : PT*GLP*E*MAI*90004*1
+MAI-90004
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMAI*90004*02
+ OLD evse_id : PT*GLP*E*MAI*90004*2
+VIS-00109
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 2200
+VIS-00110
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 2200
+VVD-00020
+coordinates: 
+ NEW latitude : 41.6375746
+ OLD latitude : 41.6626651
+VVD-00020
+coordinates: 
+ NEW longitude : -8.4769770
+ OLD longitude : -8.4734055
+VVD-00020
+: 
+ NEW coordinates : {'latitude': '41.6375746', 'longitude': '-8.4769770'}
+ OLD coordinates : {'latitude': '41.6626651', 'longitude': '-8.4734055'}
+VVD-00021
+coordinates: 
+ NEW latitude : 41.6375746
+ OLD latitude : 41.6626651
+VVD-00021
+coordinates: 
+ NEW longitude : -8.4769770
+ OLD longitude : -8.4734055
+VVD-00021
+: 
+ NEW coordinates : {'latitude': '41.6375746', 'longitude': '-8.4769770'}
+ OLD coordinates : {'latitude': '41.6626651', 'longitude': '-8.4734055'}
