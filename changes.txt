@@ -30082,3 +30082,111 @@ VVD-00015 --> KLS 41.6474272 -8.4398259 Vila Verde Rua dos Bombeiros
 [{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2024-11-20T15:15:28.487Z', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000}, {'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-20T15:15:28.845Z'}]
 [{'standard': 'CHADEMO', 'format': 'CABLE', 'last_updated': '2024-11-20T15:15:28.487Z', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000}]
 Removidos:['MOBI-LSB-01051']
+
+2024-11-22 22:30:58
+Adicionados:['ACH-00022', 'ACH-00023', 'ACH-00024', 'ACH-00025', 'ACH-00026', 'ACH-00027', 'ACH-00028', 'ACH-00029', 'LSA-00005', 'LSA-00007', 'LSA-00008', 'LSA-00010', 'MTJ-00048', 'MTJ-00052', 'MTJ-00076', 'PRT-00261', 'PRT-00262']
+
+ACH-00022 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T13:38:18.077Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T13:38:18.077Z'}]
+
+ACH-00023 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:08:15.210Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:08:15.210Z'}]
+
+ACH-00024 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:11:11.779Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:11:11.779Z'}]
+
+ACH-00025 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:12:52.124Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:12:52.125Z'}]
+
+ACH-00026 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 155, 'max_electric_power': 60000, 'last_updated': '2024-11-22T14:13:49.141Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-22T14:13:49.141Z'}]
+
+ACH-00027 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-22T17:13:27.035Z'}]
+[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-22T17:13:27.035Z'}]
+
+ACH-00028 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-22T17:43:17.829Z'}]
+[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-11-22T17:43:17.829Z'}]
+
+ACH-00029 --> ATL 38.751776 -8.943016 Alcochete Avenida Euro 2004
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:14:46.026Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-22T16:14:46.026Z'}]
+
+LSA-00005 --> TRK 40.111594 -8.250812 Lousã Rua Imprensa, 22
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T15:53:00.051Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T15:53:00.051Z'}]
+
+LSA-00007 --> TRK 40.118337 -8.242196 Lousã Rua Engenheiro Gil D´orey, 37
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:11:16.112Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:11:16.112Z'}]
+
+LSA-00008 --> TRK 40.110157 -8.249911 Lousã Rua Inês de Castro, 2
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:25:43.171Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:25:43.171Z'}]
+
+LSA-00010 --> TRK 40.114457 -8.244711 Lousã Rua Dr. Francisco Fernandes Costa, 2A
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:43:03.073Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:43:03.073Z'}]
+
+MTJ-00048 --> TRK 38.710228 -8.9865600 Montijo Rua cidade da Horta, 124
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T15:41:25.479Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T15:41:25.479Z'}]
+
+MTJ-00052 --> TRK 38.7091335 -8.9814820 Montijo Rua Hortenses, 8
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:03:47.165Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:03:47.165Z'}]
+
+MTJ-00076 --> TRK 38.711622 -8.967043 Montijo Rua António Tavares Marques
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:16:35.071Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-22T16:16:35.071Z'}]
+
+PRT-00261 --> EDP 41.1528295 -8.6298834 Porto Hotel Ipanema, Rua do Campo Alegre 156
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-22T12:22:07.777Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-22T12:22:07.777Z'}]
+
+PRT-00262 --> EDP 41.1528295 -8.6298834 Porto Hotel Ipanema, Rua do Campo Alegre 156
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-22T12:24:22.979Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-22T12:24:22.979Z'}]
+Removidos:[]
+PRT-90081
+coordinates: 
+ NEW latitude : 41.153140
+ OLD latitude : 41.15314
+PRT-90081
+coordinates: 
+ NEW longitude : -8.617860
+ OLD longitude : -8.61786
+PRT-90081
+: 
+ NEW coordinates : {'latitude': '41.153140', 'longitude': '-8.617860'}
+ OLD coordinates : {'latitude': '41.15314', 'longitude': '-8.61786'}
+PRT-90081
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*90081*01
+ OLD evse_id : PT*GLP*E*PRT*90081*1
+PRT-90081
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*90081*02
+ OLD evse_id : PT*GLP*E*PRT*90081*2
+PRT-90081
+evses -> 2: 
+ NEW evse_id : PT*GLP*EPRT*90081*03
+ OLD evse_id : PT*GLP*E*PRT*90081*3
+PRT-90081
+evses -> 3: 
+ NEW evse_id : PT*GLP*EPRT*90081*04
+ OLD evse_id : PT*GLP*E*PRT*90081*4
+SXL-00022
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 40000
+ OLD max_electric_power : 50000
+SXL-00022
+evses -> 2 -> connectors -> 0: 
+ NEW max_electric_power : 40000
+ OLD max_electric_power : 50000
