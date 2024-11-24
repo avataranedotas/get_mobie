@@ -115,8 +115,8 @@ def finddetails(ident, d1, path=""):
             nomeactual=d1["id"]
             if ( "evses" in d1) :
                 conta=0
-                for cada in d1["evses"] :
-                    detalhesadic = detalhesadic + "\n" + (str (d1["evses"][conta]["connectors"]))
+		for cada in d1["evses"] :
+                    detalhesadic = detalhesadic + "\n" + (str (d1["evses"][conta]["evse_id"])) + (str (d1["evses"][conta]["connectors"]))
                     conta=conta+1
             detalhesadic = detalhesadic + "\n"
         for k in d1:
