@@ -30222,3 +30222,10 @@ BCL-00033
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 14080
+
+2024-11-24 18:59:54
+Adicionados:['ABF-02008']
+
+ABF-02008 --> EDP 37.0907001 -8.243906 Albufeira Vila Galé Cerro Alagoaa
+PT*EDP*E*ABF*02008*1[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-09-18T11:26:48.104Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+Removidos:[]
