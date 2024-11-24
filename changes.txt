@@ -30190,3 +30190,35 @@ SXL-00022
 evses -> 2 -> connectors -> 0: 
  NEW max_electric_power : 40000
  OLD max_electric_power : 50000
+
+2024-11-24 18:53:28
+Adicionados:['FLG-00023', 'PNF-00044', 'VCD-00052', 'VLG-00041', 'VLG-00042']
+
+FLG-00023 --> EDP 41.3166737 -8.1432527 Felgueiras Av. do Alto da Lixa, 4615-013, Freixo de Cima
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-23T10:52:19.375Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-23T10:52:19.375Z'}]
+
+PNF-00044 --> EDP 41.1912159 -8.2994965 Penafiel R. da Igreja, Marecos
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T11:24:56.723Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-05T11:24:56.723Z'}]
+
+VCD-00052 --> EDP 41.3700800 -8.7432731 Vila do Conde Junto ao Continente, Av. Gn. Humberto Delgado
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T15:23:57.878Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-21T15:23:57.878Z'}]
+
+VLG-00041 --> EDP 41.2065107 -8.5396623 Valongo Santa Rita, R. Dr. Faria Sampaio 37, 4445-671
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T10:59:59.633Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-10-29T10:59:59.633Z'}]
+
+VLG-00042 --> EDP 41.1910144 -8.4893309 Valongo R. Eduardo Joaquim Reis Figueira 750
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T12:15:13.816Z'}]
+[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-05T12:15:13.816Z'}]
+Removidos:[]
+BCL-00033
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
+BCL-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
