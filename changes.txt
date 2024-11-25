@@ -30229,3 +30229,43 @@ Adicionados:['ABF-02008']
 ABF-02008 --> EDP 37.0907001 -8.243906 Albufeira Vila Galé Cerro Alagoaa
 PT*EDP*E*ABF*02008*1[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2023-09-18T11:26:48.104Z', 'max_amperage': 32, 'max_electric_power': 7400}]
 Removidos:[]
+
+2024-11-25 20:08:07
+Adicionados:['CSC-00199', 'CSC-00210']
+
+CSC-00199 --> EDP 38.7019391 -9.4576249 Cascais Rua do Clube 63
+PT*EDP*E*CSC*00199*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-25T16:18:26.421Z'}]
+PT*EDP*E*CSC*00199*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-25T16:18:26.421Z'}]
+
+CSC-00210 --> EDP 38.724589 -9.442813 Cascais Estrada Malveira da Serra, RC, 1000A
+PT*EDP*E*CSC*00210*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-05T15:59:16.143Z'}]
+PT*EDP*E*CSC*00210*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-05T15:59:16.143Z'}]
+Removidos:['ABF-02008']
+AMD-00054
+evses -> 4 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+AMD-00054
+evses -> 5 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+AMD-00054
+evses -> 7 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MFR-00039
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+MFR-00039
+evses -> 1 -> connectors -> 1: 
+ NEW max_electric_power : 49000
+ OLD max_electric_power : 50000
+VIS-00103
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VIS-00103
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
