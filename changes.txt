@@ -30269,3 +30269,68 @@ VIS-00103
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 22000
  OLD max_electric_power : 11000
+
+2024-11-26 21:52:32
+Adicionados:['BRR-00146', 'EVR-80003', 'FAR-00066', 'FAR-00067', 'MOBI-LSB-00907', 'MOBI-LSB-00908', 'MOBI-LSB-00909', 'VPA-00003']
+
+BRR-00146 --> IBD 38.664464 -9.058412 Barreiro Rua dos Resistentes Anti-Facistas
+PT*IBD*E*BRR*00146*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-26T16:53:24.168Z'}]
+PT*IBD*E*BRR*00146*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-26T16:53:24.168Z'}]
+
+EVR-80003 --> GLP 38.572378 -7.904386 Évora Rua Cardeal Rei
+PT*GLP*E*EVR*80003*1[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-09T17:30:53.522Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*E*EVR*80003*2[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-02-09T17:30:53.522Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+FAR-00066 --> EDP 37.0276749 -7.9423723 Faro Decathlon Faro, R. Eng. Nuno Abecassis 2
+PT*EDP*E*FAR*00066*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-26T10:34:47.506Z'}]
+PT*EDP*E*FAR*00066*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-26T10:34:47.506Z'}]
+
+FAR-00067 --> EDP 37.0276749 -7.9423723 Faro Decathlon Faro, R. Eng. Nuno Abecassis 2
+PT*EDP*E*FAR*00067*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-26T10:35:20.550Z'}]
+PT*EDP*E*FAR*00067*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-26T10:35:20.550Z'}]
+
+MOBI-LSB-00907 --> GLP 38.764342 -9.096934 Lisboa Rua do Mar do Norte
+PT*GLP*E*MOBI*LSB*00907*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:33:15.255Z'}]
+PT*GLP*E*MOBI*LSB*00907*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:33:15.255Z'}]
+
+MOBI-LSB-00908 --> GLP 38.764342 -9.096934 Lisboa Rua do Mar do Norte
+PT*GLP*E*MOBI*LSB*00908*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:52:53.753Z'}]
+PT*GLP*E*MOBI*LSB*00908*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:52:53.753Z'}]
+
+MOBI-LSB-00909 --> GLP 38.764342 -9.096934 Lisboa Rua do Mar do Norte
+PT*GLP*E*MOBI*LSB*00909*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:45:48.362Z'}]
+PT*GLP*E*MOBI*LSB*00909*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-15T12:45:48.362Z'}]
+
+VPA-00003 --> EDP 41.5065478 -7.6610698 Vila Pouca de Aguiar Lagoa da Falperra - EN 555
+PT*EDP*E*VPA*00003*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-26T15:56:24.309Z'}]
+PT*EDP*E*VPA*00003*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-11-26T15:56:24.309Z'}]
+PT*EDP*E*VPA*00003*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-26T15:56:24.309Z'}]
+Removidos:[]
+NIS-00002
+: 
+ NEW address :  Tapada das Safras/Restaurante - EM1176
+ OLD address : EM1176 6050, 6050-046 Alpalhão
+OER-00082
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 50000
+ OLD max_electric_power : 20000
+OER-00082
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 20000
+VNG-00077
+evses -> 0 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VNG-00077
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00077*01
+ OLD evse_id : PT*GLP*E*VNG*00077*01
+VNG-00077
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VNG-00077
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00077*02
+ OLD evse_id : PT*GLP*E*VNG*00077*02
