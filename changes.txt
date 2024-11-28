@@ -30334,3 +30334,140 @@ VNG-00077
 evses -> 1: 
  NEW evse_id : PT*GLP*EVNG*00077*02
  OLD evse_id : PT*GLP*E*VNG*00077*02
+
+2024-11-28 14:15:43
+Adicionados:['AVR-00068', 'BRG-00107', 'BTL-00008', 'CMN-00013', 'CSC-00216', 'CSC-00217', 'EPS-00029', 'EPS-00036', 'GRD-00024', 'GRD-00025', 'LRA-00145', 'MOBI-FIG-00002', 'MOBI-FIG-00003', 'SNT-00156', 'VFX-00076', 'VRL-00041', 'VRL-00042']
+
+AVR-00068 --> FRR 40.519993 -8.426124 Aveiro RUA DA VILA , 35
+PT*FRR*E*AVR*00068*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-27T11:55:22.806Z'}]
+
+BRG-00107 --> KLS 41.542469 -8.399797 Braga Avenida Robert Smith 
+PT*KLS*EBRG*00107*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2024-11-20T15:14:19.352Z', 'max_voltage': 400, 'max_amperage': 63, 'max_electric_power': 22000}]
+PT*KLS*EBRG*00107*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2024-11-20T15:14:19.352Z', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000}]
+PT*KLS*EBRG*00107*03[{'standard': 'CHADEMO', 'format': 'CABLE', 'last_updated': '2024-11-20T15:14:19.352Z', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000}]
+
+BTL-00008 --> EDP 39.6643997 -8.8495614 Batalha RUA D MARIA I 783 2440-475 Calvaria De Baixo
+PT*EDP*E*BTL*00008*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-28T10:23:19.396Z'}]
+PT*EDP*E*BTL*00008*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-28T10:23:19.396Z'}]
+
+CMN-00013 --> HRZ 41.8786808 -8.8365896 Caminha Av. Doctor Dantas Carneiro, 4910-131 Caminha
+PT*HRZ*E*CMN*00013*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2024-11-27T10:30:18.571Z'}]
+PT*HRZ*E*CMN*00013*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-27T10:30:18.571Z'}]
+PT*HRZ*E*CMN*00013*03[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-27T10:50:40.295Z'}]
+
+CSC-00216 --> EDP 38.68730 -9.32570 Cascais Rua da Feitoria
+PT*EDP*E*CSC*00216*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 93, 'max_electric_power': 60000, 'last_updated': '2024-11-27T11:07:33.470Z'}]
+PT*EDP*E*CSC*00216*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 93, 'max_electric_power': 60000, 'last_updated': '2024-11-27T11:07:33.470Z'}]
+
+CSC-00217 --> EDP 38.68730 -9.32570 Cascais Rua da Feitoria
+PT*EDP*E*CSC*00217*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 93, 'max_electric_power': 60000, 'last_updated': '2024-11-27T11:10:50.319Z'}]
+PT*EDP*E*CSC*00217*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 93, 'max_electric_power': 60000, 'last_updated': '2024-11-27T11:10:50.319Z'}]
+
+EPS-00029 --> GLP 41.517235 -8.786316 Esposende R. Raúl Sousa Martins, 4740-331 Fão
+PT*GLP*E*EPS*00029*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-11-27T09:56:49.628Z'}]
+PT*GLP*E*EPS*00029*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-11-27T09:56:49.628Z'}]
+
+EPS-00036 --> GLP 41.588135 -8.782855 Esposende Rua do Calvário, 4740-165 Belinho
+PT*GLP*E*EPS*00036*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-27T11:16:16.514Z'}]
+PT*GLP*E*EPS*00036*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-27T11:16:16.514Z'}]
+
+GRD-00024 --> HRZ 40.5292102 -7.2521477 Guarda Sra. dos Remédios Estrada do Barracão
+PT*HRZ*E*GRD*00024*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-11-28T14:09:25.965Z'}]
+PT*HRZ*E*GRD*00024*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-11-28T14:09:25.965Z'}]
+PT*HRZ*E*GRD*00024*03[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-28T14:09:25.965Z'}]
+PT*HRZ*E*GRD*00024*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-11-28T14:09:25.965Z'}]
+
+GRD-00025 --> HRZ 40.5292102 -7.2521477 Guarda Sra. dos Remédios Estrada do Barracão
+PT*HRZ*E*GRD*00025*1[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-11-28T14:10:06.092Z'}]
+
+LRA-00145 --> EDP 39.758477 -8.7915194 Leiria Rua da Escola 309
+PT*EDP*E*LRA*00145*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-11-28T12:08:56.909Z'}]
+PT*EDP*E*LRA*00145*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-11-28T12:08:56.909Z'}]
+
+MOBI-FIG-00002 --> GLP 40.150516 -8.863261 Figueira da Foz R. Dr. Calado 16, 3080-153 Figueira da Foz
+PT*GLP*EMOBI*FIG*00002*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-11-28T11:14:24.248Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000}]
+PT*GLP*EMOBI*FIG*00002*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-11-28T11:14:24.248Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000}]
+
+MOBI-FIG-00003 --> GLP 40.150516 -8.863261 Figueira da Foz R. Dr. Calado 16, 3080-153 Figueira da Foz
+PT*GLP*EMOBI*FIG*00003*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-11-28T11:16:03.926Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000}]
+PT*GLP*EMOBI*FIG*00003*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-11-28T11:16:03.926Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 11000}]
+
+SNT-00156 --> HRZ 38.7680333 -9.2987836 Sintra Avenida do Brasil, 76 São Marcos 
+PT*HRZ*E*SNT*00156*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-11-27T18:50:03.290Z'}]
+PT*HRZ*E*SNT*00156*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-11-27T18:50:03.290Z'}]
+PT*HRZ*E*SNT*00156*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-27T18:50:03.290Z'}]
+PT*HRZ*E*SNT*00156*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-11-27T18:50:03.290Z'}]
+PT*HRZ*E*SNT*00156*05[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 200000, 'last_updated': '2024-11-27T18:50:03.290Z'}]
+
+VFX-00076 --> EDP 38.9086284 -9.0289667 Vila Franca de Xira ESTRADA NACIONAL AO KM 127 2 (9003)
+PT*EDP*E*VFX*00076*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-27T15:08:43.796Z'}]
+PT*EDP*E*VFX*00076*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-11-27T15:08:43.796Z'}]
+
+VRL-00041 --> CAB 41.32448 -7.64073 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+PT*CAB*E*VRL*00041*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-11-28T12:46:58.906Z'}]
+PT*CAB*E*VRL*00041*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-11-28T12:46:58.906Z'}]
+
+VRL-00042 --> CAB 41.32448 -7.64073 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+PT*CAB*E*VRL*00042*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-11-28T12:47:15.059Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-11-28T12:47:15.059Z'}]
+PT*CAB*E*VRL*00042*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-28T12:47:15.059Z'}]
+Removidos:[]
+AMT-00018
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+AVR-00050
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+BAO-00005
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+FND-00016
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+FND-00017
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+MTS-00074
+evses -> 0 -> connectors -> 0: 
+ NEW standard : CHADEMO
+ OLD standard : IEC_62196_T2
+MTS-00074
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+ORM-00012
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+OVR-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 125
+OVR-00019
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 50000
+PFR-00011
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+PTG-00019
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+SRD-00002
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+TBU-00007
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
+VNF-00039
+evses -> 1 -> connectors -> 0: 
+ NEW format : SOCKET
+ OLD format : CABLE
