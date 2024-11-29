@@ -30471,3 +30471,184 @@ VNF-00039
 evses -> 1 -> connectors -> 0: 
  NEW format : SOCKET
  OLD format : CABLE
+
+2024-11-29 18:59:27
+Adicionados:['LSB-00853', 'LSB-00854', 'MLD-00027', 'MLD-00028', 'MLD-00029', 'PLM-00047', 'PLM-00048', 'TVR-00024', 'VRL-00043', 'VRL-00044']
+
+LSB-00853 --> GLP 38.764342 -9.096934 Lisboa Rua do Mar do Norte
+PT*GLP*E*LSB*00853*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:31:43.456Z'}]
+PT*GLP*E*LSB*00853*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:31:43.456Z'}]
+
+LSB-00854 --> GLP 38.764342 -9.096934 Lisboa Rua do Mar do Norte
+PT*GLP*E*LSB*00854*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:13:09.596Z'}]
+PT*GLP*E*LSB*00854*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:13:09.596Z'}]
+
+MLD-00027 --> ECI 40.378989 -8.4580789 Mealhada Rua José Branquinho de Carvalho
+PT*ECI*E*MLD*00027*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:16:09.470Z'}]
+PT*ECI*E*MLD*00027*02[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:16:09.470Z'}]
+PT*ECI*E*MLD*00027*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:16:09.470Z'}]
+PT*ECI*E*MLD*00027*04[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:16:09.470Z'}]
+
+MLD-00028 --> ECI 40.3831751 -8.4761183 Mealhada Rua do Pontão
+PT*ECI*E*MLD*00028*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:58:21.739Z'}]
+PT*ECI*E*MLD*00028*02[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:58:21.739Z'}]
+PT*ECI*E*MLD*00028*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:58:21.739Z'}]
+PT*ECI*E*MLD*00028*04[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:58:21.739Z'}]
+
+MLD-00029 --> ECI 40.3665437 -8.4542009 Mealhada AVENIDA CIDADE COIMBRA 51
+PT*ECI*E*MLD*00029*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:38:28.719Z'}]
+PT*ECI*E*MLD*00029*02[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:38:28.719Z'}]
+PT*ECI*E*MLD*00029*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T15:38:28.719Z'}]
+PT*ECI*E*MLD*00029*04[{'standard': 'IEC_60309_2_single_16', 'format': 'SOCKET', 'max_voltage': 3600, 'max_amperage': 16, 'max_electric_power': 3600, 'last_updated': '2024-11-29T15:38:28.719Z'}]
+
+PLM-00047 --> GLP 38.5504400 -8.9801692 Palmela Avenida Visconde Tojal
+PT*GLP*E*PLM*00047*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-29T09:33:11.544Z'}]
+PT*GLP*E*PLM*00047*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-29T09:33:11.545Z'}]
+
+PLM-00048 --> GLP 38.5504400 -8.9801692 Palmela Avenida Visconde Tojal
+PT*GLP*E*PLM*00048*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-29T09:36:02.355Z'}]
+PT*GLP*E*PLM*00048*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-11-29T09:36:02.355Z'}]
+
+TVR-00024 --> EGR 37.1389848 -7.6044055 Tavira Aldeamento turístico Pedras da rainha 
+PT*EGR*E*TVR*00024*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T14:58:44.246Z'}, {'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-29T14:58:44.246Z'}]
+
+VRL-00043 --> CAB 41.32364 -7.64166 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+PT*CAB*E*VRL*00043*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 150000, 'last_updated': '2024-11-28T14:50:55.333Z'}]
+PT*CAB*E*VRL*00043*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-11-28T14:50:55.333Z'}]
+
+VRL-00044 --> CAB 41.32364 -7.64166 Vila Real Parada de Cunhos/Quintanilha (A4 km 101,5)
+PT*CAB*E*VRL*00044*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-11-28T12:48:24.791Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2024-11-28T12:48:24.791Z'}]
+PT*CAB*E*VRL*00044*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-28T12:48:24.791Z'}]
+Removidos:['VRL-00033', 'VRL-00034', 'VRL-00035', 'VRL-00036']
+ACH-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 155
+ACH-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 1000
+ACH-00028
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 300
+ACH-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 1000
+ACH-00028
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 300
+AJT-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00016
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00016
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+ALM-00072
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+ALM-00083
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00146
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00192
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00192
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00210
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00210
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+CSC-00210
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+CSC-00210
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+FAR-00068
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+FAR-00068
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+LNH-00015
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 62500
+ OLD max_electric_power : 60000
+MFR-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+MFR-00038
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+MTA-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 62500
+ OLD max_electric_power : 60000
+SNS-00015
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+SNT-00163
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+SNT-00163
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+SNT-00163
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+SNT-00163
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+SSB-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
+VFX-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 300
+ OLD max_amperage : 200
