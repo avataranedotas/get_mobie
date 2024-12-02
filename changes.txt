@@ -30652,3 +30652,71 @@ VFX-00040
 evses -> 0 -> connectors -> 0: 
  NEW max_amperage : 300
  OLD max_amperage : 200
+
+2024-12-02 12:48:11
+Adicionados:['PFR-00015', 'PRT-00285', 'VLG-00044']
+
+PFR-00015 --> MOT 41.2854481 -8.3600063 Paços de Ferreira R. do Marceneiro 2
+PT*MOT*E*PFR*00015*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2024-12-02T10:30:01.174Z'}]
+PT*MOT*E*PFR*00015*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 87, 'max_electric_power': 60000, 'last_updated': '2024-12-02T10:30:01.174Z'}]
+
+PRT-00285 --> IBD 41.1486231 -8.6199324 Porto Rua Prof. Jaime Rios de Sousa
+PT*IBD*E*PRT*00285*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-02T11:47:36.929Z'}]
+PT*IBD*E*PRT*00285*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-02T11:47:36.929Z'}]
+
+VLG-00044 --> HLX 41.2072304 -8.5320066 Valongo Av. Eng. Duarte Pacheco 2185
+PT*HLX*E*VLG*00044*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-12-02T09:39:14.384Z'}]
+PT*HLX*E*VLG*00044*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-12-02T09:39:14.384Z'}]
+Removidos:[]
+AJT-00018
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+AJT-00018
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 180000
+PRT-00098
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00098*01
+ OLD evse_id : PT*GLP*E*PRT*00098*01
+PRT-00098
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00098*02
+ OLD evse_id : PT*GLP*E*PRT*00098*02
+PRT-00098
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+PRT-00098
+evses -> 2: 
+ NEW evse_id : PT*GLP*EPRT*00098*03
+ OLD evse_id : PT*GLP*E*PRT*00098*03
+PRT-00099
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00099*01
+ OLD evse_id : PT*GLP*E*PRT*00099*01
+PRT-00099
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00099*02
+ OLD evse_id : PT*GLP*E*PRT*00099*02
+PRT-00099
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 63
+PRT-00099
+evses -> 2: 
+ NEW evse_id : PT*GLP*EPRT*00099*03
+ OLD evse_id : PT*GLP*E*PRT*00099*03
+PRT-00106
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00106*01
+ OLD evse_id : PT*GLP*E*PRT*00106*01
+PRT-00106
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00106*02
+ OLD evse_id : PT*GLP*E*PRT*00106*02
+PRT-00106
+evses -> 2: 
+ NEW evse_id : PT*GLP*EPRT*00106*03
+ OLD evse_id : PT*GLP*E*PRT*00106*03
