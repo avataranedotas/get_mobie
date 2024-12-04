@@ -31001,3 +31001,173 @@ PFR-00015
 : 
  NEW coordinates : {'latitude': '41.285448', 'longitude': '-8.3600063'}
  OLD coordinates : {'latitude': '41.2854481', 'longitude': '-8.3600063'}
+
+2024-12-04 17:51:36
+Adicionados:['MOBI-MTS-00014', 'MOBI-MTS-00015', 'MOBI-MTS-00016', 'MOBI-MTS-00017', 'MOBI-MTS-00018', 'MOBI-MTS-00019', 'MOBI-MTS-00020', 'SBA-00008', 'SBA-00009', 'SPS-00007']
+
+MOBI-MTS-00014 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00014*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T12:43:16.252Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00014*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T12:43:16.252Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00015 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00015*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:52.568Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00015*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:52.568Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00016 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00016*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:46.736Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00016*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:46.736Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00017 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00017*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:41.181Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00017*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:41.181Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00018 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00018*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:35.079Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00018*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:35.079Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00019 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00019*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:30.261Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00019*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:36:30.261Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-MTS-00020 --> GLP 41.209611 -8.688504 Matosinhos Av. Dr. Óscar Lopes
+PT*GLP*EMOBI*MTS*00020*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:33:30.318Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*MTS*00020*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-04T11:33:30.318Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+SBA-00008 --> EDP 37.0329491 -7.9240687 São Brás de Alportel Estrada de São Brás de Alportel - EN 2
+PT*EDP*E*SBA*00008*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-12-04T14:37:54.702Z'}]
+PT*EDP*E*SBA*00008*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2024-12-04T14:37:54.702Z'}]
+PT*EDP*E*SBA*00008*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-04T14:37:54.702Z'}]
+
+SBA-00009 --> EDP 37.0329491 -7.9240687 São Brás de Alportel Estrada de São Brás de Alportel - EN 2
+PT*EDP*E*SBA*00009*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-04T11:52:10.774Z'}]
+PT*EDP*E*SBA*00009*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-04T11:52:10.774Z'}]
+
+SPS-00007 --> ATL 40.757220 -8.066890 São Pedro do Sul Rua Correia de Oliveira 350
+PT*ATL*ESPS*00007*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-04T15:51:05.025Z'}]
+PT*ATL*ESPS*00007*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-04T15:51:05.025Z'}]
+PT*ATL*ESPS*00007*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-04T15:51:05.025Z'}]
+Removidos:[]
+MTS-00057
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00057*01
+ OLD evse_id : PT*GLP*E*MTS*00057*01
+MTS-00057
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00057*02
+ OLD evse_id : PT*GLP*E*MTS*00057*02
+MTS-00058
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00058*01
+ OLD evse_id : PT*GLP*E*MTS*00058*01
+MTS-00058
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00058*02
+ OLD evse_id : PT*GLP*E*MTS*00058*02
+MTS-00059
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00059*01
+ OLD evse_id : PT*GLP*E*MTS*00059*01
+MTS-00059
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00059*02
+ OLD evse_id : PT*GLP*E*MTS*00059*02
+MTS-00060
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00060*01
+ OLD evse_id : PT*GLP*E*MTS*00060*01
+MTS-00060
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00060*02
+ OLD evse_id : PT*GLP*E*MTS*00060*02
+MTS-00061
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00061*01
+ OLD evse_id : PT*GLP*E*MTS*00061*01
+MTS-00061
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00061*02
+ OLD evse_id : PT*GLP*E*MTS*00061*02
+MTS-00062
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00062*01
+ OLD evse_id : PT*GLP*E*MTS*00062*01
+MTS-00062
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00062*02
+ OLD evse_id : PT*GLP*E*MTS*00062*02
+MTS-00063
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00063*01
+ OLD evse_id : PT*GLP*E*MTS*00063*01
+MTS-00063
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00063*02
+ OLD evse_id : PT*GLP*E*MTS*00063*02
+MTS-00064
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00064*01
+ OLD evse_id : PT*GLP*E*MTS*00064*01
+MTS-00064
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00064*02
+ OLD evse_id : PT*GLP*E*MTS*00064*02
+MTS-00065
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00065*01
+ OLD evse_id : PT*GLP*E*MTS*00065*01
+MTS-00065
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00065*02
+ OLD evse_id : PT*GLP*E*MTS*00065*02
+MTS-00066
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00066*01
+ OLD evse_id : PT*GLP*E*MTS*00066*01
+MTS-00066
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00066*02
+ OLD evse_id : PT*GLP*E*MTS*00066*02
+VNG-00134
+coordinates: 
+ NEW latitude : 41.127675
+ OLD latitude : 41.1276746
+VNG-00134
+coordinates: 
+ NEW longitude : -8.580773
+ OLD longitude : -8.5807732
+VNG-00134
+: 
+ NEW coordinates : {'latitude': '41.127675', 'longitude': '-8.580773'}
+ OLD coordinates : {'latitude': '41.1276746', 'longitude': '-8.5807732'}
+VNG-00134
+evses -> 0: 
+ NEW evse_id : PT*ATL*EVNG*00134*1
+ OLD evse_id : PT*ATL*E*VNG*00134*01
+VNG-00134
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+VNG-00134
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 32
+ OLD max_amperage : 16
+VNG-00134
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VNG-00134
+evses -> 1: 
+ NEW evse_id : PT*ATL*EVNG*00134*2
+ OLD evse_id : PT*ATL*E*VNG*00134*02
+VNG-00134
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+VNG-00134
+evses -> 2: 
+ NEW evse_id : PT*ATL*EVNG*00134*3
+ OLD evse_id : PT*ATL*E*VNG*00134*03
+VNG-00134
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
