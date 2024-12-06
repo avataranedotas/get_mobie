@@ -31171,3 +31171,135 @@ VNG-00134
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-12-06 10:49:09
+Adicionados:['BRG-00133', 'BRG-00134', 'MOBI-MTS-00009', 'PNF-00046', 'PNF-00047', 'PNF-00048', 'PRD-00029', 'PRD-00030', 'PRD-00031', 'VPA-00004', 'VRL-00040']
+
+BRG-00133 --> EVC 41.554145 -8.3793687 Braga Bom-Jesus
+PT*EVC*E*BRG*00133*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T09:55:44.357Z'}]
+PT*EVC*E*BRG*00133*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T09:55:44.357Z'}]
+
+BRG-00134 --> EVC 41.5541459 -8.3793687 Braga Bom-Jesus
+PT*EVC*E*BRG*00134*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:13:27.665Z'}]
+PT*EVC*E*BRG*00134*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:13:27.665Z'}]
+
+MOBI-MTS-00009 --> GLP 41.185785 -8.685205 Matosinhos AV. D. AFONSO HENRIQUES, 354, MATOSINHOS
+PT*GLP*EMOBI*MTS*00009*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-05T15:59:25.737Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+PT*GLP*EMOBI*MTS*00009*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2024-12-05T15:59:25.737Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+PNF-00046 --> HLX 41.215527 -8.284650 Penafiel Quinta do Sardoal
+PT*HLX*E*PNF*00046*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:09.966Z'}]
+PT*HLX*E*PNF*00046*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:09.966Z'}]
+
+PNF-00047 --> HLX 41.215527 -8.284650 Penafiel Quinta do Sardoal
+PT*HLX*E*PNF*00047*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:16.441Z'}]
+PT*HLX*E*PNF*00047*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:16.441Z'}]
+
+PNF-00048 --> HLX 41.215527 -8.284650 Penafiel Quinta do Sardoal
+PT*HLX*E*PNF*00048*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:23.637Z'}]
+PT*HLX*E*PNF*00048*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:29:23.637Z'}]
+
+PRD-00029 --> HLX 41.200177 -8.346537 Paredes Lugar Quebrada, 999, Mouriz
+PT*HLX*E*PRD*00029*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:27:58.553Z'}]
+PT*HLX*E*PRD*00029*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:27:58.553Z'}]
+
+PRD-00030 --> HLX 41.200177 -8.346537 Paredes Lugar Quebrada, 999, Mouriz
+PT*HLX*E*PRD*00030*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:28:21.019Z'}]
+PT*HLX*E*PRD*00030*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:28:21.019Z'}]
+
+PRD-00031 --> HLX 41.200177 -8.346537 Paredes Lugar Quebrada, 999, Mouriz
+PT*HLX*E*PRD*00031*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:28:42.281Z'}]
+PT*HLX*E*PRD*00031*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-05T16:28:42.281Z'}]
+
+VPA-00004 --> EDP 41.506870 -7.641569 Vila Pouca de Aguiar Lagoa da Falperra - EN 555
+PT*EDP*E*VPA*00004*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-06T09:37:09.245Z'}]
+PT*EDP*E*VPA*00004*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-06T09:37:09.245Z'}]
+
+VRL-00040 --> EDP 41.2010485 -7.6850236 Vila Real Martha's Wines & SpiritsLugar da Estalagem 4,
+PT*EDP*E*VRL*00040*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:33:07.128Z'}]
+PT*EDP*E*VRL*00040*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:33:07.128Z'}]
+Removidos:[]
+MTS-00041
+: 
+ NEW address : RUA FONTE DAS SETE BICAS, Nº 170
+ OLD address : Rua Fonte das Sete Bicas
+MTS-00041
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00041*01
+ OLD evse_id : PT*GLP*E*MTS*00041*01
+MTS-00041
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00041*02
+ OLD evse_id : PT*GLP*E*MTS*00041*02
+MTS-00042
+: 
+ NEW address : RUA FONTE DAS SETE BICAS, Nº 170
+ OLD address : Rua Fonte das Sete Bicas
+MTS-00042
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00042*01
+ OLD evse_id : PT*GLP*E*MTS*00042*01
+MTS-00042
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00042*02
+ OLD evse_id : PT*GLP*E*MTS*00042*02
+MTS-00097
+: 
+ NEW address : Rua Sara Afonso
+ OLD address : Rua Sara Afonso, 4460-841 Sra. da Hora
+MTS-00097
+coordinates: 
+ NEW latitude : 41.181188
+ OLD latitude : 41.1809617
+MTS-00097
+coordinates: 
+ NEW longitude : -8.656020
+ OLD longitude : -8.654587
+MTS-00097
+: 
+ NEW coordinates : {'latitude': '41.181188', 'longitude': '-8.656020'}
+ OLD coordinates : {'latitude': '41.1809617', 'longitude': '-8.654587'}
+MTS-00097
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00097*01
+ OLD evse_id : PT*GLP*E*MTS*00097*01
+MTS-00097
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+MTS-00097
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00097*02
+ OLD evse_id : PT*GLP*E*MTS*00097*02
+MTS-00098
+: 
+ NEW address : Rua Sara Afonso
+ OLD address : Rua Sara Afonso, 4460-841 Sra. da Hora
+MTS-00098
+coordinates: 
+ NEW latitude : 41.181188
+ OLD latitude : 41.1809617
+MTS-00098
+coordinates: 
+ NEW longitude : -8.656020
+ OLD longitude : -8.654587
+MTS-00098
+: 
+ NEW coordinates : {'latitude': '41.181188', 'longitude': '-8.656020'}
+ OLD coordinates : {'latitude': '41.1809617', 'longitude': '-8.654587'}
+MTS-00098
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+MTS-00098
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00098*01
+ OLD evse_id : PT*GLP*E*MTS*00098*01
+MTS-00098
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+MTS-00098
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00098*02
+ OLD evse_id : PT*GLP*E*MTS*00098*02
