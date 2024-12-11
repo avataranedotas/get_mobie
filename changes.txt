@@ -31303,3 +31303,104 @@ MTS-00098
 evses -> 1: 
  NEW evse_id : PT*GLP*EMTS*00098*02
  OLD evse_id : PT*GLP*E*MTS*00098*02
+
+2024-12-11 09:22:34
+Adicionados:['BRR-00149', 'CSC-00200', 'CSC-00201', 'CTB-00043', 'CTB-00044', 'CTB-00045', 'CTB-00046', 'EPS-00038', 'FAR-00074', 'MNC-00010', 'MRT-00004', 'PRT-00283', 'TBR-00007', 'TBR-00008']
+
+BRR-00149 --> CPS 38.650413 -9.064358 Barreiro CEPSA AV. DA ESCOLA DOS FUZILEIROS NAVAIS
+PT*CPS*E*BRR*00149*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-12-09T14:45:11.771Z'}]
+PT*CPS*E*BRR*00149*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-12-09T16:01:00.200Z'}]
+
+CSC-00200 --> EDP 38.7018425 -9.4571798 Cascais Rua das Piscinas Lote D
+PT*EDP*E*CSC*00200*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-09T13:11:55.605Z'}]
+PT*EDP*E*CSC*00200*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-09T13:11:55.605Z'}]
+
+CSC-00201 --> EDP 38.7018425 -9.4571798 Cascais Rua das Piscinas Lote D
+PT*EDP*E*CSC*00201*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-09T13:15:44.462Z'}]
+PT*EDP*E*CSC*00201*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-09T13:15:44.462Z'}]
+
+CTB-00043 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00043*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T14:04:10.790Z'}]
+
+CTB-00044 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00044*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T14:10:20.854Z'}]
+
+CTB-00045 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00045*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T14:14:48.956Z'}]
+
+CTB-00046 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00046*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T14:20:55.703Z'}]
+
+EPS-00038 --> GLP 41.499201 -8.739171 Esposende AVENIDA DA IGREJA S/N OUTEIRO 	4740-421
+PT*GLP*E*EPS*00038*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T09:05:08.562Z'}]
+PT*GLP*E*EPS*00038*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T09:05:08.562Z'}]
+
+FAR-00074 --> FCT 37.0253318 -7.91802 Faro Av. Cidade de Hayward 9002
+PT*FCT*E*FAR*00074*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-10T17:01:29.602Z'}]
+PT*FCT*E*FAR*00074*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-10T17:01:29.602Z'}]
+
+MNC-00010 --> EVC 42.06445 -8.48955 Monção Avenida da Adega Cooperativa nº 485
+PT*EVC*E*MNC*00010*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T16:33:57.366Z'}]
+PT*EVC*E*MNC*00010*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T16:33:57.366Z'}]
+
+MRT-00004 --> FRR 40.401988 -8.225310 Mortágua Avenida Bombeiros Voluntários
+PT*FRR*E*MRT*00004*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T09:10:42.883Z'}]
+PT*FRR*E*MRT*00004*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-09T14:18:57.313Z'}]
+
+PRT-00283 --> ATL 41.159470 -8.639050 Porto Avenida da Boavista 1349
+PT*ATL*EPRT*00283*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-10T14:27:12.345Z'}]
+PT*ATL*EPRT*00283*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-10T14:27:12.345Z'}]
+PT*ATL*EPRT*00283*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-10T14:27:12.345Z'}]
+
+TBR-00007 --> HLX 41.7260012 -8.16502 Terras de Bouro Rua de Arnassó 45,
+PT*HLX*E*TBR*00007*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-12-06T14:01:25.369Z'}]
+PT*HLX*E*TBR*00007*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-12-06T14:01:25.369Z'}]
+
+TBR-00008 --> HLX 41.7258966 -8.1650285 Terras de Bouro Rua de Arnassó 45,  Terras de Bouro
+PT*HLX*E*TBR*00008*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T13:57:31.893Z'}]
+PT*HLX*E*TBR*00008*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T13:57:31.893Z'}]
+Removidos:['PRD-00028', 'PTL-00019', 'VRL-00040']
+MTS-00038
+: 
+ NEW address : AV MÁRIO BRITO - EN107 SENTIDO AEROPORTO MTS
+ OLD address : Av. Mario de Brito S/N
+MTS-00038
+coordinates: 
+ NEW latitude : 41.220312
+ OLD latitude : 41.220266
+MTS-00038
+coordinates: 
+ NEW longitude : -8.687936
+ OLD longitude : -8.687927
+MTS-00038
+: 
+ NEW coordinates : {'latitude': '41.220312', 'longitude': '-8.687936'}
+ OLD coordinates : {'latitude': '41.220266', 'longitude': '-8.687927'}
+MTS-00038
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00038*01
+ OLD evse_id : PT*GLP*E*MTS*00038*01
+MTS-00038
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00038*02
+ OLD evse_id : PT*GLP*E*MTS*00038*02
+MTS-00038
+evses -> 2: 
+ NEW evse_id : PT*GLP*EMTS*00038*03
+ OLD evse_id : PT*GLP*E*MTS*00038*03
+PNF-00046
+: 
+ NEW address : Intermarché Penafiel, Quinta do Sardoal
+ OLD address : Quinta do Sardoal
+PNF-00047
+: 
+ NEW address : Intermarché Penafiel, Quinta do Sardoal
+ OLD address : Quinta do Sardoal
+PNF-00048
+: 
+ NEW address : Intermarché Penafiel, Quinta do Sardoal
+ OLD address : Quinta do Sardoal
+SNT-00163
+: 
+ NEW address : Estrada de São Marcos, RC 1
+ OLD address : Estrada de São Marcos, RC, 1
