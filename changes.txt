@@ -31404,3 +31404,380 @@ SNT-00163
 : 
  NEW address : Estrada de São Marcos, RC 1
  OLD address : Estrada de São Marcos, RC, 1
+
+2024-12-12 21:34:02
+Adicionados:['AJT-00019', 'AJT-00020', 'AJT-00021', 'ALQ-00022', 'ALQ-00023', 'CSC-00211', 'CTM-00008', 'MOBI-LSB-00856', 'PRT-00287', 'PRT-00288', 'VFR-00091', 'VLG-00044', 'VNF-00049', 'VNF-00053']
+
+AJT-00019 --> GLP 37.92355 -8.24334 Aljustrel (A2) KM 148 (SENTIDO NORTE/SUL)
+PT*GLP*E*AJT*00019*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T10:58:11.588Z'}]
+PT*GLP*E*AJT*00019*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T10:58:11.588Z'}]
+
+AJT-00020 --> GLP 37.92355 -8.24334 Aljustrel (A2) KM 148 (SENTIDO NORTE/SUL)
+PT*GLP*E*AJT*00020*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T11:08:29.490Z'}]
+PT*GLP*E*AJT*00020*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T11:08:29.490Z'}]
+
+AJT-00021 --> GLP 37.92365 -8.24207 Aljustrel (A2) KM 148 (SENTIDO SUL/NORTE)
+PT*GLP*E*AJT*00021*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T11:37:12.998Z'}]
+PT*GLP*E*AJT*00021*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000, 'last_updated': '2024-12-11T11:37:12.998Z'}]
+
+ALQ-00022 --> GLP 39.0242526 -8.9811783 Alenquer Rua da Liberdade
+PT*GLP*E*ALQ*00022*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-11T15:06:12.234Z'}]
+PT*GLP*E*ALQ*00022*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-11T15:06:12.234Z'}]
+
+ALQ-00023 --> GLP 39.0242526 -8.9811783 Alenquer Rua da Liberdade
+PT*GLP*E*ALQ*00023*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T15:10:05.467Z'}]
+PT*GLP*E*ALQ*00023*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T15:10:05.467Z'}]
+
+CSC-00211 --> PRI 38.7409052 -9.3414440 Cascais R. Florêncio Freire 44,  São Domingos de Rana
+PT*PRI*E*CSC*00211*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-12-12T15:17:04.063Z'}]
+PT*PRI*E*CSC*00211*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-12-12T15:17:04.063Z'}]
+
+CTM-00008 --> EDP 37.23600 -7.469700 Castro Marim Lotm.Quinta do Guadiana 1 Lt. C
+PT*EDP*E*CTM*00008*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-12T16:42:18.206Z'}]
+PT*EDP*E*CTM*00008*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-12T16:42:18.206Z'}]
+
+MOBI-LSB-00856 --> GLP 38.7326517 -9.1597223 Lisboa Parque de estacionamento Faculdade Nova IMS
+PT*GLP*E*MOBI*LSB*00856*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-25T14:46:20.896Z'}]
+PT*GLP*E*MOBI*LSB*00856*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-06-25T14:46:20.896Z'}]
+
+PRT-00287 --> EDP 41.141318 -8.614891 Porto Parque Saba Ribeira, Praça Infante D Henrique
+PT*EDP*E*PRT*00287*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T16:07:49.714Z'}]
+PT*EDP*E*PRT*00287*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T16:07:49.714Z'}]
+
+PRT-00288 --> EDP 41.141318 -8.614891 Porto Parque Saba Ribeira, Praça Infante D Henrique
+PT*EDP*E*PRT*00288*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T16:03:12.134Z'}]
+PT*EDP*E*PRT*00288*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T16:03:12.134Z'}]
+
+VFR-00091 --> EDP 40.9881965 -8.5380958 Santa Maria da Feira R. CENTRAL 3198 3286,  Lourosa
+PT*EDP*E*VFR*00091*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-11T11:08:26.501Z'}]
+PT*EDP*E*VFR*00091*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-11T11:08:26.501Z'}]
+
+VLG-00044 --> HLX 41.2072304 -8.5320066 Valongo Av. Eng. Duarte Pacheco 2185
+PT*HLX*E*VLG*00044*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-12-02T09:39:14.384Z'}]
+PT*HLX*E*VLG*00044*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-12-02T09:39:14.384Z'}]
+
+VNF-00049 --> ATL 41.401750 -8.520160 Vila Nova de Famalicão Rua Padre Benjamin Salgado 110
+PT*ATL*EVNF*00049*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-11T15:33:30.000Z'}]
+PT*ATL*EVNF*00049*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-11T15:33:31.000Z'}]
+PT*ATL*EVNF*00049*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-11T15:33:32.000Z'}]
+
+VNF-00053 --> HLX 41.415151 -8.503208 Vila Nova de Famalicão Avenida do Brasil, 1223
+PT*HLX*E*VNF*00053*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-12-04T14:52:12.401Z'}]
+PT*HLX*E*VNF*00053*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-12-04T14:52:12.401Z'}]
+Removidos:['AJT-00012', 'AJT-00014', 'BJA-00053', 'BJA-00054', 'BJA-00055', 'BJA-00056', 'PRT-00168', 'PRT-00169']
+CSC-00210
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+CSC-00210
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 300
+CSC-00210
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+CSC-00210
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+CSC-00210
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 300
+CSC-00210
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+FAR-00019
+coordinates: 
+ NEW latitude : 37.0278173
+ OLD latitude : 37.027809
+FAR-00019
+coordinates: 
+ NEW longitude : -7.9446464
+ OLD longitude : -7.944625
+FAR-00019
+: 
+ NEW coordinates : {'latitude': '37.0278173', 'longitude': '-7.9446464'}
+ OLD coordinates : {'latitude': '37.027809', 'longitude': '-7.944625'}
+FAR-00074
+evses -> 1: 
+ NEW evse_id : PT*FCT*E*FAR*00074*02
+ OLD evse_id : PT*FCT*E*FAR*00074*03
+MTJ-00065
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 160000
+ OLD max_electric_power : 16000
+PRT-00239
+coordinates: 
+ NEW latitude : 41.178259
+ OLD latitude : 41.1782586
+PRT-00239
+coordinates: 
+ NEW longitude : -8.654397
+ OLD longitude : -8.6543969
+PRT-00239
+: 
+ NEW coordinates : {'latitude': '41.178259', 'longitude': '-8.654397'}
+ OLD coordinates : {'latitude': '41.1782586', 'longitude': '-8.6543969'}
+PRT-00239
+evses -> 0: 
+ NEW evse_id : PT*ATL*EPRT*00239*1
+ OLD evse_id : PT*ATL*E*PRT*00239*01
+PRT-00239
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PRT-00239
+evses -> 1: 
+ NEW evse_id : PT*ATL*EPRT*00239*2
+ OLD evse_id : PT*ATL*E*PRT*00239*02
+PRT-00239
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+SNT-00163
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+SNT-00163
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 300
+SNT-00163
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+SNT-00163
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 1000
+SNT-00163
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 120
+ OLD max_amperage : 300
+SNT-00163
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 60000
+ OLD max_electric_power : 120000
+TRF-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+TRF-00008
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 63
+TRF-00008
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 63
+VNF-00048
+evses -> 2 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+VNG-00027
+: 
+ NEW address : R. PARTICULAR DE SANTO ANTÓNIO
+ OLD address : Gaia Shopping Piso -1
+VNG-00027
+coordinates: 
+ NEW latitude : 41.116972
+ OLD latitude : 41.1169722
+VNG-00027
+coordinates: 
+ NEW longitude : -8.622777
+ OLD longitude : -8.6227777
+VNG-00027
+: 
+ NEW coordinates : {'latitude': '41.116972', 'longitude': '-8.622777'}
+ OLD coordinates : {'latitude': '41.1169722', 'longitude': '-8.6227777'}
+VNG-00027
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00027*01
+ OLD evse_id : PT*GLP*E*VNG*00027*01
+VNG-00027
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00027*02
+ OLD evse_id : PT*GLP*E*VNG*00027*02
+VNG-00028
+: 
+ NEW address : R. PARTICULAR DE SANTO ANTÓNIO
+ OLD address : Gaia Shopping Piso -1
+VNG-00028
+coordinates: 
+ NEW latitude : 41.116972
+ OLD latitude : 41.117016
+VNG-00028
+coordinates: 
+ NEW longitude : -8.622777
+ OLD longitude : -8.622657
+VNG-00028
+: 
+ NEW coordinates : {'latitude': '41.116972', 'longitude': '-8.622777'}
+ OLD coordinates : {'latitude': '41.117016', 'longitude': '-8.622657'}
+VNG-00028
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00028*01
+ OLD evse_id : PT*GLP*E*VNG*00028*01
+VNG-00028
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00028*02
+ OLD evse_id : PT*GLP*E*VNG*00028*02
+VNG-00036
+: 
+ NEW address : RUA DOM HENRIQUE DE CARNACHE
+ OLD address : Makro Vila Nova de Gaia
+VNG-00036
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00036*01
+ OLD evse_id : PT*GLP*E*VNG*00036*01
+VNG-00036
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00036*02
+ OLD evse_id : PT*GLP*E*VNG*00036*02
+VNG-00037
+: 
+ NEW address : RUA DOM HENRIQUE DE CARNACHE
+ OLD address : Makro Vila Nova de Gaia
+VNG-00037
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00037*01
+ OLD evse_id : PT*GLP*E*VNG*00037*01
+VNG-00037
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00037*02
+ OLD evse_id : PT*GLP*E*VNG*00037*02
+VNG-00038
+: 
+ NEW address : RUA DOM HENRIQUE DE CARNACHE
+ OLD address : Makro Vila Nova de Gaia
+VNG-00038
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00038*01
+ OLD evse_id : PT*GLP*E*VNG*00038*01
+VNG-00038
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00038*02
+ OLD evse_id : PT*GLP*E*VNG*00038*02
+VNG-00103
+: 
+ NEW address : PRACETA DE HENRIQUE MOREIRA
+ OLD address : Praceta Henrique Moreira 244
+VNG-00103
+coordinates: 
+ NEW latitude : 41.141320
+ OLD latitude : 41.1415756
+VNG-00103
+coordinates: 
+ NEW longitude : -8.636400
+ OLD longitude : -8.6364964
+VNG-00103
+: 
+ NEW coordinates : {'latitude': '41.141320', 'longitude': '-8.636400'}
+ OLD coordinates : {'latitude': '41.1415756', 'longitude': '-8.6364964'}
+VNG-00103
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00103*01
+ OLD evse_id : PT*GLP*E*VNG*00103*01
+VNG-00103
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00103*02
+ OLD evse_id : PT*GLP*E*VNG*00103*02
+VNG-00104
+: 
+ NEW address : PRACETA DE HENRIQUE MOREIRA
+ OLD address : Praceta Henrique Moreira 244
+VNG-00104
+coordinates: 
+ NEW latitude : 41.141320
+ OLD latitude : 41.1415756
+VNG-00104
+coordinates: 
+ NEW longitude : -8.636400
+ OLD longitude : -8.6364964
+VNG-00104
+: 
+ NEW coordinates : {'latitude': '41.141320', 'longitude': '-8.636400'}
+ OLD coordinates : {'latitude': '41.1415756', 'longitude': '-8.6364964'}
+VNG-00104
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VNG-00104
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00104*01
+ OLD evse_id : PT*GLP*E*VNG*00104*01
+VNG-00104
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 11000
+VNG-00104
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00104*02
+ OLD evse_id : PT*GLP*E*VNG*00104*02
+VNG-00156
+: 
+ NEW address : R. 5 de Outubro, 4503
+ OLD address : Rua 5 De Outubro, 4503
+VNG-00156
+coordinates: 
+ NEW latitude : 41.096734
+ OLD latitude : 41.096740
+VNG-00156
+coordinates: 
+ NEW longitude : -8.538691
+ OLD longitude : -8.538610
+VNG-00156
+: 
+ NEW coordinates : {'latitude': '41.096734', 'longitude': '-8.538691'}
+ OLD coordinates : {'latitude': '41.096740', 'longitude': '-8.538610'}
+VNG-00156
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00156*01
+ OLD evse_id : PT*GLP*E*VNG*00156*01
+VNG-00156
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00156*02
+ OLD evse_id : PT*GLP*E*VNG*00156*02
+VNG-00157
+: 
+ NEW address : R. 5 de Outubro, 4503
+ OLD address : Rua 5 De Outubro, 4503
+VNG-00157
+coordinates: 
+ NEW latitude : 41.096734
+ OLD latitude : 41.096740
+VNG-00157
+coordinates: 
+ NEW longitude : -8.538691
+ OLD longitude : -8.538610
+VNG-00157
+: 
+ NEW coordinates : {'latitude': '41.096734', 'longitude': '-8.538691'}
+ OLD coordinates : {'latitude': '41.096740', 'longitude': '-8.538610'}
+VNG-00157
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00157*01
+ OLD evse_id : PT*GLP*E*VNG*00157*01
+VNG-00157
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00157*02
+ OLD evse_id : PT*GLP*E*VNG*00157*02
+VNG-90010
+: 
+ NEW address : TRAVESSA DE PONTE PEREIRO
+ OLD address : Travessa de Ponte Pereiro
+VNG-90010
+coordinates: 
+ NEW latitude : 41.094250
+ OLD latitude : 41.09425
+VNG-90010
+coordinates: 
+ NEW longitude : -8.550147
+ OLD longitude : -8.5501472
+VNG-90010
+: 
+ NEW coordinates : {'latitude': '41.094250', 'longitude': '-8.550147'}
+ OLD coordinates : {'latitude': '41.09425', 'longitude': '-8.5501472'}
