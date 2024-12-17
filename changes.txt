@@ -31781,3 +31781,477 @@ VNG-90010
 : 
  NEW coordinates : {'latitude': '41.094250', 'longitude': '-8.550147'}
  OLD coordinates : {'latitude': '41.09425', 'longitude': '-8.5501472'}
+
+2024-12-17 20:46:56
+Adicionados:['ABF-00093', 'AVZ-00006', 'BRG-00129', 'BRG-00130', 'CPV-00003', 'LRA-00144', 'LRS-00135', 'LRS-00136', 'LSB-00847', 'LSB-00855', 'MLD-00017', 'PNF-00043', 'RGR-00010', 'STS-00029']
+
+ABF-00093 --> EDP 37.125972 -8.2374999 Albufeira Av. 12 de Julho
+PT*EDP*E*ABF*00093*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T15:32:38.732Z'}]
+PT*EDP*E*ABF*00093*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T15:32:38.732Z'}]
+
+AVZ-00006 --> EDP 39.81670 -8.37880 Alvaiázere R. Dr. Filipe Antunes dos Santos nº 8 a 10
+PT*EDP*E*AVZ*00006*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-16T12:10:14.546Z'}]
+PT*EDP*E*AVZ*00006*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-16T12:10:14.546Z'}]
+
+BRG-00129 --> EDP 41.7268726 -8.1628190 Braga Av. Manuel Francisco da Costa, 47 
+PT*EDP*E*BRG*00129*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-13T12:46:24.237Z'}]
+PT*EDP*E*BRG*00129*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-13T12:46:24.237Z'}]
+
+BRG-00130 --> EDP 41.726872 -8.162819 Braga Av. Manuel Francisco da Costa, 47
+PT*EDP*E*BRG*00130*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-13T12:36:14.575Z'}]
+PT*EDP*E*BRG*00130*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-13T12:36:14.575Z'}]
+
+CPV-00003 --> EDP 41.0438124 -8.2650969 Castelo de Paiva R. JEAN TYSSEN 100
+PT*EDP*E*CPV*00003*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-16T14:59:49.201Z'}]
+PT*EDP*E*CPV*00003*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-16T14:59:49.201Z'}]
+PT*EDP*E*CPV*00003*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-16T14:59:49.201Z'}]
+
+LRA-00144 --> KLS 39.7627778 8.7833333 Leiria Rua dos Camponeses, 
+PT*KLS*E*LRA*00144*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T10:07:41.385Z'}]
+PT*KLS*E*LRA*00144*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-12-17T10:07:41.385Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2024-12-17T10:07:41.385Z'}]
+
+LRS-00135 --> GLP 38.792440 -9.101422 Loures Rua cidade de Goa 22
+PT*GLP*E*LRS*00135*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-12-17T14:45:04.925Z'}]
+PT*GLP*E*LRS*00135*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-12-17T14:45:04.925Z'}]
+
+LRS-00136 --> GLP 38.792440 -9.101422 Loures Rua cidade de Goa 22
+PT*GLP*E*LRS*00136*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T14:29:02.807Z'}]
+PT*GLP*E*LRS*00136*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T14:29:02.807Z'}]
+
+LSB-00847 --> MOO 38.7566000 -9.1066300 Lisboa Av. Marechal Gomes da Costa 15
+PT*MOO*E13011*001*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 190, 'max_electric_power': 76000, 'last_updated': '2024-10-23T09:35:37.000Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 190, 'max_electric_power': 76000, 'last_updated': '2024-10-22T11:34:56.000Z'}]
+PT*MOO*E13011*001*2[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-10-22T11:34:56.000Z'}]
+PT*MOO*E13011*002*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-12T17:23:54.000Z'}]
+PT*MOO*E13011*003*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-12T12:38:15.000Z'}]
+PT*MOO*E13011*004*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-13T01:04:04.000Z'}]
+PT*MOO*E13011*005*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-13T13:02:37.000Z'}]
+PT*MOO*E13011*006*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-12T11:05:11.000Z'}]
+PT*MOO*E13011*007*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 64, 'max_electric_power': 25600, 'last_updated': '2024-12-13T12:28:32.000Z'}]
+PT*MOO*E13011*008*1[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-12-13T14:19:11.000Z'}]
+PT*MOO*E13011*009*1[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-12-13T13:18:00.000Z'}]
+PT*MOO*E13011*010*1[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-12-13T14:18:04.000Z'}]
+PT*MOO*E13011*011*1[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-12-10T13:52:47.000Z'}]
+PT*MOO*E13011*012*1[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22079, 'last_updated': '2024-12-13T10:06:55.000Z'}]
+
+LSB-00855 --> REP 38.7625601 -9.1410101 Lisboa CIRC SUL-NORT, AV M, Av. Mal. Craveiro Lopes 
+PT*REP*E*LSB*00855*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2024-12-13T12:51:40.417Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-13T12:51:40.417Z'}]
+PT*REP*E*LSB*00855*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-13T12:51:40.417Z'}]
+
+MLD-00017 --> MOT 40.3302198 -8.4515196 Mealhada N1, 3050-131 Casal Comba
+PT*MOT*E*MLD*00017*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 130, 'max_electric_power': 90000, 'last_updated': '2024-12-13T10:01:06.848Z'}]
+PT*MOT*E*MLD*00017*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 130, 'max_electric_power': 90000, 'last_updated': '2024-12-13T10:01:06.848Z'}]
+
+PNF-00043 --> FCT 41.1697199 -8.3295499 Penafiel Lugar da Ermida - Irivo
+PT*FCT*E*PNF*00043*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-13T12:39:07.662Z'}]
+PT*FCT*E*PNF*00043*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-13T12:39:07.662Z'}]
+PT*FCT*E*PNF*00043*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-13T12:45:12.877Z'}]
+
+RGR-00010 --> EDP 37.8212849 -25.5275045 Ribeira Grande McDonald´s, Av. Dr. José Nunes da Ponte
+PT*EDP*E*RGR*00010*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 90000, 'last_updated': '2024-12-17T11:03:31.216Z'}]
+PT*EDP*E*RGR*00010*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-12-17T11:03:31.216Z'}]
+PT*EDP*E*RGR*00010*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-17T11:03:31.216Z'}]
+
+STS-00029 --> PRI 41.3356439 -8.4775435 Santo Tirso R. Nova da Telheira 235,  Santo Tirso
+PT*PRI*E*STS*00029*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-16T14:39:18.648Z'}]
+PT*PRI*E*STS*00029*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-16T14:39:18.648Z'}]
+Removidos:['LRA-00128', 'SEI-00013', 'TMR-00042', 'VCT-00040']
+BRG-00024
+coordinates: 
+ NEW latitude : 40.006117
+ OLD latitude : 41.532828
+BRG-00024
+coordinates: 
+ NEW longitude : -8.209510
+ OLD longitude : -8.446757
+BRG-00024
+: 
+ NEW coordinates : {'latitude': '40.006117', 'longitude': '-8.209510'}
+ OLD coordinates : {'latitude': '41.532828', 'longitude': '-8.446757'}
+CPR-90002
+: 
+ NEW address : R. Dr. José Fernandes de Carvalho 6
+ OLD address : Av. de Garcia da Orta
+CPR-90002
+coordinates: 
+ NEW latitude : 40.006117
+ OLD latitude : 40.0049417
+CPR-90002
+coordinates: 
+ NEW longitude : -8.209510
+ OLD longitude : -8.2119416
+CPR-90002
+: 
+ NEW coordinates : {'latitude': '40.006117', 'longitude': '-8.209510'}
+ OLD coordinates : {'latitude': '40.0049417', 'longitude': '-8.2119416'}
+CSC-90013
+: 
+ NEW address : Praça M¡rio Azevedo Gomes
+ OLD address : Praça Mário Azevedo Gomes
+CSC-90014
+: 
+ NEW address : Largo SÃ£o Domingos
+ OLD address : Largo São Domingos
+CTB-00016
+: 
+ NEW address : Rua JoÃ£o Evangelista
+ OLD address : Rua João Evangelista
+CTB-00017
+: 
+ NEW address : E.N. 18 (Rua do Terminal) - Cruz de MontalvÃ£o
+ OLD address : E.N. 18 (Rua do Terminal) - Cruz de Montalvão
+CTB-00028
+: 
+ NEW address : Rua Santiago nÂº15
+ OLD address : Rua Santiago nº15
+CTB-00029
+: 
+ NEW address : Rua do Batista nÂº9
+ OLD address : Rua do Batista nº9
+CTB-00040
+: 
+ NEW address : Rua Camilo Castelo Branco nÂº18
+ OLD address : Rua Camilo Castelo Branco nº18
+CTB-90001
+: 
+ NEW address : PraÃ§a do MunicÃ­pio
+ OLD address : Praça do Município
+CTB-90005
+: 
+ NEW address : Avenida Pedro Ãlvares Cabral
+ OLD address : Avenida Pedro Álvares Cabral
+CTB-90006
+: 
+ NEW address : Avenida do EmpresÃ¡rio
+ OLD address : Avenida do Empresário
+CTB-90007
+: 
+ NEW address : Largo de Santo AntÃ³nio
+ OLD address : Largo de Santo António
+CTM-00004
+: 
+ NEW address : N125 UrbanizaÃ§Ã£o das Laranjeiras, Lote, 6
+ OLD address : N125 Urbanização das Laranjeiras, Lote, 6
+CTM-00005
+: 
+ NEW address : UrbanizaÃ§Ã£o Real Village
+ OLD address : Urbanização Real Village
+CTM-00006
+: 
+ NEW address : UrbanizaÃ§Ã£o Real Village
+ OLD address : Urbanização Real Village
+CTM-00007
+: 
+ NEW address : Rua JoÃ£o de Deus
+ OLD address : Rua João de Deus
+CTM-90001
+: 
+ NEW address : Rua de S. GonÃ§alo de Lagos
+ OLD address : Rua de S. Gonçalo de Lagos
+CVL-00002
+: 
+ NEW address : CovilhÃ£ Shopping
+ OLD address : Covilhã Shopping
+CVL-00002
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00003
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00004
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00005
+: 
+ NEW address : Burger king - CovilhÃ£
+ OLD address : Burger king - Covilhã
+CVL-00005
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00007
+: 
+ NEW address : Av. Infante D. Henrique Edificio IntermarchÃ©
+ OLD address : Av. Infante D. Henrique Edificio Intermarché
+CVL-00007
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00009
+: 
+ NEW address : Av Europa, lote 7, Sta Maria, CovilhÃ£
+ OLD address : Av Europa, lote 7, Sta Maria, Covilhã
+CVL-00009
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00010
+: 
+ NEW address : Acesso Ã  variante, Alameda PÃªro da CovilhÃ£
+ OLD address : Acesso à variante, Alameda Pêro da Covilhã
+CVL-00010
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00011
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00012
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00013
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00013
+: 
+ NEW address : ALAMEDA PÃRO DA COVILHÃ
+ OLD address : ALAMEDA PÊRO DA COVILHÃ
+CVL-00014
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00014
+: 
+ NEW address : ALAMEDA PÃRO DA COVILHÃ S/N
+ OLD address : ALAMEDA PÊRO DA COVILHÃ S/N
+CVL-00015
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00016
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00016
+: 
+ NEW address : Variante Ã  CovilhÃ£, 6200-012 CovilhÃ£
+ OLD address : Variante à Covilhã, 6200-012 Covilhã
+CVL-00018
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00020
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00021
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00022
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00022
+: 
+ NEW address : Rua JoÃ£o XXIII
+ OLD address : Rua João XXIII
+CVL-00023
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00023
+: 
+ NEW address : Rua Dr. Zeca GonÃ§alves
+ OLD address : Rua Dr. Zeca Gonçalves
+CVL-00024
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00025
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00025
+: 
+ NEW address : Rua Cidade do FundÃ£o
+ OLD address : Rua Cidade do Fundão
+CVL-00026
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00026
+: 
+ NEW address : Rua Professor AntÃ³nio Esteves Lopes
+ OLD address : Rua Professor António Esteves Lopes
+CVL-00027
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+CVL-00027
+: 
+ NEW address : Rua UrbanizaÃ§Ã£o Quinta do Pinheiro
+ OLD address : Rua Urbanização Quinta do Pinheiro
+CVL-00028
+: 
+ NEW city : CovilhÃ£
+ OLD city : Covilhã
+FIG-00017
+evses -> 2 -> connectors -> 0: 
+ NEW max_amperage : 125
+ OLD max_amperage : 200
+FIG-00017
+evses -> 3 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 125
+MLD-00027
+coordinates: 
+ NEW latitude : 40.3789830
+ OLD latitude : 40.378989
+MLD-00027
+coordinates: 
+ NEW longitude : -8.4532173
+ OLD longitude : -8.4580789
+MLD-00027
+: 
+ NEW coordinates : {'latitude': '40.3789830', 'longitude': '-8.4532173'}
+ OLD coordinates : {'latitude': '40.378989', 'longitude': '-8.4580789'}
+MTS-00016
+: 
+ NEW address : AV. FABRIL DO NORTE 425
+ OLD address : Av. Fabril do Norte
+MTS-00017
+: 
+ NEW address : AV. FABRIL DO NORTE 425
+ OLD address : Av. Fabril do Norte
+MTS-00018
+: 
+ NEW address : AV. FABRIL DO NORTE 425
+ OLD address : Av. Fabril do Norte
+MTS-00019
+: 
+ NEW address : AV. FABRIL DO NORTE 425
+ OLD address : Av. Fabril do Norte
+MTS-00020
+: 
+ NEW address : AV. FABRIL DO NORTE 425
+ OLD address : Av. Fabril do Norte
+MTS-00024
+coordinates: 
+ NEW latitude : 41.184455
+ OLD latitude : 41.18447
+MTS-00024
+coordinates: 
+ NEW longitude : -8.663816
+ OLD longitude : -8.663817
+MTS-00024
+: 
+ NEW coordinates : {'latitude': '41.184455', 'longitude': '-8.663816'}
+ OLD coordinates : {'latitude': '41.18447', 'longitude': '-8.663817'}
+MTS-00024
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : CHADEMO
+MTS-00024
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00024*01
+ OLD evse_id : PT*GLG*E*MTS*00024*01
+MTS-00024
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00024*02
+ OLD evse_id : PT*GLG*E*MTS*00024*02
+MTS-00024
+evses -> 2: 
+ NEW evse_id : PT*GLG*EMTS*00024*03
+ OLD evse_id : PT*GLG*E*MTS*00024*03
+MTS-00111
+: 
+ NEW address : R. Belchior Robles
+ OLD address : R. Belchior Robles, 4450-626 Leça da Palmeira
+MTS-00111
+coordinates: 
+ NEW latitude : 41.201118
+ OLD latitude : 41.20112
+MTS-00111
+coordinates: 
+ NEW longitude : -8.699169
+ OLD longitude : -8.69917
+MTS-00111
+: 
+ NEW coordinates : {'latitude': '41.201118', 'longitude': '-8.699169'}
+ OLD coordinates : {'latitude': '41.20112', 'longitude': '-8.69917'}
+MTS-00111
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00111*01
+ OLD evse_id : PT*GLG*E*MTS*00111*01
+MTS-00111
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00111*02
+ OLD evse_id : PT*GLG*E*MTS*00111*02
+OER-00170
+: 
+ NEW address : PRACETA MANUEL MARTINS (ALGÉS)
+ OLD address : GALP - Praceta Manuel Martins
+OER-00170
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 190
+OER-00170
+evses -> 0: 
+ NEW evse_id : PT*GLP*EOER*00170*01
+ OLD evse_id : PT*GLP*E*OER*00170*01
+OER-00170
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 190
+OER-00170
+evses -> 1: 
+ NEW evse_id : PT*GLP*EOER*00170*02
+ OLD evse_id : PT*GLP*E*OER*00170*02
+VNG-00019
+: 
+ NEW address : AV. VASCO DA GAMA, 1538 - OLIVEIRA DO DOURO
+ OLD address : Avenida Vasco Da Gama
+VNG-00019
+coordinates: 
+ NEW latitude : 41.113630
+ OLD latitude : 41.11363
+VNG-00019
+coordinates: 
+ NEW longitude : -8.590420
+ OLD longitude : -8.59042
+VNG-00019
+: 
+ NEW coordinates : {'latitude': '41.113630', 'longitude': '-8.590420'}
+ OLD coordinates : {'latitude': '41.11363', 'longitude': '-8.59042'}
+VNG-00019
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVNG*00019*01
+ OLD evse_id : PT*GLG*E*VNG*00019*01
+VNG-00019
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVNG*00019*02
+ OLD evse_id : PT*GLG*E*VNG*00019*02
+VNG-00019
+evses -> 2: 
+ NEW evse_id : PT*GLG*EVNG*00019*03
+ OLD evse_id : PT*GLG*E*VNG*00019*03
+VNG-00044
+: 
+ NEW address : AV. JOÃO PAULO II, S/N, Nº 431
+ OLD address : Avenida João Paulo II
+VNG-00044
+coordinates: 
+ NEW longitude : -8.639770
+ OLD longitude : -8.63977
+VNG-00044
+: 
+ NEW coordinates : {'latitude': '41.063879', 'longitude': '-8.639770'}
+ OLD coordinates : {'latitude': '41.063879', 'longitude': '-8.63977'}
+VNG-00044
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVNG*00044*01
+ OLD evse_id : PT*GLG*E*VNG*00044*01
+VNG-00044
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVNG*00044*02
+ OLD evse_id : PT*GLG*E*VNG*00044*02
+VNG-00044
+evses -> 2: 
+ NEW evse_id : PT*GLG*EVNG*00044*03
+ OLD evse_id : PT*GLG*E*VNG*00044*03
