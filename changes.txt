@@ -32255,3 +32255,419 @@ VNG-00044
 evses -> 2: 
  NEW evse_id : PT*GLG*EVNG*00044*03
  OLD evse_id : PT*GLG*E*VNG*00044*03
+
+2024-12-18 19:58:00
+Adicionados:['MOBI-CHV-00002', 'MOBI-CHV-00003', 'PMS-00014', 'SNT-00153']
+
+MOBI-CHV-00002 --> IBD 41.632977 -7.573726 Chaves Parque de Vidago, Apartado 16
+PT*IBD*E*MOBI*CHV*00002*01[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-16T08:28:29.328Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*IBD*E*MOBI*CHV*00002*02[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-16T08:28:29.328Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-CHV-00003 --> IBD 41.632977 -7.573726 Chaves Parque de Vidago, Apartado 16
+PT*IBD*E*MOBI*CHV*00003*01[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-16T08:28:29.327Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*IBD*E*MOBI*CHV*00003*02[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2024-01-16T08:28:29.327Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+PMS-00014 --> IBD 39.548776 -8.773096 Porto de Mós Rua Asseguia das Lages, 181
+PT*IBD*E*PMS*00014*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-12-18T14:38:13.217Z'}]
+PT*IBD*E*PMS*00014*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-12-18T14:38:13.217Z'}]
+
+SNT-00153 --> EVI 38.7680294 -9.2787539 Sintra Avenida Salgueiro Maia, Lote 189
+PT*EVI*E*SNT*00153*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2024-12-18T10:59:45.434Z'}]
+PT*EVI*E*SNT*00153*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 600, 'max_amperage': 100, 'max_electric_power': 60000, 'last_updated': '2024-12-18T10:59:45.434Z'}]
+Removidos:['MOBI-FIG-00002', 'MOBI-FIG-00003', 'MOBI-MTS-00009', 'MOBI-MTS-00014', 'MOBI-MTS-00015', 'MOBI-MTS-00016', 'MOBI-MTS-00017', 'MOBI-MTS-00018', 'MOBI-MTS-00019', 'MOBI-MTS-00020']
+CSC-90013
+: 
+ NEW address : Praça Mário Azevedo Gomes
+ OLD address : Praça M¡rio Azevedo Gomes
+CSC-90014
+: 
+ NEW address : Largo São Domingos
+ OLD address : Largo SÃ£o Domingos
+CTB-00016
+: 
+ NEW address : Rua João Evangelista
+ OLD address : Rua JoÃ£o Evangelista
+CTB-00017
+: 
+ NEW address : E.N. 18 (Rua do Terminal) - Cruz de Montalvão
+ OLD address : E.N. 18 (Rua do Terminal) - Cruz de MontalvÃ£o
+CTB-00028
+: 
+ NEW address : Rua Santiago nº15
+ OLD address : Rua Santiago nÂº15
+CTB-00029
+: 
+ NEW address : Rua do Batista nº9
+ OLD address : Rua do Batista nÂº9
+CTB-00040
+: 
+ NEW address : Rua Camilo Castelo Branco nº18
+ OLD address : Rua Camilo Castelo Branco nÂº18
+CTB-90001
+: 
+ NEW address : Praça do Município
+ OLD address : PraÃ§a do MunicÃ­pio
+CTB-90005
+: 
+ NEW address : Avenida Pedro Álvares Cabral
+ OLD address : Avenida Pedro Ãlvares Cabral
+CTB-90006
+: 
+ NEW address : Avenida do Empresário
+ OLD address : Avenida do EmpresÃ¡rio
+CTB-90007
+: 
+ NEW address : Largo de Santo António
+ OLD address : Largo de Santo AntÃ³nio
+CTM-00004
+: 
+ NEW address : N125 Urbanização das Laranjeiras, Lote, 6
+ OLD address : N125 UrbanizaÃ§Ã£o das Laranjeiras, Lote, 6
+CTM-00005
+: 
+ NEW address : Urbanização Real Village
+ OLD address : UrbanizaÃ§Ã£o Real Village
+CTM-00006
+: 
+ NEW address : Urbanização Real Village
+ OLD address : UrbanizaÃ§Ã£o Real Village
+CTM-00007
+: 
+ NEW address : Rua João de Deus
+ OLD address : Rua JoÃ£o de Deus
+CTM-90001
+: 
+ NEW address : Rua de S. Gonçalo de Lagos
+ OLD address : Rua de S. GonÃ§alo de Lagos
+CVL-00002
+: 
+ NEW address : Covilhã Shopping
+ OLD address : CovilhÃ£ Shopping
+CVL-00002
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00003
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00004
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00005
+: 
+ NEW address : Burger king - Covilhã
+ OLD address : Burger king - CovilhÃ£
+CVL-00005
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00007
+: 
+ NEW address : Av. Infante D. Henrique Edificio Intermarché
+ OLD address : Av. Infante D. Henrique Edificio IntermarchÃ©
+CVL-00007
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00009
+: 
+ NEW address : Av Europa, lote 7, Sta Maria, Covilhã
+ OLD address : Av Europa, lote 7, Sta Maria, CovilhÃ£
+CVL-00009
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00010
+: 
+ NEW address : Acesso à variante, Alameda Pêro da Covilhã
+ OLD address : Acesso Ã  variante, Alameda PÃªro da CovilhÃ£
+CVL-00010
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00011
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00012
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00013
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00013
+: 
+ NEW address : ALAMEDA PÊRO DA COVILHÃ
+ OLD address : ALAMEDA PÃRO DA COVILHÃ
+CVL-00014
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00014
+: 
+ NEW address : ALAMEDA PÊRO DA COVILHÃ S/N
+ OLD address : ALAMEDA PÃRO DA COVILHÃ S/N
+CVL-00015
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00016
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00016
+: 
+ NEW address : Variante à Covilhã, 6200-012 Covilhã
+ OLD address : Variante Ã  CovilhÃ£, 6200-012 CovilhÃ£
+CVL-00018
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00020
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00021
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00022
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00022
+: 
+ NEW address : Rua João XXIII
+ OLD address : Rua JoÃ£o XXIII
+CVL-00023
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00023
+: 
+ NEW address : Rua Dr. Zeca Gonçalves
+ OLD address : Rua Dr. Zeca GonÃ§alves
+CVL-00024
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00025
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00025
+: 
+ NEW address : Rua Cidade do Fundão
+ OLD address : Rua Cidade do FundÃ£o
+CVL-00026
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00026
+: 
+ NEW address : Rua Professor António Esteves Lopes
+ OLD address : Rua Professor AntÃ³nio Esteves Lopes
+CVL-00027
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+CVL-00027
+: 
+ NEW address : Rua Urbanização Quinta do Pinheiro
+ OLD address : Rua UrbanizaÃ§Ã£o Quinta do Pinheiro
+CVL-00028
+: 
+ NEW city : Covilhã
+ OLD city : CovilhÃ£
+LRS-00098
+coordinates: 
+ NEW latitude : 38.814140
+ OLD latitude : 38.813774
+LRS-00098
+coordinates: 
+ NEW longitude : -9.100540
+ OLD longitude : -9.098829
+LRS-00098
+: 
+ NEW coordinates : {'latitude': '38.814140', 'longitude': '-9.100540'}
+ OLD coordinates : {'latitude': '38.813774', 'longitude': '-9.098829'}
+MLD-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 400
+MLD-00017
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 130
+MLD-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 400
+MLD-00017
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 130
+MTS-00029
+: 
+ NEW address : VIA RÁPIDA NASCENTE
+ OLD address : Posto Galp V.Rapida Nascente
+MTS-00029
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00029*01
+ OLD evse_id : PT*GLG*E*MTS*00029*01
+MTS-00029
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00029*02
+ OLD evse_id : PT*GLG*E*MTS*00029*02
+MTS-00029
+evses -> 2: 
+ NEW evse_id : PT*GLG*EMTS*00029*03
+ OLD evse_id : PT*GLG*E*MTS*00029*03
+MTS-00031
+: 
+ NEW address : Estrada Ext. Da Circunvalação, En 12 Km 0,7
+ OLD address : Estrada Ext. Da Circunvalação En 12 Km 0,7
+MTS-00031
+coordinates: 
+ NEW latitude : 41.172091
+ OLD latitude : 41.1718859
+MTS-00031
+coordinates: 
+ NEW longitude : -8.678390
+ OLD longitude : -8.6784172
+MTS-00031
+: 
+ NEW coordinates : {'latitude': '41.172091', 'longitude': '-8.678390'}
+ OLD coordinates : {'latitude': '41.1718859', 'longitude': '-8.6784172'}
+MTS-00031
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00031*01
+ OLD evse_id : PT*GLG*E*MTS*00031*01
+MTS-00031
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00031*02
+ OLD evse_id : PT*GLG*E*MTS*00031*02
+MTS-00031
+evses -> 2: 
+ NEW evse_id : PT*GLG*EMTS*00031*03
+ OLD evse_id : PT*GLG*E*MTS*00031*03
+MTS-00032
+: 
+ NEW address : E.N. 107 KM 3
+ OLD address : Rua Mário Brito
+MTS-00032
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00032*01
+ OLD evse_id : PT*GLG*E*MTS*00032*01
+MTS-00032
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00032*02
+ OLD evse_id : PT*GLG*E*MTS*00032*02
+MTS-00032
+evses -> 2: 
+ NEW evse_id : PT*GLG*EMTS*00032*03
+ OLD evse_id : PT*GLG*E*MTS*00032*03
+MTS-00047
+: 
+ NEW address : RUA BRITO CAPELO 951
+ OLD address : Rua de Brito Capel 951, 4450-077 Matosinhos
+MTS-00047
+coordinates: 
+ NEW longitude : -8.689267
+ OLD longitude : -8.6892665
+MTS-00047
+: 
+ NEW coordinates : {'latitude': '41.179272', 'longitude': '-8.689267'}
+ OLD coordinates : {'latitude': '41.179272', 'longitude': '-8.6892665'}
+MTS-00047
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00047*01
+ OLD evse_id : PT*GLG*E*MTS*00047*01
+MTS-00047
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00047*02
+ OLD evse_id : PT*GLG*E*MTS*00047*02
+MTS-00048
+: 
+ NEW address : Rua de Brito Capelo, 951
+ OLD address : Rua de Brito Capel 951, 4450-077 Matosinhos
+MTS-00048
+coordinates: 
+ NEW latitude : 41.179698
+ OLD latitude : 41.179272
+MTS-00048
+coordinates: 
+ NEW longitude : -8.689261
+ OLD longitude : -8.6892665
+MTS-00048
+: 
+ NEW coordinates : {'latitude': '41.179698', 'longitude': '-8.689261'}
+ OLD coordinates : {'latitude': '41.179272', 'longitude': '-8.6892665'}
+MTS-00048
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00048*01
+ OLD evse_id : PT*GLG*E*MTS*00048*01
+MTS-00048
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00048*02
+ OLD evse_id : PT*GLG*E*MTS*00048*02
+MTS-00074
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+MTS-00074
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+MTS-00092
+: 
+ NEW address : IP4
+ OLD address : A4 IP4 Km3
+MTS-00092
+coordinates: 
+ NEW latitude : 41.205640
+ OLD latitude : 41.20564
+MTS-00092
+coordinates: 
+ NEW longitude : -8.639860
+ OLD longitude : -8.63986
+MTS-00092
+: 
+ NEW coordinates : {'latitude': '41.205640', 'longitude': '-8.639860'}
+ OLD coordinates : {'latitude': '41.20564', 'longitude': '-8.63986'}
+MTS-00092
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00092*01
+ OLD evse_id : PT*GLG*E*MTS*00092*01
+MTS-00092
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00092*02
+ OLD evse_id : PT*GLG*E*MTS*00092*02
+MTS-00094
+coordinates: 
+ NEW latitude : 41.171886
+ OLD latitude : 41.172072
+MTS-00094
+coordinates: 
+ NEW longitude : -8.678417
+ OLD longitude : -8.678419
+MTS-00094
+: 
+ NEW coordinates : {'latitude': '41.171886', 'longitude': '-8.678417'}
+ OLD coordinates : {'latitude': '41.172072', 'longitude': '-8.678419'}
+MTS-00094
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00094*01
+ OLD evse_id : PT*GLG*E*MTS*00094*01
+MTS-00094
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00094*02
+ OLD evse_id : PT*GLG*E*MTS*00094*02
+MTS-00094
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : MT
