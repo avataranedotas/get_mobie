@@ -32671,3 +32671,88 @@ MTS-00094
 : 
  NEW mobie_voltage_level : BTE
  OLD mobie_voltage_level : MT
+
+2024-12-19 20:21:44
+Adicionados:['ACB-00032', 'ALM-00091', 'ALM-00092', 'AND-00016', 'MTS-00177', 'MTS-00178', 'MTS-00179', 'OBR-00011', 'OER-00241', 'OER-00242', 'PRD-00028', 'PRT-00286']
+
+ACB-00032 --> PRI 39.4622255 -9.1193765 Alcobaça N8 Quinta da Mota, 2460-204 Alfeizerão
+PT*PRI*E*ACB*00032*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-12-19T13:21:58.470Z'}]
+PT*PRI*E*ACB*00032*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 180000, 'last_updated': '2024-12-19T13:21:58.470Z'}]
+
+ALM-00091 --> ATL 38.618800 -9.194090 Almada Rua de Oliveira Feijão
+PT*ATL*EALM*00091*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-19T17:37:32.496Z'}]
+PT*ATL*EALM*00091*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-19T17:37:32.496Z'}]
+PT*ATL*EALM*00091*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T17:37:32.496Z'}]
+
+ALM-00092 --> ATL 38.618800 -9.194090 Almada Rua de Pinheiro Chagas 20
+PT*ATL*EALM*00092*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-19T16:57:28.000Z'}]
+PT*ATL*EALM*00092*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 375, 'max_electric_power': 100000, 'last_updated': '2024-12-19T16:57:57.000Z'}]
+
+AND-00016 --> EDP 40.4469047 -8.4364682 Anadia AV. DAS LARANJEIRAS A
+PT*EDP*E*AND*00016*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-12-19T16:33:24.802Z'}]
+PT*EDP*E*AND*00016*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-12-19T16:33:24.802Z'}]
+PT*EDP*E*AND*00016*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T16:33:24.802Z'}]
+
+MTS-00177 --> FCT 41.1843002 -8.6818049 Matosinhos Rua de Goa, nº 2
+PT*FCT*E*MTS*00177*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-19T16:38:45.214Z'}]
+PT*FCT*E*MTS*00177*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 800000, 'last_updated': '2024-12-19T16:38:45.214Z'}]
+PT*FCT*E*MTS*00177*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-19T16:38:45.214Z'}]
+
+MTS-00178 --> FCT 41.1843341 -8.6817307 Matosinhos Rua de Goa, nº 2
+PT*FCT*E*MTS*00178*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-19T16:52:43.792Z'}]
+PT*FCT*E*MTS*00178*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-19T16:52:43.792Z'}]
+
+MTS-00179 --> FCT 41.1843434 -8.6816900 Matosinhos Rua de Goa, nº 2
+PT*FCT*E*MTS*00179*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-19T16:44:01.191Z'}]
+PT*FCT*E*MTS*00179*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2024-12-19T16:44:01.191Z'}]
+
+OBR-00011 --> GLP 40.516261 -8.494685 Oliveira do Bairro R. do Foral , 3770-218 Oliveira do Bairro
+PT*GLP*E*OBR*00011*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-19T14:29:52.059Z'}]
+PT*GLP*E*OBR*00011*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 750, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-19T14:29:52.060Z'}]
+PT*GLP*E*OBR*00011*03[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T14:29:52.060Z'}]
+
+OER-00241 --> HRZ 38.7105321 -9.2274010 Oeiras Av. das Túlipas Nº 6 6F, Algés 
+PT*HRZ*E*OER*00241*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-12-19T17:07:16.775Z'}]
+PT*HRZ*E*OER*00241*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2024-12-19T17:07:16.775Z'}]
+
+OER-00242 --> HRZ 38.7105321 -9.2274010 Oeiras Av. das Túlipas Nº 6 6F, Algés
+PT*HRZ*E*OER*00242*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T15:34:50.644Z'}]
+PT*HRZ*E*OER*00242*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T15:34:50.644Z'}]
+
+PRD-00028 --> EDP 41.207796 -8.327753 Paredes Circular Rodoviária Interna Paredes, nº 512
+PT*EDP*E*PRD*00028*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+PT*EDP*E*PRD*00028*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+PT*EDP*E*PRD*00028*03[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-30T15:55:07.402Z'}]
+
+PRT-00286 --> EDP 41.1451794 -8.6118359 Porto Parque Saba Cardosas, Largo dos Lóios
+PT*EDP*E*PRT*00286*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T14:08:46.252Z'}]
+PT*EDP*E*PRT*00286*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-19T14:08:46.252Z'}]
+Removidos:[]
+BRG-00024
+coordinates: 
+ NEW latitude : 41.532978
+ OLD latitude : 40.006117
+BRG-00024
+coordinates: 
+ NEW longitude : -8.446757
+ OLD longitude : -8.209510
+BRG-00024
+: 
+ NEW coordinates : {'latitude': '41.532978', 'longitude': '-8.446757'}
+ OLD coordinates : {'latitude': '40.006117', 'longitude': '-8.209510'}
+GDM-90001
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GDM-90001
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 3700
+GDM-90001
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 240
+GDM-90001
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 3700
