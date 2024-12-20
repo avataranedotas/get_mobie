@@ -32756,3 +32756,120 @@ GDM-90001
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 3700
+
+2024-12-20 16:33:16
+Adicionados:['ACN-00011', 'BCL-00032', 'BCL-00038', 'BNV-00013', 'CHV-00025', 'EVR-00055', 'GMR-00138', 'MTJ-00105', 'ODV-00042', 'ODV-00043', 'PRD-00032', 'PRT-00256', 'SJM-00025', 'SJM-00031', 'SJM-00038', 'SJM-00041', 'SJM-00046', 'SNT-00164', 'TVD-00048', 'TVD-00049']
+
+ACN-00011 --> HLX 39.518935 -8.688741 Alcanena Avenida São Sebastião nº 9591 
+PT*HLX*E*ACN*00011*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-12-20T10:02:06.722Z'}]
+PT*HLX*E*ACN*00011*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-12-20T10:02:06.722Z'}]
+
+BCL-00032 --> EVC 41.53385 -8.61465 Barcelos RUA CANDIDO DA CUNHA S/N BARCELOS 
+PT*EVC*E*BCL*00032*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-12-20T15:21:23.108Z'}]
+PT*EVC*E*BCL*00032*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-12-20T15:21:23.108Z'}]
+
+BCL-00038 --> EVC 41.536403 -8.6098348 Barcelos Av. Alcaides dde Faria
+PT*EVC*E*BCL*00038*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-12-20T15:08:13.139Z'}]
+PT*EVC*E*BCL*00038*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 14080, 'last_updated': '2024-12-20T15:08:13.139Z'}]
+
+BNV-00013 --> FCT 38.9161000 -8.8814400 Benavente Av. Nª Sra. De Guadalupe, nº51 Samora Correia
+PT*FCT*E*BNV*00013*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-20T09:40:05.736Z'}]
+PT*FCT*E*BNV*00013*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-20T09:40:05.736Z'}]
+PT*FCT*E*BNV*00013*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-20T09:40:05.736Z'}]
+
+CHV-00025 --> EDP 41.7385799 -7.4711380 Chaves EDIF SOLAR FLAVIENSE , 5400-239, Chaves
+PT*EDP*E*CHV*00025*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-20T11:01:47.315Z'}]
+PT*EDP*E*CHV*00025*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 7400, 'last_updated': '2024-12-20T11:01:47.315Z'}]
+
+EVR-00055 --> FCT 38.5490847 -7.9078685 Évora Rua Luís Adelino Fonseca, nº 4 
+PT*FCT*E*EVR*00055*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-12-20T15:27:22.714Z'}]
+PT*FCT*E*EVR*00055*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-12-20T15:27:22.714Z'}]
+
+GMR-00138 --> PRI 41.4393256 -8.3076935 Guimarães R. de São Miguel, 4835-106 Guimarães
+PT*PRI*E*GMR*00138*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-12-20T09:15:39.247Z'}]
+PT*PRI*E*GMR*00138*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-12-20T09:15:39.247Z'}]
+
+MTJ-00105 --> EDP 38.7021225 -8.9468852 Montijo Decathlon Montijo, Rotunda Portas Cidade
+PT*EDP*E*MTJ*00105*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-20T11:13:17.065Z'}]
+PT*EDP*E*MTJ*00105*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-20T11:13:17.065Z'}]
+
+ODV-00042 --> ATL 38.794451 -9.167596 Odivelas Rua Júlio Borba
+PT*ATL*EODV*00042*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-20T10:42:31.751Z'}]
+PT*ATL*EODV*00042*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-20T10:42:31.751Z'}]
+
+ODV-00043 --> ATL 38.794451 -9.167596 Odivelas Rua Júlio Borba
+PT*ATL*EODV*00043*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-20T10:51:04.019Z'}]
+PT*ATL*EODV*00043*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 150, 'max_electric_power': 60000, 'last_updated': '2024-12-20T10:51:04.019Z'}]
+PT*ATL*EODV*00043*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T10:51:04.019Z'}]
+
+PRD-00032 --> EDP 41.2076384 -8.3281332 Paredes Aldi, Circular Rodoviária Interna de Paredes
+PT*EDP*E*PRD*00032*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-20T11:23:57.989Z'}]
+PT*EDP*E*PRD*00032*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2024-12-20T11:23:57.989Z'}]
+
+PRT-00256 --> HLX 41.1458201 -8.6242121 Porto Rua Jorge de Viterbo Ferreira 20
+PT*HLX*E*PRT*00256*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:37:26.145Z'}]
+
+SJM-00025 --> TRK 40.904981 -8.496247 São João da Madeira Rua da Fundição - Oliva Creative Factory
+PT*TRK*E*SJM*00025*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:00:02.418Z'}]
+PT*TRK*E*SJM*00025*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:00:02.418Z'}]
+
+SJM-00031 --> TRK 40.909694 -8.491333 São João da Madeira Parque Municipal Ferreira de Castro
+PT*TRK*E*SJM*00031*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T14:49:14.656Z'}]
+PT*TRK*E*SJM*00031*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T14:49:14.656Z'}]
+
+SJM-00038 --> TRK 40.885500 -8.486500 São João da Madeira Rua Visconde - Sanjotec
+PT*TRK*E*SJM*00038*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:11:04.885Z'}]
+PT*TRK*E*SJM*00038*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:11:04.885Z'}]
+
+SJM-00041 --> TRK 40.883275 -8.492078 São João da Madeira Rua do Orreiro
+PT*TRK*E*SJM*00041*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:18:21.201Z'}]
+PT*TRK*E*SJM*00041*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T15:18:21.201Z'}]
+
+SJM-00046 --> TRK 40.913977 -8.488658 São João da Madeira Rua da Mourisca - Escola EB2/3
+PT*TRK*E*SJM*00046*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T14:21:50.939Z'}]
+PT*TRK*E*SJM*00046*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-20T14:21:50.939Z'}]
+
+SNT-00164 --> ATL 38.792760 -9.329300 Sintra Rua António Ferreira Gomes 1
+PT*ATL*ESNT*00164*1[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 375, 'max_electric_power': 120000, 'last_updated': '2024-12-20T16:07:21.892Z'}]
+PT*ATL*ESNT*00164*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 375, 'max_electric_power': 120000, 'last_updated': '2024-12-20T16:07:21.892Z'}]
+
+TVD-00048 --> HRZ 39.1017853 -9.2535683 Torres Vedras R. António Alves Ferreira 2
+PT*HRZ*E*TVD*00048*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2024-12-20T16:17:09.557Z'}]
+PT*HRZ*E*TVD*00048*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 125, 'max_electric_power': 100000, 'last_updated': '2024-12-20T16:17:09.557Z'}]
+
+TVD-00049 --> HRZ 39.1017853 -9.2535683 Torres Vedras R. António Alves Ferreira 2
+PT*HRZ*E*TVD*00049*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-12-20T16:15:23.163Z'}]
+PT*HRZ*E*TVD*00049*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-20T16:15:23.163Z'}]
+Removidos:[]
+MTS-00178
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 500
+MTS-00178
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 500
+MTS-00179
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 500
+MTS-00179
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 150
+ OLD max_amperage : 500
+VLG-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 750
+VLG-00040
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
+VLG-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 750
+VLG-00040
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 250
+ OLD max_amperage : 200
