@@ -32873,3 +32873,113 @@ VLG-00040
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 250
  OLD max_amperage : 200
+
+2024-12-21 10:44:47
+Adicionados:['OER-00239']
+
+OER-00239 --> HRZ 38.7250185 -9.2139818 Oeiras Edf.Trevo, R. Q.ta do Paizinho 2
+PT*HRZ*E*OER*00239*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-20T16:44:54.824Z'}]
+PT*HRZ*E*OER*00239*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-12-20T16:44:54.824Z'}]
+PT*HRZ*E*OER*00239*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-12-20T16:44:54.824Z'}]
+PT*HRZ*E*OER*00239*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-12-20T16:44:54.824Z'}]
+Removidos:[]
+BCL-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
+BCL-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
+BCL-00038
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
+BCL-00038
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 14080
+MTS-00142
+coordinates: 
+ NEW latitude : 41.1839989
+ OLD latitude : 41.1843434
+MTS-00142
+coordinates: 
+ NEW longitude : -8.6820873
+ OLD longitude : -8.6816900
+MTS-00142
+: 
+ NEW coordinates : {'latitude': '41.1839989', 'longitude': '-8.6820873'}
+ OLD coordinates : {'latitude': '41.1843434', 'longitude': '-8.6816900'}
+MTS-00143
+coordinates: 
+ NEW latitude : 41.1839989
+ OLD latitude : 41.1843341
+MTS-00143
+coordinates: 
+ NEW longitude : -8.6820873
+ OLD longitude : -8.6817307
+MTS-00143
+: 
+ NEW coordinates : {'latitude': '41.1839989', 'longitude': '-8.6820873'}
+ OLD coordinates : {'latitude': '41.1843341', 'longitude': '-8.6817307'}
+MTS-00144
+coordinates: 
+ NEW latitude : 41.1839989
+ OLD latitude : 41.1843158
+MTS-00144
+coordinates: 
+ NEW longitude : -8.6820873
+ OLD longitude : -8.6817672
+MTS-00144
+: 
+ NEW coordinates : {'latitude': '41.1839989', 'longitude': '-8.6820873'}
+ OLD coordinates : {'latitude': '41.1843158', 'longitude': '-8.6817672'}
+MTS-00145
+coordinates: 
+ NEW latitude : 41.1839989
+ OLD latitude : 41.1843002
+MTS-00145
+coordinates: 
+ NEW longitude : -8.6820873
+ OLD longitude : -8.6818049
+MTS-00145
+: 
+ NEW coordinates : {'latitude': '41.1839989', 'longitude': '-8.6820873'}
+ OLD coordinates : {'latitude': '41.1843002', 'longitude': '-8.6818049'}
+MTS-00177
+coordinates: 
+ NEW latitude : 41.1843279
+ OLD latitude : 41.1843002
+MTS-00177
+coordinates: 
+ NEW longitude : -8.6817701
+ OLD longitude : -8.6818049
+MTS-00177
+: 
+ NEW coordinates : {'latitude': '41.1843279', 'longitude': '-8.6817701'}
+ OLD coordinates : {'latitude': '41.1843002', 'longitude': '-8.6818049'}
+MTS-00178
+coordinates: 
+ NEW latitude : 41.1842949
+ OLD latitude : 41.1843341
+MTS-00178
+coordinates: 
+ NEW longitude : -8.6818284
+ OLD longitude : -8.6817307
+MTS-00178
+: 
+ NEW coordinates : {'latitude': '41.1842949', 'longitude': '-8.6818284'}
+ OLD coordinates : {'latitude': '41.1843341', 'longitude': '-8.6817307'}
+MTS-00179
+coordinates: 
+ NEW latitude : 41.1843521
+ OLD latitude : 41.1843434
+MTS-00179
+coordinates: 
+ NEW longitude : -8.6816952
+ OLD longitude : -8.6816900
+MTS-00179
+: 
+ NEW coordinates : {'latitude': '41.1843521', 'longitude': '-8.6816952'}
+ OLD coordinates : {'latitude': '41.1843434', 'longitude': '-8.6816900'}
