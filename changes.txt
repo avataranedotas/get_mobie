@@ -32983,3 +32983,11 @@ MTS-00179
 : 
  NEW coordinates : {'latitude': '41.1843521', 'longitude': '-8.6816952'}
  OLD coordinates : {'latitude': '41.1843434', 'longitude': '-8.6816900'}
+
+2024-12-23 11:22:18
+Adicionados:['GMR-00137']
+
+GMR-00137 --> EVC 41.43333 -8.330235 Guimarães Rua do Reboto, Nº 454
+PT*EVC*E*GMR*00137*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T09:43:27.861Z'}]
+PT*EVC*E*GMR*00137*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T09:43:27.861Z'}]
+Removidos:[]
