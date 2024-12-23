@@ -32991,3 +32991,64 @@ GMR-00137 --> EVC 41.43333 -8.330235 Guimarães Rua do Reboto, Nº 454
 PT*EVC*E*GMR*00137*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T09:43:27.861Z'}]
 PT*EVC*E*GMR*00137*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 440, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T09:43:27.861Z'}]
 Removidos:[]
+
+2024-12-23 20:15:21
+Adicionados:['ALD-00008', 'ALD-00009', 'ALD-00010', 'ALD-00011', 'AND-00015', 'AVR-00071', 'BNV-00004', 'CTB-00042', 'VNP-00004']
+
+ALD-00008 --> FCT 40.6050937 -6.9522677 Almeida A25, Almeida
+PT*FCT*E*ALD*00008*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:11:19.168Z'}]
+PT*FCT*E*ALD*00008*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-23T17:11:19.168Z'}]
+PT*FCT*E*ALD*00008*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:11:19.168Z'}]
+
+ALD-00009 --> FCT 40.6050950 -6.9520896 Almeida A25, Almeida
+PT*FCT*E*ALD*00009*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:12:44.371Z'}]
+PT*FCT*E*ALD*00009*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-23T17:12:44.371Z'}]
+PT*FCT*E*ALD*00009*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:12:44.371Z'}]
+
+ALD-00010 --> FCT 40.6050950 -6.9520896 Almeida A25, Almeida
+PT*FCT*E*ALD*00010*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:20:35.915Z'}]
+PT*FCT*E*ALD*00010*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-23T17:20:35.915Z'}]
+PT*FCT*E*ALD*00010*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:20:35.915Z'}]
+
+ALD-00011 --> FCT 40.605084 -6.9520143 Almeida A25, Almeida
+PT*FCT*E*ALD*00011*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:22:42.674Z'}]
+PT*FCT*E*ALD*00011*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2024-12-23T17:22:42.674Z'}]
+PT*FCT*E*ALD*00011*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:22:42.674Z'}]
+
+AND-00015 --> EDP 40.4469047 -8.4364682 Anadia AV. DAS LARANJEIRAS A
+PT*EDP*E*AND*00015*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T14:34:30.753Z'}]
+PT*EDP*E*AND*00015*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T14:34:30.753Z'}]
+
+AVR-00071 --> HRZ 40.6504808 -8.6144936 Aveiro Rua Quinta das Oliveiras, Ed CC Continente
+PT*HRZ*E*AVR*00071*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T15:57:05.245Z'}]
+PT*HRZ*E*AVR*00071*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*05[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*06[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*07[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+PT*HRZ*E*AVR*00071*08[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2024-12-23T17:33:44.915Z'}]
+
+BNV-00004 --> PRI 38.917972 -8.869733 Benavente POSTO PRIO - N10 km 108,7
+PT*PRI*E*BNV*00004*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-23T12:00:51.752Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-23T12:00:51.752Z'}]
+
+CTB-00042 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00042*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2024-12-23T12:20:54.476Z'}]
+PT*MOT*E*CTB*00042*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 100, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2024-12-23T12:20:54.476Z'}]
+
+VNP-00004 --> EDP 40.8519782 -7.7289635 Vila Nova de Paiva TV. LARGO DO CARVALHAL
+PT*EDP*E*VNP*00004*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T11:17:53.022Z'}]
+PT*EDP*E*VNP*00004*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-23T11:17:53.022Z'}]
+Removidos:[]
+BCL-00022
+coordinates: 
+ NEW latitude : 41.564009
+ OLD latitude : 41.5119832
+BCL-00022
+coordinates: 
+ NEW longitude : -8.659954
+ OLD longitude : -8.6530645
+BCL-00022
+: 
+ NEW coordinates : {'latitude': '41.564009', 'longitude': '-8.659954'}
+ OLD coordinates : {'latitude': '41.5119832', 'longitude': '-8.6530645'}
