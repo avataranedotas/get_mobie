@@ -33052,3 +33052,47 @@ BCL-00022
 : 
  NEW coordinates : {'latitude': '41.564009', 'longitude': '-8.659954'}
  OLD coordinates : {'latitude': '41.5119832', 'longitude': '-8.6530645'}
+
+2024-12-26 21:57:40
+Adicionados:['CSC-00220']
+
+CSC-00220 --> BEL 38.745254 -9.341571 Cascais Estrada Nacional, 249-4 9992
+PT*BEL*E*CSC*00220*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-26T09:37:58.650Z'}]
+PT*BEL*E*CSC*00220*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-26T09:37:58.650Z'}]
+Removidos:['MTS-00142', 'MTS-00143', 'MTS-00144', 'MTS-00145']
+GDM-90001
+coordinates: 
+ NEW latitude : 41.176943
+ OLD latitude : 41.139559
+GDM-90001
+coordinates: 
+ NEW longitude : -8.561110
+ OLD longitude : -8.529141
+GDM-90001
+: 
+ NEW coordinates : {'latitude': '41.176943', 'longitude': '-8.561110'}
+ OLD coordinates : {'latitude': '41.139559', 'longitude': '-8.529141'}
+MTS-00093
+: 
+ NEW address : A4 Grande Porto,Lanço Sendim
+ OLD address : A4 IP4 Km3
+MTS-00093
+coordinates: 
+ NEW latitude : 41.204390
+ OLD latitude : 41.20439
+MTS-00093
+coordinates: 
+ NEW longitude : -8.640260
+ OLD longitude : -8.64026
+MTS-00093
+: 
+ NEW coordinates : {'latitude': '41.204390', 'longitude': '-8.640260'}
+ OLD coordinates : {'latitude': '41.20439', 'longitude': '-8.64026'}
+MTS-00093
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMTS*00093*01
+ OLD evse_id : PT*GLG*E*MTS*00093*01
+MTS-00093
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMTS*00093*02
+ OLD evse_id : PT*GLG*E*MTS*00093*02
