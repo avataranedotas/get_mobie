@@ -33151,3 +33151,28 @@ MFR-00031
 evses -> 2 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 500
+
+2024-12-30 17:33:32
+Adicionados:['CTB-00048', 'RSD-00003', 'VCT-00057', 'VCT-00058']
+
+CTB-00048 --> HLX 39.806874 -7.510197 Castelo Branco Rua terminal, 20
+PT*HLX*E*CTB*00048*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-12-30T12:29:25.934Z'}]
+PT*HLX*E*CTB*00048*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-12-30T12:29:25.934Z'}]
+
+RSD-00003 --> GLP 41.106543 -7.963112 Resende R. Egas Moniz , Resende
+PT*GLP*E*RSD*00003*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-12-30T14:37:17.170Z'}]
+PT*GLP*E*RSD*00003*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000, 'last_updated': '2024-12-30T14:37:17.170Z'}]
+
+VCT-00057 --> HRZ 41.6809496 -8.7785275 Viana do Castelo Estrada Nacional nº, Lugar da Estação 203 
+PT*HRZ*E*VCT*00057*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-12-30T11:32:26.231Z'}]
+PT*HRZ*E*VCT*00057*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 250, 'max_electric_power': 200000, 'last_updated': '2024-12-30T11:32:26.231Z'}]
+PT*HRZ*E*VCT*00057*03[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-12-30T11:32:26.231Z'}]
+PT*HRZ*E*VCT*00057*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2024-12-30T11:32:26.231Z'}]
+
+VCT-00058 --> HRZ 41.6809496 -8.7785275 Viana do Castelo Estrada Nacional nº, Lugar da Estação 203
+PT*HRZ*E*VCT*00058*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000, 'last_updated': '2024-12-30T11:32:42.776Z'}]
+Removidos:[]
+MTS-00177
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 80000
+ OLD max_electric_power : 800000
