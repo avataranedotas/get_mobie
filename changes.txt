@@ -33176,3 +33176,48 @@ MTS-00177
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 800000
+
+2025-01-01 22:15:14
+Adicionados:['ODV-00020']
+
+ODV-00020 --> ATL 38.794819 -9.167675 Odivelas Rua Júlio Borba
+PT*ATL*EODV*00020*1[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-29T13:48:18.019Z'}]
+PT*ATL*EODV*00020*2[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2024-07-29T13:48:18.019Z'}]
+PT*ATL*EODV*00020*3[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-07-29T13:48:18.019Z'}]
+Removidos:['CTB-00048', 'LGA-00038', 'LGA-00039', 'LSB-00850', 'RSD-00003', 'TBC-00004', 'VCT-00057', 'VCT-00058']
+MFR-00031
+evses -> 0: 
+ NEW evse_id : PT*ATL*E*MFR*00031*01
+ OLD evse_id : PT*ATL*EMFR*00031*1
+MFR-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 230
+MFR-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+MFR-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 22000
+MFR-00031
+evses -> 1: 
+ NEW evse_id : PT*ATL*E*MFR*00031*02
+ OLD evse_id : PT*ATL*EMFR*00031*2
+MFR-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+MFR-00031
+evses -> 2: 
+ NEW evse_id : PT*ATL*E*MFR*00031*03
+ OLD evse_id : PT*ATL*EMFR*00031*3
+MFR-00031
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 400
+MTS-00177
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 800000
+ OLD max_electric_power : 80000
