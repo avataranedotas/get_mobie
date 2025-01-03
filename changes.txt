@@ -33313,3 +33313,46 @@ MTS-00177
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 80000
  OLD max_electric_power : 800000
+
+2025-01-03 15:48:51
+Adicionados:['MOBI-VPA-00001', 'PTL-00021', 'VFR-00093']
+
+MOBI-VPA-00001 --> IBD 41.549743 -7.605665 Vila Pouca de Aguiar Parque Pedras Salgadas
+PT*IBD*E*MOBI*VPA*00001*01[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T08:33:34.536Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*IBD*E*MOBI*VPA*00001*02[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2024-01-16T08:33:34.536Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+PTL-00021 --> EDP 41.7612120 -8.5893014 Ponte de Lima Via Dom Pedro I , 661 
+PT*EDP*E*PTL*00021*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-03T10:31:03.773Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-03T10:31:03.773Z'}]
+
+VFR-00093 --> GLP 40.995989 -8.470931 Santa Maria da Feira Alameda Santo André 9-1, 4525-302 Gião
+PT*GLP*E*VFR*00093*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-03T15:21:08.667Z'}]
+PT*GLP*E*VFR*00093*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-03T15:21:08.667Z'}]
+Removidos:['CSC-00178']
+ALD-00009
+coordinates: 
+ NEW latitude : 40.6050986
+ OLD latitude : 40.6050950
+ALD-00009
+coordinates: 
+ NEW longitude : -6.9521586
+ OLD longitude : -6.9520896
+ALD-00009
+: 
+ NEW coordinates : {'latitude': '40.6050986', 'longitude': '-6.9521586'}
+ OLD coordinates : {'latitude': '40.6050950', 'longitude': '-6.9520896'}
+ALJ-00004
+: 
+ NEW address : Quinta da Seixeda, Bairro do Pombal
+ OLD address : Av. Dr. Francisco Sá Carneiro,6
+ALJ-00004
+coordinates: 
+ NEW latitude : 41.2810392
+ OLD latitude : 41.280718
+ALJ-00004
+coordinates: 
+ NEW longitude : -7.4736912
+ OLD longitude : -7.473402
+ALJ-00004
+: 
+ NEW coordinates : {'latitude': '41.2810392', 'longitude': '-7.4736912'}
+ OLD coordinates : {'latitude': '41.280718', 'longitude': '-7.473402'}
