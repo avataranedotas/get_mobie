@@ -33356,3 +33356,16 @@ ALJ-00004
 : 
  NEW coordinates : {'latitude': '41.2810392', 'longitude': '-7.4736912'}
  OLD coordinates : {'latitude': '41.280718', 'longitude': '-7.473402'}
+
+2025-01-03 19:54:22
+Adicionados:['PFR-00017', 'PFR-00018']
+
+PFR-00017 --> FCT 41.2686529 -8.4115859 Paços de Ferreira R. de São Brás 241 Frazão
+PT*FCT*E*PFR*00017*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2025-01-03T17:00:44.170Z'}]
+PT*FCT*E*PFR*00017*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2025-01-03T17:20:35.617Z'}]
+
+PFR-00018 --> FCT 41.2686489 -8.4116878 Paços de Ferreira R. de São Brás 241 Frazão
+PT*FCT*E*PFR*00018*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2025-01-03T17:04:10.072Z'}]
+PT*FCT*E*PFR*00018*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2025-01-03T17:04:10.072Z'}]
+PT*FCT*E*PFR*00018*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2025-01-03T17:04:10.072Z'}]
+Removidos:[]
