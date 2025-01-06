@@ -33369,3 +33369,163 @@ PT*FCT*E*PFR*00018*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max
 PT*FCT*E*PFR*00018*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2025-01-03T17:04:10.072Z'}]
 PT*FCT*E*PFR*00018*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2025-01-03T17:04:10.072Z'}]
 Removidos:[]
+
+2025-01-06 19:05:55
+Adicionados:['CSC-00223', 'CSC-00224', 'CSC-00225', 'CSC-00226', 'CSC-00227', 'CSC-00228', 'CSC-00229', 'MTJ-00060', 'MTJ-00061', 'SCD-00005']
+
+CSC-00223 --> TRK 38.710594 -9.414241 Cascais R. Mal. Costa Gomes, 46
+PT*TRK*E*CSC*00223*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:19:24.727Z'}]
+PT*TRK*E*CSC*00223*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:19:24.727Z'}]
+
+CSC-00224 --> TRK 38.729379 -9.407777 Cascais R. Rio das Grades, 24
+PT*TRK*E*CSC*00224*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:30:55.574Z'}]
+PT*TRK*E*CSC*00224*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:30:55.574Z'}]
+
+CSC-00225 --> TRK 38.737113 -9.396178 Cascais R. Figueira, 45
+PT*TRK*E*CSC*00225*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:38:47.931Z'}]
+PT*TRK*E*CSC*00225*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:38:47.931Z'}]
+
+CSC-00226 --> TRK 38.703183 -9.422794 Cascais Tv. Alto do Moinho Velho, 161
+PT*TRK*E*CSC*00226*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:12:46.523Z'}]
+PT*TRK*E*CSC*00226*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:12:46.523Z'}]
+
+CSC-00227 --> TRK 38.704071 -9.337795 Cascais Av. São Miguel, 210
+PT*TRK*E*CSC*00227*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:11:10.731Z'}]
+PT*TRK*E*CSC*00227*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:11:10.731Z'}]
+
+CSC-00228 --> TRK 38.742865 -9.390161 Cascais Praceta Dom Diniz, 108
+PT*TRK*E*CSC*00228*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:47:08.574Z'}]
+PT*TRK*E*CSC*00228*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:47:08.574Z'}]
+
+CSC-00229 --> TRK 38.699169 -9.335271 Cascais Av. Dr. Francisco Sá Carneiro, 729A
+PT*TRK*E*CSC*00229*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:14:47.542Z'}]
+PT*TRK*E*CSC*00229*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:14:47.542Z'}]
+
+MTJ-00060 --> TRK 38.704225 -8.9459722 Montijo Rua Dom Sancho i, 384
+PT*TRK*E*MTJ*00060*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:55:14.296Z'}]
+PT*TRK*E*MTJ*00060*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T15:55:14.296Z'}]
+
+MTJ-00061 --> TRK 38.702018 -8.948684 Montijo Rua José de Almada Negreiros, 24
+PT*TRK*E*MTJ*00061*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:04:48.224Z'}]
+PT*TRK*E*MTJ*00061*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-06T16:04:48.224Z'}]
+
+SCD-00005 --> CPS 40.4024972 -8.1304805 Santa Comba Dão CEPSA AV. GENERAL HUMBERTO DELGADO 19
+PT*CPS*E*SCD*00005*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-12-30T15:09:48.747Z'}]
+PT*CPS*E*SCD*00005*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2024-12-30T15:09:48.747Z'}]
+Removidos:['CMN-00002', 'CMN-00003']
+CSC-80002
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+CSC-80002
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+CSC-80002
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+CSC-80002
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+LRS-80013
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 7400
+LRS-80013
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 22000
+ OLD max_electric_power : 7400
+PRT-00036
+: 
+ NEW address : R. de 9 de Julho
+ OLD address : Rua de 9 de Julho, Nr 40
+PRT-00036
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00036*01
+ OLD evse_id : PT*MLT*E*PRT*00036*01
+PRT-00036
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00036*02
+ OLD evse_id : PT*MLT*E*PRT*00036*02
+PRT-00037
+: 
+ NEW address : R. de 9 de Julho
+ OLD address : Rua de 9 de Julho, Nr 40
+PRT-00037
+coordinates: 
+ NEW latitude : 41.163057
+ OLD latitude : 41.163088
+PRT-00037
+coordinates: 
+ NEW longitude : -8.623553
+ OLD longitude : -8.623606
+PRT-00037
+: 
+ NEW coordinates : {'latitude': '41.163057', 'longitude': '-8.623553'}
+ OLD coordinates : {'latitude': '41.163088', 'longitude': '-8.623606'}
+PRT-00037
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00037*01
+ OLD evse_id : PT*MLT*E*PRT*00037*01
+PRT-00037
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00037*02
+ OLD evse_id : PT*MLT*E*PRT*00037*02
+PRT-00092
+: 
+ NEW address : RUA GONÇALO CRISTOVÃO 206
+ OLD address : Rua de Gonçalo Cristóvão
+PRT-00092
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00092*01
+ OLD evse_id : PT*GLP*E*PRT*00092*01
+PRT-00092
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00092*02
+ OLD evse_id : PT*GLP*E*PRT*00092*02
+PRT-00093
+: 
+ NEW address : RUA GONÇALO CRISTOVÃO 206
+ OLD address : Rua de Gonçalo Cristóvão
+PRT-00093
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00093*01
+ OLD evse_id : PT*GLP*E*PRT*00093*01
+PRT-00093
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00093*02
+ OLD evse_id : PT*GLP*E*PRT*00093*02
+PRT-00237
+: 
+ NEW address : AVENIDA DE FRANÇA
+ OLD address : Avenida de França
+PRT-00237
+coordinates: 
+ NEW latitude : 41.161727
+ OLD latitude : 41.161437
+PRT-00237
+coordinates: 
+ NEW longitude : -8.628194
+ OLD longitude : -8.628325
+PRT-00237
+: 
+ NEW coordinates : {'latitude': '41.161727', 'longitude': '-8.628194'}
+ OLD coordinates : {'latitude': '41.161437', 'longitude': '-8.628325'}
+STR-80001
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+STR-80001
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
+STR-80001
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 16
+ OLD max_amperage : 32
+STR-80001
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 11000
+ OLD max_electric_power : 7400
