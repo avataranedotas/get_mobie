@@ -33529,3 +33529,62 @@ STR-80001
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 11000
  OLD max_electric_power : 7400
+
+2025-01-07 14:23:56
+Adicionados:['MOBI-PRT-00068', 'VFX-00094']
+
+MOBI-PRT-00068 --> GLP 41.17654 -8.605093 Porto R. Alfredo Allen n.º 455 461
+PT*GLP*E*MOBI*PRT*00068*01[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-05-22T16:37:25.212Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*E*MOBI*PRT*00068*02[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-05-22T16:37:25.213Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+VFX-00094 --> GLP 38.862396 -9.052378 Vila Franca de Xira Praia dos Pescadores 
+PT*GLP*EVFX*00094*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-07T10:46:29.463Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:[]
+EVR-00055
+coordinates: 
+ NEW latitude : 38.5497216
+ OLD latitude : 38.5490847
+EVR-00055
+coordinates: 
+ NEW longitude : -7.9081743
+ OLD longitude : -7.9078685
+EVR-00055
+: 
+ NEW coordinates : {'latitude': '38.5497216', 'longitude': '-7.9081743'}
+ OLD coordinates : {'latitude': '38.5490847', 'longitude': '-7.9078685'}
+LSB-00491
+coordinates: 
+ NEW latitude : 38.785893
+ OLD latitude : 38.7859807
+LSB-00491
+coordinates: 
+ NEW longitude : -9.119813
+ OLD longitude : -9.1224787
+LSB-00491
+: 
+ NEW coordinates : {'latitude': '38.785893', 'longitude': '-9.119813'}
+ OLD coordinates : {'latitude': '38.7859807', 'longitude': '-9.1224787'}
+PRT-00019
+: 
+ NEW address : ROTUNDA DO BESSA
+ OLD address : Av. Sidónio Pais
+PRT-00019
+coordinates: 
+ NEW latitude : 41.164090
+ OLD latitude : 41.16409
+PRT-00019
+: 
+ NEW coordinates : {'latitude': '41.164090', 'longitude': '-8.639392'}
+ OLD coordinates : {'latitude': '41.16409', 'longitude': '-8.639392'}
+PRT-00019
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPRT*00019*01
+ OLD evse_id : PT*GLG*E*PRT*00019*01
+PRT-00019
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPRT*00019*02
+ OLD evse_id : PT*GLG*E*PRT*00019*02
+PRT-00019
+evses -> 2: 
+ NEW evse_id : PT*GLG*EPRT*00019*03
+ OLD evse_id : PT*GLG*E*PRT*00019*03
