@@ -33588,3 +33588,380 @@ PRT-00019
 evses -> 2: 
  NEW evse_id : PT*GLG*EPRT*00019*03
  OLD evse_id : PT*GLG*E*PRT*00019*03
+
+2025-01-09 19:39:30
+Adicionados:['ASL-00013', 'CHV-00026', 'FND-00023', 'MLD-00008', 'MLD-00009', 'MLD-00010', 'MOBI-LSB-01096', 'MOR-00004', 'OER-00223', 'TRF-00018', 'VFX-00093']
+
+ASL-00013 --> EDP 38.379700 -8.521000 Alcácer do Sal Quinta Cova Funda, Alcácer do Sal
+PT*EDP*E*ASL*00013*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-09T12:06:29.957Z'}]
+PT*EDP*E*ASL*00013*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-09T12:06:29.957Z'}]
+
+CHV-00026 --> CPS 41.7316667 -7.4690652 Chaves CEPSA AV. DOM JOÃO I, ROTUNDA RAIO X
+PT*CPS*E*CHV*00026*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-09T14:35:19.395Z'}]
+PT*CPS*E*CHV*00026*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-09T14:35:19.395Z'}]
+
+FND-00023 --> EDP 40.1568477 -7.497479 Fundão EN18, Rua Cidade da Covilhã, SN
+PT*EDP*E*FND*00023*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-07T14:41:21.006Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-07T14:41:21.006Z'}]
+
+MLD-00008 --> HRZ 40.3939773 -8.4500627 Mealhada R. Álvaro Pedro 1
+PT*HRZ*E*MLD*00008*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*05[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*06[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*07[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+PT*HRZ*E*MLD*00008*08[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 187500, 'last_updated': '2025-01-07T15:52:51.168Z'}]
+
+MLD-00009 --> HRZ 40.3939773 -8.4500627 Mealhada Rua Álvaro Pedro 1
+PT*HRZ*E*MLD*00009*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2025-01-07T16:00:41.182Z'}]
+PT*HRZ*E*MLD*00009*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 300, 'max_electric_power': 150000, 'last_updated': '2025-01-07T16:00:41.182Z'}]
+PT*HRZ*E*MLD*00009*03[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 50000, 'last_updated': '2025-01-07T16:00:41.182Z'}]
+PT*HRZ*E*MLD*00009*04[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 200, 'max_electric_power': 100000, 'last_updated': '2025-01-07T16:00:41.182Z'}]
+
+MLD-00010 --> HRZ 40.3939773 -8.4500627 Mealhada Rua Álvaro Pedro 1
+PT*HRZ*E*MLD*00010*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-07T18:49:21.385Z'}]
+
+MOBI-LSB-01096 --> GLP 38.706066 -9.158185 Lisboa Av. 24 de Julho 74A
+PT*GLP*EMOBI*LSB*01096*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-08T11:04:47.217Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*LSB*01096*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-08T11:04:47.217Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOR-00004 --> EDP 38.9462211 -8.1590973 Mora Rua Da Cooperativa 4
+PT*EDP*E*MOR*00004*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-08T15:10:25.902Z'}]
+PT*EDP*E*MOR*00004*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-08T15:10:25.902Z'}]
+
+OER-00223 --> EDP 38.700956 -9.305406 Oeiras Rua coro de Santo Amaro de Oeiras 12
+PT*EDP*E*OER*00223*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-08T12:37:18.000Z'}]
+PT*EDP*E*OER*00223*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 62500, 'last_updated': '2025-01-08T12:37:18.000Z'}]
+
+TRF-00018 --> KLS 41.3313889 -8.5633333 Trofa Rua Raúl Brandão, 4785-135 Trofa
+PT*KLS*E*TRF*00018*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-08T13:20:12.774Z'}]
+PT*KLS*E*TRF*00018*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2025-01-08T13:20:12.774Z'}, {'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 49000, 'last_updated': '2025-01-08T13:20:12.774Z'}]
+
+VFX-00093 --> GLP 38.897048 -9.040172 Vila Franca de Xira Largo Comandante José Ferreira 
+PT*GLP*EVFX*00093*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-07T18:20:57.544Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+Removidos:['FIG-00026', 'FIG-00028', 'MOBI-PRT-00068', 'ODV-00023', 'VCT-00045']
+ASL-00007
+coordinates: 
+ NEW latitude : 38.51558
+ OLD latitude : 38.51535
+ASL-00007
+coordinates: 
+ NEW longitude : -8.58483
+ OLD longitude : -8.58595
+ASL-00007
+: 
+ NEW coordinates : {'latitude': '38.51558', 'longitude': '-8.58483'}
+ OLD coordinates : {'latitude': '38.51535', 'longitude': '-8.58595'}
+ASL-00009
+coordinates: 
+ NEW latitude : 38.51535
+ OLD latitude : 38.51558
+ASL-00009
+coordinates: 
+ NEW longitude : -8.58595
+ OLD longitude : -8.5847999
+ASL-00009
+: 
+ NEW coordinates : {'latitude': '38.51535', 'longitude': '-8.58595'}
+ OLD coordinates : {'latitude': '38.51558', 'longitude': '-8.5847999'}
+FEUP-00001
+: 
+ NEW address : RUA ROBERTO FRIAS, S/N
+ OLD address : FEUP - Rua Roberto Frias
+FEUP-00001
+coordinates: 
+ NEW longitude : -8.598625
+ OLD longitude : -8.5986249
+FEUP-00001
+: 
+ NEW coordinates : {'latitude': '41.177954', 'longitude': '-8.598625'}
+ OLD coordinates : {'latitude': '41.177954', 'longitude': '-8.5986249'}
+FEUP-00001
+evses -> 0: 
+ NEW evse_id : PT*GLP*EFEUP*00001*01
+ OLD evse_id : PT*GLP*E*FEUP*00001*01
+FEUP-00001
+evses -> 1: 
+ NEW evse_id : PT*GLP*EFEUP*00001*02
+ OLD evse_id : PT*GLP*E*FEUP*00001*02
+FEUP-00001
+evses -> 2: 
+ NEW evse_id : PT*GLP*EFEUP*00001*03
+ OLD evse_id : PT*GLP*E*FEUP*00001*03
+FEUP-00002
+: 
+ NEW address : RUA ROBERTO FRIAS, S/N
+ OLD address : FEUP - Rua Roberto Frias
+FEUP-00002
+coordinates: 
+ NEW latitude : 41.177954
+ OLD latitude : 41.178538
+FEUP-00002
+coordinates: 
+ NEW longitude : -8.5986249
+ OLD longitude : -8.594961
+FEUP-00002
+: 
+ NEW coordinates : {'latitude': '41.177954', 'longitude': '-8.5986249'}
+ OLD coordinates : {'latitude': '41.178538', 'longitude': '-8.594961'}
+FEUP-00002
+evses -> 0: 
+ NEW evse_id : PT*GLP*EFEUP*00002*01
+ OLD evse_id : PT*GLP*E*FEUP*00002*01
+FEUP-00002
+evses -> 1: 
+ NEW evse_id : PT*GLP*EFEUP*00002*02
+ OLD evse_id : PT*GLP*E*FEUP*00002*02
+FEUP-00002
+evses -> 2: 
+ NEW evse_id : PT*GLP*EFEUP*00002*03
+ OLD evse_id : PT*GLP*E*FEUP*00002*03
+MAI-00053
+coordinates: 
+ NEW latitude : 41.2081446
+ OLD latitude : 41.141332
+MAI-00053
+coordinates: 
+ NEW longitude : -8.5666963
+ OLD longitude : -8.483111
+MAI-00053
+: 
+ NEW coordinates : {'latitude': '41.2081446', 'longitude': '-8.5666963'}
+ OLD coordinates : {'latitude': '41.141332', 'longitude': '-8.483111'}
+PRT-00062
+: 
+ NEW address : AV. DA BOAVISTA 171
+ OLD address : Avenida da Boavista 171
+PRT-00062
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00062*01
+ OLD evse_id : PT*MLT*E*PRT*00062*01
+PRT-00062
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00062*02
+ OLD evse_id : PT*MLT*E*PRT*00062*02
+PRT-00121
+: 
+ NEW address : ESTRADA DA CIRCUNVALAÇÃO S/N,
+ OLD address : Estrada da Circunvalação
+PRT-00121
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00121*01
+ OLD evse_id : PT*GLP*E*PRT*00121*01
+PRT-00121
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00121*02
+ OLD evse_id : PT*GLP*E*PRT*00121*02
+PRT-00122
+: 
+ NEW address : PRAÇA DO BOM SUCESSO Nº 159
+ OLD address : Praça do Bom Sucesso 123
+PRT-00122
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00122*01
+ OLD evse_id : PT*GLP*E*PRT*00122*01
+PRT-00122
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00122*02
+ OLD evse_id : PT*GLP*E*PRT*00122*02
+PRT-00124
+: 
+ NEW address : PRAÇA DO BOM SUCESSO Nº 159
+ OLD address : Praça do Bom Sucesso 123
+PRT-00124
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00124*01
+ OLD evse_id : PT*GLP*E*PRT*00124*01
+PRT-00124
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00124*02
+ OLD evse_id : PT*GLP*E*PRT*00124*02
+PRT-00127
+: 
+ NEW address : RUA DO GÓLGOTA
+ OLD address : Rua de Entrecampos
+PRT-00127
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPRT*00127*01
+ OLD evse_id : PT*GLG*E*PRT*00127*01
+PRT-00127
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPRT*00127*02
+ OLD evse_id : PT*GLG*E*PRT*00127*02
+PRT-00127
+evses -> 2: 
+ NEW evse_id : PT*GLG*EPRT*00127*03
+ OLD evse_id : PT*GLG*E*PRT*00127*03
+PRT-00128
+: 
+ NEW address : ESTRADA EXTERIOR DA CIRCUNVALAÇÃO, 82-130
+ OLD address : Estrada Exterior da Circunvalação, 82-130
+PRT-00128
+coordinates: 
+ NEW latitude : 41.145590
+ OLD latitude : 41.14559
+PRT-00128
+coordinates: 
+ NEW longitude : -8.578060
+ OLD longitude : -8.57806
+PRT-00128
+: 
+ NEW coordinates : {'latitude': '41.145590', 'longitude': '-8.578060'}
+ OLD coordinates : {'latitude': '41.14559', 'longitude': '-8.57806'}
+PRT-00128
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPRT*00128*01
+ OLD evse_id : PT*GLG*E*PRT*00128*01
+PRT-00128
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPRT*00128*02
+ OLD evse_id : PT*GLG*E*PRT*00128*02
+PRT-00128
+evses -> 2: 
+ NEW evse_id : PT*GLG*EPRT*00128*03
+ OLD evse_id : PT*GLG*E*PRT*00128*03
+PRT-00136
+: 
+ NEW address : Rua da Pasteleira
+ OLD address : Rua da Pasteleira 219, 4150-586 Porto
+PRT-00136
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00136*01
+ OLD evse_id : PT*MLT*E*PRT*00136*01
+PRT-00136
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00136
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00136*02
+ OLD evse_id : PT*MLT*E*PRT*00136*02
+PRT-00136
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00137
+: 
+ NEW address : Rua da Pasteleira
+ OLD address : Rua da Pasteleira 219, 4150-586 Porto
+PRT-00137
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00137*01
+ OLD evse_id : PT*MLT*E*PRT*00137*01
+PRT-00137
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00137
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00137*02
+ OLD evse_id : PT*MLT*E*PRT*00137*02
+PRT-00137
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00138
+: 
+ NEW address : Rua da Pasteleira
+ OLD address : Rua da Pasteleira 219, 4150-586 Porto
+PRT-00138
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPRT*00138*01
+ OLD evse_id : PT*MLT*E*PRT*00138*01
+PRT-00138
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00138
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPRT*00138*02
+ OLD evse_id : PT*MLT*E*PRT*00138*02
+PRT-00138
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 195
+ OLD max_amperage : 182
+PRT-00170
+: 
+ NEW address : AV. DA BOAVISTA 171
+ OLD address : Avenida da Boavista 171
+PRT-00170
+coordinates: 
+ NEW latitude : 41.157225
+ OLD latitude : 41.156154
+PRT-00170
+coordinates: 
+ NEW longitude : -8.625865
+ OLD longitude : -8.626015
+PRT-00170
+: 
+ NEW coordinates : {'latitude': '41.157225', 'longitude': '-8.625865'}
+ OLD coordinates : {'latitude': '41.156154', 'longitude': '-8.626015'}
+PRT-00170
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00170*01
+ OLD evse_id : PT*GLP*E*PRT*00170*01
+PRT-00170
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00170*02
+ OLD evse_id : PT*GLP*E*PRT*00170*02
+PRT-00171
+coordinates: 
+ NEW latitude : 41.1513001
+ OLD latitude : 41.151309
+PRT-00171
+coordinates: 
+ NEW longitude : -8.6340999
+ OLD longitude : -8.634359
+PRT-00171
+: 
+ NEW coordinates : {'latitude': '41.1513001', 'longitude': '-8.6340999'}
+ OLD coordinates : {'latitude': '41.151309', 'longitude': '-8.634359'}
+PRT-00171
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPRT*00171*01
+ OLD evse_id : PT*GLG*E*PRT*00171*01
+PRT-00171
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPRT*00171*02
+ OLD evse_id : PT*GLG*E*PRT*00171*02
+VFX-00094
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+VIS-00108
+coordinates: 
+ NEW latitude : 40.658980
+ OLD latitude : 40.658466
+VIS-00108
+: 
+ NEW coordinates : {'latitude': '40.658980', 'longitude': '-7.916168'}
+ OLD coordinates : {'latitude': '40.658466', 'longitude': '-7.916168'}
+VIS-00109
+coordinates: 
+ NEW latitude : 40.658980
+ OLD latitude : 40.658466
+VIS-00109
+: 
+ NEW coordinates : {'latitude': '40.658980', 'longitude': '-7.916168'}
+ OLD coordinates : {'latitude': '40.658466', 'longitude': '-7.916168'}
+VIS-00110
+coordinates: 
+ NEW latitude : 40.655133
+ OLD latitude : 40.665755
+VIS-00110
+coordinates: 
+ NEW longitude : -7.912185
+ OLD longitude : -7.91317
+VIS-00110
+: 
+ NEW coordinates : {'latitude': '40.655133', 'longitude': '-7.912185'}
+ OLD coordinates : {'latitude': '40.665755', 'longitude': '-7.91317'}
+VIS-00111
+coordinates: 
+ NEW latitude : 40.655133
+ OLD latitude : 40.665755
+VIS-00111
+: 
+ NEW coordinates : {'latitude': '40.655133', 'longitude': '-7.913171'}
+ OLD coordinates : {'latitude': '40.665755', 'longitude': '-7.913171'}
