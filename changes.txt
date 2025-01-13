@@ -34204,3 +34204,59 @@ VNG-00162
 evses -> 1: 
  NEW evse_id : PT*GLP*EVNG*00162*02
  OLD evse_id : PT*GLP*E*VNG*00162*02
+
+2025-01-13 19:41:33
+Adicionados:['CTB-00041', 'LRS-00134', 'LSB-00852', 'OLH-00047', 'VBP-00018']
+
+CTB-00041 --> MOT 39.8085993 -7.5153523 Castelo Branco Av. Prof. Dr. Egas Moniz
+PT*MOT*E*CTB*00041*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2024-12-23T12:51:04.223Z'}]
+PT*MOT*E*CTB*00041*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 100000, 'last_updated': '2024-12-23T12:51:04.223Z'}]
+
+LRS-00134 --> EDP 38.81540 -9.15870 Loures PARQ RESID ALMIRANTE LT 11
+PT*EDP*E*LRS*00134*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-13T11:27:42.598Z'}]
+PT*EDP*E*LRS*00134*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-13T11:27:42.598Z'}]
+
+LSB-00852 --> EDP 38.7494203 -9.1427987 Lisboa RUA MANUEL RODRIGUES DA SILVA S/N
+PT*EDP*E*LSB*00852*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-13T15:53:34.973Z'}]
+PT*EDP*E*LSB*00852*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-13T15:53:34.973Z'}]
+
+OLH-00047 --> CPS 37.124393 -7.771106 Olhão CEPSA - A22, VIA DO INFANTE DE SAGRES, km 97
+PT*CPS*E*OLH*00047*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-13T15:22:34.359Z'}]
+PT*CPS*E*OLH*00047*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-13T15:22:34.359Z'}]
+
+VBP-00018 --> EDP 37.083695 -8.912558 Vila do Bispo Em1265, Rua do Mercado Municipal
+PT*EDP*E*VBP*00018*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-13T11:09:05.631Z'}]
+PT*EDP*E*VBP*00018*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-13T11:09:05.631Z'}]
+Removidos:[]
+AGH-00012
+: 
+ NEW address : GUARITA - TERRA DO PÃO - EN6-2A 33
+ OLD address : EN6-2A 33
+AGH-00013
+: 
+ NEW address : GUARITA - CONCEIÇÃO (Rua Nova)
+ OLD address : Rua Nova
+STS-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+STS-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 300
+STS-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 100000
+STS-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 800
+ OLD max_voltage : 500
+STS-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 375
+ OLD max_amperage : 200
+STS-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 200000
+ OLD max_electric_power : 150000
