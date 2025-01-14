@@ -34260,3 +34260,126 @@ STS-00020
 evses -> 1 -> connectors -> 0: 
  NEW max_electric_power : 200000
  OLD max_electric_power : 150000
+
+2025-01-14 17:32:42
+Adicionados:['SJM-00014', 'SNT-00166', 'SNT-00167', 'SNT-00168', 'SNT-00169', 'SNT-00170', 'VFX-00090']
+
+SJM-00014 --> KLS 40.905208 -8.493806 São João da Madeira Rua António José de Oliveira Júnior
+PT*KLS*E*SJM*00014*01[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2025-01-14T11:46:11.560Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*KLS*E*SJM*00014*02[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2025-01-14T11:46:11.560Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+PT*KLS*E*SJM*00014*03[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 500, 'last_updated': '2025-01-14T11:46:11.560Z', 'max_amperage': 125, 'max_electric_power': 50000}]
+
+SNT-00166 --> EDP 38.777014 -9.336348 Sintra R. Elias Garcia, 209, R/C
+PT*EDP*E*SNT*00166*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:50:41.367Z'}]
+PT*EDP*E*SNT*00166*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:50:41.367Z'}]
+
+SNT-00167 --> EDP 38.777014 -9.336348 Sintra R. Elias Garcia, 209, R/C
+PT*EDP*E*SNT*00167*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:53:29.305Z'}]
+PT*EDP*E*SNT*00167*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:53:29.305Z'}]
+
+SNT-00168 --> EDP 38.777014 -9.336348 Sintra R. Elias Garcia, 209, R/C
+PT*EDP*E*SNT*00168*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:38:42.019Z'}]
+PT*EDP*E*SNT*00168*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:38:42.019Z'}]
+
+SNT-00169 --> EDP 38.777014 -9.336348 Sintra R. Elias Garcia, 209, R/C
+PT*EDP*E*SNT*00169*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-14T11:10:45.168Z'}]
+PT*EDP*E*SNT*00169*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-14T11:10:45.168Z'}]
+PT*EDP*E*SNT*00169*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:10:45.168Z'}]
+
+SNT-00170 --> EDP 38.777014 -9.336348 Sintra R. Elias Garcia, 209, R/C
+PT*EDP*E*SNT*00170*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-14T11:08:39.690Z'}]
+PT*EDP*E*SNT*00170*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-14T11:08:39.690Z'}]
+PT*EDP*E*SNT*00170*03[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T11:08:39.690Z'}]
+
+VFX-00090 --> MOT 38.875050 -9.073844 Vila Franca de Xira R. Gentil 3
+PT*MOT*E*VFX*00090*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T16:57:11.192Z'}]
+PT*MOT*E*VFX*00090*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-14T16:57:11.192Z'}]
+Removidos:[]
+AGH-00014
+: 
+ NEW address : GUARITA - PORTO JUDEU - EN1-1A 11
+ OLD address : EN1-1A 11
+GDM-00011
+: 
+ NEW address : AV. GENERAL HUMBERTO DELGADO
+ OLD address : Av.General Humberto Delgado
+GDM-00011
+coordinates: 
+ NEW latitude : 41.147060
+ OLD latitude : 41.14706
+GDM-00011
+coordinates: 
+ NEW longitude : -8.531620
+ OLD longitude : -8.53162
+GDM-00011
+: 
+ NEW coordinates : {'latitude': '41.147060', 'longitude': '-8.531620'}
+ OLD coordinates : {'latitude': '41.14706', 'longitude': '-8.53162'}
+GDM-00011
+evses -> 0: 
+ NEW evse_id : PT*GLG*EGDM*00011*01
+ OLD evse_id : PT*GLG*E*GDM*00011*01
+GDM-00011
+evses -> 1: 
+ NEW evse_id : PT*GLG*EGDM*00011*02
+ OLD evse_id : PT*GLG*E*GDM*00011*02
+GDM-00011
+evses -> 2: 
+ NEW evse_id : PT*GLG*EGDM*00011*03
+ OLD evse_id : PT*GLG*E*GDM*00011*03
+GDM-00030
+: 
+ NEW address : RUA DOM AFONSO HENRIQUES, KM 1,8
+ OLD address : R. Dom Afonso Henriques Km 1,8
+GDM-00030
+evses -> 0: 
+ NEW evse_id : PT*GLG*EGDM*00030*01
+ OLD evse_id : PT*GLG*E*GDM*00030*01
+GDM-00030
+evses -> 1: 
+ NEW evse_id : PT*GLG*EGDM*00030*02
+ OLD evse_id : PT*GLG*E*GDM*00030*02
+HRT-00003
+: 
+ NEW address : CEDROS - Estrada Regional 1-1.ª, Praça
+ OLD address : Estrada Regional 1-1.ª, Praça
+PDL-00007
+: 
+ NEW address : HDES - Avenida D. Manuel I
+ OLD address : Avenida D. Manuel I
+PDL-00012
+: 
+ NEW address : PINGO DOCE - SÃO GONÇALO - PONTA DELGADA
+ OLD address : Rua de São Gonçalo
+PDL-00013
+: 
+ NEW address : PINGO DOCE - VALADOS - ARRIFES
+ OLD address : Rua António Resendes Tavares, 9
+PDL-00014
+: 
+ NEW address : HOTEL - AZORIS ROYAL GARDEN - Rua de Lisboa
+ OLD address : Rua de Lisboa
+PFR-00014
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 500
+PFR-00014
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 125
+RGR-00009
+: 
+ NEW address : PINGO DOCE - PICO DA PEDRA - RIBEIRA GRANDE
+ OLD address : Estrada da Ribeira Grande, Km 8 - Giestas
+VFC-00006
+: 
+ NEW address : PINGO DOCE - VILA FRANCA DO CAMPO
+ OLD address : Avenida das Comunidades Emigrantes
+VFX-00086
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 380
+VFX-00086
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 380
