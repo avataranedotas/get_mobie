@@ -34383,3 +34383,149 @@ VFX-00086
 evses -> 1 -> connectors -> 0: 
  NEW max_voltage : 400
  OLD max_voltage : 380
+
+2025-01-15 16:51:34
+Adicionados:['LLE-00186', 'MOBI-BRG-00091', 'MTR-00008', 'MTR-00010', 'SEI-00016', 'SNT-00158', 'SNT-00159', 'SNT-00160', 'VFX-00091', 'VFX-00092']
+
+LLE-00186 --> LCG 37.050865 -8.051287 Loulé Avenida Florida
+PT*LCG*E*LLE*00186*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T12:13:08.490Z'}]
+PT*LCG*E*LLE*00186*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T12:13:08.490Z'}]
+
+MOBI-BRG-00091 --> GLP 41.578129 -8.432119 Braga Caminho de Lamas 100
+PT*GLP*EMOBI*BRG*00091*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2025-01-14T17:50:47.809Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EMOBI*BRG*00091*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2025-01-14T17:50:47.809Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MTR-00008 --> ALF 41.82320 -7.79170 Montalegre Largo Luís de Camões, 7
+PT*ALF*E*MTR*00008*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T16:19:53.519Z'}]
+PT*ALF*E*MTR*00008*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T16:24:01.104Z'}]
+
+MTR-00010 --> ALF 41.713477 -8.035259 Montalegre Largo 1° de Maio
+PT*ALF*E*MTR*00010*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T14:43:29.833Z'}]
+PT*ALF*E*MTR*00010*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T14:55:58.412Z'}]
+
+SEI-00016 --> EDP 40.4208393 -7.7070795 Seia Av. Dr. Afonso Costa
+PT*EDP*E*SEI*00016*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-15T16:00:06.460Z'}]
+PT*EDP*E*SEI*00016*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-15T16:00:06.460Z'}]
+
+SNT-00158 --> FCT 38.7857724 -9.3403212 Sintra Av Almirante Gago Coutinho - Parce
+PT*FCT*E*SNT*00158*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:32:55.115Z'}]
+PT*FCT*E*SNT*00158*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2025-01-15T15:32:55.115Z'}]
+PT*FCT*E*SNT*00158*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:32:55.115Z'}]
+
+SNT-00159 --> FCT 38.7857750 -9.3404168 Sintra Av Almirante Gago Coutinho - Parce
+PT*FCT*E*SNT*00159*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:35:53.947Z'}]
+PT*FCT*E*SNT*00159*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2025-01-15T15:35:53.947Z'}]
+PT*FCT*E*SNT*00159*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:35:53.947Z'}]
+
+SNT-00160 --> FCT 38.7857863 -9.3405231 Sintra Av Almirante Gago Coutinho - Parce
+PT*FCT*E*SNT*00160*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:44:01.457Z'}]
+PT*FCT*E*SNT*00160*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 200, 'max_electric_power': 80000, 'last_updated': '2025-01-15T15:44:01.457Z'}]
+PT*FCT*E*SNT*00160*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 300000, 'last_updated': '2025-01-15T15:44:01.457Z'}]
+
+VFX-00091 --> MOT 38.878661 -9.070611 Vila Franca de Xira R. Miguel Torga
+PT*MOT*E*VFX*00091*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-15T10:33:06.384Z'}]
+
+VFX-00092 --> MOT 38.878661 -9.070611 Vila Franca de Xira R. Miguel Torga
+PT*MOT*E*VFX*00092*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-15T15:22:56.195Z'}]
+PT*MOT*E*VFX*00092*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-15T15:22:56.195Z'}]
+Removidos:[]
+BRG-00121
+coordinates: 
+ NEW latitude : 41.541321
+ OLD latitude : 41.5413206
+BRG-00121
+coordinates: 
+ NEW longitude : -8.424964
+ OLD longitude : -8.4249637
+BRG-00121
+: 
+ NEW coordinates : {'latitude': '41.541321', 'longitude': '-8.424964'}
+ OLD coordinates : {'latitude': '41.5413206', 'longitude': '-8.4249637'}
+BRG-00121
+evses -> 0: 
+ NEW evse_id : PT*ATL*EBRG*00121*1
+ OLD evse_id : PT*ATL*E*BRG*00121*01
+BRG-00121
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+BRG-00121
+evses -> 1: 
+ NEW evse_id : PT*ATL*EBRG*00121*2
+ OLD evse_id : PT*ATL*E*BRG*00121*02
+BRG-00121
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+PFR-00003
+: 
+ NEW address : RUA FERRARA PLAZA
+ OLD address : Rua Ferrara Plaza
+PFR-00003
+coordinates: 
+ NEW longitude : -8.361080
+ OLD longitude : -8.36108
+PFR-00003
+: 
+ NEW coordinates : {'latitude': '41.284344', 'longitude': '-8.361080'}
+ OLD coordinates : {'latitude': '41.284344', 'longitude': '-8.36108'}
+PFR-00003
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPFR*00003*01
+ OLD evse_id : PT*GLP*E*PFR*00003*01
+PFR-00003
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPFR*00003*02
+ OLD evse_id : PT*GLP*E*PFR*00003*02
+PFR-00004
+: 
+ NEW address : RUA FERRARA PLAZA
+ OLD address : Rua Ferrara Plaza
+PFR-00004
+coordinates: 
+ NEW longitude : -8.361080
+ OLD longitude : -8.36108
+PFR-00004
+: 
+ NEW coordinates : {'latitude': '41.284344', 'longitude': '-8.361080'}
+ OLD coordinates : {'latitude': '41.284344', 'longitude': '-8.36108'}
+PFR-00004
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPFR*00004*01
+ OLD evse_id : PT*GLP*E*PFR*00004*01
+PFR-00004
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPFR*00004*02
+ OLD evse_id : PT*GLP*E*PFR*00004*02
+PFR-00005
+: 
+ NEW address : RUA FERRARA PLAZA
+ OLD address : Rua Ferrara Plaza
+PFR-00005
+coordinates: 
+ NEW longitude : -8.361080
+ OLD longitude : -8.36108
+PFR-00005
+: 
+ NEW coordinates : {'latitude': '41.284344', 'longitude': '-8.361080'}
+ OLD coordinates : {'latitude': '41.284344', 'longitude': '-8.36108'}
+PFR-00005
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPFR*00005*01
+ OLD evse_id : PT*GLP*E*PFR*00005*01
+PFR-00005
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPFR*00005*02
+ OLD evse_id : PT*GLP*E*PFR*00005*02
+VRL-00037
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 750
+VRL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 750
+VRL-00037
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 125
