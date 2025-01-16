@@ -34529,3 +34529,51 @@ VRL-00037
 evses -> 1 -> connectors -> 0: 
  NEW max_amperage : 100
  OLD max_amperage : 125
+
+2025-01-16 21:09:21
+Adicionados:['FNC-00054', 'FNC-00058']
+
+FNC-00054 --> ECI 32.65939 -16.92562 Funchal Universidade da Madeira, 9020-105 Funchal
+PT*ECI*E*FNC*00054*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-16T16:39:58.160Z'}]
+PT*ECI*E*FNC*00054*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-16T16:39:58.160Z'}]
+
+FNC-00058 --> ECI 32.65027 -16.90913 Funchal Rua Dos Ferreiros 127-107, 9000-082 Funchal
+PT*ECI*E*FNC*00058*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-16T10:45:54.678Z'}]
+PT*ECI*E*FNC*00058*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-16T10:45:54.679Z'}]
+Removidos:[]
+MTR-90004
+coordinates: 
+ NEW latitude : 41.8446453
+ OLD latitude : 41.8900095
+MTR-90004
+coordinates: 
+ NEW longitude : -7.9509080
+ OLD longitude : -7.9582203
+MTR-90004
+: 
+ NEW coordinates : {'latitude': '41.8446453', 'longitude': '-7.9509080'}
+ OLD coordinates : {'latitude': '41.8900095', 'longitude': '-7.9582203'}
+MTS-00026
+: 
+ NEW address : R. Arroteia
+ OLD address : Makro Matosinhos
+MTS-00026
+coordinates: 
+ NEW latitude : 41.201956
+ OLD latitude : 41.201361
+MTS-00026
+coordinates: 
+ NEW longitude : -8.626323
+ OLD longitude : -8.625354
+MTS-00026
+: 
+ NEW coordinates : {'latitude': '41.201956', 'longitude': '-8.626323'}
+ OLD coordinates : {'latitude': '41.201361', 'longitude': '-8.625354'}
+MTS-00026
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMTS*00026*01
+ OLD evse_id : PT*GLP*E*MTS*00026*01
+MTS-00026
+evses -> 1: 
+ NEW evse_id : PT*GLP*EMTS*00026*02
+ OLD evse_id : PT*GLP*E*MTS*00026*02
