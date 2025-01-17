@@ -34577,3 +34577,65 @@ MTS-00026
 evses -> 1: 
  NEW evse_id : PT*GLP*EMTS*00026*02
  OLD evse_id : PT*GLP*E*MTS*00026*02
+
+2025-01-17 17:32:11
+Adicionados:['CSC-00235', 'MAI-00054', 'PRT-00254', 'PRT-00255', 'PRT-00257', 'STR-00059', 'VNG-00083', 'VNG-00084', 'VNG-00085', 'VNG-00086', 'VNG-00087', 'VNG-00088', 'VNG-00089', 'VNG-00090', 'VNG-00091']
+
+CSC-00235 --> GLP 38.735696 -9.338598 Cascais E.N 294 Km 5,75
+PT*GLP*ECSC*00235*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-17T10:21:51.762Z', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000}]
+PT*GLP*ECSC*00235*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-17T10:21:51.762Z', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000}]
+
+MAI-00054 --> EDP 41.2463111 -8.6646348 Maia Rua do Doutor Farinhote 1440 Vila Nova Telha
+PT*EDP*E*MAI*00054*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:14:05.975Z'}]
+PT*EDP*E*MAI*00054*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-09-27T09:14:05.975Z'}]
+
+PRT-00254 --> HLX 41.1458201 -8.6242121 Porto Rua Jorge de Viterbo Ferreira 20
+PT*HLX*E*PRT*00254*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-17T15:13:57.859Z'}]
+
+PRT-00255 --> HLX 41.1458201 -8.6242121 Porto Rua Jorge de Viterbo Ferreira 20
+PT*HLX*E*PRT*00255*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-17T15:19:26.527Z'}]
+
+PRT-00257 --> HLX 41.1458201 -8.6242121 Porto Rua Jorge de Viterbo Ferreira 20
+PT*HLX*E*PRT*00257*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2025-01-17T15:22:08.528Z'}]
+PT*HLX*E*PRT*00257*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 60, 'max_electric_power': 22000, 'last_updated': '2025-01-17T15:22:08.528Z'}]
+
+STR-00059 --> GLP 39.223025 -8.692211 Santarém R. Manuel do galo
+PT*GLP*ESTR*00059*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-17T10:19:36.741Z', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000}]
+PT*GLP*ESTR*00059*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-17T10:19:36.741Z', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 120000}]
+
+VNG-00083 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00083*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 120, 'max_electric_power': 50000, 'last_updated': '2024-11-19T16:07:20.936Z'}]
+PT*EDP*E*VNG*00083*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-11-19T16:07:20.936Z'}]
+
+VNG-00084 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00084*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-19T16:25:45.790Z'}]
+PT*EDP*E*VNG*00084*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-11-19T16:25:45.790Z'}]
+
+VNG-00085 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00085*01[{'format': 'CABLE', 'standard': 'CHADEMO', 'max_voltage': 920, 'last_updated': '2024-11-18T12:59:46.851Z', 'max_amperage': 150, 'max_electric_power': 50000}]
+PT*EDP*E*VNG*00085*02[{'format': 'CABLE', 'standard': 'IEC_62196_T2_COMBO', 'max_voltage': 500, 'last_updated': '2024-11-18T12:59:46.851Z', 'max_amperage': 125, 'max_electric_power': 60000}]
+
+VNG-00086 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00086*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 150, 'max_electric_power': 50000, 'last_updated': '2024-11-19T16:30:33.954Z'}]
+PT*EDP*E*VNG*00086*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 125, 'max_electric_power': 60000, 'last_updated': '2024-11-19T16:30:33.954Z'}]
+
+VNG-00087 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00087*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:34:03.177Z'}]
+PT*EDP*E*VNG*00087*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:34:03.177Z'}]
+
+VNG-00088 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00088*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:34:51.169Z'}]
+PT*EDP*E*VNG*00088*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:34:51.169Z'}]
+
+VNG-00089 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00089*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:35:37.003Z'}]
+PT*EDP*E*VNG*00089*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:35:37.003Z'}]
+
+VNG-00090 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00090*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:36:19.228Z'}]
+PT*EDP*E*VNG*00090*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:36:19.228Z'}]
+
+VNG-00091 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro da Afurada
+PT*EDP*E*VNG*00091*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:37:00.035Z'}]
+PT*EDP*E*VNG*00091*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:37:00.035Z'}]
+Removidos:[]
