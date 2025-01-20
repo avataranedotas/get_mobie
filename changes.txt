@@ -34639,3 +34639,283 @@ VNG-00091 --> EDP 41.14311 -8.64778 Vila Nova de Gaia Rua da Praia, São Pedro d
 PT*EDP*E*VNG*00091*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:37:00.035Z'}]
 PT*EDP*E*VNG*00091*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-11-19T16:37:00.035Z'}]
 Removidos:[]
+
+2025-01-20 21:47:01
+Adicionados:['LRA-00146', 'LSB-00817', 'LSB-00818', 'MFR-00042', 'VNF-00051', 'VNF-00052']
+
+LRA-00146 --> EDP 39.88730 -8.83660 Leiria EN 109, nº32
+PT*EDP*E*LRA*00146*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-20T14:08:04.952Z'}]
+PT*EDP*E*LRA*00146*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-20T14:08:04.952Z'}]
+
+LSB-00817 --> EML 38.729741 -9.106905 Lisboa Rua da Manutenção - Hub Criativo do Beato 
+PT*EML*E*LSB*00817*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-12-19T10:52:10.122Z'}]
+PT*EML*E*LSB*00817*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-12-19T10:52:10.122Z'}]
+
+LSB-00818 --> EML 38.729741 -9.106905 Lisboa Rua da Manutenção - Hub Criativo do Beato
+PT*EML*E*LSB*00818*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-12-19T10:55:28.594Z'}]
+PT*EML*E*LSB*00818*02[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 230, 'max_amperage': 32, 'max_electric_power': 11000, 'last_updated': '2024-12-19T10:55:28.594Z'}]
+
+MFR-00042 --> EDP 39.0257555 -9.3657291 Mafra R. da Bela Vista nº 30, ASFE
+PT*EDP*E*MFR*00042*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-20T12:09:41.578Z'}]
+PT*EDP*E*MFR*00042*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-20T12:09:41.578Z'}]
+
+VNF-00051 --> HLX 41.391292 -8.389975 Vila Nova de Famalicão R. 25 de Abril n.º 102,  Riba d'Ave
+PT*HLX*E*VNF*00051*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-12-04T10:34:49.027Z'}]
+PT*HLX*E*VNF*00051*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 375, 'max_electric_power': 150000, 'last_updated': '2024-12-04T10:34:49.027Z'}]
+
+VNF-00052 --> HLX 41.38971 -8.3901944 Vila Nova de Famalicão Tv. Conde de Riba de Ave,  Riba d'Ave
+PT*HLX*E*VNF*00052*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-12-04T11:55:12.175Z'}]
+PT*HLX*E*VNF*00052*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 100000, 'last_updated': '2024-12-04T11:55:12.175Z'}]
+Removidos:['AJT-00015', 'AJT-00016', 'AJT-00017', 'AJT-00018', 'VPA-00003', 'VPA-00004']
+GDM-00031
+: 
+ NEW address : R. PEDRO ÁLVARES CABRAL
+ OLD address : R. Pedro Álvares Cabral
+GDM-00031
+evses -> 0: 
+ NEW evse_id : PT*GLG*EGDM*00031*01
+ OLD evse_id : PT*GLG*E*GDM*00031*01
+GDM-00031
+evses -> 1: 
+ NEW evse_id : PT*GLG*EGDM*00031*02
+ OLD evse_id : PT*GLG*E*GDM*00031*02
+LOU-00003
+: 
+ NEW address : R. PALMIRA MEIRELES 95
+ OLD address : Rua Palmira Meireles
+LOU-00003
+coordinates: 
+ NEW latitude : 41.272590
+ OLD latitude : 41.27259
+LOU-00003
+: 
+ NEW coordinates : {'latitude': '41.272590', 'longitude': '-8.279052'}
+ OLD coordinates : {'latitude': '41.27259', 'longitude': '-8.279052'}
+LOU-00003
+evses -> 0: 
+ NEW evse_id : PT*MLT*ELOU*00003*01
+ OLD evse_id : PT*MLT*E*LOU*00003*1
+LOU-00003
+evses -> 1: 
+ NEW evse_id : PT*MLT*ELOU*00003*02
+ OLD evse_id : PT*MLT*E*LOU*00003*2
+LOU-00004
+: 
+ NEW address : R. PALMIRA MEIRELES 95
+ OLD address : Rua Palmira Meireles
+LOU-00004
+coordinates: 
+ NEW latitude : 41.272590
+ OLD latitude : 41.27259
+LOU-00004
+: 
+ NEW coordinates : {'latitude': '41.272590', 'longitude': '-8.279052'}
+ OLD coordinates : {'latitude': '41.27259', 'longitude': '-8.279052'}
+LSB-01542
+evses -> 0: 
+ NEW evse_id : PT*GLP*ELSB*01542*01
+ OLD evse_id : PT*GLP*E*LSB*01542*01
+LSB-01542
+evses -> 1: 
+ NEW evse_id : PT*GLP*ELSB*01542*02
+ OLD evse_id : PT*GLP*E*LSB*01542*02
+LSB-01543
+evses -> 0: 
+ NEW evse_id : PT*GLP*ELSB*01543*01
+ OLD evse_id : PT*GLP*E*LSB*01543*01
+LSB-01543
+evses -> 1: 
+ NEW evse_id : PT*GLP*ELSB*01543*02
+ OLD evse_id : PT*GLP*E*LSB*01543*02
+LSB-01544
+evses -> 0: 
+ NEW evse_id : PT*GLP*ELSB*01544*01
+ OLD evse_id : PT*GLP*E*LSB*01544*01
+LSB-01544
+evses -> 1: 
+ NEW evse_id : PT*GLP*ELSB*01544*02
+ OLD evse_id : PT*GLP*E*LSB*01544*02
+LSD-00002
+: 
+ NEW address : (EN 106-1) - KM 2,300 - RUA DO COMÉRCIO
+ OLD address : EN 106-1 - Km 2,300
+LSD-00002
+coordinates: 
+ NEW latitude : 41.266720
+ OLD latitude : 41.26672
+LSD-00002
+coordinates: 
+ NEW longitude : -8.290610
+ OLD longitude : -8.29061
+LSD-00002
+: 
+ NEW coordinates : {'latitude': '41.266720', 'longitude': '-8.290610'}
+ OLD coordinates : {'latitude': '41.26672', 'longitude': '-8.29061'}
+LSD-00002
+evses -> 0: 
+ NEW evse_id : PT*GLG*ELSD*00002*01
+ OLD evse_id : PT*GLG*E*LSD*00002*01
+LSD-00002
+evses -> 1: 
+ NEW evse_id : PT*GLG*ELSD*00002*02
+ OLD evse_id : PT*GLG*E*LSD*00002*02
+LSD-00002
+evses -> 2: 
+ NEW evse_id : PT*GLG*ELSD*00002*03
+ OLD evse_id : PT*GLG*E*LSD*00002*03
+LSD-00004
+coordinates: 
+ NEW latitude : 41.272590
+ OLD latitude : 41.272305
+LSD-00004
+coordinates: 
+ NEW longitude : -8.279052
+ OLD longitude : -8.279305
+LSD-00004
+: 
+ NEW coordinates : {'latitude': '41.272590', 'longitude': '-8.279052'}
+ OLD coordinates : {'latitude': '41.272305', 'longitude': '-8.279305'}
+LSD-00004
+evses -> 0: 
+ NEW evse_id : PT*GLP*ELSD*00004*01
+ OLD evse_id : PT*GLP*E*LSD*00004*01
+LSD-00004
+evses -> 1: 
+ NEW evse_id : PT*GLP*ELSD*00004*02
+ OLD evse_id : PT*GLP*E*LSD*00004*02
+PNF-00009
+: 
+ NEW address : RUA TENENTE VALADIM - E.N. 15 KM 29,600
+ OLD address : Rua Tenente Valadim E.N 15 Km 29,6
+PNF-00009
+coordinates: 
+ NEW longitude : -8.297320
+ OLD longitude : -8.29732
+PNF-00009
+: 
+ NEW coordinates : {'latitude': '41.1943001', 'longitude': '-8.297320'}
+ OLD coordinates : {'latitude': '41.1943001', 'longitude': '-8.29732'}
+PNF-00009
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPNF*00009*01
+ OLD evse_id : PT*GLG*E*PNF*00009*01
+PNF-00009
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPNF*00009*02
+ OLD evse_id : PT*GLG*E*PNF*00009*02
+PNF-00009
+evses -> 2: 
+ NEW evse_id : PT*GLG*EPNF*00009*03
+ OLD evse_id : PT*GLG*E*PNF*00009*03
+PNF-00025
+: 
+ NEW address : R. das Lajes
+ OLD address : R. das Lajes 
+PNF-00025
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00025
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00025*01
+ OLD evse_id : PT*GLP*E*PNF*00025*01
+PNF-00025
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00025
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00025*02
+ OLD evse_id : PT*GLP*E*PNF*00025*02
+PNF-00026
+: 
+ NEW address : AV. Egas Moniz EM592
+ OLD address : AV. Egas Moniz EM592 
+PNF-00026
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00026
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00026*01
+ OLD evse_id : PT*GLP*E*PNF*00026*01
+PNF-00026
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00026
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00026*02
+ OLD evse_id : PT*GLP*E*PNF*00026*02
+PNF-00028
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00028*01
+ OLD evse_id : PT*GLP*E*PNF*00028*01
+PNF-00028
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00028*02
+ OLD evse_id : PT*GLP*E*PNF*00028*02
+PNF-00029
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00029
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00029*01
+ OLD evse_id : PT*GLP*E*PNF*00029*01
+PNF-00029
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00029
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00029*02
+ OLD evse_id : PT*GLP*E*PNF*00029*02
+PNF-00030
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00030
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00030*01
+ OLD evse_id : PT*GLP*E*PNF*00030*01
+PNF-00030
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00030
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00030*02
+ OLD evse_id : PT*GLP*E*PNF*00030*02
+PNF-00032
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00032
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00032*01
+ OLD evse_id : PT*GLP*E*PNF*00032*01
+PNF-00032
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00032
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00032*02
+ OLD evse_id : PT*GLP*E*PNF*00032*02
+PNF-00033
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00033
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00033*01
+ OLD evse_id : PT*GLP*E*PNF*00033*01
+PNF-00033
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00033
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00033*02
+ OLD evse_id : PT*GLP*E*PNF*00033*02
