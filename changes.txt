@@ -34919,3 +34919,718 @@ PNF-00033
 evses -> 1: 
  NEW evse_id : PT*GLP*EPNF*00033*02
  OLD evse_id : PT*GLP*E*PNF*00033*02
+
+2025-01-21 20:28:18
+Adicionados:['AJT-00015', 'AJT-00016', 'AJT-00017', 'AJT-00018', 'ALQ-00021', 'MLD-00035', 'MOBI-LSB-01051', 'VRL-00040']
+
+AJT-00015 --> GLP 37.923550 -8.243340 Aljustrel (A2) KM 148 (SENTIDO NORTE/SUL)
+PT*GLP*EAJT*00015*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:07.411Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+PT*GLP*EAJT*00015*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:07.413Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+
+AJT-00016 --> GLP 37.923550 -8.243340 Aljustrel (A2) KM 148 (SENTIDO NORTE/SUL)
+PT*GLP*EAJT*00016*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:05.407Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+PT*GLP*EAJT*00016*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:05.408Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+
+AJT-00017 --> GLP 37.923650 -8.242070 Aljustrel (A2) KM 148 (SENTIDO SUL/NORTE)
+PT*GLP*EAJT*00017*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:03.648Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+PT*GLP*EAJT*00017*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:03.650Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+
+AJT-00018 --> GLP 37.923650 -8.242070 Aljustrel (A2) KM 148 (SENTIDO SUL/NORTE)
+PT*GLP*EAJT*00018*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:02.057Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+PT*GLP*EAJT*00018*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:02.060Z', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 200000}]
+
+ALQ-00021 --> GLP 39.052673 -9.008432 Alenquer Rua Serpa Pinto (Estacionamento Areal)
+PT*GLP*EALQ*00021*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2025-01-21T09:36:02.508Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*GLP*EALQ*00021*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'last_updated': '2025-01-21T09:36:02.508Z', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MLD-00035 --> EDP 40.3759109 -8.4508842 Mealhada Av. Dr. Luiz Correia Navega
+PT*EDP*E*MLD*00035*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-21T11:19:41.513Z'}]
+PT*EDP*E*MLD*00035*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 300, 'max_electric_power': 120000, 'last_updated': '2025-01-21T11:19:41.513Z'}]
+
+MOBI-LSB-01051 --> GLP 38.702375 -9.176277 Lisboa Av. da Índia, 30B
+PT*GLP*EMOBI*LSB*01051*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-21T10:08:27.899Z', 'max_voltage': 220, 'max_amperage': 32, 'max_electric_power': 7400}]
+
+VRL-00040 --> EDP 41.2010485 -7.6850236 Vila Real Martha's Wines & SpiritsLugar da Estalagem 4,
+PT*EDP*E*VRL*00040*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:33:07.128Z'}]
+PT*EDP*E*VRL*00040*02[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2024-12-06T10:33:07.128Z'}]
+Removidos:[]
+AMD-00055
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00055
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00055*01
+ OLD evse_id : PT*GLP*E*AMD*00055*01
+AMD-00055
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00055*02
+ OLD evse_id : PT*GLP*E*AMD*00055*02
+AMD-00057
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00057
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00057*01
+ OLD evse_id : PT*GLP*E*AMD*00057*01
+AMD-00057
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00057*02
+ OLD evse_id : PT*GLP*E*AMD*00057*02
+AMD-00058
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00058
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00058*01
+ OLD evse_id : PT*GLP*E*AMD*00058*01
+AMD-00058
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00058*02
+ OLD evse_id : PT*GLP*E*AMD*00058*02
+AMD-00060
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00060
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00060*01
+ OLD evse_id : PT*GLP*E*AMD*00060*01
+AMD-00060
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00060*02
+ OLD evse_id : PT*GLP*E*AMD*00060*02
+AMD-00061
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00061
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00061*01
+ OLD evse_id : PT*GLP*E*AMD*00061*01
+AMD-00061
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00061*02
+ OLD evse_id : PT*GLP*E*AMD*00061*02
+AMD-00062
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00062
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00062*01
+ OLD evse_id : PT*GLP*E*AMD*00062*01
+AMD-00062
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00062*02
+ OLD evse_id : PT*GLP*E*AMD*00062*02
+AMD-00063
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00063
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00063*01
+ OLD evse_id : PT*GLP*E*AMD*00063*01
+AMD-00063
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00063*02
+ OLD evse_id : PT*GLP*E*AMD*00063*02
+AMD-00064
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00064
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00064*01
+ OLD evse_id : PT*GLP*E*AMD*00064*01
+AMD-00064
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00064*02
+ OLD evse_id : PT*GLP*E*AMD*00064*02
+AMD-00065
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00065
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00065*01
+ OLD evse_id : PT*GLP*E*AMD*00065*01
+AMD-00065
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00065*02
+ OLD evse_id : PT*GLP*E*AMD*00065*02
+AMD-00066
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00066
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00066*01
+ OLD evse_id : PT*GLP*E*AMD*00066*01
+AMD-00066
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00066*02
+ OLD evse_id : PT*GLP*E*AMD*00066*02
+AMD-00067
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00067
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00067*01
+ OLD evse_id : PT*GLP*E*AMD*00067*01
+AMD-00067
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00067*02
+ OLD evse_id : PT*GLP*E*AMD*00067*02
+AMD-00068
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00068
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00068*01
+ OLD evse_id : PT*GLP*E*AMD*00068*01
+AMD-00068
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00068*02
+ OLD evse_id : PT*GLP*E*AMD*00068*02
+AMD-00069
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00069
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00069*01
+ OLD evse_id : PT*GLP*E*AMD*00069*01
+AMD-00069
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00069*02
+ OLD evse_id : PT*GLP*E*AMD*00069*02
+AMD-00070
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00070
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00070*01
+ OLD evse_id : PT*GLP*E*AMD*00070*01
+AMD-00070
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00070*02
+ OLD evse_id : PT*GLP*E*AMD*00070*02
+AMD-00071
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00071
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00071*01
+ OLD evse_id : PT*GLP*E*AMD*00071*01
+AMD-00071
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00071*02
+ OLD evse_id : PT*GLP*E*AMD*00071*02
+AMT-00026
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMT*00026*01
+ OLD evse_id : PT*GLP*E*AMT*00026*01
+AMT-00026
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMT*00026*02
+ OLD evse_id : PT*GLP*E*AMT*00026*02
+LSB-00201
+: 
+ NEW address : RUA JOÃO DE OLIVEIRA MIGUÉNS 3B
+ OLD address : Rua João de Oliveira Miguéns
+LSB-00201
+evses -> 0: 
+ NEW evse_id : PT*MLT*ELSB*00201*01
+ OLD evse_id : PT*MLT*E*LSB*00201*01
+LSB-00201
+evses -> 1: 
+ NEW evse_id : PT*MLT*ELSB*00201*02
+ OLD evse_id : PT*MLT*E*LSB*00201*02
+LSB-00201
+evses -> 2: 
+ NEW evse_id : PT*MLT*ELSB*00201*03
+ OLD evse_id : PT*MLT*E*LSB*00201*03
+MCN-90001
+: 
+ NEW address : ALAMEDA DR. MIRANDA DA ROCHA
+ OLD address : Jardim da Alameda Dr. Miranda da Rocha
+MTS-00001
+: 
+ NEW address : LARGO JOSÉ SANTOS LEÇA 4450-718 MATOSINHOS
+ OLD address : Largo José Santos Leça
+MTS-00001
+evses -> 0: 
+ NEW evse_id : PT*MLT*EMTS*00001*01
+ OLD evse_id : PT*MLT*E*MTS*00001*01
+MTS-00001
+evses -> 1: 
+ NEW evse_id : PT*MLT*EMTS*00001*02
+ OLD evse_id : PT*MLT*E*MTS*00001*02
+MTS-00001
+evses -> 2: 
+ NEW evse_id : PT*MLT*EMTS*00001*03
+ OLD evse_id : PT*MLT*E*MTS*00001*03
+MTS-00074
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : CHADEMO
+MTS-00074
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+OLH-00009
+: 
+ NEW address : R. José Dam¡sio dos Santos
+ OLD address : R. José Damásio dos Santos
+OLH-00010
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00010
+: 
+ NEW address : Av dos Bombeiros Municipais de OlhÃ£o, 6/8
+ OLD address : Av dos Bombeiros Municipais de Olhão, 6/8
+OLH-00011
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00011
+: 
+ NEW address : Av. D. JoÃ£o VI , 157 - N125
+ OLD address : Av. D. João VI , 157 - N125
+OLH-00012
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00013
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00013
+: 
+ NEW address : Avenida D. JoÃ£o VI, Lote 199 - N125
+ OLD address : Avenida D. João VI, Lote 199 - N125
+OLH-00014
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00016
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00016
+: 
+ NEW address : Av. da RepÃºblica, 14
+ OLD address : Av. da República, 14
+OLH-00017
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00018
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00019
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00019
+: 
+ NEW address : Rua JoÃ£o Augusto Saias, 10
+ OLD address : Rua João Augusto Saias, 10
+OLH-00020
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00020
+: 
+ NEW address : Rua PatrÃ£o Joaquim Casaca, 37
+ OLD address : Rua Patrão Joaquim Casaca, 37
+OLH-00021
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00021
+: 
+ NEW address : Rua de OlivenÃ§a, 3 
+ OLD address : Rua de Olivença, 3 
+OLH-00022
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00023
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00024
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00025
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00025
+: 
+ NEW address : Rua Doutor JosÃ© Afonso, 15
+ OLD address : Rua Doutor José Afonso, 15
+OLH-00026
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00026
+: 
+ NEW address : Rua do JosÃ© Botelho, 8 - Lote 15
+ OLD address : Rua do José Botelho, 8 - Lote 15
+OLH-00027
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00030
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00031
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00031
+: 
+ NEW address : Rua DÃ¢maso da EncarnaÃ§Ã£o
+ OLD address : Rua Dâmaso da Encarnação
+OLH-00034
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00035
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00036
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00038
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00039
+: 
+ NEW address : EN 125, UrbanizaÃ§Ã£o Patinha, Peares, NÂº1,
+ OLD address : EN 125, Urbanização Patinha, Peares, Nº1,
+OLH-00039
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00040
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00045
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-00047
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-90001
+: 
+ NEW address : Avenida D. JoÃ£o VI
+ OLD address : Avenida D. João VI
+OLH-90001
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLH-90002
+: 
+ NEW city : OlhÃ£o
+ OLD city : Olhão
+OLR-00001
+: 
+ NEW address : PraÃ§a do MunicÃ­pio
+ OLD address : Praça do Município
+ORM-00002
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00003
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00004
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00005
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00006
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00009
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00009
+: 
+ NEW address : Av. de Dom JosÃ© Alves Correia da Silva 279
+ OLD address : Av. de Dom José Alves Correia da Silva 279
+ORM-00011
+: 
+ NEW address : Av. de Dom JosÃ© Alves Correia da Silva
+ OLD address : Av. de Dom José Alves Correia da Silva
+ORM-00011
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00012
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00012
+: 
+ NEW address : Hotel FÃ¡tima - RUA JoÃ£o Paulo II 241
+ OLD address : Hotel Fátima - RUA João Paulo II 241
+ORM-00013
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00014
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00014
+: 
+ NEW address : Rua SÃ£o JoÃ£o de Eudes, NÂº S/N
+ OLD address : Rua São João de Eudes, Nº S/N
+ORM-00015
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00015
+: 
+ NEW address : Rua MÃ©lvin Jones, NÂº S/N
+ OLD address : Rua Mélvin Jones, Nº S/N
+ORM-00017
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00018
+: 
+ NEW address : Av. IrmÃ£ LÃºcia de Jesus 356,
+ OLD address : Av. Irmã Lúcia de Jesus 356,
+ORM-00018
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00019
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00020
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00021
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-00022
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORM-90001
+: 
+ NEW address : Rua AntÃ³nio LeitÃ£o
+ OLD address : Rua António Leitão
+ORM-90001
+: 
+ NEW city : OurÃ©m
+ OLD city : Ourém
+ORQ-00002
+: 
+ NEW address : Rua Padre AntÃ³nio Pereira
+ OLD address : Rua Padre António Pereira
+OVR-00003
+: 
+ NEW address : Av. 29 de MarÃ§o
+ OLD address : Av. 29 de Março
+OVR-00009
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00010
+: 
+ NEW address : Estrada SÃ£o JoÃ£o
+ OLD address : Estrada São João
+OVR-00011
+: 
+ NEW address : R. FamÃ­lia Colares Pinto 1695
+ OLD address : R. Família Colares Pinto 1695
+OVR-00012
+: 
+ NEW address : R. FamÃ­lia Colares Pinto 1695
+ OLD address : R. Família Colares Pinto 1695
+OVR-00015
+: 
+ NEW address : Rua Machado de Santos nÂº109/135
+ OLD address : Rua Machado de Santos nº109/135
+OVR-00018
+: 
+ NEW address : Lavouras de S. JoÃ£o, R. Monsenhor Miguel de O
+ OLD address : Lavouras de S. João, R. Monsenhor Miguel de O
+OVR-00021
+: 
+ NEW address : Rua De SÃ£o JoÃ£o, 470
+ OLD address : Rua De São João, 470
+OVR-00022
+: 
+ NEW address : Av. 29 de MarÃ§o 654 Esmoriz
+ OLD address : Av. 29 de Março 654 Esmoriz
+PNF-00005
+: 
+ NEW address : AV. SOARES DE MOURA 74
+ OLD address : Av. Soares de Moura
+PNF-00005
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPNF*00005*01
+ OLD evse_id : PT*MLT*E*PNF*00005*1
+PNF-00005
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPNF*00005*02
+ OLD evse_id : PT*MLT*E*PNF*00005*2
+PNF-00024
+: 
+ NEW address : AVENIDA DO FOLFORINHO S/N, IGREJA,4560-056
+ OLD address : AVENIDA DO FOLFORINHO S/N
+PNF-00024
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00024
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00024*01
+ OLD evse_id : PT*GLP*E*PNF*00024*01
+PNF-00024
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00024
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00024*02
+ OLD evse_id : PT*GLP*E*PNF*00024*02
+PNF-00031
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00031
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00031*01
+ OLD evse_id : PT*GLP*E*PNF*00031*01
+PNF-00031
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00031
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00031*02
+ OLD evse_id : PT*GLP*E*PNF*00031*02
+PNF-00034
+: 
+ NEW address : Rua Central de Ribaçais,
+ OLD address : Rua Central de Ribaçais
+PNF-00034
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00034
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPNF*00034*01
+ OLD evse_id : PT*GLP*E*PNF*00034*01
+PNF-00034
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+PNF-00034
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPNF*00034*02
+ OLD evse_id : PT*GLP*E*PNF*00034*02
+PNF-90004
+: 
+ NEW address : RUA DO CAVALUM
+ OLD address : Rua Cavalum
+PRD-00010
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPRD*00010*01
+ OLD evse_id : PT*GLG*E*PRD*00010*01
+PRD-00010
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPRD*00010*02
+ OLD evse_id : PT*GLG*E*PRD*00010*02
+PRT-00116
+: 
+ NEW address : ESTRADA DA CIRCUNVALAÇÃO S/N,
+ OLD address : Estrada da Circunvalação
+PRT-00116
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00116*01
+ OLD evse_id : PT*GLP*E*PRT*00116*01
+PRT-00116
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00116*02
+ OLD evse_id : PT*GLP*E*PRT*00116*02
+PRT-00123
+: 
+ NEW address : PRAÇA DO BOM SUCESSO Nº 159
+ OLD address : Praça do Bom Sucesso 123
+PRT-00123
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00123*01
+ OLD evse_id : PT*GLP*E*PRT*00123*01
+PRT-00123
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00123*02
+ OLD evse_id : PT*GLP*E*PRT*00123*02
+PRT-00236
+: 
+ NEW address : R. de Paulo da Gama 551, 4169-006 Porto
+ OLD address : R. de Paulo da Gama 551
+PRT-00236
+evses -> 0: 
+ NEW evse_id : PT*GLP*EPRT*00236*01
+ OLD evse_id : PT*GLP*E*PRT*00236*01
+PRT-00236
+evses -> 1: 
+ NEW evse_id : PT*GLP*EPRT*00236*02
+ OLD evse_id : PT*GLP*E*PRT*00236*02
+VLG-00017
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVLG*00017*01
+ OLD evse_id : PT*GLG*E*VLG*00017*01
+VLG-00017
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVLG*00017*02
+ OLD evse_id : PT*GLG*E*VLG*00017*02
+VLG-00038
+: 
+ NEW address : E.N. 105
+ OLD address : E.N. 105, R. 1º de Maio 1070 Km 8,4
+VLG-00038
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVLG*00038*01
+ OLD evse_id : PT*GLP*E*VLG*00038*01
+VLG-00038
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVLG*00038*02
+ OLD evse_id : PT*GLP*E*VLG*00038*02
