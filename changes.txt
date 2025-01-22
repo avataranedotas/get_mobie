@@ -35634,3 +35634,432 @@ VLG-00038
 evses -> 1: 
  NEW evse_id : PT*GLP*EVLG*00038*02
  OLD evse_id : PT*GLP*E*VLG*00038*02
+
+2025-01-22 11:45:48
+Adicionados:['VFR-00090']
+
+VFR-00090 --> FCT 40.9782685 -8.4813082 Santa Maria da Feira Rua de Fornos, n. 370 4525-323 Guisande
+PT*FCT*E*VFR*00090*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2025-01-07T16:26:18.442Z'}]
+PT*FCT*E*VFR*00090*02[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 400, 'max_electric_power': 80000, 'last_updated': '2024-12-05T16:54:13.709Z'}]
+PT*FCT*E*VFR*00090*03[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 150000, 'last_updated': '2025-01-07T16:26:18.442Z'}]
+Removidos:[]
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 500
+ OLD max_voltage : 920
+LSB-00670
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 100
+ OLD max_amperage : 150
+LSB-00670
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 400
+ OLD max_voltage : 920
+LSB-00670
+evses -> 2 -> connectors -> 0: 
+ NEW max_voltage : 230
+ OLD max_voltage : 400
+MAI-00034
+: 
+ NEW address : R CONSELHEIRO LUIS MAGALHAES - MOREIRA MAIA
+ OLD address : R. Conselheiro Luís Magalhães
+MAI-00034
+coordinates: 
+ NEW latitude : 41.255360
+ OLD latitude : 41.25536
+MAI-00034
+: 
+ NEW coordinates : {'latitude': '41.255360', 'longitude': '-8.654571'}
+ OLD coordinates : {'latitude': '41.25536', 'longitude': '-8.654571'}
+MAI-00034
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMAI*00034*01
+ OLD evse_id : PT*GLG*E*MAI*00034*01
+MAI-00034
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMAI*00034*02
+ OLD evse_id : PT*GLG*E*MAI*00034*02
+MAI-00036
+: 
+ NEW address : R. Dom Afonso Henriques 3965,
+ OLD address : R. Dom Afonso Henriques 3965
+MAI-00036
+evses -> 0: 
+ NEW evse_id : PT*GLG*EMAI*00036*01
+ OLD evse_id : PT*GLG*E*MAI*00036*01
+MAI-00036
+evses -> 1: 
+ NEW evse_id : PT*GLG*EMAI*00036*02
+ OLD evse_id : PT*GLG*E*MAI*00036*02
+OLH-00009
+: 
+ NEW address : R. José Damásio dos Santos
+ OLD address : R. José Dam¡sio dos Santos
+OLH-00010
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00010
+: 
+ NEW address : Av dos Bombeiros Municipais de Olhão, 6/8
+ OLD address : Av dos Bombeiros Municipais de OlhÃ£o, 6/8
+OLH-00011
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00011
+: 
+ NEW address : Av. D. João VI , 157 - N125
+ OLD address : Av. D. JoÃ£o VI , 157 - N125
+OLH-00012
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00013
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00013
+: 
+ NEW address : Avenida D. João VI, Lote 199 - N125
+ OLD address : Avenida D. JoÃ£o VI, Lote 199 - N125
+OLH-00014
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00016
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00016
+: 
+ NEW address : Av. da República, 14
+ OLD address : Av. da RepÃºblica, 14
+OLH-00017
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00018
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00019
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00019
+: 
+ NEW address : Rua João Augusto Saias, 10
+ OLD address : Rua JoÃ£o Augusto Saias, 10
+OLH-00020
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00020
+: 
+ NEW address : Rua Patrão Joaquim Casaca, 37
+ OLD address : Rua PatrÃ£o Joaquim Casaca, 37
+OLH-00021
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00021
+: 
+ NEW address : Rua de Olivença, 3 
+ OLD address : Rua de OlivenÃ§a, 3 
+OLH-00022
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00023
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00024
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00025
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00025
+: 
+ NEW address : Rua Doutor José Afonso, 15
+ OLD address : Rua Doutor JosÃ© Afonso, 15
+OLH-00026
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00026
+: 
+ NEW address : Rua do José Botelho, 8 - Lote 15
+ OLD address : Rua do JosÃ© Botelho, 8 - Lote 15
+OLH-00027
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00030
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00031
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00031
+: 
+ NEW address : Rua Dâmaso da Encarnação
+ OLD address : Rua DÃ¢maso da EncarnaÃ§Ã£o
+OLH-00034
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00035
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00036
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00038
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00039
+: 
+ NEW address : EN 125, Urbanização Patinha, Peares, Nº1,
+ OLD address : EN 125, UrbanizaÃ§Ã£o Patinha, Peares, NÂº1,
+OLH-00039
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00040
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00045
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-00047
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-90001
+: 
+ NEW address : Avenida D. João VI
+ OLD address : Avenida D. JoÃ£o VI
+OLH-90001
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLH-90002
+: 
+ NEW city : Olhão
+ OLD city : OlhÃ£o
+OLR-00001
+: 
+ NEW address : Praça do Município
+ OLD address : PraÃ§a do MunicÃ­pio
+ORM-00002
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00003
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00004
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00005
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00006
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00009
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00009
+: 
+ NEW address : Av. de Dom José Alves Correia da Silva 279
+ OLD address : Av. de Dom JosÃ© Alves Correia da Silva 279
+ORM-00011
+: 
+ NEW address : Av. de Dom José Alves Correia da Silva
+ OLD address : Av. de Dom JosÃ© Alves Correia da Silva
+ORM-00011
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00012
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00012
+: 
+ NEW address : Hotel Fátima - RUA João Paulo II 241
+ OLD address : Hotel FÃ¡tima - RUA JoÃ£o Paulo II 241
+ORM-00013
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00014
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00014
+: 
+ NEW address : Rua São João de Eudes, Nº S/N
+ OLD address : Rua SÃ£o JoÃ£o de Eudes, NÂº S/N
+ORM-00015
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00015
+: 
+ NEW address : Rua Mélvin Jones, Nº S/N
+ OLD address : Rua MÃ©lvin Jones, NÂº S/N
+ORM-00017
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00018
+: 
+ NEW address : Av. Irmã Lúcia de Jesus 356,
+ OLD address : Av. IrmÃ£ LÃºcia de Jesus 356,
+ORM-00018
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00019
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00020
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00021
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-00022
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORM-90001
+: 
+ NEW address : Rua António Leitão
+ OLD address : Rua AntÃ³nio LeitÃ£o
+ORM-90001
+: 
+ NEW city : Ourém
+ OLD city : OurÃ©m
+ORQ-00002
+: 
+ NEW address : Rua Padre António Pereira
+ OLD address : Rua Padre AntÃ³nio Pereira
+OVR-00003
+: 
+ NEW address : Av. 29 de Março
+ OLD address : Av. 29 de MarÃ§o
+OVR-00009
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada SÃ£o JoÃ£o
+OVR-00010
+: 
+ NEW address : Estrada São João
+ OLD address : Estrada SÃ£o JoÃ£o
+OVR-00011
+: 
+ NEW address : R. Família Colares Pinto 1695
+ OLD address : R. FamÃ­lia Colares Pinto 1695
+OVR-00012
+: 
+ NEW address : R. Família Colares Pinto 1695
+ OLD address : R. FamÃ­lia Colares Pinto 1695
+OVR-00015
+: 
+ NEW address : Rua Machado de Santos nº109/135
+ OLD address : Rua Machado de Santos nÂº109/135
+OVR-00018
+: 
+ NEW address : Lavouras de S. João, R. Monsenhor Miguel de O
+ OLD address : Lavouras de S. JoÃ£o, R. Monsenhor Miguel de O
+OVR-00021
+: 
+ NEW address : Rua De São João, 470
+ OLD address : Rua De SÃ£o JoÃ£o, 470
+OVR-00022
+: 
+ NEW address : Av. 29 de Março 654 Esmoriz
+ OLD address : Av. 29 de MarÃ§o 654 Esmoriz
+VCD-00014
+: 
+ NEW address : Autoestrada do Litoral Norte A28 - Km 12
+ OLD address : AE do Litoral Norte Km 12 - Modivas, A28
+VCD-00014
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00014*01
+ OLD evse_id : PT*GLG*E*VCD*00014*01
+VCD-00014
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00014*02
+ OLD evse_id : PT*GLG*E*VCD*00014*02
+VCD-00015
+: 
+ NEW address : Autoestrada do Litoral Norte A28 - Km 12
+ OLD address : AE do Litoral Norte Km 12 - Modivas, A28
+VCD-00015
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00015*01
+ OLD evse_id : PT*GLG*E*VCD*00015*01
+VCD-00015
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00015*02
+ OLD evse_id : PT*GLG*E*VCD*00015*02
+VCD-00016
+: 
+ NEW address : Av. Primeiro de Maio 1665, 4485-629 Mindelo
+ OLD address : Av. Primeiro de Maio 1665
+VCD-00016
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00016*01
+ OLD evse_id : PT*GLG*E*VCD*00016*01
+VCD-00016
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00016*02
+ OLD evse_id : PT*GLG*E*VCD*00016*02
+VNG-00119
+: 
+ NEW address : R. Teixeira Lopes, 114
+ OLD address : R. Teixeira Lopes
+VNG-00119
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00119*01
+ OLD evse_id : PT*GLP*E*VNG*00119*01
+VNG-00119
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00119*02
+ OLD evse_id : PT*GLP*E*VNG*00119*02
+VNG-00120
+: 
+ NEW address : R. Teixeira Lopes, 114
+ OLD address : R. Teixeira Lopes
+VNG-00120
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVNG*00120*01
+ OLD evse_id : PT*GLP*E*VNG*00120*01
+VNG-00120
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVNG*00120*02
+ OLD evse_id : PT*GLP*E*VNG*00120*02
