@@ -36679,3 +36679,253 @@ VCD-00013
 evses -> 1: 
  NEW evse_id : PT*GLG*EVCD*00013*02
  OLD evse_id : PT*GLG*E*VCD*00013*02
+
+2025-01-24 19:36:47
+Adicionados:['ABF-00096', 'ABF-00097', 'CSC-90005', 'MOBI-LSB-00082', 'MOBI-LSB-00083', 'MOBI-LSB-00084', 'MOBI-LSB-00085', 'MOBI-LSB-00086', 'MOBI-LSB-00087', 'MOBI-LSB-00089', 'MOBI-LSB-00090', 'MOBI-LSB-00091', 'MOBI-LSB-00092', 'MOBI-LSB-00093', 'MOBI-LSB-00094', 'MOBI-LSB-00095', 'MOBI-LSB-00096', 'MOBI-LSB-00097', 'MOBI-LSB-00098', 'MOBI-LSB-00099', 'MOBI-LSB-00101', 'MOBI-LSB-00102', 'MOBI-LSB-00103', 'MOBI-LSB-00104', 'MOBI-LSB-00105', 'MOBI-LSB-00106', 'MOBI-LSB-00107', 'MOBI-LSB-00108', 'MOBI-LSB-00109', 'MOBI-LSB-00110', 'MOBI-LSB-00111', 'MOBI-LSB-00112', 'MOBI-LSB-00113', 'MOBI-LSB-00114', 'MOBI-LSB-00115', 'MOBI-LSB-00116', 'SNT-00165', 'SNT-00173', 'SNT-00174']
+
+ABF-00096 --> LOG 37.08266 -8.312223 Albufeira Sítio Vale do Rabelho, Urbanização Setobra 53
+PT*LOG*E*ABF*00096*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-24T14:02:52.810Z'}]
+
+ABF-00097 --> LOG 37.08266 -8.312223 Albufeira Sítio Vale do Rabelho, Urbanização Setobra 53
+PT*LOG*E*ABF*00097*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-24T14:03:58.573Z'}]
+
+CSC-90005 --> EDP 38.7011001 -9.3865722 Cascais Avenida Florinda Leal
+PT*EDP*E*CSC*90005*1[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.514Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+PT*EDP*E*CSC*90005*2[{'format': 'SOCKET', 'standard': 'IEC_62196_T2', 'max_voltage': 400, 'last_updated': '2023-08-08T16:36:44.514Z', 'max_amperage': 32, 'max_electric_power': 22000}]
+
+MOBI-LSB-00082 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00082*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:23:54.670Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00083 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00083*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:24:33.179Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00084 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00084*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:22:04.555Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00085 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00085*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:28:01.516Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00086 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00086*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:28:40.559Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00087 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00087*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:29:53.817Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00089 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00089*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:31:07.478Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00090 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00090*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:31:56.752Z', 'max_voltage': 400, 'max_amperage': 16, 'max_electric_power': 11000}]
+
+MOBI-LSB-00091 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00091*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:16:30.809Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00092 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00092*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:17:41.190Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00093 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00093*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:33:05.128Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00094 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00094*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:33:43.539Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00095 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00095*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:34:50.060Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00096 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00096*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:35:47.085Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00097 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00097*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:36:40.347Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00098 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00098*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:38:16.697Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00099 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00099*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:37:05.089Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00101 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00101*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:02:43.137Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00102 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00102*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:03:11.561Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+PT*GLP*E*MOBI*LSB*00102*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-24T15:03:11.559Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00103 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00103*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:02:13.323Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00104 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00104*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:03:24.876Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+PT*GLP*E*MOBI*LSB*00104*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-24T15:03:24.874Z', 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00105 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00105*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T12:50:21.570Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00106 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00106*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:33:33.456Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00107 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00107*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T17:31:50.468Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00108 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00108*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:03:29.002Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00109 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00109*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:02:52.739Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00110 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00110*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T14:59:24.980Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00111 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00111*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T14:59:47.486Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00112 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00112*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T14:56:03.339Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00113 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00113*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:01:01.577Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00114 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00114*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:01:07.710Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00115 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00115*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:01:14.090Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+MOBI-LSB-00116 --> GLP 38.757204 -9.176067 Lisboa RUA TOMÁS DA FONSECA TORRE A PISO -1
+PT*GLP*EMOBI*LSB*00116*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-24T15:01:20.860Z', 'max_voltage': 240, 'max_amperage': 16, 'max_electric_power': 3700}]
+
+SNT-00165 --> REP 38.8004033 -9.3617650 Sintra AV ALM G COUTINHO-EST MUNI 623
+PT*REP*E*SNT*00165*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 250, 'max_electric_power': 50000, 'last_updated': '2025-01-24T16:01:07.261Z'}, {'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 500, 'max_electric_power': 50000, 'last_updated': '2025-01-24T16:01:07.261Z'}, {'standard': 'IEC_62196_T2', 'format': 'CABLE', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-24T16:01:07.261Z'}]
+
+SNT-00173 --> EDP 38.7821290 -9.3575426 Sintra Decathlon Sintra - Rua da Republica da Coreia
+PT*EDP*E*SNT*00173*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-24T14:35:34.565Z'}]
+PT*EDP*E*SNT*00173*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 120000, 'last_updated': '2025-01-24T14:35:34.565Z'}]
+
+SNT-00174 --> EDP 38.7821290 -9.3575426 Sintra Decathlon Sintra - Rua da Republica da Coreia
+PT*EDP*E*SNT*00174*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-24T14:45:27.507Z'}]
+PT*EDP*E*SNT*00174*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 1000, 'max_amperage': 200, 'max_electric_power': 60000, 'last_updated': '2025-01-24T14:45:27.507Z'}]
+Removidos:[]
+MOBI-LSB-00100
+: 
+ NEW address : RUA TOMÁS DA FONSECA TORRE A PISO -1
+ OLD address : Rua Tomás da Fonseca
+MOBI-LSB-00100
+evses -> 0: 
+ NEW evse_id : PT*GLP*EMOBI*LSB*00100*01
+ OLD evse_id : PT*GLP*E*MOBI*LSB*00100*1
+OER-00231
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 500
+OER-00231
+evses -> 0 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 120
+OER-00231
+evses -> 0 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 60000
+OER-00231
+evses -> 1 -> connectors -> 0: 
+ NEW max_amperage : 200
+ OLD max_amperage : 250
+VCT-00022
+: 
+ NEW address : LUGAR DA CONCHADA - MAZAREFES
+ OLD address : Lugar da Conchada
+VCT-00022
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVCT*00022*01
+ OLD evse_id : PT*GLP*E*VCT*00022*01
+VCT-00022
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVCT*00022*02
+ OLD evse_id : PT*GLP*E*VCT*00022*02
+VCT-00022
+evses -> 2: 
+ NEW evse_id : PT*GLP*EVCT*00022*03
+ OLD evse_id : PT*GLP*E*VCT*00022*03
+VCT-00023
+: 
+ NEW address : LUGAR DA CONCHADA - MAZAREFES
+ OLD address : Lugar da Conchada
+VCT-00023
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVCT*00023*01
+ OLD evse_id : PT*GLP*E*VCT*00023*01
+VCT-00023
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVCT*00023*02
+ OLD evse_id : PT*GLP*E*VCT*00023*02
+VCT-00024
+: 
+ NEW address : AVENIDA DA IGREJA - Lugar da Grela - Meadela
+ OLD address : Avenida da Igreja
+VCT-00024
+coordinates: 
+ NEW latitude : 41.707090
+ OLD latitude : 41.70709
+VCT-00024
+coordinates: 
+ NEW longitude : -8.802740
+ OLD longitude : -8.80274
+VCT-00024
+: 
+ NEW coordinates : {'latitude': '41.707090', 'longitude': '-8.802740'}
+ OLD coordinates : {'latitude': '41.70709', 'longitude': '-8.80274'}
+VCT-00024
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCT*00024*01
+ OLD evse_id : PT*GLG*E*VCT*00024*01
+VCT-00024
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCT*00024*02
+ OLD evse_id : PT*GLG*E*VCT*00024*02
+VCT-00024
+evses -> 2: 
+ NEW evse_id : PT*GLG*EVCT*00024*03
+ OLD evse_id : PT*GLG*E*VCT*00024*03
+VCT-00029
+: 
+ NEW address : Posto GALP - AVENIDA 25 DE ABRIL
+ OLD address : Av. 25 de Abril
+VCT-00029
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCT*00029*01
+ OLD evse_id : PT*GLG*E*VCT*00029*01
+VCT-00029
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCT*00029*02
+ OLD evse_id : PT*GLG*E*VCT*00029*02
+VCT-00030
+: 
+ NEW address : RUA DE MONSERRATE (E.N. 13 - Km 68,926)
+ OLD address : R. Nossa Sra de Monsserrate E.N. 13 Km 68,926
+VCT-00030
+coordinates: 
+ NEW longitude : -8.843530
+ OLD longitude : -8.84353
+VCT-00030
+: 
+ NEW coordinates : {'latitude': '41.696694', 'longitude': '-8.843530'}
+ OLD coordinates : {'latitude': '41.696694', 'longitude': '-8.84353'}
+VCT-00030
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCT*00030*01
+ OLD evse_id : PT*GLG*E*VCT*00030*01
+VCT-00030
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCT*00030*02
+ OLD evse_id : PT*GLG*E*VCT*00030*02
+VCT-00054
+evses -> 0: 
+ NEW evse_id : PT*GLP*EVCT*00054*01
+ OLD evse_id : PT*GLP*E*VCT*00054*01
+VCT-00054
+evses -> 1: 
+ NEW evse_id : PT*GLP*EVCT*00054*02
+ OLD evse_id : PT*GLP*E*VCT*00054*02
+VCT-90005
+: 
+ NEW address : RUA AQUILINO RIBEIRO
+ OLD address : Rua Aquilino Ribeiro
