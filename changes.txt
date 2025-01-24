@@ -36063,3 +36063,619 @@ VNG-00120
 evses -> 1: 
  NEW evse_id : PT*GLP*EVNG*00120*02
  OLD evse_id : PT*GLP*E*VNG*00120*02
+
+2025-01-24 12:45:33
+Adicionados:['LRS-00133', 'LSB-00846', 'MOBI-LSB-00260', 'MOBI-LSB-00261', 'MOBI-LSB-00262', 'MOBI-LSB-00263', 'MOBI-LSB-00264', 'MOBI-LSB-00265', 'MOBI-LSB-00266', 'NLS-00005', 'NLS-00006', 'NLS-00007', 'PDL-00015', 'STS-00030', 'STS-00031']
+
+LRS-00133 --> PRI 38.8455329 -9.1621866 Loures EN115 Rua Casal do Letrado, 2660-140 Loures
+PT*PRI*E*LRS*00133*01[{'standard': 'CHADEMO', 'format': 'CABLE', 'max_voltage': 500, 'max_amperage': 120, 'max_electric_power': 60000, 'last_updated': '2025-01-23T11:59:30.027Z'}]
+PT*PRI*E*LRS*00133*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 950, 'max_amperage': 250, 'max_electric_power': 90000, 'last_updated': '2025-01-23T11:59:30.027Z'}]
+
+LSB-00846 --> PRI 38.7882176 -9.1461381 Lisboa Rua Hermínio da Palma Inácio, Lisboa
+PT*PRI*E*LSB*00846*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 150000, 'last_updated': '2025-01-23T14:01:57.448Z'}]
+PT*PRI*E*LSB*00846*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 920, 'max_amperage': 400, 'max_electric_power': 150000, 'last_updated': '2025-01-23T14:01:57.448Z'}]
+
+MOBI-LSB-00260 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00260*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:19.903Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00260*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:19.901Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00261 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00261*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:28.105Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00261*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:28.085Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00262 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00262*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:34.556Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00262*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:34.555Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00263 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00263*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:41.505Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00263*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:41.504Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00264 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00264*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:48.967Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00264*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:48.966Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00265 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00265*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:56:56.650Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00265*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:56:56.649Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+MOBI-LSB-00266 --> GLP 38.7568273 -9.1753785 Lisboa Rua Tomás da Fonseca
+PT*GLP*EMOBI*LSB*00266*01[{'standard': 'IEC_62196_T2', 'format': 'CABLE', 'last_updated': '2025-01-23T15:57:11.922Z', 'max_voltage': 240, 'max_amperage': 32, 'max_electric_power': 7400}]
+PT*GLP*E*MOBI*LSB*00266*1[{'format': 'CABLE', 'standard': 'IEC_62196_T2', 'max_voltage': 240, 'last_updated': '2025-01-23T15:57:11.920Z', 'max_amperage': 32, 'max_electric_power': 7400}]
+
+NLS-00005 --> HRZ 40.5391380 -7.8555762 Nelas Av. Prof. Dr. Fortunato de Almeida 8-7
+PT*HRZ*E*NLS*00005*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2025-01-24T08:48:22.456Z'}]
+PT*HRZ*E*NLS*00005*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2025-01-24T08:48:22.456Z'}]
+
+NLS-00006 --> HRZ 40.5391380 -7.8555762 Nelas Av. Prof. Dr. Fortunato de Almeida 8-7
+PT*HRZ*E*NLS*00006*01[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2025-01-24T08:48:47.931Z'}]
+PT*HRZ*E*NLS*00006*02[{'standard': 'IEC_62196_T2_COMBO', 'format': 'CABLE', 'max_voltage': 800, 'max_amperage': 200, 'max_electric_power': 160000, 'last_updated': '2025-01-24T08:48:47.931Z'}]
+
+NLS-00007 --> HRZ 40.5391380 -7.8555762 Nelas Av. Prof. Dr. Fortunato de Almeida 8-7
+PT*HRZ*E*NLS*00007*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-23T14:44:36.596Z'}]
+
+PDL-00015 --> SEG 37.763644 -25.625831 Ponta Delgada FURNAS E COMPANHIA - Est. Reg. Rib Grande
+PT*SEG*E*PDL*00015*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-24T12:26:13.096Z'}]
+
+STS-00030 --> HGP 41.361487 -8.407958 Santo Tirso Avenida 4 de Abril de 1955
+PT*HGP*E*STS*00030*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-22T16:13:48.296Z'}]
+
+STS-00031 --> HGP 41.361487 -8.407958 Santo Tirso Avenida 4 de Abril de 1955
+PT*HGP*E*STS*00031*01[{'standard': 'IEC_62196_T2', 'format': 'SOCKET', 'max_voltage': 400, 'max_amperage': 32, 'max_electric_power': 22000, 'last_updated': '2025-01-22T16:13:44.285Z'}]
+Removidos:['AJT-00015', 'AJT-00016', 'AJT-00017', 'AJT-00018', 'LSB-00512', 'LSB-00513']
+AMD-00072
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00072
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00072*01
+ OLD evse_id : PT*GLP*E*AMD*00072*01
+AMD-00072
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00072*02
+ OLD evse_id : PT*GLP*E*AMD*00072*02
+AMD-00073
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00073
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00073*01
+ OLD evse_id : PT*GLP*E*AMD*00073*01
+AMD-00073
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00073*02
+ OLD evse_id : PT*GLP*E*AMD*00073*02
+AMD-00074
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00074
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00074*01
+ OLD evse_id : PT*GLP*E*AMD*00074*01
+AMD-00074
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00074*02
+ OLD evse_id : PT*GLP*E*AMD*00074*02
+AMD-00075
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00075
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00075*01
+ OLD evse_id : PT*GLP*E*AMD*00075*01
+AMD-00075
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00075*02
+ OLD evse_id : PT*GLP*E*AMD*00075*02
+AMD-00076
+: 
+ NEW address : Zona Ind de Alfragide Estrada Nacional 117
+ OLD address : Estrada Nacional 117
+AMD-00076
+evses -> 0: 
+ NEW evse_id : PT*GLP*EAMD*00076*01
+ OLD evse_id : PT*GLP*E*AMD*00076*01
+AMD-00076
+evses -> 1: 
+ NEW evse_id : PT*GLP*EAMD*00076*02
+ OLD evse_id : PT*GLP*E*AMD*00076*02
+CMN-00004
+evses -> 0: 
+ NEW evse_id : PT*GLP*ECMN*00004*01
+ OLD evse_id : PT*GLP*E*CMN*00004*01
+CMN-00004
+evses -> 1: 
+ NEW evse_id : PT*GLP*ECMN*00004*02
+ OLD evse_id : PT*GLP*E*CMN*00004*02
+CMN-00004
+evses -> 2: 
+ NEW evse_id : PT*GLP*ECMN*00004*03
+ OLD evse_id : PT*GLP*E*CMN*00004*03
+CMN-00005
+evses -> 0: 
+ NEW evse_id : PT*GLP*ECMN*00005*01
+ OLD evse_id : PT*GLP*E*CMN*00005*01
+CMN-00005
+evses -> 1: 
+ NEW evse_id : PT*GLP*ECMN*00005*02
+ OLD evse_id : PT*GLP*E*CMN*00005*02
+CMN-00005
+evses -> 2: 
+ NEW evse_id : PT*GLP*ECMN*00005*03
+ OLD evse_id : PT*GLP*E*CMN*00005*03
+CMN-00024
+: 
+ NEW address : Estrada Nacional 13 ao Km 79.7
+ OLD address : Estrada Nacional 13, Km 79.7
+CMN-00024
+evses -> 0: 
+ NEW evse_id : PT*GLP*ECMN*00024*01
+ OLD evse_id : PT*GLP*E*CMN*00024*01
+CMN-00024
+evses -> 1: 
+ NEW evse_id : PT*GLP*ECMN*00024*02
+ OLD evse_id : PT*GLP*E*CMN*00024*02
+CMN-00025
+: 
+ NEW address : Estrada Nacional 13 ao Km 79.7
+ OLD address : Estrada Nacional 13, Km 79.7
+CMN-00025
+evses -> 0: 
+ NEW evse_id : PT*GLP*ECMN*00025*01
+ OLD evse_id : PT*GLP*E*CMN*00025*01
+CMN-00025
+evses -> 1: 
+ NEW evse_id : PT*GLP*ECMN*00025*02
+ OLD evse_id : PT*GLP*E*CMN*00025*02
+CMN-00026
+: 
+ NEW address : Estrada Nacional 13 ao Km 79.7
+ OLD address : Estrada Nacional 13, Km 79.7
+CMN-00026
+evses -> 0: 
+ NEW evse_id : PT*GLP*ECMN*00026*01
+ OLD evse_id : PT*GLP*E*CMN*00026*01
+CMN-00026
+evses -> 1: 
+ NEW evse_id : PT*GLP*ECMN*00026*02
+ OLD evse_id : PT*GLP*E*CMN*00026*02
+EPS-00008
+: 
+ NEW address : Al. do Bom Jesus, 4740-322 Fão
+ OLD address : Al. do Bom Jesus
+EPS-00008
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00008*01
+ OLD evse_id : PT*GLP*E*EPS*00008*01
+EPS-00008
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00008*02
+ OLD evse_id : PT*GLP*E*EPS*00008*02
+EPS-00009
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00009*01
+ OLD evse_id : PT*GLP*E*EPS*00009*01
+EPS-00009
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00009*02
+ OLD evse_id : PT*GLP*E*EPS*00009*02
+EPS-00010
+: 
+ NEW address : Rua de São Lourenço, 4740-001
+ OLD address : Rua de São Lourenço
+EPS-00010
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00010*01
+ OLD evse_id : PT*GLP*E*EPS*00010*01
+EPS-00010
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00010*02
+ OLD evse_id : PT*GLP*E*EPS*00010*02
+EPS-00012
+: 
+ NEW address : R. de Alvre 16, 4740-018 Guilheta e Outeiro
+ OLD address : R. de Alvre 16
+EPS-00012
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00012*01
+ OLD evse_id : PT*GLP*E*EPS*00012*01
+EPS-00012
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00012*02
+ OLD evse_id : PT*GLP*E*EPS*00012*02
+EPS-00014
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00014*01
+ OLD evse_id : PT*GLP*E*EPS*00014*01
+EPS-00014
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00014*02
+ OLD evse_id : PT*GLP*E*EPS*00014*02
+EPS-00016
+: 
+ NEW address : Avenida de Goios, 4740-531 Esposende
+ OLD address : Avenida de Goios
+EPS-00016
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00016*01
+ OLD evse_id : PT*GLP*E*EPS*00016*01
+EPS-00016
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00016*02
+ OLD evse_id : PT*GLP*E*EPS*00016*02
+EPS-00017
+: 
+ NEW address : Largo Foz do Cávado, 4740-212 Esposende
+ OLD address : Largo Foz do Cávado
+EPS-00017
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00017*01
+ OLD evse_id : PT*GLP*E*EPS*00017*01
+EPS-00017
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00017*02
+ OLD evse_id : PT*GLP*E*EPS*00017*02
+EPS-00018
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00018*01
+ OLD evse_id : PT*GLP*E*EPS*00018*01
+EPS-00018
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00018*02
+ OLD evse_id : PT*GLP*E*EPS*00018*02
+EPS-00018
+: 
+ NEW mobie_voltage_level : BTE
+ OLD mobie_voltage_level : BTN
+EPS-00019
+: 
+ NEW address : Rua Sobreira da Costa, 4740-183 Curvos
+ OLD address : Rua Sobreira da Costa
+EPS-00019
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00019*01
+ OLD evse_id : PT*GLP*E*EPS*00019*01
+EPS-00019
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00019*02
+ OLD evse_id : PT*GLP*E*EPS*00019*02
+EPS-00020
+: 
+ NEW address : RUA DO CONEGO 9000 14 APULIA
+ OLD address : RUA DO CONEGO 9000 14 
+EPS-00020
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00020
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00020*01
+ OLD evse_id : PT*GLP*E*EPS*00020*01
+EPS-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00020
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00020*02
+ OLD evse_id : PT*GLP*E*EPS*00020*02
+EPS-00023
+: 
+ NEW address : RUA DE SAO MIGUEL S/N ESPOSENDE
+ OLD address : RUA DE SAO MIGUEL S/N
+EPS-00023
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00023
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00023*01
+ OLD evse_id : PT*GLP*E*EPS*00023*01
+EPS-00023
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00023
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00023*02
+ OLD evse_id : PT*GLP*E*EPS*00023*02
+EPS-00024
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00024*01
+ OLD evse_id : PT*GLP*E*EPS*00024*01
+EPS-00024
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00024*02
+ OLD evse_id : PT*GLP*E*EPS*00024*02
+EPS-00025
+: 
+ NEW address : AVENIDA MARGINAL DE CEDOVEM S/N APULIA
+ OLD address : AVENIDA MARGINAL DE CEDOVEM S/N
+EPS-00025
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00025
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00025*01
+ OLD evse_id : PT*GLP*E*EPS*00025*01
+EPS-00025
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 550
+ OLD max_voltage : 600
+EPS-00025
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00025*02
+ OLD evse_id : PT*GLP*E*EPS*00025*02
+EPS-00027
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00027*01
+ OLD evse_id : PT*GLP*E*EPS*00027*01
+EPS-00027
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00027*02
+ OLD evse_id : PT*GLP*E*EPS*00027*02
+EPS-00028
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00028*01
+ OLD evse_id : PT*GLP*E*EPS*00028*01
+EPS-00028
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00028*02
+ OLD evse_id : PT*GLP*E*EPS*00028*02
+EPS-00029
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00029*01
+ OLD evse_id : PT*GLP*E*EPS*00029*01
+EPS-00029
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00029*02
+ OLD evse_id : PT*GLP*E*EPS*00029*02
+EPS-00030
+coordinates: 
+ NEW latitude : 41.512610
+ OLD latitude : 41.51261
+EPS-00030
+coordinates: 
+ NEW longitude : -8.769970
+ OLD longitude : -8.76997
+EPS-00030
+: 
+ NEW coordinates : {'latitude': '41.512610', 'longitude': '-8.769970'}
+ OLD coordinates : {'latitude': '41.51261', 'longitude': '-8.76997'}
+EPS-00030
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00030*01
+ OLD evse_id : PT*GLP*E*EPS*00030*01
+EPS-00030
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00030*02
+ OLD evse_id : PT*GLP*E*EPS*00030*02
+EPS-00031
+: 
+ NEW address : AV ENGENHEIRO EDUARDO ARANTES E OLIVEIRA S/N
+ OLD address : AVENIDA ENGENHEIRO EDUARDO ARANTES E OLIVEIRA
+EPS-00031
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00031*01
+ OLD evse_id : PT*GLP*E*EPS*00031*01
+EPS-00031
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00031*02
+ OLD evse_id : PT*GLP*E*EPS*00031*02
+EPS-00032
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00032*01
+ OLD evse_id : PT*GLP*E*EPS*00032*01
+EPS-00032
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00032*02
+ OLD evse_id : PT*GLP*E*EPS*00032*02
+EPS-00033
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00033*01
+ OLD evse_id : PT*GLP*E*EPS*00033*01
+EPS-00033
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00033*02
+ OLD evse_id : PT*GLP*E*EPS*00033*02
+EPS-00034
+: 
+ NEW address : Rua Padre Cândido Rodrigues Saloio
+ OLD address : Rua Padre Cândido Rodrigues Saloio, 4740-611 
+EPS-00034
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00034*01
+ OLD evse_id : PT*GLP*E*EPS*00034*01
+EPS-00034
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00034*02
+ OLD evse_id : PT*GLP*E*EPS*00034*02
+EPS-00035
+: 
+ NEW address : RUA DO OUTEIRO S/N OUTEIRO - VILA CHA EPS
+ OLD address : RUA DO OUTEIRO S/N OUTEIRO 4740-637 VILA CHA 
+EPS-00035
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00035*01
+ OLD evse_id : PT*GLP*E*EPS*00035*01
+EPS-00035
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00035*02
+ OLD evse_id : PT*GLP*E*EPS*00035*02
+EPS-00036
+evses -> 0 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 400
+EPS-00036
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00036*01
+ OLD evse_id : PT*GLP*E*EPS*00036*01
+EPS-00036
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+EPS-00036
+evses -> 1 -> connectors -> 0: 
+ NEW format : CABLE
+ OLD format : SOCKET
+EPS-00036
+evses -> 1 -> connectors -> 0: 
+ NEW max_voltage : 950
+ OLD max_voltage : 400
+EPS-00036
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00036*02
+ OLD evse_id : PT*GLP*E*EPS*00036*02
+EPS-00037
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00037*01
+ OLD evse_id : PT*GLP*E*EPS*00037*01
+EPS-00037
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00037*02
+ OLD evse_id : PT*GLP*E*EPS*00037*02
+EPS-00038
+: 
+ NEW address : AVENIDA DA IGREJA S/N OUTEIRO
+ OLD address : AVENIDA DA IGREJA S/N OUTEIRO 	4740-421
+EPS-00038
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+EPS-00038
+evses -> 0: 
+ NEW evse_id : PT*GLP*EEPS*00038*01
+ OLD evse_id : PT*GLP*E*EPS*00038*01
+EPS-00038
+evses -> 1 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2_COMBO
+ OLD standard : IEC_62196_T2
+EPS-00038
+evses -> 1: 
+ NEW evse_id : PT*GLP*EEPS*00038*02
+ OLD evse_id : PT*GLP*E*EPS*00038*02
+PVZ-00003
+: 
+ NEW address : PRAÇA LUÍS DE CAMÕES
+ OLD address : Praça Luís de Camões
+PVZ-00003
+coordinates: 
+ NEW longitude : -8.764530
+ OLD longitude : -8.76453
+PVZ-00003
+: 
+ NEW coordinates : {'latitude': '41.386838', 'longitude': '-8.764530'}
+ OLD coordinates : {'latitude': '41.386838', 'longitude': '-8.76453'}
+PVZ-00003
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPVZ*00003*01
+ OLD evse_id : PT*MLT*E*PVZ*00003*01
+PVZ-00003
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPVZ*00003*02
+ OLD evse_id : PT*MLT*E*PVZ*00003*02
+PVZ-00004
+: 
+ NEW address : PRAÇA LUÍS DE CAMÕES
+ OLD address : Praça Luís de Camões
+PVZ-00004
+coordinates: 
+ NEW longitude : -8.764530
+ OLD longitude : -8.76453
+PVZ-00004
+: 
+ NEW coordinates : {'latitude': '41.386838', 'longitude': '-8.764530'}
+ OLD coordinates : {'latitude': '41.386838', 'longitude': '-8.76453'}
+PVZ-00004
+evses -> 0: 
+ NEW evse_id : PT*MLT*EPVZ*00004*01
+ OLD evse_id : PT*MLT*E*PVZ*00004*01
+PVZ-00004
+evses -> 1: 
+ NEW evse_id : PT*MLT*EPVZ*00004*02
+ OLD evse_id : PT*MLT*E*PVZ*00004*02
+PVZ-00011
+: 
+ NEW address : AV. DO MAR
+ OLD address : Avenida do Mar
+PVZ-00011
+coordinates: 
+ NEW latitude : 41.388930
+ OLD latitude : 41.38893
+PVZ-00011
+coordinates: 
+ NEW longitude : -8.763620
+ OLD longitude : -8.76362
+PVZ-00011
+: 
+ NEW coordinates : {'latitude': '41.388930', 'longitude': '-8.763620'}
+ OLD coordinates : {'latitude': '41.38893', 'longitude': '-8.76362'}
+PVZ-00011
+evses -> 0: 
+ NEW evse_id : PT*GLG*EPVZ*00011*01
+ OLD evse_id : PT*GLG*E*PVZ*00011*01
+PVZ-00011
+evses -> 1: 
+ NEW evse_id : PT*GLG*EPVZ*00011*02
+ OLD evse_id : PT*GLG*E*PVZ*00011*02
+PVZ-00011
+evses -> 2: 
+ NEW evse_id : PT*GLG*EPVZ*00011*03
+ OLD evse_id : PT*GLG*E*PVZ*00011*03
+VCD-00006
+: 
+ NEW address : GAVETO RUA 5 OUT. C/ AV. SAÚL DIAS
+ OLD address : Rua 5 Outubro
+VCD-00006
+coordinates: 
+ NEW latitude : 41.360010
+ OLD latitude : 41.36001
+VCD-00006
+coordinates: 
+ NEW longitude : -8.744450
+ OLD longitude : -8.74445
+VCD-00006
+: 
+ NEW coordinates : {'latitude': '41.360010', 'longitude': '-8.744450'}
+ OLD coordinates : {'latitude': '41.36001', 'longitude': '-8.74445'}
+VCD-00006
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00006*01
+ OLD evse_id : PT*GLG*E*VCD*00006*01
+VCD-00006
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00006*02
+ OLD evse_id : PT*GLG*E*VCD*00006*02
+VCD-00006
+evses -> 2: 
+ NEW evse_id : PT*GLG*EVCD*00006*03
+ OLD evse_id : PT*GLG*E*VCD*00006*03
+VCD-00012
+: 
+ NEW address : Autoestrada do Litoral Norte Km 12
+ OLD address : AE do Litoral Norte A28 - Km 12
+VCD-00012
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00012*01
+ OLD evse_id : PT*GLG*E*VCD*00012*01
+VCD-00012
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00012*02
+ OLD evse_id : PT*GLG*E*VCD*00012*02
+VCD-00013
+: 
+ NEW address : Autoestrada do Litoral Norte Km 12
+ OLD address : AE do Litoral Norte A28 - Km 12
+VCD-00013
+evses -> 0: 
+ NEW evse_id : PT*GLG*EVCD*00013*01
+ OLD evse_id : PT*GLG*E*VCD*00013*01
+VCD-00013
+evses -> 1: 
+ NEW evse_id : PT*GLG*EVCD*00013*02
+ OLD evse_id : PT*GLG*E*VCD*00013*02
