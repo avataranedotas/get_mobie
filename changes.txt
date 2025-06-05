@@ -53926,3 +53926,29 @@ VZL-00002
 evses -> 2: 
  NEW evse_id : PT*GLG*EVZL*00002*03
  OLD evse_id : PT*GLG*E*VZL*00002*03
+
+2025-06-05 11:37:29
+SMG-00002
+coordinates: 
+ NEW latitude : 39.053559
+ OLD latitude : 39.053670
+SMG-00002
+coordinates: 
+ NEW longitude : -8.668107
+ OLD longitude : -8.669440
+SMG-00002
+: 
+ NEW coordinates : {'latitude': '39.053559', 'longitude': '-8.668107'}
+ OLD coordinates : {'latitude': '39.053670', 'longitude': '-8.669440'}
+SMG-00003
+coordinates: 
+ NEW latitude : 39.053559
+ OLD latitude : 39.053670
+SMG-00003
+coordinates: 
+ NEW longitude : -8.668107
+ OLD longitude : -8.669440
+SMG-00003
+: 
+ NEW coordinates : {'latitude': '39.053559', 'longitude': '-8.668107'}
+ OLD coordinates : {'latitude': '39.053670', 'longitude': '-8.669440'}
