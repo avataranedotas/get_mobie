@@ -53952,3 +53952,13 @@ SMG-00003
 : 
  NEW coordinates : {'latitude': '39.053559', 'longitude': '-8.668107'}
  OLD coordinates : {'latitude': '39.053670', 'longitude': '-8.669440'}
+
+2025-06-06 09:29:12
+MTA-00020
+evses -> 0 -> connectors -> 0: 
+ NEW standard : IEC_62196_T2
+ OLD standard : IEC_62196_T2_COMBO
+MTA-00020
+evses -> 1 -> connectors -> 0: 
+ NEW max_electric_power : 120000
+ OLD max_electric_power : 12000
